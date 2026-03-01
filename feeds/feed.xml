@@ -4,42 +4,60 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 09:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 10:33:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 09:37:34 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 10:33:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
-            <pubDate>Sun, 01 Mar 2026 01:39:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat ameer mourns death of Khamenei, calls for immediate de-escalation]]></title>
-            <description><![CDATA[Says attacks during Ramadan would further threaten global peace]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</guid>
+            <title><![CDATA[Iran's Khamenei: Iron-fisted revolutionary atop Islamic republic]]></title>
+            <link>https://www.thedailystar.net/news/world/iran/news/irans-khamenei-iron-fisted-revolutionary-atop-islamic-republic-4117756</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/iran/news/irans-khamenei-iron-fisted-revolutionary-atop-islamic-republic-4117756</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Explainer / Why is the US attacking Iran?]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</guid>
+            <title><![CDATA[At least four Bangladeshis injured in drone attack near Kuwait airport]]></title>
+            <description><![CDATA[Injured Bangladeshis receiving medical support, expatriates’ welfare ministry says]]></description>
+            <link>https://www.thedailystar.net/nrb/news/least-four-bangladeshis-injured-drone-attack-near-kuwait-airport-4117851</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/nrb/news/least-four-bangladeshis-injured-drone-attack-near-kuwait-airport-4117851</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Farmers struggle as saline water ravages Jaban Khan Canal]]></title>
-            <description><![CDATA[Over 400 families in three Patuakhali villages affected by saline water after sluice gate opened]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</guid>
+            <title><![CDATA[Gayle backs West Indies to relive 2016 triumph in virtual semi‑final]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/gayle-backs-west-indies-relive-2016-triumph-virtual-semi-final-4117866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/gayle-backs-west-indies-relive-2016-triumph-virtual-semi-final-4117866</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's supreme leader Khamenei in dates]]></title>
+            <description><![CDATA[Here is a look at his life in key dates]]></description>
+            <link>https://www.thedailystar.net/news/world/iran/news/irans-supreme-leader-khamenei-dates-4117746</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/iran/news/irans-supreme-leader-khamenei-dates-4117746</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India has assured it'll gradually resume full visa operations: Home minister]]></title>
+            <description><![CDATA[Meeting between Salahuddin and Indian envoy also focuses on border killings and bilateral cooperation]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-has-assured-itll-gradually-resume-full-visa-operations-home-minister-4117876</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/india-has-assured-itll-gradually-resume-full-visa-operations-home-minister-4117876</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Live updates / Iran president says Khamenei killing 'declaration of war against Muslims']]></title>
-            <description><![CDATA[IRGC says it is carrying out a sixth wave of attacks in retaliation for the US and Israeli bombardment of Iran. More explosions heard in Dubai, Doha and Manama.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Sat, 28 Feb 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CIA intel guided strikes that killed Iran supreme leader: NYT]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/cia-intel-guided-strikes-killed-iran-supreme-leader-nyt-4117886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/cia-intel-guided-strikes-killed-iran-supreme-leader-nyt-4117886</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roommate killed Obaidullah over argument, dismembered body across Dhaka: Police]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/roommate-killed-obaidullah-over-argument-dismembered-body-across-dhaka-police-4117846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/roommate-killed-obaidullah-over-argument-dismembered-body-across-dhaka-police-4117846</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[PM seeks update on Bangladeshis in Middle East]]></title>
@@ -54,32 +72,22 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran's Khamenei: Iron-fisted revolutionary atop Islamic republic]]></title>
-            <link>https://www.thedailystar.net/news/world/iran/news/irans-khamenei-iron-fisted-revolutionary-atop-islamic-republic-4117756</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/iran/news/irans-khamenei-iron-fisted-revolutionary-atop-islamic-republic-4117756</guid>
+            <title><![CDATA[Suspended flights to Middle East will be rescheduled: civil aviation minister]]></title>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/suspended-flights-middle-east-will-be-rescheduled-civil-aviation-minister-4117861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/suspended-flights-middle-east-will-be-rescheduled-civil-aviation-minister-4117861</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran's supreme leader Khamenei in dates]]></title>
-            <link>https://www.thedailystar.net/news/world/iran/news/irans-supreme-leader-khamenei-dates-4117746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/iran/news/irans-supreme-leader-khamenei-dates-4117746</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updates on Middle East-bound flights from Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/updates-middle-east-bound-flights-bangladesh-4117781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/updates-middle-east-bound-flights-bangladesh-4117781</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local govt poll preparations to begin after Eid: EC]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</guid>
+            <title><![CDATA[Diplomacy as deception: How war on Iran was made inevitable]]></title>
+            <description><![CDATA[By Aishwarya Sanjukta Roy Proma]]></description>
+            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-deception-how-war-iran-was-made-inevitable-4117776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/diplomacy-deception-how-war-iran-was-made-inevitable-4117776</guid>
+            <dc:creator><![CDATA[Aishwarya Sanjukta Roy Proma]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
-            <description><![CDATA[By Asif Bin Ali]]></description>
+            <description><![CDATA[Pakistan knows that invading Afghanistan would be a nightmare: the terrain is unforgiving, the Taliban are experienced guerrilla fighters, and any occupation would trigger wider regional reactions.]]></description>
             <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
             <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
@@ -87,7 +95,7 @@
         </item>
         <item>
             <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
-            <description><![CDATA[The crisis in Bangladesh today is not only political. It is civilisational, linguistic, and epistemic.]]></description>
+            <description><![CDATA[By Ahmed Ashfaque Shahbaz]]></description>
             <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
             <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
@@ -95,18 +103,10 @@
         </item>
         <item>
             <title><![CDATA[Why is there so little discussion on books?]]></title>
-            <description><![CDATA[By Ystiaque Ahmed]]></description>
+            <description><![CDATA[From its very first issue, we have been striving to shape Ebong Boi into an important platform for writers, readers, and publishers. To continue working towards the fulfilment of the dream with which Ebong Boi began its journey seven years ago, we seek the support and companionship of book lovers.]]></description>
             <link>https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</guid>
             <dc:creator><![CDATA[Ystiaque Ahmed]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
-            <description><![CDATA[The removal of Bangladesh Bank Governor Ahsan H Mansur, widely credited with steadying an economy that was on the brink of potential collapse, has been described by many as nothing short of a blunder by the new government.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
-            <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -134,16 +134,16 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Expedite the CMCH burn unit project]]></title>
-            <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
-            <pubDate>Sun, 01 Mar 2026 00:55:00 GMT</pubDate>
+            <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
+            <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
+            <pubDate>Sun, 01 Mar 2026 01:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Private investment hits 11-year low]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/private-investment-hits-11-year-low-4117251</guid>
-            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+            <title><![CDATA[China-based firm to invest $30.47m in Bepza Economic Zone]]></title>
+            <link>https://www.thedailystar.net/business/news/china-based-firm-invest-3047m-bepza-economic-zone-4117881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/china-based-firm-invest-3047m-bepza-economic-zone-4117881</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran prepare for Women's Asian Cup as bombs drop on homeland]]></title>
@@ -152,9 +152,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Habib Wahid to perform Olike’s new song on Eid special ‘Ityadi’]]></title>
-            <link>https://www.thedailystar.net/entertainment/music/news/habib-wahid-perform-olikes-new-song-eid-special-ityadi-4117701</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/habib-wahid-perform-olikes-new-song-eid-special-ityadi-4117701</guid>
+            <title><![CDATA[Arijit Singh releases first independent song after playback exit]]></title>
+            <link>https://www.thedailystar.net/entertainment/news/arijit-singh-releases-first-independent-song-after-playback-exit-4117891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/arijit-singh-releases-first-independent-song-after-playback-exit-4117891</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -206,18 +206,18 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA['That's what she said' on being funny]]></title>
-            <description><![CDATA[Is humour freedom? Is it risk? Is it armour? Is it rebellion? Watch Kaarina Kaisar, social media personality, comedian, and writer, talk to The Daily Star's Naziba Basher on today's episode of...]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/entertainment-multimedia/news/thats-what-she-said-being-funny-4116516</guid>
+            <title><![CDATA[The rise and reign of Khamenei]]></title>
+            <description><![CDATA[The death of Ayatollah Ali Khamenei, the Supreme Leader of Iran, has brought an end to an era in the country’s political history]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/the-rise-and-reign-khamenei-4117906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/the-rise-and-reign-khamenei-4117906</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Watch / Possible US strategies for attack on Iran]]></title>
-            <description><![CDATA[.]]></description>
-            <link>https://www.thedailystar.net/star-multimedia/news/possible-us-strategies-attack-iran-4114491</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/possible-us-strategies-attack-iran-4114491</guid>
-            <pubDate>Wed, 25 Feb 2026 11:07:00 GMT</pubDate>
+            <title><![CDATA[Iranian Revolutionary Guard vows retaliation after Khamenei’s killing]]></title>
+            <description><![CDATA[The Islamic Revolutionary Guard Corps has warned that those responsible for the death of Iran’s supreme leader will not escape retaliation]]></description>
+            <link>https://www.thedailystar.net/star-multimedia/news/iranian-revolutionary-guard-vows-retaliation-after-khameneis-killing-4117896</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/iranian-revolutionary-guard-vows-retaliation-after-khameneis-killing-4117896</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / Facing the most vital election ever]]></title>
