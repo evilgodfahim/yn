@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 08:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 09:37:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 08:40:11 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 09:37:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
@@ -15,31 +15,37 @@
             <pubDate>Sun, 01 Mar 2026 01:39:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jamaat ameer mourns death of Khamenei, calls for immediate de-escalation]]></title>
+            <description><![CDATA[Says attacks during Ramadan would further threaten global peace]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Explainer / Why is the US attacking Iran?]]></title>
-            <description><![CDATA[The United States and Israel launched their most ambitious attacks on Iran in decades on Saturday]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Farmers struggle as saline water ravages Jaban Khan Canal]]></title>
+            <description><![CDATA[Over 400 families in three Patuakhali villages affected by saline water after sluice gate opened]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Key suspect arrested over Pabna double murder; case handed to DB]]></title>
-            <description><![CDATA[Forensic physician at Pabna Medical College collects samples; sexual assault findings pending report]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/key-suspect-arrested-over-pabna-double-murder-case-handed-db-4117736</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/key-suspect-arrested-over-pabna-double-murder-case-handed-db-4117736</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates / Iran launches new wave of strikes against Israel, US bases after death of Khamenei in attack]]></title>
+            <title><![CDATA[Live updates / Iran president says Khamenei killing 'declaration of war against Muslims']]></title>
             <description><![CDATA[IRGC says it is carrying out a sixth wave of attacks in retaliation for the US and Israeli bombardment of Iran. More explosions heard in Dubai, Doha and Manama.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Sat, 28 Feb 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM seeks update on Bangladeshis in Middle East]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-seeks-update-bangladeshis-middle-east-4117816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-seeks-update-bangladeshis-middle-east-4117816</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[8 killed in pro-Iran protest at US consulate in Pakistan: Rescue service]]></title>
@@ -69,12 +75,6 @@
             <title><![CDATA[Local govt poll preparations to begin after Eid: EC]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jamaat ameer mourns death of Khamenei, calls for immediate de-escalation]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-mourns-death-khamenei-calls-immediate-de-escalation-4117731</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
