@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Mar 2026 04:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2026 05:51:58 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Mar 2026 04:46:47 GMT</pubDate>
+        <pubDate>Wed, 04 Mar 2026 05:51:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tk 50 lakh debt mounts as 8,000 chickens die at Bagerhat farm]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[99 DAYS TO GO / The curse of expectation: Favourites and their repeated World Cup heartbreaks]]></title>
+            <description><![CDATA[From Austria’s ‘Wunderteam’ in 1934 to Hungary’s ‘Magical Magyars’ in 1954, or Brazil’s artistic 1982 side, the World Cup stage has repeatedly turned into a graveyard for pre-tournament favourites.]]></description>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-curse-expectation-favourites-and-their-repeated-world-cup-heartbreaks-4120366</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-curse-expectation-favourites-and-their-repeated-world-cup-heartbreaks-4120366</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump threatens to halt US trade with Spain over military bases, defence spending]]></title>
             <link>https://www.thedailystar.net/news/world/usa/news/trump-threatens-halt-us-trade-spain-over-military-bases-defence-spending-4120286</link>
@@ -22,29 +35,22 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[First Semifinal / Perfect Proteas meet resilient Black Caps]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/perfect-proteas-meet-resilient-black-caps-4120331</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/perfect-proteas-meet-resilient-black-caps-4120331</guid>
+            <title><![CDATA[Iran war could raise Bangladesh’s trade costs]]></title>
+            <description><![CDATA[Shipping disruptions, cargo rerouting, and rising freight and insurance costs are set to increase business expenses]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[I really don’t care if Iran plays in World Cup: Donald Trump]]></title>
-            <description><![CDATA["I really don't care. I think Iran is a very badly defeated country. They're running on fumes," Trump told Politico.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/i-really-dont-care-if-iran-plays-world-cup-donald-trump-4120321</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/i-really-dont-care-if-iran-plays-world-cup-donald-trump-4120321</guid>
+            <title><![CDATA[Pentagon identifies first US soldiers killed in Iran war]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/pentagon-identifies-first-us-soldiers-killed-iran-war-4120371</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/pentagon-identifies-first-us-soldiers-killed-iran-war-4120371</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Bombardment unleashes terror in Tehran with no sign of protests]]></title>
-            <description><![CDATA[The airstrikes have killed hundreds of Iranians since Saturday while Israeli and US leaders have voiced hopes they would trigger an uprising]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/bombardment-unleashes-terror-tehran-no-sign-protests-4120326</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/bombardment-unleashes-terror-tehran-no-sign-protests-4120326</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war could raise Bangladesh’s trade costs]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -69,12 +75,6 @@
             <title><![CDATA[US-UK ties ‘not like it used to be’]]></title>
             <link>https://www.thedailystar.net/news/world/news/us-uk-ties-not-it-used-be-4119986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/us-uk-ties-not-it-used-be-4119986</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tk 50 lakh debt mounts as 8,000 chickens die at Bagerhat farm]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tk-50-lakh-debt-mounts-8000-chickens-die-bagerhat-farm-4120316</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -134,9 +134,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deferment or not, Bangladesh must prepare for LDC graduation]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/deferment-or-not-bangladesh-must-prepare-ldc-graduation-4120051</guid>
+            <title><![CDATA[When horror becomes routine]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/when-horror-becomes-routine-4120046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/when-horror-becomes-routine-4120046</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -146,15 +146,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liverpool rocked by last-gasp defeat at Wolves]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/liverpool-rocked-last-gasp-defeat-wolves-4120276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/liverpool-rocked-last-gasp-defeat-wolves-4120276</guid>
+            <title><![CDATA[An eternal cycle of giving and reminding]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/eternal-cycle-giving-and-reminding-4119856</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/eternal-cycle-giving-and-reminding-4119856</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tanjin Tisha addresses Samia Othoi’s assault claim over Manikganj shoot incident]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/tanjin-tisha-addresses-samia-othois-assault-claim-over-manikganj-shoot-incident-4119801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/tanjin-tisha-addresses-samia-othois-assault-claim-over-manikganj-shoot-incident-4119801</guid>
+            <title><![CDATA[Shariful Razz, Sabila Nur join ‘Ityadi’ for Eid special performance]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/shariful-razz-sabila-nur-join-ityadi-eid-special-performance-4120361</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/shariful-razz-sabila-nur-join-ityadi-eid-special-performance-4120361</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
