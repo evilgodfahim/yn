@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 08:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 09:54:37 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 08:54:25 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 09:54:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Intense blasts rattle Doha in latest Iranian attacks]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/intense-blasts-rattle-doha-latest-iranian-attacks-4121501</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/intense-blasts-rattle-doha-latest-iranian-attacks-4121501</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 killed, 476 injured in post-election violence: Odhikar]]></title>
+            <description><![CDATA[Factional and political clashes hit Khulna hardest, rights organisation says]]></description>
+            <link>https://www.thedailystar.net/news/national-election-2026/news/10-killed-476-injured-post-election-violence-odhikar-4121431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/10-killed-476-injured-post-election-violence-odhikar-4121431</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt to review National Film Awards 2023 after questions over jury recommendations]]></title>
+            <link>https://www.thedailystar.net/culture/news/govt-review-national-film-awards-2023-after-questions-over-jury-recommendations-4121451</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/govt-review-national-film-awards-2023-after-questions-over-jury-recommendations-4121451</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tribunal to deliver verdict in Abu Sayed killing case on April 9]]></title>
+            <description><![CDATA[Ex-Begum Rokeya University VC among 30 accused in case over the killing during 2024 quota protests]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/tribunal-deliver-verdict-abu-sayed-killing-case-april-9-4121356</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/tribunal-deliver-verdict-abu-sayed-killing-case-april-9-4121356</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tackling war fallout: Govt eyes power rationing to conserve energy]]></title>
-            <description><![CDATA[The government is preparing to conserve energy and possibly introduce power cuts and rationing as global fuel supplies remain under stress due to the ongoing Middle East war.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/tackling-war-fallout-govt-eyes-power-rationing-conserve-energy-4121221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/tackling-war-fallout-govt-eyes-power-rationing-conserve-energy-4121221</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Semifinal hero Allen says NZ confidence high for final]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/semifinal-hero-allen-says-nz-confidence-high-final-4121426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/semifinal-hero-allen-says-nz-confidence-high-final-4121426</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Updates / War in the Middle East: latest developments]]></title>
-            <description><![CDATA[Here are the latest main events related to the war in the Middle East:]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/war-the-middle-east-latest-developments-4121276</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/war-the-middle-east-latest-developments-4121276</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -54,6 +54,12 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[NCP's Sarjis Alam sparks controversy after chanting slogans inside Sylhet shrine]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/ncps-sarjis-alam-sparks-controversy-after-chanting-slogans-inside-sylhet-shrine-4121481</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/ncps-sarjis-alam-sparks-controversy-after-chanting-slogans-inside-sylhet-shrine-4121481</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Depositors of merged Shariah banks protest at BB for funds]]></title>
             <link>https://www.thedailystar.net/business/news/depositors-merged-shariah-banks-protest-bb-funds-4121421</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/depositors-merged-shariah-banks-protest-bb-funds-4121421</guid>
@@ -69,12 +75,6 @@
             <title><![CDATA[378 Bangladeshis, including stranded Biman crew, return from Dubai on special US-Bangla flight]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/378-bangladeshis-including-stranded-biman-crew-return-dubai-special-us-bangla-flight-4121346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/378-bangladeshis-including-stranded-biman-crew-return-dubai-special-us-bangla-flight-4121346</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 killed, 476 injured in post-election violence: Odhikar]]></title>
-            <link>https://www.thedailystar.net/news/national-election-2026/news/10-killed-476-injured-post-election-violence-odhikar-4121431</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/national-election-2026/news/10-killed-476-injured-post-election-violence-odhikar-4121431</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -149,9 +149,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[First look of ‘Bonolota Express’ sparks curiosity]]></title>
-            <link>https://www.thedailystar.net/entertainment/tv-film/news/first-look-bonolota-express-sparks-curiosity-4121386</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/first-look-bonolota-express-sparks-curiosity-4121386</guid>
+            <title><![CDATA[Swapnadal to celebrate Women’s Day with awards and staging of ‘Helen Keller’]]></title>
+            <link>https://www.thedailystar.net/culture/news/swapnadal-celebrate-womens-day-awards-and-staging-helen-keller-4121486</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/culture/news/swapnadal-celebrate-womens-day-awards-and-staging-helen-keller-4121486</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -312,7 +312,7 @@
             <title><![CDATA[Today's Gallery (2026.03.05)]]></title>
             <link>https://www.thedailystar.net/todays-gallery-20260305-4121251</link>
             <guid isPermaLink="true">https://www.thedailystar.net/todays-gallery-20260305-4121251</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Thu, 05 Mar 2026 03:40:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Today's Gallery (2026.03.04)]]></title>
