@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 08:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 09:50:02 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 08:49:54 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 09:50:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Trump says not currently mulling US troops in Iran]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 years after Taqi murder, family demands action on stalled case]]></title>
+            <description><![CDATA[Mourners gather at Narayanganj grave, calling for completion of investigation and submission of charge sheet]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/13-years-after-taqi-murder-family-demands-action-stalled-case-4122161</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/13-years-after-taqi-murder-family-demands-action-stalled-case-4122161</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two killed in bus-microbus collision on Dhaka-Barishal highway]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/two-killed-bus-microbus-collision-dhaka-barishal-highway-4122181</link>
@@ -22,35 +35,28 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pakistani man says Iran forced him into plot to kill Trump]]></title>
-            <link>https://www.thedailystar.net/news/world/news/pakistani-man-says-iran-forced-him-plot-kill-trump-4122126</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/pakistani-man-says-iran-forced-him-plot-kill-trump-4122126</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘A real footballing lesson’: Butler on Bangladesh’s heavy loss to North Korea]]></title>
-            <description><![CDATA[“We played an absolutely fantastic team today, probably one of the best, if not the best, in Asian football," said the Bangladesh coach.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/real-footballing-lesson-butler-bangladeshs-heavy-loss-north-korea-4122151</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/real-footballing-lesson-butler-bangladeshs-heavy-loss-north-korea-4122151</guid>
+            <title><![CDATA[Not consulted on interim govt’s international agreements: Jamaat ameer]]></title>
+            <description><![CDATA[Contradicts foreign minister’s claim of prior consent]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/not-consulted-interim-govts-international-agreements-jamaat-ameer-4122196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/not-consulted-interim-govts-international-agreements-jamaat-ameer-4122196</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Govt urges fuel saving as LNG import cost doubles]]></title>
-            <description><![CDATA[Bangladesh yesterday secured two LNG cargoes from the international spot market after failing to attract bidders for two consecutive days, although at more than double the normal rate.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/govt-urges-fuel-saving-lng-import-cost-doubles-4122011</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-urges-fuel-saving-lng-import-cost-doubles-4122011</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vote counting underway after Nepal's post-Gen Z uprising election]]></title>
-            <link>https://www.thedailystar.net/news/world/news/vote-counting-underway-after-nepals-post-gen-z-uprising-election-4122146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/vote-counting-underway-after-nepals-post-gen-z-uprising-election-4122146</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Fri, 06 Mar 2026 03:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FBI brings Bangladeshi man accused of child sexual exploitation to US from Malaysia]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/fbi-brings-bangladeshi-man-accused-child-sexual-exploitation-us-malaysia-4122176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/fbi-brings-bangladeshi-man-accused-child-sexual-exploitation-us-malaysia-4122176</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Balen Shah's Rastriya Swatantra Party leads in 77 constituencies]]></title>
+            <link>https://www.thedailystar.net/news/world/news/balen-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/balen-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -60,21 +66,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Jamaat, Bangladesh Khelafat Majlis leaders sign condolence book for Khamenei]]></title>
+            <link>https://www.thedailystar.net/news/news/jamaat-bangladesh-khelafat-majlis-leaders-sign-condolence-book-khamenei-4122191</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/news/jamaat-bangladesh-khelafat-majlis-leaders-sign-condolence-book-khamenei-4122191</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[10 injured in suspected gas explosion in Turag]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/10-injured-suspected-gas-explosion-turag-4122111</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/10-injured-suspected-gas-explosion-turag-4122111</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump says not currently mulling US troops in Iran]]></title>
-            <link>https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 years after Taqi murder, family demands action on stalled case]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/13-years-after-taqi-murder-family-demands-action-stalled-case-4122161</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/13-years-after-taqi-murder-family-demands-action-stalled-case-4122161</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -102,11 +102,10 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
-            <description><![CDATA[When the interim government assumed office following the upheaval of July-August 2024, it took on a nation still trembling from shock.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
-            <dc:creator><![CDATA[Zillur Rahman]]></dc:creator>
+            <title><![CDATA[Aurthohin sees lineup change as two members depart]]></title>
+            <description><![CDATA[Bangladeshi rock band Aurthohin has announced a significant lineup change after drummer Mark Don and guitarist Ehtesham Ali revealed they are leaving the group.]]></description>
+            <link>https://www.thedailystar.net/entertainment/music/news/aurthohin-sees-lineup-change-two-members-depart-4122131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/aurthohin-sees-lineup-change-two-members-depart-4122131</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -134,10 +133,10 @@
             <pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Will artificial intelligence widen inequality?]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-artificial-intelligence-widen-inequality-4121846</guid>
-            <pubDate>Fri, 06 Mar 2026 01:00:00 GMT</pubDate>
+            <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
+            <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gas rationing shuts  five urea factories]]></title>
@@ -152,9 +151,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Aurthohin sees lineup change as two members depart]]></title>
-            <link>https://www.thedailystar.net/entertainment/music/news/aurthohin-sees-lineup-change-two-members-depart-4122131</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/music/news/aurthohin-sees-lineup-change-two-members-depart-4122131</guid>
+            <title><![CDATA[‘Lord of the Rings’ director Peter Jackson to receive honorary Palme d’Or at Cannes 2026]]></title>
+            <link>https://www.thedailystar.net/entertainment/news/lord-the-rings-director-peter-jackson-receive-honorary-palme-dor-cannes-2026-4122171</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/lord-the-rings-director-peter-jackson-receive-honorary-palme-dor-cannes-2026-4122171</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
