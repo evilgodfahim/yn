@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 23:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 23:51:57 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 23:27:11 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 23:51:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hotel in Iraqi capital Baghdad struck as attacks on US embassy intercepted]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uLqCfAN.YzuGMHyU2_yG1g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/411981139e16d570f75bbc98be945759.cf.webp" alt="" /></p>No group has claimed responsibility for the attacks, which took place amid the escalating Israel-US war on Iran.]]></description>
+            <link>https://www.yahoo.com/news/articles/hotel-iraqi-capital-baghdad-struck-230011338.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hotel-iraqi-capital-baghdad-struck-230011338.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 23:51:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia has taken 12 settlements in Ukraine as part of general advances, top general says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Kt9kuJ7ubs2DhDyywF_9FQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/efc39040095abba853d72f0eed3c295e.cf.webp" alt="" /></p>MOSCOW, March 16 (Reuters) - Russia has taken control of 12 settlements in Ukraine in the first two weeks of March as part of advances along the front line in eastern and southern Ukraine, Russian]]></description>
             <link>https://www.yahoo.com/news/articles/russia-taken-12-settlements-ukraine-170308892.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-taken-12-settlements-ukraine-170308892.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 16 Mar 2026 23:27:11 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/szFnBpRrBYo0PhFiAHh.oQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/c72dea1630e9b0ee5ec98d9cecca5af3.cf.webp" alt="" /></p>WASHINGTON, March 16 (Reuters) - Secretary of State Marco Rubio has designated as wrongfully detained in Iran 61-year-old Jewish Iranian-American Kamran Hekmati, his cousin said on Monday.]]></description>
             <link>https://www.yahoo.com/news/articles/rubio-designates-iranian-american-kamran-204358875.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-designates-iranian-american-kamran-204358875.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 16 Mar 2026 23:27:11 GMT</pubDate>
         </item>
         <item>
