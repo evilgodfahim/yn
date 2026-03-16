@@ -10,28 +10,6 @@ const MAX_ITEMS = 1000;
   
 fs.mkdirSync("./feeds", { recursive: true });  
   
-// ===== DATE PARSING =====  
-function parseItemDate(raw) {  
-  if (!raw || !raw.trim()) return new Date();  
-  const trimmed = raw.trim();  
-  
-  const relMatch = trimmed.match(/^(\d+)\s+(minute|hour|day)s?\s+ago$/i);  
-  if (relMatch) {  
-    const n    = parseInt(relMatch[1], 10);  
-    const unit = relMatch[2].toLowerCase();  
-    const ms   = unit === "minute" ? n * 60_000  
-               : unit === "hour"   ? n * 3_600_000  
-               :                     n * 86_400_000;  
-    return new Date(Date.now() - ms);  
-  }  
-  
-  const d = new Date(trimmed);  
-  if (!isNaN(d.getTime())) return d;  
-  
-  console.warn(`⚠️  Could not parse date: "${trimmed}" — using now()`);  
-  return new Date();  
-}  
-  
 // ===== FLARESOLVERR =====  
 async function fetchWithFlareSolverr(url) {  
   console.log(`Fetching ${url} via FlareSolverr...`);  
@@ -59,7 +37,6 @@ function loadExistingItems(seen) {
   
     $existing("item").each((_, el) => {  
       const $el  = $existing(el);  
-      // Cheerio xmlMode puts <link> text between CDATA siblings — use guid as fallback  
       const link = $el.find("link").text().trim()  
                 || $el.find("guid").text().trim();  
       if (!link || seen.has(link)) return;  
@@ -86,9 +63,9 @@ function loadExistingItems(seen) {
 async function generateRSS() {  
   try {  
     const htmlContent = await fetchWithFlareSolverr(targetURL);  
-    const $ = cheerio.load(htmlContent);  
-    const freshItems = [];  
-    const seen       = new Set();  
+    const $           = cheerio.load(htmlContent);  
+    const freshItems  = [];  
+    const seen        = new Set();  
   
     // ── Load existing items first so seen is pre-populated ──  
     const existingItems = loadExistingItems(seen);  
@@ -111,7 +88,7 @@ async function generateRSS() {
       const href = $anchor.attr("href");  
       if (!href)  return null;  
       const link = href.startsWith("http") ? href : baseURL + href;  
-      if (seen.has(link)) return null;   // skip duplicates (new or old)  
+      if (seen.has(link)) return null;  
       seen.add(link);  
   
       const $imgDesktop = $el.find("img.sm\\:block").first();  
@@ -120,9 +97,8 @@ async function generateRSS() {
   
       const description = $el.find("p.hidden").first().text().trim();  
       const source      = $el.find("span.truncate.whitespace-nowrap").first().text().trim();  
-      const rawDate     = $el.find("span.label-m-regular.text-tertiary").first().text().trim();  
   
-      return { title, link, thumbnail, description, source, date: parseItemDate(rawDate) };  
+      return { title, link, thumbnail, description, source, date: new Date() };  
     }  
   
     // ── 1. Featured / "Need to Know" hero cards ──  
@@ -151,8 +127,7 @@ async function generateRSS() {
   
     console.log(`🆕 Found ${freshItems.length} new articles`);  
   
-    // ── Merge: new items at the front, old items behind ──  
-    // Then slice to MAX_ITEMS — oldest fall off the end (recycle)  
+    // ── Merge: new items at front, old behind, slice to MAX_ITEMS ──  
     const allItems = [...freshItems, ...existingItems].slice(0, MAX_ITEMS);  
     console.log(`📦 Total items after merge + recycle: ${allItems.length} / ${MAX_ITEMS}`);  
   
@@ -198,7 +173,6 @@ async function generateRSS() {
   } catch (err) {  
     console.error("❌ Error generating RSS:", err.message);  
   
-    // On error, preserve whatever is already in the file — don't overwrite with a placeholder  
     if (!fs.existsSync("./feeds/feed.xml")) {  
       const feed = new RSS({  
         title:       "Yahoo News – World (error fallback)",  
