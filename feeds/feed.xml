@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 22:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 22:57:42 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 22:29:03 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 22:57:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuelan leader sacks defense minister, a Maduro stalwart]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/zH2GfgBlAzhEQGHAxkPxIA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3848301b980d19df6c8104df660050cb.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/venezuelan-president-sacks-defense-minister-200421347.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelan-president-sacks-defense-minister-200421347.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2026 22:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leader of Ecuador-based criminal group Los Lobos arrested in Mexico City]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KuIx3PcPKT34.u.u1nUuBw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/38da70365d45abc5e8feff476924f026.cf.webp" alt="" /></p>Angel Esteban Aguilar is suspected of masterminding the 2023 assassination of an Ecuadorian presidential candidate.]]></description>
+            <link>https://www.yahoo.com/news/articles/leader-ecuador-based-criminal-group-215530029.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/leader-ecuador-based-criminal-group-215530029.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 18 Mar 2026 22:57:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thailand's new parliament set to elect Anutin as PM]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vHfTv8DtbVxyo6RpxOohnw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/2b268ea10c3b7837352a2a4333aeb9fa.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/thailands-parliament-set-elect-anutin-220547453.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/thailands-parliament-set-elect-anutin-220547453.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 18 Mar 2026 22:29:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DIcpM2fX0jTWr4c3kWSCDw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e0570302a8eb09d7877bfae39776b965.cf.webp" alt="" /></p>With trade between the two countries at a record high, Charles is using the visit to highlight the pair’s deep ties.]]></description>
             <link>https://www.yahoo.com/news/articles/nigeria-president-tinubu-meets-royals-214617253.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nigeria-president-tinubu-meets-royals-214617253.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 18 Mar 2026 22:29:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Palestinian medics say 3 Palestinians killed in West Bank from Iranian missile attack.]]></description>
             <link>https://www.yahoo.com/news/articles/palestinian-medics-3-palestinians-killed-213513242.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-medics-3-palestinians-killed-213513242.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 18 Mar 2026 22:29:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/zfIdUYXl4QrP5XOeUbhjiA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/ab6034b0d440df29f4bfa3fba8848957.cf.webp" alt="" /></p>Dozens of masked Israeli settlers stormed into Qusai Abu al-Kebash’s small village last weekend in the middle of the night.]]></description>
             <link>https://www.yahoo.com/news/articles/palestinian-man-west-bank-says-212953185.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-man-west-bank-says-212953185.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Wed, 18 Mar 2026 22:29:03 GMT</pubDate>
         </item>
         <item>
