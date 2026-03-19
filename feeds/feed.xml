@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 21:55:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 22:20:51 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 21:55:31 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 22:20:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Former FBI Director Comey subpoenaed by federal prosecutors, US media reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/awFdwiTFZ0zPzsZtc9R4NA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ae6430f0b5d04bed62143a48affb0741.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/former-fbi-director-comey-subpoenaed-220411971.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/former-fbi-director-comey-subpoenaed-220411971.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 22:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Factbox-Thirteen people died in US immigration custody this year, ICE says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/yQg0G8wP0ZcQG4Plhyn87A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b5b7c24a4eda9f6dbc2b6a925fc6069d.cf.webp" alt="" /></p>By Ted Hesson WASHINGTON, March 19 (Reuters) - At least 13 immigrants have died in U.S. Immigration and Customs Enforcement custody from January 2026 through early March, according to ICE.]]></description>
+            <link>https://www.yahoo.com/news/articles/factbox-eleven-people-died-us-232435191.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-eleven-people-died-us-232435191.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 22:20:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US detects drones over base where Rubio, Hegseth live: Report]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/zDcWigZGvflgkAaCXCSrvw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/528461ac7a9f14e5ddfe10d5ea30850c.cf.webp" alt="" /></p>The Pentagon ​and the ⁠U.S. State Department did not respond to requests for comment.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-detects-drones-over-where-203310599.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-detects-drones-over-where-203310599.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 22:20:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US F-35 aircraft makes emergency landing after a combat mission over Iran]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VtNNNN2fYftVDLqXviYIOg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/bcfc19e59225fc302c57a5cab325d943.cf.webp" alt="" /></p>The F-35 fighter jet landed safely and the pilot is in stable condition, CENTCOM spokesman Captain Tim Hawkins said.]]></description>
             <link>https://www.yahoo.com/news/articles/us-f-35-aircraft-makes-210122616.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-f-35-aircraft-makes-210122616.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 21:55:31 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/y0XBNhTSAaX0yFhQP6Kfhg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/bf0f9c272d7cafb49839f8887a8eaaab.cf.webp" alt="" /></p>Iran has detained hundreds since the war began, including 97 accused of ties to Israel, following the assassination of intelligence minister Esmaeil Khatib in a targeted Israeli strike.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-arrests-97-people-accuses-194913774.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-arrests-97-people-accuses-194913774.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 21:55:31 GMT</pubDate>
         </item>
         <item>
