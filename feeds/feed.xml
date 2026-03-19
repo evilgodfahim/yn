@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Mar 2026 08:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 09:36:24 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pakistani Taliban announces 3-day ceasefire after Pakistan, Afghanistan pause fighting ahead of Eid]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wLnflqp1An6rAHqnhGMsIw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/dfa9059bd8fbc39f058917bba3e536e9.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistani-taliban-announces-3-day-090007613.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistani-taliban-announces-3-day-090007613.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo's dazzling cherry blossom season officially begins]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ga1JnPBUj3ulMtO6_4Q80Q--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c0fd9a0f61f55e62363a1d2e140fb30e.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/tokyos-dazzling-cherry-blossom-season-083821309.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tokyos-dazzling-cherry-blossom-season-083821309.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia says a drone hits SAMREF refinery in the port city of Yanbu on the Red Sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Saudi Arabia says a drone hits SAMREF refinery in the port city of Yanbu on the Red Sea.]]></description>
+            <link>https://www.yahoo.com/news/articles/saudi-arabia-says-drone-hits-082806048.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-arabia-says-drone-hits-082806048.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global oil and natural gas prices soar in wake of Iranian attacks on Gulf energy as Brent crude hits $114]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Global oil and natural gas prices soar in wake of Iranian attacks on Gulf energy as Brent crude hits $114.]]></description>
+            <link>https://www.yahoo.com/news/articles/global-oil-natural-gas-prices-081845072.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/global-oil-natural-gas-prices-081845072.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nepal investigating burning of Xi Jinping's book at university]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NptqvcvkEEUt.TjJ_aYyCQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/60ea2131b0412a14ab926a35463c6b03.cf.webp" alt="" /></p>By Gopal Sharma KATHMANDU, March 19 (Reuters) - Nepal is investigating how some copies of a book authored by Chinese President Xi Jinping were burned at a university in the east of the country after]]></description>
+            <link>https://www.yahoo.com/news/articles/nepal-investigating-burning-xi-jinpings-081749221.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nepal-investigating-burning-xi-jinpings-081749221.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The US is re-evaluating the threat of Chinese military action in Taiwan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/g66L42z4ctkhIJOpPYP.7Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/2089eef58c2a6b80cd0c5aeb129cc38b.cf.webp" alt="" /></p>Recent years have brought heightened concern in Western intelligence circles that China could invade the self-governing island of Taiwan as early as next year. But the United States now says an imminent attack is unlikely.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-evaluating-threat-chinese-military-081456225.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-evaluating-threat-chinese-military-081456225.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What we know on the 20th day of the US and Israel’s war with Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0UW05ZNTYt_JZ69lcegxng--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/0393c7281200ec65e8ca46593dd3a65f.cf.webp" alt="" /></p>Nearly three weeks into the Middle East war, Iran is ramping up attacks on critical energy infrastructure in Arab Gulf states, threatening the world’s energy security and causing global oil prices to surge even higher.]]></description>
+            <link>https://www.yahoo.com/news/articles/know-20th-day-us-israel-073835231.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-20th-day-us-israel-073835231.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 19 Mar 2026 09:36:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JLhfFbQQMpOYMTqcZlmJ3g--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6d1a64b07c5ff65e8fb9169b7c0b66d2.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/lebanon-war-displacement-mar-run-081521724.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-war-displacement-mar-run-081521724.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kKjec9Aj2P8fu.iDfZblfw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5eb0d50c7793e187c797e3936fe2fc66.cf.webp" alt="" /></p>The deployments could help provide Trump with additional options but would further entrench US in a foreign war.]]></description>
             <link>https://www.yahoo.com/news/articles/us-weighs-sending-thousands-troops-080949718.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-weighs-sending-thousands-troops-080949718.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/OEKq1b4ssCkNaRtXxLrMzQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/958debd95724ea4ce5b773aa1530b4ae.cf.webp" alt="" /></p>Saudis have warned of ‘military actions, if necessary’, but Gulf states in ‘diplomatic bind’ as they mull response.]]></description>
             <link>https://www.yahoo.com/news/articles/war-enters-phase-israel-attack-075759536.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-enters-phase-israel-attack-075759536.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -39,7 +92,6 @@
 A drone attack on a refinery owned by Kuwait's national oil company sparked a fire at one of the units, state media said. "Kuwait Petroleum Corporation announced that one of the operational units of the Mina Al-Ahmadi refinery... was the target of a drone attack, triggering a limited fire," the Kuwait News Agency said, adding that no one was injured.]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-074941952.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-074941952.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -47,7 +99,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/i74_XIvr7TGZoArAmMkOqQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/26533ad38edb13c4f7b2df1830974848.cf.webp" alt="" /></p>By Guy Faulconbridge MOSCOW, March 19 (Reuters) - Peace talks between the United States, Russia and Ukraine on ending the Ukraine war, the deadliest European conflict since World War Two, are on pause]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-peace-talks-paused-amid-052858089.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-peace-talks-paused-amid-052858089.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -55,7 +106,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Kuwait says a second oil refinery is ablaze after a drone attack.]]></description>
             <link>https://www.yahoo.com/news/articles/kuwait-says-second-oil-refinery-074108979.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kuwait-says-second-oil-refinery-074108979.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -63,7 +113,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mXSeYLZXU9Hf8o8OjOgWsg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/88c5b061cef3e683559843241d333db4.cf.webp" alt="" /></p>Border closures and rising prices make Eid baking difficult in Gaza, but families persist to keep traditions alive.]]></description>
             <link>https://www.yahoo.com/news/articles/baking-rubble-gaza-woman-keeps-071959388.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/baking-rubble-gaza-woman-keeps-071959388.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -71,7 +120,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Kuwait says a drone attack targeting an oil refinery has sparked a fire.]]></description>
             <link>https://www.yahoo.com/news/articles/kuwait-says-drone-attack-targeting-070846234.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kuwait-says-drone-attack-targeting-070846234.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -79,7 +127,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IrCTaFLNdSJg6ioMMPTHdg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5e1f379cbb2a0acab0d2f0a31a04cd32.cf.webp" alt="" /></p>The UN reports over one million displaced in Lebanon as Israeli attacks escalate, with children accounting for one-third.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-air-raids-devastate-southern-070508559.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-air-raids-devastate-southern-070508559.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -87,7 +134,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/R9RDL5rQNrFjvBEsM39HFA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f7628b1399a4f9d50713d29e4cf33159.cf.webp" alt="" /></p>Thai Prime Minister Anutin Charnvirakul is the scion of a construction dynasty and a hobbyist jet pilot, but championed Thailand's decriminalisation of cannabis and styles himself as a man of the people.Three months after taking office as prime minister last year, Anutin dissolved parliament and called the election, a bet that has paid off handsomely.]]></description>
             <link>https://www.yahoo.com/news/articles/thailands-anutin-millionaire-pm-populist-063245648.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/thailands-anutin-millionaire-pm-populist-063245648.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
@@ -95,7 +141,6 @@ A drone attack on a refinery owned by Kuwait's national oil company sparked a fi
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/k4vSWYtDLrOBz4Drw2lIxw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b19cead295c11aba98c5464776ba174c.cf.webp" alt="" /></p>European Union leaders are holding a summit in Brussels on Thursday for talks on the Iran war, energy prices, migration and an enormous loan for war-ravaged Ukraine being held up by Hungary.  Many of those leaders have deflected entreaties by U.S. President Donald Trump to send military assets to secure the Strait of Hormuz, a key waterway for the global flow of oil, gas and fertilizer.  Rising energy prices because of the war and fears in Europe of a new refugee crisis have pushed leaders to make the Middle East one of the top priorities at the summit.]]></description>
             <link>https://www.yahoo.com/news/articles/european-union-summit-focus-iran-053223284.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/european-union-summit-focus-iran-053223284.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 19 Mar 2026 08:34:00 GMT</pubDate>
         </item>
         <item>
