@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 09:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 10:03:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 10:03:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Germany's Merz faces second state election test on Sunday]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CAbaPfhlxZMx.XOFLBTO.g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8361252420551137093bd2f23aa248f4.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/germanys-merz-faces-second-state-090836812.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/germanys-merz-faces-second-state-090836812.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 20 Mar 2026 10:03:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel strikes Iran’s feared Basij from commanders down to street level, but its grip remains strong]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kavVa7iWaC8Y76o6OPTj0g--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/49bd46b47e29951b22cc6c2100918e05.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/israel-strikes-iran-feared-basij-085256598.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-strikes-iran-feared-basij-085256598.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/eQ7C6Tdr4gtnu2g7NlVIQw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1c286ff87bb69a7ab9fc15859d82ce35.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/look-holds-reins-power-iran-084906282.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/look-holds-reins-power-iran-084906282.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1FuddksydB2.0ZmGVqOP7g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/8b5d3551ad33032e6710b9aca433f042.cf.webp" alt="" /></p>Congolese authorities say 70 children died in a landslide at the Rubaya mine, source of much of the world’s coltan.]]></description>
             <link>https://www.yahoo.com/news/articles/helps-us-survive-poverty-forces-081520023.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/helps-us-survive-poverty-forces-081520023.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IkhukDqr93cj2TLYYR7i7Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/f0344d6c31d46fbfa5c1135bef7efceb.cf.webp" alt="" /></p>Attacks stretch from Kuwait to the UAE as analysts warn conflict is entering a dangerous new phase.]]></description>
             <link>https://www.yahoo.com/news/articles/kuwait-oil-refinery-hit-again-080432773.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kuwait-oil-refinery-hit-again-080432773.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, March 20 (Reuters) - A spokesperson for Iran's Islamic Revolutionary Guard Corps and its deputy of public relations, Ali Mohammad Naini, has been killed in strikes launched by the U.S. and]]></description>
             <link>https://www.yahoo.com/news/articles/spokesperson-irans-revolutionary-guards-killed-075622047.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/spokesperson-irans-revolutionary-guards-killed-075622047.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran's supreme leader says enemies' 'security must be taken away' after intelligence minister's killing.]]></description>
             <link>https://www.yahoo.com/news/articles/irans-supreme-leader-says-enemies-073011430.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-supreme-leader-says-enemies-073011430.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CefIQ6TsgdoAkiaMoHZjUw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/f03ff08986811d0d8854911592773068.cf.webp" alt="" /></p>Tehran has warned of zero restraint if energy facilities are attacked again, while Netanyahu points to ground operation.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-war-happening-day-21-072854169.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-happening-day-21-072854169.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ASwb1nr3QzNlq_Lodsx_cg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/76a4fcc09043435e860e5ee0a081dc4e.cf.webp" alt="" /></p>A deluge of weight‑loss drugs is set to transform the global fight against obesity as India prepares to unleash low‑cost generic versions of injections like Ozempic after a key patent expired Friday.The breakthrough comes as patents on semaglutide--the active ingredient in drugs such as Ozempic and Wegovy--expired Friday in India, the world's largest supplier of generic medicines.]]></description>
             <link>https://www.yahoo.com/news/articles/india-tackle-global-obesity-cheap-070900962.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/india-tackle-global-obesity-cheap-070900962.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +77,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, March 20 (Reuters) - Hu Henghua, mayor of Chongqing, a municipality in southwestern China, was being investigated over suspected "serious" violation of law and discipline, China's top anti-]]></description>
             <link>https://www.yahoo.com/news/articles/chongqing-mayor-under-investigation-chinas-061512394.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/chongqing-mayor-under-investigation-chinas-061512394.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bzZWv3iXMSuyQhZfdmugfg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/7405f8b31f9a6f604b0100f270725f4e.cf.webp" alt="" /></p>A fire at an auto parts factory in South Korea’s central city of Daejeon injured at least 55 people on Friday, with officials warning the toll could rise.  The National Fire Agency said 24 were seriously hurt in a blaze likely caused by an explosion.]]></description>
             <link>https://www.yahoo.com/news/articles/fire-south-korean-auto-parts-060054954.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fire-south-korean-auto-parts-060054954.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 09:04:14 GMT</pubDate>
         </item>
         <item>
