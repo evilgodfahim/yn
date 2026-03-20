@@ -4,16 +4,15 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Mar 2026 23:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Mar 2026 23:50:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Mar 2026 23:22:21 GMT</pubDate>
+        <pubDate>Fri, 20 Mar 2026 23:50:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Australian prime minister heckled at mosque, called 'putrid dog' by protestors]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kLIpeNy6Ot1DRiCaAhs0Qg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/a97a31ba2ff0ce321d4c857c929e5d2b.cf.webp" alt="" /></p>Source: Fox News]]></description>
             <link>https://www.yahoo.com/news/articles/australian-prime-minister-heckled-mosque-210429606.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/australian-prime-minister-heckled-mosque-210429606.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 23:22:21 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +20,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HCzkyn.hyFVRY7V8f8._7A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/6c7ea7370c1b61539d2d5aedd06e0124.cf.webp" alt="" /></p>At least 68 people died during the winter – all but 10 of them over 65 – when record-breaking snow hit the country’s north.]]></description>
             <link>https://www.yahoo.com/news/articles/japan-people-aging-snow-worsens-210033257.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-people-aging-snow-worsens-210033257.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Fri, 20 Mar 2026 23:22:21 GMT</pubDate>
         </item>
         <item>
