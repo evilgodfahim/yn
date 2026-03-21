@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 01:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 03:34:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 03:34:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Record-breaking heat wave grips western US]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cTcRkmkq5al43fCqi_RGqg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/cb2248ad6254ea8d2ac6777d305306f5.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/record-breaking-heat-wave-grips-153002581.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/record-breaking-heat-wave-grips-153002581.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 03:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli military says it is striking Hezbollah targets in Beirut]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 21 (Reuters) - The Israeli military said early on Saturday it was striking Hezbollah targets in Beirut, after issuing an evacuation warning for seven neighborhoods in the southern suburbs of the]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-military-says-striking-hezbollah-002748342.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-military-says-striking-hezbollah-002748342.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 03:34:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Georgia woman faces murder charge after taking abortion pill]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Jasper Ward March 20 (Reuters) - A 31-year-old Georgia woman has been charged with murder after she took abortion medication and gave birth to a premature infant who died within hours, according to]]></description>
+            <link>https://www.yahoo.com/news/articles/georgia-woman-faces-murder-charge-003858576.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/georgia-woman-faces-murder-charge-003858576.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 03:34:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Australia's Northern Territory braces for Tropical Cyclone Narelle impact]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>(Corrects typo in paragraph 1, removes extraneous letter) SYDNEY, March 21 (Reuters) - Tropical Cyclone Narelle was forecast to hit Australia's Northern Territory on Saturday after a day earlier]]></description>
             <link>https://www.yahoo.com/news/articles/australias-northern-territory-braces-tropical-235018480.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/australias-northern-territory-braces-tropical-235018480.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US pauses sanctions on Iranian oil stranded on tankers at sea until April 19, as Washington seeks to curb soaring prices.]]></description>
             <link>https://www.yahoo.com/news/articles/us-pauses-sanctions-iranian-oil-232658249.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-pauses-sanctions-iranian-oil-232658249.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/TD5M44NL7cS39Ih7eX7smQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5c4e08aa4f3226fcd258e945d9d49229.cf.webp" alt="" /></p>Faced with reports that two US prosecutors have opened probes, the left-wing leader denies links to drug traffickers.]]></description>
             <link>https://www.yahoo.com/news/articles/colombia-president-gustavo-petro-under-225809783.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombia-president-gustavo-petro-under-225809783.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Officials say at least 10 people were killed in a South Korean factory fire.]]></description>
             <link>https://www.yahoo.com/news/articles/officials-least-10-people-were-225647565.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/officials-least-10-people-were-225647565.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Jps5lJxZEG..0raTXLX8cg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/26867723944051c5e50544f716f2444b.cf.webp" alt="" /></p>Thousands of Kurds celebrate the new year festival of Nowruz in the hub city of Akra in Iraq's autonomous Kurdistan region.  This year's celebration takes place against the backdrop of the regional war launched against Iran by the U.S. and Israel.  The Kurdish region has faced near-daily attacks from Iran-backed militias targeting U.S. assets and Iranian Kurdish groups.]]></description>
             <link>https://www.yahoo.com/news/articles/kurds-northern-iraq-celebrate-festival-210335973.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kurds-northern-iraq-celebrate-festival-210335973.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 01:17:44 GMT</pubDate>
         </item>
         <item>
