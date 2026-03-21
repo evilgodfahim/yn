@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 09:52:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 10:19:43 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 10:19:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Officials say 14 were killed in fire at South Korean auto parts plant]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.nf1FX7G2pUwCUBCIc3mPA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/878498eb4358052c51632b355b427177.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/officials-14-were-killed-fire-100521105.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/officials-14-were-killed-fire-100521105.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 10:19:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran says its Natanz nuclear facility has been hit in an airstrike as war in Mideast enters week 4]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2AEE6595683C145D45CA8D643B7E6DF6BE56987960FF59B2B10595AEAF859EB4/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe470321265024dae1e2c21170e7262db" alt="" /></p>]]></description>
@@ -20,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BAGHDAD, March 21 (Reuters) - An officer was killed after a drone launched by "outlaw groups" struck near the Iraqi intelligence headquarters in Baghdad on Saturday, the National Intelligence Service]]></description>
             <link>https://www.yahoo.com/news/articles/officer-killed-drone-strike-near-093702944.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/officer-killed-drone-strike-near-093702944.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -28,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21F054237ED7C4A565F6C860E9A916C0E7E4283DFFEE6F245DE9E238ECD7DAFA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fbe0fc5bb5753e7d0cdeba7c495964fa7" alt="" /></p>Report by Francesca Albanese says ‘torture in detention used on unprecedented scale as punitive collective vengeance’.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-systematically-torturing-palestinians-custody-093147789.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-systematically-torturing-palestinians-custody-093147789.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -43,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By David Lewis LONDON, March 21 (Reuters) - The U.S. military has multiple MQ-9 drones operating in Nigeria alongside 200 troops to provide training and intelligence support to the military, which is]]></description>
             <link>https://www.yahoo.com/news/articles/us-drones-deployed-nigeria-alongside-090905361.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-drones-deployed-nigeria-alongside-090905361.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -51,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34E6FCE211477DB7AA54651F6BB36227F71464F9E146D60F05BE8BCADEE5BB10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5321b26d02ca84b7b9948eaf772d957d" alt="" /></p>As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-war-happening-day-22-090701176.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-happening-day-22-090701176.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -59,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F15B7EFA981CA34429A94DD6DC95F7766F8BF442C9E44270056CBF45F0A2D7A7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5a6c9a66aeaa00dcb7f992da71436769" alt="" /></p>By Laila Bassam, Tom Perry, Samia Nakhoul and Maya Gebeily BEIRUT, March 21 (Reuters) - Iran's Revolutionary Guards (IRGC) rebuilt Hezbollah's military command after it was mauled by Israel in 2024,]]></description>
             <link>https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -67,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C23B08FBD2FD3759A700868A4D219C2BD95D3CD0D135AFDB46038DC491D12B4A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd179dbfece4b14063308e83aa13a84b2" alt="" /></p>Japan sources 90 percent of its crude from Middle East and is heavily dependent on exports transiting the key waterway.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-says-allow-japanese-ships-082120354.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-allow-japanese-ships-082120354.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -75,7 +77,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B28C6BAE73679F85C6AD2FB82AC90E8EBA1C465C5E295DC19261958438841DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F33a359f4b4c4afabe7d3c1e438fce99a" alt="" /></p>KYIV, March 21 (Reuters) - Most of Ukraine's northern Chernihiv region was left without power on Saturday after a Russian drone attack, local governor Viacheslav Chaus said.]]></description>
             <link>https://www.yahoo.com/news/articles/most-ukraines-chernihiv-region-without-075632913.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/most-ukraines-chernihiv-region-without-075632913.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -83,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73706AB7E5D7399C512A7586B45D350A80D706F1C43D4DEC8C0CCDD830E3718A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8eba4f35738bb4fed97768a1d94afa36" alt="" /></p>By Guy Faulconbridge and Marina Bobrova MOSCOW, March 21 (Reuters) - Russian President Vladimir Putin congratulated Iranian leaders on Nowruz and said Moscow remained a loyal friend and reliable]]></description>
             <link>https://www.yahoo.com/news/articles/putin-tells-tehran-russia-stands-075215749.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/putin-tells-tehran-russia-stands-075215749.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -91,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C18F02C1002CC08A75361455860610ECBDF06A5F519018BFEEC491CF25ED1054/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F30e5e36fb1836f6e641d324824cd674e" alt="" /></p>March 20 (Reuters) - U.N.]]></description>
             <link>https://www.yahoo.com/news/articles/un-chief-says-cooperating-trump-044447068.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-chief-says-cooperating-trump-044447068.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -99,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 20 (Reuters) - Iran fired two intermediate-range ballistic missiles at Diego Garcia but did not hit the U.S.-U.K. military base in the Indian Ocean, the Wall Street Journal reported on Friday,]]></description>
             <link>https://www.yahoo.com/news/articles/iran-targeted-did-not-hit-004627639.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-targeted-did-not-hit-004627639.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00E3E3D1E9C24399B7E8F5A2922186764E8F0E44374154EBE3E3A5072CE7B855/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F60289044843f2ffea72532e2f7a8cfa0" alt="" /></p>By David Jeans NEW YORK, March 20 (Reuters) - Palantir’s Maven artificial intelligence system will become an official program of record, Deputy Secretary of Defense Steve Feinberg said in a letter to]]></description>
             <link>https://www.yahoo.com/news/articles/exclusive-pentagon-adopt-palantir-ai-232906085.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-pentagon-adopt-palantir-ai-232906085.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -115,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22A23C9B09BA1276651E73288F8DA1A0081CC8D653ED1B2B3CABB9E90BABEC7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcb5fcd094bf6ddcd5999cdcf4c3dd985" alt="" /></p>By Jasper Ward March 20 (Reuters) - Georgia Governor Brian Kemp on Friday suspended the state's gas tax amid rising fuel prices as the U.S.-Israeli war in Iran enters its third week.]]></description>
             <link>https://www.yahoo.com/news/articles/georgia-pauses-gas-tax-60-200456104.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/georgia-pauses-gas-tax-60-200456104.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -123,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78FA7C7CA538EAE58755ED61C4FB738821FAFD7E63A043C03DDCC0572F1298CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa1b1b119b8a231a608f2eaca2af501a4" alt="" /></p>By Andrew Goudsward WASHINGTON, March 20 (Reuters) - The U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/doj-seeks-drop-criminal-case-220022995.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/doj-seeks-drop-criminal-case-220022995.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
@@ -131,7 +126,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8DD287CC8BFD93C0EC71559A20FDACFBF0B8D4D8CC0D4A3385616855F191ECA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcaf2e6c9a3bf88d4174f2fa5441a7ebf" alt="" /></p>By Jack Queen NEW YORK, March 20 (Reuters) - A federal judge on Friday blocked the Trump administration’s restrictive Pentagon press access policy, which threatens journalists with being ​branded]]></description>
             <link>https://www.yahoo.com/news/articles/us-judge-blocks-restrictive-pentagon-211241852.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-judge-blocks-restrictive-pentagon-211241852.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 09:52:54 GMT</pubDate>
         </item>
         <item>
