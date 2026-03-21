@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 17:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 17:48:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 17:19:53 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 17:48:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Former FBI chief Mueller has died, according to MSNOW report]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DAn4Bluk.KV2iXp_qPoV1w--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/12d30b7ea2a9ecdbe0a94eda5605a45a.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/former-fbi-chief-mueller-died-171731896.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/former-fbi-chief-mueller-died-171731896.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 17:48:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bahrain says Patriot system intercepted drone over homes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E31KnJCxatGFNagDDGim6g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1ff6e7b426895693147119e56d095a7c.cf.webp" alt="" /></p>Bahrain’s account differs from how the US military described the March 9 incident, which led to civilian injuries.]]></description>
+            <link>https://www.yahoo.com/news/articles/bahrain-says-patriot-system-intercepted-160246632.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahrain-says-patriot-system-intercepted-160246632.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 17:48:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From Gaza to Lebanon, doctor races against time to treat war-wounded children]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/THbkvQK99ONInISyn1lE6g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/d3f0461505e465bacf1f56f75f58bff8.cf.webp" alt="" /></p>During almost three weeks of war in Lebanon, British-Palestinian doctor Ghassan Abu-Sittah has had no respite, telling AFP he has been working "against the clock" to save children wounded in Israeli bombardment.In 2024, the doctor created the Ghassan Abu-Sittah Children's Fund, which aims to provide medical care in Gaza and Lebanon and ongoing support to wounded children after they leave hospital.]]></description>
             <link>https://www.yahoo.com/news/articles/gaza-lebanon-doctor-races-against-160058600.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gaza-lebanon-doctor-races-against-160058600.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 17:19:53 GMT</pubDate>
         </item>
         <item>
