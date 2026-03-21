@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 23:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 23:45:48 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 23:18:05 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 23:45:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Records shattered as US heatwave moves eastward]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/t.2luM.2.DWU4i.ZF3c57w--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/16862e51ed4e388ff72ed6d702541cca.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/records-shattered-us-heatwave-moves-232354357.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/records-shattered-us-heatwave-moves-232354357.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 23:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia expels Iran military attache, four embassy staff]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YSz0Fr1G5Ge1irgwwDFtkQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1265f56a7de5fb0a75bff18a3f607a51.cf.webp" alt="" /></p>Move follows attack on Red Sea port of Yanbu, Saudi Arabia’s main oil export outlet, after Iran blocked Hormuz Strait.]]></description>
+            <link>https://www.yahoo.com/news/articles/saudi-arabia-expels-iran-military-230056715.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-arabia-expels-iran-military-230056715.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 23:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran strikes towns near Israel’s nuclear site in escalating tit-for-tat]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4puwWjTr0qMusEWM1dQhJQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/68b59be79f1b098c7d702ad6a6870ace.cf.webp" alt="" /></p>Iran targets Dimona and Arad, injuring nearly 100, in retaliation for an attack on its Natanz nuclear site.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-strikes-towns-near-israel-225724126.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-strikes-towns-near-israel-225724126.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 21 Mar 2026 23:45:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WHO says attack on Sudan hospital killed 64, including 13 children]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3ctNXtWS0794xeAuf.P_GQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/767b7dd7e058fbbb3a57f2cb0ed488a8.cf.webp" alt="" /></p>The attack on a teaching hospital in Al Deain, the capital of East Darfur state, has rendered the facility non-functiona]]></description>
             <link>https://www.yahoo.com/news/articles/says-attack-sudan-hospital-killed-224325579.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/says-attack-sudan-hospital-killed-224325579.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 23:18:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian strikes near Israel's main nuclear research center injure dozens, rescue services say.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-strikes-near-israel-main-212559471.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-strikes-near-israel-main-212559471.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 23:18:05 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran's death toll in the war is now over 1,500, state broadcaster says, citing the health ministry.]]></description>
             <link>https://www.yahoo.com/news/articles/irans-death-toll-war-now-212040708.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-death-toll-war-now-212040708.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 21 Mar 2026 23:18:05 GMT</pubDate>
         </item>
         <item>
