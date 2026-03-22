@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 19:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:44:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 19:44:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0ei0.i32WbOiV3X1HUbLXw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/b3d5bcb02cb8966155236395724c2027.cf.webp" alt="" /></p>Researchers say Hamas and PIJ martyr lists reveal Gaza terrorists who posed as doctors, nurses and journalists, clouding civilian casualty figures.]]></description>
+            <link>https://www.yahoo.com/news/articles/analysts-gaza-civilian-deaths-hamas-171837671.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/analysts-gaza-civilian-deaths-hamas-171837671.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 19:44:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba begins to restore electricity after nationwide power grid collapse]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E2sxE2n6iVanYxWUXa_ttg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/78ed505803d6da69b45f573a74e17291.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/cuba-begins-restore-electricity-nationwide-183219533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-begins-restore-electricity-nationwide-183219533.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tc7h1tjkGwd2javrNx2FAA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/552c1457adc09b25b96aca85eb504b70.cf.webp" alt="" /></p>By Alexander Cornwell and Dedi Hayun TEL AVIV/ARAD March 22 (Reuters) - Southern Israeli towns woke to widespread damage on Sunday after air defences failed to intercept two Iranian missiles overnight]]></description>
             <link>https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
         </item>
         <item>
@@ -7039,13 +7045,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump suggests he may delay China trip as he pressures Beijing for help with Strait of Hormuz]]></description>
             <link>https://www.yahoo.com/news/articles/asian-politics-headlines-4-36-040000564.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-4-36-040000564.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Asian News 4:37 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Myanmar opened its first parliamentary session in more than five years on Monday following an election that did not include major opposition parties, ensuring that the ruling military is set to retain a firm grasp on power. The military blocked Myanmar's last parliament from convening when it seized power from the last legitimately elected government of Aung San Suu Kyi in February 2021, and has governed without a legislature since then. It's touted elections held in December and January as a step toward the return of democracy.]]></description>
-            <link>https://www.yahoo.com/news/articles/top-asian-news-4-37-040000465.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-37-040000465.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
