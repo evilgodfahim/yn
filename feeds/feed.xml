@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 18:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 19:01:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cuba begins to restore electricity after nationwide power grid collapse]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E2sxE2n6iVanYxWUXa_ttg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/78ed505803d6da69b45f573a74e17291.cf.webp" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/cuba-begins-restore-electricity-nationwide-183219533.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-begins-restore-electricity-nationwide-183219533.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scores hurt after Iranian missiles hit Israeli desert towns]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tc7h1tjkGwd2javrNx2FAA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/552c1457adc09b25b96aca85eb504b70.cf.webp" alt="" /></p>By Alexander Cornwell and Dedi Hayun TEL AVIV/ARAD March 22 (Reuters) - Southern Israeli towns woke to widespread damage on Sunday after air defences failed to intercept two Iranian missiles overnight]]></description>
+            <link>https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 19:01:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba is ready for any potential attack from US amid oil blockade, envoy says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NV194AAkB_8uIOCBFTUjPQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8fd47cb04881f04a8fa6c991e8028fee.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/cuba-ready-potential-attack-us-180350583.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-ready-potential-attack-us-180350583.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8M.XDjkxLwOQeQ1s7wfLUA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/7115900174c6271563c333e72549575a.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/syrians-protest-alcohol-sale-limits-174459607.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/syrians-protest-alcohol-sale-limits-174459607.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pQ4HfFgc86j5gorrmUXyiA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e0ed11ac2d7706d5e3b53b7f8a1e6b33.cf.webp" alt="" /></p>Israel struck more targets in south Lebanon on Sunday, including a key bridge, triggering a warning from the Lebanese president that it could be preparing a full ground invasion.Lebanese President Joseph Aoun warned the attacks "represent a dangerous escalation and flagrant violation of Lebanon's sovereignty, and are considered a prelude to a ground invasion."]]></description>
             <link>https://www.yahoo.com/news/articles/israel-launches-strikes-lebanon-warns-173136561.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-launches-strikes-lebanon-warns-173136561.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6agVVyGcaSeqnzqgxt027A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/26237f0bcaaa458916b13a5bdbbeb6b3.cf.webp" alt="" /></p>“They are a menace, and we are starting to see how they literally threaten and hold the entire world hostage,” Sen. Ron Johnson said.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-menace-holding-world-hostage-164506111.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-menace-holding-world-hostage-164506111.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
         </item>
         <item>
@@ -7034,20 +7046,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Myanmar opened its first parliamentary session in more than five years on Monday following an election that did not include major opposition parties, ensuring that the ruling military is set to retain a firm grasp on power. The military blocked Myanmar's last parliament from convening when it seized power from the last legitimately elected government of Aung San Suu Kyi in February 2021, and has governed without a legislature since then. It's touted elections held in December and January as a step toward the return of democracy.]]></description>
             <link>https://www.yahoo.com/news/articles/top-asian-news-4-37-040000465.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-37-040000465.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Business Headlines at 4:36 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump suggests he may delay China trip as he pressures Beijing for help with Strait of Hormuz]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-business-headlines-4-36-040000401.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-business-headlines-4-36-040000401.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 10 patients killed in hospital fire in India's Odisha]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Jatindra Dash BHUBANESWAR, India, March 16 (Reuters) - At least 10 people were killed in a fire that broke out in the trauma care unit of a hospital in the eastern Indian state of Odisha on Monday,]]></description>
-            <link>https://www.yahoo.com/news/articles/least-10-patients-killed-hospital-033126775.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-10-patients-killed-hospital-033126775.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
