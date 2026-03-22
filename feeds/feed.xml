@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 19:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 20:18:46 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 19:44:35 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 20:18:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli settlers burn buildings in attacks on West Bank villages]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACBE66A4371448C99EA60921190D98F356091748E4A5BFF61345C03C2B1F4CF3/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0c08c2c9d7d79fe4db3c0064a1574c4a" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-settlers-burn-buildings-attacks-200417168.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-settlers-burn-buildings-attacks-200417168.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 20:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CF0D3B874DFE73A6B2C7B9C53A601505EE212FF067AD583EF2A4DE8FB3EA24D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd991b798e8e16c2ab0967206f1bbf1d7" alt="" /></p>Israeli army chief says the operation against Hezbollah “has only begun” and would be “prolonged”.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-aoun-warns-israeli-attack-184815232.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-aoun-warns-israeli-attack-184815232.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 20:18:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0ei0.i32WbOiV3X1HUbLXw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/b3d5bcb02cb8966155236395724c2027.cf.webp" alt="" /></p>Researchers say Hamas and PIJ martyr lists reveal Gaza terrorists who posed as doctors, nurses and journalists, clouding civilian casualty figures.]]></description>
             <link>https://www.yahoo.com/news/articles/analysts-gaza-civilian-deaths-hamas-171837671.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/analysts-gaza-civilian-deaths-hamas-171837671.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 19:44:35 GMT</pubDate>
         </item>
         <item>
@@ -7031,20 +7046,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Myanmar's parliament meets for first time in 5 years with military controlling most seats]]></description>
             <link>https://www.yahoo.com/news/articles/asian-headlines-4-37-m-040000138.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-37-m-040000138.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Business Headlines at 4:02 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump says that he's asked 'about 7' countries to join coalition to police Iran's Strait of Hormuz]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000338.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000338.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Politics Headlines at 4:36 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump suggests he may delay China trip as he pressures Beijing for help with Strait of Hormuz]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-politics-headlines-4-36-040000564.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-4-36-040000564.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
