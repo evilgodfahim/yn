@@ -4,10 +4,26 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 21:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 22:18:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 21:47:24 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 22:18:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[North Korea's Kim Jong Un reappointed as president of state affairs, KCNA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/i1c5KMDc9P7p42rRoIEohA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/be13a0739a89c1d44dae6a257a05125d.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/north-koreas-kim-jong-un-214256422.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-jong-un-214256422.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 22:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emerging from latest blackout, Cuba says ready for any potential US attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ghM..sIAKGODFDfVseUhiw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/8cbe054bffc31f2e03b2dec8f11f6f22.cf.webp" alt="" /></p>Trump, who cut off oil supplies to Cuba after abducting Venezuela’s Maduro, has threatened to take over the nation.]]></description>
+            <link>https://www.yahoo.com/news/articles/emerging-latest-blackout-cuba-says-202834624.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/emerging-latest-blackout-cuba-says-202834624.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 22:18:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli air strikes on Gaza kill four Palestinians]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sCAxIapdnwBjwgNOHT7_Hg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/34ee453d3fa5351607ea11dc7251ff36.cf.webp" alt="" /></p>Strikes intensify across Gaza as health officials say 680 Palestinians have been killed since October’s ‘ceasefire’.]]></description>
@@ -7030,20 +7046,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.e9C0RDehl18_RMzvTdM5w--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/1759645a5c0e3e9b1cdbdb399f4b2981.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/4-more-u-deaths-vague-110047307.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/4-more-u-deaths-vague-110047307.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar's post-coup parliament sits packed with junta allies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WwCjwgXvsS4wRKFkvZTLyQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/a782a112f913b3cebd0012b98248628b.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/myanmars-post-coup-parliament-sits-210130852.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/myanmars-post-coup-parliament-sits-210130852.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Headlines at 4:02 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump says that he's asked 'about 7' countries to join coalition to police Iran's Strait of Hormuz]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000204.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000204.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
