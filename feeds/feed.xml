@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 17:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 18:26:48 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 17:19:25 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cuba is ready for any potential attack from US amid oil blockade, envoy says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NV194AAkB_8uIOCBFTUjPQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8fd47cb04881f04a8fa6c991e8028fee.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/cuba-ready-potential-attack-us-180350583.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-ready-potential-attack-us-180350583.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syrians protest alcohol sale limits, curbs on personal freedom]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8M.XDjkxLwOQeQ1s7wfLUA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/7115900174c6271563c333e72549575a.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/syrians-protest-alcohol-sale-limits-174459607.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/syrians-protest-alcohol-sale-limits-174459607.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel launches strikes as Lebanon warns of invasion]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pQ4HfFgc86j5gorrmUXyiA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e0ed11ac2d7706d5e3b53b7f8a1e6b33.cf.webp" alt="" /></p>Israel struck more targets in south Lebanon on Sunday, including a key bridge, triggering a warning from the Lebanese president that it could be preparing a full ground invasion.Lebanese President Joseph Aoun warned the attacks "represent a dangerous escalation and flagrant violation of Lebanon's sovereignty, and are considered a prelude to a ground invasion."]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-launches-strikes-lebanon-warns-173136561.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-launches-strikes-lebanon-warns-173136561.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran is a ‘menace’ holding the world hostage, Sen. Johnson says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6agVVyGcaSeqnzqgxt027A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/26237f0bcaaa458916b13a5bdbbeb6b3.cf.webp" alt="" /></p>“They are a menace, and we are starting to see how they literally threaten and hold the entire world hostage,” Sen. Ron Johnson said.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-menace-holding-world-hostage-164506111.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-menace-holding-world-hostage-164506111.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 18:26:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[German Chancellor Merz's conservatives lead in state election, forecast shows]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/98C8AAF177A324FF1B3E9F126A437441DEB5E777FEBF6EC0541356B7090864D9/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1c18778e22061f94afb7da283d47354c" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/german-chancellor-merzs-conservatives-lead-170519790.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/german-chancellor-merzs-conservatives-lead-170519790.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 17:19:25 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1FD2E8F1E9BBDEF72920AF380C01EBE4CF215DFEF0C06C1D3C09E9C953EC39D4/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb534ecb46208b75b942855fdd4a6c859" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/torrential-rains-kenya-kill-81-170800991.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/torrential-rains-kenya-kill-81-170800991.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 22 Mar 2026 17:19:25 GMT</pubDate>
         </item>
         <item>
@@ -7018,37 +7048,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Jatindra Dash BHUBANESWAR, India, March 16 (Reuters) - At least 10 people were killed in a fire that broke out in the trauma care unit of a hospital in the eastern Indian state of Odisha on Monday,]]></description>
             <link>https://www.yahoo.com/news/articles/least-10-patients-killed-hospital-033126775.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-10-patients-killed-hospital-033126775.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xVRDGbIVe3ptyXFu1TXELQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/d8ad08151ae4e7e334c978dffc33c928.cf.webp" alt="" /></p>Here are the latest events in the Middle East war:
-- Flights temporarily suspended at Dubai airport -
-Flights were temporarily suspended Monday at Dubai's airport, previously one of the world's busiest, after a "drone-related incident" sparked a fire nearby, city authorities said. - Baghdad airport hit -
-Five people were wounded in a rocket attack on the Baghdad airport complex, which houses a US diplomatic facility, Iraqi authorities said.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-102603912.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-102603912.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan not planning Hormuz escort mission, PM Takaichi says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oSKRAp7aIN77N7nvQ34xnA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4b75889be395d50870ab2c0daa385ff4.cf.webp" alt="" /></p>By Tim Kelly TOKYO, March 16 (Reuters) - Japan has no plan to dispatch naval vessels to escort vessels in the Middle East, Prime Minister Sanae Takaichi said on Monday, after U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/japan-not-yet-planning-hormuz-020350197.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-not-yet-planning-hormuz-020350197.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Thai sailors return home after vessel attacked in Gulf]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DP96tJyWxAjPC.IeA_bOEg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/0d3e199776cc016ad378aaf2e47ba099.cf.webp" alt="" /></p>Twenty Thai crew members of a cargo ship that was attacked in the crucial Strait of Hormuz arrived in Thailand on Monday, with three of their colleagues still stranded on the vessel in the Gulf.Iran's Revolutionary Guards said they had struck the Thai ship, as well as a Liberia-flagged vessel, in the strait because they had ignored "warnings".]]></description>
-            <link>https://www.yahoo.com/news/articles/20-thai-sailors-return-home-023229156.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/20-thai-sailors-return-home-023229156.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan asylum-seeker dies in ICE custody, US advocacy group says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/y7f5GoEXi3IM0bzka0sfcQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9f0a9ae4ddcdce1a916594a656c7db78.cf.webp" alt="" /></p>By Joey Roulette March 15 (Reuters) - An Afghan immigrant who previously worked with the U.S. military in Afghanistan and later sought asylum in the United States died this weekend in Immigration and]]></description>
-            <link>https://www.yahoo.com/news/articles/afghan-asylum-seeker-dies-ice-184127953.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghan-asylum-seeker-dies-ice-184127953.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
