@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 20:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 21:19:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 20:49:59 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 21:19:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli air strikes on Gaza kill four Palestinians]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sCAxIapdnwBjwgNOHT7_Hg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/34ee453d3fa5351607ea11dc7251ff36.cf.webp" alt="" /></p>Strikes intensify across Gaza as health officials say 680 Palestinians have been killed since October’s ‘ceasefire’.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-air-strikes-gaza-kill-201733334.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-air-strikes-gaza-kill-201733334.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 22 Mar 2026 21:19:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli settlers burn buildings in attacks on West Bank villages]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACBE66A4371448C99EA60921190D98F356091748E4A5BFF61345C03C2B1F4CF3/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0c08c2c9d7d79fe4db3c0064a1574c4a" alt="" /></p>Source: AFP]]></description>
@@ -7037,13 +7045,6 @@ Explosions hit the Iranian capital on Monday, an AFP journalist reported, hours 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump says that he's asked 'about 7' countries to join coalition to police Iran's Strait of Hormuz]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000204.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000204.html</guid>
-            <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 4:37 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Myanmar's parliament meets for first time in 5 years with military controlling most seats]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-4-37-m-040000138.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-37-m-040000138.html</guid>
             <pubDate>Mon, 16 Mar 2026 05:27:54 GMT</pubDate>
         </item>
     </channel>
