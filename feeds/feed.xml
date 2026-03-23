@@ -4,10 +4,26 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 21:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 22:32:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 21:57:51 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 22:32:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pentagon says it revised media policy in compliance with court order]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/TjG4LKi0AhcLj2mHoMw8bQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/f8b18589fbcf5620881cc375a48f9629.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/pentagon-says-revised-media-policy-220226007.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pentagon-says-revised-media-policy-220226007.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 22:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia to open control stations for long-range drones in Belarus, Zelenskiy says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/aab_h6ofmn9sqkTNwLeOiw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d78b87a70a78be8b7246c62f3844dcd1.cf.webp" alt="" /></p>KYIV, March 23 (Reuters) - Russia plans to open four ground control stations for long-range attack drones in Belarus, President Volodymyr Zelenskiy said on Monday, citing information from Ukraine's]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-open-control-stations-long-211206487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-open-control-stations-long-211206487.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 22:32:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One killed, 77 hospitalized as Colombian military plane crashes after takeoff]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lP3P6cjFosAu0JCPHGfDSQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1af67369dd628644d4cda0d3c5871bc6.cf.webp" alt="" /></p>Source: Reuters]]></description>
@@ -7033,20 +7049,6 @@ The sound of anti-aircraft guns stopped at about 10:00 pm and ambulance sirens c
             <link>https://www.yahoo.com/news/articles/lebanon-says-more-1-million-173720083.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-more-1-million-173720083.html</guid>
             <pubDate>Mon, 16 Mar 2026 18:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Ticking time bomb’: Stricken Russian fuel tanker drifts near to Italian islands]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vFonig2DyQvj5JEWAxDvDA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/f5ceac77b25c7620e85cf13a5c936088.cf.webp" alt="" /></p>Maritime authorities have warned mariners to steer clear of a crewless Russian fuel tanker that has been drifting between Italy and Malta for days after an alleged drone attack, prompting fears of an environmental disaster.]]></description>
-            <link>https://www.yahoo.com/news/articles/ticking-time-bomb-stricken-russian-170045835.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ticking-time-bomb-stricken-russian-170045835.html</guid>
-            <pubDate>Mon, 16 Mar 2026 18:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Czech president adds to criticism of government's defence spending cuts]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.bLNzxi9kjtkUlCWYq3g3A--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/54eec8d6c0130e3af7416b185686a028.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/czech-president-adds-criticism-governments-175149341.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/czech-president-adds-criticism-governments-175149341.html</guid>
-            <pubDate>Mon, 16 Mar 2026 17:56:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
