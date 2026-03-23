@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 18:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 19:42:59 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US deploys immigration agents to airports amid shutdown chaos]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jVAOC1gFc29J_81mIDF5_Q--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ba3fbe6297bc1facd738aa49549d381d.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/us-deploys-immigration-agents-airports-184507867.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-deploys-immigration-agents-airports-184507867.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens feared dead in military plane crash in southwestern Colombia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/y97_ZLCf6AL24E4OuJDPWA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/f026c4953a10fdec006aecbd9abec73d.cf.webp" alt="" /></p>A military cargo plane crashed shortly after taking off in southwestern Colombia, the South American country's military said.]]></description>
+            <link>https://www.yahoo.com/news/articles/dozens-feared-dead-military-plane-183114796.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dozens-feared-dead-military-plane-183114796.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peru President taps Waldir Ayasta as minister of energy and mines]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LIMA, March 23 (Reuters) - Peruvian President Jose Maria Balcazar on Monday appointed Waldir Ayasta as the country's new Minister of Energy and Mines following the resignation on Sunday of predecessor]]></description>
+            <link>https://www.yahoo.com/news/articles/peru-president-taps-waldir-ayasta-182326108.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/peru-president-taps-waldir-ayasta-182326108.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brussels trains disrupted after suspicious bags found at Midi station]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BRUSSELS, March 23 (Reuters) - All train traffic was disrupted in Brussels after Midi station, the city's largest, was evacuated on Monday afternoon by police when suspicious bags were found, one day]]></description>
+            <link>https://www.yahoo.com/news/articles/brussels-trains-disrupted-suspicious-bags-182542611.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/brussels-trains-disrupted-suspicious-bags-182542611.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos show ICE agents at US airports where the partial government shutdown triggered delays]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Pt2af9lD9PGj9cNwOM5QHQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/7fd19ec962d306e288d17a79ca951426.cf.webp" alt="" /></p>Federal immigration officers have arrived at U.S. airports, fulfilling President Donald Trump's pledge to deploy them to help the Transportation Security Administration during a partial government shutdown. The shutdown has caused long lines at security checkpoints across the country. This is a photo gallery curated by AP photo editors.]]></description>
+            <link>https://www.yahoo.com/news/articles/photos-show-ice-agents-us-160025013.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-ice-agents-us-160025013.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 19:42:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colombia military aircraft crashes with 125 aboard, many feared dead]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HXj8ANAry_2XS99pC3.xvg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c40efe30a2ba3fb7be6019328b01a7ec.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/colombia-says-80-troops-crashed-175228790.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombia-says-80-troops-crashed-175228790.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kyTkHKD_8Q5vdKhoRT.nPw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/9b963e143a423e38f04c4c88b692f69e.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/world-gave-israel-licence-torture-175433759.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/world-gave-israel-licence-torture-175433759.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MOSUL, Iraq, March 23 (Reuters) - At least seven rockets were launched from the Iraqi town of Rabi'a towards a U.S. military base in northeastern Syria on Monday, two Iraqi security sources.]]></description>
             <link>https://www.yahoo.com/news/articles/rockets-launched-iraq-mosul-towards-181809316.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rockets-launched-iraq-mosul-towards-181809316.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/EyKAbli9kmSB9l_4kyVNFg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c00541613f5aff919a689572db1cf9ea.cf.webp" alt="" /></p>Just a trickle of cargo ships and tankers -- most of them Iranian -- have made it through the Strait of Hormuz since Iranian forces effectively blocked the crucial trade route in the Middle East war."Traffic through the Strait of Hormuz continues to be severely disrupted," shipping intelligence journal Lloyd's List said in its latest update Monday.]]></description>
             <link>https://www.yahoo.com/news/articles/cargo-ships-passing-hormuz-strait-135219423.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cargo-ships-passing-hormuz-strait-135219423.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, March 23 (Reuters) - Britain said on Monday the Iranian ambassador to the UK had been summoned after an Iranian national and one British-Iranian dual national were charged last week on]]></description>
             <link>https://www.yahoo.com/news/articles/uk-summons-iranian-ambassador-over-170304737.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-summons-iranian-ambassador-over-170304737.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NLxAmvrkIMe2ncEwcuyqGQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/654803a0dfeab47539c2eed041a0b5ab.cf.webp" alt="" /></p>A Colombian military transport plane that crashed on takeoff in the south of the country was carrying more than 100 personnel, according to Vice President Francia Márquez Mina.]]></description>
             <link>https://www.yahoo.com/news/articles/colombian-military-plane-carrying-dozens-170212621.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombian-military-plane-carrying-dozens-170212621.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 18:42:46 GMT</pubDate>
         </item>
         <item>
@@ -7016,41 +7050,6 @@ The sound of anti-aircraft guns stopped at about 10:00 pm and ambulance sirens c
             <link>https://www.yahoo.com/news/articles/hours-long-fuel-queues-laos-152127075.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hours-long-fuel-queues-laos-152127075.html</guid>
             <pubDate>Mon, 16 Mar 2026 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Yemen's Houthis join the Mideast war?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/krDtcS2kR0p7N7AGEJbIIA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e263f427067460cf23ede6be370a01d9.cf.webp" alt="" /></p>With assault rifles, daggers and posters of Iran's late Ayatollah Ali Khamenei waving in the air as tens of thousands chant "death to America, death to Israel", there's little mistaking where the loyalties of Yemen's Houthis lie. The group was also battered by rounds of US and Israeli air strikes after starting their Red Sea campaign in October 2023.]]></description>
-            <link>https://www.yahoo.com/news/articles/yemens-houthis-join-mideast-war-145117102.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemens-houthis-join-mideast-war-145117102.html</guid>
-            <pubDate>Mon, 16 Mar 2026 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenya arrests man for smuggling live ants]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hk9iif2OAKajLbY2qG5yEA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/fe6bfa9389caf856f6e83ab8dba9158e.cf.webp" alt="" /></p>Kenyan prosecutors say ant smuggling is a major problem.]]></description>
-            <link>https://www.yahoo.com/news/articles/kenya-arrests-man-smuggling-live-144226189.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/kenya-arrests-man-smuggling-live-144226189.html</guid>
-            <pubDate>Mon, 16 Mar 2026 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rise of drone warfare sharpens focus on laser defense]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/y21MJtyHGZRnLIIIToupJA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ea2ebde93b893089a446bde1302b82e9.cf.webp" alt="" /></p>The surge of drone use in conflicts worldwide, seen most vividly in the Ukraine and Middle East wars, will accelerate the race to develop high-power laser systems that could down the devices far more cheaply than traditional defensive weapons.At that price, not even Iran's notorious Shahed drones, estimated to cost as low as $20,000 each, or drone interceptors developed by Ukraine, whose costs start at around $700, can compete.]]></description>
-            <link>https://www.yahoo.com/news/articles/rise-drone-warfare-sharpens-focus-143612562.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rise-drone-warfare-sharpens-focus-143612562.html</guid>
-            <pubDate>Mon, 16 Mar 2026 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo meets with Gareth Gore, writer who wants Opus Dei investigation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/trYL5QXZ.LmFMzI2Ofylag--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/f16cf3a9103ccd93ad105f632210cc27.cf.webp" alt="" /></p>It's rare for Pope Leo to meet individually with a journalist. Gore has called for an investigation into the Catholic organization Opus Dei.]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-leo-meets-gareth-gore-142733579.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-meets-gareth-gore-142733579.html</guid>
-            <pubDate>Mon, 16 Mar 2026 16:55:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France threatens to block funds for India over climate inaction]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/X7FdfL44oUTRnSjmdRwNSw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ce7849c89d2981c7ecdc644b16caac84.cf.webp" alt="" /></p>France warned Monday it could block the disbursement of climate funds to India under a recent trade deal with the EU if New Delhi does not up its game in fighting global warming.As an example, she singled out India, which signed a major trade deal with Brussels in January.]]></description>
-            <link>https://www.yahoo.com/news/articles/france-threatens-block-funds-india-151801324.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/france-threatens-block-funds-india-151801324.html</guid>
-            <pubDate>Mon, 16 Mar 2026 15:37:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
