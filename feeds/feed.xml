@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 11:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Mar 2026 12:48:17 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 11:39:09 GMT</pubDate>
+        <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iranian state television says: 'US president backs down following Iran's firm warning']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian state television says: 'US president backs down following Iran's firm warning.]]></description>
+            <link>https://www.yahoo.com/news/articles/iranian-state-television-says-us-113816468.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-state-television-says-us-113816468.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VcHusXLPHUL3rLV6JfplRQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/3c9440ae46e0fa9a663c67d56219b047.cf.webp" alt="" /></p>By Xiuhao Chen and Liz Lee BEIJING, March 23 (Reuters) - China on Monday urged all parties involved in the Middle East conflict, particularly the U.S. and Israel, to cease military operations, warning]]></description>
+            <link>https://www.yahoo.com/news/articles/china-warns-vicious-cycle-war-073939626.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-warns-vicious-cycle-war-073939626.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Has Iran brought down an ‘unkillable’ US F-35 jet?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VtNNNN2fYftVDLqXviYIOg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/bcfc19e59225fc302c57a5cab325d943.cf.webp" alt="" /></p>The supersonic fighter jet is designed to avoid detection by radar and other technologies.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-brought-down-unkillable-us-111810453.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-brought-down-unkillable-us-111810453.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraq pulled into Iran war as US targets Iran-aligned groups]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oPUQUX7xj8C79P.ruT5Ccw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/92a051923eb6966e4db8633ef18d2057.cf.webp" alt="" /></p>Iraq is increasingly caught between the US and Iran as the regional war escalates, deepening economic woes.]]></description>
+            <link>https://www.yahoo.com/news/articles/iraq-pulled-iran-war-us-111044093.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraq-pulled-iran-war-us-111044093.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If Cuba falls, who steps in? Castro dynasty shadows island’s future]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/K8jXctUngJ5MFkahR_bWDA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/7cd9336038141c2fe0c610665f5d5e2d.cf.webp" alt="" /></p>As President Donald Trump signals possible action, experts say Cuba has no clear successor while Raúl Castro, 94, remains a significant influence on the communist country.]]></description>
+            <link>https://www.yahoo.com/news/articles/cuba-falls-steps-castro-dynasty-100016369.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-falls-steps-castro-dynasty-100016369.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Mon, 23 Mar 2026 12:48:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[First Israeli civilian killed in Lebanon border war was hit by Israeli fire]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ceWWtR6ANW29futTsaUX3A--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b31beb90d048dfc6d8aa440e6500e68c.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/israel-military-says-friendly-fire-092156897.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-military-says-friendly-fire-092156897.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 11:39:09 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Luc Cohen March 23 (Reuters) - A former U.S. congressman is due to stand trial starting on Monday on charges of illegally lobbying U.S. officials to prevent further economic sanctions against]]></description>
             <link>https://www.yahoo.com/news/articles/former-us-congressman-faces-trial-100150465.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/former-us-congressman-faces-trial-100150465.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 11:39:09 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/d9FBc_TpirfrkbKlwFA.Qw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a98a34b11b0b88bd27cd1088f32c7027.cf.webp" alt="" /></p>By Muvija M LONDON, March 23 (Reuters) - When Sarah Mullally is enthroned as the Church of England's first female Archbishop of Canterbury on Wednesday, she will inherit a task that has eluded her]]></description>
             <link>https://www.yahoo.com/news/articles/mullally-prepares-enthroned-church-englands-095157630.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mullally-prepares-enthroned-church-englands-095157630.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 23 Mar 2026 11:39:09 GMT</pubDate>
         </item>
         <item>
@@ -7009,41 +7046,6 @@ Katz warned on Monday that hundreds of thousands of Lebanese displaced by fighti
             <link>https://www.yahoo.com/news/articles/artillery-attack-yemen-village-kills-105719645.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/artillery-attack-yemen-village-kills-105719645.html</guid>
             <pubDate>Mon, 16 Mar 2026 12:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Politics Headlines at 11:56 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>AP finds an Israeli group discreetly organized the mystery flights evacuating Palestinians from Gaza]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-11-040000864.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-11-040000864.html</guid>
-            <pubDate>Mon, 16 Mar 2026 12:54:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oil loading resumes at UAE's Fujairah port after an attack, sources say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2cjPCI.Q6DD05Qn5PCH54w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cc56b3dc1ab02be155e147937d20f175.cf.webp" alt="" /></p>DUBAI, March 16 (Reuters) - Oil loading operations have resumed at the United Arab Emirates port of Fujairah, two sources told Reuters on Monday, after it was halted earlier following a drone attack]]></description>
-            <link>https://www.yahoo.com/news/articles/oil-loading-operations-suspended-uaes-081836446.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/oil-loading-operations-suspended-uaes-081836446.html</guid>
-            <pubDate>Mon, 16 Mar 2026 11:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU weighs action to keep Strait of Hormuz open]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/iHre_GS8UYWZ6uliDy8pkQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a1c963f8bbb9b594a147561fd501b725.cf.webp" alt="" /></p>The European Union is seeking more strategic clarity about the U.S. and Israel’s plans for Iran and when the conflict might end as the bloc weighs whether to send ships to help shore up security in the Persian Gulf.  “It is in our interest to keep the Strait of Hormuz open, and that’s why we are also discussing what we can do in this regard from the European side,” Kaja Kallas, the EU’s foreign policy chief, said Monday ahead of a meeting of the 27-nation bloc’s foreign ministers in Brussels.  U.S. President Donald Trump has asked allies — including France, China, Japan, South Korea and Britain — to help secure the strait for global shipping.]]></description>
-            <link>https://www.yahoo.com/news/articles/eu-weighs-action-keep-strait-093944769.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-weighs-action-keep-strait-093944769.html</guid>
-            <pubDate>Mon, 16 Mar 2026 11:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tricky negotiations begin Monday to renew a trade pact between the United States, Mexico and Canada]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XdfJ9l5QDh1DFlzV7cn3zQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a7ef288bd2753b1054406f581eea01ef.cf.webp" alt="" /></p>Every day more than $4 billion worth of goods cross the United States’ borders with Canada and Mexico – U.S. auto parts headed for car factories in northern Mexico, cartons of Mexican avocados bound for California supermarkets, Canadian aluminum destined to become cans of Campbell Soup.  Much of this bustling cross-border commerce is duty-free, thanks to the US-Mexico-Canada Agreement, or USMCA, that President Donald Trump negotiated with America’s northern and southern neighbors during his first term.  The United States is demanding changes to the treaty, and the top U.S. trade negotiator told Politico in December that Trump would be willing to pull the United States out of the pact if he can’t get the deal he wants.]]></description>
-            <link>https://www.yahoo.com/news/articles/tricky-negotiations-begin-monday-renew-220241484.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tricky-negotiations-begin-monday-renew-220241484.html</guid>
-            <pubDate>Mon, 16 Mar 2026 11:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Azerbaijan jails Frenchman for a decade in espionage case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_N1jKivQX3x8pJuVzP3PRw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5ccbbad6706545a6b91f841d98f1a108.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/azerbaijan-jails-frenchman-10-years-093244566.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/azerbaijan-jails-frenchman-10-years-093244566.html</guid>
-            <pubDate>Mon, 16 Mar 2026 10:47:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
