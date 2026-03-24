@@ -4,16 +4,148 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 11:40:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 12:54:06 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Afghan Taliban government says American national Dennis Coyle has been released]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC886A890058E34F59B3C023EE8125644CD0C2178DB13E0B4F51FB3D441401A6/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F883fae42e4e63b22722ea5cb3b190fed" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/afghan-taliban-government-says-american-123649622.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghan-taliban-government-says-american-123649622.html</guid>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians struggle as Gaza endures severe fuel and gas shortages]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE6F60A8F44C401048049B9C7BB195BD25340E596A5E479C6E767FE68FFC8FD9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F46b81ad693b9a19964c9c785e59e814c" alt="" /></p>Gaza’s gas supplies dwindle, with families waiting months for minimal quantities amid Israeli-induced shortages.]]></description>
+            <link>https://www.yahoo.com/news/articles/palestinians-struggle-gaza-endures-severe-123235134.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinians-struggle-gaza-endures-severe-123235134.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan’s Taliban government says it has released American national Dennis Coyle, held since January 2025]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/afghanistan-taliban-government-says-released-123213851.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghanistan-taliban-government-says-released-123213851.html</guid>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Car torched in Antwerp in suspected antisemitic attack, says Belgian official]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B45ECB97223FE17E49692FBF1B88093DAEA2B64548ED8EBA08289540FFEBC79E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fed9536f73f03da2758258ccd0907f0bf" alt="" /></p>By Lili Bayer BRUSSELS, March 24 (Reuters) - The torching of a car overnight in Antwerp, for which two minors were arrested, is being treated as a suspected antisemitic attack, a Belgian official said]]></description>
+            <link>https://www.yahoo.com/news/articles/two-minors-arrested-connection-suspected-083938481.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-minors-arrested-connection-suspected-083938481.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon declares Iranian ambassador persona non grata amid Israeli attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA9F686BB9393ACBDD443998765A13D906A3A32F2ACE69D7238976CA8EC5D9DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6879bff1bbe183bb214cab42d562a29c" alt="" /></p>Lebanese Foreign Ministry summons envoy to Iran, citing breaches of diplomatic protocol by Tehran.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-declares-iranian-ambassador-persona-114410895.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-declares-iranian-ambassador-persona-114410895.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran names hardline ex-Revolutionary Guards commander to replace slain security chief]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, March 24 (Reuters) - Iran named a former Revolutionary Guards commander and senior figure in the hardline political faction on Tuesday to replace the powerful head of the Supreme National]]></description>
+            <link>https://www.yahoo.com/news/articles/mohammad-baqer-zolqadr-appointed-secretary-104918611.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mohammad-baqer-zolqadr-appointed-secretary-104918611.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian spokesman for its top military command says armed forces will fight 'until complete victory']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/iranian-spokesman-top-military-command-112638322.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-spokesman-top-military-command-112638322.html</guid>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US-Israeli war on Iran is 'breach of international law': German president]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06E3611D36BD08FA45991C649F1CC3CF420D08D0E553B3A888F9C71BB8AE8E89/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc54a6b2956971ec6b6faf66198ee2699" alt="" /></p>German President Frank-Walter Steinmeier spoke on Tuesday of a "deep rift" with traditional ally the United States and said the US-Israeli war on Iran was a "breach of international law".He stressed that the US-Israel war on Iran was, "in my view, in breach of international law".]]></description>
+            <link>https://www.yahoo.com/news/articles/us-israeli-war-iran-breach-105930644.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-israeli-war-iran-breach-105930644.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US unpredictability impacts our interests, France army chief says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/54EAE58740E1DA9E2C847FD2DA4530E6EC5FBC0CF9492D65615D2649F8AAE424/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa23b7e900d9dac28aa3c18c8018b450b" alt="" /></p>PARIS, March 24 (Reuters) - France's army chief said on Tuesday that the United States had become an unpredictable ally that was impacting France's interests and security.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-unpredictability-impacts-interests-france-105252372.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-unpredictability-impacts-interests-france-105252372.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone that crashed in Lithuania came from Ukraine, PM says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A7ADE79676CE250F33DDA6CADD9966A902E2D6FB2BC4B5675159B28F2DFF8AA2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd7688804c6e1f2d10ab52e3a1965a710" alt="" /></p>VILNIUS, March 24 () - A military drone that crashed in Lithuania came from Ukraine ‌and was aimed at attacking Russia's ‌oil exports before going astray, the Baltic country's government said ​on Tuesday. Lithuania's armed forces said on Monday a suspected drone had entered the country's airspace and crashed into an ice-covered lake some 20 ‌km (12 miles) from ⁠the border of Belarus.]]></description>
+            <link>https://www.yahoo.com/news/articles/drone-crashed-lithuania-came-ukraine-092621469.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/drone-crashed-lithuania-came-ukraine-092621469.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy says Ukraine has evidence Russia is aiding Iran with intelligence]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/885FE422D6B3334AD05ADD5A7B1F2D5879F5471BCB2C675B78B7171F107A582A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6ced9d217cb1a260265e23eeb2a98d51" alt="" /></p>Ukrainian President Volodymyr Zelenskyy, whose nation has been at war with Russia for years, has indicated that there is evidence that Russia is supplying Iran with intelligence.]]></description>
+            <link>https://www.yahoo.com/news/articles/zelenskyy-says-ukraine-evidence-russia-101912513.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskyy-says-ukraine-evidence-russia-101912513.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia says it would be very concerned by Iran war spillover into Caspian Sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC7409D6CA20B472DA373F3863480D3566A826C73ACC444AB74A4ABEFA88B021/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1cdf17f646cb04c8a65072c8cf07d65e" alt="" /></p>March 24 () - Russia would view any spillover of ‌the Iran conflict ‌into the Caspian Sea "extremely negatively", Kremlin ​spokesman Dmitry Peskov said on Tuesday. Israel said last week its military had carried ‌out strikes ⁠on the Iranian navy in the Caspian, ⁠hitting dozens of targets including missile boats.]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-says-very-concerned-iran-101330515.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-says-very-concerned-iran-101330515.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran arrests 466 people accused of online activity undermining national security, IRNA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA03D5680FB48BC06846480F857C5C116CC9A968243E008400258E195CC3EECE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4be2d7b21b8dcff6474dbf9d90e10a8c" alt="" /></p>DUBAI, March 24 (Reuters) - Iranian police arrested 466 people accused of online activities aimed at undermining national security, state media reported on Tuesday, in one of the biggest security]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-arrests-466-people-accused-093531471.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-arrests-466-people-accused-093531471.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe dangerously unprepared for worsening wildfires, report says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE3A42AEC44C4927349D74AF82DFD4875F3AA432748654716461C15E155934C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe52289d5e46cd5eb4992f2a25b08d2cd" alt="" /></p>ROME, March 24 () - Europe is dangerously unprepared to tackle a growing wildfire crisis, and must overhaul its fleets of firefighting aircraft and step up investment, according to ‌a report. The paper - commissioned by Portugal-based Avincis, which leases firefighting planes and helicopters - said the ‌increased risk across southern Europe was down to climate change, falling rural populations and build-ups of burnable vegetation.]]></description>
+            <link>https://www.yahoo.com/news/articles/europe-dangerously-unprepared-worsening-wildfires-090857634.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/europe-dangerously-unprepared-worsening-wildfires-090857634.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2519B722D4DE4BDC8FF6CDDA3DB8E2A0B0450BA0B54CCFE6C004AC30CCD3EEC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F72684dbf7927c12ca9bfb369a4817b5d" alt="" /></p>Huge explosions were heard in Tehran and other cities, as Iran denied it held talks with the US to end the war.]]></description>
+            <link>https://www.yahoo.com/news/articles/despite-trump-peace-talk-claims-081459048.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/despite-trump-peace-talk-claims-081459048.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan to drop 'most important' tag for China ties]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5A17FAB5EED6F0E770F9A62752952A77D39D41FF5E85F5126F2ABFDA62C2165B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd9329134c23702fc9dee53cf18646959" alt="" /></p>By Tamiyuki Kihara TOKYO, March 24 (Reuters) - Japan will downgrade its description of ties with China from "one of its most important" in an annual diplomatic report, according to a draft reviewed by]]></description>
+            <link>https://www.yahoo.com/news/articles/japan-drop-most-important-tag-070715006.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-drop-most-important-tag-070715006.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No tsunami threat after deep 7.6 magnitude earthquake near Tonga]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 24 (Reuters) - A 7.6 magnitude earthquake struck near the Pacific island nation of Tonga on Tuesday, according to the United States Geological Survey, triggering sirens in the capital though no]]></description>
+            <link>https://www.yahoo.com/news/articles/no-tsunami-threat-deep-7-064534589.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/no-tsunami-threat-deep-7-064534589.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 12:54:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['A top person': Who is the US dealing with in Iran?]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/06qtEzSglWE.n8GTMCfnjg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/94244179ee82afad1b8b186da6e308f8.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/top-person-us-dealing-iran-111022497.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-person-us-dealing-iran-111022497.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +153,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/a8JHjFriZTPADOMocDZbYg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b4cf092824a7b8a735d2bfae6c83cf9d.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/vietnam-russia-advance-nuclear-power-110457133.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/vietnam-russia-advance-nuclear-power-110457133.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +160,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran names Mohammad Bagher Zolghadr as new secretary of Supreme National Security Council, replacing late Ali Larijani.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-names-mohammad-bagher-zolghadr-105430049.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-names-mohammad-bagher-zolghadr-105430049.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +167,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Lebanon withdraws accreditation of Iran's ambassador and orders him to leave country.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanon-withdraws-accreditation-irans-ambassador-105327548.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-withdraws-accreditation-irans-ambassador-105327548.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +174,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Emt4bobvCSLhtj.h2gdzPg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/0676a34be0f6cbe63af21d6dd97488d4.cf.webp" alt="" /></p>A major Russian drone and missile attack on civilian areas of Ukraine killed four people and injured at least 27, officials said Tuesday, while Moscow’s army stepped up efforts to break through Ukrainian front-line defenses in what could be the start of an anticipated spring ground offensive.  Russia fired almost 400 long-range drones at Ukraine overnight, Ukraine’s air force said, in its biggest attack in weeks.  Russia also launched 23 cruise missiles and seven ballistic missiles at Ukraine during the night, hitting at least 10 locations across the country, according to the air force.]]></description>
             <link>https://www.yahoo.com/news/articles/russia-fires-nearly-400-drones-104606767.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-fires-nearly-400-drones-104606767.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +181,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ky2Gru0ec6zR9pdODGg2Qw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7f9046fae5611a4dcfb95f4027cb5fc2.cf.webp" alt="" /></p>The disruption marks the second time in a month that AWS operations have been affected by the Iran war.]]></description>
             <link>https://www.yahoo.com/news/articles/amazon-says-aws-bahrain-region-103941286.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/amazon-says-aws-bahrain-region-103941286.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +188,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dJVyPE_OPXAZnvzjVQf.6Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/7a6f0fd693daaaa9a1d6041a9b4db0c7.cf.webp" alt="" /></p>BEIJING, March 24 (Reuters) - China has lodged a protest and made representations with the Japanese government after what it described as a "forceful break-in" at its embassy in Tokyo, the Chinese]]></description>
             <link>https://www.yahoo.com/news/articles/china-complains-japan-tokyo-embassy-075428245.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-complains-japan-tokyo-embassy-075428245.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +195,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5Ja2uOM7CxNKI6mhlLCgow--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/8cb5aafb74ea187dba54e9b85155028d.cf.webp" alt="" /></p>Veracruz is one of a number of states that migrants have historically crossed to reach the U.S., and are preyed upon by cartels and other criminal groups.]]></description>
             <link>https://www.yahoo.com/news/articles/229-migrants-found-calling-help-103300164.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/229-migrants-found-calling-help-103300164.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +202,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QgsIYmNp0ouOyfGfxuzgWQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/cd291472c41273f0d71b958a60d77eaf.cf.webp" alt="" /></p>Trump has said the countries discussed "a complete and total resolution" — but Iranian news agencies argue there have been no such negotiations.]]></description>
             <link>https://www.yahoo.com/news/articles/live-updates-iranian-strikes-continue-094109027.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-iranian-strikes-continue-094109027.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 11:40:19 GMT</pubDate>
         </item>
         <item>
@@ -6935,125 +7059,6 @@ Israeli media reported that Israel targeted Iranian national security chief Ali 
             <link>https://www.yahoo.com/news/articles/nigel-farage-declares-war-old-060414494.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nigel-farage-declares-war-old-060414494.html</guid>
             <pubDate>Tue, 17 Mar 2026 07:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspected suicide attacks kill at least 23 in Nigeria's Maiduguri]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Yo7OrtQg.NVNJkhF7VMOKA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/f8264253072d3241b3a8851b9cecc0a9.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/suspected-triple-suicide-attacks-kill-052844590.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/suspected-triple-suicide-attacks-kill-052844590.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It was like doomsday,' says Kabul hospital survivor after Pakistan air strike]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NHEOQbJsvFCeZYJuC8t9XQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/12fed1be536d72eb0463cf85413a7b37.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/doomsday-says-kabul-hospital-survivor-062814003.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/doomsday-says-kabul-hospital-survivor-062814003.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF raises concern over Ukraine's access to $8.1 billion aid, Bloomberg News reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kr0nGsMGyw554IhquWw0nw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/54ebf5b9f9c10dc53b7d092389b61194.cf.webp" alt="" /></p>March 17 (Reuters) - The International Monetary Fund has raised concerns that Ukraine may be unable to tap its $8.1 billion aid as lawmakers stall on measures to release the funding, Bloomberg News]]></description>
-            <link>https://www.yahoo.com/news/articles/imf-raises-concern-over-ukraines-053716900.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/imf-raises-concern-over-ukraines-053716900.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factbox-Reform UK's platform: Deportations, patriotism and 'save our pubs']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WTwC90uPh5HKDQgeg.sH8g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9fea56b6797cb9cba8de10dda95f9c79.cf.webp" alt="" /></p>LONDON, March 17 (Reuters) - Operation Restoring Justice to control borders. A Deportation Command. More oil, gas and nuclear energy. Patriotism in schools. Save the pubs.]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-reform-uks-platform-deportations-060346011.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-reform-uks-platform-deportations-060346011.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel strikes Tehran, Beirut as Iraq pulled deeper into Mideast war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/19b6K9DqeYSM0qtsMcpj0A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e812b06fd67b007223e45a1b51df64d0.cf.webp" alt="" /></p>Israel launched a wave of strikes on Tehran and Beirut on Tuesday while attacks in Baghdad drew neighbouring Iraq deeper into the Middle East war that has sparked economic turmoil across the globe.A drone and rocket attack targeted the US embassy in Baghdad early Tuesday, while a strike killed four people at a house reportedly hosting Iranian advisors.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-strikes-tehran-beirut-iraq-054504773.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-strikes-tehran-beirut-iraq-054504773.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan says 400 killed in Pakistan air strike on Kabul hospital, Pakistan rejects claim]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/a1Gp7l8h8E7M87yJcd77rw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/fa560f1337bdcbf4a85ef8193f24d58c.cf.webp" alt="" /></p>By Mohammad Yunus Yawar, Ariba Shahid and Asif Shahzad KABUL, March 17 (Reuters) - At least 400 people were killed and 250 injured in an air strike by Pakistan on a drug rehabilitation hospital in]]></description>
-            <link>https://www.yahoo.com/news/articles/afghan-taliban-says-400-killed-015056022.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghan-taliban-says-400-killed-015056022.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel launches new strikes on Tehran and Lebanon as Iran hits back and fires on Gulf neighbors]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sdGs4MAByzR6CkoVmlWaFw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/ec469a95867acca02cfbfe70ce7d9fad.cf.webp" alt="" /></p>Residents of Dubai and Doha, Qatar, awoke to the sound of explosions Tuesday as air defenses worked to intercept new waves of incoming Iranian fire, and Israel launched new strikes on Iran and Lebanon, as the war in the Middle East showed no signs of abating.  Dubai, a major transit hub for international travel, briefly shut its airspace as the military said it was “responding to incoming missile and drone threats” around the city.  The Israeli military said early Tuesday it had begun a “wide-scale wave of strikes” across Iran’s capital and was also stepping up strikes on Iran-backed Hezbollah militants in Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-launches-strikes-tehran-lebanon-054012850.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-launches-strikes-tehran-lebanon-054012850.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: Video Of School Courtyard Does NOT Show IRGC Members Being Bombed In Iran -- It's AI Video Made From Prewar Photo]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ahbbCDzc8rhYW8OuORemvw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/549806f56499abc55fb6f506ee2963f2.cf.webp" alt="" /></p>Does a video on social media show what posts described as Iran's Islamic Revolutionary Guard Corps, "hiding in schools thinking Israel won't bomb them"? No, that's not true: It's not real footage. The clip was made with generative AI from...]]></description>
-            <link>https://www.yahoo.com/news/articles/fact-check-video-school-courtyard-045623248.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-video-school-courtyard-045623248.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest: UAE briefly closes airspace as Israel strikes Beirut and Tehran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JSLrySA.FVHt1QoH2DI7OQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/521d40783c7f332920b6df8757d228d3.cf.webp" alt="" /></p>A drone attack in the United Arab Emirates sparked a fire at an oil tank farm Tuesday in Fujairah, an emirate on the country’s east coast with the Gulf of Oman that has been repeatedly targeted, the state-run WAM news agency reported.  The report came after a brief closure of the UAE's airspace when the military reported it was “responding to missile and drone threats from Iran.”  The Israeli military said Tuesday it had launched new attacks across Tehran and Beirut, with the strikes on the Lebanese capital targeting Hezbollah militants.]]></description>
-            <link>https://www.yahoo.com/news/articles/latest-uae-briefly-closes-airspace-042842727.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/latest-uae-briefly-closes-airspace-042842727.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cash handouts, fare hikes as Philippines battles soaring fuel costs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/00Ejq80wuOBgSu7CEFDubA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f049d000cc9544dcc1ffc1b4bbb39d96.cf.webp" alt="" /></p>Hundreds of Philippine tricycle drivers lined up Tuesday in Manila for cash handouts they hope will provide temporary relief from a war-driven surge in fuel prices that has left the country scrambling for short-term answers."These are the highest fuel prices I've ever experienced," said Romeo Cipriano, who has driven a tricycle for four decades.]]></description>
-            <link>https://www.yahoo.com/news/articles/cash-handouts-fare-hikes-philippines-041615654.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cash-handouts-fare-hikes-philippines-041615654.html</guid>
-            <pubDate>Tue, 17 Mar 2026 06:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factbox-Half a million lose power as storms batter US Midwest, Mid-Atlantic and South]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/StrOU54JooR_u0cyoALRkQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cebbe5f76c75a5c6f6583bf3028e9b27.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-storms-knock-power-266-191423358.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-storms-knock-power-266-191423358.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippines rejects Beijing's claim to sovereignty over entire South China Sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3F38w.G6CYwVpuTRrmtf.Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9bdd8b990f314481462fae18b669ec34.cf.webp" alt="" /></p>MANILA, March 16 (Reuters) - The Philippines said on Monday it rejected Beijing's assertion of sovereignty over the entire South China Sea, disputing a claim by China's embassy that a Filipino]]></description>
-            <link>https://www.yahoo.com/news/articles/philippines-rejects-beijings-claim-sovereignty-042037563.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/philippines-rejects-beijings-claim-sovereignty-042037563.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba tells exiles ‘doors are open’ to invest in businesses in the country]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YEb3O6PNKLFBG_VfAsStbw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/49fbd014e3a283a31a6b7607a15d55e4.cf.webp" alt="" /></p>Cuba also says it is removing impediments to US businesses and other foreign investors.]]></description>
-            <link>https://www.yahoo.com/news/articles/cuba-tells-exiles-doors-open-041607714.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-tells-exiles-doors-open-041607714.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flailing Cuba invites exiles to return, but hurdles remain]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wui2HucHsrPYm3OXfmyQuA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/fe73af4f7ddc5703c2b1eac90a18012b.cf.webp" alt="" /></p>As President Donald Trump rachets up the pressure on Cuba’s communist-run government and threatens a US “takeover” of the island, he frequently repeats a central promise: that decades after they left, Cuban exiles will soon be able to return to their homeland.]]></description>
-            <link>https://www.yahoo.com/news/articles/flailing-cuba-invites-exiles-return-041539498.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/flailing-cuba-invites-exiles-return-041539498.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani strike hits rehab hospital in Afghanistan, Taliban says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qngGmStYW_7N4i0eYIYojw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/07dc9fe0e347b3e98dd2bb7e1da5e838.cf.webp" alt="" /></p>The Taliban in Afghanistan claim that a Pakistani military airstrike on a drug rehabilitation hospital in Kabul has killed over 400 people, but Pakistan alleges the site was a weapons depot.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistani-strike-hits-rehab-hospital-041206695.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistani-strike-hits-rehab-hospital-041206695.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer-From sponsor to enemy: What's behind Pakistan's attack on Afghan Taliban?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/q7CuEhHm7MTgjA7QE_3_VQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/bba98496cf8fd67a74e08f28033f9d38.cf.webp" alt="" /></p>ISLAMABAD, March 17 (Reuters) - Pakistan has been the Afghan Taliban's closest friend for decades.]]></description>
-            <link>https://www.yahoo.com/news/articles/explainer-sponsor-enemy-whats-behind-040211449.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-sponsor-enemy-whats-behind-040211449.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 4:49 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Afghanistan says 400 people killed in Pakistan strike on Kabul hospital]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-4-49-m-040000912.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-49-m-040000912.html</guid>
-            <pubDate>Tue, 17 Mar 2026 05:19:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
