@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Mar 2026 07:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 08:42:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 08:42:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[PHOTO ESSAY: Life goes on underground in Israel, in scenes both real and surreal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WmechjeE4CH8VL7Gg5kEyg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/3600ea1b2a3eeebd8b23594cc9d15e86.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/photo-essay-life-goes-underground-080038771.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photo-essay-life-goes-underground-080038771.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 08:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where do reported US-Iran ‘negotiations’ leave Israel?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MIfLb6pDKyuXLHk0ccqgzA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d4f4d4404d253cfe196081e3f4f6981e.cf.webp" alt="" /></p>Israeli analysts describe confusion as US President Trump unexpectedly shifts from threatened strikes on Iran to talks.]]></description>
+            <link>https://www.yahoo.com/news/articles/where-reported-us-iran-negotiations-071328361.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/where-reported-us-iran-negotiations-071328361.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 08:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Denmark votes in an early election that follows a crisis over US designs on Greenland]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.zfPEDdZbZcyYiBSJPA69Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/64f836068a9b47fddf742a0ea7337800.cf.webp" alt="" /></p>Danish voters went to the polls Tuesday in a general election, with Prime Minister Mette Frederiksen seeking a third term at the helm of the Scandinavian country after a standoff with U.S. President Donald Trump over the future of the kingdom’s semiautonomous territory of Greenland.  More than 4.3 million people are eligible to have their say in the vote for the new Folketing, or parliament, in Copenhagen, which is elected for a four-year term.  Frederiksen called the election in February, several months before she had to in apparent hopes that her resolute image in the crisis over Greenland would help her with voters in the European Union and NATO member country.]]></description>
+            <link>https://www.yahoo.com/news/articles/denmark-votes-early-election-follows-070347446.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/denmark-votes-early-election-follows-070347446.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 24 Mar 2026 08:42:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trans community alarmed as India moves to curb LGBTQ rights]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XOgzHLa9gexJR5TxQ8TADg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/de9fa110203277a3cb8de1813bb4f6ce.cf.webp" alt="" /></p>A proposed amendment to India's transgender law has sparked fear and anger among LGBTQ groups, who warn it could undo hard-won legal gains and take away the right to self-identify.Raghavi, a trans-woman lawyer, warned that the amendments amounted to a rollback of rights.]]></description>
             <link>https://www.yahoo.com/news/articles/trans-community-alarmed-india-moves-064652378.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trans-community-alarmed-india-moves-064652378.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/fSOj2LafPXXdxdBK_8H_sw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/b82bdc62011b8db10db2be6716ea89ac.cf.webp" alt="" /></p>Settler attacks and land seizures marked a week that was supposed to be one of celebration for Palestinians.]]></description>
             <link>https://www.yahoo.com/news/articles/amid-muted-eid-celebrations-violence-062555501.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/amid-muted-eid-celebrations-violence-062555501.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/maxseX0yTdstYj5fy1AaLQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/cec807df4c1ebc8ebc27869f68ae9607.cf.webp" alt="" /></p>Trump claims talks on with Iran, as he holds off on energy attacks, but Tehran denies any negotiations.]]></description>
             <link>https://www.yahoo.com/news/articles/us-israel-war-iran-happening-061743444.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-israel-war-iran-happening-061743444.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/n2t7CN6MfJZBT5x6_TuBkA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/b9f4d2fc3808ec7a2c1e39fc7e9cb4a3.cf.webp" alt="" /></p>Does a video montage show real scenes of courtroom verdicts and repossessions related to Somali daycare fraud in Minnesota? No, that's not true: These videos are AI-generated ragebait. They are not real videos of courtroom verdicts or repossessions. The videos...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-fake-ai-montage-060811832.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-ai-montage-060811832.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0QsdCrd1DEGJZgg8RaVFZQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/8ccbdb4ef70ad0231153d1d047cd90eb.cf.webp" alt="" /></p>As he left the chambers of the U.S. Supreme Court, where justices had just heard arguments Monday over whether to prevent states from counting mail ballots that arrive after Election Day, Nevada Secretary of State Cisco Aguilar texted his staff 3,000 miles away.  “The challenge is educating voters shortly before the election how the election is going to work,” Aguilar, a Democrat, said.  Election officials in Nevada and 13 other states that allow regular mail ballots sent by Election Day but arrive some period of days afterward to be counted had their attention trained on Monday's arguments, where conservative justices appeared skeptical of such grace periods.]]></description>
             <link>https://www.yahoo.com/news/articles/state-officials-shifting-mail-ballot-041255764.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/state-officials-shifting-mail-ballot-041255764.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/aEWI9c.xIubIPSZZI1e_3g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/32af385e22945d6889bf7fb09bdba48b.cf.webp" alt="" /></p>Saudi Arabia’s Red Sea port of Jeddah is bracing for an increase in business over the next two weeks. On a breezy Sunday afternoon, the five ships on its platforms were fewer than its usual traffic, but with the near closure of the Strait of Hormuz and airspaces of countries along the Persian Gulf, the kingdom’s west coast ports are providing a safer lifeline to and from the region.]]></description>
             <link>https://www.yahoo.com/news/articles/jeddah-port-offers-supply-chain-040134448.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/jeddah-port-offers-supply-chain-040134448.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Kim vows to 'irreversibly' cement North Korea's nuclear status]]></description>
             <link>https://www.yahoo.com/news/articles/asian-politics-headlines-7-13-040000474.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-7-13-040000474.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 24 Mar 2026 07:50:57 GMT</pubDate>
         </item>
         <item>
@@ -7030,27 +7047,6 @@ Israeli media reported that Israel targeted Iranian national security chief Ali 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/530CE212B627DECD81C8D59C3D178586987FA7F1F9EF9098FEBCB8A5F4E9702D/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F67c839e5143284090a589dfcf1fe37d8" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/cuba-allow-nationals-living-abroad-172538187.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-allow-nationals-living-abroad-172538187.html</guid>
-            <pubDate>Tue, 17 Mar 2026 01:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Many killed, wounded after blasts hit Nigeria’s Maiduguri, witnesses say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57F7F73E01A5216FD6200FCFBEEBF11350ECBAFB9C2295FA830A9C05FA697B96/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd4f03a36fca3e76b4bfd3ee38978a7d4" alt="" /></p>Police deploy explosives’ clearance teams to three sites following suspected suicide attacks in the northeastern city.]]></description>
-            <link>https://www.yahoo.com/news/articles/many-killed-wounded-blasts-hit-010544422.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/many-killed-wounded-blasts-hit-010544422.html</guid>
-            <pubDate>Tue, 17 Mar 2026 01:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[United Arab Emirates closes airspace as military reports "responding to incoming missile and drone threats from Iran"]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/united-arab-emirates-closes-airspace-010515468.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/united-arab-emirates-closes-airspace-010515468.html</guid>
-            <pubDate>Tue, 17 Mar 2026 01:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pollution from Russian strike on Ukraine hydro plant cuts water to Moldovan city]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CHISINAU, March 16 (Reuters) - A Russian attack on a hydroelectric plant in southern Ukraine triggered an oil spill and polluted water systems in neighbouring Moldova, with supplies cut completely in]]></description>
-            <link>https://www.yahoo.com/news/articles/pollution-russian-strike-ukraine-hydro-233559140.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pollution-russian-strike-ukraine-hydro-233559140.html</guid>
             <pubDate>Tue, 17 Mar 2026 01:23:28 GMT</pubDate>
         </item>
     </channel>
