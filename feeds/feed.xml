@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 23:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 23:56:17 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 23:03:00 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 23:56:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US House panels to consider sweeping aviation safety reforms]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dat.99gl7hiJrRT.ImUCew--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ec9bd07275e7a321395f44de8df39027.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-house-panels-consider-sweeping-233720482.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-house-panels-consider-sweeping-233720482.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 23:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico will continue accepting Cuban medical workers despite US pressure]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7KT5ZMWfDt0qaO_jYqy1jw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/bb4141bb6cad80c6f7ee525601c2ae52.cf.webp" alt="" /></p>Mexican President Claudia Sheinbaum praises services from Cuban doctors, who often work in underserved rural areas.]]></description>
+            <link>https://www.yahoo.com/news/articles/mexico-continue-accepting-cuban-medical-222838269.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-continue-accepting-cuban-medical-222838269.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 23:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia nears completion of lethal drone and aid deliveries to Tehran, FT reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Investing.com -- Moscow is nearing the finalization of a phased shipment involving lethal drones, medicine, and food to Iran. According to reporting from The Financial Times, citing western intelligence, the deliveries aim to bolster the Iranian regime’s fighting capabilities and internal stability. Strategic discussions regarding the transfer reportedly began in secret immediately following recent military strikes on Tehran by Israel and the United States. Kremlin spokesperson Dmitry Peskov add]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-nears-completion-lethal-drone-222747070.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-nears-completion-lethal-drone-222747070.html</guid>
+            <dc:creator><![CDATA[Investing]]></dc:creator>
+            <pubDate>Wed, 25 Mar 2026 23:56:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Belarus' Lukashenko greeted by North Korean leader in Pyongyang]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sqJUrBOUgZlPREZkkyBD.w--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/eac83f40c1cc684cc189a11187062bf0.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/belarus-lukashenko-greeted-north-korean-225002605.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/belarus-lukashenko-greeted-north-korean-225002605.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 25 Mar 2026 23:03:00 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/koQQKaVCsN_.14ol0jhxSw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/5a3ba8a3bd28f32ae07df347552b2484.cf.webp" alt="" /></p>Iranian parliament speaker Ghalibaf has threatened U.S. forces while reportedly being eyed by the Trump administration as a potential Iran talks channel.]]></description>
             <link>https://www.yahoo.com/news/articles/meet-irans-hardline-speaker-threatened-200349903.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/meet-irans-hardline-speaker-threatened-200349903.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Wed, 25 Mar 2026 23:03:00 GMT</pubDate>
         </item>
         <item>
@@ -7021,27 +7043,6 @@ Sixty of them were oil and gas tankers and of those nearly six out of 10 were lo
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ATo6hkK_OsOpi7h2YorXLg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/5a271cd408efb940a5c87472de226fb1.cf.webp" alt="" /></p>Sayyed Ragheb was already struggling to keep his family afloat, earning less than $100 a month.  Now he fears it will get even worse after Egypt hiked fuel prices because of the Iran war.  Egypt is one of the few countries in the Middle East not directly affected by the war, now in its third week with no sign of abating.]]></description>
             <link>https://www.yahoo.com/news/articles/many-egypt-struggle-costs-distant-132651249.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/many-egypt-struggle-costs-distant-132651249.html</guid>
-            <pubDate>Wed, 18 Mar 2026 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan's leader heads to Washington for a visit complicated by the Iran war fallout]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0ALFTxEMy3OliuDogpBW8Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/5017160377913cfc98dafd090fd171d6.cf.webp" alt="" /></p>Japanese Prime Minister Sanae Takaichi is traveling Wednesday to the United States for what she expects to be a “very difficult” meeting with U.S. President Donald Trump after he called on Japan and other allies to send warships to secure the Strait of Hormuz.  The three-day visit to Washington was originally expected to focus on trade and strengthening the U.S.-Japanese alliance as China’s influence grows in Asia.  ”I think the U.S. visit will be a very difficult one, but I will do everything to maximize our national interest and to protect the daily lives of the people when the situation changes daily," Takaichi told parliament on Wednesday, hours before her departure.]]></description>
-            <link>https://www.yahoo.com/news/articles/japans-leader-heads-washington-visit-131857432.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japans-leader-heads-washington-visit-131857432.html</guid>
-            <pubDate>Wed, 18 Mar 2026 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to know about the meningitis outbreak in England causing angst among university students]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/EJ2LFUFqjAJAE8cQC0vPVQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/6d644541014c8d301c85954d59fd425d.cf.webp" alt="" /></p>A meningitis outbreak in southeast England has led to the deaths of a university student and a pupil from a nearby school, prompting public health officials to quickly roll out medical interventions.  The outbreak in the county of Kent was described Wednesday as unprecedented by U.K. Health Secretary Wes Streeting, owing to the high number of cases appearing in such a short space of time.  The number of meningitis cases rose by a further five on Tuesday to 20.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-meningitis-outbreak-england-causing-131735509.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-meningitis-outbreak-england-causing-131735509.html</guid>
-            <pubDate>Wed, 18 Mar 2026 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman hospitalized after being startled by humanoid robot]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dFYmE3N5mPTiAuqQDKjs0A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b70e24aba428644de6cca0d3640d73e1.cf.webp" alt="" /></p>Video widely shared online showed a woman angrily confronting a robot as it waved its metallic arms at her, while a crowd of onlookers gathered around.]]></description>
-            <link>https://www.yahoo.com/news/articles/woman-hospitalized-being-startled-humanoid-131455077.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/woman-hospitalized-being-startled-humanoid-131455077.html</guid>
             <pubDate>Wed, 18 Mar 2026 14:18:35 GMT</pubDate>
         </item>
     </channel>
