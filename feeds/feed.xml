@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 22:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 23:01:52 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 22:30:07 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 23:01:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iranian attack on Saudi base injures at least 10 US troops and damages several planes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Jt9msKs46V.5vZEmIWgqTA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/f74fff9e0857f010e9929d456a9ff625.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/iranian-attack-saudi-injures-least-224939787.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-attack-saudi-injures-least-224939787.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Fri, 27 Mar 2026 23:01:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guns in the streets as US, Israel intensify month-long attacks across Iran]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PNSEb21wvgo3Fp2DmPcptQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/fb3cfb782dfea0613eab65feaac040f8.cf.webp" alt="" /></p>A senior IRGC official in Tehran told state television that children over 12 can join armed patrols and checkpoints.]]></description>
             <link>https://www.yahoo.com/news/articles/guns-streets-us-israel-intensify-212249037.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/guns-streets-us-israel-intensify-212249037.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 22:30:07 GMT</pubDate>
         </item>
         <item>
@@ -7040,13 +7047,6 @@ Shamkhani, a mainstay of the Islamic republic's armed forces since the 1980s, wa
             <link>https://www.yahoo.com/news/articles/live-updates-iranian-military-spokesperson-101326752.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-iranian-military-spokesperson-101326752.html</guid>
             <pubDate>Fri, 20 Mar 2026 12:40:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['We were attacked': Hormuz sailors in perilous waters]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8rfxnIVnL5TNKk_C.MbwRQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8a67cb0f8e39920ce03ccf354c0e5a8f.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/were-attacked-hormuz-sailors-perilous-112745560.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/were-attacked-hormuz-sailors-perilous-112745560.html</guid>
-            <pubDate>Fri, 20 Mar 2026 11:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
