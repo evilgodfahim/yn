@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Mar 2026 21:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 22:30:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Mar 2026 21:57:28 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 22:30:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Guns in the streets as US, Israel intensify month-long attacks across Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PNSEb21wvgo3Fp2DmPcptQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/fb3cfb782dfea0613eab65feaac040f8.cf.webp" alt="" /></p>A senior IRGC official in Tehran told state television that children over 12 can join armed patrols and checkpoints.]]></description>
+            <link>https://www.yahoo.com/news/articles/guns-streets-us-israel-intensify-212249037.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/guns-streets-us-israel-intensify-212249037.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 27 Mar 2026 22:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Idaho passes legislation criminalizing transgender use of public bathrooms]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LwX5_3WIQ301tuDo7WmJoA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/f474191c59834ebb31beb5a9bcd11d5c.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/idaho-passes-legislation-criminalizing-transgender-213309161.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/idaho-passes-legislation-criminalizing-transgender-213309161.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 21:57:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RYy7BnAaGkHEAhHihCqChg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/7cbee431b72ca103ada7993c134371a8.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/suburban-detroit-school-settles-lawsuit-213233290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/suburban-detroit-school-settles-lawsuit-213233290.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 21:57:28 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JT.kQYPU9HcIk4d9ixlwEA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/3482e79dc09e6f2cb6a0eb8ac30884ab.cf.webp" alt="" /></p>The Nuestra America Convoy said that the sailboats were led by ‘experienced sailors’ with access to safety equipment.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-navy-searches-two-missing-205109140.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-navy-searches-two-missing-205109140.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 21:57:28 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3oMW3KtaG2Kac5tEgbdgzQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/0bb925ccf63b1a998a98afde0a2bc05d.cf.webp" alt="" /></p>The IDF says it struck Iran's Arak heavy water plant, a key plutonium site, as experts warn Natanz and Isfahan still hold highly enriched uranium.]]></description>
             <link>https://www.yahoo.com/news/articles/race-against-time-destroy-iran-194206258.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/race-against-time-destroy-iran-194206258.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Fri, 27 Mar 2026 21:57:28 GMT</pubDate>
         </item>
         <item>
@@ -7042,13 +7046,6 @@ Shamkhani, a mainstay of the Islamic republic's armed forces since the 1980s, wa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8rfxnIVnL5TNKk_C.MbwRQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8a67cb0f8e39920ce03ccf354c0e5a8f.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/were-attacked-hormuz-sailors-perilous-112745560.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/were-attacked-hormuz-sailors-perilous-112745560.html</guid>
-            <pubDate>Fri, 20 Mar 2026 11:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine deploys units to intercept targets in Middle East]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5CPoXw1nzvwmX2NzBx61dQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9b908281059077306ad1e9eb7e2516c5.cf.webp" alt="" /></p>KYIV, March 20 (Reuters) - Ukraine has deployed interceptor units to protect critical and civil infrastructure in five Middle Eastern countries, Ukraine's security council secretary Rustem Umerov said]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-deploys-units-intercept-targets-112913863.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-deploys-units-intercept-targets-112913863.html</guid>
             <pubDate>Fri, 20 Mar 2026 11:51:31 GMT</pubDate>
         </item>
     </channel>
