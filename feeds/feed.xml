@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 16:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 16:58:08 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[French police foil Paris bomb attack outside US bank]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CTKi3JExFAoTq1ZuzdvraQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/fc19d3de353c865f159a02875ad30179.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/french-police-foil-paris-bomb-154458046.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-police-foil-paris-bomb-154458046.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's Houthis enter war as attacks take economic toll]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rxA5DxjQDAD9EMXXWTk9NQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b1a9428aed1c3ba0f01f1a60321937b4.cf.webp" alt="" /></p>Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.The war began when the United States and Israel launched a wave of airstrikes across Iran, killing supreme leader Ayatollah Ali Khamenei, engulfing the Middle East in conflict and triggering global economic pain by sending oil and gas prices soaring.]]></description>
+            <link>https://www.yahoo.com/news/articles/yemens-houthis-enter-war-attacks-161432955.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemens-houthis-enter-war-attacks-161432955.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian attack on Saudi base injures US troops. More American forces arrive in the Middle East]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HBDxfywGasbqssHQEwly2A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1c8a94543b487b143ab23fece583084e.cf.webp" alt="" /></p>The number of American service members wounded in the Iran war has grown beyond 300, with more than two dozen troops injured this week from attacks on a Saudi air base.  Iran fired six ballistic missiles and 29 drones at Saudi Arabia’s Prince Sultan air base in an attack Friday that injured at least 15 troops, including five seriously, according to two people briefed on the matter.. U.S. officials initially reported that at least 10 U.S. troops were injured, including two who were seriously wounded.  More American forces are reaching the Middle East, with a Navy ship carrying about 2,500 Marines having now arrived in the region, U.S. Central Command announced Saturday.]]></description>
+            <link>https://www.yahoo.com/news/articles/iranian-attack-saudi-causes-american-155007916.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-attack-saudi-causes-american-155007916.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three journalists killed in Israeli strike on marked press car in Lebanon]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xzI8ILG_IleVNR89nN9vYQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a92b922781cde405a1a389adbe581789.cf.webp" alt="" /></p>Lebanon’s president condemns ‘blatant crime’, as Israeli strikes kill more journalists.]]></description>
             <link>https://www.yahoo.com/news/articles/three-journalists-killed-israeli-strike-154003578.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-journalists-killed-israeli-strike-154003578.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/eB5byBMP0kuQWPzwX1uWDw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/027431c05790d282604136dabf00049c.cf.webp" alt="" /></p>Republicans and Democrats remain entrenched despite public polling showing dismay over war, petrol prices.]]></description>
             <link>https://www.yahoo.com/news/articles/one-month-disapproval-high-us-153946145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-month-disapproval-high-us-153946145.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/L9Q4ezm9pF8PNTDJt4BKTw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/f79f3786198f814c5679456384ff091b.cf.webp" alt="" /></p>When an Iranian official this week laid out a list of demands to end the war started by the United States and Israel, he added an item that hadn’t been on Tehran’s list before: recognition of Iran’s sovereignty over the Strait of Hormuz.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-demand-end-war-could-151258397.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-demand-end-war-could-151258397.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/h_gP9s7DTGhwb.PlLeN8kg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/bebb9f3f53086aaf14985bde1fb42fd3.cf.webp" alt="" /></p>Two Mexican aid boats that disappeared at sea while delivering aid to Cuba have been located northwest of the Cuban capital of Havana following a search and rescue operation, Mexico’s navy said Saturday.]]></description>
             <link>https://www.yahoo.com/news/articles/missing-aid-boats-bound-cuba-150454789.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/missing-aid-boats-bound-cuba-150454789.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IZHHvlvsk2Hy1hcHkCNXvA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/c08711e902dcf4857465352a4db547ed.cf.webp" alt="" /></p>An Israeli airstrike on southern Lebanon on Saturday killed three journalists who were covering the latest Israel-Hezbollah war, their TV stations said.  Hezbollah’s al-Manar TV said that its longtime correspondent Ali Shoeib was killed Saturday in southern Lebanon.  The Israeli military said that it had targeted Shoeib, accusing him of being a Hezbollah intelligence operative without providing evidence.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-airstrike-southern-lebanon-kills-145649008.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-airstrike-southern-lebanon-kills-145649008.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:25:26 GMT</pubDate>
         </item>
         <item>
@@ -7030,27 +7049,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LHrIdjRM2atwiLnGLHmtGw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/934a426e6b4cf75cd96a6d26a36633f3.cf.webp" alt="" /></p>Israeli police attacked a group of journalists outside the Old City of Jerusalem on Tuesday evening, including a CNN producer who suffered a fractured wrist in the violent incident.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-police-attack-journalists-jerusalem-040134910.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-attack-journalists-jerusalem-040134910.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 4:02 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Japan's Takaichi tries to reaffirm alliance with Trump as he seeks help securing Strait of Hormuz]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-4-02-m-040000362.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-02-m-040000362.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Business Headlines at 5:19 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump hints at wind-down of war as US sends more troops and Iran threatens tourism sites]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-5-040000964.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-5-040000964.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran’s execution of wrestler heartbreaking: Human-rights activist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Heeq.DhafsOd9q_7Hkrybw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/22d9e215b51e2d1594a1678fc5514a23.cf.webp" alt="" /></p>Decorated wrestler Saleh Mohammadi was accused in the deaths of two police officers in anti-government protests.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-execution-wrestler-heartbreaking-human-031051842.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-execution-wrestler-heartbreaking-human-031051842.html</guid>
             <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
         </item>
     </channel>
