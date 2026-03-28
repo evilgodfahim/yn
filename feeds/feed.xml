@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 23:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 23:53:34 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 23:23:45 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 23:53:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli strikes hit two Gaza police checkpoints, killing six, medics say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, March 29 () - Two Israeli air strikes on two checkpoints of the Hamas-led ‌police force killed at least six Palestinians ‌including a child, local health officials said, in the latest ​round of violence despite a U.-brokered ceasefire that is now more than five months old.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-strikes-hit-two-gaza-233738936.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strikes-hit-two-gaza-233738936.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 23:53:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Air strikes in Iraq kill three PMF fighters, two police]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AAE77F5DB78C3C71A8A731002F00ED9205E8A8D9333BC2836AB56FD7CFFAA27E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa1e36d4f84017f83af3486c8102c3e66" alt="" /></p>Iraq turning into ‘expanding battleground’ in war, which began on February 28 with US-Israeli strikes on Iran.]]></description>
+            <link>https://www.yahoo.com/news/articles/air-strikes-iraq-kill-three-223205395.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/air-strikes-iraq-kill-three-223205395.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 23:53:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tCGnfg7udWhJIFayXKriCw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/f7a5a564e5b2440c5780296e639fd9bf.cf.webp" alt="" /></p>Iranian opposition leader calls on Trump administration to ‘stay the course’ as the US and Israel wage war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/reza-pahlavi-pledges-iran-great-220531768.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/reza-pahlavi-pledges-iran-great-220531768.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 23:23:45 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4scPVWT38_z1dSda_l8uAQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/11968f3d2e260cf6ee6cfb9977edb4e1.cf.webp" alt="" /></p>A Lebanese reporter working for a Hezbollah-owned network was among three journalists killed in an Israeli strike in Lebanon.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-kills-3-journalists-lebanon-212510134.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-kills-3-journalists-lebanon-212510134.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 23:23:45 GMT</pubDate>
         </item>
         <item>
@@ -7036,20 +7050,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <link>https://www.yahoo.com/news/articles/airports-rush-feed-unpaid-tsa-110743348.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/airports-rush-feed-unpaid-tsa-110743348.html</guid>
             <pubDate>Sat, 21 Mar 2026 15:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As New Mexico investigates, questions are raised about Epstein's links to the powerful]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD15D7EF4187E575B8A773783BF57D9CAD819A747FA18F0C67B0908906B1D90F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe2aa4149f0fde4c039db93ea9dbfa81c" alt="" /></p>By Andrew Hay STANLEY, New Mexico, March 21 (Reuters) - As police for the first time search Jeffrey Epstein's New Mexico ranch for evidence of any abuse he may have committed at the Old West-themed]]></description>
-            <link>https://www.yahoo.com/news/articles/mexico-investigates-questions-raised-epsteins-100232025.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-investigates-questions-raised-epsteins-100232025.html</guid>
-            <pubDate>Sat, 21 Mar 2026 15:19:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africans march for 'sovereignty' after US pressure]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kUZWakYBW2vI1cDC4z2TMw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/96ad146778bd0c68a9b7d73e0d7196ef.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/south-africans-march-sovereignty-us-144136895.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-africans-march-sovereignty-us-144136895.html</guid>
-            <pubDate>Sat, 21 Mar 2026 14:51:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
