@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 21:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 22:21:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 21:51:57 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 22:21:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon kids struggle to keep up studies as war slams school doors shut]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hlvFE31Ypi1laQLBiKFzmg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ba7e219ceb5839b0da544e16d82e30eb.cf.webp" alt="" /></p>In a classroom turned shelter for displaced families, teenager Ahmad Melhem follows a recorded lesson on a tablet as the war between Hezbollah and Israel interrupts education for hundreds of thousands of students in Lebanon.He said children in south Lebanon have been disproportionately affected by education interruptions since the last round of  hostilities between Israel and Hezbollah broke out in October 2023.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-kids-struggle-keep-studies-211956518.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-kids-struggle-keep-studies-211956518.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 22:21:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine steps up attacks on Russian oil industry as Kremlin reaps export windfall]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZG7fq4xE1bhk0V3fk4vVkg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/87f0eb3be304a32010291a7870d0f7c0.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-steps-attacks-russian-oil-205758070.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-steps-attacks-russian-oil-205758070.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 21:51:57 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kVsS4oFkc1NLNbw0repT_A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/6b9addbff3367883ffdc2279460f71dd.cf.webp" alt="" /></p>The Europeans also argue that the war in Ukraine is intertwined with the war in Iran due to the cooperation between Russia and Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/european-allies-russia-helping-iran-193401256.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/european-allies-russia-helping-iran-193401256.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 21:51:57 GMT</pubDate>
         </item>
         <item>
@@ -7042,13 +7048,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Qs5gGdwtcvWgy8lLElVxVw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/0c32e15eeded0449825913b91a2c609d.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/18-months-since-last-war-120205939.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/18-months-since-last-war-120205939.html</guid>
-            <pubDate>Sat, 21 Mar 2026 13:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says US and Israel attacked Natanz nuclear facility]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/I7Bm_QYKuYaMvOurBlDlLQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d325197b6485d7f63669f892d495a67a.cf.webp" alt="" /></p>No leakage of radioactive materials reported in the area in central Iran, Tehran’s atomic energy organisation says.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-says-us-israel-attacked-113254918.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-us-israel-attacked-113254918.html</guid>
             <pubDate>Sat, 21 Mar 2026 13:37:36 GMT</pubDate>
         </item>
     </channel>
