@@ -4,10 +4,96 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 11:50:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 12:37:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 11:50:08 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[12 tons of KitKat bars stolen in chocolaty heist in Europe, Nestle says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6358D4E679969D5DF5609D9BC4172F926866422507F65799E512EE96C45135F1/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fdc4de13dded5ded792986c355a8200a6" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/12-tons-kitkat-stolen-chocolaty-115019660.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/12-tons-kitkat-stolen-chocolaty-115019660.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twenty-two migrants die off Greek coast after six days at sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 28 (Reuters) - Twenty-two migrants have died off the coast of Greece after spending six days at sea in a rubber boat, the Greek coast guard said in a statement late on Friday.]]></description>
+            <link>https://www.yahoo.com/news/articles/twenty-two-migrants-die-off-112239234.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/twenty-two-migrants-die-off-112239234.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 15 US troops wounded in Iran strike on Saudi airbase: Reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7FD817590105FC796BA23BD4C4D5BA0ECD68914014D9A8E1C20D77F8B171DF37/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa6e60d1d7cb8759770a13377442c7368" alt="" /></p>At least five soldiers are reported in serious condition following Iran attack that damaged refuelling aircraft.]]></description>
+            <link>https://www.yahoo.com/news/articles/least-15-us-troops-wounded-122153251.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-15-us-troops-wounded-122153251.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky visits UAE, Qatar for air security talks with Gulf]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F801CCECBFA8755D8ED00C3CD2DDB73DA7E443199D004078742CAC944506032E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1f46faa441e85490140a00872eeb1158" alt="" /></p>Ukrainian President Volodymyr Zelensky said on Saturday that his country and the United Arab Emirates have agreed to cooperate on defence amid Iran's drone strikes across the Gulf, before heading to regional neighbour Qatar."We agreed to cooperate in the field of security and defence.]]></description>
+            <link>https://www.yahoo.com/news/articles/zelensky-visits-uae-qatar-air-114933641.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelensky-visits-uae-qatar-air-114933641.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strike kills at least two Lebanese journalists, Al Manar TV says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, March 28 (Reuters) - An Israeli strike on a media car in southern Lebanon killed at least two Lebanese broadcast journalists, Lebanon's Al Manar TV reported on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-strike-kills-least-two-113834949.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strike-kills-least-two-113834949.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strikes kill at least 5 in Ukraine, as Zelenskyy visits Gulf Arab states to talk drone defense]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Russia launched over 270 drones at Ukraine overnight, killing at least five people, Ukrainian authorities reported on Saturday.  Ukrainian President Volodymyr Zelenskyy, meanwhile, made unannounced visits to the United Arab Emirates and Qatar, as Kyiv seeks to use its drone expertise to help Gulf Arab states blunt Iran's attacks as the war in the Middle East rages on.]]></description>
+            <link>https://www.yahoo.com/news/articles/nighttime-strikes-kill-least-5-113756806.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nighttime-strikes-kill-least-5-113756806.html</guid>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland extends checks on borders with Germany, Lithuania]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACE778CB5DF7ED73F62980855E80CAFFE2E72024977C2F8EB2F73F5BBD464F24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcf40f57c33a615639e278f77d752bd14" alt="" /></p>WARSAW, March 28 () - Poland will extend ‌controls along ‌its borders with fellow ​European Union members Germany and Lithuania by six months ‌until October ⁠1, its interior ministry said ⁠on Saturday. Poland introduced temporary controls in ​July, ​echoing ​several other ‌EU governments in reimposing frontier checks to stem illegal migration.]]></description>
+            <link>https://www.yahoo.com/news/articles/poland-extends-checks-borders-germany-113505899.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/poland-extends-checks-borders-germany-113505899.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At CPAC, a generational divide over Republican support for Israel]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37FB85AF590237B8F1DA0E9B9CDAAC069D2088A6F397A5AED41C10746B3888EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F46dd67232b85bc9a627bdc76a4be86c8" alt="" /></p>By Nathan Layne GRAPEVINE, Texas, March 28 (Reuters) - When former Congressman Matt Gaetz opened his speech by aligning with a Republican faction "loyal to only one nation," his message to the]]></description>
+            <link>https://www.yahoo.com/news/articles/cpac-generational-divide-over-republican-100407671.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cpac-generational-divide-over-republican-100407671.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Iran’s military: missiles, militias and a force built for survival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16991D7040676646C0F51E0B022224D4536B46B05A697D6B1B6C894CC85FA237/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F668f0cf1e6d0f7d0d2d349b1a29725e5" alt="" /></p>Experts say Iran's military is built to survive, not win conventionally, as the Islamic Revolutionary Guard Corps retains missiles, proxies and naval threats despite U.S. strikes.]]></description>
+            <link>https://www.yahoo.com/news/articles/inside-iran-military-missiles-militias-100051378.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/inside-iran-military-missiles-militias-100051378.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's president says trust needed for talks, Pakistan prime minister's office says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D408450109C89FF39B06662B044CDF0C6CFA4864DB6AD0CE159A51994386C687/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F908ab68b343b706b5e4bff3ddb21c3b2" alt="" /></p>ISLAMABAD, March 28 (Reuters) - Iranian President Masoud Pezeshkian has told Pakistan's Prime Minister Shehbaz Sharif that trust is needed to facilitate talks and mediation on the conflict in the]]></description>
+            <link>https://www.yahoo.com/news/articles/irans-president-says-trust-needed-094528781.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-president-says-trust-needed-094528781.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A trumpet, a debut save and an eighth-inning swing: Dodgers’ new faces make noise early]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AAE7139C7F8DDEA900B47457468DD436B5FF48D94290E6BCB34895403F37BFD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F23521282e2ff7aac14a269a88bf93d69" alt="" /></p>The two biggest offseason acquisitions by the two-time defending World Series champion Los Angeles Dodgers are paying dividends already.  Edwin Diaz earned his first save in his debut and Kyle Tucker singled in the go-ahead run in the eighth inning of a 5-4 victory over the Arizona Diamondbacks on Friday night.  Diaz trotted out in the ninth to the sounds of trumpeter Tatiana Tate, who tooted from the stands next to the left field bullpen.]]></description>
+            <link>https://www.yahoo.com/news/articles/trumpet-debut-save-eighth-inning-092735238.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trumpet-debut-save-eighth-inning-092735238.html</guid>
+            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mexico's navy locates two missing sailboats carrying aid to Cuba, crew safe]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rwORkM.QH74k1EIzUlzsrg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/09000052f824ba317eaba70400fdb667.cf.webp" alt="" /></p>Source: Reuters]]></description>
@@ -6965,86 +7051,6 @@ bs/des]]></description>
             <link>https://www.yahoo.com/news/articles/us-shifts-missiles-towards-iran-193731073.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-shifts-missiles-towards-iran-193731073.html</guid>
             <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US officials warn sizeable shift in air defenses to the Middle East leaves concerning gaps in Europe]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
-            <link>https://www.yahoo.com/news/articles/us-officials-warn-sizeable-shift-193625963.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-officials-warn-sizeable-shift-193625963.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[QatarEnergy CEO says warned US, industry officials against attack on energy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B3483C8E5567F3F3F5E9705CA327CE067AB7D9A8305924EDD659EF91A1E2BA3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4be6cfbebc13f1b316495cb2bf6272bd" alt="" /></p>QatarEnergy CEO Saad al-Kaabi says he warned US of ‘consequences’ of attacking Iranian energy infrastructure.]]></description>
-            <link>https://www.yahoo.com/news/articles/qatarenergy-ceo-says-warned-us-193434787.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/qatarenergy-ceo-says-warned-us-193434787.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sri Lanka says it denied US request to land two aircraft at Mattala airport]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71E1E3567B2AA6AF0C2AB195C540346D15058004D846A4258F033A9CA7B5EE41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F671156a9184bd43fff5027f75b75f326" alt="" /></p>President Anura Kumara Dissanayake says request made on February 26, two days before US and Israel launched war on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/sri-lanka-says-denied-us-192109327.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/sri-lanka-says-denied-us-192109327.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gulf's decades-long strategy of sporting investment rocked by Mideast war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFF7C0C1C2CF6E709F6BE7EE56A3386F01735DC67978886630636A24BFC1941D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F37dc2ba8eed3683edf78893d99888c2f" alt="" /></p>Around 80,000 fans were hoping to see Lionel Messi take on Lamine Yamal in Doha, while thousands more were gearing up for the F1 grands prix in Bahrain and Saudi Arabia, but the war in the Middle East had other plans. "I was looking forward to seeing the match of a lifetime between Messi and Yamal, a clash between the old and new generations, but sadly this opportunity was not to be," lamented Rabih, a 45-year-old Barcelona fan living in Doha.]]></description>
-            <link>https://www.yahoo.com/news/articles/gulfs-decades-long-strategy-sporting-190217194.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gulfs-decades-long-strategy-sporting-190217194.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranians celebrate Persian New Year in first wartime Nowruz in decades]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E9797BFD7AC833C1C4C74C4CF00FBA23B2932869E921133148C2B66638CA2AD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2153eac19cbccb82a46b3416c4453031" alt="" /></p>Residents of Tehran exchange new year’s wishes as US and Israeli attacks continue through the spring equinox.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranians-celebrate-persian-first-wartime-184104380.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranians-celebrate-persian-first-wartime-184104380.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BTS fans stream to Seoul cafe, restaurant that once served as bases for the K-pop superstars]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8BC4FB89FB0E7404E41A4287B1B18A57CC275685586EC4A8C48B28EF2F12659/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd081de22660f8b160294b394e0839380" alt="" /></p>A Seoul cafe and restaurant that once served as bases for BTS members when they were mere K-pop trainees have been drawing visitors from around the globe ahead of the band's huge comeback concert.  Friday’s stream of visitors to Cafe Hyuga, once a dormitory where band members stayed, included Evelyn Florntino, who flew from the Philippines where she was visiting family after failing to get tickets to the group’s tour dates in the United States.  Instead, she'll attend the Seoul concert, a day after the release of their fifth studio album “ARIRANG.”]]></description>
-            <link>https://www.yahoo.com/news/articles/bts-fans-stream-seoul-cafe-173059068.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bts-fans-stream-seoul-cafe-173059068.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TSA absences remain steady Thursday as shutdown continues]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/082BCD04236C148331CDFE900D11AC605D5B7320F666EE5E0C1693968881D12A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6533111dbdad47eb823307226df26a25" alt="" /></p>WASHINGTON, March 20 (Reuters) - Absences among Transportation Security Administration airport security officers fell slightly on Thursday to 9.8% nationwide but was much higher at some major airports]]></description>
-            <link>https://www.yahoo.com/news/articles/tsa-absences-remain-steady-thursday-172431179.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tsa-absences-remain-steady-thursday-172431179.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive-Qatar's energy boss says he had warned of dangers of provoking Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14599D623FE89042108016BDBD9583B947631038D60FAF29DA2E3294FD191AE8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4ae3682fceaacf27a384bd089badb14d" alt="" /></p>By Maha El Dahan, Andrew Mills and Yousef Saba DUBAI, March 20 (Reuters) - As Qatar reels from an Iranian attack that has hobbled its giant natural gas company, its boss, who doubles as the country's]]></description>
-            <link>https://www.yahoo.com/news/articles/exclusive-qatars-energy-boss-says-164431222.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-qatars-energy-boss-says-164431222.html</guid>
-            <pubDate>Fri, 20 Mar 2026 20:24:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tehran sends clear warning with execution of protest-linked men, analysts say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WtaQqOmexOWHZhTUFLHlSw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/b9198ed7c818d6aa9bbb864646b68a2b.cf.webp" alt="" /></p>Source: CNN]]></description>
-            <link>https://www.yahoo.com/news/articles/tehran-sends-clear-warning-execution-183257442.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tehran-sends-clear-warning-execution-183257442.html</guid>
-            <pubDate>Fri, 20 Mar 2026 19:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1e.pxE873dpAZMIGktiCgA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/20a225d9eae87113f801eee29ffaca5f.cf.webp" alt="" /></p>Here are the latest developments in the Middle East war:
-- Kharg island warning -
-The United States could "take out" Iran's Kharg island whenever it wanted, the White House said after a report that President Donald Trump's administration was considering plans to occupy or blockade the oil hub.-
-The United States is deploying additional Marines to the Middle East, US media reported, possibly signalling a coming ground operation three weeks into the US-Israeli campaign against Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-184018303.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-184018303.html</guid>
-            <pubDate>Fri, 20 Mar 2026 19:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Kurds long for home as they mark Nowruz in Iraq]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ffNsy8JMOi0vV3dck7mqpA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ed4449874039c7298303f6fd23999770.cf.webp" alt="" /></p>In Iraq's northern Kurdistan region, women perform a traditional dance, their long dresses spinning, gold tassels and heavy necklaces catching the firelight, as smaller crowds than usual celebrate Nowruz, overshadowed by the Middle East conflict.Security concerns muted celebrations across the autonomous Kurdistan region in Iraq, but crowds still gathered and small bonfires were lit in regional capital Erbil, as well as Sulaimaniyah and Akreh city.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-kurds-long-home-mark-181048905.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-kurds-long-home-mark-181048905.html</guid>
-            <pubDate>Fri, 20 Mar 2026 19:33:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
