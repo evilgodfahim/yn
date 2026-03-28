@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 08:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 09:30:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 08:33:02 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pope Leo XIV visits Monaco to urge its people to use their faith and wealth for good]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Pta4Jjv9mHCuA9kaXl2PKA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/7e5effc5ca3afa34c1f735c001ab1cbe.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leo-xiv-visits-monaco-083440005.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-xiv-visits-monaco-083440005.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran-backed Houthis claim first missile launch on Israel as war in the Mideast intensifies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vTbjM2FvQ8AVExRqZtnLBQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/56134189e869ba5d43bdfe7769b85f06.cf.webp" alt="" /></p>Iranian-backed Houthi rebels claimed a missile launch toward Israel early Saturday, their first since the war in the Middle East started.  The Israeli military said it intercepted the projectile.  The war, now marking its one-month anniversary, erupted after the United States and Israel attacked Iran, which retaliated with strikes against Israel and neighboring Gulf Arab states.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-says-intercepted-first-incoming-075007436.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-says-intercepted-first-incoming-075007436.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2NXxM6qRICcG3pS2x5U98A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/41b2fc2909d9315adbf19dc62508f878.cf.webp" alt="" /></p>Rebels say they fired a barrage of ballistic missiles targeting ‘sensitive Israeli military sites’ in southern Israel.]]></description>
+            <link>https://www.yahoo.com/news/articles/yemen-houthis-launch-missile-attack-073045427.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemen-houthis-launch-missile-attack-073045427.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen’s Houthis claim responsibility for a missile attack on Israel, their first since the war in the Mideast started]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Yemen's Houthis claim responsibility for a missile attack on Israel, their first since the war in the Mideast started.]]></description>
+            <link>https://www.yahoo.com/news/articles/yemen-houthis-claim-responsibility-missile-072110544.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemen-houthis-claim-responsibility-missile-072110544.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One month into the war, Iranians wrestle with lost livelihoods, bombs and worries of the future]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LhjFVNpULMPTQOG1wB3V3Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/3be7aa26cfea96990cd87da2955e4666.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/one-month-war-iranians-wrestle-081539145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-month-war-iranians-wrestle-081539145.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 08:33:02 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The state's land board on Friday voted to acquire certain irrigation lands from Dole Food Co., clearing the way for the state to take over the aging dam and move forward on at least $20 million in repairs and an expansion of the spillway.  The earthen structure was built in 1906 to increase sugar production for the Waialua Agricultural Co., which eventually became a subsidiary of Dole Food Co. It was reconstructed following a collapse in 1921.  Residents worry the dam will fail during each substantial rain, said Kathleen Pahinui, who a week ago was among the 5,500 people ordered to evacuate from two communities on Oahu's North Shore, famous for big-wave surfing.]]></description>
             <link>https://www.yahoo.com/news/articles/hawaii-over-aging-dam-failure-231840918.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hawaii-over-aging-dam-failure-231840918.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 08:33:02 GMT</pubDate>
         </item>
         <item>
@@ -7018,34 +7048,6 @@ The United States is deploying additional Marines to the Middle East, US media r
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2_ZK4N50.S9Bi6ItHr.a9w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/14699f50813df722feb438cfbded27b6.cf.webp" alt="" /></p>Mojtaba Khamenei has not been seen in public since he replaced his slain father as Iran’s supreme leader.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-khamenei-says-enemy-defeated-163853661.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-khamenei-says-enemy-defeated-163853661.html</guid>
-            <pubDate>Fri, 20 Mar 2026 17:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer-How hard would it be to stop Iran's missile threat?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_kpO.Lwd5nYJyuYELEpUGA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cda24df2a9b8cce961bee074d775059c.cf.webp" alt="" /></p>March 20 (Reuters) - Iranian missiles and drones have continued to strike crucial energy facilities and other targets in Gulf countries and the wider Middle East nearly three weeks into the war.]]></description>
-            <link>https://www.yahoo.com/news/articles/explainer-hard-stop-irans-missile-163648429.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-hard-stop-irans-missile-163648429.html</guid>
-            <pubDate>Fri, 20 Mar 2026 17:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Texas has lost a legend': tributes to Chuck Norris pour in]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.nDFIjvS8sMuWnkE5O0_NA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/46a3779abf6c45e81aa1dddcce61e7df.cf.webp" alt="" /></p>March 20 (Reuters) - Chuck Norris, the roundhouse-kicking star of TV series "Walker, Texas Ranger" and action movie "Expendables 2," died on Thursday, his family said on Instagram.]]></description>
-            <link>https://www.yahoo.com/news/articles/texas-lost-legend-tributes-chuck-154238106.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/texas-lost-legend-tributes-chuck-154238106.html</guid>
-            <pubDate>Fri, 20 Mar 2026 17:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US, Ukrainian negotiators to discuss drone deal in Miami on Saturday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/St_tFC22IDMf1_yZfdFoEA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/0d71c255de9bc40ea6f59d9a46a81131.cf.webp" alt="" /></p>By Olena Harmash and Andrea Shalal KYIV/WASHINGTON, March 20 (Reuters) - U.S. and Ukrainian negotiators will hold talks in Miami on Saturday that a source familiar with the matter said could lay the]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-deploys-228-specialists-middle-134003509.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-deploys-228-specialists-middle-134003509.html</guid>
-            <pubDate>Fri, 20 Mar 2026 17:30:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France seizes ‘shadow fleet’ tanker it says belongs to Russia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hipKoI8YqiIfss4nUxUeJw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/aea6fd128accdedf9e7ad1fa07e6ec61.cf.webp" alt="" /></p>Russia's shadow fleet is a network of vessels that enables Moscow to export oil despite Western sanctions.]]></description>
-            <link>https://www.yahoo.com/news/articles/france-seizes-shadow-fleet-tanker-153726615.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/france-seizes-shadow-fleet-tanker-153726615.html</guid>
             <pubDate>Fri, 20 Mar 2026 17:30:56 GMT</pubDate>
         </item>
     </channel>
