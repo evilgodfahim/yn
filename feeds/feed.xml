@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 16:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 17:28:52 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[More than 3,500 U.S. troops arrive in Middle East as Iran war intensifies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oPMgnoXtggL3sGESta_Bwg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b7a0938ad52f9815651bd595b6105b22.cf.webp" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/more-3-500-u-troops-163532728.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/more-3-500-u-troops-163532728.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Houthi missile attack on Israel stokes fears of renewed Red Sea shipping strikes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4QKn23ffXN.YNunl2w4hug--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b11710a851e6ba0d249007d5f39fde0c.cf.webp" alt="" /></p>A missile attack on Israel by Iranian-backed Houthi rebels in Yemen on Saturday raises concern that Tehran's proxies may again try to block Red Sea shipping routes, as Iran's chokehold on the Strait of Hormuz keeps another key global trade passage virtually closed.  The Houthis said they fired a barrage of missiles at “sensitive Israeli military sites” in southern Israel, their first since the start of the war in the Middle East a month ago.]]></description>
+            <link>https://www.yahoo.com/news/articles/houthi-missile-attack-israel-stokes-163046643.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/houthi-missile-attack-israel-stokes-163046643.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine’s Zelenskyy signs air defence deals with UAE, Qatar on Gulf tour]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/I74qaLqh.sIzaJbZoVhzcw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/54ec8ce2ea020b86668f29f4aaef4fa5.cf.webp" alt="" /></p>Kyiv has sought to leverage its expertise in downing Russian drones to help Gulf nations.]]></description>
+            <link>https://www.yahoo.com/news/articles/ukraine-zelenskyy-signs-air-defence-161628840.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-zelenskyy-signs-air-defence-161628840.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[French police foil Paris bomb attack outside US bank]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CTKi3JExFAoTq1ZuzdvraQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/fc19d3de353c865f159a02875ad30179.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/french-police-foil-paris-bomb-154458046.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-police-foil-paris-bomb-154458046.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rxA5DxjQDAD9EMXXWTk9NQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b1a9428aed1c3ba0f01f1a60321937b4.cf.webp" alt="" /></p>Yemen's Houthi rebels announced their entry into the Middle East war on Saturday by launching a ballistic missile towards Israel, as the world struggled to contain the economic damage of a conflict now entering its second month.The war began when the United States and Israel launched a wave of airstrikes across Iran, killing supreme leader Ayatollah Ali Khamenei, engulfing the Middle East in conflict and triggering global economic pain by sending oil and gas prices soaring.]]></description>
             <link>https://www.yahoo.com/news/articles/yemens-houthis-enter-war-attacks-161432955.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemens-houthis-enter-war-attacks-161432955.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HBDxfywGasbqssHQEwly2A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1c8a94543b487b143ab23fece583084e.cf.webp" alt="" /></p>The number of American service members wounded in the Iran war has grown beyond 300, with more than two dozen troops injured this week from attacks on a Saudi air base.  Iran fired six ballistic missiles and 29 drones at Saudi Arabia’s Prince Sultan air base in an attack Friday that injured at least 15 troops, including five seriously, according to two people briefed on the matter.. U.S. officials initially reported that at least 10 U.S. troops were injured, including two who were seriously wounded.  More American forces are reaching the Middle East, with a Navy ship carrying about 2,500 Marines having now arrived in the region, U.S. Central Command announced Saturday.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-attack-saudi-causes-american-155007916.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-attack-saudi-causes-american-155007916.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 16:58:08 GMT</pubDate>
         </item>
         <item>
@@ -7029,27 +7050,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <link>https://www.yahoo.com/news/articles/tons-aid-flows-cuba-humanitarian-230204658.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/tons-aid-flows-cuba-humanitarian-230204658.html</guid>
             <pubDate>Sat, 21 Mar 2026 08:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A wave of executions is feared in Iran after 3 young men were hanged this week]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XJv.vMriGmGox4WAIgJUpA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6e86a259edbfbdd9298174f0db8f95fa.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/wave-executions-feared-iran-3-050850904.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/wave-executions-feared-iran-3-050850904.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we know on day 22 of the US and Israel’s war with Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3vXQYeiULFEqvdrvfhDqfQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/82cc019c0e5799057f77fcb34327d456.cf.webp" alt="" /></p>Source: CNN]]></description>
-            <link>https://www.yahoo.com/news/articles/know-day-22-us-israel-044935075.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-day-22-us-israel-044935075.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli police attack journalists in Jerusalem, fracturing wrist of CNN producer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LHrIdjRM2atwiLnGLHmtGw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/934a426e6b4cf75cd96a6d26a36633f3.cf.webp" alt="" /></p>Israeli police attacked a group of journalists outside the Old City of Jerusalem on Tuesday evening, including a CNN producer who suffered a fractured wrist in the violent incident.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-police-attack-journalists-jerusalem-040134910.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-attack-journalists-jerusalem-040134910.html</guid>
-            <pubDate>Sat, 21 Mar 2026 06:00:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
