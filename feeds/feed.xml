@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 05:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 06:32:51 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thailand will have new government next week, PM says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YFkgTa1_M1_eqIA6KtkPxQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5712c7ad1e74eb0b6a525f2d545ba96c.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/thailand-government-next-week-pm-041516790.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thailand-government-next-week-pm-041516790.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s unending attacks in Lebanon push country’s population to the brink]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lHUnx2lLFP13eljRdrdRSg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/4a91b1ac5679ac1241f773870d13d5da.cf.webp" alt="" /></p>Four weeks into the US-Israeli war on Iran, many in Lebanon are suffering under yet another Israeli aggression.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-unending-attacks-lebanon-push-045919079.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-unending-attacks-lebanon-push-045919079.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the US-Israel war on Iran unfolded in its first four weeks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7wT.7H25v.J39s6HVYvGqw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/bb95577c55bc97420789cede44543d46.cf.webp" alt="" /></p>Al Jazeera revisits major military, political and economic developments that took place in first month of the conflict.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-israel-war-iran-unfolded-041555274.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-israel-war-iran-unfolded-041555274.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 5:16 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Nepal police arrest former prime minister and former home minister over September protest deaths]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-5-16-m-040000801.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-5-16-m-040000801.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 5:16 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Police in Nepal arrested former Prime Minister Khadga Prasad Oli early Saturday over the deaths of dozens of people during violent protests in September that toppled the government and resulted in new elections.  Authorities arrested the powerful communist leader at his residence on the outskirts of the capital Kathmandu.]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-5-16-040000801.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-5-16-040000801.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 06:32:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seven islands that hold the keys to the Strait of Hormuz]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/iw1IWaddd_QmUnYv9SBwUA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/241024c422d3471cd0edd346b7cb2ca2.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/seven-islands-hold-keys-strait-040055846.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/seven-islands-hold-keys-strait-040055846.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Analysis: 1 month into war, Iran is using insurgent tactics and holding the world economy hostage]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-04-040000844.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-04-040000844.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Israel says it faces first incoming missile from Yemen as war in Middle East intensifies]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000570.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000570.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Israel says it faces an incoming missile from Yemen, the first such launch of the war.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-says-faces-incoming-missile-035916126.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-says-faces-incoming-missile-035916126.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/abkniS2GmOVgo7rj2w_GTA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c3fb353901000fd58f89efcd7c2140b3.cf.webp" alt="" /></p>After the airstrikes that killed Ayatollah Ali Khamenei, Iranian-Canadian Salar Gholami went to a rally in a Toronto suburb to celebrate the downfall of a leader he fiercely opposed.Following the shooting, Gholami and other Iranian-Canadians met federal Public Safety Minister Gary Anandasangaree.]]></description>
             <link>https://www.yahoo.com/news/articles/unease-iranian-canadians-shooting-ayatollah-032024234.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/unease-iranian-canadians-shooting-ayatollah-032024234.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KOZYvoYNW47iCHYO54iPtg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/7c28bdc16f553c53bfd2079f5f01f7d7.cf.webp" alt="" /></p>By Jana Choukeir March 28 (Reuters) - U.S.-Israeli strikes on Iran have killed several senior political and military figures, hitting the Islamic Republic's core leadership as the regional war]]></description>
             <link>https://www.yahoo.com/news/articles/factbox-key-iranian-figures-killed-113558859.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-key-iranian-figures-killed-113558859.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/gqjG.4ZFFADiqz4l1lHRoA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/d5777101d4cf65c4e24a8a51b874fecc.cf.webp" alt="" /></p>Police in Nepal arrested former Prime Minister Khadga Prasad Oli early Saturday over the deaths of dozens of people during violent protests in September that toppled the government and resulted in new elections.  Authorities arrested the powerful communist leader at his residence on the outskirts of the capital Kathmandu.  Home Minister Sudan Gurung announced the arrests on social media.]]></description>
             <link>https://www.yahoo.com/news/articles/nepal-police-arrest-former-prime-024316801.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nepal-police-arrest-former-prime-024316801.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 05:20:41 GMT</pubDate>
         </item>
         <item>
@@ -7016,41 +7049,6 @@ The United States is deploying additional Marines to the Middle East, US media r
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
             <link>https://www.yahoo.com/news/articles/u-deploying-3-more-warships-144051224.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-deploying-3-more-warships-144051224.html</guid>
-            <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French jihadist jailed for life for Islamic State crimes against Yazidis]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C9C451BD9CFC7B280E1EDCA28CB7CF784B4DFE73866772A0AFCA4554E57D1F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fadf0278d55038359d6a7c5f415e1ca8a" alt="" /></p>A French jihadist was sentenced to life in jail on Friday for involvement in Islamic State group atrocities against Iraq's Yazidi minority, the first case in France to tackle the issue.The Islamic State group regarded the Yazidis, who follow a pre-Islamic faith, as heretics.]]></description>
-            <link>https://www.yahoo.com/news/articles/french-jihadist-jailed-life-islamic-143704578.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-jihadist-jailed-life-islamic-143704578.html</guid>
-            <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. sues Harvard over treatment of Jewish and Israeli students, seeks billions of dollars]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8C2A500E24690C4AC59F5BB1F9A4AA010ADB6C772FF02996C05DBD6AAF4E64E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F466223bcbea55c4a206441111b7fd684" alt="" /></p>March 20 (Reuters) - The U.S. government sued Harvard University on Friday over the Ivy League school's alleged failure to protect Jewish and Israeli students, and is seeking to recover billions of]]></description>
-            <link>https://www.yahoo.com/news/articles/u-sues-harvard-over-treatment-140632738.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-sues-harvard-over-treatment-140632738.html</guid>
-            <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Switzerland halts weapons exports to US due to Iran war, citing neutrality]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22EC0A862238C5469072DF1D7296C95235DFF843D8355EF65FCF435FE493B606/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F7e4404f4d62dcb62c97aa33aa1246639" alt="" /></p>Switzerland on Friday said it would not issue licences for companies to export weapons to the United States due to the ongoing attacks on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/switzerland-halts-weapons-exports-us-135306935.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/switzerland-halts-weapons-exports-us-135306935.html</guid>
-            <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel says it hit Syrian government targets after attacks on Druze civilians]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 20 () - The Israeli military struck infrastructure sites belonging to the Syrian ‌government overnight in response to attacks ‌against Druze civilians in Sweida, the Israeli military said ​on Friday. Syria's foreign ministry condemned what it described as an Israeli attack on military infrastructure in southern Syria, calling it a "blatant ‌violation" of international ⁠law and an assault on its sovereignty and territorial integrity.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-military-says-struck-syrian-063145413.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-military-says-struck-syrian-063145413.html</guid>
-            <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire at car parts factory in Korea leaves 55 injured, more than a dozen unaccounted for]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B3D69B80BB552384675738FC66525F155C57EEAA82955D0C4BBD019C43EFB57B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F707288b44bf593f5163e297ed9c6d60b" alt="" /></p>SEOUL, March 20 (Reuters) - A fire broke out around lunchtime at a car parts factory in the South Korean city of Daejeon on Friday, injuring 55 people, including 24 seriously, while 14 others were]]></description>
-            <link>https://www.yahoo.com/news/articles/fire-car-parts-factory-korea-121923415.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fire-car-parts-factory-korea-121923415.html</guid>
             <pubDate>Fri, 20 Mar 2026 15:36:28 GMT</pubDate>
         </item>
     </channel>
