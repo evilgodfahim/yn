@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 17:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 17:55:32 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 17:55:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran Nobel winner Ebadi faces backlash over support for son of ousted shah]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Vt2QcBGITKgWV8tWjGpgww--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/575ca07d5599ab5c3855e2bbc2e2eea3.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-nobel-winner-ebadi-faces-172321480.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-nobel-winner-ebadi-faces-172321480.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 17:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ugandan military chief vows to back Israel against Iran in viral social media barrage]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/iZ5DRzzsyZsPlD13ULiUjw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/6a820a94338b5ec4a10dbb4466b63291.cf.webp" alt="" /></p>Uganda's military chief Gen. Muhoozi Kainerugaba claims Uganda could enter the Iran-Israel war on Israel's side, posting a series of pro-Israel statements on X this week.]]></description>
+            <link>https://www.yahoo.com/news/articles/ugandan-military-chief-vows-back-153805275.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ugandan-military-chief-vows-back-153805275.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 28 Mar 2026 17:55:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More than 3,500 U.S. troops arrive in Middle East as Iran war intensifies]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oPMgnoXtggL3sGESta_Bwg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b7a0938ad52f9815651bd595b6105b22.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/more-3-500-u-troops-163532728.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/more-3-500-u-troops-163532728.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4QKn23ffXN.YNunl2w4hug--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b11710a851e6ba0d249007d5f39fde0c.cf.webp" alt="" /></p>A missile attack on Israel by Iranian-backed Houthi rebels in Yemen on Saturday raises concern that Tehran's proxies may again try to block Red Sea shipping routes, as Iran's chokehold on the Strait of Hormuz keeps another key global trade passage virtually closed.  The Houthis said they fired a barrage of missiles at “sensitive Israeli military sites” in southern Israel, their first since the start of the war in the Middle East a month ago.]]></description>
             <link>https://www.yahoo.com/news/articles/houthi-missile-attack-israel-stokes-163046643.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/houthi-missile-attack-israel-stokes-163046643.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/I74qaLqh.sIzaJbZoVhzcw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/54ec8ce2ea020b86668f29f4aaef4fa5.cf.webp" alt="" /></p>Kyiv has sought to leverage its expertise in downing Russian drones to help Gulf nations.]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-zelenskyy-signs-air-defence-161628840.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-zelenskyy-signs-air-defence-161628840.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 28 Mar 2026 17:28:52 GMT</pubDate>
         </item>
         <item>
@@ -7036,20 +7049,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <link>https://www.yahoo.com/news/articles/internet-outages-disrupt-daily-life-060133632.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/internet-outages-disrupt-daily-life-060133632.html</guid>
             <pubDate>Sat, 21 Mar 2026 09:25:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia thwarts protests over the blocking of a popular messaging app, but frustration persists]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ebG5q8Pqn8f6VEmjRru0Cg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/e910057570868db7c114bb8592539e32.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-thwarts-protests-over-blocking-053126421.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-thwarts-protests-over-blocking-053126421.html</guid>
-            <pubDate>Sat, 21 Mar 2026 08:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tons of aid flows into Cuba as humanitarian convoy arrives on the struggling island]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NFHIndNhypRLKEQWbxrwtA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/3f185e131a9dc2fe2c249084cc16b454.cf.webp" alt="" /></p>Some 650 delegates from 33 countries and 120 organizations began arriving in Cuba on Friday as part of a solidarity caravan transporting some 20 tons of humanitarian aid as the island grapples with a severe energy crisis.  Members of “Our America Convoy to Cuba” arrived by air from Italy, France, Spain, the United States and several Latin American countries, and more are scheduled to arrive by sea on Saturday in a flotilla of three vessels from Mexico, organizers reported.  The visit comes amid heightened tensions between Cuba and the United States, whose governments have acknowledged holding talks after U.S. President Donald Trump imposed an oil embargo.]]></description>
-            <link>https://www.yahoo.com/news/articles/tons-aid-flows-cuba-humanitarian-230204658.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tons-aid-flows-cuba-humanitarian-230204658.html</guid>
-            <pubDate>Sat, 21 Mar 2026 08:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
