@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 06:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 07:32:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran-backed Houthis enter the monthlong war and could further threaten global shipping]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1GsCs5U9ugEsRkeMPdBOug--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/122a2df3ac945dcd3b57fd12c8a13f2a.cf.webp" alt="" /></p>Iranian-backed Houthi rebels entered the monthlong war in the Middle East on Saturday, claiming two missile launches at Israel.  Iran’s grip on the strategic Strait of Hormuz has shaken markets and prices.  The United States and Israel continue to strike Iran, whose retaliatory attacks have targeted Israel and neighboring Gulf Arab states.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-backed-houthis-enter-monthlong-040817312.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-backed-houthis-enter-monthlong-040817312.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 7:23 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korea conducts engine test for missile capable of targeting US mainland]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-7-23-m-040000171.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-7-23-m-040000171.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 7:23 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korean leader Kim Jong Un observed a test of an upgraded, high-thrust, solid-fuel engine for weapons and hailed it as a signficant development to boost the country's strategic military capability, state media reported Sunday. While the test was in line with Kim's stated goal of acquiring more agile, hard-to-detect missiles targeting the United States and its allies, some experts speculate North Korea's claim may be an exaggeration. The Korean Central News Agency reported Kim watched the ground jet test of the engine using a composite carbon fiber material.]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-7-23-040000345.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-7-23-040000345.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran claims aluminium plant attacks in Gulf as Houthis join war]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Vu5W8f6spOn485wv3on4og--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/4c7f054ccead04e57ad8d13e4f8e0421.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/iran-claims-aluminium-plant-attacks-051028834.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-claims-aluminium-plant-attacks-051028834.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/isbt8OPlsLXWICyE3WeFow--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/95683ee5d0fcc6eb6a3d6bc70e6badb3.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/north-koreas-kim-oversees-test-050731118.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-oversees-test-050731118.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RnQkZS5M9322JBRiL.zbkA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/44393231e85eafbd81284fe677b95aa6.cf.webp" alt="" /></p>As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters.  The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the U.S. and Israel against Iran and its digital proxies.  As Iran and its supporters seek to use their cyber capabilities to compensate for their military disadvantages, they are demonstrating how disinformation, artificial intelligence and hacking are now ingrained in modern warfare.]]></description>
             <link>https://www.yahoo.com/news/articles/hacked-hospitals-hidden-spyware-iran-040209491.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hacked-hospitals-hidden-spyware-iran-040209491.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7GVGqbkTd9_yOozUsjhEFw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/46ef7e69b81c6160904eb4950a3320d7.cf.webp" alt="" /></p>Adding to the military presence in the Middle East, a US Navy ship carrying 3,500 sailors and Marines has arrived in the region. And a new front has opened in the war after Iran proxy the Houthis fired missiles at long-time foe Israel.]]></description>
             <link>https://www.yahoo.com/news/articles/know-day-30-us-israel-034751529.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-day-30-us-israel-034751529.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/w_RcoI2CUCHmqfFDsx9xbw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/dd450022745d9d5540dae19c351804e9.cf.webp" alt="" /></p>Seafarers' helplines say they are overwhelmed with messages from crews stuck in the Gulf by the Middle East war, desperately seeking repatriation, compensation and onboard supplies."Immediate supply of food, drinking water, basic necessities is required to sustain the crew," said the message to the team's helpline.]]></description>
             <link>https://www.yahoo.com/news/articles/helplines-buzz-alerts-seafarers-trapped-031730847.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/helplines-buzz-alerts-seafarers-trapped-031730847.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
         </item>
         <item>
@@ -7031,27 +7050,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8AFB7A9083F856C39C03BAF6F2BA12DE8DB36A15ADA292CA74A09AD658473AE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9b5552c205fe567395b44e619608216c" alt="" /></p>LONDON/NICOSIA, March 21 (Reuters) - Britain said its Akrotiri airbase in Cyprus would not be involved in its defensive agreement with the United States to use UK bases, after a call on Saturday]]></description>
             <link>https://www.yahoo.com/news/articles/uk-says-bases-cyprus-not-164720840.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-says-bases-cyprus-not-164720840.html</guid>
-            <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eid without toys: Israeli restrictions drive up prices in Gaza]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8651E05D538B98E0EBD72069037F81883310506382A3CE07D8C664FB551FC438/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1971982b3ece8f0544c1cb075d87aded" alt="" /></p>Amid war and supply restrictions, Gaza’s toy markets face shortages and high prices, leaving children without Eid gifts.]]></description>
-            <link>https://www.yahoo.com/news/articles/eid-without-toys-israeli-restrictions-180320265.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eid-without-toys-israeli-restrictions-180320265.html</guid>
-            <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU anti-racism chief says discrimination deeply embedded across Europe]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27531CBEB317A90C894229FA2B900EB5354B71CB41F5E5E530F36D979521E653/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F85e98fe9630ce7e5354616e2f8a2659c" alt="" /></p>(Fixes typo in Michaela in paragraph 1) By Charlotte Van Campenhout AMSTERDAM, March 21 (Reuters) - Structural racism remains deeply embedded across Europe and institutions need to confront its]]></description>
-            <link>https://www.yahoo.com/news/articles/eu-anti-racism-chief-says-174313079.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-anti-racism-chief-says-174313079.html</guid>
-            <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainian shelling kills four in Russia's Belgorod border region, governor says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 21 (Reuters) - Ukrainian forces shelled a public building in Russia's border region of Belgorod on Saturday, killing four people, the regional governor said.]]></description>
-            <link>https://www.yahoo.com/news/articles/ukrainian-shelling-kills-four-russias-171406377.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukrainian-shelling-kills-four-russias-171406377.html</guid>
             <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
         </item>
     </channel>
