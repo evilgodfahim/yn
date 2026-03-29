@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 08:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 09:30:24 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 08:32:30 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jerusalem heads into a subdued Passover and Easter under the shadow of the Iran war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vFqa_LNC9HW3kvmbuqO4iQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6ff83074fd033137526d48c2a3f54e97.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/jerusalem-heads-subdued-passover-easter-082821831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jerusalem-heads-subdued-passover-easter-082821831.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Living in the dark: Gaza’s struggle for electricity]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RbHDV89WKu_qZQiK8_bNbA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7a66dd218e28c266440299bc3e417434.cf.webp" alt="" /></p>War has shattered Gaza’s power grid, forcing families to rely on generators and private charging points.]]></description>
+            <link>https://www.yahoo.com/news/articles/living-dark-gaza-struggle-electricity-082113578.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/living-dark-gaza-struggle-electricity-082113578.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan hosts top Saudi, Turkish, Egyptian diplomats over war in Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dZ8sj5BXNEP70bBSWR7ZOg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e846ea4488b535ae104329b68e25bac9.cf.webp" alt="" /></p>Talks are under way in Islamabad, as the Pakistani government acts as mediator between the US and Iran.]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-hosts-top-saudi-turkish-081152532.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-hosts-top-saudi-turkish-081152532.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High hopes at China's gateway to North Korea as trains resume]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qRSX6xXgT6KthGERuNu5WA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3eaaff7538e382b42350eefec1223ea1.cf.webp" alt="" /></p>Now retired, Wang Meili wants to see the world -- including North Korea, the reclusive nation that lies across the river from her lifelong home in northeastern China.One Chinese tourist from the northeastern city of Shenyang told AFP that a peek at North Korea from Dandong was close enough for him.]]></description>
+            <link>https://www.yahoo.com/news/articles/high-hopes-chinas-gateway-north-074537834.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/high-hopes-chinas-gateway-north-074537834.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia's Ust-Luga port damaged by Ukrainian drones, fire breaks out]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Jp0fejJpmLJ5wL2AZwK.5Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/dc0fe479779c9820424d6de9a86fe57a.cf.webp" alt="" /></p>MOSCOW, March 29 (Reuters) - Russia's Ust-Luga port, one of its largest petroleum export outlets, was damaged on Sunday in a Ukrainian drone attack that sparked a fire, Alexander Drozdenko, the]]></description>
+            <link>https://www.yahoo.com/news/articles/russias-ust-luga-port-damaged-074149638.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russias-ust-luga-port-damaged-074149638.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Politics Headlines at 9:07 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Mongolia ruling party picks a new prime minister candidate]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-politics-headlines-9-07-040000502.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-9-07-040000502.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wo1VMov3_ZjtmYP776Q3HA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c35d1f47be61b1208a9dacb953fdacf9.cf.webp" alt="" /></p>Iran targets Aluminium Bahrain, Emirates Global Aluminium in retaliation for US-Israeli attacks on its infrastructure.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-irgc-claims-attacks-uae-073022355.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-irgc-claims-attacks-uae-073022355.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 08:32:30 GMT</pubDate>
         </item>
         <item>
@@ -7007,48 +7054,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <link>https://www.yahoo.com/news/articles/fact-check-video-does-not-055156912.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-video-does-not-055156912.html</guid>
             <pubDate>Sat, 21 Mar 2026 21:45:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine says talks on resolving war to continue in US on Sunday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Pr69qmt_lRTvhUm.MUq65A--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b2a30c23a6a80704a209d8b29f320e1f.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-says-talks-resolving-war-210432900.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-says-talks-resolving-war-210432900.html</guid>
-            <pubDate>Sat, 21 Mar 2026 21:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family of Iranian butcher missing in strike on commercial complex clings to hope]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IU1hHm1KabN8qfpbq__3ww--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/19eca987bd644d06b20d536cf8951d08.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/family-iranian-butcher-missing-strike-205123239.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/family-iranian-butcher-missing-strike-205123239.html</guid>
-            <pubDate>Sat, 21 Mar 2026 21:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO sends first overland convoy from emergencies hub to Beirut]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6JxdKh9VPJzpIO8hNAdmdg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e1f2b8c4389e27ff6faa67f8309c20d2.cf.webp" alt="" /></p>The World Health Organization has sent a first overland convoy of medical equipment bound for Beirut from its global emergency logistics hub in Dubai, WHO chief Tedros Adhanom Ghebreyesus said Saturday.Last year, the Dubai logistics hub processed more than 500 emergency orders for 75 countries around the world.]]></description>
-            <link>https://www.yahoo.com/news/articles/sends-first-overland-convoy-emergencies-193329723.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/sends-first-overland-convoy-emergencies-193329723.html</guid>
-            <pubDate>Sat, 21 Mar 2026 21:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian man, Romanian woman charged after allegedly trying to enter UK nuclear missile base, officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/emaCtLn6AvAnhrtO77nyOA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/c9faf06a2a003415a281e7bd412747c4.cf.webp" alt="" /></p>An Iranian man and Romanian woman have been charged after allegedly trying to enter HM Naval Base Clyde, the U.K.'s nuclear submarine base in Scotland.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-man-romanian-woman-charged-183500017.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-man-romanian-woman-charged-183500017.html</guid>
-            <pubDate>Sat, 21 Mar 2026 21:18:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU urges members to start storing winter gas as Iran war causes price surge]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE2CDE9991B17807DD6DDB906FBEA002C798AA83E59FF1F7925A4746733BA7CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fee2f6aa2b6946aaeb06d32793e90beb4" alt="" /></p>War, which saw Iran attack Qatar facility, has caused ‘high, volatile’ gas prices that could hit EU storage projections.]]></description>
-            <link>https://www.yahoo.com/news/articles/eu-urges-members-start-storing-192411201.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-urges-members-start-storing-192411201.html</guid>
-            <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 ready to act to protect global energy supplies, backs Hormuz Strait security]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC395E8B31719D6E7CE66BCEEE1AE26605B166A660CB223A7016ED1ECE8840FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fed9373e1492cb6e51c28447eb1c233f4" alt="" /></p>PARIS, March 21 (Reuters) - The foreign ministers of the Group of Seven countries said on Saturday they stood ready to take necessary measures to support global energy supplies and reaffirmed the]]></description>
-            <link>https://www.yahoo.com/news/articles/g7-ready-act-protect-global-185840295.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/g7-ready-act-protect-global-185840295.html</guid>
-            <pubDate>Sat, 21 Mar 2026 19:28:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
