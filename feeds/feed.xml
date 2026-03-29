@@ -4,10 +4,65 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 22:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 22:57:06 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 22:22:57 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli parliament approves 2026 state budget, spokesperson says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F300DDF963E6B3BD521FD9F205A67FF4ADA9E95C777CA6A985EC07D9A4708E8/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F38a5c1fe4e5e19a1336f4d6ede435f88" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-parliament-approves-2026-state-224241915.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-parliament-approves-2026-state-224241915.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European nations criticise Israel’s death penalty plans]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF74B42B289547736507E7BAD299EBD0B7498A6DE742459C85DA41ADBA81E49D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5db4ae5422e6bbf03dc89b43ac6cd433" alt="" /></p>France, Germany, Italy and the United Kingdom raise concern over ‘de facto discriminatory character of the bill.’]]></description>
+            <link>https://www.yahoo.com/news/articles/european-nations-criticise-israel-death-224425778.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/european-nations-criticise-israel-death-224425778.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran accuses US of plotting ground attack, as Israel steps up bombardment]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36EC9DE8F36490B8F43A470A109A15956FC42C25F41CEFE2A01DFDBA5ED39181/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcbac63872d85baa689ab0d326a3deab5" alt="" /></p>Power being restored after Iran’s Ministry of Energy reported outages in the capital, Tehran following attacks.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-accuses-us-plotting-ground-223605133.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-accuses-us-plotting-ground-223605133.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tanker carrying Russian oil enters Cuba's exclusive economic zone, ship data says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 29 (Reuters) - A Russia-flagged tanker carrying Russian crude entered Cuba's exclusive economic zone on Sunday, according to ship tracking data, in what could be the Caribbean country's first]]></description>
+            <link>https://www.yahoo.com/news/articles/tanker-carrying-russian-oil-enters-222849937.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tanker-carrying-russian-oil-enters-222849937.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 29 (Reuters) - A Ukrainian drone attack killed one person, triggered fires and damaged homes and industry on Sunday in the southern Russian city of Taganrog, local officials said.]]></description>
+            <link>https://www.yahoo.com/news/articles/ukrainian-drones-kill-one-damage-221428923.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukrainian-drones-kill-one-damage-221428923.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran threatens to attack homes of US and Israeli 'commanders and political officials' in the region]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-threatens-attack-homes-us-210035835.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-threatens-attack-homes-us-210035835.html</guid>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over 2 dozen children among 33 bodies pulled from Kenyan mass grave: authorities]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/62898282968AE7D9EC5C107BF6D742CC53B5B5EB09B747640A5B0FFB60F77F03/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F39c3f64b903bf590fae844afb0764cc5" alt="" /></p>At least 33 bodies, including 25 children, were unearthed from a mass grave in Kericho, Kenya, as authorities investigate a reported hospital morgue transfer.]]></description>
+            <link>https://www.yahoo.com/news/articles/over-2-dozen-children-among-202138093.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/over-2-dozen-children-among-202138093.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 22:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rheinmetall addresses row over CEO's Ukraine 'housewives' comment]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cq5PXNUx8oMiawXAt8jjJg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/cc23ff3f2e5b697ab051a024cf1157c2.cf.webp" alt="" /></p>German defence giant Rheinmetall on Sunday sought to smooth over a row caused by comments from its boss comparing Ukrainian factories producing drones to "housewives" making weapons in their kitchens.- 'Utmost respect' -
@@ -7000,55 +7055,6 @@ aoj/pm/pzb/ane/abs]]></description>
             <link>https://www.yahoo.com/news/articles/belgium-commemorates-brussels-attacks-10-051301192.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/belgium-commemorates-brussels-attacks-10-051301192.html</guid>
             <pubDate>Sun, 22 Mar 2026 15:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 buildings collapse in central Istanbul after gas explosion, search operations underway]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2ZRZAI0Mb7ph3WX.d2RIuQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/2a6bcb0fd403277e96d2800bc434ec8a.cf.webp" alt="" /></p>A natural gas explosion in Istanbul's central Fatih district brought down two buildings on Sunday. Search and rescue personnel were immediately dispatched to the site of the noon explosion, and determined nine people were caught under the rubble. Istanbul Governor Davut Gul said they had recovered seven people, who are undergoing treatment in nearby hospitals.]]></description>
-            <link>https://www.yahoo.com/news/articles/2-buildings-collapse-central-istanbul-105410091.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-buildings-collapse-central-istanbul-105410091.html</guid>
-            <pubDate>Sun, 22 Mar 2026 15:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says will hit region’s energy sites if US, Israel target power plants]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uas5XjC8T_HEQ2Cuy0tjCQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/9198f82a2e0fae87e695655700187239.cf.webp" alt="" /></p>Iran warns of ‘irreversibly’ destroying vital infrastructure across region after Trump threatens to bomb power plants.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-says-hit-region-energy-134225160.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-hit-region-energy-134225160.html</guid>
-            <pubDate>Sun, 22 Mar 2026 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US, Iran trade threats to target infrastructure in Middle East]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PFDo4on1mv1cmI2ISdodvg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/4354e31c9d7d5910728789f4b773722b.cf.webp" alt="" /></p>Iran threatened on Sunday to "irreversibly destroy" key infrastructure across the Middle East if US President Donald Trump follows through on his vow to "obliterate" the Islamic republic's power plants unless the Strait of Hormuz swiftly reopens.Writing on Truth Social, Trump said the US would "hit and obliterate" Iranian power plants "starting with the biggest one first" if Tehran did not fully reopen the strait within 48 hours, or 23:44 GMT on Monday according to the time of his post.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-threatens-middle-east-infrastructure-100326836.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-threatens-middle-east-infrastructure-100326836.html</guid>
-            <pubDate>Sun, 22 Mar 2026 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah attack kills one in north Israel as assault on Lebanon continues]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IrCTaFLNdSJg6ioMMPTHdg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5e1f379cbb2a0acab0d2f0a31a04cd32.cf.webp" alt="" /></p>Hezbollah has been launching attacks in response to US-Israel war on Iran as more Israeli troops enter southern Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/articles/hezbollah-attack-kills-one-north-130957480.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hezbollah-attack-kills-one-north-130957480.html</guid>
-            <pubDate>Sun, 22 Mar 2026 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ABHuMu7FDXyJP4Se6ZqZ4A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0ada5959d09337fa3d1b9cb3e17fc60e.cf.webp" alt="" /></p>UK condemns what it says is Iranian attack on airbase in Indian Ocean, but Tehran denies it carried out the launches.]]></description>
-            <link>https://www.yahoo.com/news/articles/did-iran-launch-missiles-us-130357115.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/did-iran-launch-missiles-us-130357115.html</guid>
-            <pubDate>Sun, 22 Mar 2026 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italy’s justice referendum becomes a high stakes test for conservative Premier Giorgia Meloni]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/iYe5AeuTV2cbFLetPKoyaA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/8cf3d3d2cfbda7e6590e4329e6b3cbbc.cf.webp" alt="" /></p>Italy’s conservative premier, Giorgia Meloni, faces a pivotal political test in a two-day referendum on judicial reform that started on Sunday, a vote that has transformed into a broader judgment on her leadership at home and abroad.  Originally presented as a technical overhaul of the justice system, the reform has sharpened political divisions and unified the center‑left opposition, turning the referendum into a symbolic showdown on Meloni’s strength one year ahead of national elections.  After five hours of voting on the first day, according to Italy's Interior Ministry, turnout reached almost 15% of eligible voters.]]></description>
-            <link>https://www.yahoo.com/news/articles/italy-justice-referendum-becomes-high-060433913.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/italy-justice-referendum-becomes-high-060433913.html</guid>
-            <pubDate>Sun, 22 Mar 2026 14:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba begins recovery efforts after second grid collapse in a week]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tosmUsoddt7Q7FS5WMl1UA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b402de39efd38033bee35e8ced7ef2e0.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/cuba-begins-recovery-efforts-second-123630359.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-begins-recovery-efforts-second-123630359.html</guid>
-            <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
