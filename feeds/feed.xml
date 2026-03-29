@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 14:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 15:00:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli police prevent Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MF6pkIq5UdZPw8fLxQQw_w--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/5afc9fcd7e43dd3422dd3ce1c03fc93e.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-police-prevent-catholic-leaders-145500049.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-prevent-catholic-leaders-145500049.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan hosts regional powers for Iran talks with focus on Hormuz proposals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/b.01HbkI5PSxl77hhbT8ng--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4334d2a5cf47d776900d5b3cebe4efe4.cf.webp" alt="" /></p>(Corrects paragraph 6 to make clear the other countries (not Pakistan) forwarded proposals to the White House) By Ariba Shahid, Jonathan Spicer and Mubasher Bukhari ISLAMABAD/ISTANBUL, March 29 (]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-hosts-regional-powers-iran-133634766.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-hosts-regional-powers-iran-133634766.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 more arrests in attempted bombing at Bank of America building in Paris]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1fL_U3y92Vkm80ufXKzm8g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/8d6fd1589ba0238bbeeb5ede67484d6c.cf.webp" alt="" /></p>Police did not specify who was arrested or what role they may have played in the attempted bombing.]]></description>
+            <link>https://www.yahoo.com/news/articles/2-more-arrests-attempted-bombing-133914021.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-more-arrests-attempted-bombing-133914021.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran responds to reports US weighing ground operations: 'We will never accept humiliation']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DqDuOKIJ6SLl8mKOxgZ7Og--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/c6e33330b7087c2dc41a3f32cc38986f.cf.webp" alt="" /></p>Iran's parliament speaker vows never to accept "humiliation" as the Pentagon reportedly prepares ground force options near the Strait of Hormuz for Trump.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-responds-reports-us-weighing-122539355.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-responds-reports-us-weighing-122539355.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photos show daily life in Iraq's Basra near Iranian border as war slows trade]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.DGqyTSxYsue6CqXFIj40w--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9f827fc19f0e5dc117a5b9f756dc9947.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/photos-show-daily-life-iraqs-135210430.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-daily-life-iraqs-135210430.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/e2ZGmBfpvr_FaKNvvtgmUw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/57b4fdd89fd9bdf97fdd5e4e212d40e7.cf.webp" alt="" /></p>Iran reportedly hits E-3 Sentry flying radars, which track drones, missiles, aircraft from hundreds of kilometres away.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-hits-us-awacs-air-133305795.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-hits-us-awacs-air-133305795.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
         <item>
@@ -32,7 +62,6 @@ Foreign ministers from Pakistan, Saudi Arabia, Egypt and Turkey started talks on
 The Revolutionary Guards threatened US universities in the Middle East, while saying US-Israeli strikes had destroyed two Iranian universities.]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-132211476.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-132211476.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
         <item>
@@ -40,7 +69,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8ufH_8i3nuaMVineNYWOXQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3f6f446848d648a39d4d6d011502f80e.cf.webp" alt="" /></p>Acutely sensitive to noise because of childhood trauma, Nili stresses when air raid sirens send her into a crowded shelter where her own "internal war" overlaps with the one raging outside.So sometimes instead of going down, we have to stand outside," said her mother, Veena Azmanov, who noted that the noise inside the shelter, combined with the wail of sirens and boom of missile interceptions, can elevate stress.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-air-raid-sirens-spark-125222635.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-air-raid-sirens-spark-125222635.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
         <item>
@@ -48,7 +76,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YTxdRvsH6EBbbYw6yG38lg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b37a210c677aa62b1bbb07b1cf97ea59.cf.webp" alt="" /></p>The test was in line with Kim Jong Un's goals of targeting the U.S., but some experts speculate the claim may be exaggerated.]]></description>
             <link>https://www.yahoo.com/news/articles/north-korea-tests-missile-claims-122835749.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-tests-missile-claims-122835749.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
         <item>
@@ -7027,34 +7054,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
             <link>https://www.yahoo.com/news/articles/asian-business-headlines-4-10-040000131.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-business-headlines-4-10-040000131.html</guid>
-            <pubDate>Sun, 22 Mar 2026 05:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Damaged Russian tanker to be towed to Libya: state-owned company]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E90209AECB20504E561305443F52C2BFF1F084924E71CA23ED6F6FCEA4B7E0F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F76d1a75d866d144ba5fc2c19c61c5bfc" alt="" /></p>A damaged Russian gas tanker that was abandoned in the Mediterranean will be towed to a Libyan port, according to a state-owned oil company in the north African country. "It will be towed safely to one of the Libyan ports following coordination with the relevant authorities."]]></description>
-            <link>https://www.yahoo.com/news/articles/damaged-russian-tanker-towed-libya-034729583.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/damaged-russian-tanker-towed-libya-034729583.html</guid>
-            <pubDate>Sun, 22 Mar 2026 05:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan could consider Hormuz minesweeping if ceasefire reached, minister says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/682DE64D66B949B16D66BD6CE6B2289FA6E8DCC61CCC7890B17B6CA47C6671C5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F33835328349c8929bb91792ce4bb2805" alt="" /></p>TOKYO, March 22 (Reuters) - Japan could consider deploying its military for minesweeping in the Strait of Hormuz, a vital artery for global oil supplies, if a ceasefire is reached in the U.S.-Israeli]]></description>
-            <link>https://www.yahoo.com/news/articles/japan-could-consider-hormuz-minesweeping-034322809.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-could-consider-hormuz-minesweeping-034322809.html</guid>
-            <pubDate>Sun, 22 Mar 2026 05:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran missile strikes wound over 100 in two south Israel towns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1D0BF1833EE02ED56EF2A0167222D49E3A859BD7C1648785E1DBCC9F1C253C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2dc42e35c4112c458144604eb6638cab" alt="" /></p>Iranian missile strikes on two southern Israeli towns wounded more than 100 people on Saturday, medics said, after Israeli air defence systems failed to intercept the projectiles.The Israeli military said it would investigate the failed interception.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-missile-strikes-wound-over-003421271.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-missile-strikes-wound-over-003421271.html</guid>
-            <pubDate>Sun, 22 Mar 2026 05:20:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-China 'Board of Trade' may help ties but experts flag market worries]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D99FE8EB2A5E1196AF5CDEE68750CF7209E5571D0052394A406931FE7E494AE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F14f1e4b90ce4296bd087e6af82c347c0" alt="" /></p>As Washington and Beijing mull a new mechanism to adjust trade between the world's two largest economies, some analysts warn that it could interfere with market forces, while others consider it a path to smoother coexistence."That's not a good sign," he told AFP. "Where are the market forces?"]]></description>
-            <link>https://www.yahoo.com/news/articles/us-china-board-trade-may-014008699.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-china-board-trade-may-014008699.html</guid>
             <pubDate>Sun, 22 Mar 2026 05:20:56 GMT</pubDate>
         </item>
     </channel>
