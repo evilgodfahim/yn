@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 20:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:55:57 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 20:23:28 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 20:55:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran warns troops will be "set on fire" if U.S. launches ground operation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5rvu0RZVcKVKSpYgjtXCgw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/4ea28a32a4c1f30c0efae31db4308bd7.cf.webp" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-warns-troops-set-fire-200551938.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-warns-troops-set-fire-200551938.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 20:55:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hungary's anxious rural voters will decide Orban's fate]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZsZlyC0fJOWasGXYdulvNg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/6a78bc78c15cdc0193c5e0643992da05.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/hungarys-anxious-rural-voters-decide-195925898.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hungarys-anxious-rural-voters-decide-195925898.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 20:23:28 GMT</pubDate>
         </item>
         <item>
@@ -7043,13 +7050,6 @@ aoj/pm/pzb/ane/abs]]></description>
 Israeli Prime Minister Benjamin Netanyahu vowed to pursue senior commanders of Iran's Revolutionary Guards "personally", during a visit to an Israeli town struck by an Iranian missile the previous day.While Qatar has been targeted by several Iranian strikes since the start of the Middle East war, no connection has been made between the chopper and the conflict triggered by US-Israeli attacks on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-121319610.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-121319610.html</guid>
-            <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel orders destruction of bridges in Lebanon and homes near Israeli border]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/R_mXyyWMglWSU1T2abgguw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/33999ac7f1fa1bb0d5ac1b8cb712f563.cf.webp" alt="" /></p>By Alexander Cornwell TEL AVIV, March 22 (Reuters) - Israel's military has been ordered to destroy all bridges over Lebanon's Litani River and to step up the demolition of Lebanese homes near the]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-orders-destruction-bridges-lebanon-120805640.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-orders-destruction-bridges-lebanon-120805640.html</guid>
             <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
         </item>
     </channel>
