@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 19:54:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 20:23:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 19:54:22 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 20:23:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hungary's anxious rural voters will decide Orban's fate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZsZlyC0fJOWasGXYdulvNg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/6a78bc78c15cdc0193c5e0643992da05.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/hungarys-anxious-rural-voters-decide-195925898.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hungarys-anxious-rural-voters-decide-195925898.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 20:23:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pakistan prepares to host peace talks as Iran accuses US of ground assault plans]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/GoAbN0LVFHDFd5yoBZrdow--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/dd2ab3e0df983054689386393f255026.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-prepares-host-peace-talks-192921783.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-prepares-host-peace-talks-192921783.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 19:54:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran’s Parliament Speaker accused the U.S. of using negotiations as cover while ‘secretly planning a ground invasion.']]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-says-host-peace-talks-170545488.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-says-host-peace-talks-170545488.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 19:54:22 GMT</pubDate>
         </item>
         <item>
@@ -7044,13 +7050,6 @@ Israeli Prime Minister Benjamin Netanyahu vowed to pursue senior commanders of I
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/R_mXyyWMglWSU1T2abgguw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/33999ac7f1fa1bb0d5ac1b8cb712f563.cf.webp" alt="" /></p>By Alexander Cornwell TEL AVIV, March 22 (Reuters) - Israel's military has been ordered to destroy all bridges over Lebanon's Litani River and to step up the demolition of Lebanese homes near the]]></description>
             <link>https://www.yahoo.com/news/articles/israel-orders-destruction-bridges-lebanon-120805640.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-orders-destruction-bridges-lebanon-120805640.html</guid>
-            <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran missile hit rocks sense of security in Israel nuclear town]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cCfSJNYxYQX3_EviyXEKaw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8e1362b6c735c390d46d328fbb4cdf15.cf.webp" alt="" /></p>Galit Amir said she thought the presence of a key Israeli nuclear facility on the edge of her hometown Dimona meant it would be well-protected by air defences during the war with Iran. Israel's much-vaunted air defences failed to intercept the projectile, which Iran said was launched in response to a strike on its nuclear facility at Natanz.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-missile-hit-rocks-sense-114541594.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-missile-hit-rocks-sense-114541594.html</guid>
             <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
         </item>
     </channel>
