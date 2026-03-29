@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 20:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 21:26:25 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 20:55:57 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 21:26:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran threatens to ‘rain fire’ on US troops as possible ground war looms]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/t2Hq0VI0YWLNtL_orVuPTg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/83d4ba76e54a5096d025add83987fdf5.cf.webp" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-threatens-rain-fire-us-201244318.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-threatens-rain-fire-us-201244318.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 21:26:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran warns troops will be "set on fire" if U.S. launches ground operation]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5rvu0RZVcKVKSpYgjtXCgw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/4ea28a32a4c1f30c0efae31db4308bd7.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/iran-warns-troops-set-fire-200551938.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-warns-troops-set-fire-200551938.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 20:55:57 GMT</pubDate>
         </item>
         <item>
@@ -7041,15 +7048,6 @@ aoj/pm/pzb/ane/abs]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HUO4AUE3MWAcrA9GjGP8Lg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/f1f5b00a7e5d670702f005fb585a5403.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/photos-mideast-4th-week-iran-124316445.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-mideast-4th-week-iran-124316445.html</guid>
-            <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KQHQ7k3DoUadyRQ1M17p8A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b1d2c205d8c2de83f1a4c69e9c0fd266.cf.webp" alt="" /></p>Here are the latest developments in the Middle East war on Sunday:
-- Netanyahu vow -
-Israeli Prime Minister Benjamin Netanyahu vowed to pursue senior commanders of Iran's Revolutionary Guards "personally", during a visit to an Israeli town struck by an Iranian missile the previous day.While Qatar has been targeted by several Iranian strikes since the start of the Middle East war, no connection has been made between the chopper and the conflict triggered by US-Israeli attacks on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-121319610.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-121319610.html</guid>
             <pubDate>Sun, 22 Mar 2026 13:39:02 GMT</pubDate>
         </item>
     </channel>
