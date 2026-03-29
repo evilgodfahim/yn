@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 12:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 13:47:59 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 13:47:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[American-born Israeli soldier killed in combat in Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JwGlHreKbvXyHF.NAjpgLA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/29afb6d9fabac95033a74c677e43d5ca.cf.webp" alt="" /></p>Sgt. Moshe Yitzchak Hacohen Katz, 22, was born in Connecticut and served in the Israel Defense Forces' Paratroopers Brigade.]]></description>
+            <link>https://www.yahoo.com/news/articles/american-born-israeli-soldier-killed-114704995.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/american-born-israeli-soldier-killed-114704995.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 13:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China protests US alert over security rules change in Hong Kong]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MTjE1TfYktrfRJ27ezx4Tg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cc66177dc9dfb888474dc28db7053dc1.cf.webp" alt="" /></p>BEIJING, March 29 (Reuters) - China's top diplomat in Hong Kong has met the senior U.S. diplomat in the city to protest against a U.S. public alert over new security rules in Hong Kong, the Chinese]]></description>
+            <link>https://www.yahoo.com/news/articles/china-protests-us-alert-over-093916792.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-protests-us-alert-over-093916792.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 13:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea tests solid-fuel missile engine as Kim boosts threat to US mainland]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/62oIn_YF1sxmuuVA3Y1S.g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/0977c7fc8f633a77ecc8a812dd0251fe.cf.webp" alt="" /></p>Kim Jong Un oversaw a new solid-fuel rocket engine test, state media reports, as North Korea pushes to upgrade its long-range strategic strike capabilities.]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-tests-solid-fuel-112804670.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-tests-solid-fuel-112804670.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 29 Mar 2026 13:47:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Funeral near Beirut for journalists killed in Israeli strike]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1ta67ErL86O_FpNCJXjHSQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/94376459f3f7cba91f00d8e695ce0023.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/funeral-near-beirut-journalists-killed-115645410.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/funeral-near-beirut-journalists-killed-115645410.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3l2i09MQsva2ac2f.AUi1w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1068eb8f65f78147365d6b738c54badd.cf.webp" alt="" /></p>Top diplomats of Pakistan, Egypt, Saudi Arabia and Turkiye meet to prepare ground for de-escalation in war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-hosts-four-nation-bid-111043899.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-hosts-four-nation-bid-111043899.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Severe flooding, a landslide and thunderstorms in parts of Afghanistan have left 17 people dead and 26 injured over the last 24 hours, authorities said Sunday, the latest casualties from extreme weather in the country this season.  The number of casualties could increase as crews from the country’s National Disaster Management Authority survey the affected areas, the authority’s spokesman Yousuf Hammad said in a statement.  Thirteen of Afghanistan’s 34 provinces, mostly in the western, central and northwestern parts of the country, were affected.]]></description>
             <link>https://www.yahoo.com/news/articles/extreme-weather-afghanistan-leaves-17-103023015.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/extreme-weather-afghanistan-leaves-17-103023015.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jOauFJQw8TR7i07RVVctOQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/77edcf29c72b8340601263354d3fadd9.cf.webp" alt="" /></p>A North Korean forced labor survivor describes earning $800 a month but keeping only $10, with passports seized and no way to leave Russian work sites.]]></description>
             <link>https://www.yahoo.com/news/articles/north-korean-laborers-describe-brutal-100042100.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korean-laborers-describe-brutal-100042100.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
         </item>
         <item>
@@ -7031,27 +7051,6 @@ Blasts were heard and air raid sirens sounded in Jerusalem on Sunday, AFP journa
             <link>https://www.yahoo.com/news/articles/cuba-announces-second-nationwide-blackout-001338327.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-announces-second-nationwide-blackout-001338327.html</guid>
             <pubDate>Sun, 22 Mar 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slovenians vote in tight race between liberals and populist right]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/H2Uvth4Kuxu_tKW8MatjLg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/328d3188b4dd1864836dc4c7abe5f108.cf.webp" alt="" /></p>LJUBLJANA, March 22 (Reuters) - Slovenians will choose between incumbent liberal Prime Minister Robert Golob and right-wing populist Janez Jansa on Sunday, with neither looking likely to win a]]></description>
-            <link>https://www.yahoo.com/news/articles/slovenians-vote-tight-race-between-000212431.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/slovenians-vote-tight-race-between-000212431.html</guid>
-            <pubDate>Sun, 22 Mar 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2 Iranian strikes on towns near Israel's main nuclear research center injure dozens]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZubCHPMe8ZEL8U1R8BFWPg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/7075c4cb9c2c4a252d5dd7e959881cdd.cf.webp" alt="" /></p>Source: CBS News]]></description>
-            <link>https://www.yahoo.com/news/articles/2-iranian-strikes-towns-near-004451048.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-iranian-strikes-towns-near-004451048.html</guid>
-            <pubDate>Sun, 22 Mar 2026 01:27:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuban power grid collapses for second time in a week amid US oil blockade]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oKCt3cPyTUXCkdCRQbDRUQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/3d434a7bd66605105b475bb139b120b6.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/cubas-electric-grid-collapses-national-234519420.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cubas-electric-grid-collapses-national-234519420.html</guid>
-            <pubDate>Sun, 22 Mar 2026 01:27:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
