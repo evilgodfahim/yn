@@ -4,10 +4,26 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 23:57:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 02:26:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 23:57:44 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 02:26:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iranian attack damages Kuwait power and desalination plant, kills worker]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cFJzUv.xVq0n0uteKPAjJQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ef7cfcc83ea17179511bbe60073424cf.cf.webp" alt="" /></p>Kuwaiti authorities say Indian worker killed in attack that also caused ‘significant material damage’ to building.]]></description>
+            <link>https://www.yahoo.com/news/articles/iranian-attack-damages-kuwait-power-005255885.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-attack-damages-kuwait-power-005255885.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 02:26:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli military suspends battalion involved in assaulting, detaining CNN crew in West Bank]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SjJ8raAlG9L.kwQOyDMPWQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/344af29115c4851a0bbd6c640dd55daf.cf.webp" alt="" /></p>The Israeli military’s top general suspended all operational activities of a reserve battalion involved in the detention and assault of a CNN team in the West Bank last week, the Israeli military said Sunday.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-military-suspends-battalion-involved-224921730.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-military-suspends-battalion-involved-224921730.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 02:26:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Latin Patriarch to get immediate access to Holy Sepulchre: Netanyahu]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9DE3A4DCC03BBD8414C07A5A5CECAFD2C881C5B49D62BE4AAC500DEC8DD7E4CF/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3dfac207171419af9eba129ba80ff0ca" alt="" /></p>Source: AFP]]></description>
@@ -7034,20 +7050,6 @@ bur/sbk]]></description>
             <link>https://www.yahoo.com/news/articles/syrian-authorities-limits-alcohol-sales-151947468.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/syrian-authorities-limits-alcohol-sales-151947468.html</guid>
             <pubDate>Sun, 22 Mar 2026 15:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Treasury's Bessent says US has 'plenty' of funds for Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/s.XNip6a_2fvsqfUMHM2cg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a0a521ab3f9104a6ece82dabe00bf9e4.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/treasurys-bessent-says-us-plenty-151206784.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/treasurys-bessent-says-us-plenty-151206784.html</guid>
-            <pubDate>Sun, 22 Mar 2026 15:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba begins to restore power after third nationwide collapse in a month]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/gUKBjoTv4.GZ6j_cg6zFrw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/f22013d9c8f5728ab99a6c33bac16ecc.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/cuba-begins-restore-power-third-144757754.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-begins-restore-power-third-144757754.html</guid>
-            <pubDate>Sun, 22 Mar 2026 15:19:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
