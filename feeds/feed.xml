@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 22:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 23:03:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 22:27:47 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US Citizenship and Immigration Services resumes asylum claims after halt]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/zI5W9iPUmgZwsI8UMuqBOA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a7d11b9f7c023703c6153829600bfca5.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-citizenship-immigration-services-resumes-222225617.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-citizenship-immigration-services-resumes-222225617.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s parliament votes to expand death penalty for Palestinians]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ivjs_aAFc6Ojc2RUJJL0sQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/edd8177a0c3526778d7cf637aa6dac80.cf.webp" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-parliament-votes-expand-death-221458749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-parliament-votes-expand-death-221458749.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Dangerous escalation’: World reacts to Israel passing death penalty law]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9JIQnVvYEeR5J4U1DDrzfw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d39446cea37e198ffef3be2ae19474d8.cf.webp" alt="" /></p>Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk.]]></description>
+            <link>https://www.yahoo.com/news/articles/dangerous-escalation-world-reacts-israel-212912845.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dangerous-escalation-world-reacts-israel-212912845.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Factbox-How many people have been killed in the Iran war?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/trKDD4eNVjSiQwa_CbIj6w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4ad27dc6aadfae028eb824e7fc6f16cb.cf.webp" alt="" /></p>By Nayera Abdallah and Menna AlaaElDin March 30 (Reuters) - Thousands of people have been killed across the Middle East in the Iran war, which began when the U.S. and Israel struck Iran on February 28]]></description>
+            <link>https://www.yahoo.com/news/articles/factbox-many-people-killed-us-210906256.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-many-people-killed-us-210906256.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Attack on Michigan synagogue was Hezbollah-inspired 'act of terrorism,' FBI says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/yOpc8C_SG9vIFDKopvp7aQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/f8349fa365515e5a8c97edcfbd1988be.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/attack-michigan-synagogue-hezbollah-inspired-215641464.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/attack-michigan-synagogue-hezbollah-inspired-215641464.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 22:27:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/apjS7Dso8dMoYu6rawgxrg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/2b3b428f5a531c79477bcf9b891acfeb.cf.webp" alt="" /></p>US Secretary of State Marco Rubio spoke to Al Jazeera’s Hashem Ahelbarra about Iran war objectives.]]></description>
             <link>https://www.yahoo.com/news/articles/war-iran-key-takeaways-al-210325311.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-iran-key-takeaways-al-210325311.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 22:27:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.PfqzU_TE1zLmK333Rk_cQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/time_72/08f85662591b65fd3a4fff597800364c.cf.webp" alt="" /></p>Israel appears to be systematically targeting journalists who worked for media owned by Hezbollah. Even the group's opponents decry the killings as illegal.]]></description>
             <link>https://www.yahoo.com/news/articles/journalists-israel-killed-since-start-201346524.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/journalists-israel-killed-since-start-201346524.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 22:27:47 GMT</pubDate>
         </item>
         <item>
@@ -7022,34 +7051,6 @@ Frederiksen embodies the revamped Social Democrats, committed to a hard line on 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59A2E8E52BBF86532B1883A1B4AD8AF53CF7C8A34A67443367CF7275638E5DB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0e562a814e6ad85d2818517f48796039" alt="" /></p>Once the grand residences of Mughal-era nobility, the Indian capital's haveli homes now stand at a fragile crossroads -- a handful lovingly restored but many more sliding quietly into ruin.In nearby Roshanpura, only a scattering of old homes still stand.]]></description>
             <link>https://www.yahoo.com/news/articles/indias-historic-haveli-homes-caught-033815941.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indias-historic-haveli-homes-caught-033815941.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[N. Korea's Kim vows 'irreversible' nuclear status, warns Seoul of 'merciless' response]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/70181CC35DC0AA5E237F4A59F5934FE1A151E97527AAF7246E89C70F8C9E119D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F35dbca7ad4d8fcf25141fe8125565008" alt="" /></p>North Korea will never give up nuclear weapons, leader Kim Jong Un said, indicating that the country will soon designate South Korea the "most hostile state", state media reported Tuesday."We will designate South Korea as the most hostile state and deal with it by thoroughly rejecting and disregarding it," Kim said.]]></description>
-            <link>https://www.yahoo.com/news/articles/n-koreas-kim-vows-irreversible-032639107.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/n-koreas-kim-vows-irreversible-032639107.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Perfect Japan' posts spark Gen Z social media backlash]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5900E465AB99CC6C0AE0350F4571F3C95CA280C1AD2DDFD5B2451A11A0451942/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb6f46c89c4a4fba7f2b520f8bb4e6d78" alt="" /></p>Take an everyday video on any suburban transport network, add anime-style music and a rosy filter, and it's suddenly a scene from the Japanese holiday of your dreams.The short video posts on platforms like TikTok show how even just the words "Tokyo, Japan" with a cherry blossom emoji can make an otherwise banal street scene more appealing for some users.]]></description>
-            <link>https://www.yahoo.com/news/articles/perfect-japan-posts-spark-gen-025821422.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/perfect-japan-posts-spark-gen-025821422.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Silence not an option, says Canadian Sikh activist after fresh threats]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2AC9D30E35CECA1D7FCBFB7F6E348967B3B4F79377C06237F5597EAC9E67AA2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdeaf617c6ffaaa394a6299c635c6c9a1" alt="" /></p>When Moninder Singh learned recently of assassination threats against his family in Canada, where a fellow Sikh activist was killed in 2023, he says he remained defiant.The best-known case was the 2023 killing of Hardeep Singh Nijjar, a friend of Singh's who was gunned down near the Sikh temple he led in a Vancouver suburb.]]></description>
-            <link>https://www.yahoo.com/news/articles/silence-not-option-says-canadian-022202583.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/silence-not-option-says-canadian-022202583.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight people arrested in Brazil for 'brutal' attack on capybara]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/52C8575BD49C1A72686E7B167D406AEF4E5A20D524A24478C71A9B7EC2F71A93/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F097ba0b2296b249ce9026fbe39d4d159" alt="" /></p>Rio de Janeiro police said Monday they had arrested eight people for brutally beating a capybara -- the world's largest rodent whose chill demeanor has inspired countless memes online in recent years.In recent years the semi-aquatic capybara -- native to South America -- has gained a devoted following online, and its image is increasingly used on toys, clothing and home decor items.]]></description>
-            <link>https://www.yahoo.com/news/articles/eight-people-arrested-brazil-brutal-210721200.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eight-people-arrested-brazil-brutal-210721200.html</guid>
             <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
         </item>
     </channel>
