@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 17:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 18:12:02 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 18:12:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Powell says Fed is monitoring energy price spikes, but that it's limited in what it can do]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vsFmGG_LET7xPXl9FzQJ5Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/ff349eda0c03f3a7f6cf35724e70ba2d.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/powell-says-fed-monitoring-energy-175830041.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/powell-says-fed-monitoring-energy-175830041.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 18:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE announces death of another Mexican detainee in US immigration custody]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rWqpbinn7zaQjVEhQFqAQQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/17eb58c86e4d75aa899f3c1bbb78ced8.cf.webp" alt="" /></p>Mexico’s President Claudia Sheinbaum says her country will take steps to protest death of another Mexican citizen in US.]]></description>
+            <link>https://www.yahoo.com/news/articles/ice-announces-death-another-mexican-172051883.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ice-announces-death-another-mexican-172051883.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 18:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war 'shock' is dimming outlook for many economies, IMF says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qh3gmYbjGEWhfJK38rzYdw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4657625662e3e2b7580597660319ff03.cf.webp" alt="" /></p>By Andrea Shalal WASHINGTON, March 30 (Reuters) - The war in the Middle East has caused serious disruption to the economies of frontline countries, and is dimming the outlook for many economies that]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-war-dimming-outlook-many-150214649.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-dimming-outlook-many-150214649.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 18:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snowy owl, cheetah among 40 species granted international protection]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/g4YJB7EWiwJiWU7QgK5O.A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/f9427ded83a093f76d65f930e6dd7ec2.cf.webp" alt="" /></p>According to a recent report, nearly one in four species catalogued by the CMS are threatened with extinction on a worldwide scale.]]></description>
+            <link>https://www.yahoo.com/news/articles/snowy-owl-cheetah-among-40-160009265.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/snowy-owl-cheetah-among-40-160009265.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 18:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Somali army takes control of strategic city, regional leader resigns]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/OI6MKLKB8iKpltwp65fcvw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/35fa9626f1baa5302da55ac1c0c2312a.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/somali-national-army-takes-control-144719720.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/somali-national-army-takes-control-144719720.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kgmRjJlFrM1qRSfQB2ZQGw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cbc92eac20106c58b5ec801ccf507750.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/thousands-us-army-paratroopers-arrive-171434433.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-us-army-paratroopers-arrive-171434433.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>PORT-AU-PRINCE, March 30 (Reuters) - At least 16 people were killed and 10 more injured in an attack in Petite-Riviere, in Haiti's breadbasket Artibonite region, police said on Monday, amid a conflict]]></description>
             <link>https://www.yahoo.com/news/articles/least-16-dead-10-injured-164008668.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-16-dead-10-injured-164008668.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, March 30 (Reuters) - The U.N. peacekeeping mission in Lebanon (UNIFIL) said two of its members were killed in southern Lebanon on Monday after an explosion of "unknown origin" destroyed their]]></description>
             <link>https://www.yahoo.com/news/articles/un-says-two-peacekeepers-killed-164705722.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-says-two-peacekeepers-killed-164705722.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>UN says 3 peacekeepers killed in southern Lebanon in 24 hours.]]></description>
             <link>https://www.yahoo.com/news/articles/un-says-3-peacekeepers-killed-164134960.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-says-3-peacekeepers-killed-164134960.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pjbnqGpyEYkmV70s.lYlug--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/56067318b613d8a52d7f818ee0cd7bbd.cf.webp" alt="" /></p>Attack marks second time Oil Refineries facility in northern Israel targeted during US-Israeli war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/fire-contained-missile-attack-oil-162531068.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fire-contained-missile-attack-oil-162531068.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XBfAtA4yHmtBkJnaJc4KDA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ce2631eb5435c8b0c94f00fce9e203b4.cf.webp" alt="" /></p>At least 28 people are killed in Afghanistan and 17 in Pakistan after heavy rainfall causes severe flooding.]]></description>
             <link>https://www.yahoo.com/news/articles/heavy-rain-floods-kill-least-160449846.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/heavy-rain-floods-kill-least-160449846.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +94,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QG_yIeH6taRvewhBQxD8dw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/de07a796ab1b2f15837ed1f91ec0a1c1.cf.webp" alt="" /></p>Rights group says football tournament in Canada, Mexico and US poses risks for fans from local communities and abroad.]]></description>
             <link>https://www.yahoo.com/news/articles/fifa-world-cup-held-amid-155813630.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fifa-world-cup-held-amid-155813630.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +101,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZkHPN799yZzvg1kNwEXN7A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/89861a27f2b2af73a2a1ef510b50904b.cf.webp" alt="" /></p>MEXICO CITY, March 30 (Reuters) - Mexico President Claudia Sheinbaum said on Monday that her country has every right to send fuel to Cuba, whether for humanitarian or commercial reasons.]]></description>
             <link>https://www.yahoo.com/news/articles/president-sheinbaum-defends-mexicos-supply-155427281.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/president-sheinbaum-defends-mexicos-supply-155427281.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Simon Lewis WASHINGTON, March 30 (Reuters) - The United States on Monday formally reopened its embassy in Caracas, the State Department said, citing "a new chapter" in diplomatic relations with]]></description>
             <link>https://www.yahoo.com/news/articles/us-resumes-embassy-operations-venezuela-141542723.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-resumes-embassy-operations-venezuela-141542723.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XnZUQpcCbrAJhWivF87OVQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/9aa5a481d5e9ba7bc6f722f97dd886f0.cf.webp" alt="" /></p>Israeli officials say Iran's internet blackout is hiding war damage, jamming Starlink, and stopping civilians from organizing amid mounting regime pressure.]]></description>
             <link>https://www.yahoo.com/news/articles/irans-internet-blackout-hiding-strike-144112812.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-internet-blackout-hiding-strike-144112812.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 17:27:05 GMT</pubDate>
         </item>
         <item>
@@ -7029,36 +7050,6 @@ Frederiksen embodies the revamped Social Democrats, committed to a hard line on 
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lP3P6cjFosAu0JCPHGfDSQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1af67369dd628644d4cda0d3c5871bc6.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/colombian-military-plane-involved-accident-160732266.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombian-military-plane-involved-accident-160732266.html</guid>
-            <pubDate>Mon, 23 Mar 2026 21:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9ZPHeCNxRanHtpblSJL6zA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/4f8b034f8272a030a881c6e0eb111640.cf.webp" alt="" /></p>Here are the latest developments in the Middle East war on Monday:
-- Trump-Netanyahu call -
-Israeli Prime Minister Benjamin Netanyahu said that he had spoken with Donald Trump and that the US president believed the countries' military gains in Iran could be converted into a negotiated agreement that protected Israel's interests."President Trump believes there is a chance to leverage the tremendous achievements of the (Israeli military) and the US military in order to realise the war's objectives]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-194530895.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-194530895.html</guid>
-            <pubDate>Mon, 23 Mar 2026 21:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombian military plane crash kills at least one injures 77]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/oVIDZmv4b06z.ReEwz.91w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1989e4a826fa6312113fe067b0632d6b.cf.webp" alt="" /></p>Air Force says plane was carrying 114 passengers and 11 crew ⁠members, and authorities are investigating cause of crash.]]></description>
-            <link>https://www.yahoo.com/news/articles/colombian-military-plane-125-board-191127362.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombian-military-plane-125-board-191127362.html</guid>
-            <pubDate>Mon, 23 Mar 2026 21:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Small comforts fade and big worries grow as fuel prices surge globally]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/G8k0Ku6k2.yJy15zMa2atg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/8266b328effc97c44bf503b63c076d2a.cf.webp" alt="" /></p>As gas prices remain high, people around the globe are stretching their paychecks, giving up small comforts as everyday costs bloat and they try to keep up with their biggest bills.  “For now, we’re still managing to hold on,” said Luis Catalano, a taxi driver waiting to fuel up at a gas station in Buenos Aires, Argentina.  Across continents, the costs were hitting home.]]></description>
-            <link>https://www.yahoo.com/news/articles/small-comforts-fade-big-worries-184454873.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/small-comforts-fade-big-worries-184454873.html</guid>
-            <pubDate>Mon, 23 Mar 2026 21:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Military plane with 121 aboard crashes in Colombia, killing at least 1 and injuring 77]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IFAdtmFBRTYREDp..jSG4Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e6d10335996808cf0ba6a01d2953d890.cf.webp" alt="" /></p>A military transport plane with 121 people on board, mostly soldiers, crashed shortly after taking off Monday in southwestern Colombia, killing at least one person and leaving at least 77 injured, officials said.  Defense Minister Pedro Sánchez said on X that the “tragic accident” occurred in Puerto Leguizamo, a remote municipality in the Amazonian province of Putumayo, which borders the neighboring South American countries of Peru and Ecuador.  Images shared online by Colombian media outlets showed a black cloud of smoke rising from a field where the plane crashed and a truck with soldiers rushing to the site.]]></description>
-            <link>https://www.yahoo.com/news/articles/military-plane-crashes-southwestern-colombia-163834645.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/military-plane-crashes-southwestern-colombia-163834645.html</guid>
             <pubDate>Mon, 23 Mar 2026 21:29:16 GMT</pubDate>
         </item>
     </channel>
