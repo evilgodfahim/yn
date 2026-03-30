@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 23:03:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 23:56:56 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 23:56:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Dozens killed as gang attacks ravage western Haiti ahead of international force’s arrival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3YsYguPO82hYuTz3tO.jVA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/44a4543889153ee439c895089cc4d0bb.cf.webp" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/dozens-killed-gang-attacks-ravage-230111784.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dozens-killed-gang-attacks-ravage-230111784.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian regulator probes Facebook, YouTube over teen social media ban]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ryL04HmiaE4O7yQZ2qOjUQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/a9b275538048a97424f4ce85b0fd1d86.cf.webp" alt="" /></p>A host of tech giants including Facebook and YouTube are under investigation for potentially breaching Australia's world-leading social media ban for under-16s, the nation's online watchdog said Tuesday. There were "significant concerns" that Facebook, Instagram, Snapchat, TikTok and YouTube may have breached the ban, eSafety Commissioner Julie Inman Grant said.]]></description>
+            <link>https://www.yahoo.com/news/articles/australian-regulator-probes-facebook-youtube-222231788.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/australian-regulator-probes-facebook-youtube-222231788.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:56:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemeni lawmaker sues US military veterans, accusing them of attempting to kill him]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A Yemeni lawmaker says in a lawsuit that U.S. military veterans who worked for a private security firm were hired as mercenaries to kill him in 2015 on behalf of the United Arab Emirates as part of a campaign by the U.S. ally that targeted political opponents.  The lawsuit by Anssaf Ali Mayo in federal court in San Diego was unsealed last week, revealing details of the allegations against former executives and employees of Spear Operations Group, a private military contracting firm that incorporated in Delaware in 2015 but was dissolved in 2018.]]></description>
+            <link>https://www.yahoo.com/news/articles/yemeni-lawmaker-sues-us-military-222221342.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemeni-lawmaker-sues-us-military-222221342.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Mon, 30 Mar 2026 23:56:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Citizenship and Immigration Services resumes asylum claims after halt]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/zI5W9iPUmgZwsI8UMuqBOA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a7d11b9f7c023703c6153829600bfca5.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-citizenship-immigration-services-resumes-222225617.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-citizenship-immigration-services-resumes-222225617.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ivjs_aAFc6Ojc2RUJJL0sQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/edd8177a0c3526778d7cf637aa6dac80.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/israel-parliament-votes-expand-death-221458749.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-parliament-votes-expand-death-221458749.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9JIQnVvYEeR5J4U1DDrzfw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d39446cea37e198ffef3be2ae19474d8.cf.webp" alt="" /></p>Rights groups denounce Israeli legislation as a violation of international law that puts Palestinian prisoners at risk.]]></description>
             <link>https://www.yahoo.com/news/articles/dangerous-escalation-world-reacts-israel-212912845.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/dangerous-escalation-world-reacts-israel-212912845.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/trKDD4eNVjSiQwa_CbIj6w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4ad27dc6aadfae028eb824e7fc6f16cb.cf.webp" alt="" /></p>By Nayera Abdallah and Menna AlaaElDin March 30 (Reuters) - Thousands of people have been killed across the Middle East in the Iran war, which began when the U.S. and Israel struck Iran on February 28]]></description>
             <link>https://www.yahoo.com/news/articles/factbox-many-people-killed-us-210906256.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-many-people-killed-us-210906256.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 30 Mar 2026 23:03:18 GMT</pubDate>
         </item>
         <item>
@@ -7031,27 +7051,6 @@ Frederiksen embodies the revamped Social Democrats, committed to a hard line on 
             <link>https://www.yahoo.com/news/articles/1-000-old-temple-lies-032336645.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/1-000-old-temple-lies-032336645.html</guid>
             <pubDate>Tue, 24 Mar 2026 05:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bill O’Reilly: Troops on ground in Iran never going to happen]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ssVt3J6m7IFROgGZdc9syQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/4b4bb6eaeede40ddec3d0d4828b11e56.cf.webp" alt="" /></p>Bill O'Reilly says Trump administration is hoping the Iranian regime is in disarray after the Strait of Hormuz reopens.]]></description>
-            <link>https://www.yahoo.com/news/articles/bill-o-reilly-troops-ground-021948530.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bill-o-reilly-troops-ground-021948530.html</guid>
-            <pubDate>Tue, 24 Mar 2026 05:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark votes in close election, outgoing PM tipped to win]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8DFC8BAE2EDE646AC8731CC597CF578BFC911EEFCEDBC0E35B912771DCFBD0E5/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8cacb702d5f63ab8d592a8c05599c64c" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/denmark-votes-close-election-outgoing-033235638.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/denmark-votes-close-election-outgoing-033235638.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India's historic haveli homes caught between revival and ruin]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59A2E8E52BBF86532B1883A1B4AD8AF53CF7C8A34A67443367CF7275638E5DB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0e562a814e6ad85d2818517f48796039" alt="" /></p>Once the grand residences of Mughal-era nobility, the Indian capital's haveli homes now stand at a fragile crossroads -- a handful lovingly restored but many more sliding quietly into ruin.In nearby Roshanpura, only a scattering of old homes still stand.]]></description>
-            <link>https://www.yahoo.com/news/articles/indias-historic-haveli-homes-caught-033815941.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indias-historic-haveli-homes-caught-033815941.html</guid>
-            <pubDate>Tue, 24 Mar 2026 03:55:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
