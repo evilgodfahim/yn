@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 21:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 22:28:03 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 21:32:13 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘I need to leave’: Cuba’s tourism workers reel from US oil blockade]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_sIA9NRIEmrJYkKDVWMtHQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e3329e3cea6cf5261ca68089f0fb253c.cf.webp" alt="" /></p>From taxi drivers to tour guides, the collapse of Cuba’s tourism industry has left thousands struggling to get by.]]></description>
+            <link>https://www.yahoo.com/news/articles/leave-cuba-tourism-workers-reel-212449770.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/leave-cuba-tourism-workers-reel-212449770.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strikes hit Lebanon as Israel vows to occupy swathe of south after war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MP3JNZAc5Qah2Ik.XT.aeQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/eedad78fb7bc24f3b91b7fd8fc9d3f36.cf.webp" alt="" /></p>Lebanon said Israeli strikes hit near Beirut's main airport road on Tuesday, as the UN Security Council held an urgent meeting after three peacekeepers were killed in the south.One strike hit a building next to Beirut's main airport road after Israel's military warned it would strike a "Hezbollah facility" there.]]></description>
+            <link>https://www.yahoo.com/news/articles/strikes-hit-lebanon-israel-vows-204710491.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/strikes-hit-lebanon-israel-vows-204710491.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two-thirds of Americans want quick end to Iran war even if goals unachieved, Reuters/Ipsos poll finds]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vsn6_X7ZKTXGHQUVDgkIqA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/729bff3dee1d4d645ae8e491c1175592.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/two-thirds-americans-want-quick-210557405.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-thirds-americans-want-quick-210557405.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 21:32:13 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/b1QnkJdiP7VIezJakfxdzw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/de5f87b67ec3437596f753d7eb51895b.cf.webp" alt="" /></p>By Miguel Lo Bianco and Leila Miller BUENOS AIRES, March 31 (Reuters) - Every week, hundreds of people line up to fill a plastic container with food in an unlikely place: the humble home where]]></description>
             <link>https://www.yahoo.com/news/articles/maradonas-former-home-transformed-soup-115018485.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/maradonas-former-home-transformed-soup-115018485.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 21:32:13 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rkOsYZcehPIaZ9tw.9vblA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f.cf.webp" alt="" /></p>Gunmen on motorcycles shot sporadically into a Nigerian community on Palm Sunday, killing at least 20, residents say, prompting a 48-hour curfew in Plateau state.]]></description>
             <link>https://www.yahoo.com/news/articles/gunmen-bikes-storm-nigeria-village-183633405.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunmen-bikes-storm-nigeria-village-183633405.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 21:32:13 GMT</pubDate>
         </item>
         <item>
@@ -7041,20 +7054,6 @@ While the OSCE managed to get hundreds of its staff to safety when Russia invade
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/o.ZRk4BzF6VZ.dQRptQCdA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/105adc07e3bf5609b8e90a274614aefd.cf.webp" alt="" /></p>US President Donald Trump expressed optimism on Tuesday that a deal with Tehran is in sight, and said that Vice President JD Vance, Secretary of State Marco Rubio and others were leading negotiations.]]></description>
             <link>https://www.yahoo.com/news/articles/know-day-26-us-israel-034359986.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-day-26-us-israel-034359986.html</guid>
-            <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says ‘non-hostile’ ships can pass safely through Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UEnuw.gHZPTDEHjwj_BLFg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/93f0b91a1deca059de5050d35c46d29f.cf.webp" alt="" /></p>Tehran’s statement on opening of key waterway comes as US President Trump says talks are taking place to end the war.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-says-non-hostile-ships-033109039.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-non-hostile-ships-033109039.html</guid>
-            <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dirty diapers born again in Japan recycling breakthrough]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cAKjmOHzaSaO2VmWcjVn8w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/2ee830342c9a255b6af46126ff6aba6f.cf.webp" alt="" /></p>Billions of dirty diapers end up buried or burned every year in Japan  -- more from seniors than babies -- but a recycling breakthrough has given them a new lease of life, one hot mess at a time.In 2024, Japan produced 9.6 billion adult diapers and incontinence pads, compared to eight billion for babies, according to the Japan Hygiene Products Industry Association.]]></description>
-            <link>https://www.yahoo.com/news/articles/dirty-diapers-born-again-japan-030058186.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dirty-diapers-born-again-japan-030058186.html</guid>
             <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
         </item>
     </channel>
