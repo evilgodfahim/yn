@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 22:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 22:59:14 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 22:59:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russian tanker reaches Cuba amid critical energy shortage]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RZsHokeMjI9CyFlW02WDVg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c4df4890fb6f2b04eb48a340e3316596.cf.webp" alt="" /></p>Russian tanker delivers enough fuel to meet Cuba’s energy needs for up to 10 days, following a three-month blockade.]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-tanker-reaches-cuba-amid-212556442.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-tanker-reaches-cuba-amid-212556442.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers renew attacks on West Bank village where Israeli soldiers detained, assaulted CNN crew]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/AsGiAwTFO.8pikuCw4Z7mw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/d5570d91043170a088272fcd11d62647.cf.webp" alt="" /></p>Israeli settlers on Tuesday mounted another attack in the West Bank village of Tayasir, days after a CNN team covering the establishment of an illegal settler outpost were detained and assaulted by Israeli soldiers.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-settlers-renew-attacks-west-201644531.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-settlers-renew-attacks-west-201644531.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Tue, 31 Mar 2026 22:59:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘I need to leave’: Cuba’s tourism workers reel from US oil blockade]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_sIA9NRIEmrJYkKDVWMtHQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e3329e3cea6cf5261ca68089f0fb253c.cf.webp" alt="" /></p>From taxi drivers to tour guides, the collapse of Cuba’s tourism industry has left thousands struggling to get by.]]></description>
             <link>https://www.yahoo.com/news/articles/leave-cuba-tourism-workers-reel-212449770.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/leave-cuba-tourism-workers-reel-212449770.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MP3JNZAc5Qah2Ik.XT.aeQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/eedad78fb7bc24f3b91b7fd8fc9d3f36.cf.webp" alt="" /></p>Lebanon said Israeli strikes hit near Beirut's main airport road on Tuesday, as the UN Security Council held an urgent meeting after three peacekeepers were killed in the south.One strike hit a building next to Beirut's main airport road after Israel's military warned it would strike a "Hezbollah facility" there.]]></description>
             <link>https://www.yahoo.com/news/articles/strikes-hit-lebanon-israel-vows-204710491.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/strikes-hit-lebanon-israel-vows-204710491.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 31 Mar 2026 22:28:03 GMT</pubDate>
         </item>
         <item>
@@ -7040,20 +7054,6 @@ While the OSCE managed to get hundreds of its staff to safety when Russia invade
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian military mocks Trump's claim of US-Iran negotiations]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-07-040000686.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-07-040000686.html</guid>
-            <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 4:25 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Afghanistan releases American national Dennis Coyle held for more than a year]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-4-25-m-040000148.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-25-m-040000148.html</guid>
-            <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we know on Day 26 of the US and Israel’s war with Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/o.ZRk4BzF6VZ.dQRptQCdA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/105adc07e3bf5609b8e90a274614aefd.cf.webp" alt="" /></p>US President Donald Trump expressed optimism on Tuesday that a deal with Tehran is in sight, and said that Vice President JD Vance, Secretary of State Marco Rubio and others were leading negotiations.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-day-26-us-israel-034359986.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-day-26-us-israel-034359986.html</guid>
             <pubDate>Wed, 25 Mar 2026 05:42:17 GMT</pubDate>
         </item>
     </channel>
