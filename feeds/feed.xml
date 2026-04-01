@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 23:06:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 23:55:08 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 23:06:45 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bahamas heads for early election on May 12]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4RiJXRtuVoisu5R26FJPPQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5f817e97da75a27436c37112e8e9f8ac.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/bahamas-heads-early-election-may-234620576.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahamas-heads-early-election-may-234620576.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First troops from UN-backed Gang Suppression Force arrive in Haiti]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/fZpafnNyBwSrQEiI6dbIzg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7b195fa7105341c86d55622b455ecdc0.cf.webp" alt="" /></p>The force has an initial mandate of 12 months to address widespread gang violence in Haiti ahead of its elections.]]></description>
+            <link>https://www.yahoo.com/news/articles/first-troops-un-backed-gang-231908439.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/first-troops-un-backed-gang-231908439.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Korea's Lee says he seeks to work together with France on AI, nuclear energy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3hECZFCXOhDIk8jvbi.W1A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/dd499e6a57a21c2cd84fb60fdafdead9.cf.webp" alt="" /></p>SEOUL, April 2 (Reuters) - South Korean President Lee Jae Myung said ties with France must go beyond partnership and become a pursuit of strategic collaboration that includes artificial intelligence]]></description>
+            <link>https://www.yahoo.com/news/articles/south-koreas-lee-says-seeks-225235962.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-koreas-lee-says-seeks-225235962.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US removes sanctions on Venezuela’s interim President Delcy Rodriguez]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6G3sckV1R1LbPWEVb6rVwA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/8c442f92b803295af39ce1453d0c0448.cf.webp" alt="" /></p>US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-removes-sanctions-venezuela-interim-221246952.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-removes-sanctions-venezuela-interim-221246952.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FBI arrives in Cuba to investigate deadly speedboat shootout]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kkZHHo2M7Y86fAXtgvHy4g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/2ca2c2f9db4d34d52e9d135a8e0d7e3e.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/fbi-arrives-cuba-investigate-deadly-222053403.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fbi-arrives-cuba-investigate-deadly-222053403.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:06:45 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Fh87QqOn_UIsCYyxChft9w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/49d99112e96a8e21e7f7b7cc3245724e.cf.webp" alt="" /></p>WELLINGTON, April 2 (Reuters) - New Zealand Prime Minister Christopher Luxon on Thursday appointed Chris Penk as defence minister in a Cabinet reshuffle, handing a former naval officer responsibility]]></description>
             <link>https://www.yahoo.com/news/articles/luxon-appoints-penk-lead-zealand-220503976.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/luxon-appoints-penk-lead-zealand-220503976.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:06:45 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The leader appealed to the American public to “look beyond” what he characterized as “the machinery of misinformation” amid the war in his country.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-president-pens-open-letter-213353861.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-president-pens-open-letter-213353861.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:06:45 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0f0JKxYp6KaqVYSoWVKacA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/445300e52e83166167adb99ee5aad1fc.cf.webp" alt="" /></p>The United States on Wednesday lifted sanctions against Venezuela's interim President Delcy Rodriguez, who took power after Washington ousted her predecessor Nicolas Maduro in a military operation in January.The reopening came after the US military operation that seized Maduro and his wife Cilia Flores from Caracas on January 3, taking them to New York to face drug trafficking charges that they deny.]]></description>
             <link>https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuelan-interim-212315126.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuelan-interim-212315126.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:06:45 GMT</pubDate>
         </item>
         <item>
@@ -7027,34 +7055,6 @@ US President Donald Trump said Iran "better get serious soon" in US talks to end
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A491E2C2368F552823B1162C4D75A539F8F7C6E3C433A72C97FEF2E953301B7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F189cbeb7a1ec069c4440fbbb1e6477f3" alt="" /></p>Trump and his administration have never explicitly stated regime change as an objective of the war with Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/john-bolton-trump-claims-regime-231518981.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/john-bolton-trump-claims-regime-231518981.html</guid>
-            <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to know about the safety system that failed to prevent the deadly runway collision at LaGuardia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83DF3ABDB62133E5FFEA23C5EDE62DB48A6537363B65286402B39C881753095B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fff5b86f6f3ef564c200ff1440a63f1af" alt="" /></p>The systems in place at New York's LaGuardia Airport to prevent ground collisions failed to keep an Air Canada jet from smashing into a fire truck that had just pulled out on the runway as the plane was landing.  The National Transportation Safety Board will determine what went wrong before Sunday's crash that killed both pilots and injured dozens of others.  One of the two air traffic controllers on duty that night cleared the fire truck to cross the runway just 12 seconds before the plane carrying 76 people touched down.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-safety-system-failed-prevent-225353447.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-safety-system-failed-prevent-225353447.html</guid>
-            <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK authorises military to board Russian shadow fleet tankers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B9E3B22C4AF34B2EC769D2C9148AAF8036167D42BE54794AA6B346F7F770A667/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fda522bb3f9908908a0246fbde920187a" alt="" /></p>LONDON, March 25 (Reuters) - British Prime Minister Keir Starmer said on Wednesday he has given the military permission to board and detain Russian ships his government alleges are part of a network]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-authorises-military-board-russian-223341085.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-authorises-military-board-russian-223341085.html</guid>
-            <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kennedy allies petition to broaden US vaccine injury list]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21F8D654A49E1F34FBB49748A27A5EBC094743DADE3018AA2489D4BC1CE3AC20/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4ed231b5668277a45bd0e681b024e581" alt="" /></p>By Ahmed Aboulenein and Julie Steenhuysen WASHINGTON, March 25 (Reuters) - An anti-vaccine group aligned with U.S. Health Secretary Robert F.]]></description>
-            <link>https://www.yahoo.com/news/articles/kennedy-allies-petition-broaden-us-220326234.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/kennedy-allies-petition-broaden-us-220326234.html</guid>
-            <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea's Kim Jong Un welcomed Belarus President Lukashenko to Pyongyang, KCNA says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F55C55357921628EDC3E33BCABC7ECEF1D15D4B54E4EA19EFFA723A1EBADB635/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1a731b5e9e63989c6c2da4434478cf59" alt="" /></p>SEOUL, March 26 (Reuters) - North Korean leader Kim Jong Un welcomed Belarusian President Alexander Lukashenko to Pyongyang on Wednesday, North Korean state media KCNA said on Thursday, touting ties]]></description>
-            <link>https://www.yahoo.com/news/articles/north-koreas-kim-jong-un-213023548.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-jong-un-213023548.html</guid>
             <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
         </item>
     </channel>
