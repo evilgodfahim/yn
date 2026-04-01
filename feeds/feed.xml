@@ -4,16 +4,95 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 09:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 10:33:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indonesia to deport Scottish crime boss wanted by Spain on murder and drug trafficking charges]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sciRPR_6McGZlwhUUpsRNA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6ce9251534173acdabc4161deb0d5cf3.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesia-deport-scottish-crime-boss-102237318.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-deport-scottish-crime-boss-102237318.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luigi Mangione due in court in bid to delay federal trial over CEO killing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_FPKgNIapKcE.cyrzuXUjA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/db4387d5571e49757fbe1e550ef7793a.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/luigi-mangione-due-court-bid-100207510.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/luigi-mangione-due-court-bid-100207510.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel kills 7 people in Beirut, Hezbollah fights invasion in south Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/p2eJDMdBzxklQic__hq7rA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/f204fa586a051859087b938ac50b95f8.cf.webp" alt="" /></p>The Israeli military says it aimed to kill a senior Hezbollah commander as it launched its latest attacks on Beirut.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-kills-7-people-beirut-100517699.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-kills-7-people-beirut-100517699.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US and Iraqi officials say kidnapped journalist had been warned of threats]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>An American journalist who was kidnapped in Baghdad had tried to cross from Syria into Iraq three weeks earlier and was initially turned back, an Iraqi official said Wednesday.  U.S. and Iraqi officials said Shelly Renee Kittleson had also been warned of threats against her in the days before her abduction.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-iraqi-officials-kidnapped-journalist-100500978.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iraqi-officials-kidnapped-journalist-100500978.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the Iran War Cracked Dubai’s Liberal Facade]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The Iran War has the UAE showing its true authoritarian colors as its government scrambles to control the conflict narrative.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-war-cracked-dubai-liberal-095500482.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-cracked-dubai-liberal-095500482.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Threatens to Target U.S. Tech Firms if War Continues to Escalate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The Islamic Revolutionary Guard Corps released a list of 18 potential targets for retaliation, including Apple, Google, and Meta, if there are further assassinations of Iranian leaders.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-threatens-target-u-tech-094500921.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-threatens-target-u-tech-094500921.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India begins world’s largest population census]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Lnxbsc98dOp7R2fp9W6PvQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/28ee4394b2ac42057c09b68ec5096a8a.cf.webp" alt="" /></p>More than three million Indian officials have begun the yearlong task of counting the country’s population.]]></description>
+            <link>https://www.yahoo.com/news/articles/india-begins-world-largest-population-084721252.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/india-begins-world-largest-population-084721252.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippines eyes 'deepening cooperation' with Iran on energy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/O7_RtSbgSw9M8hPqTkZdPA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c46e0b7dcccdfdd7ec42ef469e7e8b05.cf.webp" alt="" /></p>The Philippines is committed to "deepening cooperation" with Iran, particularly on energy, Manila's foreign secretary said on Wednesday as the import-dependent archipelago jockeys with other regional countries for desperately needed oil."Building on the momentum of our Political Consultations last November 2025, we are committed to deepening our cooperation across all fronts, particularly energy cooperation," she said of the meeting.]]></description>
+            <link>https://www.yahoo.com/news/articles/philippines-eyes-deepening-cooperation-iran-084151922.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/philippines-eyes-deepening-cooperation-iran-084151922.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AP Exclusive: Pakistan, Afghan Taliban resume talks in China as Beijing seeks ceasefire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Pakistan and Afghanistan’s Taliban governments have resumed talks in China, which is mediating between the two sides to broker a durable ceasefire after more than a month of fighting, two Pakistani officials said Wednesday.  A third person who is in a position to know about China's mediation efforts said the talks were aimed at ending the current fighting.  Representatives from both countries are meeting in Urumqi, in northern China, the officials told The Associated Press, speaking on condition of anonymity because they were not authorized to brief the media.]]></description>
+            <link>https://www.yahoo.com/news/articles/ap-exclusive-pakistan-afghan-taliban-083514062.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ap-exclusive-pakistan-afghan-taliban-083514062.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jailed Palestinians fear death by hanging without due process under new Israeli law]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mHNAdAQyGeQHn1.pVzKGAQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1a6796126de999ced406668279e7b1e6.cf.webp" alt="" /></p>(Corrects paragraph 21 to reflect that Adalah's petition against the law was separate to the one filed by ACRI) By Ali Sawafta and Pesha Magid RAMALLAH/JERUSALEM, March 31 (Reuters) - Palestinians in]]></description>
+            <link>https://www.yahoo.com/news/articles/jailed-palestinians-fear-death-hanging-175104956.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jailed-palestinians-fear-death-hanging-175104956.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 10:33:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Photos show the scene in Beirut's Jnah area after an Israeli airstrike hits Lebanese capital]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/q5zFItkA_o9bprF1vJhzbQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/a5a866791e2cc7a131e0e6dbff652a32.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/photos-show-scene-beiruts-jnah-085720102.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-scene-beiruts-jnah-085720102.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +100,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/x4rwZN3jntJG_6PWChMpTg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/41ac175ac16cf1502c703f70e408a666.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/australia-pm-warns-months-ahead-083509342.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/australia-pm-warns-months-ahead-083509342.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +107,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Pakistan and Afghanistan's Taliban governments have resumed peace talks in China, Pakistani officials tell AP.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-afghanistan-taliban-governments-resumed-083301891.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-afghanistan-taliban-governments-resumed-083301891.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +114,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2aoefBOs1jS7EBZqNfqmTQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/21e1806a459fb38b66dc59ad554853a7.cf.webp" alt="" /></p>Araghchi confirmed direct talks with Witkoff but denied that they constituted negotiations in an exclusive interview.]]></description>
             <link>https://www.yahoo.com/news/articles/war-iran-three-key-takeaways-082751745.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-iran-three-key-takeaways-082751745.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +121,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9W8P8TSZ.7rLKiBBX8DeXg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/4002e358a868b5b86ad6ea8ad88445b8.cf.webp" alt="" /></p>Beirut is bursting.  It's been a month since Hezbollah fired rockets into Israel after the U.S.-Israeli attack on its patron, Iran, triggering Israeli bombardment of Lebanon and a ground invasion.  Since then, more than 1 million people from southern and eastern Lebanon and Beirut's southern suburbs have fled.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanese-displaced-war-fill-beiruts-080303834.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanese-displaced-war-fill-beiruts-080303834.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +128,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8xf7hJCDoSwZmOcq.oanJQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/7ed63b137c2515b7fbd09f35cfbcdae4.cf.webp" alt="" /></p>By Alasdair Pal and Christine Chen SYDNEY, April 1 (Reuters) - Australian Prime Minister Anthony Albanese warned the economic shocks of the war in the Middle East would be felt for months and]]></description>
             <link>https://www.yahoo.com/news/articles/australia-pm-albanese-address-nation-042902533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/australia-pm-albanese-address-nation-042902533.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +135,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UnL8JeKPJgXNCszhOHpTZw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/2ce15cebc48130e887cc26fb70aee907.cf.webp" alt="" /></p>Should the U.S. decide to send in military forces to secure Iran’s uranium stockpile, it would be a complex, risky and lengthy operation, fraught with radiation and chemical dangers, according to experts and former government officials.  U.S. President Donald Trump has offered shifting reasons for the war in Iran but has consistently said a primary objective is ensuring the country will “never have a nuclear weapon.” Less clear is how far he is willing to go to seize Iran’s nuclear material.  Given the risks of inserting as many as 1,000 specially trained forces into a war zone to remove the stockpile, another option would be a negotiated settlement with Iran that would allow the material to be surrendered and secured without using force.]]></description>
             <link>https://www.yahoo.com/news/articles/securing-irans-enriched-uranium-force-075658127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/securing-irans-enriched-uranium-force-075658127.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +142,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7guOQUHDFE4LiP7VcLstxw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b8e7b0c3f8e8cbda047595d67af11f12.cf.webp" alt="" /></p>YOGYAKARTA, Indonesia, April 1 (Reuters) - Indonesia has called on the United Nations to investigate the the deaths of three of its UNIFIL peacekeepers following Israeli strikes in southern Lebanon, a]]></description>
             <link>https://www.yahoo.com/news/articles/indonesia-demands-un-investigation-peacekeeper-033153214.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-demands-un-investigation-peacekeeper-033153214.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +149,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3p6rd3F08beNzC3Va0L8GQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ccefc27fe8cfe78020ad18c9e04e85a1.cf.webp" alt="" /></p>Shrapnel from an Iranian drone interception kills a Bangladeshi national in the UAE’s Fujairah city.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-attacks-cause-fire-kuwait-075412640.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-attacks-cause-fire-kuwait-075412640.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +156,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ANKARA, April 1 (Reuters) - At least 18 people were killed when an inflatable boat carrying migrants sank off Turkey's western province of Mugla on Wednesday, the coastguard said in a statement,]]></description>
             <link>https://www.yahoo.com/news/articles/least-18-dead-migrant-boat-073213642.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-18-dead-migrant-boat-073213642.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +163,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_EbvdW_G4A75l55nGiVXhg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a1093a8872474d9669d313c974ecc3a0.cf.webp" alt="" /></p>BUCHAREST, April 1 (Reuters) - Ukrainian drone manufacturers are meeting Romanian defence ministry and army officials in the capital Bucharest this week to discuss potential joint production under a]]></description>
             <link>https://www.yahoo.com/news/articles/romania-ukraine-advance-talks-eu-073202641.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/romania-ukraine-advance-talks-eu-073202641.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +170,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A Russian military plane crash in annexed Crimea has killed six crew and 23 passengers, Russian news agencies reported in the early hours of Wednesday, citing the Defense Ministry.  The An-26 military transport plane was carrying out a scheduled flight over the Crimean Peninsula, which Russia illegally annexed from Ukraine in 2014, the reports said.  The Soviet-designed military transport turboprop aircraft crashed into a cliff, sources at the scene told state news agencies Tass and RIA Novosti.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-military-plane-crashes-annexed-054624869.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-military-plane-crashes-annexed-054624869.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -110,7 +178,6 @@
 Easter celebrations are shaping up to be sombre for Christians in the Middle East.]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-celebrates-first-easter-050456432.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-celebrates-first-easter-050456432.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -118,7 +185,6 @@ Easter celebrations are shaping up to be sombre for Christians in the Middle Eas
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tWQZ57fXpXifxEF4jA87.g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/c769a9591a2490c525ea2aed7c15cf71.cf.webp" alt="" /></p>A string of self-driving robotaxis owned by Chinese internet giant Baidu stalled in central China, stranding passengers after an apparent "system malfunction", police said Wednesday."After investigation, preliminary findings suggest the cause was system malfunction," police added, without specifying how many cars were impacted.]]></description>
             <link>https://www.yahoo.com/news/articles/chinese-robotaxis-stall-apparent-malfunction-045543320.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/chinese-robotaxis-stall-apparent-malfunction-045543320.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 09:11:29 GMT</pubDate>
         </item>
         <item>
@@ -6996,76 +7062,6 @@ But Leavitt warned that it was time for Iran to make a deal, asserting that Trum
             <link>https://www.yahoo.com/news/articles/more-2-million-people-darfur-133313709.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/more-2-million-people-darfur-133313709.html</guid>
             <pubDate>Wed, 25 Mar 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factbox-What's at stake in Hungary's parliamentary election?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF4D120BCD878860EBF119552596F2943B33683ACCA47B27919D54162ADF199D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F024572131df3f3f258b852b70298e963" alt="" /></p>By Krisztina Than BUDAPEST, March 25 (Reuters) - Viktor Orban, the European Union's longest-serving prime minister, could lose power in an election on April 12 after 16 years at Hungary's helm,]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-whats-stake-hungarys-parliamentary-133146758.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-whats-stake-hungarys-parliamentary-133146758.html</guid>
-            <pubDate>Wed, 25 Mar 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian attacks amount to violation of sovereignty, Gulf states tell UN]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC6B04D0C4F6A48E7A758E63AF84B11772CDF702B62E55C244A7C5DF6BC75CC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6932f1fe5dad7a6e5e1a3d38e044c393" alt="" /></p>UN Human Rights Council passes resolution demanding end to Iran’s ‘unprovoked attacks’ on countries in the Middle East.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-attacks-amount-violation-sovereignty-130022082.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-attacks-amount-violation-sovereignty-130022082.html</guid>
-            <pubDate>Wed, 25 Mar 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain's Sanchez says global citizens shouldn't pay for fallout of Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F9181A2E24E52E38C84BC0150F1123F05AB555B473D4217B1ACE4FC8E70C3CC1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F09976b50814b68ce5c0facb50f48e42e" alt="" /></p>By Victoria Waldersee MADRID, March 25 (Reuters) - Spanish Prime Minister Pedro Sanchez said on Wednesday it was unjust for citizens worldwide to bear the cost of what he called illegal U.S. and]]></description>
-            <link>https://www.yahoo.com/news/articles/spains-sanchez-says-global-citizens-124149896.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spains-sanchez-says-global-citizens-124149896.html</guid>
-            <pubDate>Wed, 25 Mar 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US eyes swift Middle East return of mine sweepers held up in Singapore, official says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 25 (Reuters) - The U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-eyes-swift-middle-east-124557802.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-eyes-swift-middle-east-124557802.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As Equals: Frequently Asked Questions]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>As Equals is a CNN project that aims to reveal what systemic gender inequality looks like.]]></description>
-            <link>https://www.yahoo.com/news/articles/equals-frequently-asked-questions-123118494.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/equals-frequently-asked-questions-123118494.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Casey Means' surgeon general nomination is in limbo]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vLkiGxjOKNieGKtOtf1thA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1b995de5847d6c2ddb652f155feeb0fa.cf.webp" alt="" /></p>Wellness influencer Dr. Casey Means’ nomination to be U.S. surgeon general is stalled a month after senators of both major political parties grilled her on vaccines and other health topics during a tense confirmation hearing, deepening doubts about her ability to secure the votes she needs for the role.  The nomination has languished despite ongoing efforts from the White House and Make America Healthy Again activists, revealing how intractable rifts over health policy can be even when Congress has shown deference to President Donald Trump.  It's become the latest snag in Health Secretary Robert F. Kennedy Jr.'s agenda after two legal setbacks last week.]]></description>
-            <link>https://www.yahoo.com/news/articles/means-surgeon-general-nomination-stalled-113938705.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/means-surgeon-general-nomination-stalled-113938705.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:14:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US import prices post largest gain in nearly four years in February]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/eV5RuuYmCXHg.un0zY_w6A--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8c2d9660d393578bebc08455d6f3389a.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-import-prices-post-largest-124609390.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-import-prices-post-largest-124609390.html</guid>
-            <pubDate>Wed, 25 Mar 2026 12:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran mediation: What are each side’s demands – and is a deal possible?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4yRAyn8uc059sRWNW9zb7g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ff63b192a5cbe20439c3fd204866baec.cf.webp" alt="" /></p>Trump’s envoys have sent a 15-point ceasefire plan to Iran via Pakistan. But Tehran has its own conditions.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-iran-mediation-side-demands-114509901.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-mediation-side-demands-114509901.html</guid>
-            <pubDate>Wed, 25 Mar 2026 12:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defying Israeli bombs, Lebanese hold out in southern city of Tyre]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vS9rOcrynT9nxMxvH4Cnkw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/260094c1a5548dae699bcd141cf86e37.cf.webp" alt="" /></p>Khalil and his young family are sheltering in a theatre in south Lebanon's Tyre, refusing to leave despite Israeli bombardment on the city that is now almost cut off from the rest of the country.Israel has bombed several bridges spanning the Litani, saying it wants to prevent Hezbollah from resupplying there, while Lebanon's president has accused Israel of wanting to cut off the area from the rest of the country.]]></description>
-            <link>https://www.yahoo.com/news/articles/defying-israeli-bombs-lebanese-hold-114252760.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/defying-israeli-bombs-lebanese-hold-114252760.html</guid>
-            <pubDate>Wed, 25 Mar 2026 12:51:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon says it will ramp up war supplies with defense companies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HcI6FMj36oKbJI2_JzCUgA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/df50e3fba7a988077e66882364220cbb.cf.webp" alt="" /></p>WASHINGTON, March 25 (Reuters) - The Pentagon said on Wednesday it had reached framework agreements with BAE, Lockheed and Honeywell to boost production of defense systems and munitions as part of its]]></description>
-            <link>https://www.yahoo.com/news/articles/pentagon-says-ramp-war-supplies-113856696.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pentagon-says-ramp-war-supplies-113856696.html</guid>
-            <pubDate>Wed, 25 Mar 2026 12:51:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
