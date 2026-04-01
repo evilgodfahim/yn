@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 21:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Apr 2026 22:30:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
+        <pubDate>Wed, 01 Apr 2026 22:30:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US lifts sanctions on Venezuela’s acting President Delcy Rodríguez]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8Sjov4rak2_QT6KQbzutDw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9742b34013e7f0a35a5a6035118c2c17.cf.webp" alt="" /></p>The U.S. on Wednesday lifted sanctions on Venezuela’s acting President Delcy Rodríguez, according to an Office of Foreign Assets Control entry on the Treasury Department website.  The newly announced sanctions relief is the latest U.S. recognition of Rodríguez as a legitimate authority in Venezuela ever since the U.S. military captured her predecessor, Nicolás Maduro, and his wife on Jan. 3 in Venezuela’s capital, Caracas.  The move allows Rodríguez to more freely work with U.S. companies and investors.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuela-acting-203422480.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuela-acting-203422480.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 01 Apr 2026 22:30:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US lifts sanctions on Venezuela acting president, opening door for assets control]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3jPuc9bAN5fmHmeydcMAgg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/6c31ad4dc8cf844ff478eb54f94996c9.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuelas-interim-195137515.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-lifts-sanctions-venezuelas-interim-195137515.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/C1r4EGcKY3H7PJyMrmtuBA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c4999d32436f0994f2ff73b18257e5f8.cf.webp" alt="" /></p>In open letter, Iranian President Masoud Pezeshkian urges Americans to see beyond ‘flood of distortions’ as war rages.]]></description>
             <link>https://www.yahoo.com/news/articles/interests-being-served-war-iran-204031985.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/interests-being-served-war-iran-204031985.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.SbxWWQ6UuONo.i2Hg2D1A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e2e8456db7c11c299c826691f984a211.cf.webp" alt="" /></p>President Daniel Noboa has led a hardline effort against local criminal networks, including military operations with US.]]></description>
             <link>https://www.yahoo.com/news/articles/ecuador-claims-28-drop-homicides-202043355.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ecuador-claims-28-drop-homicides-202043355.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/j7SaNyuANA5TNv9NHU7rLw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/6fdda3da73584a39216679e14d11425a.cf.webp" alt="" /></p>Army spokesperson says houses, buildings, vehicles and military equipment were destroyed in ammunition depot blast.]]></description>
             <link>https://www.yahoo.com/news/articles/burundi-says-least-13-killed-201632465.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/burundi-says-least-13-killed-201632465.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/I0UzZDFcDkb3AxL0In5Mrg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/2214a7e182f0809d3770769f279e3cd8.cf.webp" alt="" /></p>Several outlets previously reported that the U.S. Embassy in Iraq was struck by a missile in mid-March.]]></description>
             <link>https://www.yahoo.com/news/articles/state-department-offers-3m-attacks-200154960.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/state-department-offers-3m-attacks-200154960.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D0aJWsPhvQig4yCrcj54cw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4179f765a3a393b085f5506dca56c653.cf.webp" alt="" /></p>By David Brunnstrom and John Irish April 1 (Reuters) - Bahrain's effort to secure a U.N. resolution to authorise "all necessary means" to protect commercial shipping in and around the Strait of Hormuz]]></description>
             <link>https://www.yahoo.com/news/articles/bahrain-circulates-revised-un-hormuz-091910199.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahrain-circulates-revised-un-hormuz-091910199.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2kiIjTNTvd.vddLltSWVWQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/f552af8897a862fa0801bd7d587adcc0.cf.webp" alt="" /></p>Nigeria, ranked seventh-worst in the world for Christian persecution, saw a reported 28 killed on Palm Sunday, with fears Christians could be targeted this Easter.]]></description>
             <link>https://www.yahoo.com/news/articles/nigerias-christians-edge-easter-palm-192413886.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nigerias-christians-edge-easter-palm-192413886.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 21:35:43 GMT</pubDate>
         </item>
         <item>
@@ -7052,13 +7053,6 @@ US President Donald Trump said Iran "better get serious soon" in US talks to end
             <link>https://www.yahoo.com/news/articles/us-troops-brace-hit-run-222153373.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-troops-brace-hit-run-222153373.html</guid>
             <pubDate>Thu, 26 Mar 2026 01:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US House panels to consider sweeping aviation safety reforms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dat.99gl7hiJrRT.ImUCew--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ec9bd07275e7a321395f44de8df39027.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-house-panels-consider-sweeping-233720482.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-house-panels-consider-sweeping-233720482.html</guid>
-            <pubDate>Wed, 25 Mar 2026 23:56:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
