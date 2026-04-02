@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 16:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 17:43:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 17:43:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran regime uses war to mask 'brutal' execution surge against political opponents]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VvPkJhIZgg63iD20Khtjwg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/aab31170a23916e3660a6da2ab5fb305.cf.webp" alt="" /></p>A State Department spokesperson called Iran's executions "barbaric" as the United Nations and activists group report the regime is using the death penalty to crush dissent.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-regime-uses-war-mask-144835825.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-regime-uses-war-mask-144835825.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 17:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian aerial attacks kill 2 in Ukraine as Easter prisoner exchange planned]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JlNgT4qUPfEtzVHX4DWHHg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/88116c2b4a6b94ec2ac5753e5998e38b.cf.webp" alt="" /></p>Russian aerial attacks on civilian areas of Ukraine killed two people and injured at least three others, officials said Thursday, as the warring countries work on a prisoner exchange for Easter.  Periodic prisoner exchanges have been one of the few positive outcomes of otherwise fruitless monthslong U.S.-brokered negotiations between Moscow and Kyiv.  The talks have delivered no progress on key issues preventing an end to Russia’s invasion of its neighbor, now in its fifth year.]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-aerial-attacks-kill-2-141238749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-aerial-attacks-kill-2-141238749.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 17:43:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Judges say ICC prosecutor in sexual misconduct inquiry can potentially resume work, documents show]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Snzq8ggd4j1ChoYjWL2cYA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/f90a6c7d460d9dd2a8cc9d9b5c8a8a1f.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/judges-icc-prosecutor-sexual-misconduct-160717547.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/judges-icc-prosecutor-sexual-misconduct-160717547.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2WXdnQVam.S_RqxFmmLItA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/101be0bdcbb6ea9bad377e473f1117af.cf.webp" alt="" /></p>China has been trying to mediate a negotiated settlement to the conflict between the allies-turned-foes.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-afghanistan-hold-talks-china-155509838.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-afghanistan-hold-talks-china-155509838.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CMfZzy2xMxbv.Z_EmuiswQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/6468d30ba5bc5f1f0832589ba405ca4f.cf.webp" alt="" /></p>A military operation would pose chemical, logistical, and tactical hurdles, experts say.]]></description>
             <link>https://www.yahoo.com/news/articles/us-seize-iran-enriched-uranium-152151453.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-seize-iran-enriched-uranium-152151453.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A complaint filed Thursday in France seeks a war crimes investigation into an Israeli strike on a Beirut apartment building in November 2024 said to have killed seven civilians including the parents of a French-Lebanese artist, a human rights group said.  The artist, Ali Cherri, and the International Federation for Human Rights, or FIDH, said the complaint was filed with France’s war crimes unit in Paris against unknown perpetrators over the strike in Beirut’s Noueiri neighborhood, just hours before a ceasefire between Israel and Hezbollah took effect.]]></description>
             <link>https://www.yahoo.com/news/articles/war-crimes-complaint-filed-france-143752029.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-crimes-complaint-filed-france-143752029.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
         </item>
         <item>
@@ -7043,20 +7055,6 @@ US President Donald Trump said Iran "better get serious soon" in US talks to end
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DfrZ8S8zSWEmoy7q3VfTGQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/56cf96f4252f06dfb2621b88b4525bd1.cf.webp" alt="" /></p>The Iran war has unleashed a toxic mix of chemicals, heavy metals and other pollutants that threaten everything from agriculture to drinking water to people’s health — and will leave behind environmental damage and health risks that could persist for decades, experts said.  “All the burning of oil and gas fields in the coastal areas, all the ships that are there, the oil tankers that are being burned or (sunk) — all of these mean pollution,” said Kaveh Madani, an Iranian scientist and director of the United Nations University Institute for Water, Environment and Health.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-wars-environmental-toll-could-130116590.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-wars-environmental-toll-could-130116590.html</guid>
-            <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela's Maduro back in US court after stunning capture]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_S9xghni78ucn92B7pM7HA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/241c5e1c6ca2db6e7c930ff699b1cb67.cf.webp" alt="" /></p>Ousted Venezuelan president Nicolas Maduro will appear Thursday in a New York court for the second time since his capture by US forces in an extraordinary nighttime raid.At his first US court appearance in January, Maduro struck a defiant tone as he identified himself as the president of Venezuela despite being captured.]]></description>
-            <link>https://www.yahoo.com/news/articles/venezuelas-maduro-back-us-court-012645606.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelas-maduro-back-us-court-012645606.html</guid>
-            <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Return hubs' for migrants clear EU parliament hurdle]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0l87JKSudsfctezFs5SZXg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e3aa6f5f3199eedc43ba5ce7f4ccc86a.cf.webp" alt="" /></p>European lawmakers cleared the way Thursday for tougher penalties for irregular migrants and their potential deportation to so-called "return hubs" outside the bloc.The reform would notably allow for the opening of centres or "return hubs" outside the EU's borders to which migrants whose asylum applications have been rejected would be sent.]]></description>
-            <link>https://www.yahoo.com/news/articles/return-hubs-migrants-clear-eu-104031077.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/return-hubs-migrants-clear-eu-104031077.html</guid>
             <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
         </item>
     </channel>
