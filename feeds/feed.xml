@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 22:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 23:28:58 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 22:32:13 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 23:28:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ak2nRRETnvahI3FwY0hY9g--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/4031a0631c4e13b3f0f5044cda5695a6.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/top-photos-week-ap-photojournalists-231053273.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-photos-week-ap-photojournalists-231053273.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 23:28:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Appeals panel orders resentencing of ex‑Colorado clerk over voting machines]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hKEA018Nlu3F1MG45H9Plw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8a8b3861bdfb732d21e0a3cb8f3956a1.cf.webp" alt="" /></p>Source: Reuters]]></description>
@@ -7042,13 +7050,6 @@ Hezbollah on Thursday claimed a series of attacks against Israeli troops in sout
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bCai6qhl3KBiTjyM5lGklw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/24744e6b5e6b0734fd7d35d6f4e85146.cf.webp" alt="" /></p>Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.]]></description>
             <link>https://www.yahoo.com/news/articles/details-revealed-board-peace-plan-164701602.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/details-revealed-board-peace-plan-164701602.html</guid>
-            <pubDate>Thu, 26 Mar 2026 17:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraqis mourn fighters killed in attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/U5FI92EsYvi.rjuQa1FL9g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/830d99f6076dafd7b5a77ee6275e093c.cf.webp" alt="" /></p>Hunched against the cold and drizzle, Iraqi army medic Ahmed and two colleagues looked across the wreckage that just days ago was their clinic, now rubble after a strike on Wednesday.Another soldier, who gave only his first name as Ali, said the following day there was little to recover from what had once been a thriving clinic.]]></description>
-            <link>https://www.yahoo.com/news/articles/iraqis-mourn-fighters-killed-attacks-160339880.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraqis-mourn-fighters-killed-attacks-160339880.html</guid>
             <pubDate>Thu, 26 Mar 2026 17:55:50 GMT</pubDate>
         </item>
     </channel>
