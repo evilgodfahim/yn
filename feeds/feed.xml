@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 23:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 23:59:25 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 23:28:58 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 23:59:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[England’s NHS will offer weight-loss drugs to 1.2M more people]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Cicxfw8Zwv2IncZ2X4It5w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/111d422c25884fa52db657066ea5f465.cf.webp" alt="" /></p>Clinical trials have shown that weight-loss drugs can help protect against heart attack or stroke.]]></description>
+            <link>https://www.yahoo.com/news/articles/england-nhs-offer-weight-loss-213820110.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/england-nhs-offer-weight-loss-213820110.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 23:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish communities on high alert as Passover begins amid rising security threats nationwide]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rkOsYZcehPIaZ9tw.9vblA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f.cf.webp" alt="" /></p>Jewish communities face a heightened security threat this Passover, with NYPD Commissioner Jessica Tisch warning of an elevated alert as antisemitic attacks rise across the U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/jewish-communities-high-alert-passover-210959996.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jewish-communities-high-alert-passover-210959996.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 23:59:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The top photos of the week by AP photojournalists]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ak2nRRETnvahI3FwY0hY9g--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/4031a0631c4e13b3f0f5044cda5695a6.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/top-photos-week-ap-photojournalists-231053273.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-photos-week-ap-photojournalists-231053273.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 23:28:58 GMT</pubDate>
         </item>
         <item>
@@ -7035,21 +7050,6 @@ This year's maximum ice level was reached on March 15 -- a week earlier than las
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RJo835A1GNR5Lv9JeKOWiw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4ed2e2362c88efa993655739a3157eb9.cf.webp" alt="" /></p>March 26 () - Medical device maker Stryker said on Thursday its operations were steadily improving ‌towards full capacity, after a cyberattack caused ‌widespread disruption to its business. Shares of Stryker climbed 2% after ​the company said its manufacturing capability was quickly ramping with most of its sites and critical lines restored.]]></description>
             <link>https://www.yahoo.com/news/articles/stryker-says-manufacturing-mostly-restored-165417577.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/stryker-says-manufacturing-mostly-restored-165417577.html</guid>
-            <pubDate>Thu, 26 Mar 2026 17:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon says Israeli strikes kill five as Hezbollah claims new attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vszQKwEN_1l4ID0v7kq5rw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ea24b5f01ffd70b5d29ac325746fdb99.cf.webp" alt="" /></p>Fighting between Israel and Hezbollah on Thursday claimed casualties on both sides as Lebanon said it would complain to the United Nations Security Council over Israeli attacks.- 'Threatening Lebanon's sovereignty' -
-Hezbollah on Thursday claimed a series of attacks against Israeli troops in south Lebanon and at sites across the border, including targeting Nahariya and a barracks to the city's north, and a defence ministry complex in Tel Aviv.]]></description>
-            <link>https://www.yahoo.com/news/articles/lebanon-says-israeli-strikes-kill-165215190.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-israeli-strikes-kill-165215190.html</guid>
-            <pubDate>Thu, 26 Mar 2026 17:55:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Details revealed of Board of Peace plan for Gaza disarmament]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bCai6qhl3KBiTjyM5lGklw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/24744e6b5e6b0734fd7d35d6f4e85146.cf.webp" alt="" /></p>Plan, submitted by Board of Peace head Nikolay Mladenov, calls for gradual disarmament over eight months.]]></description>
-            <link>https://www.yahoo.com/news/articles/details-revealed-board-peace-plan-164701602.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/details-revealed-board-peace-plan-164701602.html</guid>
             <pubDate>Thu, 26 Mar 2026 17:55:50 GMT</pubDate>
         </item>
     </channel>
