@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 23:55:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 01:29:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 01:29:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New Zealand, Cook Islands sign defence and security declaration, reset relationship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Lucy Craymer WELLINGTON, April 2 (Reuters) - New Zealand and the Cook Islands signed a new defence and security agreement on Thursday, seeking to reset ties after months of tension over the Cook]]></description>
+            <link>https://www.yahoo.com/news/articles/zealand-cook-islands-sign-defence-232137590.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zealand-cook-islands-sign-defence-232137590.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 01:29:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bahamas heads for early election on May 12]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4RiJXRtuVoisu5R26FJPPQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5f817e97da75a27436c37112e8e9f8ac.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/bahamas-heads-early-election-may-234620576.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahamas-heads-early-election-may-234620576.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/fZpafnNyBwSrQEiI6dbIzg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7b195fa7105341c86d55622b455ecdc0.cf.webp" alt="" /></p>The force has an initial mandate of 12 months to address widespread gang violence in Haiti ahead of its elections.]]></description>
             <link>https://www.yahoo.com/news/articles/first-troops-un-backed-gang-231908439.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/first-troops-un-backed-gang-231908439.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3hECZFCXOhDIk8jvbi.W1A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/dd499e6a57a21c2cd84fb60fdafdead9.cf.webp" alt="" /></p>SEOUL, April 2 (Reuters) - South Korean President Lee Jae Myung said ties with France must go beyond partnership and become a pursuit of strategic collaboration that includes artificial intelligence]]></description>
             <link>https://www.yahoo.com/news/articles/south-koreas-lee-says-seeks-225235962.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-koreas-lee-says-seeks-225235962.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6G3sckV1R1LbPWEVb6rVwA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/8c442f92b803295af39ce1453d0c0448.cf.webp" alt="" /></p>US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.]]></description>
             <link>https://www.yahoo.com/news/articles/us-removes-sanctions-venezuela-interim-221246952.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-removes-sanctions-venezuela-interim-221246952.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 01 Apr 2026 23:55:08 GMT</pubDate>
         </item>
         <item>
@@ -7048,13 +7052,6 @@ US President Donald Trump said Iran "better get serious soon" in US talks to end
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2F418E210651CCC936140C983D2D5448C5BD9E02E3756BB90751D2E44665D53/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc1c313f0beb6f84018ee67125e214ae3" alt="" /></p>March 26 () - Russian attacks killed two people in Ukraine's northeastern city of Kharkiv and the region around it ‌and a strike on the Danube port of Izamil ‌damaged port facilities and energy infrastructure, officials said. Prosecutors in Kharkiv region, in a ​statement on Telegram early on Thursday, said a woman injured in an attack on the city of Kharkiv had died of her injuries in hospital.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-attacks-kill-two-ukraines-003814381.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-attacks-kill-two-ukraines-003814381.html</guid>
-            <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Bolton: Trump’s claims of regime change in Iran ‘simply not true’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A491E2C2368F552823B1162C4D75A539F8F7C6E3C433A72C97FEF2E953301B7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F189cbeb7a1ec069c4440fbbb1e6477f3" alt="" /></p>Trump and his administration have never explicitly stated regime change as an objective of the war with Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/john-bolton-trump-claims-regime-231518981.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/john-bolton-trump-claims-regime-231518981.html</guid>
             <pubDate>Thu, 26 Mar 2026 04:28:01 GMT</pubDate>
         </item>
     </channel>
