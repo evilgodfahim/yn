@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 15:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 16:50:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Judges say ICC prosecutor in sexual misconduct inquiry can potentially resume work, documents show]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Snzq8ggd4j1ChoYjWL2cYA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/f90a6c7d460d9dd2a8cc9d9b5c8a8a1f.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/judges-icc-prosecutor-sexual-misconduct-160717547.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/judges-icc-prosecutor-sexual-misconduct-160717547.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan, Afghanistan hold talks in China to end months of conflict]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2WXdnQVam.S_RqxFmmLItA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/101be0bdcbb6ea9bad377e473f1117af.cf.webp" alt="" /></p>China has been trying to mediate a negotiated settlement to the conflict between the allies-turned-foes.]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-afghanistan-hold-talks-china-155509838.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-afghanistan-hold-talks-china-155509838.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can the US seize Iran’s enriched uranium – and what are the risks?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CMfZzy2xMxbv.Z_EmuiswQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/6468d30ba5bc5f1f0832589ba405ca4f.cf.webp" alt="" /></p>A military operation would pose chemical, logistical, and tactical hurdles, experts say.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-seize-iran-enriched-uranium-152151453.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-seize-iran-enriched-uranium-152151453.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[War crimes complaint filed in France over a deadly Israeli strike in Beirut]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A complaint filed Thursday in France seeks a war crimes investigation into an Israeli strike on a Beirut apartment building in November 2024 said to have killed seven civilians including the parents of a French-Lebanese artist, a human rights group said.  The artist, Ali Cherri, and the International Federation for Human Rights, or FIDH, said the complaint was filed with France’s war crimes unit in Paris against unknown perpetrators over the strike in Beirut’s Noueiri neighborhood, just hours before a ceasefire between Israel and Hezbollah took effect.]]></description>
+            <link>https://www.yahoo.com/news/articles/war-crimes-complaint-filed-france-143752029.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-crimes-complaint-filed-france-143752029.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 02 Apr 2026 16:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indonesia delays again deportation of Scottish crime boss to Spain]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.Ap2vDVhA6VNlmabt9t1uw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/ef29d434d61ba308dd815845a9de3f73.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/indonesia-delays-again-deportation-scottish-145130506.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-delays-again-deportation-scottish-145130506.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5IGelf2WzeY9TLslqpeOdA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0aa38843abfa26a2c8bfb2c6df55ee49.cf.webp" alt="" /></p>About 20 percent of global oil and gas passes through the Gulf waterway.]]></description>
             <link>https://www.yahoo.com/news/articles/starmer-40-nation-coalition-open-142623067.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/starmer-40-nation-coalition-open-142623067.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WARSAW, April 2 (Reuters) - Three men will go on trial in Poland over a series of arson attacks in Warsaw and the Baltic States that officials say were part of a Russian-orchestrated sabotage campaign]]></description>
             <link>https://www.yahoo.com/news/articles/three-men-face-trial-poland-140535715.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-men-face-trial-poland-140535715.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E7TfITdbg.vjvk0ACxYIMw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a74c898c9a6c1916e6de6fcdad43f580.cf.webp" alt="" /></p>More than 1,800 civilians have been killed by the army and armed groups since 2023, Human Rights Watch says.]]></description>
             <link>https://www.yahoo.com/news/articles/burkina-faso-military-allies-committing-135323919.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/burkina-faso-military-allies-committing-135323919.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +74,6 @@
 After the UAE, next on the list is Greece: its companies have at least 75 commodity vessels that have been in the strait since the beginning of the war -- around 12 percent of the total.]]></description>
             <link>https://www.yahoo.com/news/articles/countries-ships-hit-hormuz-crisis-134800418.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/countries-ships-hit-hormuz-crisis-134800418.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +81,6 @@ After the UAE, next on the list is Greece: its companies have at least 75 commod
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 2 (Reuters) - Sudan has appointed General Yassir al-Atta, a member of the country's Sovereign Council and assistant to the commander-in-chief Abdel Fattah al-Burhan, chief of staff of the]]></description>
             <link>https://www.yahoo.com/news/articles/sudan-appoints-yassir-al-atta-133202100.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/sudan-appoints-yassir-al-atta-133202100.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +88,6 @@ After the UAE, next on the list is Greece: its companies have at least 75 commod
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uF3C70Mjqrw1auz36ksT_w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3f0e3b1950baf0e0d18953cd1b895735.cf.webp" alt="" /></p>Iranian authorities Thursday executed a teenager convicted of setting fire to a security forces base during January protests, as the Islamic republic ramps up executions during the war with the US and Israel, rights groups said.The seven were accused of setting fire to a base belonging to the Basij militia -- a volunteer force of the Revolutionary Guards -- in Tehran during the protests.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-hangs-18-old-convicted-130549916.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-hangs-18-old-convicted-130549916.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +95,6 @@ After the UAE, next on the list is Greece: its companies have at least 75 commod
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1ibXJWO21bvIOlqaUUsrRQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/03346e42147bf01ce58d7b669bd52d57.cf.webp" alt="" /></p>Dutch authorities on Thursday showed off a recovered priceless gold 2,500-year-old helmet from Romania that was stolen last year during a brazen heist in the Netherlands.Under huge pressure from Romania, Dutch authorities have made multiple attempts to convince the suspects to tell them where the treasures are stashed.]]></description>
             <link>https://www.yahoo.com/news/articles/extraordinary-news-dutch-recover-stolen-125153676.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/extraordinary-news-dutch-recover-stolen-125153676.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
         <item>
@@ -7034,34 +7058,6 @@ US President Donald Trump said Iran "better get serious soon" in US talks to end
             <link>https://www.yahoo.com/news/articles/return-hubs-migrants-clear-eu-104031077.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/return-hubs-migrants-clear-eu-104031077.html</guid>
             <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German deepfake porn case sparks protests and pressure for change in law]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/X6vmRoEjWzGU6r3pGrfEZQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/045bfb0999b55f268244cbdc9f64288e.cf.webp" alt="" /></p>By Miranda Murray BERLIN, March 26 (Reuters) - Germany's government is facing pressure to toughen laws against digital violence after a prominent television actor accused her former husband of posting]]></description>
-            <link>https://www.yahoo.com/news/articles/german-deepfake-porn-case-sparks-121523044.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/german-deepfake-porn-case-sparks-121523044.html</guid>
-            <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Report: Globally nearly 10,000 nuclear weapons ready for use]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0jJakG3_HkBzlXySDMew0Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/dpa_international_526/23f13d36f203ae88520d5a8e078e45c1.cf.webp" alt="" /></p>Nearly 10,000 nuclear weapons are currently operational worldwide, with a combined explosive force equivalent to 135,000 Hiroshima bombs, according to a report by the International Campaign to Abolish Nuclear Weapons (ICAN) released on Thursday. An atomic bomb was dropped on the Japanese city of Hiroshima on August 6, 1945 — the first time such a weapon had been used — killing more than 140,000 people.]]></description>
-            <link>https://www.yahoo.com/news/articles/report-globally-nearly-10-000-121425029.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/report-globally-nearly-10-000-121425029.html</guid>
-            <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicolas Maduro’s legal team argues US interfered with his defense]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qg3yVAzgoGnTDT5GpIZwHA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/8762946ac7a83ba9121c57c5b037955f.cf.webp" alt="" /></p>Attorneys for Venezuela's ousted president argue the case should be dismissed.]]></description>
-            <link>https://www.yahoo.com/news/articles/nicolas-maduro-legal-team-argues-113929341.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nicolas-maduro-legal-team-argues-113929341.html</guid>
-            <pubDate>Thu, 26 Mar 2026 14:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland's Supreme Court fines MP for calling homosexuality 'developmental disorder']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C39E0F0FE9FEEDF387C1FA6572D98F26255A19274EBF3CB56A1B7F893A672AE0/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcbdea050c20557e9f2a9aff023b14944" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/finlands-supreme-court-fines-mp-124625816.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/finlands-supreme-court-fines-mp-124625816.html</guid>
-            <pubDate>Thu, 26 Mar 2026 12:56:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
