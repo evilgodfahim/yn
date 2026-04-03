@@ -4,10 +4,119 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 18:01:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 19:10:11 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 18:01:40 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[U.S. Fighter Jet Crashes in Iran, Triggering Search for Crew]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/005B86E063D4726B067B80089FEDB743B23D9CA4F882F4B380F2FA67AFF6AECB/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F89707de4f8cf9d853c5a81a7e37b5ad2" alt="" /></p>Source: Time]]></description>
+            <link>https://www.yahoo.com/news/articles/u-fighter-jet-crashes-iran-180200299.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-fighter-jet-crashes-iran-180200299.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Second US Air Force plane crashed in Persian Gulf region, New York Times reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 3 (Reuters) - A second U.S. Air Force combat plane crashed in the Persian Gulf region on Friday and its only pilot was then rescued, the New York Times reported, citing two U.S. officials.]]></description>
+            <link>https://www.yahoo.com/news/articles/second-us-air-force-plane-185026706.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/second-us-air-force-plane-185026706.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eight dead after earthquake of magnitude 5.9 strikes Afghanistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 3 (Reuters) - Eight people were killed and one child was injured on Friday when a house collapsed in Kabul following an earthquake in Afghanistan, the National Disaster Management Authority said]]></description>
+            <link>https://www.yahoo.com/news/articles/eight-dead-earthquake-magnitude-5-183536111.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eight-dead-earthquake-magnitude-5-183536111.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone strike on Sudan hospital kills 10, medical charity MSF says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CFC39278F7B6F194633A51381004077A591D2CF7F0BB338B223617BFD10CB7B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F55104a7b438c49a8f1de4bd65f15145f" alt="" /></p>Two strikes on Al Jabalain Hospital in White Nile State hit an operating theatre and a maternity ward, MSF says.]]></description>
+            <link>https://www.yahoo.com/news/articles/drone-strike-sudan-hospital-kills-183243179.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/drone-strike-sudan-hospital-kills-183243179.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5.8 magnitude quake hits Afghanistan and Pakistan, killing 8 in Afghanistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>An earthquake with a preliminary magnitude of 5.8 rattled parts of northern and eastern Afghanistan and western Pakistan late Friday, killing at least eight people in Afghanistan, authorities said.  Friday's earthquake had an epicenter in the Hindu Kush mountain range, about 150 kilometers (90 miles) east of the Afghan city of Kunduz, according to the Euro-Mediterranean Seismological Center and the U.S. Geological Survey.  Hafizullah Basharat, a spokesman for the Kabul governor, said eight people were killed and a child was injured when a house collapsed on the outskirts of the capital.]]></description>
+            <link>https://www.yahoo.com/news/articles/5-8-magnitude-quake-hits-182243361.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/5-8-magnitude-quake-hits-182243361.html</guid>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[An earthquake in Afghanistan has killed eight people in Kabul, the spokesperson for the city’s governor says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/earthquake-afghanistan-killed-eight-people-182204838.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/earthquake-afghanistan-killed-eight-people-182204838.html</guid>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel strikes Beirut, US warns Iran may hit Lebanese universities]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B93E2985671182E35C1D8D94A9EC79ECCED5B9E382E451C8A63FB6C68259514F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e23100ac4d9606a66978778b44d1f7a" alt="" /></p>By Maya Gebeily and Ahmed Tolba BEIRUT, April 3 (Reuters) - Israel pounded Beirut with airstrikes on Friday that the military said had targeted militant "infrastructure" in Lebanon's capital, as the]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-strikes-beirut-us-warns-180145868.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-strikes-beirut-us-warns-180145868.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US military says the American aircraft was 'shot down,' according to an email obtained by AP]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/us-military-says-american-aircraft-170728250.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-american-aircraft-170728250.html</guid>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italy's Meloni visits Saudi Arabia, Qatar and UAE amid Gulf tensions, energy worries]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DDBEACDADEBEEF2D9C8BE6B5DA23481923D7020ACB8B50DAB6941F2948715BED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F405280132c04c04ad50a0ca1dba31593" alt="" /></p>By Angelo Amante and Crispian Balmer ROME, April 3 (Reuters) - Italian Prime Minister Giorgia Meloni flew to Saudi Arabia on Friday for a previously unannounced trip that will also include meetings in]]></description>
+            <link>https://www.yahoo.com/news/articles/italys-meloni-flies-gulf-region-140414395.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/italys-meloni-flies-gulf-region-140414395.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo urges Israeli president to end Iran war, Vatican says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3FAC86BAA660DC2E90A6D1EA0D51AB9C40C75E5807F97905101E0C4C96D64D1D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F8c9589ad7fbd5ddce478352aa35b75ca" alt="" /></p>During a Palm Sunday Mass last weekend, Leo said God "does not listen to the prayers of those who wage war."]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leo-urges-israeli-president-161052267.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-urges-israeli-president-161052267.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One US crew member rescued after fighter jet downed over Iran, Israeli media say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 3 (Reuters) - One U.S. crew member was rescued after a U.S. fighter jet was downed over Iran, Israeli media said on Friday, citing Israeli officials.]]></description>
+            <link>https://www.yahoo.com/news/articles/one-us-crew-member-rescued-155541497.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-us-crew-member-rescued-155541497.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US removes Russian national Mikhail Zadornov from sanctions list]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON, April 3 (Reuters) - The United States on Friday removed sanctions against Mikhail Zadornov, a prominent ‌Russian banker and former finance minister, according to the ‌U. official said the delisting did not reflect a ​larger change in Washington's position on Russian sanctions.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-removes-russian-national-mikhail-143332473.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-removes-russian-national-mikhail-143332473.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran leaders join crowds on Tehran's streets to project control in wartime]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91401C78645F291670E8C2B9A18BC2075205CB78F590B6F54F05DFC7C9FE2D00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcc67ce72622ae9178e998def2e23d9b0" alt="" /></p>By Parisa Hafezi DUBAI, April 3 (Reuters) - After more than a month of being stalked by targeted assassinations, Iran's leadership has adopted a new tactic to show it is still in control - with senior]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-leaders-join-crowds-tehrans-130334579.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-leaders-join-crowds-tehrans-130334579.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French-owned CMA CGM container ship passes Strait of Hormuz, data shows]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E98A2177BA08E6962718A29CC40CC42231E79160287650E977EBB4C8513BA43/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F870c11e79b04bd41f6fcfed55e6e909b" alt="" /></p>PARIS, April 3 (Reuters) - A container ship belonging to French shipping group CMA CGM has passed through the Strait of Hormuz, MarineTraffic ‌vessel tracking data shows, in a sign that Iran may not consider France a ‌hostile nation. The Malta-flagged Kribi, owned by CMA CGM, crossed the Strait on April 2.]]></description>
+            <link>https://www.yahoo.com/news/articles/french-owned-cma-cgm-container-120648639.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-owned-cma-cgm-container-120648639.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 19:10:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pope Leo XIV to carry cross for entire procession, the first pontiff to do so in decades]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZlM9fUWjshw4Esj5k_flVg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/46aa6d241ccb2da63dbde317721118c5.cf.webp" alt="" /></p>Source: Associated Press]]></description>
@@ -6957,104 +7066,6 @@ Iran's foreign minister branded a deadly strike on an Iranian school on the firs
             <link>https://www.yahoo.com/news/articles/g7-allies-press-rubio-us-102703004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/g7-allies-press-rubio-us-102703004.html</guid>
             <pubDate>Fri, 27 Mar 2026 12:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive-How UBS helped Epstein accomplice Maxwell buy her hideout, 'Tucked Away']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UCgFYjdcJZhrb9iKOkj5qQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d0dfa48d6ed71a16ea48c2ee84d9b008.cf.webp" alt="" /></p>By Tom Sims, Naomi Rovnick, John O'Donnell and Lawrence White FRANKFURT/LONDON, March 27 - In rural New Hampshire, a compound on a 156‑acre estate dubbed “Tucked Away” became Ghislaine Maxwell’s final]]></description>
-            <link>https://www.yahoo.com/news/articles/exclusive-ubs-helped-epstein-accomplice-100123198.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-ubs-helped-epstein-accomplice-100123198.html</guid>
-            <pubDate>Fri, 27 Mar 2026 12:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico searches for missing boats ferrying aid to Cuba]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44F2EE2D375DEAE639FA731C62779BCB17508B86C498FCD714E65BD03B19E083/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd3d820c1358ec8c64757527c30699829" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/mexico-searches-missing-boats-ferrying-103618816.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-searches-missing-boats-ferrying-103618816.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal’s youngest premier sworn in after releasing new rap song about unity]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B8BED03808F00BE582D458F02588D8830C81C832CFC8662038D10C7A65C5151A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F54048a3d8f4f1456c48ca956a01b2408" alt="" /></p>At 35, Balen Shah becomes Nepal’s first Madhesi prime minister, representing the southern plains bordering India.]]></description>
-            <link>https://www.yahoo.com/news/articles/nepal-youngest-premier-sworn-releasing-105903434.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nepal-youngest-premier-sworn-releasing-105903434.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is LNG and what is it used for?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21772388BBEFDA2D5032B069530DC119E5BB1E8772AE3B4F14AEEB524C225BC5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4bab400b84ccdb4a2eca1100e321ca6a" alt="" /></p>Natural gas powers a quarter of the world, and almost a fifth of LNG moves through the Strait of Hormuz.]]></description>
-            <link>https://www.yahoo.com/news/articles/lng-used-105324225.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lng-used-105324225.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan to boost coal-fired power as Mideast war causes energy turmoil]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F833A073D33B0D77F70005149CFF85F6BCF8A70708E26B3E438F2222AC33486/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F58f5b876d1a55680afb0c2cdba90e10f" alt="" /></p>Japan's government plans to temporarily lift restrictions on coal-fired power plants as it seeks to ease an energy crunch caused by the Middle East war, officials said on Friday. But Yoko Mulholland of climate think-tank E3G told AFP that the plans to lift coal power restrictions "deepen the risk that Japan will not meet its goal of phasing out inefficient coal plants by 2030".]]></description>
-            <link>https://www.yahoo.com/news/articles/japan-boost-coal-fired-power-105257081.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-boost-coal-fired-power-105257081.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's Defense Minister Israel Katz warns that Israeli attacks on Iran 'will escalate and expand']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
-            <link>https://www.yahoo.com/news/articles/israels-defense-minister-israel-katz-104945149.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israels-defense-minister-israel-katz-104945149.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘My heart burns with pain’: Iranian mother tells UN of Minab school attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E1AEAF3CF40D8CFABCA986BE0CDD39844636C72FF9CBC45F1CB6AC5F5BFBB95/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F58b48167253b67f0de6455a59027f92d" alt="" /></p>Grieving mother Mohaddeseh Fallahat, whose two children were killed, and Iran’s Araghchi address Human Rights Council.]]></description>
-            <link>https://www.yahoo.com/news/articles/heart-burns-pain-iranian-mother-104847281.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/heart-burns-pain-iranian-mother-104847281.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austria plans social media ban for children under 14]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F99AAF390352D90122179F9373EE672A285382852E7AD1D40C201F359D33097/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F73d018857f4750a3f9baa46843598ecd" alt="" /></p>VIENNA, March 27 (Reuters) - Austria's conservative-led, three-party government plans to introduce a ban on social media use for children under 14, it said on Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/austria-plans-social-media-ban-095603076.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/austria-plans-social-media-ban-095603076.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China names party chief for emergency management ministry after ousting former minister]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, March 27 (Reuters) - Zhang Chengzhong was named party chief of China's Ministry of Emergency Management on Friday, the ministry said in a statement issued on its website.]]></description>
-            <link>https://www.yahoo.com/news/articles/china-names-party-chief-emergency-103555160.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-names-party-chief-emergency-103555160.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mongolian prime minister tenders resignation, Chinese state media reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, March 27 (Reuters) - Mongolian Prime Minister Zandanshatar Gombojav has submitted a letter of resignation to the ruling Mongolian People's Party, Chinese state broadcaster CCTV reported on]]></description>
-            <link>https://www.yahoo.com/news/articles/mongolian-prime-minister-tenders-resignation-102413588.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mongolian-prime-minister-tenders-resignation-102413588.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis-War between Hezbollah and Israel deepens fractures in Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36E421851E0A555419658891BB426FE55A9A8DB98D081C22C2FDF3E75F69DD14/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2452f2ae859f29f52abe0120314c3d17" alt="" /></p>By Tom Perry, Maya Gebeily, Laila Bassam and Emilie Madi BEIRUT, March 27 (Reuters) - War between Israel and Hezbollah is pushing Lebanon's fragile state and society towards breaking point, straining]]></description>
-            <link>https://www.yahoo.com/news/articles/analysis-war-between-hezbollah-israel-101843910.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/analysis-war-between-hezbollah-israel-101843910.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer-Who are the players deciding Cuba's future amid talks with US?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/934FB309D21C55AED642E17D5FB9E918A05481D5584F415E1FAD9F89D2EA0329/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5e60351f85f1250a04a441a38cc3e092" alt="" /></p>HAVANA, March 27 (Reuters) - Cuba and the United States have said they are engaged in bilateral talks at a time of high tension, with President Donald Trump imposing a de facto oil blockade that has]]></description>
-            <link>https://www.yahoo.com/news/articles/explainer-players-deciding-cubas-future-100444257.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-players-deciding-cubas-future-100444257.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildlife killed, reefs damaged in ‘active’ Gulf of Mexico oil spill]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CCCA145EAEB02EE0F213D30F2765082683246848F73FCAC71110094D9EA0047C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F978809ca17c9d309ae399ece5529fa57" alt="" /></p>Authorities say the oil is seeping from three sources, including a vessel that has not yet been identified.]]></description>
-            <link>https://www.yahoo.com/news/articles/wildlife-killed-reefs-damaged-active-095016310.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/wildlife-killed-reefs-damaged-active-095016310.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beached whale frees itself from German coast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/775D703E9E7DF0781332EFAF6BF60564C0916856E3F7841D724137850488822B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe81d17379551c6484e17708068f717f1" alt="" /></p>A humpback whale stranded on Germany's Baltic Sea coast since early this week has freed itself and swum into deeper waters, rescuers said Friday.Lehmann said the whale was "zigzagging" in the water and could become stranded again.]]></description>
-            <link>https://www.yahoo.com/news/articles/beached-whale-frees-itself-german-094515151.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/beached-whale-frees-itself-german-094515151.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:11:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
