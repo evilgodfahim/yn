@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 19:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 20:34:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 20:34:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pope Leo's Good Friday service offers prayer for deported children]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sNJiBak06xpa0y3CKMAzYw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1be388b4c017a8f81e762b68b4fbca00.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leos-good-friday-offers-195830935.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leos-good-friday-offers-195830935.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 20:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 20 attacks on Iranian healthcare facilities since March 1: WHO]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/g71mvNSnow9Dr.2TAj1JjQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/263836f87b52465573d3025e62bca17a.cf.webp" alt="" /></p>WHO chief Tedros Adhanom Ghebreyesus says ‘multiple attacks’ on Iranian healthcare facilities have been reported.]]></description>
+            <link>https://www.yahoo.com/news/articles/more-20-attacks-iranian-healthcare-191656444.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/more-20-attacks-iranian-healthcare-191656444.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 20:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuba begins releasing prisoners under scrutiny of rights groups, U.S. govt]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZHD6aNtNih_L8cXBgFjyqg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/469e91934e4f848678958f41133f9a79.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/cuba-begins-releasing-prisoners-under-193050088.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-begins-releasing-prisoners-under-193050088.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Un4R11MFxnKcealbe3OeiQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/7f1da5d2b09312055957c51829d63506.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/un-report-details-sexual-abuse-190736680.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-report-details-sexual-abuse-190736680.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +44,6 @@
 Just 221 commodities vessels have crossed the Strait of Hormuz since March 1, some more than once, according to Kpler data up to Friday morning.]]></description>
             <link>https://www.yahoo.com/news/articles/french-japanese-ships-cross-strait-191016973.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-japanese-ships-cross-strait-191016973.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +51,6 @@ Just 221 commodities vessels have crossed the Strait of Hormuz since March 1, so
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.tvNj.7FcXTk017ra6iL5w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/8f4505fd13d5be09bedd8c667867a2ef.cf.webp" alt="" /></p>UAE says largest gas facility, Habshan, suffered ‘significant damage’ after air defence interception sparked fires.]]></description>
             <link>https://www.yahoo.com/news/articles/least-one-killed-uae-habshan-190852648.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-one-killed-uae-habshan-190852648.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +58,6 @@ Just 221 commodities vessels have crossed the Strait of Hormuz since March 1, so
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/m4CLjArvCkGiovVxHHnumQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/bf4b949778328baa896ccb4c85a11eec.cf.webp" alt="" /></p>Human Rights Watch and Amnesty International report Iran's Islamic Revolutionary Guard Corps is recruiting children as young as 12 into military-linked combat and patrol roles.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-guards-recruiting-children-young-171002472.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-guards-recruiting-children-young-171002472.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +65,6 @@ Just 221 commodities vessels have crossed the Strait of Hormuz since March 1, so
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sbKrqpVqCtZ4E7daBAwb.Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/8070a2108b7f8a26ead0cdd1bbc62858.cf.webp" alt="" /></p>"When you're flying... 13,000 missions over a country that's firing back at you, sooner or later you're going to lose an aircraft."]]></description>
             <link>https://www.yahoo.com/news/articles/us-search-missing-pilot-iran-170845100.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-search-missing-pilot-iran-170845100.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Fri, 03 Apr 2026 19:57:25 GMT</pubDate>
         </item>
         <item>
@@ -7046,20 +7056,6 @@ Davignon was ordered earlier this month to stand trial for "participation in war
             <link>https://www.yahoo.com/news/articles/live-updates-israel-launches-strikes-093703604.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-israel-launches-strikes-093703604.html</guid>
             <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Long-sought Red Army Faction suspect charged in Germany for 1990s attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/S4zRG9Ftf.HThgSNOQKmPg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/46fd18fba340974ac1f5ec0d3ea81911.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/long-sought-red-army-faction-115347532.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/long-sought-red-army-faction-115347532.html</guid>
-            <pubDate>Fri, 27 Mar 2026 12:01:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I'll never be the same': Iranians recount one month of war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PQ3fskC0wwbpiIiW8YTWsg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/547b3b8661cfd071f20307fd3852ee99.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/ill-never-same-iranians-recount-112121529.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ill-never-same-iranians-recount-112121529.html</guid>
-            <pubDate>Fri, 27 Mar 2026 12:01:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
