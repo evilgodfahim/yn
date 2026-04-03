@@ -4,10 +4,42 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 21:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 21:55:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 21:26:19 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 21:55:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US fighter jet shot down over Iran, search underway for crew member, US officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ue42e.gn5jU6clYaLhvYGg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2026-04/acc175a0-2f68-11f1-a63c-0a5ce70e9eb4.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-fighter-jet-shot-down-140858811.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-fighter-jet-shot-down-140858811.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italy opens double murder probe into deaths of mother and daughter, after preliminary tests point to ricin poisoning]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DklKzn0e37DbOA8UlSOnFg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/b15874473a9f4b6a2444825504e5c03a.cf.webp" alt="" /></p>Italian authorities have opened a double murder investigation following the deaths of a mother and her teenage daughter following a Christmas Eve meal last year, after prosecutors said preliminary blood tests showed the pair had the poison ricin in their systems.]]></description>
+            <link>https://www.yahoo.com/news/articles/italy-opens-double-murder-probe-194614553.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/italy-opens-double-murder-probe-194614553.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/n0gB10XxQJym7SHO2vPjgg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/c9d33f073afbf549985b37f38f94f6da.cf.webp" alt="" /></p>Iran and its proxy militias have threatened universities in Lebanon, U.S. officials say, and the State Department warned Americans to depart immediately.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-proxy-militias-threaten-us-190637079.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-proxy-militias-threaten-us-190637079.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:55:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Friend pleads for release of American journalist kidnapped in Iraq]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/edo7OIjDUMIpGU6m_xiyoA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/a7fbc08de6e74ca5c24596e6818cfcb3.cf.webp" alt="" /></p>"You shouldn't be afraid of a journalist that's doing their job so properly, so attentively."]]></description>
+            <link>https://www.yahoo.com/news/articles/friend-pleads-release-american-journalist-190132242.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/friend-pleads-release-american-journalist-190132242.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Fri, 03 Apr 2026 21:55:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pope Leo's Good Friday service offers prayer for deported children]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sNJiBak06xpa0y3CKMAzYw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1be388b4c017a8f81e762b68b4fbca00.cf.webp" alt="" /></p>Source: Reuters]]></description>
@@ -7025,34 +7057,6 @@ Davignon was ordered earlier this month to stand trial for "participation in war
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KUsbYi6KvzsvJ5Z8sibLyQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/507176d3855cd8021ef9200831dfaa27.cf.webp" alt="" /></p>By Olivia Le Poidevin GENEVA, March 27 (Reuters) - Large differences remain between most countries and the U.S. and India as trade ministers meet to discuss reforms at the World Trade Organization,]]></description>
             <link>https://www.yahoo.com/news/articles/wto-reform-talks-face-u-113632542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/wto-reform-talks-face-u-113632542.html</guid>
-            <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico's Guadalajara hosts World Cup playoff match under specter of violence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hkRwo0p9W4FV1V5BAmhcOQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a517d23bf7832daec4de3133b502c291.cf.webp" alt="" /></p>By Diego Oré GUADALAJARA, Mexico, March 27 (Reuters) - Just over a month ago, Mexico's second-largest city Guadalajara was reeling from a wave of violence triggered by the capture and death of cartel]]></description>
-            <link>https://www.yahoo.com/news/articles/mexicos-guadalajara-hosts-world-cup-121102642.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexicos-guadalajara-hosts-world-cup-121102642.html</guid>
-            <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan jailed for 15 years in the UK for raping 12-year-old girl]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, March 27 (Reuters) - An Afghan national was on Friday jailed for 15 years for raping a 12-year-old girl in Britain, a case that sparked local protests and a political row when his status as an]]></description>
-            <link>https://www.yahoo.com/news/articles/afghan-jailed-15-years-uk-115453399.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghan-jailed-15-years-uk-115453399.html</guid>
-            <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Austria plans social media ban for children under 14]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9QrqPrd5zsCGMWWF68oGSA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/1849a7bbd3fb280af86a0e98978915c0.cf.webp" alt="" /></p>VIENNA, March 27 (Reuters) - Austria's conservative-led, three-party government plans to introduce a ban on social media use for children under 14, it said on Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/austria-plans-social-media-ban-115153405.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/austria-plans-social-media-ban-115153405.html</guid>
-            <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates: Israel threatens to ‘escalate and expand’ attacks on Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rDbZOjiqdGC9ATXGSSv7AA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/6a7b9c525c635e0377e711b87f832b69.cf.webp" alt="" /></p>The move comes after President Donald Trump claimed talks of ending the war in the Middle East were going well.]]></description>
-            <link>https://www.yahoo.com/news/articles/live-updates-israel-launches-strikes-093703604.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-israel-launches-strikes-093703604.html</guid>
             <pubDate>Fri, 27 Mar 2026 13:47:53 GMT</pubDate>
         </item>
     </channel>
