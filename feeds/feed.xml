@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 16:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 17:01:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 16:27:14 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 17:01:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[French boats set sail to join Gaza aid flotilla]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/l1YReQRRU0Dd8X9Px4KZfA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b87ff90c747df25e81ee05fc51d6f154.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/french-boats-set-sail-join-164001464.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-boats-set-sail-join-164001464.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 17:01:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE condemns 'acts of vandalism' at its embassy in Damascus]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 4 (Reuters) - The United Arab Emirates on Saturday condemned what it described as "riots, acts of vandalism, and assaults" outside its embassy and the residence of its head of mission in]]></description>
+            <link>https://www.yahoo.com/news/articles/uae-condemns-acts-vandalism-mission-131333173.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uae-condemns-acts-vandalism-mission-131333173.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 17:01:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2 men and teen held in U.K. custody over Jewish charity ambulance attack]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/blAMG1VG_x47_xkkU3BReA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/ab8265682d02a327e7bc10546042efda.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/2-men-teen-held-u-155332253.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-men-teen-held-u-155332253.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 16:27:14 GMT</pubDate>
         </item>
         <item>
@@ -7042,20 +7057,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <link>https://www.yahoo.com/news/articles/mexico-searches-four-missing-sinaloa-175933704.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-searches-four-missing-sinaloa-175933704.html</guid>
             <pubDate>Fri, 27 Mar 2026 20:30:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio says Iran war to last 'weeks not months,' no US ground troops needed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/BsjJYbDkEJ3Hliy2fWJmQw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/c5769ffe9290936baf985871d0cc5530.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/trump-pauses-attacks-irans-energy-224653017.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-pauses-attacks-irans-energy-224653017.html</guid>
-            <pubDate>Fri, 27 Mar 2026 19:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arctic sea ice hits lowest winter level as heat records are shattered worldwide]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rOQL19QLS4Z8QHCDezx2fA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/6524b587b58e21e0825eb7b0eb846b90.cf.webp" alt="" /></p>Arctic sea ice levels are crucial to Earth's climate because, without the ice reflecting sunlight, more heat energy goes into the oceans.]]></description>
-            <link>https://www.yahoo.com/news/articles/arctic-sea-ice-hits-lowest-183625218.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/arctic-sea-ice-hits-lowest-183625218.html</guid>
-            <pubDate>Fri, 27 Mar 2026 19:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
