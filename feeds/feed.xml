@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 13:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 14:28:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 14:28:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Retired matador killed by bull ahead of bullfight in southern Spain]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jt0OY1HqOWjNQyeD7fw0Cg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/204522d69a8bfe50e3b495b3ccbfa743.cf.webp" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/retired-matador-killed-bull-ahead-132047325.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/retired-matador-killed-bull-ahead-132047325.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 14:28:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Floods, landslides triggered by heavy rain in Afghanistan leave 77 dead in 10 days, authorities say]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/eb54FblShncijamqyQt3ZQ--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e25cdbb03c3e41f0624aa21ba0f41aa7.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/floods-landslides-triggered-heavy-rain-131337399.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/floods-landslides-triggered-heavy-rain-131337399.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 4 (Reuters) - Iran used a new air defence system on Friday to target a U.S. fighter jet, Iran's Khatam al-Anbiya joint military command said on Saturday.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-says-air-defence-system-130746005.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-air-defence-system-130746005.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ppkb95.ZlaDGwXFAFjXdEw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/dc212eefee946d53999310e5db28b4e2.cf.webp" alt="" /></p>At least 11 people are injured as Israel strikes near the Lebanese Italian Hospital in Tyre, damaging the facility.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-strikes-damage-hospital-lebanon-130725422.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strikes-damage-hospital-lebanon-130725422.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Q1AfeUPyEKP_nkuTa5cFcA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/9e4a901e02e54a24ab14ce3915ecb9dd.cf.webp" alt="" /></p>Tehran says it is the fourth attack near the nuclear plant amid the US-Israel war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/projectile-hits-near-iran-bushehr-121939411.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/projectile-hits-near-iran-bushehr-121939411.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 4 (Reuters) - Iran attacked an Israel-affiliated vessel with a drone in the Strait of Hormuz, setting the ship on fire, Iran's state media said on Saturday, citing the commander of the]]></description>
             <link>https://www.yahoo.com/news/articles/iran-says-hit-israel-linked-115551061.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-hit-israel-linked-115551061.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mPBpgB_8djzxpdfi4RJRQw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/4f00568b7dfb4e5c1c248b6f38eb39d6.cf.webp" alt="" /></p>The incident comes after a string of similar nighttime attacks across Europe that have heightened concerns over antisemitism.]]></description>
             <link>https://www.yahoo.com/news/articles/dutch-police-probe-explosion-outside-111257800.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/dutch-police-probe-explosion-outside-111257800.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Fire at a gas lighter factory near Bangladesh's capital kills 5 people]]></description>
             <link>https://www.yahoo.com/news/articles/asian-business-headlines-1-31-040000453.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-business-headlines-1-31-040000453.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 13:47:51 GMT</pubDate>
         </item>
         <item>
@@ -7055,13 +7056,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <link>https://www.yahoo.com/news/articles/rubio-says-us-achieve-iran-175017282.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-says-us-achieve-iran-175017282.html</guid>
             <pubDate>Fri, 27 Mar 2026 19:37:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia is sending upgraded drones used in the Ukraine war to Iran, officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Uet58v1klvp5tnZ4.XIzDw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/e91f3d32624981374eece6518858def6.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-sending-upgraded-drones-used-181027870.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-sending-upgraded-drones-used-181027870.html</guid>
-            <pubDate>Fri, 27 Mar 2026 18:46:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
