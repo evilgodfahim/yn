@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 11:53:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 12:37:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 11:53:16 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 12:37:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel issues evacuation warnings for Tyre in south Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UINvAsiEhQRmBmQaMdmP7g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/bc881897b1ffe3c7d403c3911483f37f.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-issues-evacuation-warnings-tyre-121754738.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-issues-evacuation-warnings-tyre-121754738.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 12:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran leaves door open for peace talks as hunt for missing US pilot continues]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pnqE7AHaqUW2Qb0Qle5jnA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b8c2edc5923b9bf99fff57a8bdde7f34.cf.webp" alt="" /></p>By Hatem Maher and Phil Stewart CAIRO/WASHINGTON, April 4 (Reuters) - Iranian forces were hunting for a missing U.S. pilot on Saturday from one of two warplanes downed over Iran and the Gulf, raising]]></description>
+            <link>https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 12:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian strikes on Ukraine kill 5 people and wound 30 more]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KztfLsUuiRYS1rdArsBnUA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9e4ca8746b7282f6692c2e84b3ea7aa3.cf.webp" alt="" /></p>Russian drone strikes on Ukraine overnight killed five people and injured 30 more, Ukrainian officials said Saturday.  The attacks came as Ukraine's President Volodymyr Zelenskyy traveled to Istanbul for talks with Turkish President Recep Tayyip Erdogan.  Russia fired 286 drones at Ukraine overnight, 260 of which were downed, the Ukrainian Air Force said in an online statement.]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-strikes-ukraine-kill-5-105616884.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-strikes-ukraine-kill-5-105616884.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 12:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch police probe a small blast outside a pro-Israel Christian center]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Dutch police are investigating a small explosion outside a Christian center that promotes Israel.  Police in Gelderland province said in a post on X that nobody was injured in the explosion on Friday night and that it caused only limited damage at an address in Nijkerk, in the central Netherlands.  The group Christians for Israel said the detonation targeted its Israel Center in Nijkerk and was caused by an explosive device.]]></description>
+            <link>https://www.yahoo.com/news/articles/dutch-police-probe-small-blast-092036704.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dutch-police-probe-small-blast-092036704.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 12:37:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Death toll from Afghan quake rises, including 8 members of refugee family returned from Iran]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ubzx4uS0pR.9SO4ngGCqsw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/af869a886baaf96e32b620b2b4480142.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/death-toll-afghan-quake-rises-113658915.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/death-toll-afghan-quake-rises-113658915.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 11:53:16 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3bs0Qd9otMGcZx9hCE8.ZQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ff449e30ca2ec1d62842e5bdfeedfb69.cf.webp" alt="" /></p>A Russian drone hit a covered market in the eastern Ukrainian city of Nikopol on Saturday, killing five people and wounding 19, officials said, as Moscow pressed on with intensified daytime attacks. The market, in Nikopol in the Dnipropetrovsk region, was hit at 9:50 am (0650 GMT), the local prosecutor's office said.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-strike-ukraine-market-kills-104217421.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-strike-ukraine-market-kills-104217421.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 11:53:16 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/H_z9Y_P1x7eRA_zaPxyWug--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/30a9736e1577f731889aab95348210fe.cf.webp" alt="" /></p>KYIV, April 4 (Reuters) - Ukrainian President Volodymyr Zelenskiy has arrived in Istanbul for "substantive" talks on security issues with Turkey's President Tayyip Erdogan, Zelenskiy said on Saturday.]]></description>
             <link>https://www.yahoo.com/news/articles/zelenskiy-arrives-istanbul-talks-erdogan-103035161.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskiy-arrives-istanbul-talks-erdogan-103035161.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 04 Apr 2026 11:53:16 GMT</pubDate>
         </item>
         <item>
@@ -7031,34 +7060,6 @@ In return, recruits from countries including France, Belgium and the United King
             <link>https://www.yahoo.com/news/articles/mexico-launches-search-missing-sailboats-162528996.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-launches-search-missing-sailboats-162528996.html</guid>
             <pubDate>Fri, 27 Mar 2026 17:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soccer-Iranian players hold schoolbags in protest over slain girls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ICdpzBjFAc4JbC3.h6fRyw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/82ac7daa80bdc46add37bee4f180043a.cf.webp" alt="" /></p>By Ece Toksabay BELEK, Turkey, March 27 (Reuters) - Iran’s men's national soccer team wore black armbands and held schoolbags as their anthem played ahead of a match in Turkey on Friday, in what a]]></description>
-            <link>https://www.yahoo.com/news/articles/soccer-iranian-players-hold-schoolbags-135757393.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/soccer-iranian-players-hold-schoolbags-135757393.html</guid>
-            <pubDate>Fri, 27 Mar 2026 17:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frontlines: Where things stand in the Middle East]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/FuA0LGEL6GoRgB24ppk6gQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/3e47d44395471253ec05c79f900a0027.cf.webp" alt="" /></p>Robert Sherman has found himself on the frontlines of some of the world’s biggest stories]]></description>
-            <link>https://www.yahoo.com/news/articles/frontlines-where-things-stand-middle-152117903.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/frontlines-where-things-stand-middle-152117903.html</guid>
-            <pubDate>Fri, 27 Mar 2026 17:43:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 ministers urge end to attacks against civilians in Mideast war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hmBAvupVs85bOPAPivz5nA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3422639589cb76d6179d45b4f50353cc.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/g7-ministers-urge-end-attacks-161307683.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/g7-ministers-urge-end-attacks-161307683.html</guid>
-            <pubDate>Fri, 27 Mar 2026 16:44:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bahrain cracks down on Shia dissent as Iran war tests kingdom]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Rw3wMzbrUBM7hSvm12bOeA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/d6d0fcb090b05d7d20dad505962c3a36.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/bahrain-cracks-down-shia-dissent-161054868.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahrain-cracks-down-shia-dissent-161054868.html</guid>
-            <pubDate>Fri, 27 Mar 2026 16:44:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
