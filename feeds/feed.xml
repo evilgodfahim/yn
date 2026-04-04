@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Apr 2026 20:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Apr 2026 21:25:06 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Apr 2026 20:55:21 GMT</pubDate>
+        <pubDate>Sat, 04 Apr 2026 21:25:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Universities hit as US, Israel ramp up attacks on Iran’s infrastructure]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/yBh9kSZxQGYn8efRdZQOfg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c6ef4cb8b9ac35427e46c34ca034564e.cf.webp" alt="" /></p>Authorities say at least 30 universities impacted by US and Israeli strikes since the start of the war.]]></description>
+            <link>https://www.yahoo.com/news/articles/universities-hit-us-israel-ramp-191724149.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/universities-hit-us-israel-ramp-191724149.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 04 Apr 2026 21:25:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Family of Iran military leader Soleimani has U.S. residence visas revoked]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bUUHPp8YrnQwYotp2z9Feg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/5663d5a20141ea2e80ec43b85a90dcd7.cf.webp" alt="" /></p>Source: CBS News]]></description>
@@ -7047,13 +7055,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lP56YamFgA9Skjts4l2rIg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/a39ccd153ad0e9d5faaba09831eba28f.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/us-hopes-iran-meetings-week-210729511.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-hopes-iran-meetings-week-210729511.html</guid>
-            <pubDate>Fri, 27 Mar 2026 21:27:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel launches strikes on nuclear sites as Iran warns of retaliation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hA_ycroQOqyadidFLSPzRw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ccddb3428db0e37a8f6872e1086842b3.cf.webp" alt="" /></p>Uranium facility, steel plants and heavy water complex among targets hit as IRGC warns of escalation.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-launches-strikes-iran-nuclear-204337153.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-launches-strikes-iran-nuclear-204337153.html</guid>
             <pubDate>Fri, 27 Mar 2026 21:27:37 GMT</pubDate>
         </item>
     </channel>
