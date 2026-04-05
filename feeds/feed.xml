@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 07:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 08:35:17 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 07:36:10 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 08:35:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Displaced by war, Lebanon's Christians mark Easter far from their homes and churches]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IYY6pV7OAOXWcLICUx10fQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/ad086ed6e208bc046b7c05ebc2ebdb2d.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/displaced-war-lebanons-christians-mark-080225416.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/displaced-war-lebanons-christians-mark-080225416.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 08:35:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Authorities say a fire has broken out at a petrochemicals plant in the United Arab Emirates following an attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Authorities say a fire has broken out at a petrochemicals plant in the United Arab Emirates following an attack.]]></description>
+            <link>https://www.yahoo.com/news/articles/authorities-fire-broken-petrochemicals-plant-064606367.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/authorities-fire-broken-petrochemicals-plant-064606367.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 08:35:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/GH2JwiwGpiB9Tts6gzvrtQ--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/0b32ba6e6208b2d626a2f9f2e5a8579b.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/long-mideast-war-could-away-045532806.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/long-mideast-war-could-away-045532806.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 07:36:10 GMT</pubDate>
         </item>
         <item>
@@ -7043,20 +7058,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <link>https://www.yahoo.com/news/articles/us-issues-venezuela-related-general-234251922.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-issues-venezuela-related-general-234251922.html</guid>
             <pubDate>Sat, 28 Mar 2026 03:57:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FAA halts traffic at Washington area airports over odor at facility]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D570008BC842E8CA9FE5EB7E4172CB51F00534F17DB78A162821A236FFED2E67/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4bd598cf98f211488b64c4a61bb10857" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/faa-halts-traffic-washington-area-000043777.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/faa-halts-traffic-washington-area-000043777.html</guid>
-            <pubDate>Sat, 28 Mar 2026 01:24:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One killed in Israel as army reports Iranian missile attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9DE38A4BC9994FBECAE29E226FF8619B94ED8FFD2732531D5C8713F5DE01C1E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F440cb71e55af40e9e7ae77cc8a2982ad" alt="" /></p>Emergency responders said a man was killed in Israel on Friday after the Israeli military reported missiles fired from Iran."A short while ago, the IDF (Israeli Defense Forces) identified missiles launched from Iran toward the territory of the State of Israel.]]></description>
-            <link>https://www.yahoo.com/news/articles/one-killed-israel-army-reports-231139789.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-killed-israel-army-reports-231139789.html</guid>
-            <pubDate>Sat, 28 Mar 2026 01:24:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
