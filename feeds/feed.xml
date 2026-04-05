@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 19:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 19:56:55 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 19:29:08 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 19:56:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon's Christians mark Easter in solidarity with war-hit south]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lS1.t5EuBaF1zpu1g.sUGw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/595054e3c04aafd3e912847a1e44b2fa.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanons-christians-mark-easter-solidarity-192721133.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanons-christians-mark-easter-solidarity-192721133.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 19:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frustration grows as Iran’s wartime internet shutdown breaks grim record]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lUDyuibuM5kPTe01tZtEFw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/ba0286478889f68421225d415df33f05.cf.webp" alt="" /></p>Since January, Iran’s near total internet blackout has impacted jobs and businesses.]]></description>
+            <link>https://www.yahoo.com/news/articles/frustration-grows-iran-wartime-internet-182952272.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/frustration-grows-iran-wartime-internet-182952272.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 19:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Strait of Hormuz Crisis Is Driving a Wave of Global Energy Rationing]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kmpIu.Fxpr_e3NGpRG6WqA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/time_72/a145e5b789b9b19f13869611ecc46e35.cf.webp" alt="" /></p>Source: Time]]></description>
             <link>https://www.yahoo.com/news/articles/strait-hormuz-crisis-driving-wave-184632676.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/strait-hormuz-crisis-driving-wave-184632676.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 19:29:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pcQ3mx9orV3K0yi_wSKZkA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0c0264d4c07394dcea01d3e755a70bef.cf.webp" alt="" /></p>The rise is largely symbolic as some key members are unable to raise production amid the US-Israel war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/opec-agrees-hike-oil-output-173304101.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/opec-agrees-hike-oil-output-173304101.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 19:29:08 GMT</pubDate>
         </item>
         <item>
@@ -7043,20 +7057,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7FD817590105FC796BA23BD4C4D5BA0ECD68914014D9A8E1C20D77F8B171DF37/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa6e60d1d7cb8759770a13377442c7368" alt="" /></p>At least five soldiers are reported in serious condition following Iran attack that damaged refuelling aircraft.]]></description>
             <link>https://www.yahoo.com/news/articles/least-15-us-troops-wounded-122153251.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-15-us-troops-wounded-122153251.html</guid>
-            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky visits UAE, Qatar for air security talks with Gulf]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F801CCECBFA8755D8ED00C3CD2DDB73DA7E443199D004078742CAC944506032E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1f46faa441e85490140a00872eeb1158" alt="" /></p>Ukrainian President Volodymyr Zelensky said on Saturday that his country and the United Arab Emirates have agreed to cooperate on defence amid Iran's drone strikes across the Gulf, before heading to regional neighbour Qatar."We agreed to cooperate in the field of security and defence.]]></description>
-            <link>https://www.yahoo.com/news/articles/zelensky-visits-uae-qatar-air-114933641.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelensky-visits-uae-qatar-air-114933641.html</guid>
-            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strike kills at least two Lebanese journalists, Al Manar TV says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, March 28 (Reuters) - An Israeli strike on a media car in southern Lebanon killed at least two Lebanese broadcast journalists, Lebanon's Al Manar TV reported on Saturday.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-strike-kills-least-two-113834949.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strike-kills-least-two-113834949.html</guid>
             <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
         </item>
     </channel>
