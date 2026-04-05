@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 17:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 18:33:17 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 18:33:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US rescues service member in Iran as strikes continue]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/S4DWLCmZZk8jx40725skxg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/79a0b6c2fbcea38102319263f00d9840.cf.webp" alt="" /></p>"The United States Military pulled off one of the most daring Search and Rescue Operations in U.S. History," Trump said.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-airman-rescued-iran-trump-042234504.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-airman-rescued-iran-trump-042234504.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 18:33:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK police arrest protesters near base used by US]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ljYl6Xixh_cD_Zrj4yk9HQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e3053492c1e053bae7686c4bca78f28e.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/uk-police-arrest-protesters-near-171445127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-police-arrest-protesters-near-171445127.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 5 (Reuters) - Hamas' armed wing said on Sunday discussing the group's disarmament before Israel fully implements the first phase of the U.S.-brokered Gaza ceasefire was an attempt to continue]]></description>
             <link>https://www.yahoo.com/news/articles/hamas-armed-wing-says-disarmament-160226736.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hamas-armed-wing-says-disarmament-160226736.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D04vpnTASY4bfDVsu5Nmfw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/019ec1bb2fa563be03edffbb36e486f9.cf.webp" alt="" /></p>By Phil Stewart and Menna AlaaElDin WASHINGTON/CAIRO, April 5 (Reuters) - U.S. special forces rescued an airman in a high-risk mission deep inside Iran while President Donald Trump threatened to rain]]></description>
             <link>https://www.yahoo.com/news/articles/trump-israel-pressure-iran-ahead-221308589.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-israel-pressure-iran-ahead-221308589.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Kvktbobgw.Sbp1r5yedIrw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/102b1cbb14c4a6f845f182d9e7f21747.cf.webp" alt="" /></p>Hezbollah fires projectiles at northern Israel while Israeli troops push deeper into southern Lebanon.]]></description>
             <link>https://www.yahoo.com/news/articles/least-14-people-killed-israeli-161514875.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-14-people-killed-israeli-161514875.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DHAKA, April 5 () - Bangladesh on Sunday launched an emergency vaccination campaign targeting more than a million children ‌as a fast‑spreading measles outbreak sweeps across the country. Health ‌ministry figures show there have been 17 confirmed deaths from measles so ​far, with 113 suspected deaths and more than 7,500 suspected infections nationwide.]]></description>
             <link>https://www.yahoo.com/news/articles/bangladesh-launches-emergency-vaccination-campaign-160638541.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bangladesh-launches-emergency-vaccination-campaign-160638541.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump issues fiery new threat against Iran as details of US aviator's rescue emerge]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-5-040000757.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-5-040000757.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Trump issues fiery new threat against Iran as details of US aviator's rescue emerge]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-5-040000625.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-5-040000625.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 17:55:22 GMT</pubDate>
         </item>
         <item>
@@ -7055,13 +7056,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACE778CB5DF7ED73F62980855E80CAFFE2E72024977C2F8EB2F73F5BBD464F24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcf40f57c33a615639e278f77d752bd14" alt="" /></p>WARSAW, March 28 () - Poland will extend ‌controls along ‌its borders with fellow ​European Union members Germany and Lithuania by six months ‌until October ⁠1, its interior ministry said ⁠on Saturday. Poland introduced temporary controls in ​July, ​echoing ​several other ‌EU governments in reimposing frontier checks to stem illegal migration.]]></description>
             <link>https://www.yahoo.com/news/articles/poland-extends-checks-borders-germany-113505899.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/poland-extends-checks-borders-germany-113505899.html</guid>
-            <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At CPAC, a generational divide over Republican support for Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37FB85AF590237B8F1DA0E9B9CDAAC069D2088A6F397A5AED41C10746B3888EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F46dd67232b85bc9a627bdc76a4be86c8" alt="" /></p>By Nathan Layne GRAPEVINE, Texas, March 28 (Reuters) - When former Congressman Matt Gaetz opened his speech by aligning with a Republican faction "loyal to only one nation," his message to the]]></description>
-            <link>https://www.yahoo.com/news/articles/cpac-generational-divide-over-republican-100407671.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cpac-generational-divide-over-republican-100407671.html</guid>
             <pubDate>Sat, 28 Mar 2026 12:37:07 GMT</pubDate>
         </item>
     </channel>
