@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Apr 2026 13:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Apr 2026 14:29:33 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
+        <pubDate>Sun, 05 Apr 2026 14:29:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Backpacks full of explosives found near Serbia-Hungary gas pipeline, leaders say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/waB3FCU3YkFi37TTGXdoTA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/9d88b617ccab3c101e9d83a306d6e1d1.cf.webp" alt="" /></p>Two backpacks containing explosives were found near a pipeline in Serbia near the Hungarian border carrying Russian gas, Serbian President Aleksandar Vucic said on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/articles/backpacks-full-explosives-found-near-130615399.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/backpacks-full-explosives-found-near-130615399.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sun, 05 Apr 2026 14:29:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Safe and sound’: How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/n_qZKdiNeiX8f3FQNpkQBQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/time_72/69ea1c2c81111dab0e13a2ea2288078e.cf.webp" alt="" /></p>Source: Time]]></description>
             <link>https://www.yahoo.com/news/articles/safe-sound-u-airman-shot-130308443.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/safe-sound-u-airman-shot-130308443.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lgf1.DY_2uQ_CZV2RpRAZQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ba0fc3a39c020303c3103484faa3c183.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/know-race-rescue-downed-us-131752667.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-race-rescue-downed-us-131752667.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LOn8T20p3Zm45EswvkVSeg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a93bdef41a05bc8c612c65a36f727812.cf.webp" alt="" /></p>Zarif’s plan calls for limits on Iran’s nuclear programme and reopening Strait of Hormuz in return for end to sanctions.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-ex-fm-zarif-proposes-124411276.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-ex-fm-zarif-proposes-124411276.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/s.YfkiUR.BHLvxyUdKsUUg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/363c63a1d4dfc645d0c05399076ac379.cf.webp" alt="" /></p>The service marked the family's first appearance together since the arrest of former Prince Andrew.]]></description>
             <link>https://www.yahoo.com/news/articles/british-royals-attend-easter-without-124142674.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/british-royals-attend-easter-without-124142674.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/i.ZmSAmWVMQso2vNvU7NSA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/cd1f9ae589f32a1410f8d653ad8b49c9.cf.webp" alt="" /></p>In the usually lively alleyways of Jerusalem's Old City, silence reigned on Easter Sunday, with the holiday overshadowed by war and restrictions on access to the Holy Sepulchre, where the faithful commemorate Christ's crucifixion and resurrection.Since the start of the war on February 28, debris from Iranian missiles or interceptors has fallen in the Old City, including near the Holy Sepulchre, Al-Aqsa Mosque, and in the Jewish Quarter.]]></description>
             <link>https://www.yahoo.com/news/articles/easter-jerusalem-disrupted-war-restrictions-122558507.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/easter-jerusalem-disrupted-war-restrictions-122558507.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/GImpuySV26f7tA4qWG.WQQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9d181069deb8124aacfae7f85c05838d.cf.webp" alt="" /></p>LONDON, April 5 (Reuters) - Britain's King Charles and Queen Camilla attended the traditional Easter service at Windsor Castle on Sunday, joined by his eldest son and heir to the throne Prince William]]></description>
             <link>https://www.yahoo.com/news/articles/british-royals-gather-easter-andrew-122205969.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/british-royals-gather-easter-andrew-122205969.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D1gucTOtiC1yvG2MOUDirw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/12980b1851c239c905f29ec31884b9c8.cf.webp" alt="" /></p>The talks focus on a ‘smooth passage’ through the Strait of Hormuz, as Tehran effectively blocks the vital waterway.]]></description>
             <link>https://www.yahoo.com/news/articles/oman-iran-discuss-smooth-transit-121843371.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/oman-iran-discuss-smooth-transit-121843371.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CeUq5oT9xUCJ70nVQ7NcUA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/938ed25cc56e467a49d54c9ee15a459b.cf.webp" alt="" /></p>In his first Easter blessing as pontiff, Pope Leo XIV called for dialogue over domination, quoting Pope Francis' warning on global indifference.]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-xiv-invokes-pope-110329901.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-xiv-invokes-pope-110329901.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 05 Apr 2026 13:49:46 GMT</pubDate>
         </item>
         <item>
@@ -7057,13 +7057,6 @@ Qatar and Ukraine signed a defence agreement including cooperation on countering
             <link>https://www.yahoo.com/news/articles/yemen-houthis-claim-responsibility-missile-072110544.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemen-houthis-claim-responsibility-missile-072110544.html</guid>
             <pubDate>Sat, 28 Mar 2026 09:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One month into the war, Iranians wrestle with lost livelihoods, bombs and worries of the future]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LhjFVNpULMPTQOG1wB3V3Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/3be7aa26cfea96990cd87da2955e4666.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/one-month-war-iranians-wrestle-081539145.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-month-war-iranians-wrestle-081539145.html</guid>
-            <pubDate>Sat, 28 Mar 2026 08:33:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
