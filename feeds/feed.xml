@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 20:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 21:31:46 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 21:31:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VE3FwcySuYUXG3hNKToXzw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/67e51aa23c3e41cea53fb89cd42471ab.cf.webp" alt="" /></p>The Houthis in Yemen say they attacked Israel alongside their backers Iran and Hezbollah in Lebanon.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-hezbollah-yemen-houthis-join-202206149.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-hezbollah-yemen-houthis-join-202206149.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 21:31:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venezuela's government, opposition may cooperate to safeguard US assets]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B8628063104EE2C09F9658B86292F59440AE1200D9BB503E9D72ACBFECDB323/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcf3fffc2d63c860953100d0d79685836" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/venezuelas-government-opposition-may-cooperate-184952195.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelas-government-opposition-may-cooperate-184952195.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF28960036BFD0657340C9567AA5A4CA9BF68A97864B3A9E33A31F7FABFB7747/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fde3b890e3493867c21ccac2a36c5f616" alt="" /></p>April 6 () - Ukrainian President Volodymyr Zelenskiy said on Monday that he stood by a proposal made ‌to Russia for a ceasefire contingent on Moscow ‌halting all attacks on energy infrastructure. Zelenskiy said in his nightly video address ​that the proposal had been conveyed to Moscow through the U.]]></description>
             <link>https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-stands-ceasefire-191827360.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-stands-ceasefire-191827360.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0EF05ED76D055CABEFDC99DD7BA1C439FB6C37994DAA95F6C122B01ABC9B208B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F400c8e5a8d763179d569d10a1ccff9ea" alt="" /></p>South Korea says Pyongyang is wary as it seeks to renew diplomatic dialogue with the US.]]></description>
             <link>https://www.yahoo.com/news/articles/north-korea-keeping-iran-arm-183216594.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-keeping-iran-arm-183216594.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F367EAF4C24475CB0B2412FAE2BDB6E2F89A54B9F0D4C1D8FB0E86E2A7DC99C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F1b032486ef4ee4f9a1a20f0a2fdc9bbd" alt="" /></p>Paul Mauro says U.S. intelligence agencies had already laid the groundwork needed to locate and rescue a missing colonel from enemy territory in Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/mauro-compares-iran-rescue-missing-180137032.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mauro-compares-iran-rescue-missing-180137032.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -52,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF8D3291751D4D5AA8B4B8921CD1D6BF6EF432F6F10847E81E8D26DF6FF02E38/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F443f49f56e1f7906190f2bfbadfd739b" alt="" /></p>U.S. Central Command Commander Admiral Brad Cooper directed a strike on an IRGC headquarters in an underground facility, sources indicated.]]></description>
             <link>https://www.yahoo.com/news/articles/centcom-commander-directed-strike-against-173249633.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/centcom-commander-directed-strike-against-173249633.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -60,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Garba Muhammad KADUNA, Nigeria, April 6 (Reuters) - A Nigerian Christian group on Monday disputed an assertion by the army that it had rescued 31 people who were abducted by armed men in northern]]></description>
             <link>https://www.yahoo.com/news/articles/nigeria-christian-group-disputes-army-171828098.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nigeria-christian-group-disputes-army-171828098.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 20:31:17 GMT</pubDate>
         </item>
         <item>
@@ -7048,13 +7050,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1ta67ErL86O_FpNCJXjHSQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/94376459f3f7cba91f00d8e695ce0023.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/funeral-near-beirut-journalists-killed-115645410.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/funeral-near-beirut-journalists-killed-115645410.html</guid>
-            <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3l2i09MQsva2ac2f.AUi1w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1068eb8f65f78147365d6b738c54badd.cf.webp" alt="" /></p>Top diplomats of Pakistan, Egypt, Saudi Arabia and Turkiye meet to prepare ground for de-escalation in war on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-hosts-four-nation-bid-111043899.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-hosts-four-nation-bid-111043899.html</guid>
             <pubDate>Sun, 29 Mar 2026 12:37:56 GMT</pubDate>
         </item>
     </channel>
