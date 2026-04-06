@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 18:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 19:34:34 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 19:34:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What We Know About Kim Jong Un’s Teenage Daughter and Possible Heir]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hb2N_MilFZ5w9tEc3eI.sg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/time_72/a0c5daa112444b58fa4fc6db9979bc02.cf.webp" alt="" /></p>Even the girl’s reported name—Kim Ju Ae—has never officially been confirmed.]]></description>
+            <link>https://www.yahoo.com/news/articles/know-kim-jong-un-teenage-182908219.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-kim-jong-un-teenage-182908219.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 19:34:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bahamas police searching for American woman who allegedly fell overboard]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NRt8oT4hMs7zebCdoTiiIA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/929c8f56b3307bba2ef2c56f925c50c5.cf.webp" alt="" /></p>The unnamed woman allegedly fell off a dinghy while she and her husband were boating.]]></description>
+            <link>https://www.yahoo.com/news/articles/bahamas-police-searching-american-woman-164129117.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahamas-police-searching-american-woman-164129117.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 19:34:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli airstrike kills at least 10 near Gaza school as ceasefire strains]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D6JjkCOf6wtgLhAZuKaYWA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a1062eb9332d6be609365ba21be17e5c.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-airstrike-kills-least-10-171704617.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-airstrike-kills-least-10-171704617.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/nDFfi4EDIgt1zwhPqPF9dg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1af7f047262b8dc7235164dbabcbfcad.cf.webp" alt="" /></p>Libyan oil sector proxy wars occur during Hormuz tensions, creating dangerous supply vulnerabilities for global markets.]]></description>
             <link>https://www.yahoo.com/news/articles/libya-oil-disputes-mirror-hormuz-165044127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/libya-oil-disputes-mirror-hormuz-165044127.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rC.N0m2xUnyWOZGPkWV.Yg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/7d4b1a79edc23218cfedb99dda13d495.cf.webp" alt="" /></p>The nation of Iran has been carrying out executions, including of teenagers, as the U.S. and Israel wage war against the country, reports indicate.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-executes-people-including-teens-154827677.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-executes-people-including-teens-154827677.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
         </item>
         <item>
@@ -7038,20 +7051,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/n_ryWG0tN7wrbsEVT7STlA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/453d0835364e0840131e1b46beef3160.cf.webp" alt="" /></p>Nepal's former energy minister was arrested Sunday in a money laundering investigation, police said, the latest in a series of high-profile detentions that has included the ex-prime minister since the new government took power.Ex-energy minister Deepak Khadka was detained on Sunday "in a case relating to money laundering", Central Investigation Bureau spokesman Shiva Kumar Shrestha said.]]></description>
             <link>https://www.yahoo.com/news/articles/nepals-former-energy-minister-arrested-094112485.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nepals-former-energy-minister-arrested-094112485.html</guid>
-            <pubDate>Sun, 29 Mar 2026 10:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon readies for weeks of US ground operations in Iran: Report]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/z4KpCH6nTRL3gjoRalxRbw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a5a804641c0ef1695578447ebee48829.cf.webp" alt="" /></p>Uncertainty looms over Trump’s approval of the Pentagon’s plans for limited ground operations in Iran’s strategic regions.]]></description>
-            <link>https://www.yahoo.com/news/articles/pentagon-readies-weeks-us-ground-091557056.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pentagon-readies-weeks-us-ground-091557056.html</guid>
-            <pubDate>Sun, 29 Mar 2026 10:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mongolia ruling party picks a new prime minister candidate]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Mongolia's ruling party selected a new candidate for prime minister on Sunday after the last head of government, Zandanshatar Gombojav, resigned after only nine months on the job.  Uchral Nyam-Osor, the current party chairman who is serving as speaker of the Parliament, was nominated at a meeting of the Mongolian People's Party, according to state news agency Montsame.]]></description>
-            <link>https://www.yahoo.com/news/articles/mongolia-ruling-party-picks-prime-090715748.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mongolia-ruling-party-picks-prime-090715748.html</guid>
             <pubDate>Sun, 29 Mar 2026 10:59:14 GMT</pubDate>
         </item>
     </channel>
