@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 22:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 23:03:51 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 22:28:55 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 23:03:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How many people have died in the current war, according to various authorities]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hiSS5GcV87G8XkA7PTnQ8w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/67d474e1a9f00a1f01084e4e2c5e4574.cf.webp" alt="" /></p>Some of the numbers are in dispute, but here are how many people have died since the war started, according to various agencies and authorities.]]></description>
+            <link>https://www.yahoo.com/news/articles/many-people-died-current-war-203530815.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/many-people-died-current-war-203530815.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 23:03:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brazil's free cooking gas program threatened by energy price spike ahead of election]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wzN_xuR9UpoEutxadfPsSg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/0fab0c27735983242fc400c6f6e5de4e.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/brazils-free-cooking-gas-program-214319133.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazils-free-cooking-gas-program-214319133.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 22:28:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DsZ0IZJ8y1sjKx49I1fu7g--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f21b46d775d0af0bf316d6e1d547018c.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/incredibly-dangerous-rescuing-downed-fighter-212344494.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/incredibly-dangerous-rescuing-downed-fighter-212344494.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 22:28:55 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/i8mhPeMJC9X4zoRD1X6IwQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a6fc410a9510d4af43ae0be89071f90d.cf.webp" alt="" /></p>Drones are reported to have fired missiles into an area near Maghazi refugee camp.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-air-strike-kills-least-203447160.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-air-strike-kills-least-203447160.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 22:28:55 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/80zwI.5C00qLKTt79vdfMQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/359078787ef913b4a409ca068e4ee096.cf.webp" alt="" /></p>Trump revealed the F-15 fighter jet was brought down by an Iranian shoulder-mounted missile.]]></description>
             <link>https://www.yahoo.com/news/articles/us-forces-rescued-stranded-members-172126543.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-forces-rescued-stranded-members-172126543.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 22:28:55 GMT</pubDate>
         </item>
         <item>
@@ -7046,13 +7050,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8ufH_8i3nuaMVineNYWOXQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3f6f446848d648a39d4d6d011502f80e.cf.webp" alt="" /></p>Acutely sensitive to noise because of childhood trauma, Nili stresses when air raid sirens send her into a crowded shelter where her own "internal war" overlaps with the one raging outside.So sometimes instead of going down, we have to stand outside," said her mother, Veena Azmanov, who noted that the noise inside the shelter, combined with the wail of sirens and boom of missile interceptions, can elevate stress.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-air-raid-sirens-spark-125222635.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-air-raid-sirens-spark-125222635.html</guid>
-            <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea tests missile that it claims can target U.S. mainland]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YTxdRvsH6EBbbYw6yG38lg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b37a210c677aa62b1bbb07b1cf97ea59.cf.webp" alt="" /></p>The test was in line with Kim Jong Un's goals of targeting the U.S., but some experts speculate the claim may be exaggerated.]]></description>
-            <link>https://www.yahoo.com/news/articles/north-korea-tests-missile-claims-122835749.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-tests-missile-claims-122835749.html</guid>
             <pubDate>Sun, 29 Mar 2026 14:28:05 GMT</pubDate>
         </item>
     </channel>
