@@ -4,16 +4,157 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 14:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 15:10:52 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Death toll from extreme weather in Afghanistan increases to 110]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3996F304AE1FC53CFB93959E1A914658F08D49B8EB5740501339B8AA9DAEF46A/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdd07560985b59c5ab648db6646588b3f" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/death-toll-extreme-weather-afghanistan-150344076.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/death-toll-extreme-weather-afghanistan-150344076.html</guid>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran rejects ceasefire in response to proposals and emphasises need for permanent end to war, IRNA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD2207E2D7171B08CFD6B09BC1D34A905B456B7C395724C3F849B186504AFBCC/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2410d4dd30e05ee50eca57005efe6758" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-rejects-ceasefire-response-proposals-145802118.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-rejects-ceasefire-response-proposals-145802118.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's state-run IRNA news agency says Tehran rejects latest ceasefire proposal and wants permanent end to the war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/irans-state-run-irna-news-145734311.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-state-run-irna-news-145734311.html</guid>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US nuclear power regulator phases out agency-led commando drills at plants]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81B33C48F5F74315FEECA1D216115A448348AF9985FCA384DD8E947A36137749/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F183ce1a762b3a9cd8c1dfd51285ba7c1" alt="" /></p>By Timothy Gardner WASHINGTON, April 6 (Reuters) - The U.S. nuclear power regulator voted last week to phase out agency-led security inspections at operating reactors, a move a safety advocate said]]></description>
+            <link>https://www.yahoo.com/news/articles/us-nuclear-power-regulator-phases-133417492.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-nuclear-power-regulator-phases-133417492.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China's Xi urges faster development of new energy system as Middle East war continues]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F345ED196221B5CC1B74595587858B21C71136F7AD381F630ED1861472D5152C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd58fe4eaa79091715efcad4079acfa12" alt="" /></p>By Liz Lee and Claire Fu BEIJING, April 6 (Reuters) - Chinese President Xi Jinping has called for accelerated planning and construction of a new energy system to safeguard the country's energy]]></description>
+            <link>https://www.yahoo.com/news/articles/chinas-xi-urges-faster-development-131159094.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/chinas-xi-urges-faster-development-131159094.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian court sentences former governor to 14 years in prison for corruption]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MOSCOW, April 6 (Reuters) - A Russian court on Monday sentenced the former governor of the Kursk region, Alexei Smirnov, to 14 years in prison for corruption, state news agency RIA reported.]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-court-sentences-former-governor-124338487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-court-sentences-former-governor-124338487.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How US operation to rescue air officer from Iran unfolded]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34FF98B37D228062FDD00D9CA072209088CC02091A39580741800EC5F7317D9E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F50cf453b66f835b12ac54262be0a3475" alt="" /></p>President Trump says US service member whose fighter jet was shot down over Iran is rescued during two raids.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-operation-rescue-air-officer-124247261.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-operation-rescue-air-officer-124247261.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea welcome's Seoul's expression of regret over drone incursion]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8C5A8093D724465203C5ADF7FB678BA76378E71728D4150B1A210A558B366EC8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd53d476332d71ed9f12c8ac3a17999fa" alt="" /></p>SEOUL, April 6 (Reuters) - Kim Yo Jong, the influential sister of North Korea's leader, welcomed Seoul's expression of regret over an unauthorized drone incursion by a South Korean individual on]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-welcomes-seouls-expression-123822072.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-welcomes-seouls-expression-123822072.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Credible intelligence' reveals North Korea's successor to Kim Jong Un, South Korea says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60D195F58E546D3AED93BDECDAEBAB9F2FD3B456B91FC2EBCF1A4CAC7CB1F7C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fae073c845556c18c50b783c7d55c0be2" alt="" /></p>South Korea's National Intelligence Service thinks North Korean figure Kim Jong Un's daughter has been lined up to become Kim's eventual successor, lawmakers noted, according to Reuters.]]></description>
+            <link>https://www.yahoo.com/news/articles/credible-intelligence-reveals-north-koreas-122031205.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/credible-intelligence-reveals-north-koreas-122031205.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miners escape from attacked coal mine in Russian-controlled Ukraine, official says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MOSCOW, April 6 () - All 41 miners who were ‌trapped underground after ‌Ukraine struck the Bilorechenska coal mine ​in the Russian‑controlled Luhansk region have been evacuated and are safe, a Russian‑installed ‌official said ⁠on Monday. Leonid Pasechnik, the Moscow‑appointed head of ⁠the region, said power had been restored to ​the mine ​and ​the workers brought ‌to the surface.]]></description>
+            <link>https://www.yahoo.com/news/articles/41-miners-trapped-ukrainian-strike-053244023.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/41-miners-trapped-ukrainian-strike-053244023.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 6 (Reuters) - Israel struck Iran's largest petrochemical complex at Asaluyeh on Monday, defence minister Israel Katz said, in what he described as a severe economic blow to Tehran.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-strikes-irans-petrochemical-complex-114948294.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-strikes-irans-petrochemical-complex-114948294.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Younger Hungarian voters spurn Orban, some say they will leave if he is re-elected]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1478A1F08EEB6134F4896C476656C77CDF68649159FA8001451CAE8B5D4FA8D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4547fe63872d33dcd26f98558942227c" alt="" /></p>By Krisztina Fenyo, Marton Monus and Gergely Szakacs SZOMBATHELY, Hungary, April 6 (Reuters) - As Hungary heads towards a pivotal election, voters who came of age under Prime Minister Viktor Orban]]></description>
+            <link>https://www.yahoo.com/news/articles/younger-hungarian-voters-spurn-orban-113942464.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/younger-hungarian-voters-spurn-orban-113942464.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/871C8D04694446966218005F9756441E8A9AC2C52C3751BAC35C2C8471116348/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F674b3e1b6328684ae8641842885dcd02" alt="" /></p>Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire plan. But Iran is reluctant.]]></description>
+            <link>https://www.yahoo.com/news/articles/trump-bridge-day-threat-last-111253857.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-bridge-day-threat-last-111253857.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian drones kill mother, 2-year-old daughter in Ukraine's Odesa]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5618BEC8F4F22576F165AE00B593A67296C1DEA360CEB56306C6470AC8338DE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F26cd9d2f538af7aa8928e9864e1125f0" alt="" /></p>ODESA, Ukraine, April 6 () - Russia launched a drone attack on Ukraine's Black Sea port of Odesa overnight on Monday, killing a ‌30-year-old mother and her two-year-old daughter, and one more woman, damaging ‌residential buildings and energy infrastructure, the regional governor said. "Overnight, Odesa came under another heavy attack ​by the enemy," Oleh Kiper, Odesa regional governor, said on the Telegram app, adding that 16 people, including a pregnant woman and two small children, were injure]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-drone-attack-ukraines-odesa-053932557.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-drone-attack-ukraines-odesa-053932557.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kremlin says the whole Middle East is 'on fire']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BD23460761D701A11A18F46E870444E8046A3894DF25C1EF2D96884DA9000509/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4d8a99d3fb9a8c4af7b24e48686dc56a" alt="" /></p>MOSCOW, April 6 (Reuters) - The Kremlin on Monday said that the Iran war was escalating in both geography and economic impact, and that the whole Middle East region was "on fire" due to the U.S. and]]></description>
+            <link>https://www.yahoo.com/news/articles/kremlin-says-whole-middle-east-102215442.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/kremlin-says-whole-middle-east-102215442.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish PM's party gains on anti-war stance, support for far right stalls in polls]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BA265AA12C06FFAF27917587C13CB641B1F28B483271B3D116AEDE5AAF6C254/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd652ad9383639beaa7e0721ffee60dc5" alt="" /></p>MADRID, April 6 (Reuters) - Spain's ruling Socialist Party has gained voter support amid Prime Minister Pedro Sanchez's staunch opposition to the U.S.-Israeli war on Iran, while far-right Vox, which]]></description>
+            <link>https://www.yahoo.com/news/articles/spanish-pms-party-gains-anti-100042193.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spanish-pms-party-gains-anti-100042193.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran struck US forces relocated on Kuwait's Bubiyan island, military spokesperson says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, April 6 (Reuters) - U.S. forces located on Kuwait's Bubiyan island were targeted by Iran, the spokesperson of Iran's Khatam al-Anbiya Central Headquarters said in a video statement shared by]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-struck-us-forces-relocated-081945798.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-struck-us-forces-relocated-081945798.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran, U.S. receive plan to end hostilities, immediate ceasefire; source says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A560B0BAA25AE31B48EF808BBD247DCEA57E12589415CE0EA012D1CDC1400D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff3909296afa99deac32720fb02dee3b4" alt="" /></p>April 6 () - Iran and the United States have received a plan to end hostilities that could come into effect on Monday and reopen the Strait of Hormuz, a source aware ‌of the proposals said on Monday. A framework to end hostilities has been put together by Pakistan ‌and exchanged with Iran and the U.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-u-receive-plan-end-065708915.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-u-receive-plan-end-065708915.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 15:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Korea says South Korea's Lee is 'wise' for expressing regret about drones]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Gc7U9DnB44YpnDA1KJaytw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/24596cfe2e6b868d526ea74a196e67ef.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/north-korea-says-south-koreas-130321873.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-says-south-koreas-130321873.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +162,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YjOonLZJs4_HgsxeCHjE1A--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/68ad1a87722990fa345df78c9033e4bb.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/u-woman-missing-husband-says-125810686.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-woman-missing-husband-says-125810686.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +169,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/us15Tawj.51hXlYQkCjbIQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1198f0f1c26c8e6765d2bd22c9144223.cf.webp" alt="" /></p>If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world’s energy supply would be blocked.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-threatens-bab-al-mandeb-114904345.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-threatens-bab-al-mandeb-114904345.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +176,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rkOsYZcehPIaZ9tw.9vblA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f.cf.webp" alt="" /></p>Israel announces IRGC intelligence chief Majid Khademi was killed in a precision strike that also took out Quds Force special operations commander Bagheri.]]></description>
             <link>https://www.yahoo.com/news/articles/idf-confirms-irgc-intel-chief-110722723.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/idf-confirms-irgc-intel-chief-110722723.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +183,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/N2MlAs8BVa9NLFFvicw5XQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/c1c75fc30c60a3c7e2978617123e0628.cf.webp" alt="" /></p>The proposed deal would consist of a temporary ceasefire and the reopening of the Strait of Hormuz, followed by work toward a broader peace plan.]]></description>
             <link>https://www.yahoo.com/news/articles/live-updates-us-iran-weigh-110128353.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-us-iran-weigh-110128353.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 14:07:37 GMT</pubDate>
         </item>
         <item>
@@ -6929,132 +7066,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <link>https://www.yahoo.com/news/articles/iran-backed-houthis-enter-monthlong-040817312.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-backed-houthis-enter-monthlong-040817312.html</guid>
             <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 7:23 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korea conducts engine test for missile capable of targeting US mainland]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-7-23-m-040000171.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-7-23-m-040000171.html</guid>
-            <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Asian News 7:23 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korean leader Kim Jong Un observed a test of an upgraded, high-thrust, solid-fuel engine for weapons and hailed it as a signficant development to boost the country's strategic military capability, state media reported Sunday. While the test was in line with Kim's stated goal of acquiring more agile, hard-to-detect missiles targeting the United States and its allies, some experts speculate North Korea's claim may be an exaggeration. The Korean Central News Agency reported Kim watched the ground jet test of the engine using a composite carbon fiber material.]]></description>
-            <link>https://www.yahoo.com/news/articles/top-asian-news-7-23-040000345.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-7-23-040000345.html</guid>
-            <pubDate>Sun, 29 Mar 2026 07:32:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran claims aluminium plant attacks in Gulf as Houthis join war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Vu5W8f6spOn485wv3on4og--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/4c7f054ccead04e57ad8d13e4f8e0421.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-claims-aluminium-plant-attacks-051028834.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-claims-aluminium-plant-attacks-051028834.html</guid>
-            <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea's Kim oversees test of high-thrust engine: state media]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/isbt8OPlsLXWICyE3WeFow--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/95683ee5d0fcc6eb6a3d6bc70e6badb3.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/north-koreas-kim-oversees-test-050731118.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-oversees-test-050731118.html</guid>
-            <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacked hospitals, hidden spyware: Iran conflict shows how digital fight is ingrained in warfare]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RnQkZS5M9322JBRiL.zbkA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/44393231e85eafbd81284fe677b95aa6.cf.webp" alt="" /></p>As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters.  The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the U.S. and Israel against Iran and its digital proxies.  As Iran and its supporters seek to use their cyber capabilities to compensate for their military disadvantages, they are demonstrating how disinformation, artificial intelligence and hacking are now ingrained in modern warfare.]]></description>
-            <link>https://www.yahoo.com/news/articles/hacked-hospitals-hidden-spyware-iran-040209491.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hacked-hospitals-hidden-spyware-iran-040209491.html</guid>
-            <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we know on Day 30 of the US and Israel’s war with Iran: More US troops arrive in the region]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7GVGqbkTd9_yOozUsjhEFw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/46ef7e69b81c6160904eb4950a3320d7.cf.webp" alt="" /></p>Adding to the military presence in the Middle East, a US Navy ship carrying 3,500 sailors and Marines has arrived in the region. And a new front has opened in the war after Iran proxy the Houthis fired missiles at long-time foe Israel.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-day-30-us-israel-034751529.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-day-30-us-israel-034751529.html</guid>
-            <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helplines buzz with alerts from seafarers trapped in war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/w_RcoI2CUCHmqfFDsx9xbw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/dd450022745d9d5540dae19c351804e9.cf.webp" alt="" /></p>Seafarers' helplines say they are overwhelmed with messages from crews stuck in the Gulf by the Middle East war, desperately seeking repatriation, compensation and onboard supplies."Immediate supply of food, drinking water, basic necessities is required to sustain the crew," said the message to the team's helpline.]]></description>
-            <link>https://www.yahoo.com/news/articles/helplines-buzz-alerts-seafarers-trapped-031730847.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/helplines-buzz-alerts-seafarers-trapped-031730847.html</guid>
-            <pubDate>Sun, 29 Mar 2026 06:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest: Regional powers to meet in Pakistan to discuss how to end Mideast fighting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5jKB8lTGD7CpUSjQ1RH6UQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/b9bb87dff4b52ee913e7bb86435b9888.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/latest-regional-powers-meet-pakistan-040827117.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/latest-regional-powers-meet-pakistan-040827117.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WTO talks stalled going into final day amid U.S.-India e-commerce deadlock]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LqegBPgYldqoMEk2L5Es_g--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters-finance.com/c68c0920fa3709e7f32e085da17d86ab.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/wto-talks-stalled-going-final-040516014.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/wto-talks-stalled-going-final-040516014.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Headlines at 4:09 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran-backed Houthis enter the monthlong war and could further threaten global shipping]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000296.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-02-040000296.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea conducts engine test for missile capable of targeting US mainland]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pzgl7NKJY_u7HVYODjEG5w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/440005124c50c78428efb55aef79b90e.cf.webp" alt="" /></p>North Korean leader Kim Jong Un observed a test of a high-thrust, solid-fuel engine for weapons and hailed it as a development to boost the country’s strategic military capability, state media reported Sunday.  The test likely indicates Kim is intent on enlarging and modernizing an arsenal of missiles capable of reaching the United States mainland.  The report on Sunday from Korean Central News Agency came days after Kim delivered a speech at North Korea's Parliament pledging to irreversibly cement his country’s status as a nuclear power and accusing the U.S. of global “state terrorism and aggression,” in an apparent reference to the war in the Middle East.]]></description>
-            <link>https://www.yahoo.com/news/articles/north-korea-conducts-engine-test-020506875.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-conducts-engine-test-020506875.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soccer-Fan dies in fall at Mexico City stadium reopening]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mLc9EQIEmqZ_9TOLVGEAzg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/538bd3a8cc42619213c8b0b33c4c1ed1.cf.webp" alt="" /></p>MEXICO CITY, March 28 (Reuters) - A man died in Mexico City's newly renovated Estadio Banorte on Saturday after falling from a box seat area shortly before the stadium's reopening match, security]]></description>
-            <link>https://www.yahoo.com/news/articles/soccer-fan-dies-fall-mexico-013440585.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/soccer-fan-dies-fall-mexico-013440585.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three dead in building fire in China's Shanxi, Xinhua reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, March 29 (Reuters) - A fire broke out in a building in China's northern Shanxi province, killing three and injuring 23, including nine in serious condition, state news agency Xinhua reported]]></description>
-            <link>https://www.yahoo.com/news/articles/three-dead-building-fire-chinas-011547807.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-dead-building-fire-chinas-011547807.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As war on Iran enters second month, Yemen’s Houthis open new front]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xUP8SwPixTNwlKpPXCbgBw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a6f7c425ea5e8f171ad231199820c5bd.cf.webp" alt="" /></p>The Yemeni group pledges more attacks on Israel as fears mount that the worsening conflict will spiral out of control.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-iran-enters-second-month-005921763.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-iran-enters-second-month-005921763.html</guid>
-            <pubDate>Sun, 29 Mar 2026 04:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pentagon preparing for weeks of ground operations in Iran, Washington Post reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZZ4WK1q1X2hKaO7ldinDLg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/769ca0083f15ec6c4f95f0877f22cbae.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/pentagon-preparing-weeks-ground-operations-004518775.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pentagon-preparing-weeks-ground-operations-004518775.html</guid>
-            <pubDate>Sun, 29 Mar 2026 01:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemen's Houthis enter Iran war with attacks on Israel, while US Marines arrive in region]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HCnZnlutnXfQ8FQjHHsUig--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4896a2eb133df50b622e517d00f0f548.cf.webp" alt="" /></p>By Menna AlaaElDin and Nayera Abdallah CAIRO/DUBAI, March 29 (Reuters) - The risk of an expanded Iran war grew as Yemen's Iran-aligned Houthis on Saturday launched their first attacks on Israel since]]></description>
-            <link>https://www.yahoo.com/news/articles/yemens-houthis-enter-iran-war-231411434.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemens-houthis-enter-iran-war-231411434.html</guid>
-            <pubDate>Sun, 29 Mar 2026 01:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelenskyy offers cutting-edge drone defense to Gulf allies as Ukraine seeks missile support]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZlAb_dvuMpBwnGbLubk0jQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/bb6a11ab764076900918656a0cfa67df.cf.webp" alt="" /></p>Ukraine's president offered the country's counter-drone technology to Gulf nations, seeking missile support as Ukraine faces a critical air defense deficit.]]></description>
-            <link>https://www.yahoo.com/news/articles/zelenskyy-offers-cutting-edge-drone-224916819.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskyy-offers-cutting-edge-drone-224916819.html</guid>
-            <pubDate>Sun, 29 Mar 2026 01:47:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing sailboats carrying aid land in Cuba after being located by Mexican navy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YK66RNoYcjNreMvkgUR6SQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/bd6dd5edc04d73f0116802d14ccf0728.cf.webp" alt="" /></p>Two sailboats that went missing carrying humanitarian aid from southern Mexico to Cuba landed in Havana on Saturday afternoon hours after Mexico's navy said it had located the boats days after they went incommunicado because of bad weather.  In a post on X on Saturday morning, the navy said an aircraft spotted the boats 80 nautical miles (148 kilometers) northwest of Havana, Cuba.]]></description>
-            <link>https://www.yahoo.com/news/articles/mexicos-navy-locates-2-missing-151031291.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexicos-navy-locates-2-missing-151031291.html</guid>
-            <pubDate>Sun, 29 Mar 2026 01:47:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
