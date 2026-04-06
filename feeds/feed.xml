@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Apr 2026 17:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Apr 2026 18:09:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Apr 2026 17:13:07 GMT</pubDate>
+        <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli airstrike kills at least 10 near Gaza school as ceasefire strains]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D6JjkCOf6wtgLhAZuKaYWA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a1062eb9332d6be609365ba21be17e5c.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-airstrike-kills-least-10-171704617.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-airstrike-kills-least-10-171704617.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Libya’s oil disputes mirror Hormuz crisis, fuel European energy fears]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/nDFfi4EDIgt1zwhPqPF9dg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1af7f047262b8dc7235164dbabcbfcad.cf.webp" alt="" /></p>Libyan oil sector proxy wars occur during Hormuz tensions, creating dangerous supply vulnerabilities for global markets.]]></description>
+            <link>https://www.yahoo.com/news/articles/libya-oil-disputes-mirror-hormuz-165044127.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/libya-oil-disputes-mirror-hormuz-165044127.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran executes people, including teens, by hanging]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rC.N0m2xUnyWOZGPkWV.Yg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/7d4b1a79edc23218cfedb99dda13d495.cf.webp" alt="" /></p>The nation of Iran has been carrying out executions, including of teenagers, as the U.S. and Israel wage war against the country, reports indicate.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-executes-people-including-teens-154827677.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-executes-people-including-teens-154827677.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Mon, 06 Apr 2026 18:09:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-CIA director says U.S. needs to learn "new concept of warfare" from Ukraine]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5Ru7jGT9x43w7AT.cghyaA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/31269e300c4bed8550d8260395a145d3.cf.webp" alt="" /></p>Ex-CIA director David Petraeus says Ukraine has offset its disadvantages against Russia through its innovation in its unmanned systems.]]></description>
             <link>https://www.yahoo.com/news/articles/ex-cia-director-says-u-160525097.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ex-cia-director-says-u-160525097.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 17:13:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/a8bM.tA9O7pjjObEXagsuA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/415b464c526d4084d9213a89e875ceef.cf.webp" alt="" /></p>For the second time, Israel has attacked Iran's South Pars natural gas and its associated petrochemical complex - an energy lifeline for Iran that both helps keep the lights on for civilians and provides a key source of export earnings.  Israel’s Defense Minister Israel Katz said Monday that Israel attacked a key petrochemical plant at Asaluyeh, the onshore industrial aspect of the gas field, which lies under the Persian Gulf.]]></description>
             <link>https://www.yahoo.com/news/articles/south-pars-natural-gas-complex-160354255.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-pars-natural-gas-complex-160354255.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 17:13:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hvVDckdXo_lBHqMgT_kVjA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0e597af7d781c2a7c4f35c6f7feebde5.cf.webp" alt="" /></p>WHO driver Majdi Aslan was killed and a WHO doctor wounded, along with several other Palestinians.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 17:13:07 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SXKB9wV2hZmHxBg6iwpLUg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8382e4ea5ccbeeb5927fda183ec795cb.cf.webp" alt="" /></p>The head of the International Committee of the Red Cross on Monday condemned "deliberate threats" against civilian targets that have marked the widening Middle East war.Spoljaric said that, across the Middle East, ICRC "teams are seeing the destruction of infrastructure essential for civilian life.]]></description>
             <link>https://www.yahoo.com/news/articles/red-cross-chief-condemns-deliberate-150517785.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/red-cross-chief-condemns-deliberate-150517785.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 06 Apr 2026 17:13:07 GMT</pubDate>
         </item>
         <item>
@@ -7033,27 +7053,6 @@ The Revolutionary Guards threatened US universities in the Middle East, while sa
             <link>https://www.yahoo.com/news/articles/mongolia-ruling-party-picks-prime-090715748.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mongolia-ruling-party-picks-prime-090715748.html</guid>
             <pubDate>Sun, 29 Mar 2026 10:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-Israel war on Iran: What’s happening on day 30 of attacks?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KEgp63kA2K3sO3AZXEqnNg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a6e60d1d7cb8759770a13377442c7368.cf.webp" alt="" /></p>Foreign ministers from Pakistan, Turkiye, Egypt and Saudi Arabia hold talks in Islamabad to end US-Israel war on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-israel-war-iran-happening-085404390.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-israel-war-iran-happening-085404390.html</guid>
-            <pubDate>Sun, 29 Mar 2026 10:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem heads into a subdued Passover and Easter under the shadow of the Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vFqa_LNC9HW3kvmbuqO4iQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6ff83074fd033137526d48c2a3f54e97.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/jerusalem-heads-subdued-passover-easter-082821831.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jerusalem-heads-subdued-passover-easter-082821831.html</guid>
-            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Living in the dark: Gaza’s struggle for electricity]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RbHDV89WKu_qZQiK8_bNbA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7a66dd218e28c266440299bc3e417434.cf.webp" alt="" /></p>War has shattered Gaza’s power grid, forcing families to rely on generators and private charging points.]]></description>
-            <link>https://www.yahoo.com/news/articles/living-dark-gaza-struggle-electricity-082113578.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/living-dark-gaza-struggle-electricity-082113578.html</guid>
-            <pubDate>Sun, 29 Mar 2026 09:30:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
