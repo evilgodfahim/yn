@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 17:52:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 18:53:23 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 18:53:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Germany's young men do not need permit for foreign travel, ministry said]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ALEpCeQZ_p5ZnbiKqPlmfg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/155697eca6feb9c0cc824bab72875dc0.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/germanys-young-men-not-permit-183036525.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/germanys-young-men-not-permit-183036525.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 18:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WHO halts Gaza medical evacuations after worker killed]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WYfrUaFZzf2XcRUYk9Gd_w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/3366682a2aeacc4f67a3ffee644152ff.cf.webp" alt="" /></p>Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.]]></description>
+            <link>https://www.yahoo.com/news/articles/halts-gaza-medical-evacuations-worker-171953138.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/halts-gaza-medical-evacuations-worker-171953138.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 18:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US embassies in Bahrain, Egypt issue warnings as Iran threatens universities across Middle East]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PHpXqx.uZW3nnVWwaLI9Fg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/09fa8084603eac2c297781fdcc4bef20.cf.webp" alt="" /></p>The U.S. Embassy in Bahrain orders Americans to shelter in place, warning that Iran may target American universities in the country and across the Middle East.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-embassies-bahrain-egypt-issue-162701914.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-embassies-bahrain-egypt-issue-162701914.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 18:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran releases 2 French citizens after 'three and a half years of detention,' Macron says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lI8WZIItFVRdyLYPRdlRkA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/7414139be4dadaa380a93fd866b8c2ba.cf.webp" alt="" /></p>French nationals Cécile Kohler and Jacques Paris were released by Iran after three and a half years of detention, President Macron announced Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-releases-2-french-citizens-161512204.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-releases-2-french-citizens-161512204.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 18:53:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Anger, sorrow at funeral of Lebanese anti-Hezbollah party official killed by Israel]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jYI.d.OaF4qnMwklLkuZnQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/97614f217eed15b8a7801dedf368ac07.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/anger-sorrow-funeral-lebanese-anti-171439209.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/anger-sorrow-funeral-lebanese-anti-171439209.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qQMWezsVwsiOlHxaFQCmeA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/204fac3a3fdee9d2f7438cb1bbf9fc18.cf.webp" alt="" /></p>Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.]]></description>
             <link>https://www.yahoo.com/news/articles/top-university-says-us-israel-170321734.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-university-says-us-israel-170321734.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KyR1n2ENh5BIjsvQSUL4ww--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/97142621eb7ef7c11f9ddab862882bf9.cf.webp" alt="" /></p>Trump’s threat to kill ‘whole civilization’ and comments from VP have raised fears.]]></description>
             <link>https://www.yahoo.com/news/articles/us-denies-nuclear-plan-deadline-170223928.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-denies-nuclear-plan-deadline-170223928.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rs7VAluQl4NsNixX4DqElw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/85437648917043fc98e79694b016c7cc.cf.webp" alt="" /></p>Russia and China vetoed a UN Security Council resolution Tuesday on reopening the Strait of Hormuz, a text already diluted from the green light Gulf states had sought to use force to protect the key shipping lane.But objections from several veto-holding permanent members -- including France, Russia and China -- forced the text to be watered down and the vote delayed multiple times.]]></description>
             <link>https://www.yahoo.com/news/articles/russia-china-veto-un-resolution-170207560.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-china-veto-un-resolution-170207560.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>American journalist Shelly Kittleson, who was kidnapped in Baghdad last week, has been released, an Iraqi official says.]]></description>
             <link>https://www.yahoo.com/news/articles/american-journalist-shelly-kittleson-kidnapped-165700823.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/american-journalist-shelly-kittleson-kidnapped-165700823.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dyYfKvT1wbQGjuT.pC8eag--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/b507d0394dbc382adbc4021fc4fc799c.cf.webp" alt="" /></p>No information has been provided specifying how the soldiers ended up fighting for Russia.]]></description>
             <link>https://www.yahoo.com/news/articles/russia-confirms-16-cameroonian-soldiers-164017921.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-confirms-16-cameroonian-soldiers-164017921.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SnPkvZ5yIxWZHhPfsel0BQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ec116ec9f19a426511d1da009d49ae08.cf.webp" alt="" /></p>US President Donald Trump has threatened to destroy Iran's power stations and bridges, but bombing electricity plants would likely spur a humanitarian crisis and fierce retaliation from Tehran, experts say.Its power stations are clustered around the biggest urban and industrial areas in the north, particularly around the capital Tehran, as well as the Gulf coast which is close to the main gas reserves.]]></description>
             <link>https://www.yahoo.com/news/articles/consequences-bombing-irans-power-stations-163045316.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/consequences-bombing-irans-power-stations-163045316.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +94,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9j4O7GamZfGkZVKz1Eke1Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/6b8f53b3299621d7dbabe6d9ac174128.cf.webp" alt="" /></p>Shelly Kittleson, a contributor to Al-Monitor, was abducted in Baghdad last month.]]></description>
             <link>https://www.yahoo.com/news/articles/iraqi-militia-group-says-release-161833809.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraqi-militia-group-says-release-161833809.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +101,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1UE7S2T4WYxfyVTB_mV3gA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b56b391ab346b78ec5ee8ad97dd7810a.cf.webp" alt="" /></p>April 7 (Reuters) - Iran wants to charge fees for ships to pass through the Strait of Hormuz as part of its proposals to end the war with Israel and the United States after blocking most traffic]]></description>
             <link>https://www.yahoo.com/news/articles/explainer-iran-charge-fees-ships-161746415.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-iran-charge-fees-ships-161746415.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Oy60ONC1K47YI74_o_IzhQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/2821e243544109664bd173116a1fb194.cf.webp" alt="" /></p>By John Irish PARIS, April 7 (Reuters) - Two French nationals were heading home on Tuesday after Iran allowed them to leave the country following three and a half years in detention, a surprise move]]></description>
             <link>https://www.yahoo.com/news/articles/french-nationals-released-iran-returning-134145522.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-nationals-released-iran-returning-134145522.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/r.E44nTP2dSO5nT6Idllfw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e63846a93559e5a26e1715c1758171a2.cf.webp" alt="" /></p>Environmental groups on Tuesday asked a federal appellate court panel to drop its temporary halt of a lower court's order instructing state officials to close an immigration detention center in the heart of the Florida Everglades known as “Alligator Alcatraz.”  The Everglades facility remains open, still holding detainees, because the appellate court in early September relied on arguments by Florida and the Trump administration that the state had not yet applied for federal reimbursement, and therefore wasn’t required to follow federal environmental law.]]></description>
             <link>https://www.yahoo.com/news/articles/environmental-groups-urge-appeals-court-154153395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/environmental-groups-urge-appeals-court-154153395.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kiQnUh4OdLqZPhR1oj2k6w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/f25ef1e2e828f2d5fa992ab26d14317c.cf.webp" alt="" /></p>Ye faced criticism from U.K. Prime Minister Keir Starmer over previous antisemitic remarks.]]></description>
             <link>https://www.yahoo.com/news/articles/banned-entering-uk-festival-ye-144836800.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/banned-entering-uk-festival-ye-144836800.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 17:52:26 GMT</pubDate>
         </item>
         <item>
@@ -7026,34 +7046,6 @@ Campaign groups have long expressed fear that there will be a new surge in execu
 "We fea]]></description>
             <link>https://www.yahoo.com/news/articles/iran-hangs-two-political-prisoners-111944350.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-hangs-two-political-prisoners-111944350.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli fire kills four in Gaza and the West Bank, medics say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/t61jvXLYyexjvzxdiGRZCQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4a8bfaafe7c305875f18b19ebe73fbb9.cf.webp" alt="" /></p>CAIRO/RAMALLAH, The West Bank, March 30 (Reuters) - An Israeli air strike killed at least three people in the Gaza Strip on Monday, local health officials said, in the latest round of violence since a]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-fire-kills-four-gaza-085744784.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-fire-kills-four-gaza-085744784.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In the Passover ritual, Jews worldwide reenact an ancient story of liberation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/O238num0mt323XWAdqAUAw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/50569a97c553f3337f685265c77448bd.cf.webp" alt="" /></p>Passover is a major Jewish holiday, celebrated over the course of a week each spring.  It commemorates the Exodus of ancient Israelites from slavery in Egypt, as recounted in the Bible.  “Passover is the most observed Jewish holiday in America,” said Motti Seligson, director of public relations for Chabad-Lubavitch, an Orthodox Jewish movement.]]></description>
-            <link>https://www.yahoo.com/news/articles/passover-ritual-jews-worldwide-reenact-111026877.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/passover-ritual-jews-worldwide-reenact-111026877.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schools, water, industry: What civilian targets have US, Israel, Iran hit?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/B5SdZKjfBuHmwgWUKwcE7A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/edc11ff4104665d15c8eb66b21d8d9cf.cf.webp" alt="" /></p>US and Israel have increasingly been hitting civilian sites in Iran as efforts to end the weeks-long war are under way.]]></description>
-            <link>https://www.yahoo.com/news/articles/schools-water-industry-civilian-targets-110906334.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/schools-water-industry-civilian-targets-110906334.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia expels UK diplomat on spying allegations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8d7s27iVsmZhj4FVSwrBOg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8332369196362e6367e3452e31522911.cf.webp" alt="" /></p>Russia on Monday kicked out a British diplomat over allegations he was working as a spy -- charges rejected by London as "complete nonsense"."The accusations made today by Russia against our diplomats are complete nonsense," a foreign ministry spokesperson said, adding Russia was "pumping out malicious and completely baseless accusations about their work".]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-expels-uk-diplomat-spying-105937370.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-expels-uk-diplomat-spying-105937370.html</guid>
             <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
         </item>
     </channel>
