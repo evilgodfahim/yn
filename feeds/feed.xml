@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 19:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 20:39:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Asia shows interest in Ukraine's maritime defence expertise, Zelenskiy says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F6D2826B212B5595679820B67A54A625DFB7B315247518618E9DD139893D470/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5abd59bf43d089b40955b7eb4adf3d07" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/asia-shows-interest-ukraines-maritime-195614569.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asia-shows-interest-ukraines-maritime-195614569.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia and China block UN resolution on Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE97E88B6E04F31D86731739417301AF0E8AB30FD586263EB2951DB2F6007076/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5e4da2ce8d47e9995062aa62924d66a7" alt="" /></p>A total 11 out of 15 members supported resolution, which was already watered down to evade vetoes.]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-china-block-un-resolution-201754283.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-china-block-un-resolution-201754283.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s most decorated living soldier charged amid fierce debate over war crimes allegations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/285896066C7149FB46C0FA9E9CE4893EE7AF0B409B452640B0C7F33E54E444D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fbdc575ba6cf738d2d951b50faaeffe1c" alt="" /></p>Australia's most decorated living soldier Ben Roberts-Smith arrested and charged with allegedly murdering five unarmed Afghans in Afghanistan.]]></description>
+            <link>https://www.yahoo.com/news/articles/australia-most-decorated-living-soldier-181049806.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/australia-most-decorated-living-soldier-181049806.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China aiding Iran missile program amid US-Israeli strikes, reports say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F54D9315303A92BE294915BA951A7F86AED832557EE3D29235A175F71FBC653/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fd104bfcf08102b95714819c3575b65d0" alt="" /></p>China is reportedly sending missile fuel materials to Iran to help rebuild its missile program amid continuing U.S.-Israeli strikes aimed against the Tehran regime.]]></description>
+            <link>https://www.yahoo.com/news/articles/china-aiding-iran-missile-program-175427763.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-aiding-iran-missile-program-175427763.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 20:39:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[War in the Middle East: latest developments]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07BE14AF44E0244407D7239B5552492D629743044DCBBEF51FC7EE1522AFD2FB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcff5e7b230dcd63d80d5c4896a430398" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-192925739.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-192925739.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3F1CFEA7EDD0D2767B22D6ED4E3EA586C534F24FB745871FC09435824794F3A/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F89ad3f487758be57a6ae0681e4ed09bc" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/reform-uk-threatens-deny-visas-190440359.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/reform-uk-threatens-deny-visas-190440359.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B63734DAAA75D3045568B9C309674EE9497B1DCB7332F5FB033E1513D895FDE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3136f5fd737706de63e16a61b6a5cbd0" alt="" /></p>Cecile Kohler and Jacques Paris were freed in November after more than three years at Evin prison.]]></description>
             <link>https://www.yahoo.com/news/articles/french-nationals-return-home-following-190711263.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-nationals-return-home-following-190711263.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC72332B53F54C8DB84C72B827081CC9122F647541F3C1505F954C26AA4F8B11/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcdd9b1de6da60ab58781141ac87340ca" alt="" /></p>BAGHDAD, April 7 (Reuters) - Iraqi armed group Kataib Hezbollah, which is aligned with Iran, said on Tuesday it would release abducted U.S. journalist Shelly Kittleson, adding that she must leave Iraq]]></description>
             <link>https://www.yahoo.com/news/articles/iraqi-armed-group-says-release-185732372.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraqi-armed-group-says-release-185732372.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4F4BC2867C1293F6470C35B07A7DA6ABB4556B036BB93D84A200C9E2E65269C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcff35f41643ca3ba68f0eb1764c3c532" alt="" /></p>The armed group Kataib Hezbollah said that it would free Kittleson on the condition that she leave Iraq immediately.]]></description>
             <link>https://www.yahoo.com/news/articles/iraqi-armed-group-releases-abducted-185305291.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraqi-armed-group-releases-abducted-185305291.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -60,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3588E3623E86D5B274CD4C129C8986B064C9AF2FBE745BCA548DB53DFAF17A33/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3d887a1a85be7bf4589c3856fbeb78a1" alt="" /></p>Kabul’s foreign minister expresses hope that minor interpretations will not hinder progress.]]></description>
             <link>https://www.yahoo.com/news/articles/afghanistan-brands-china-peace-talks-182124410.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghanistan-brands-china-peace-talks-182124410.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -75,7 +101,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD1C6C3A4633C1904CF5811BED44019D793CF3123F5D31E516D840E2A77AB41E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F85553bd4dd18f15d8402087676bbe6c2" alt="" /></p>April 7 (Reuters) - China and Russia on Tuesday vetoed a U. resolution encouraging states to coordinate efforts to protect commercial shipping in the Strait of Hormuz, calling the measure biased against Iran, while Washington's ambassador to the world body ‌called on "responsible nations" to join the U.]]></description>
             <link>https://www.yahoo.com/news/articles/china-vetoes-u-n-resolution-154721462.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-vetoes-u-n-resolution-154721462.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -83,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D5CAF250CB686223F258FAA73AD0AA4CFD1D6754879EA8ECD576B34047EA7F27/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3b9643b89c0616bf0813295a3004b40f" alt="" /></p>LISBON, April 7 (Reuters) - Portugal said it had authorised 76 landings by U.S. aircraft at the Lajes air base in the Azores and 25 overflights of its territory since the start of the U.S.-Israeli war]]></description>
             <link>https://www.yahoo.com/news/articles/portugal-says-u-uses-azores-170226788.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/portugal-says-u-uses-azores-170226788.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -91,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C47EE13BCFC3EF990C97016F2E93B1B939D6DAF904E444168138AADF2E10867/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9aad1fa4eb625df6e7b142eb81d95419" alt="" /></p>April 7 (Reuters) - The U.S.-Israeli war on Iran and Tehran's retaliatory attacks on Gulf neighbours have damaged major energy facilities and disrupted shipping through the Strait of Hormuz, which]]></description>
             <link>https://www.yahoo.com/news/articles/factbox-us-israeli-war-iran-143851249.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-us-israeli-war-iran-143851249.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -99,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5EDC9B9DBB6987EB4FA045FA8CE8B77ACADCE7FDABF11122F5E04FB57FF3066/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb1f1a40106ab3a94cf889f399eed7710" alt="" /></p>WASHINGTON, April 7 (Reuters) - The Trump administration will try to resolve as many problems with the U.S.-Mexico-Canada trade agreement as it can before July 1, but negotiations to rebalance the]]></description>
             <link>https://www.yahoo.com/news/articles/ustr-greer-says-us-mexico-160631872.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ustr-greer-says-us-mexico-160631872.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E4420CBD64640134C159D8E926F5E83A0BF4D86B97C56DDE3778E8AAC1955B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F17f991977e348181f0dd09db06328703" alt="" /></p>The clock is ticking down to US President Donald Trump’s deadline for Iran to strike a deal and open the Strait of Hormuz – or be heavily bombed and face “hell.”]]></description>
             <link>https://www.yahoo.com/news/articles/know-trump-threat-bomb-iran-052816792.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-trump-threat-bomb-iran-052816792.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 19:52:51 GMT</pubDate>
         </item>
         <item>
@@ -7023,34 +7044,6 @@ lar-ris-lg/dcp]]></description>
             <link>https://www.yahoo.com/news/articles/ukrainians-chide-german-defense-boss-110319268.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukrainians-chide-german-defense-boss-110319268.html</guid>
             <pubDate>Mon, 30 Mar 2026 14:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain says it has closed its airspace to US planes involved in the Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Spain says it has closed its airspace to US planes involved in the Iran war.]]></description>
-            <link>https://www.yahoo.com/news/articles/spain-says-closed-airspace-us-104810651.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spain-says-closed-airspace-us-104810651.html</guid>
-            <pubDate>Mon, 30 Mar 2026 14:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunmen kill at least 30 in Nigeria's Plateau state attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sPrFZhrTlDcGYOZhpqrFWA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/99e7270619c54208d41bdae82ce32156.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/gunmen-kill-13-nigerias-plateau-095359306.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunmen-kill-13-nigerias-plateau-095359306.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says its expelled ambassador won't leave Lebanon as political tensions soar]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CrJ8Gu90ecKbf.KtzSmEWw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/af7ddababf86586227ed160ef1d33a5a.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-says-expelled-ambassador-wont-124540406.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-expelled-ambassador-wont-124540406.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Official says rescuers search for 27 people missing after a passenger boat sinks in rough seas off eastern Indonesia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Official says rescuers search for 27 people missing after a passenger boat sinks in rough seas off eastern Indonesia.]]></description>
-            <link>https://www.yahoo.com/news/articles/official-says-rescuers-search-27-123127048.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/official-says-rescuers-search-27-123127048.html</guid>
-            <pubDate>Mon, 30 Mar 2026 13:01:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
