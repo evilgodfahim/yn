@@ -4,16 +4,152 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Apr 2026 02:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 04:44:20 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Apr 2026 02:07:03 GMT</pubDate>
+        <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Taiwan opposition leader heads to China in what she calls a ‘journey for peace’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/fJwASBz0XB09BfJnrhH07Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/6a19ad6406a0789c9021a682608ce2d3.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/taiwan-opposition-leader-heads-china-040225118.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-opposition-leader-heads-china-040225118.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Before winding down the war, US and Israel are determined to wipe out Iran’s nuclear expertise]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/S_yffcUdWk0bRmgwcr3_jg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/e43ff4b47727787fa6bef11b52d77e6e.cf.webp" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/winding-down-war-us-israel-040155193.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/winding-down-war-us-israel-040155193.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 4:21 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bridge linking Saudi Arabia to Bahrain closed over Iranian threats as Trump's deadline nears]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-01-040000615.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-01-040000615.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 4:03 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-4-03-m-040000287.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-03-m-040000287.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Business Headlines at 4:21 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bridge linking Saudi Arabia to Bahrain closed over Iranian threats as Trump's deadline nears]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000927.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000927.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Politics Headlines at 4:21 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bridge linking Saudi Arabia to Bahrain closed over Iranian threats as Trump's deadline nears]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000180.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000180.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Politics Headlines at 4:03 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Taiwan opposition leader heads to China in what she calls a 'journey for peace']]></description>
+            <link>https://www.yahoo.com/news/articles/asian-politics-headlines-4-03-040000578.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-4-03-040000578.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 4:03 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bangladesh is conducting emergency measles-rubella vaccinations while trying to contain an ongoing outbreak that has killed more than 100 children in less than a month.  The government in partnership with the World Health Organization, the U.N. children's agency and the Gavi vaccine alliance began working to vaccinate children age 6 months to 5 years old in 18 high-risk districts Sunday and will expand nationwide in phases from next month, a joint statement said.  A UNICEF official said the agency was deeply concerned about the sharp rise in cases, which was putting the youngest and most vulnerable children at serious risk.]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-4-03-040000720.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-03-040000720.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China targets Taiwan's chip prowess to evade global 'containment', Taipei government says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CnweZEuB5EjraftiKTqZOg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters-finance.com/c775e57f9c99c6365399b299e591f23f.cf.webp" alt="" /></p>China is targeting Taiwan to obtain its advanced chip manufacturing technology and talent as a way of breaking through international "containment" of the country, according to ‌a report from the island's top security agency.  China's scramble for chip talent and expertise has ‌intensified as Beijing pushes for self-reliance in advanced semiconductors, amid a deepening tech rivalry with the U.S.  Taiwan, which China claims as its ​own territory, frequently reports busting networks of Chinese firms illegally trying to poach semiconductor and high-tech talent, and has strict laws to prevent the most advanced technologies going to China.]]></description>
+            <link>https://www.yahoo.com/news/articles/china-targets-taiwans-chip-prowess-033821697.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-targets-taiwans-chip-prowess-033821697.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambodian deported by US faced 'misery' in Eswatini prison]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mYdgxpnecCyLtlxUkRCssw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8b6b62e335cbc868fcaca73d3aae38c1.cf.webp" alt="" /></p>A Cambodian refugee long-settled in the United States, ex-convict Pheap Rom, remains bewildered at how he wound up behind bars in the African nation of Eswatini for months after being swept up in Donald Trump's deportation blitz.The lawyer painted a picture of a chaotic process, saying Rom was not interviewed in the United States to verify his nationality and was registered for deportation to Thailand, the country where he was born in a refugee camp.]]></description>
+            <link>https://www.yahoo.com/news/articles/cambodian-deported-us-faced-misery-032947280.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cambodian-deported-us-faced-misery-032947280.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian soldier arrested for alleged war crimes in Afghanistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8KtKIw3R2DYdM07tetu6Yw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/099f5e47b7e9ab581ca262063409847c.cf.webp" alt="" /></p>One of Australia's most-decorated soldiers was arrested Tuesday for allegedly murdering unarmed prisoners while serving in Afghanistan, police and local media said following a sweeping war crimes probe.The Australian Federal Police said they arrested a 47-year-old former Australian soldier, who was widely named in local media as Victoria Cross recipient Ben Roberts-Smith.]]></description>
+            <link>https://www.yahoo.com/news/articles/australian-soldier-arrested-alleged-war-031830750.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/australian-soldier-arrested-alleged-war-031830750.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh conducts emergency measles vaccinations as outbreak kills more than 100 children]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7yk2Lq3PVZPH_KU_Aw5mTg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e730261ab9f1696607b165352cd45404.cf.webp" alt="" /></p>Bangladesh is conducting emergency measles-rubella vaccinations while trying to contain an ongoing outbreak that has killed more than 100 children in less than a month.  The government in partnership with the World Health Organization, the U.N. children's agency and the Gavi vaccine alliance began working to vaccinate children age 6 months to 5 years old in 18 high-risk districts Sunday and will expand nationwide in phases from next month, a joint statement said.]]></description>
+            <link>https://www.yahoo.com/news/articles/bangladesh-conducts-emergency-measles-vaccinations-030132559.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bangladesh-conducts-emergency-measles-vaccinations-030132559.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan opposition leader makes rare visit to China]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NM50s1QXumz7PyG0dn3iRg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/9623eda40a9df5e8ed019ee897a67a80.cf.webp" alt="" /></p>Taiwan's main opposition leader will travel to China on Tuesday for a rare visit aimed at building cross-strait "peace", but the government warns Beijing will seek to stop US arms sales to the democratic island.  "This trip is entirely for cross-strait peace and stability, so it has nothing to do with arms procurement or other issues," Cheng said last week.]]></description>
+            <link>https://www.yahoo.com/news/articles/taiwan-opposition-leader-makes-rare-025924368.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-opposition-leader-makes-rare-025924368.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan says a Japanese national detained in Iran since January has been released]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Japan says a Japanese national detained in Iran since January has been released.]]></description>
+            <link>https://www.yahoo.com/news/articles/japan-says-japanese-national-detained-023531901.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-says-japanese-national-detained-023531901.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vietnam's top leader To Lam consolidates power, gets China-style mandate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Nu1PfB54hTeP3.epFPTkOg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/cfcdadb2b5ad5d8f8a863602f3a2e068.cf.webp" alt="" /></p>By Khanh Vu, Phuong Nguyen and Francesco Guarascio HANOI, April 7 (Reuters) - Vietnam's lawmakers unanimously elected Communist Party Secretary General To Lam as the country's state president for the]]></description>
+            <link>https://www.yahoo.com/news/articles/vietnam-parliament-elects-party-leader-022632723.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/vietnam-parliament-elects-party-leader-022632723.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What if the U.S. strikes Iran’s infrastructure? What if it doesn’t?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YxQzvLQ.SWDdAZt0IN0RKg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/ef6b8c1d03a4fce1dcb069113624f920.cf.webp" alt="" /></p>The president has continued to warn Iran he could “take out the entire country" as the conflict nears the six-week mark.]]></description>
+            <link>https://www.yahoo.com/news/articles/u-strikes-iran-infrastructure-doesn-015315004.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-strikes-iran-infrastructure-doesn-015315004.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo confirms Japanese national held by Iran freed]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hMnC5f5aEmBZCJyLY7wl4Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3c3ed1306b79dc0859f8aea442b7b8e2.cf.webp" alt="" /></p>Iran freed a Japanese national held since January, Tokyo said Tuesday, with Kyodo News reporting that the person was believed to be the Tehran bureau chief of broadcaster NHK.
+It was the second release after the Japanese government announced last month that another Japanese national was freed by Iran."The Japanese embassy in Iran has confirmed that a Japanese national who was detained by Iranian authorities on January 20 was released on April 6 local time," government spokesman Minoru Kihara sai]]></description>
+            <link>https://www.yahoo.com/news/articles/tokyo-confirms-japanese-national-held-014412804.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tokyo-confirms-japanese-national-held-014412804.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 07 Apr 2026 04:44:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ex-top aide of Spanish PM set to go on trial for graft]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hTReqW._B1XnKSgK519IHg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b4287d0d9a8b5a4281af145c89d9c055.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/ex-top-aide-spanish-pm-015009481.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ex-top-aide-spanish-pm-015009481.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 02:07:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +157,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HbwtVH4WuYJaFtDuCpEHPQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/6a86524f61b50239481a398bbeb3f7f8.cf.webp" alt="" /></p>Does a video show a real wedding day conflict where a groom suddenly slapped his bride? No, that's not true: The people in this video clip are actors in a soap opera produced in Uzbekistan. The exact video clip published...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-video-does-not-230348003.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-video-does-not-230348003.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 02:07:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +164,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ezQKs9kMN.SrhGrSzy5tBA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/5d6e77ce3730b7087f707b925194ae72.cf.webp" alt="" /></p>"Apps that maintain digital infrastructure in China are subject to China's extensive national security laws," the FBI warns.]]></description>
             <link>https://www.yahoo.com/news/articles/fbi-warns-security-risks-associated-223549995.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fbi-warns-security-risks-associated-223549995.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 07 Apr 2026 02:07:03 GMT</pubDate>
         </item>
         <item>
@@ -6931,125 +7065,6 @@ On Sunday, Rheinmetall tagged Kamyshin in a post on its own X account in which i
             <link>https://www.yahoo.com/news/articles/arab-foreign-ministers-name-nabil-133203896.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/arab-foreign-ministers-name-nabil-133203896.html</guid>
             <pubDate>Sun, 29 Mar 2026 17:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine's Zelenskiy arrives in Jordan for next leg of Gulf tour]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48E094729EF268E0DA09F11993CF0C8E1CF8BC27FA90AA56F4B92014D385423F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1e60d8f83af136ee15cad6a5e2f6efcb" alt="" /></p>KYIV, March 29 (Reuters) - Ukrainian President Volodymyr Zelenskiy arrived in Jordan on Sunday as part of a Gulf tour aimed at shoring up defence ties with countries in the region amid rising tensions]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraines-zelenskiy-arrives-jordan-next-132219700.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraines-zelenskiy-arrives-jordan-next-132219700.html</guid>
-            <pubDate>Sun, 29 Mar 2026 17:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About 41 American hostages being held hostage overseas]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DvlDcdKRrXGwht.mQ5fwRQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/02686b3cf4ce02a8821f1ceb0b37ab5e.cf.webp" alt="" /></p>Some of the 41 hostages have been held for years.]]></description>
-            <link>https://www.yahoo.com/news/articles/41-american-hostages-being-held-143922387.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/41-american-hostages-being-held-143922387.html</guid>
-            <pubDate>Sun, 29 Mar 2026 17:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli prime minister announces a widening of his country's invasion of southern Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Israeli prime minister announces a widening of his country's invasion of southern Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-prime-minister-announces-widening-155010394.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-prime-minister-announces-widening-155010394.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos show Lebanon's Catholics marking Palm Sunday as the shadow of war weighs heavily]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CxvPjof1nzfEe6hN2QLbsA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/01302553d5b3b34d41604969d5420141.cf.webp" alt="" /></p>This is a photo gallery curated by AP photo editors.  As Christians packed churches across Lebanon this Palm Sunday to commemorate their belief in Jesus’ triumphal entry into Jerusalem, the renewed war between Israel and Iran-backed Hezbollah weighed on parishioners.]]></description>
-            <link>https://www.yahoo.com/news/articles/photos-show-lebanons-catholics-marking-154232401.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-lebanons-catholics-marking-154232401.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu orders expansion of security buffer zone in southern Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/I6bn_KTLwxHVd3Lscq1Wmw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d7664eff304b2a8804d0b3bf79e61888.cf.webp" alt="" /></p>March 29 (Reuters) - Israeli Prime Minister Benjamin Netanyahu said on Sunday he had instructed the military to further expand the existing security buffer zone in southern Lebanon, vowing to]]></description>
-            <link>https://www.yahoo.com/news/articles/netanyahu-orders-expansion-security-buffer-154001413.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahu-orders-expansion-security-buffer-154001413.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel police prevent Jerusalem's Latin Patriarch from entering Holy Sepulchre on Palm Sunday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8Dsbygr1jc7vF2LGYI6cOA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/0db6fa60cac48d6debdc250bdcccf2df.cf.webp" alt="" /></p>Israeli police prevented the Latin Patriarch of Jerusalem, Cardinal Pierbattista Pizzaballa, from entering the Church of the Holy Sepulchre to celebrate Palm Sunday mass, the Latin Patriarchate of Jerusalem said."This morning, the Israeli Police prevented the Latin Patriarch of Jerusalem ... together with the Custos of the Holy Land, the Most Reverend Fr. Francesco Ielpo ... from entering the Church of the Holy Sepulchre in Jerusalem as they made their way to celebrate the Palm Sunday Mass," a s]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-police-prevent-jerusalems-latin-153740914.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-police-prevent-jerusalems-latin-153740914.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Egyptian diplomat Nabil Fahmy appointed as new Arab League chief]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.s9z4aCZuR4OCEbwhrHs.g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b62042bd65aaf5aea3852c5a5b02137f.cf.webp" alt="" /></p>Arab foreign ministers on Sunday appointed veteran Egyptian diplomat Nabil Fahmy as the head of the 22-member Arab League, at a time the Middle East is plunged in a monthlong Iran war that shows no sign of abating.  Fahmy, a former Egyptian foreign minister, won the support of the Arab foreign ministers in a virtual meeting, according to the Egyptian Foreign Ministry.  Fahmy's five-year term will start in July, succeeding Ahmed Aboul Gheit, who served as Arab League chief since 2016.]]></description>
-            <link>https://www.yahoo.com/news/articles/egyptian-diplomat-nabil-fahmy-appointed-153307627.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/egyptian-diplomat-nabil-fahmy-appointed-153307627.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland reports territorial violation by drones, at least one from Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Anne Kauranen HELSINKI, March 29 (Reuters) - Finland reported on Sunday a suspected territorial violation by unmanned aerial vehicles in the southeast of the country, which the Finnish prime]]></description>
-            <link>https://www.yahoo.com/news/articles/finland-reports-suspected-territorial-violation-105814052.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/finland-reports-suspected-territorial-violation-105814052.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli police block Catholic cardinal from Holy Sepulchre on Palm Sunday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/TDADT6AZfevRW5lDOYu_FQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e84a0c38b4b6352bd6fcc8c3e4453caa.cf.webp" alt="" /></p>Since the US and Israel launched a war on Iran, Israel has closed holy sites in Jerusalem, citing safety concerns.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-police-block-catholic-cardinal-152627941.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-block-catholic-cardinal-152627941.html</guid>
-            <pubDate>Sun, 29 Mar 2026 16:27:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli police block Catholic cardinal from Jerusalem's Holy Sepulchre on Palm Sunday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Gwal0Negw0pAkeIM65gL5Q--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/dac5961f9b5d377d8b26bbfe1ccc5f6f.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-police-block-catholic-cardinal-134613615.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-block-catholic-cardinal-134613615.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Catholic cardinal barred from entering Jerusalem's Church of Holy Sepulchre]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/V5LVgoEfqs3htPpQ10pieA--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/19453d569df94e1341512f00fedd22df.cf.webp" alt="" /></p>Source: CBS News]]></description>
-            <link>https://www.yahoo.com/news/articles/catholic-cardinal-barred-entering-jerusalems-143842757.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/catholic-cardinal-barred-entering-jerusalems-143842757.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis open new front in Iran war: Will Yemeni group block Bab al-Mandeb?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Awg38NdKv7c.anVRKP1WKg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a49965bdd7c5c1f3fab844d9f436cce5.cf.webp" alt="" /></p>Blockade of strait, one of the world’s busiest maritime routes, would prove disastrous for global economy.]]></description>
-            <link>https://www.yahoo.com/news/articles/houthis-open-front-iran-war-150951262.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/houthis-open-front-iran-war-150951262.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan hosts Saudi, Turkey, Egypt for talks on Mideast war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Gsdz88bHqFU8LS_VQvW9pw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/7e4b3b34c0d6d162a26ec92a029afb9b.cf.webp" alt="" /></p>Pakistan, Saudi Arabia, Egypt and Turkey on Sunday held talks about trying to end the war in the Middle East, as Islamabad acts as a go-between between the United States and Iran.Pakistan has emerged as a key facilitator between Iran and the United States as their war drags on, relaying messages between the two sides.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-hosts-saudi-turkey-egypt-150035213.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-hosts-saudi-turkey-egypt-150035213.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel bars church leaders from Palm Sunday mass ‘for the first time in centuries,’ church says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bonBblCAr9J0Hx3gT3qxMA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/ed924cf582c7832e55474246af1264fe.cf.webp" alt="" /></p>For the first time in centuries, Catholic leaders have been barred from Jerusalem’s Church of Holy Sepulchre on Palm Sunday, according to church authorities in the holy city.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-bars-church-leaders-palm-144400038.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-bars-church-leaders-palm-144400038.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Iran war has a new front in Yemen. Here’s how it could escalate]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mMvs_yUNMuXpLwg0gs4WWQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/9344e3f9d5fd7e55c1d491caae30daaa.cf.webp" alt="" /></p>After a month of threats, Yemen’s Iran-backed Houthi rebels finally entered the Middle East conflict on Saturday, firing two missiles towards Israel. And in recent days they have also warned they could close a key waterway at the southern entrance of the Red Sea – raising the prospect of even greater disruption to global shipping and oil supplies.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-war-front-yemen-could-144035381.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-front-yemen-could-144035381.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan maintains ‘delicate balancing act’ as it hosts Iran talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5HartR0ex3fxYgOWQmqwgQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/aaed562b7838a51de22bba8d221378f1.cf.webp" alt="" /></p>Foreign ministers meet in Islamabad, seeking to de-escalate the US-Israel war on Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-maintains-delicate-balancing-act-143558819.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-maintains-delicate-balancing-act-143558819.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:38:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli police prevent Catholic leaders from celebrating Palm Sunday Mass at Jerusalem church]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MF6pkIq5UdZPw8fLxQQw_w--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/5afc9fcd7e43dd3422dd3ce1c03fc93e.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-police-prevent-catholic-leaders-145500049.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-police-prevent-catholic-leaders-145500049.html</guid>
-            <pubDate>Sun, 29 Mar 2026 15:00:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
