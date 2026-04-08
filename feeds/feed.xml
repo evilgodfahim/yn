@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 21:36:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 22:32:09 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 22:32:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘People are afraid’: Lebanese reeling after Israel’s devastating attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7W.LakBFm5gwmG8aU_Z9UQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7cfa9b86eee2e8e775ad468ae6a29776.cf.webp" alt="" /></p>Fear and confusion grip Lebanon as Israeli strikes devastate the country and its place in the ceasefire is contested.]]></description>
+            <link>https://www.yahoo.com/news/articles/people-afraid-lebanese-reeling-israel-205702536.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/people-afraid-lebanese-reeling-israel-205702536.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 22:32:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FCC to vote on proposal to ban Chinese labs from testing US electronics]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0EUM_oseZ61nQ5yNta5wsw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/236ade3d7a7e4efc1fc9f8cf0f6d04ab.cf.webp" alt="" /></p>By David Shepardson WASHINGTON, April 8 (Reuters) - The Federal Communications Commission said on Wednesday it will vote this month on a proposal to bar all Chinese labs from testing electronic]]></description>
             <link>https://www.yahoo.com/news/articles/fcc-vote-proposal-ban-chinese-203435563.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fcc-vote-proposal-ban-chinese-203435563.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Lebanon's health ministry says Israeli strikes kill 182, the highest single-day death toll in the Israel-Hezbollah war.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanons-health-ministry-says-israeli-202722445.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanons-health-ministry-says-israeli-202722445.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Lebanon's health ministry says Israeli strikes killed 182, the highest single-day death toll in the Israel-Hezbollah war.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanons-health-ministry-says-israeli-202409476.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanons-health-ministry-says-israeli-202409476.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Jim Whittaker, the first American to climb Mount Everest, dies at 97.]]></description>
             <link>https://www.yahoo.com/news/articles/jim-whittaker-first-american-climb-195908319.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/jim-whittaker-first-american-climb-195908319.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XmAXeYGJnz4bR66xcdc.jw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/28f2c49ab6489919c30eb5b178f00d50.cf.webp" alt="" /></p>Turkish security forces have arrested nearly 200 people in a nationwide sweep one day after a shootout outside Israel's consulate in Istanbul, Justice Minister Akin Gurlek said Wednesday.Twelve of those arrested have been placed in pre-trial detention, including the two wounded gunmen, who were hospitalised, according to the justice ministry.]]></description>
             <link>https://www.yahoo.com/news/articles/nearly-200-arrests-turkey-attack-191450178.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/nearly-200-arrests-turkey-attack-191450178.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 21:36:00 GMT</pubDate>
         </item>
         <item>
@@ -7038,13 +7041,6 @@ On the oil front, Israel's supply chains have proved resilient, largely because 
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/afkr5SaUL9nF3DncNS6_ew--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/89ee2b2a19d370fd41b2170eb4f85f9e.cf.webp" alt="" /></p>A Russian tanker docked Tuesday at the Cuban port of Matanzas laden with 730,000 barrels of oil, marking the first time in three months that an oil tanker reached the island.  The administration of President Donald Trump had allowed the Anatoly Kolodkin to proceed despite an ongoing U.S. energy blockade.  Cubans including Energy and Mines Minister Vicente de la O Levy cheered the ship’s arrival.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-ship-carrying-oil-docks-125255506.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-ship-carrying-oil-docks-125255506.html</guid>
-            <pubDate>Tue, 31 Mar 2026 15:45:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Charles to make a state visit to the US despite calls to cancel due to the Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/t4E8sq_SQzlRo89KtmQgtg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/761e28f82206091755f3e7e8b5a34754.cf.webp" alt="" /></p>King Charles III is going ahead with a state visit to the United States next month, despite calls for the ceremonial event to be called off due to U.S. President Donald Trump’s repeated criticism of the British government for failing to support the war in Iran.  Buckingham Palace said Tuesday that the king and Queen Camilla would travel to the U.S. in late April to celebrate the 250th anniversary of American Independence.  Trump put the dates as April 27-30.]]></description>
-            <link>https://www.yahoo.com/news/articles/king-charles-iii-undertake-state-120304354.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/king-charles-iii-undertake-state-120304354.html</guid>
             <pubDate>Tue, 31 Mar 2026 15:45:55 GMT</pubDate>
         </item>
     </channel>
