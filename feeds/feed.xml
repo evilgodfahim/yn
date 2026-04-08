@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 04:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 06:17:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Vietnam's To Lam bets big on building blitz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uRYX.C2x2hyxTVF_nln3Ag--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/132eaf329fefb1b0ed8fe94ebdc911bf.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/vietnams-lam-bets-big-building-053502911.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/vietnams-lam-bets-big-building-053502911.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World welcomes US-Iran ceasefire, urges lasting peace in the Middle East]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NREC31Ni2kSETRQqRG8g2g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/43c185b08c8275bd0f3c030d75e163d5.cf.webp" alt="" /></p>Countries urge full commitment to two-week ceasefire, praise Pakistan for role in facilitating truce.]]></description>
+            <link>https://www.yahoo.com/news/articles/world-welcomes-us-iran-ceasefire-042334930.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/world-welcomes-us-iran-ceasefire-042334930.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A hacker has allegedly breached one of China’s supercomputers and is attempting to sell a trove of stolen data]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/BPhCP9DY7mH2qlD7ZSo6_A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/8f5164735b6095cb52cf45b6e8705aeb.cf.webp" alt="" /></p>A hacker has allegedly stolen a massive trove of sensitive data – including highly classified defense documents and missile schematics – from a state-run Chinese supercomputer in what could potentially constitute the largest known heist of data from China.]]></description>
+            <link>https://www.yahoo.com/news/articles/hacker-allegedly-breached-one-china-042317522.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hacker-allegedly-breached-one-china-042317522.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bahrain sounds its missile alert alarm hours after U.S. and Iran said they agreed on a 2-week ceasefire in the war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Bahrain sounds its missile alert alarm hours after U.S. and Iran said they agreed on a 2-week ceasefire in the war.]]></description>
+            <link>https://www.yahoo.com/news/articles/bahrain-sounds-missile-alert-alarm-041707118.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahrain-sounds-missile-alert-alarm-041707118.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Business Headlines at 6:11 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US and Iran agree to 2-week ceasefire as Trump pulls back on threats]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-6-040000575.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-6-040000575.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 4:28 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US, Israel and Iran agree to a 2-week ceasefire as Trump pulls back on his threats]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-14-040000636.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-14-040000636.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea fires multiple ballistic missiles in two rounds: Seoul military]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KqJTvlR8A0nZeJjA2NqusQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/9fc22e2f2b07788aa0bcf7434529320d.cf.webp" alt="" /></p>North Korea fired multiple short-range ballistic missiles in two rounds on Wednesday, South Korea's military said, hours after reporting an "unidentified projectile" launched from the North's capital area the previous day.About an hour later, the military said it also detected "multiple unidentified ballistic missiles" fired from North Korea's Wonsan area toward the East Sea on Wednesday morning, referring to the body of water also known as the Sea of Japan.]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-fires-multiple-ballistic-033844542.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-fires-multiple-ballistic-033844542.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decorated Australian veteran remains behind bars on Afghan war crime charges]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/D5xnokKFDclqviXRbKqX4Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/945aee082dd35f8fe6ebd98f2d8ebf2e.cf.webp" alt="" /></p>Australia’s most decorated living veteran, Ben Roberts-Smith, did not apply for bail when the war crime murder charges against him were listed in a Sydney court Wednesday.  Roberts-Smith was awarded both the Victoria Cross and Medal of Gallantry for his service in Afghanistan and is only the second Australian veteran of the Afghanistan campaign to be charged with a war crime.  The charges follow a military report released in 2020 that found evidence elite Australian Special Air Service and commando regiment troops unlawfully killed 39 Afghan prisoners, farmers and other noncombatants.]]></description>
+            <link>https://www.yahoo.com/news/articles/decorated-australian-veteran-remains-behind-033745335.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/decorated-australian-veteran-remains-behind-033745335.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 08 Apr 2026 06:17:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indonesia extradites Scottish man sought by Spain as crime boss]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PfyhpDi3kEnYU6OsTvYplg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/357ac8406a7816feb4c51fc91277c0b2.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/indonesia-extradites-scottish-man-sought-040841893.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-extradites-scottish-man-sought-040841893.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korea fires missiles toward sea after ridiculing South's hopes for better ties]]></description>
             <link>https://www.yahoo.com/news/articles/asian-headlines-4-09-m-040000233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-09-m-040000233.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US, Israel and Iran agree to a 2-week ceasefire, though firings continue]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000943.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000943.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>North Korea fired several short-range ballistic missiles toward the sea Wednesday in its second launch event in two days, South Korea's military said, hours after a senior North Korean official released crude insults against Seoul's hopes for warmer relations. South Korea's Joint Chiefs of Staff said the missiles lifted off from North Korea's eastern coastal Wonsan area and flew about 240 kilometers (150 miles) each in a direction toward the North's eastern waters. It said South Korea maintains a readiness to repel any provocations by North Korea under a solid military alliance with the United States.]]></description>
             <link>https://www.yahoo.com/news/articles/top-asian-news-4-09-040000400.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-09-040000400.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QpGESvEB1e6st8e1AYyLww--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8fcb2f2f4fe008e5ae00761f829949be.cf.webp" alt="" /></p>The United States and Iran agreed to a two-week ceasefire barely an hour before President Donald Trump's Wednesday deadline to obliterate the country was set to expire, with Tehran to temporarily reopen the vital Strait of Hormuz.Trump had set a deadline to Iran to open the Strait of Hormuz by 8:00 pm Washington time (0000 GMT Wednesday), or 3:30 am in Tehran.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-makes-last-minute-bid-205001032.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-makes-last-minute-bid-205001032.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hOddrYMzapLbHcYmb6tpIQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/91bd5ab3dde77f1fd6ab3dba9f7115cf.cf.webp" alt="" /></p>Did Russian President Vladimir Putin say "Don't dare to touch the Strait of Hormuz" on April 1, 2026? No, that's not true: The posts attributing those words to him originated from self-described satire and parody accounts. The fake story was...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-putin-did-not-032814978.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-putin-did-not-032814978.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/soSe6f05eAh92H.xtR7yDg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/4d8b984eebfb6bdd382c05dcfa3d74c3.cf.webp" alt="" /></p>Israeli prime minister welcomes US decision to suspend attacks on Iran, but says the truce does not apply to Lebanon.]]></description>
             <link>https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +126,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6wLsZhDuXpJiC6A9vOEGPg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8b5fb901ac9138bb8b87a8c826bd0a35.cf.webp" alt="" /></p>By Andrew Silver and Nicoco Chan NANJING, China, April 8 (Reuters) - Taiwan opposition leader Cheng Li-wun pledged on Wednesday to channel the spirit of her party's founder Sun Yat-sen and seek]]></description>
             <link>https://www.yahoo.com/news/articles/taiwan-opposition-leader-pledges-reconciliation-030857202.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-opposition-leader-pledges-reconciliation-030857202.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +133,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_XRNhbmZBYhG5l3Jv14UJQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/051e814dbbecb2f19ef6e2c1e60eebaf.cf.webp" alt="" /></p>BOGOTA, April 7 (Reuters) - Colombian President Gustavo Petro said on Tuesday evening that his government would submit an economic emergency decree and a new tax reform bill to Congress to balance the]]></description>
             <link>https://www.yahoo.com/news/articles/colombias-petro-calls-economic-emergency-021508910.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombias-petro-calls-economic-emergency-021508910.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +140,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Netanyahu says Israel backs U.S. ceasefire with Iran but that deal doesn't cover fighting against Hezbollah in Lebanon.]]></description>
             <link>https://www.yahoo.com/news/articles/netanyahu-says-israel-backs-u-025211364.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahu-says-israel-backs-u-025211364.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +147,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Pro-government demonstrators in Iran's capital scream: 'Death to America, death to Israel, death to compromisers!]]></description>
             <link>https://www.yahoo.com/news/articles/pro-government-demonstrators-irans-capital-021210091.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pro-government-demonstrators-irans-capital-021210091.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +154,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iran includes 'acceptance of enrichment' in Farsi version of its ceasefire plan, something missing from English versions.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-includes-acceptance-enrichment-farsi-015016826.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-includes-acceptance-enrichment-farsi-015016826.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +161,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Israeli military official says the country is still attacking Iran, after White House said Israel agreed to ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-military-official-says-country-010945306.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-military-official-says-country-010945306.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +168,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Missile alert sounds in the United Arab Emirates after Iran, US say they've reached a two-week ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/missile-alert-sounds-united-arab-233534482.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/missile-alert-sounds-united-arab-233534482.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +175,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cPDhFVdpB8NTr13zQK84tw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/fd64b437f026829122c477f6d7224487.cf.webp" alt="" /></p>WASHINGTON, April 7 (Reuters) - A personal envoy of U.N.]]></description>
             <link>https://www.yahoo.com/news/articles/un-envoy-plans-visit-iran-222939768.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-envoy-plans-visit-iran-222939768.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 08 Apr 2026 04:31:29 GMT</pubDate>
         </item>
         <item>
@@ -6998,63 +7047,6 @@ Earlier this month, presidential spokesman Prasetyo Hadi said the government was
             <link>https://www.yahoo.com/news/articles/surinames-former-president-santokhi-dies-200914808.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/surinames-former-president-santokhi-dies-200914808.html</guid>
             <pubDate>Mon, 30 Mar 2026 20:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>FBI says the man who drove into a Detroit-area synagogue planned a Hezbollah-inspired terror attack.]]></description>
-            <link>https://www.yahoo.com/news/articles/fbi-says-man-drove-detroit-193513891.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fbi-says-man-drove-detroit-193513891.html</guid>
-            <pubDate>Mon, 30 Mar 2026 20:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Captain details trip through the Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xWZ3bHb7riAVy6NrPRzARA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/8481d0578761de2650d11dc6b6cebb35.cf.webp" alt="" /></p>Ship captain Srdan Jankovic was on a ship that made a delivery to a port in the Persian Gulf, and had to pass through the Hormuz strait.]]></description>
-            <link>https://www.yahoo.com/news/articles/captain-details-trip-strait-hormuz-182402341.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/captain-details-trip-strait-hormuz-182402341.html</guid>
-            <pubDate>Mon, 30 Mar 2026 20:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel passes law making death penalty default sentence for Palestinians convicted of lethal attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VVMiUaP0TpQ.tLmlCkCUSQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5d9032b919457403626ad86f1b6f219b.cf.webp" alt="" /></p>JERUSALEM, March 30 (Reuters) - Israel's parliament passed a law on Monday making the death penalty a default sentence for Palestinians convicted in military court of deadly attacks, seeing through a]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-passes-law-making-death-180451995.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-passes-law-making-death-180451995.html</guid>
-            <pubDate>Mon, 30 Mar 2026 20:37:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Is it Kafka?' US judge baffled by new Pentagon press policy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E88C0DAC3149DAA067D8ADF0E6FA3291DD027D2B9CF330DEF19F5882BC5591A5/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcce69639b32ceac923fb8c1a59c2cb6d" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/kafka-us-judge-baffled-pentagon-191511639.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/kafka-us-judge-baffled-pentagon-191511639.html</guid>
-            <pubDate>Mon, 30 Mar 2026 19:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House says no change in Cuba policy after Russian tanker waiver]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/169F1FA16F793EB09EC007EFD4C4507DFC7B4753CFBAE807329E96E75E9F597F/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2Fc0bc7709709a2d3157609ccd06dc0d15" alt="" /></p>Source: Detroit News]]></description>
-            <link>https://www.yahoo.com/news/articles/white-house-says-no-change-183726054.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/white-house-says-no-change-183726054.html</guid>
-            <pubDate>Mon, 30 Mar 2026 19:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 70 dead in Haiti massacre, human rights group director says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>March 30 (Reuters) - At least 70 people were killed in Haiti's Artibonite region, the director of a human rights group said on Monday, a significantly higher toll than initial government figures.]]></description>
-            <link>https://www.yahoo.com/news/articles/least-70-dead-haiti-massacre-191714459.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-70-dead-haiti-massacre-191714459.html</guid>
-            <pubDate>Mon, 30 Mar 2026 19:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two more UN peacekeepers killed in south Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3BA3EA0C8BB6F5A5561BCFED7B5CC4594F1B3E994AEC120574A99DCFEB993F7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7055ddb1ea2fa92f871938b20a7832e3" alt="" /></p>UN peacekeepers in Lebanon said two of their troops were killed on Monday, bringing to three the number of blue helmets killed in 24 hours in the country's south, where Israel and Hezbollah have been fighting.Also on Monday, the Israeli military said one of its soldiers was killed fighting in south Lebanon, and another seriously wounded, bringing the number of Israeli soldiers killed in Lebanon to six this month.
-lar-ris-lg/dcp]]></description>
-            <link>https://www.yahoo.com/news/articles/two-more-un-peacekeepers-killed-184135283.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-more-un-peacekeepers-killed-184135283.html</guid>
-            <pubDate>Mon, 30 Mar 2026 19:32:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas pipeline blown up in southern Pakistan, says official]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>QUETTA, Pakistan, March 30 (Reuters) - A natural gas pipeline was blown up in southern Pakistan on Monday, suspending supply to several districts, an official said.]]></description>
-            <link>https://www.yahoo.com/news/articles/gas-pipeline-blown-southern-pakistan-183614476.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gas-pipeline-blown-southern-pakistan-183614476.html</guid>
-            <pubDate>Mon, 30 Mar 2026 19:32:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
