@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 17:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 18:53:38 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 18:53:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuela police tear-gas protesters demanding salary rises]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6inp5Y7OdnyhkoTh_o1JUw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/980ae8997bbf5ef49b894fe9a2be73c2.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/venezuela-police-tear-gas-protesters-181950381.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuela-police-tear-gas-protesters-181950381.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Over 300 people killed in widespread Israeli strikes over Lebanon, health ministry says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Over 300 people killed in widespread Israeli strikes over Lebanon, health ministry says.]]></description>
+            <link>https://www.yahoo.com/news/articles/over-300-people-killed-widespread-170504533.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/over-300-people-killed-widespread-170504533.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 18:53:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Miner rescued alive after spending nearly 2 weeks trapped underground in flooded area]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8vcja8ghYIGOSqDBuiWRLg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/d187a4c87d0cfa9cdd8bbb78ca30708c.cf.webp" alt="" /></p>A Mexican miner was rescued after spending 13 days trapped underground, officials said, while one miner was found dead and another remains missing.]]></description>
+            <link>https://www.yahoo.com/news/articles/miner-rescued-alive-spending-nearly-162540487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/miner-rescued-alive-spending-nearly-162540487.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 18:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UN envoy meets Iran deputy minister and visits bombed sites in Tehran]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/j3bSJfv9Rafa478OVVX2NA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/198acf041d3d895a63262c43088dca1f.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/un-envoy-meets-iran-deputy-174019187.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-envoy-meets-iran-deputy-174019187.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ck2L6XMzA5YgA0Z2Oaskdg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/bdd316de134a90c876f88258bb14040f.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/know-ongoing-war-between-israel-165140999.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-ongoing-war-between-israel-165140999.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Israel-Lebanon talks expected to start next week in Washington to boost tentative ceasefire in Iran war, AP source says.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-lebanon-talks-expected-start-164845276.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-lebanon-talks-expected-start-164845276.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1922eUarxdfYv3N8S9gX0Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/2ecb45fc1e6223330fa59de227282a47.cf.webp" alt="" /></p>Russian law enforcement agents on Thursday raided the offices of the Novaya Gazeta independent media outlet, the paper said, adding that a reporter was being questioned by the police. Russian state news agencies reported, citing anonymous law enforcement sources, that the raid was related to one of the paper's top journalists Oleg Roldugin.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-police-raid-independent-novaya-161629501.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-police-raid-independent-novaya-161629501.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VOlvyXVQfebQ5NE.7xLNCA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ddd8ba34df4993b1af8063456aea8053.cf.webp" alt="" /></p>April 9 (Reuters) - Dozens of states issued a joint statement at the United Nations on Thursday condemning "unacceptable aggressive behavior" toward U.N. peacekeepers in Lebanon and calling for]]></description>
             <link>https://www.yahoo.com/news/articles/dozens-states-condemn-attacks-u-161242616.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/dozens-states-condemn-attacks-u-161242616.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9o0m1pWmL2ty64SkUU9afg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/6a09383d6c8e7a3724d2ebeb758aa2ef.cf.webp" alt="" /></p>On the first day of the US-Iran ceasefire on Wednesday, Israel conducted its biggest wave of strikes on Lebanon since the war began, killing at least 182 people, a move that threatens to derail an already fragile truce.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-war-lebanon-why-could-160433338.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-war-lebanon-why-could-160433338.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sXR_e03PdIJUrSjP4d8N9A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/0abe8aed46685663a095c3c6a2060e4b.cf.webp" alt="" /></p>State Department authorized departure of some U.S. embassy staff in Nigeria over a "deteriorating security situation" linked to terrorism and violence.]]></description>
             <link>https://www.yahoo.com/news/articles/us-allowing-nigeria-embassy-staff-144630487.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-allowing-nigeria-embassy-staff-144630487.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
         </item>
         <item>
@@ -7026,27 +7043,6 @@ The crackdown is designed to suppress any chances of a popular uprising, which w
             <link>https://www.yahoo.com/news/articles/eu-announces-further-2-3-103652899.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-announces-further-2-3-103652899.html</guid>
             <pubDate>Wed, 01 Apr 2026 13:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive: Sara Netanyahu warns of surging antisemitism and importance of Jewish-Christian alliance]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/e4wl8IMv.6iUNbTaX8cuMw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/63914fef5608979bc6815e3d7789f5a6.cf.webp" alt="" /></p>Sara Netanyahu wrapped up a four-day Washington visit at the invitation of the first lady Melania Trump focused on tech and education over the backdrop of the Iran war and rising antisemitism.]]></description>
-            <link>https://www.yahoo.com/news/articles/exclusive-sara-netanyahu-warns-surging-103003176.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-sara-netanyahu-warns-surging-103003176.html</guid>
-            <pubDate>Wed, 01 Apr 2026 13:03:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Accused money laundering leader extradited from Cambodia to China]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, April 1 (Reuters) - Li Xiong, a former leader at a Cambodian financial conglomerate accused of laundering money for crime organisations, has been extradited from Cambodia to China, Cambodia]]></description>
-            <link>https://www.yahoo.com/news/articles/accused-money-laundering-leader-extradited-102943808.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/accused-money-laundering-leader-extradited-102943808.html</guid>
-            <pubDate>Wed, 01 Apr 2026 11:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian military plane crashes in Crimea, killing 29 people]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/egnBXnwRGg0Z8.pZ9qgPxg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/27b7d94646b5e35df08866a2b6b7e74b.cf.webp" alt="" /></p>The Soviet-designed military transport turboprop aircraft crashed into a cliff, sources at the scene told state news agencies.]]></description>
-            <link>https://www.yahoo.com/news/articles/russian-military-plane-crashes-crimea-101856840.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-military-plane-crashes-crimea-101856840.html</guid>
-            <pubDate>Wed, 01 Apr 2026 11:45:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
