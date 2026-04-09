@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 01:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 04:10:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 04:10:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US court dismisses appeal from former Honduran president Hernandez]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XMEWlmkcbMhwwiM6S.QNMQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/7c701fc4ff5b2428123c2df725e7e8a4.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-court-overturns-conviction-former-021937591.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-court-overturns-conviction-former-021937591.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 04:10:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea says its latest weapons tests included missiles with cluster-bomb warheads]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DJDcV1qBtD76KfRfP6755Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/03144df0692f07e6d66e3ae44e6c0cb4.cf.webp" alt="" /></p>North Korea said Thursday its testing spree this week involved various new weapons systems, including ballistic missiles armed with cluster-bomb warheads, as it pushes to expand nuclear-capable forces aimed at rival South Korea.  The report by North Korean state media came a day after South Korea’s military said it detected North Korea firing multiple missiles from an eastern coastal area in its second round of launches in two days.]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-says-latest-tests-000420707.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-says-latest-tests-000420707.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 09 Apr 2026 04:10:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Army veteran charged with leaking classified information to journalist]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4012EC935F3B66EBA1E5B723248B2B619E9AA8C9E10CE8EC049E5BB7375A39CB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9fc22ddec25d86eebcb15cc9f0393ca3" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-army-veteran-charged-leaking-011242982.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-army-veteran-charged-leaking-011242982.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0DB943EBF2DF3DA6C0E3530DA82EA74DA4B31A3C777A84ABEAF8247FCCAC08CD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5a2400e9e5a1a7f057f3c281831d7dde" alt="" /></p>TAIPEI, April 9 (Reuters) - Taiwan's parliament should pass a stalled special defence budget to send a signal to China and the world that it is serious about peace through strength, U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-senator-urges-taiwan-parliament-005051819.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-senator-urges-taiwan-parliament-005051819.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Harold Isaac PORT-AU-PRINCE, April 8 (Reuters) - Haiti's CEP electoral council said on Wednesday it was postponing a voter registration that should have begun on April 1, adding it would shortly]]></description>
             <link>https://www.yahoo.com/news/articles/haiti-postpones-voter-registration-first-000317434.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/haiti-postpones-voter-registration-first-000317434.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Jasper Ward WASHINGTON, April 8 (Reuters) - Bahamian authorities have arrested a Michigan man whose wife went missing at sea over the weekend, the assistant commissioner of police in the Caribbean]]></description>
             <link>https://www.yahoo.com/news/articles/bahamian-police-arrest-michigan-man-003551917.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bahamian-police-arrest-michigan-man-003551917.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 8 (Reuters) - Russian drones damaged a power substation in Ukraine's southern Odesa region on Wednesday, while Moscow's forces repeatedly attacked areas in regions farther east, killing one]]></description>
             <link>https://www.yahoo.com/news/articles/russian-drones-damage-substation-odesa-220105485.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-drones-damage-substation-odesa-220105485.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +64,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/87547679BC399C507E3EE6712E62CA360B0E8E0C7094792A636BA7736CA7845B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd40ed481e4311cf337d921b654dba9c0" alt="" /></p>April 8 (Reuters) - French President Emmanuel Macron said on Wednesday he told the leaders of Iran and the United States that he hoped a ceasefire between them would be respected in Lebanon and across]]></description>
             <link>https://www.yahoo.com/news/articles/frances-macron-urges-us-iran-225629845.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/frances-macron-urges-us-iran-225629845.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -68,7 +78,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0EB5BE4BCDBA859127B2A5EF25282ADACB51276F3946FD8440850C2F0D6F397F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F15d8ddae4d8da47094c9889cbe7d92e1" alt="" /></p>Tense moments, sleepless nights and a late attack almost derailed talks, but a last-second move by Pakistan led to the ceasefire announcement.]]></description>
             <link>https://www.yahoo.com/news/articles/behind-ceasefire-pakistan-last-second-213449522.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/behind-ceasefire-pakistan-last-second-213449522.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +85,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/563F78E6558FB7B731715A3C481D946ACF64378D532E099084F809B224125F79/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F45c322b6568922c396648eb42d46c6f5" alt="" /></p>ATHENS, April 8 () - Greek Prime Minister Kyriakos Mitsotakis said on Wednesday it would be unacceptable for ships to have ‌to pay a fee to cross the Strait of Hormuz ‌as Iran has suggested, and such a move would set a dangerous precedent for freedom ​of navigation. The Iran war has threatened Gulf ports and disrupted global trade through the strait, a waterway through which a fifth of the world's oil and liquefied natural gas normally passes.]]></description>
             <link>https://www.yahoo.com/news/articles/greek-pm-says-tolls-ships-212736121.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/greek-pm-says-tolls-ships-212736121.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -91,7 +99,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59369D226603A98C4E93251B7F2865B24A79EE68F65DEA5AE54D5B17CD7310ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fec9878a91ecb9529827b2c6bb1feab57" alt="" /></p>April 8 (Reuters) - The United Nations on Wednesday condemned a massive wave of Israeli strikes across Lebanon, saying reports that hundreds of people, including civilians had been killed and injured]]></description>
             <link>https://www.yahoo.com/news/articles/un-condemns-israeli-strikes-lebanon-201626615.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-condemns-israeli-strikes-lebanon-201626615.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -99,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/38FE4600C3362144F64CE97D8749A8A07B312F872814CAEA6F74CF018E697DF3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb2d8cfcc0acc5b75a7da71567b9a8a12" alt="" /></p>Trump’s spokesperson says Vice President JD Vance will lead US team for negotiations with Iran in Pakistan on Saturday.]]></description>
             <link>https://www.yahoo.com/news/articles/white-house-says-trump-red-190028182.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/white-house-says-trump-red-190028182.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -107,7 +113,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/483D9EB38AFBFC464577C988439009C29BE13C041875D2AAD26DC5E023173F0A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd36cfe04d035469430e9a362f1c7b97c" alt="" /></p>By Joseph Ax NEW YORK, April 8 (Reuters) - A Long Island architect admitted in court on Wednesday to killing eight women in attacks dating to the 1990s, ending a notorious serial killer case that]]></description>
             <link>https://www.yahoo.com/news/articles/long-island-architect-pleads-guilty-184140459.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/long-island-architect-pleads-guilty-184140459.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 09 Apr 2026 01:26:55 GMT</pubDate>
         </item>
         <item>
@@ -7037,20 +7042,6 @@ Multiple explosions rattled the Saudi capital Riyadh, according to an AFP journa
 On the oil front, Israel's supply chains have proved resilient, largely because they bypass the Strait of Hormuz.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-weathers-energy-shock-iran-155610485.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-weathers-energy-shock-iran-155610485.html</guid>
-            <pubDate>Tue, 31 Mar 2026 16:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factbox-In Lebanon, UN peacekeepers are caught in the firing line]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/80RvyRVqYZ9IHOlsmlFgNw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/af35f080ac62904d2b0448e48b6033be.cf.webp" alt="" /></p>BEIRUT, March 31 (Reuters) - Three U.N. peacekeepers were killed this week in southern Lebanon, making the latest war between Israel and Hezbollah one of the deadliest chapters for a peacekeeping]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-lebanon-un-peacekeepers-caught-155551720.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-lebanon-un-peacekeepers-caught-155551720.html</guid>
-            <pubDate>Tue, 31 Mar 2026 16:51:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qatar says Iran’s attacks on neighbours crossed ‘many red lines’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qpNUfboWiszFeqDTeLYC5g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7d26b14c5f62e1fd239f13526c0e0cbd.cf.webp" alt="" /></p>Iranian attacks on Qatar are having a ‘catastrophic effect on the relationship between the two countries’, Doha says.]]></description>
-            <link>https://www.yahoo.com/news/articles/qatar-says-iran-attacks-neighbours-155437852.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/qatar-says-iran-attacks-neighbours-155437852.html</guid>
             <pubDate>Tue, 31 Mar 2026 16:51:10 GMT</pubDate>
         </item>
     </channel>
