@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 19:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 20:00:54 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 20:00:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['We will have hearings' with Epstein victims, US House Oversight Committee chairman says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YZQ_k11fgrrpXwwRkEc_wQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/58d9463700f00d9546d1f315fb36d0f4.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/hearings-epstein-victims-us-house-193150624.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hearings-epstein-victims-us-house-193150624.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 20:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New tensions emerge before US-Iran war ceasefire talks in Pakistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3PWvif682v7HwV3TCkNqWg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/50dbd8cc9b4143b8d8082d76a8e34c3d.cf.webp" alt="" /></p>Iranian official says conditions still not met before talks, as Trump re-ups threat of renewed attacks.]]></description>
+            <link>https://www.yahoo.com/news/articles/tensions-emerge-us-iran-war-192154544.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tensions-emerge-us-iran-war-192154544.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 20:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry sued by charity he co-founded in honor of Princess Diana]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HRlko2Lg4XzItPTpTA7zjA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/b4347e49a8f9e2dbc9e01aa270649a33.cf.webp" alt="" /></p>Sentebale​, which Prince Harry co-founded in 2006​ and helps youths with HIV in southern Africa, filed the suit in London's High Court.]]></description>
+            <link>https://www.yahoo.com/news/articles/prince-harry-sued-charity-co-190945364.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/prince-harry-sued-charity-co-190945364.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 20:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect arrested after Molotov cocktail attack at OpenAI CEO Sam Altman's home]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/c0.shv_3D3_DPy0AAOw9lg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/210045103929cb7e1e7ea7697e2c6dbf.cf.webp" alt="" /></p>April 10 (Reuters) - A person was arrested by San Francisco police for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and for making threats outside the artificial intelligence]]></description>
+            <link>https://www.yahoo.com/news/articles/suspect-arrested-molotov-cocktail-attack-185952271.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/suspect-arrested-molotov-cocktail-attack-185952271.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 20:00:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venezuelan opposition demands elections after Maduro ouster]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KmxInxDikBKYQ1AzJxyBTA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ad785c4093f9b88e2bf91c375eba5ab4.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/venezuelan-opposition-demands-elections-maduro-185914108.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelan-opposition-demands-elections-maduro-185914108.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DoetWjSxEctISGeCMaMRSw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/1a0f873994bdecc0fcce8480fad1208f.cf.webp" alt="" /></p>An African AIDS charity co-founded by Britain's Prince Harry said on Friday it had launched legal proceedings against him for "reputational harm", after a bitter dispute about its management.The charity was launched to help young people with HIV and AIDS in Lesotho and later Botswana.]]></description>
             <link>https://www.yahoo.com/news/articles/african-charity-says-suing-prince-184619911.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/african-charity-says-suing-prince-184619911.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7s6S3t4fW7r_5dOAQTc9AQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/02073cf3fdfabf52ef3d765623cba801.cf.webp" alt="" /></p>Pope Leo XIV amplified his condemnation of the U.S.-Israeli war with Iran on Friday, saying that “God does not bless any conflict” and certainly doesn’t side with those who drop bombs.  Leo spoke during a gathering of top bishops of the Chaldean Catholic Church in Iraq, an Eastern Rite Catholic church whose clerics are in Rome to elect a new patriarch.]]></description>
             <link>https://www.yahoo.com/news/articles/pope-amplifies-criticism-iran-war-180826651.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-amplifies-criticism-iran-war-180826651.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/N8JUulkhPwRkwJzNSqVa6g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/db56c0eae8d3cc8dabf2bf892669bb63.cf.webp" alt="" /></p>The Palestinian Presidency’s office condemned the plan as a “flagrant violation of international ⁠law”.]]></description>
             <link>https://www.yahoo.com/news/articles/oic-condemns-israeli-approval-34-180135091.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/oic-condemns-israeli-approval-34-180135091.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Deu53VUcJLJ4vmDiBpes6w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1850ea65e08f62a446d6618f0c57144a.cf.webp" alt="" /></p>Palestinians displaced by settler violence confront loss of community as settlers celebrate their forced expulsions.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-settlers-turn-passover-celebration-165641003.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-settlers-turn-passover-celebration-165641003.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ngj7FRITWS_qcelK6MjIpw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/48cc1d802cd83dd2bc27c4163b2f045a.cf.webp" alt="" /></p>An Israeli strike, one of multiple on the southern Lebanese city of Nabatiyeh on Friday, killed 13 State Security personnel, the agency said, as Lebanon prepared to start ceasefire talks with Israel.The state-run National News Agency (NNA) said "enemy warplanes launched a series of heavy strikes" on Nabatiyeh on Friday and an AFP photographer saw extensive damage at the State Security office, where a fire was still raging.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-strike-south-lebanon-kills-165408304.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strike-south-lebanon-kills-165408304.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 19:26:03 GMT</pubDate>
         </item>
         <item>
@@ -7020,34 +7046,6 @@ After the UAE, next on the list is Greece: its companies have at least 75 commod
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HT4yru2GboRh8a4kZUmZug--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/time_72/a4454e1e452f6c6f26a01638c6e9f89a.cf.webp" alt="" /></p>Source: Time]]></description>
             <link>https://www.yahoo.com/news/articles/risk-targeting-water-desalination-plants-131044157.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/risk-targeting-water-desalination-plants-131044157.html</guid>
-            <pubDate>Thu, 02 Apr 2026 14:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK-led coalition of 40 countries vows action on Hormuz Strait gridlock]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kt8CKn32fy5VGGRRVQHxaw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a5f6e3c55f26dbf111649258c0804662.cf.webp" alt="" /></p>UK PM Keir Starmer urges non-military solutions ahead of coalition meeting to ease gridlock in vital Strait of Hormuz.]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-led-coalition-40-countries-132736933.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-led-coalition-40-countries-132736933.html</guid>
-            <pubDate>Thu, 02 Apr 2026 14:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Islamic State-linked rebels kill 15 in eastern Congo, officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 2 (Reuters) - At least 15 civilians were killed in an attack by suspected Islamic State-linked militants in eastern Democratic Republic of Congo on Wednesday, according to four local and]]></description>
-            <link>https://www.yahoo.com/news/articles/islamic-state-linked-rebels-kill-132004900.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/islamic-state-linked-rebels-kill-132004900.html</guid>
-            <pubDate>Thu, 02 Apr 2026 14:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan to continue with Iran-US mediation despite ‘obstacles’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/umoyy7TVrW9xboZCU08aWg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/74db5a3da9f156520c1e8285005acafb.cf.webp" alt="" /></p>Islamabad’s statement follows Trump threatening to bomb Iran ‘back to the Stone Ages’.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-continue-iran-us-mediation-131947592.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-continue-iran-us-mediation-131947592.html</guid>
-            <pubDate>Thu, 02 Apr 2026 14:19:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Bomb back to the Stone Age’: US history of threats and carpet bombing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/RobLPLc0kQCKO8.6I5a6sQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1b2837d11df2991d212d17a2b274b508.cf.webp" alt="" /></p>Analysts say carpet bombing countries is a war crime. But it wouldn’t be new for the US.]]></description>
-            <link>https://www.yahoo.com/news/articles/bomb-back-stone-age-us-130635612.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bomb-back-stone-age-us-130635612.html</guid>
             <pubDate>Thu, 02 Apr 2026 14:19:21 GMT</pubDate>
         </item>
     </channel>
