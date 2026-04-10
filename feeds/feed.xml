@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 21:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 22:00:43 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 22:00:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Photos from Tehran as a fragile ceasefire is marked by mourning and a quiet weekend]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XOG19shO23F1yM5dItc5bw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/325179b7b30f39dc07b8e941fb65e222.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/photos-tehran-fragile-ceasefire-marked-212418138.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-tehran-fragile-ceasefire-marked-212418138.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 22:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chicago teachers want no school on May Day, testing the city's mayor and school leaders]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MWVzhw8bscoqz6O43IljXw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/075f39f80b1f88579e09bb518a08c85e.cf.webp" alt="" /></p>A tangled political fight over whether Chicago’s public schools will hold classes on May Day is coming down to the wire, confusing tens of thousands of students and parents.  The influential teachers union, an ally of Mayor Brandon Johnson, wants educators to participate in protests in the nation’s third-largest city on May 1, coinciding with workers’ rights rallies worldwide.  The standoff has created uncertainty for the families of more than 315,000 students.]]></description>
+            <link>https://www.yahoo.com/news/articles/chicago-teachers-want-no-school-201201646.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/chicago-teachers-want-no-school-201201646.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 22:00:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipping traffic through Hormuz remains at standstill despite ceasefire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/__LRv1Qs73SUb3WTySlODg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/53e6deac4c5bf501a6cbca8c86e0e6f6.cf.webp" alt="" /></p>Traffic through the critical strait has remained at a virtual standstill, with little movement since the U.S.-Israeli war on Iran began on Feb. 28.]]></description>
+            <link>https://www.yahoo.com/news/articles/shipping-traffic-hormuz-remains-standstill-191535884.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/shipping-traffic-hormuz-remains-standstill-191535884.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Fri, 10 Apr 2026 22:00:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel's War Against Lebanon, Explained]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Bsu6P6FkHEJSMzvIrDAZuw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/time_72/c0be18346638c30d58786d48cf2379eb.cf.webp" alt="" /></p>Source: Time]]></description>
             <link>https://www.yahoo.com/news/articles/israels-war-against-lebanon-explained-204631233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israels-war-against-lebanon-explained-204631233.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ycr.2JyieGE_KfygCqvNEQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d6213704518c3b84c9bc8fae05886010.cf.webp" alt="" /></p>By Kristina Cooke and Ted Hesson WASHINGTON, April 10 (Reuters) - President Donald Trump’s administration plans to crack down on networks it says help pregnant women lie on visa applications in order]]></description>
             <link>https://www.yahoo.com/news/articles/exclusive-ice-launches-effort-uncover-185533300.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-ice-launches-effort-uncover-185533300.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0WsjHVNK_uGQF6f8bKkRQQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c5750c413264f00bf5555145155c55c0.cf.webp" alt="" /></p>A spokesperson for Prince Harry said he “categorically” rejects the “offensive and damaging” libel claim.]]></description>
             <link>https://www.yahoo.com/news/articles/prince-harry-sued-defamation-sentebale-200501385.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/prince-harry-sued-defamation-sentebale-200501385.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian delegation led by the country's parliament speaker has arrived in Pakistan for talks with the US, state TV says.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-delegation-led-countrys-parliament-195346507.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-delegation-led-countrys-parliament-195346507.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lI162U2pMB_iP03Yl50Ejg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/86763ae466c88e0a5398e4a3afe8021e.cf.webp" alt="" /></p>British Prime Minister Keir Starmer insisted on Friday that NATO was "in America's interests", at the end of a three-day visit to the Gulf to discuss bolstering the "fragile" Middle East truce."It is in America's interests.]]></description>
             <link>https://www.yahoo.com/news/articles/starmer-says-nato-uss-interests-185712319.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/starmer-says-nato-uss-interests-185712319.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 10 Apr 2026 21:01:43 GMT</pubDate>
         </item>
         <item>
@@ -7025,28 +7044,6 @@ The war's economic impact is rippling far beyond the Middle East, with Gulf stat
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5IGelf2WzeY9TLslqpeOdA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/0aa38843abfa26a2c8bfb2c6df55ee49.cf.webp" alt="" /></p>About 20 percent of global oil and gas passes through the Gulf waterway.]]></description>
             <link>https://www.yahoo.com/news/articles/starmer-40-nation-coalition-open-142623067.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/starmer-40-nation-coalition-open-142623067.html</guid>
-            <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three men face trial in Poland over alleged Russia‑linked arson attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WARSAW, April 2 (Reuters) - Three men will go on trial in Poland over a series of arson attacks in Warsaw and the Baltic States that officials say were part of a Russian-orchestrated sabotage campaign]]></description>
-            <link>https://www.yahoo.com/news/articles/three-men-face-trial-poland-140535715.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-men-face-trial-poland-140535715.html</guid>
-            <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burkina Faso military, allies committing ‘horrific’ civilian abuses: HRW]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E7TfITdbg.vjvk0ACxYIMw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a74c898c9a6c1916e6de6fcdad43f580.cf.webp" alt="" /></p>More than 1,800 civilians have been killed by the army and armed groups since 2023, Human Rights Watch says.]]></description>
-            <link>https://www.yahoo.com/news/articles/burkina-faso-military-allies-committing-135323919.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/burkina-faso-military-allies-committing-135323919.html</guid>
-            <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Which countries' ships are hit by Hormuz crisis?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WsmhNZFyiOxlcv7iyTwbFw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/77d82598786bae488cbaa3c6e968b639.cf.webp" alt="" /></p>Shipping companies from Greece, the UAE and China are most affected by the closure of the Strait of Hormuz, according to data from Bloomberg and marine traffic organisations.- Greece -
-After the UAE, next on the list is Greece: its companies have at least 75 commodity vessels that have been in the strait since the beginning of the war -- around 12 percent of the total.]]></description>
-            <link>https://www.yahoo.com/news/articles/countries-ships-hit-hormuz-crisis-134800418.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/countries-ships-hit-hormuz-crisis-134800418.html</guid>
             <pubDate>Thu, 02 Apr 2026 15:33:24 GMT</pubDate>
         </item>
     </channel>
