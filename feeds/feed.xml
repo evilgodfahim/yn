@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 18:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 19:30:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 18:33:39 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pope Leo issues latest rebuke of Iran conflict: "Enough with war!"]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5155B1962DD582F5F1C1887CA52AD21201B7993D853A38A522A8838BD87E7268/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb9bd9587e595fa89385f402738e6a824" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leo-issues-latest-rebuke-185130185.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-issues-latest-rebuke-185130185.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers kill Palestinian during raid on occupied West Bank village]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18B092E25067931C2D175B60D383500BD6B995B55ED06B375B5FC3883B947EA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1aa11ed08b8b96f538f6d4ef9e6ebda1" alt="" /></p>The raid comes just days after Israel approved 34 new illegal settlements in the West Bank.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-settlers-kill-palestinian-during-184748279.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-settlers-kill-palestinian-during-184748279.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US military says two of its ships crossed through Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON, April 11 (Reuters) - The U.S. military said on Saturday that two of its warships sailed through the Strait of Hormuz as part of a plan to start removing mines from the vital conduit for]]></description>
+            <link>https://www.yahoo.com/news/articles/us-military-says-two-ships-165530782.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-two-ships-165530782.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U.S. naval destroyers have crossed the Strait of Hormuz, CENTCOM says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8rfbNTodo69_86qOw2bQHg--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/cedd9f4890eeceb9181e94a717704fe2.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/u-naval-destroyers-crossed-strait-174414707.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-naval-destroyers-crossed-strait-174414707.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 18:33:39 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9AfD7tWPlar_2.SvESg_RA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/130ed379fff87b8331952a0178374327.cf.webp" alt="" /></p>Activity picks up in Tehran’s Grand Bazaar compared with before the ceasefire, but vendors say sales remain slow.]]></description>
             <link>https://www.yahoo.com/news/articles/ceasefire-brings-relief-iranians-economic-172923422.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ceasefire-brings-relief-iranians-economic-172923422.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 18:33:39 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DhtCP.wfA5H9bovvt8jgTw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/9e4298b9ef2c112aaaae55da8a63f1d8.cf.webp" alt="" /></p>New president pledges ‘Iraq First’ after securing 227 votes, ending five months of political deadlock.]]></description>
             <link>https://www.yahoo.com/news/articles/iraq-parliament-elects-kurdish-politician-172402531.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraq-parliament-elects-kurdish-politician-172402531.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 18:33:39 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dTSVV4eneilQcVsRtniH.w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/920f685adbe4f10c10e9c8fc5d3e6f24.cf.webp" alt="" /></p>In his strongest words yet, Pope Leo XIV on Saturday denounced the “delusion of omnipotence” that is fueling the U.S.-Israel war in Iran and demanded political leaders stop and negotiate peace.  Leo presided over an evening prayer service in St. Peter’s Basilica on the same day the United States and Iran began face-to-face negotiations in Pakistan and as a fragile ceasefire held.  History’s first U.S.-born pope didn’t mention the United States or President Donald Trump in his prayer, which was planned before the talks were announced.]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-xiv-blasts-delusion-170735613.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-xiv-blasts-delusion-170735613.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 18:33:39 GMT</pubDate>
         </item>
         <item>
@@ -7021,27 +7041,6 @@ Most of the transits made since March 1 have been ships coming from or heading t
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MOSCOW, April 3 (Reuters) - A Russian Su‑30 fighter jet crashed in Crimea on Friday during a scheduled training flight, with both crew members ejecting safely, the TASS state news agency reported]]></description>
             <link>https://www.yahoo.com/news/articles/russian-su-30-fighter-crashes-100542179.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-su-30-fighter-crashes-100542179.html</guid>
-            <pubDate>Fri, 03 Apr 2026 10:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paramilitary forces in Sudan kill at least 10 people in hospital drone attack, medical group says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/TDKWtuulJW0eA2ioEXMRcw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/72831575ecb4791f98e62d698705bd31.cf.webp" alt="" /></p>Sudan ’s paramilitary forces killed at least 10 people on Thursday in a drone attack that hit a hospital in the south-central part of the country, said a medical group.  Doctors Without Borders, also known as MSF, said the Sudanese paramilitary Rapid Support Forces, RSF, launched two drone strikes on Al-Jabalain Hospital in the White Nile province, hitting an operating theater and a maternity ward.  The strikes, the latest in an intensifying drone warfare between the army and the RSF, killed 10 people, including seven medical staffers, and injured at least 19 people.]]></description>
-            <link>https://www.yahoo.com/news/articles/paramilitary-forces-sudan-kill-least-094453936.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/paramilitary-forces-sudan-kill-least-094453936.html</guid>
-            <pubDate>Fri, 03 Apr 2026 10:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Human remains found on Thai ship attacked in Hormuz strait: firm]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/IrLb_gp33oD6kcIrrhffGA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f04f60e36510ab935c6cfe8253084f2c.cf.webp" alt="" /></p>Human remains have been found aboard a cargo ship struck by Iran while transiting the Strait of Hormuz last month, the vessel's owner said Friday, after three crew members were reported missing following the attack."Certain human remains were found within the affected area of the vessel," a statement from transport company Precious Shipping said Friday, adding it could not yet confirm the identities or the number of individuals.]]></description>
-            <link>https://www.yahoo.com/news/articles/human-remains-found-thai-ship-092459031.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/human-remains-found-thai-ship-092459031.html</guid>
-            <pubDate>Fri, 03 Apr 2026 10:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba to pardon more than 2,000 prisoners amid US pressure]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/aFp5f45dkX5GUXQvT6pukA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7704271fae9b46412076d547933175f6.cf.webp" alt="" /></p>Releasing political prisoners in Cuba has long been a US core demand as oil blockade continues.]]></description>
-            <link>https://www.yahoo.com/news/articles/cuba-pardon-more-2-000-090615053.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-pardon-more-2-000-090615053.html</guid>
             <pubDate>Fri, 03 Apr 2026 10:36:43 GMT</pubDate>
         </item>
     </channel>
