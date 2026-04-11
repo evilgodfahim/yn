@@ -4,16 +4,30 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 21:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 21:55:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 21:25:40 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 21:55:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanese bury 13 officers killed by Israel as grief and outrage surge ahead of talks in the US]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF185EBC4B8B031DFEBF77F4578542962089676E8BD488F29581D16B48EA4762/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2b91d2be20e85196323735dbae322015" alt="" /></p>Women in black screamed in grief and toddlers sobbed uncontrollably, calling out for their dead fathers and uncles.  Men in uniforms, pistols strapped to their belts, wept openly for their comrades at the funerals on Saturday for 13 Lebanese state security officers killed in an Israeli airstrike the day before.  In the past week, similar funeral scenes have played out hundreds of times across Lebanon as Israel intensified attacks against what it says are Iran-backed Hezbollah infrastructure and militants.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanese-bury-13-officers-killed-195205319.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanese-bury-13-officers-killed-195205319.html</guid>
+            <pubDate>Sat, 11 Apr 2026 21:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man climbs onto US military aircraft in Ireland, attacks it with hatchet: report]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F0D98269EB12AC1753D24B8A66920F9911C56F6E3AAF3D5D0A42E0B6FC73616B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F4018660cbc40126556c3fa1aa60de030" alt="" /></p>A man allegedly climbed onto a U.S. military aircraft at Ireland's Shannon Airport and attacked it with a hatchet, according to local police reports.]]></description>
+            <link>https://www.yahoo.com/news/articles/man-climbs-onto-us-military-191240151.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/man-climbs-onto-us-military-191240151.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 21:55:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Manhattan district attorney investigates sexual assault claims against Swalwell]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/69655996318ABC160910D5D4240C23EC45BDD9898AA24138A69C89C36FDF0581/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3aa5946f4229e4e5a448fc3c4fef3cc7" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/manhattan-district-attorney-investigates-sexual-202150222.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/manhattan-district-attorney-investigates-sexual-202150222.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 21:25:40 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC281F43DACA6070B41C141173C60403BF8DF364CCFCAA0A01712459D4CED33A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5324d9c402eccd50bb7b6ad4e9cbcffd" alt="" /></p>Two US Navy warships have transited the Strait of Hormuz to begin clearing the strategic waterway of mines laid by Iran, US Central Command said Saturday -- a claim denied by Tehran.Earlier Saturday, Trump said in a social media post that the United States was "starting the process of clearing out the Strait of Hormuz."]]></description>
             <link>https://www.yahoo.com/news/articles/us-warships-transit-strait-hormuz-202736147.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-warships-transit-strait-hormuz-202736147.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 21:25:40 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D86717D941BA777E0780FFB0D1CFF47A04FEFB09CA9756986CA6B8A3035FA45/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffd79d92201017a039757bf6c9b5adfea" alt="" /></p>Lebanon’s Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-strikes-kill-least-18-202529514.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strikes-kill-least-18-202529514.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 21:25:40 GMT</pubDate>
         </item>
         <item>
@@ -7027,20 +7039,6 @@ Gregoire himself has spoken publicly about being a victim of sexual abuse in an 
             <link>https://www.yahoo.com/news/articles/everything-know-far-king-charles-190233905.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/everything-know-far-king-charles-190233905.html</guid>
             <pubDate>Fri, 03 Apr 2026 12:44:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greek PM reshuffles cabinet as EU aid farm fraud probe widens]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JvT2RRQm8ssu2UTzyZ9uCA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/93af276ea5fa286ab4e6475dcae737bf.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/greek-pm-reshuffle-cabinet-amid-094008003.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/greek-pm-reshuffle-cabinet-amid-094008003.html</guid>
-            <pubDate>Fri, 03 Apr 2026 11:33:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia strikes targets in Kyiv region as Ukraine holds door open for Easter truce]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/esQpTcJRyLU45zPCjwTzIw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e21e891eac58ba38a049df39395a1648.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-strikes-targets-kyiv-region-104523459.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-strikes-targets-kyiv-region-104523459.html</guid>
-            <pubDate>Fri, 03 Apr 2026 11:33:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
