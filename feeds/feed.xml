@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 13:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 14:31:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 13:50:23 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 14:31:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Irish police move to break blockade of oil refinery by protesters angry at fuel prices]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qgjrItnAxeZHlFtluGCT.w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ca875e3fe3a5ba86ea7c0e85362b5b35.cf.webp" alt="" /></p>DUBLIN, April 11 (Reuters) - Irish police took action to clear protesters blockading the country's only oil refinery on Saturday after a senior government minister said protests over surging fuel]]></description>
+            <link>https://www.yahoo.com/news/articles/irish-police-move-break-blockade-133348102.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irish-police-move-break-blockade-133348102.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US-Iran talks on ending war begin in Pakistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/m.OX7cgLmrf5ZNiz4KWbZA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/e38e059d6dde601abb0fe35474aeef33.cf.webp" alt="" /></p>Discussions between Iran and US delegations begin following separate bilateral meetings with Pakistani prime minister.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-iran-talks-ending-war-132653531.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-talks-ending-war-132653531.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Libya approves first unified budget in more than a decade]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WBQr05pGweNY1De2rg0phQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/414d3133850f8fcb98bf966f6daf8e6b.cf.webp" alt="" /></p>Libya shows it is ‘capable of overcoming its differences’ with rare budget deal, central bank says.]]></description>
+            <link>https://www.yahoo.com/news/articles/libya-approves-first-unified-budget-131851650.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/libya-approves-first-unified-budget-131851650.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:31:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malnourished boy found locked in utility van since 2024, police say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_5ehTIiwAcDy7GGDXLs8Sg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/8c7b50442f9cc5b8310567ef0fd49f82.cf.webp" alt="" /></p>A 9-year-old boy was rescued this week after living locked in his father's utility van in eastern France since 2024, according to the local prosecutor.]]></description>
+            <link>https://www.yahoo.com/news/articles/malnourished-boy-found-locked-utility-115714872.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/malnourished-boy-found-locked-utility-115714872.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 14:31:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Syrian man buries his wife and 4 children killed in Israeli strikes on Beirut]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1WzciArVZufuJOEtZ.KRIA--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/1f5fce42e2a35e2563bb4e67e288f63a.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/syrian-man-buries-wife-4-125034775.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/syrian-man-buries-wife-4-125034775.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 13:50:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Talks between Iran and the U.S. have started in Islamabad, Iranian state-run media report.]]></description>
             <link>https://www.yahoo.com/news/articles/talks-between-iran-u-started-130155967.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/talks-between-iran-u-started-130155967.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 13:50:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6zlJUE4An5FV8GKMBYMdRA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/957847dc9ccfc920b0d271b0118e4b5b.cf.webp" alt="" /></p>Solar-powered halls create academic lifelines for Gaza students battling war’s aftermath and scarce resources.]]></description>
             <link>https://www.yahoo.com/news/articles/makeshift-gaza-university-offers-chance-121532292.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/makeshift-gaza-university-offers-chance-121532292.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 13:50:23 GMT</pubDate>
         </item>
         <item>
@@ -7017,34 +7046,6 @@ Lebanese militant group Hezbollah said that its fighters targeted at least three
             <link>https://www.yahoo.com/news/articles/french-south-korean-leaders-theyll-063505932.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-south-korean-leaders-theyll-063505932.html</guid>
             <pubDate>Fri, 03 Apr 2026 07:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait says its Mina al-Ahmadi oil refinery again hit by Iranian drones, sparking multiple fires at the facility]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Kuwait says its Mina al-Ahmadi oil refinery again hit by Iranian drones, sparking multiple fires at the facility.]]></description>
-            <link>https://www.yahoo.com/news/articles/kuwait-says-mina-al-ahmadi-051120236.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/kuwait-says-mina-al-ahmadi-051120236.html</guid>
-            <pubDate>Fri, 03 Apr 2026 07:42:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon’s displaced Shiites face rising hostility as airstrikes fuel fear and evictions]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KR.0xCD1CLEfGzbNC5m7Ag--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/82b0b93e0dcac4ab4253d559048c25a7.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/lebanon-displaced-shiites-face-rising-060543919.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-displaced-shiites-face-rising-060543919.html</guid>
-            <pubDate>Fri, 03 Apr 2026 06:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar junta chief Min Aung Hlaing elected president by pro-military parliament]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sc4XIb.71nGRAHMmprhfzg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/e2291611ba3a67d0e4a62cda103e2ca1.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/myanmars-junta-chief-set-parliamentary-000352016.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/myanmars-junta-chief-set-parliamentary-000352016.html</guid>
-            <pubDate>Fri, 03 Apr 2026 06:13:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How war on Iran turned Pakistan’s LNG surplus into a looming shortage]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jR_pQmZwLcgqKrO21DKbxQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/9eae25ca16afe43626918ab1e192555c.cf.webp" alt="" /></p>Pakistan braces for gas shortage crisis as LNG supplies collapse amid escalating regional conflict.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-iran-turned-pakistan-lng-045517575.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-iran-turned-pakistan-lng-045517575.html</guid>
-            <pubDate>Fri, 03 Apr 2026 06:13:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
