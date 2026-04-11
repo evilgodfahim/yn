@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Apr 2026 16:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Apr 2026 17:04:16 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
+        <pubDate>Sat, 11 Apr 2026 17:04:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Authorities seize 5 tons of cocaine from banana, wine shipments]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ElvySZ6QVd8O8xeY2y8ryQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/24019acf9d5f9206091e1948933603ea.cf.webp" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/authorities-seize-5-tons-cocaine-155454911.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/authorities-seize-5-tons-cocaine-155454911.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 17:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Planes fly from Beirut airport despite Israeli bombing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UkU_GvC2mmzVTEBmA29fAA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/cb5ebbad3f989275c6c3a10af689f6bf.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/planes-fly-beirut-airport-despite-154615060.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/planes-fly-beirut-airport-despite-154615060.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 11 Apr 2026 17:04:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lula and Flavio Bolsonaro even in Brazil election second-round, Datafolha poll shows]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB6DFE3B80201C280564EF93E5085B9F5D46186BF9C797866C9C001122A6A09E/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6ac919c6604979a166475ae25ab7b0b2" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/lula-flavio-bolsonaro-even-brazil-161535771.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lula-flavio-bolsonaro-even-brazil-161535771.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4AC7F81704E1B9CCE4C8F8A8FAFFAF23A77957675789191BACF90B62B364FF73/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F38dfc8c5b6150b4aadf78f3ce00541ed" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/court-allows-white-house-ballroom-161530633.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/court-allows-white-house-ballroom-161530633.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Asif Shahzad, Mubasher Bukhari and Timour Azhari ISLAMABAD/DUBAI, April 11 (Reuters) - Pakistan has sent fighter jets and other military forces to Saudi Arabia to boost security under a defence]]></description>
             <link>https://www.yahoo.com/news/articles/saudi-arabia-says-pakistan-sends-115146519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-arabia-says-pakistan-sends-115146519.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96D867506929091B519F586B1FCEC527B9811C47CA256740F6A8B857D561F56D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6e4cd4b4a0d8ea7b86fcfa24e4f73db3" alt="" /></p>By Suban Abdulla and William Schomberg LONDON, April 11 (Reuters) - Britain's government said on Saturday it had put on hold its deal to cede sovereignty of the Chagos Islands - home to the U.S.-]]></description>
             <link>https://www.yahoo.com/news/articles/uk-pauses-plan-cede-chagos-081852152.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-pauses-plan-cede-chagos-081852152.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 11 (Reuters) - The Iraqi parliament on Saturday elected Kurdish politician Nizar Amedi as the country's new president, a largely ceremonial role, following a parliamentary election nL1N3WT0SY]]></description>
             <link>https://www.yahoo.com/news/articles/iraqi-parliament-elects-nizar-amedi-145031280.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iraqi-parliament-elects-nizar-amedi-145031280.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -60,7 +71,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, April 11 (Reuters) - Britain's National Crime Agency said on Saturday it had charged a 27-year-old Sudanese man with endangering life after four migrants died while attempting to cross the]]></description>
             <link>https://www.yahoo.com/news/articles/uk-crime-agency-charges-sudanese-122326817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-crime-agency-charges-sudanese-122326817.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -68,7 +78,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 11 (Reuters) - Iran has been in touch with Lebanon to make sure ceasefire commitments were being respected on all fronts, the Iranian foreign ministry spokesperson told state TV on Saturday from]]></description>
             <link>https://www.yahoo.com/news/articles/iran-touch-lebanon-ensure-ceasefire-122139796.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-touch-lebanon-ensure-ceasefire-122139796.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -76,7 +85,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0FABA55087A821DAE49F2F824D82DDC7D9231C6C9781E808B1A892D0EA0DAE6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3221b99c06a062663cfd62d2b7cb543b" alt="" /></p>PARIS, April 11 (Reuters) - French President Emmanuel Macron said on Saturday that he had discussed the Iran ceasefire https://www.reuters.com/world/iran/ talks and the situation in Ukraine https://]]></description>
             <link>https://www.yahoo.com/news/articles/frances-macron-says-discussed-iran-115519153.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/frances-macron-says-discussed-iran-115519153.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Apr 2026 16:28:07 GMT</pubDate>
         </item>
         <item>
@@ -7035,20 +7043,6 @@ Lebanese militant group Hezbollah said that its fighters targeted at least three
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Og3GcHV_UAk3leBuStUQLQ--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/55d328906b39e0a61c0dfda68118bb2a.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/gulf-kingdom-bahrain-cracks-down-080423737.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gulf-kingdom-bahrain-cracks-down-080423737.html</guid>
-            <pubDate>Fri, 03 Apr 2026 08:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sbdwHmhm9zFJ4bqhPYGo_g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/b27b21904949146a84f8545089824fd6.cf.webp" alt="" /></p>Strikes damage or destroy Iran’s tallest bridge and a century-old medical research centre fighting diseases.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-condemns-us-israeli-moral-080304700.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-condemns-us-israeli-moral-080304700.html</guid>
-            <pubDate>Fri, 03 Apr 2026 08:43:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Israel is destroying healthcare infrastructure in southern Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_ZW5TQdhOBpte5EQthwK1w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/40ac1ea9bf9aae8d27f29e04ef1dfde3.cf.webp" alt="" /></p>Israel’s attacks on hospitals, medical centres and healthcare workers are fuelling displacement and a health crisis.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-destroying-healthcare-infrastructure-southern-073443105.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-destroying-healthcare-infrastructure-southern-073443105.html</guid>
             <pubDate>Fri, 03 Apr 2026 08:43:46 GMT</pubDate>
         </item>
     </channel>
