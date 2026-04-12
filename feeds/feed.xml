@@ -4,16 +4,62 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 14:00:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 15:02:39 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 14:00:46 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Failed US-Iran talks in Pakistan raise questions about fragile ceasefire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DBABEA549C35D75BAE93FC3A450334A7F6FA7B9B5F303282480284F7E89F7DD7/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F397ed0017462daf906ed179cc522c85e" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/failed-us-iran-talks-pakistan-141633480.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/failed-us-iran-talks-pakistan-141633480.html</guid>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three killed as armed men attack Pakistan Coast Guards in Arabian Sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>QUETTA, Pakistan, April 12 (Reuters) - Separatist insurgents killed three Pakistan Coast Guard personnel on Sunday in the first-ever attack on one of the maritime authority's patrol boats operating in]]></description>
+            <link>https://www.yahoo.com/news/articles/three-killed-armed-men-attack-145117133.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-killed-armed-men-attack-145117133.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 30 dead in stampede at Haiti’s historic Citadelle Laferriere]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E49F7A24B202B5E4122ED78B32EF53E6F379B7B657A550133DEA2234468A30F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd9c58623013d92f1352652f2b35f8626" alt="" /></p>The fortress was packed before the annual celebration at the UNESCO World Heritage Site, authorities say.]]></description>
+            <link>https://www.yahoo.com/news/articles/least-30-dead-stampede-haiti-143654914.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-30-dead-stampede-haiti-143654914.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigerian airstrike hits market, 200 feared dead in northeast Yobe state]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MAIDUGURI, Nigeria, April 12 (Reuters) - At least 200 people are feared dead after Nigerian military jets struck a village market while pursuing Islamist militants in the northeast of the country on]]></description>
+            <link>https://www.yahoo.com/news/articles/nigerian-airstrike-leaves-200-feared-134341419.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nigerian-airstrike-leaves-200-feared-134341419.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians condemn storming of Al-Aqsa Mosque by Israel’s Ben-Gvir]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33B003E81B86E54865AA6E35AAB82E3D1052A9742E3CD4E33483DB11259C2101/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb795a8fcef81c71b463e7b69e51fbfb4" alt="" /></p>Israel’s far-right security minister storms mosque compound with protection, drawing condemnation from Palestinians.]]></description>
+            <link>https://www.yahoo.com/news/articles/palestinians-condemn-storming-al-aqsa-134204445.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinians-condemn-storming-al-aqsa-134204445.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine, Russia claim thousands of violations of Putin-imposed holiday ceasefire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/593E6ED305445A3F20A7BA1C49A3AF56AC3E9A2E6629ACF816A09B79016D8E6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F47e165edc5b71dc20ba37418b769b073" alt="" /></p>Russian President Vladimir Putin's 32-hour Orthodox Easter ceasefire appeared to unravel as Russia and Ukraine traded accusations of thousands of violations, deepening mutual mistrust.]]></description>
+            <link>https://www.yahoo.com/news/articles/ukraine-russia-claim-thousands-violations-115632685.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-russia-claim-thousands-violations-115632685.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 12 Apr 2026 15:02:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hungarians vote in key election that could unseat MAGA darling Viktor Orbán]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9HP__2PJW7lWMDCoOP44lw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/c6d20d40952401a79f37aad977689411.cf.webp" alt="" /></p>It is a key moment for populist Prime Minister Viktor Orbán, who has traveled a long road from his early days as a liberal, anti-Soviet firebrand to a Russian-friendly nationalist admired today by the global far-right.]]></description>
             <link>https://www.yahoo.com/news/articles/hungarians-vote-key-election-could-125146771.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hungarians-vote-key-election-could-125146771.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 14:00:46 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WduU2a.uAnEJ6HSRMF13mQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/7b8bfef78c87dfc5b0922dcf4080f200.cf.webp" alt="" /></p>Talks between Iran and the US expose deep divisions, prolonging uncertainty during a two-week ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/us-iran-ceasefire-talks-key-124721962.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-ceasefire-talks-key-124721962.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 14:00:46 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3AdT5kD_a9Yadp0rGPONeQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/6d57fb7e6e31e5c13e30888c96063774.cf.webp" alt="" /></p>"It is imperative that the parties continue to uphold their commitment to ceasefire," Pakistan's Deputy Prime Minister Ishaq Dar said.]]></description>
             <link>https://www.yahoo.com/news/articles/imperative-us-iran-uphold-ceasefire-114704199.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/imperative-us-iran-uphold-ceasefire-114704199.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 14:00:46 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sH5xUqVp8g3hAv0oDd7YOQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e66c3be722220182a27d0dc1af9eb10e.cf.webp" alt="" /></p>Police broke up a blockade in the center of Dublin by fuel protesters who have brought much of Ireland to a standstill during the past week as the government prepared on Sunday to approve cost-cutting measures they hope will end the six days of disruption over soaring costs at the pump.  As tractors and trucks that had blocked O'Connell Street were rolling out of the capital, protests continued elsewhere, with police on the other side of the country clashing with demonstrators at the Galway docks where a military vehicle was used to knock down a makeshift barrier.  The protests have caused chaos as blockades at Ireland's only oil refinery and several vital depots prevented tanker trucks from delivering fuel to service stations and more than a third of pumps ran dry.]]></description>
             <link>https://www.yahoo.com/news/articles/police-remove-fuel-protesters-dublin-113117280.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/police-remove-fuel-protesters-dublin-113117280.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 12 Apr 2026 14:00:46 GMT</pubDate>
         </item>
         <item>
@@ -6995,48 +7038,6 @@ A spokesperson for the Iranian military's central operational command said "an A
             <link>https://www.yahoo.com/news/articles/fact-check-image-crashed-helicopter-000558580.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-image-crashed-helicopter-000558580.html</guid>
             <pubDate>Sat, 04 Apr 2026 01:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: Fake Video Does NOT Show Actual Images of Iran Shooting Down U.S. F-15 Fighter Jet]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bTwwMJCLBxWrUGGYEDZKxw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/8d6ece3316d21c5fa13442e6097c224e.cf.webp" alt="" /></p>Is this real footage of an American F-15 fighter jet being shot down by Iran? No, that's not true: The clip appears to come from a military simulation video game, and the same video was posted online about a month...]]></description>
-            <link>https://www.yahoo.com/news/articles/fact-check-video-does-not-230624059.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-video-does-not-230624059.html</guid>
-            <pubDate>Sat, 04 Apr 2026 01:25:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Search is Underway for a Downed U.S. Crew Member in Iran. Here’s What the Mission Could Entail]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UY4tMeVclOzgX3lc.IipNA--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/time_72/f5fece858b4288c4c1d686ff863bfafc.cf.webp" alt="" /></p>Source: Time]]></description>
-            <link>https://www.yahoo.com/news/articles/search-underway-downed-u-crew-230930934.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/search-underway-downed-u-crew-230930934.html</guid>
-            <pubDate>Fri, 03 Apr 2026 23:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hide, find water: US ex-pilot details how to survive being shot down]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/gUAgR9CjpxeWWc6.zPSJ2A--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/4ce7e125e6e7a21f92a35c11632a976b.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/hide-water-us-ex-pilot-225349735.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hide-water-us-ex-pilot-225349735.html</guid>
-            <pubDate>Fri, 03 Apr 2026 23:40:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope leads torch-lit Colosseum procession before Easter]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vRGrvF7EshULHamNSiu3bg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/22513e5e781b7a0eb16da80944f38c21.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-leads-torch-lit-colosseum-220513083.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leads-torch-lit-colosseum-220513083.html</guid>
-            <pubDate>Fri, 03 Apr 2026 22:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK charges three men with arson over attack on Jewish community ambulances]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SZgK2t4bNxurAfyqVXZS2Q--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/a4a08be211953d522f07d4d768fb8688.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-charges-three-men-arson-215249462.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-charges-three-men-arson-215249462.html</guid>
-            <pubDate>Fri, 03 Apr 2026 22:26:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian state media says a US A-10 attack aircraft was hit by Iranian air defense forces]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian state media says a US A-10 attack aircraft was hit by Iranian air defense forces.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-state-media-says-us-205919463.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-state-media-says-us-205919463.html</guid>
-            <pubDate>Fri, 03 Apr 2026 22:26:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
