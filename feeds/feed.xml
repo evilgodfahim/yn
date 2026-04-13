@@ -4,10 +4,17 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 23:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 00:00:48 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 23:27:44 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 00:00:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[After Ohtani hits 2nd straight leadoff homer, deGrom recovers to lead Rangers over Dodgers 5-2]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83F956022767231C5A9BE62331A69C6059BD4AFE4B2DF9F5027AF6110B9710D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4c8f4e3c6011f06008a11a9598e952a8" alt="" /></p>Shohei Ohtani connected off Jacob deGrom for his second straight leadoff home run, but the Texas Rangers rallied to beat the Los Angeles Dodgers 5-2 Sunday and avoid a three-game sweep.]]></description>
+            <link>https://www.yahoo.com/news/articles/bbo--rangers-dodgers-234915401.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bbo--rangers-dodgers-234915401.html</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pope Leo XIV to visit fastest-growing Catholic continent during 4-nation Africa trip]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/715D87FB80ACEC1B4973C78F7B1078C6DC90EBA17C8DBB67E46A25632832B11C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F8d00afe6fe258f1c5952aa588b10bdb9" alt="" /></p>Pope Leo XIV begins a four-nation African visit Monday, traveling to the fastest-growing continent for the Catholic Church on his fourth foreign trip.]]></description>
@@ -7025,13 +7032,6 @@ Project Maven is the Pentagon's flagship artificial intelligence program, launch
 Iranian media said a US-Israeli attack hit a petrochemical zone in the southwestern port city of Mahshahr, hitting several companies there.Separately, two buildings in Dubai were hit by debris, including one housing the US cloud computing firm Oracle, authorities in the United Arab Emirates said.]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-080802327.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-080802327.html</guid>
-            <pubDate>Sat, 04 Apr 2026 09:31:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghanistan earthquake kills eight members of same family]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/1dZTof0CAE5_xGID_0R5yQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5d4621f42dc963c4f1eb6c3e5ba702c0.cf.webp" alt="" /></p>The household’s only survivor was a young boy who was injured in the tremor.]]></description>
-            <link>https://www.yahoo.com/news/articles/afghanistan-earthquake-kills-eight-members-072353365.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/afghanistan-earthquake-kills-eight-members-072353365.html</guid>
             <pubDate>Sat, 04 Apr 2026 09:31:02 GMT</pubDate>
         </item>
     </channel>
