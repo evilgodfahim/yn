@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Apr 2026 21:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Apr 2026 22:07:39 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
+        <pubDate>Mon, 13 Apr 2026 22:07:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spanish PM's wife charged with corruption]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sHcJAMUMTbsK0.rA_JQxkw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/307a6823e978a6151efd14047ffabb94.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/spanish-pms-wife-charged-corruption-212859404.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spanish-pms-wife-charged-corruption-212859404.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 22:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia approves plan to cull roaming hippos linked to Pablo Escobar]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pR7Le2V8BAbd9ZI71tzkuA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/bc694f93e124ff8a0b0b77f3c9ba4331.cf.webp" alt="" /></p>They are the descendants of four hippos brought to the country in the 1980s by notorious drug lord Pablo Escobar.]]></description>
+            <link>https://www.yahoo.com/news/articles/colombia-approves-plan-cull-roaming-204359383.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombia-approves-plan-cull-roaming-204359383.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 22:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran secures UN role with backing from UK, France, Canada, Australia as US stands alone]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uB8ZmzUTF.V3vujQhsc5cw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/45de9d8ced55c00d4d8ede3dc812792b.cf.webp" alt="" /></p>Western democracies face backlash for allowing Iran and other authoritarian regimes to secure influential U.N. seats as the U.S. stood alone in opposition.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-secures-un-role-backing-193834172.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-secures-un-role-backing-193834172.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Mon, 13 Apr 2026 22:07:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Exclusive-US, Iran leave door open to dialogue after tense Islamabad talks]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/571B285CD8D8BC0339336493D73E57C16EA2B2161C0E50B2C6936E09B5030C61/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F443ba512b8455c965d90553977164502" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/exclusive-us-iran-leave-door-203419941.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-us-iran-leave-door-203419941.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Kanishka Singh WASHINGTON, April 13 (Reuters) - U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-fires-more-immigration-judges-205112140.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-fires-more-immigration-judges-205112140.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/95CECF31FBC419F6602B99566F408A87AB3DCEBE4FF3AC9720D8B23FB7A95AEB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdc81edccf747468d11a787ac3b5e60f7" alt="" /></p>Brazilian media reports that Alexandre Ramagem fled the country after being convicted for involvement in coup plot.]]></description>
             <link>https://www.yahoo.com/news/articles/brazilian-ex-intelligence-chief-detained-201645050.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazilian-ex-intelligence-chief-detained-201645050.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9C55A6249414338AC9D4A67FDDC4A664757A8380A9313DA563021650BFE77738/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9c8e38639b80239ffa25b5d6670443ba" alt="" /></p>Introduced by Pablo Escobar in the 1980s, the hippos are a tourist attraction but a headache for authorities and locals.]]></description>
             <link>https://www.yahoo.com/news/articles/colombia-cull-hippo-population-founded-200952250.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombia-cull-hippo-population-founded-200952250.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8974455C16A202C517A3922D04BB7F38AC29BF4607DAE17D67FE61BAE5E2F48D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6c2e2cf7e2ab3ec4b6388d3fe6a453bf" alt="" /></p>The U.S. naval blockade on Iran may be leverage to resume diplomacy, says retired Pakistani general, as both sides were reportedly close to a deal.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistani-general-says-iran-diplomacy-184411395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistani-general-says-iran-diplomacy-184411395.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 13 Apr 2026 21:24:47 GMT</pubDate>
         </item>
         <item>
@@ -7021,27 +7040,6 @@ It was the second release after the Japanese government announced last month tha
             <link>https://www.yahoo.com/news/articles/us-iran-mediators-push-45-021606508.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-mediators-push-45-021606508.html</guid>
             <pubDate>Mon, 06 Apr 2026 06:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi oasis town adjusts to life in the firing line]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SEtdE62VKSKdUPnYormvzg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/e35eb89a5a55abfa0872e3fba3f240ca.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/saudi-oasis-town-adjusts-life-032136446.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-oasis-town-adjusts-life-032136446.html</guid>
-            <pubDate>Mon, 06 Apr 2026 04:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan opposition leader to visit China as Beijing ramps up 'reunification' push]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ASt7zyLkbcwM_5lDG6ghig--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d323e8b0c06cd3d7b2ab1d111ebd5f0b.cf.webp" alt="" /></p>TAIPEI, April 6 (Reuters) - Taiwan opposition leader Cheng Li-wun leaves on Tuesday for China and a potential meeting with President Xi Jinping on what she says is a peace mission as Beijing makes a]]></description>
-            <link>https://www.yahoo.com/news/articles/taiwan-opposition-leader-visit-china-031942895.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-opposition-leader-visit-china-031942895.html</guid>
-            <pubDate>Mon, 06 Apr 2026 04:39:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 13 killed in an airstrike that hit building in a city southwest of Iran's capital, Tehran, Iranian media report]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>At least 13 killed in an airstrike that hit building in a city southwest of Iran's capital, Tehran, Iranian media report.]]></description>
-            <link>https://www.yahoo.com/news/articles/least-13-killed-airstrike-hit-021624410.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-13-killed-airstrike-hit-021624410.html</guid>
-            <pubDate>Mon, 06 Apr 2026 04:39:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
