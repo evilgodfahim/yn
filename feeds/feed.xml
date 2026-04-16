@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 23:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 00:04:11 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 23:07:39 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 00:04:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Peru’s ballot count drags on amid frustration with presidential election]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6uFxnuYxU6ve2fXct_TvZA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/5175912f2ca7d03bb9106988b4927012.cf.webp" alt="" /></p>The turbulent election has prompted fraud claims by candidates and frustration with the country’s chaotic politics.]]></description>
+            <link>https://www.yahoo.com/news/articles/peru-ballot-count-drags-amid-230631072.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/peru-ballot-count-drags-amid-230631072.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nine dead, 13 wounded in second Turkish mass shooting in two days]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hb1aKazo2KhpyZ4Rao.jlA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/71a19b6023b619aacdacc2d35843921a.cf.webp" alt="" /></p>A 14-year-old boy allegedly shot and killed nine people at a Turkish middle school, the second school shooting in Turkey in just two days.]]></description>
+            <link>https://www.yahoo.com/news/articles/nine-dead-13-wounded-second-210011769.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nine-dead-13-wounded-second-210011769.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran shifts 20M barrels through ‘dark’ offshore oil network bypassing US port blockade, firm says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MntwomrAJTsUuoADm58mHg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/6258d0c75ac336eee040784858e1c749.cf.webp" alt="" /></p>Iran is moving roughly 20 million barrels of oil through covert offshore networks near Malaysia to bypass the U.S. blockade, Windward AI says.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-shifts-20m-barrels-dark-201204936.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-shifts-20m-barrels-dark-201204936.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 16 Apr 2026 00:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former Brazil spy chief freed in the US after ICE detention, Bolsonaro ally says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5DBF2A619406B26246CE7C43592803F9171C42E632D1CD65D34CE304B188A35/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc82caa5763675cb2cf48970817758046" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/former-brazil-spy-chief-freed-225911135.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/former-brazil-spy-chief-freed-225911135.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 23:07:39 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7769D817D0A78D698F68A9EFEF652760033AB346629CB9013CB1B4223FA79152/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F92f2a2549c8f6e45890dd0f059d5ca2a" alt="" /></p>Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug trafficking.]]></description>
             <link>https://www.yahoo.com/news/articles/brazil-police-open-probe-presidential-214531247.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazil-police-open-probe-presidential-214531247.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 23:07:39 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/235E660010B0FDB19ED7E71436750A05B83DBB68132C66345EB2ECD709743680/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F43a04d16d5047aede8197d090ed313c3" alt="" /></p>The decision comes months after Israel became the first country to recognise the territory, in a widely condemned move.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-appoints-first-ambassador-somaliland-210527116.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-appoints-first-ambassador-somaliland-210527116.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 23:07:39 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4A6DFFC3432B3D06A977828A666EE59C03A8526D9AC0914A15E16027DA24B5D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F7767d94b17c2e21e137faad52082d007" alt="" /></p>By Nolan D.]]></description>
             <link>https://www.yahoo.com/news/articles/white-house-offers-no-hint-194226758.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/white-house-offers-no-hint-194226758.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 15 Apr 2026 23:07:39 GMT</pubDate>
         </item>
         <item>
@@ -7030,27 +7050,6 @@ It is still unclear whether Iran's recent system to allow some ships to cross th
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian state television says oil refinery on Iran's Lavan Island came under attack hours after ceasefire announced.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-state-television-says-oil-100719488.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-state-television-says-oil-100719488.html</guid>
-            <pubDate>Wed, 08 Apr 2026 11:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia says it welcomes Iran ceasefire, hopes US will now resume Ukraine talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/dJoNWLmZNKLUbzi28JR9LQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/9aee3ca776825f50ed14abe038ac8b25.cf.webp" alt="" /></p>MOSCOW, April 8 (Reuters) - The Kremlin on Wednesday welcomed a two-week ceasefire agreed between the United States and Iran, and said Russia hopes that the U.S. will now have the time and scope to]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-says-welcomes-iran-ceasefire-095820811.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-says-welcomes-iran-ceasefire-095820811.html</guid>
-            <pubDate>Wed, 08 Apr 2026 11:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan PM Sharif says Pezeshkian has confirmed Iran's participation in Islamabad talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Kd.iZkDLGDIFu6zY8P2xTA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/852597f42b24ccceccc65522ba4a00a1.cf.webp" alt="" /></p>ISLAMABAD, April 8 (Reuters) - Iranian President Masoud Pezeshkian has confirmed that Iran will participate in negotiations with the U.S. in Islamabad that seek to resolve their conflict, a statement]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-pm-sharif-says-pezeshkian-095546639.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-pm-sharif-says-pezeshkian-095546639.html</guid>
-            <pubDate>Wed, 08 Apr 2026 11:29:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos show boats sitting idle at Mumbai’s historic dock as the Iran war drives up fuel costs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.wtYKjmiOvERbsmCTQjEIw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/9f648b1a1f710c4dfc87ea9c52f4de63.cf.webp" alt="" /></p>Since it was first built in 1875, the Sassoon Dock in India’s financial capital of Mumbai has been many things: a gateway for trade with the Persian Gulf, a bustling hub for traders and laborers, as well as a center for commerce in textiles, spices, and opium.  Shekhar Chogle, who owns a fishing boat and whose skin is tanned a deep, warm brown from years at sea, has been forced to keep his vessel idle since the war began.  Income has fallen, labor costs persist, and rising diesel prices make fishing all but impossible.]]></description>
-            <link>https://www.yahoo.com/news/articles/photos-show-boats-sitting-idle-090646991.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-boats-sitting-idle-090646991.html</guid>
             <pubDate>Wed, 08 Apr 2026 11:29:08 GMT</pubDate>
         </item>
     </channel>
