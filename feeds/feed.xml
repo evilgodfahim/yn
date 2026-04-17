@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 19:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 20:37:42 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pilot says Hawaii tour helicopter vibrated and spun before crash killed 3]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QOvv8cXiidS7zArjsT4iCQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/260a183b7f2a80b5742fdc53511c61ed.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The truce in Lebanon is key to ending the wider Iran war, but challenges remain]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KC80GbQE3AFWRWaMCjINMw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/fc91130191f5b0eb53c2a208f2209b5a.cf.webp" alt="" /></p>A truce took hold Friday between Israel and Lebanon's Hezbollah, providing relief on both sides of the border and an opening for Iran and the United States to reach a deal to end the wider war.  The ceasefire appears to have led Iran to reopen the Strait of Hormuz, easing the global energy crisis.]]></description>
+            <link>https://www.yahoo.com/news/articles/truce-lebanon-key-ending-wider-180757130.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/truce-lebanon-key-ending-wider-180757130.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lebanon president says working on 'permanent agreements' after Israel truce]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18B7E39D05DC9D32A3DABE4EC239A25D2623C05D4E93B2AAC4C36375F136CC53/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffa47f5e41bca0e08f13360d260e1b783" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/lebanon-president-says-working-permanent-190132164.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-president-says-working-permanent-190132164.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
         </item>
         <item>
@@ -28,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Jonathan Stempel NEW YORK, April 17 (Reuters) - The former chief executive and chief financial officer of iLearningEngines, which provided AI-driven business automation technology, were indicted on]]></description>
             <link>https://www.yahoo.com/news/articles/ex-ceo-ex-cfo-bankrupt-192954200.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ex-ceo-ex-cfo-bankrupt-192954200.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
         </item>
         <item>
@@ -36,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B9EDB791F2F0443EFDB7455906D24FC6AEA7A8ABEA4D2568A419FD9FA86E0025/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F132ecf2569e2d361a137273eaded9b9a" alt="" /></p>Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike.]]></description>
             <link>https://www.yahoo.com/news/articles/world-reacts-strait-hormuz-reopening-191036567.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/world-reacts-strait-hormuz-reopening-191036567.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
         </item>
         <item>
@@ -44,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2697CC8543E1ACF78D399949408C539F99C8752848D691726D19C4151AFFD2B3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F34d6fc11c6920f93e2ae66074b208651" alt="" /></p>April 17 (Reuters) - Ukrainian President Volodymyr Zelenskiy called on Friday for joint efforts for an effective mission to ensure freedom of navigation in the Strait of Hormuz and said Kyiv's wartime]]></description>
             <link>https://www.yahoo.com/news/articles/ukraines-zelenskiy-calls-joint-efforts-185920656.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraines-zelenskiy-calls-joint-efforts-185920656.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
         </item>
         <item>
@@ -52,7 +64,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE64FF4768CFA2C92928FB05620CF0D6C9692CFA087A0A7F923998B2493C645/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F39c6c2b469015b37359e57a3e016b40b" alt="" /></p>April 17 (Reuters) - Myanmar has reduced the sentence of imprisoned ex-leader Aung San Suu Kyi, her lawyer told Reuters on Friday, as part of an amnesty by a new president who ousted her government in]]></description>
             <link>https://www.yahoo.com/news/articles/myanmar-cuts-ex-leader-aung-174308822.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/myanmar-cuts-ex-leader-aung-174308822.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 19:53:41 GMT</pubDate>
         </item>
         <item>
@@ -7042,20 +7053,6 @@ Kyiv's forces neutralise hundreds of the Iranian-designed drones launched by Ru
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0924CF2A874EA5E41B2AAB9043286A23E95A4B3ED8DF4AD5A6935CB3ACF62460/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbd702905855163ced070b67694f335d2" alt="" /></p>By Yimou Lee and Ben Blanchard TAIPEI, April 10 (Reuters) - Taiwanese officials are tracking what they view as a worrying rise in Chinese naval activity and military pressure against the island, even]]></description>
             <link>https://www.yahoo.com/news/articles/taiwan-sees-only-warships-warplanes-071516985.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-sees-only-warships-warplanes-071516985.html</guid>
-            <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine faces months of diplomatic and military pressure, Zelenskiy says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/41C6788A62ED412CF5AFD6E4A4E39A0C15790900E4BF290B4F9CC3C31B392C71/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Feb79f7bf5889d11d86f9563e1c1492e1" alt="" /></p>By Olena Harmash KYIV, April 10 (Reuters) - President Volodymyr Zelenskiy said the spring and summer months would be difficult for Ukraine as it would face pressure on the battlefield and also]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-faces-months-diplomatic-military-060211129.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-faces-months-diplomatic-military-060211129.html</guid>
-            <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump’s tenuous Iran exit plan isn't healing Republican rifts exposed by the war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7ED57DA0B2103B7E20BBE581BF87B91B195F963D3ED9F3A97BDD80662C7B058D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdfdd2e0f36bd20f98fbbf24608ed817e" alt="" /></p>President Donald Trump's search for an off-ramp from the war with Iran is getting bumpy inside his Republican Party.  In the decade since Trump's “America First” movement rose to power by rejecting military intervention, his coalition has rarely been tested the way it is now.  Trump's exit efforts — first through threats of annihilation, then with a ceasefire that is proving precarious — are doing little to paper over tensions that have festered since the war began six weeks ago.]]></description>
-            <link>https://www.yahoo.com/news/articles/trump-tenuous-iran-exit-plan-040400466.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-tenuous-iran-exit-plan-040400466.html</guid>
             <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
         </item>
     </channel>
