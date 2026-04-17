@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 20:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 21:35:25 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 21:35:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[South Korea says it is unaware of US protest over minister's remarks on North Korea nuclear site]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Cv3rdY4A4fTflmOvddYLRA--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/74938b737569453ebb37d34a23ce5fde.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/south-korea-says-not-aware-023349031.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korea-says-not-aware-023349031.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Haiti, Dominican Republic to reopen airspace in May]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 17 (Reuters) - Haiti and the Dominican Republic agreed to open the airspace between the two countries starting in May, according to a statement on Friday, after flights had been suspended more]]></description>
+            <link>https://www.yahoo.com/news/articles/haiti-dominican-republic-reopen-airspace-203727595.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/haiti-dominican-republic-reopen-airspace-203727595.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN warns South Sudan at risk of ‘full-scale famine’ as fighting intensifies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/U82mFubPrS.P2BqZBxyuow--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d990817b021fc712b1195c52b0cfc9a5.cf.webp" alt="" /></p>UN aid chief Tom Fletcher says hunger is tightening its grip amid rising humanitarian needs and intensifying fighting.]]></description>
+            <link>https://www.yahoo.com/news/articles/un-warns-south-sudan-risk-195926182.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-warns-south-sudan-risk-195926182.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 17 Apr 2026 21:35:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pilot says Hawaii tour helicopter vibrated and spun before crash killed 3]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QOvv8cXiidS7zArjsT4iCQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ap.org/260a183b7f2a80b5742fdc53511c61ed.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/KC80GbQE3AFWRWaMCjINMw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/fc91130191f5b0eb53c2a208f2209b5a.cf.webp" alt="" /></p>A truce took hold Friday between Israel and Lebanon's Hezbollah, providing relief on both sides of the border and an opening for Iran and the United States to reach a deal to end the wider war.  The ceasefire appears to have led Iran to reopen the Strait of Hormuz, easing the global energy crisis.]]></description>
             <link>https://www.yahoo.com/news/articles/truce-lebanon-key-ending-wider-180757130.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/truce-lebanon-key-ending-wider-180757130.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 17 Apr 2026 20:37:42 GMT</pubDate>
         </item>
         <item>
@@ -7032,27 +7054,6 @@ Kyiv's forces neutralise hundreds of the Iranian-designed drones launched by Ru
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D126E38F0C3E52E2F6B10C1CB0EF348A2D30452F99AA0DBBA523DD2255A5887C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F36ebacfca14bfdec34c1687e8d41382f" alt="" /></p>China’s exports of passenger cars accelerated in March, an industry association said Friday, as Chinese automakers stepped up their push to grow overseas markets.  Passenger car exports jumped 82.4% year-on-year last month to around 748,000 vehicles, according to the China Association of Automobile Manufacturers, up from the 586,000 vehicles exported in February.  Exports of new energy passenger vehicles — including battery electric vehicles and plug-in hybrids — surged more than 140% in March from a year ago to 363,000 units.]]></description>
             <link>https://www.yahoo.com/news/articles/chinas-car-exports-surge-expectations-090217728.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/chinas-car-exports-surge-expectations-090217728.html</guid>
-            <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desperate for fuel, US allies in Asia are turning to its adversaries instead]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4EFB09DA80FD2752325FB4A22E00ABD533D22990D3E7A8126007482EA32CB9B5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F256ac971ded7e636a95abcfd82bec467" alt="" /></p>The US has negotiated a ceasefire to reopen the Strait of Hormuz, but Asian allies are already relying on others for energy security– including Iran, Russia and China.]]></description>
-            <link>https://www.yahoo.com/news/articles/desperate-fuel-us-allies-asia-090055494.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/desperate-fuel-us-allies-asia-090055494.html</guid>
-            <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar's new president sees challenges ahead, eyes ASEAN detente]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3205B52527EA379CB61624F7E6C43D1EE6DE8AC7E72A5A6FB9C686A10C31C426/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F48a69f7c8237b69a77f6c057d2609e9e" alt="" /></p>April 10 (Reuters) - Myanmar's new President Min Aung Hlaing said on Friday his government has many challenges to overcome and seeks to improve the country's international standing, including]]></description>
-            <link>https://www.yahoo.com/news/articles/myanmar-president-says-many-challenges-044635943.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/myanmar-president-says-many-challenges-044635943.html</guid>
-            <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan sees only warships and warplanes as China talks peace with opposition]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0924CF2A874EA5E41B2AAB9043286A23E95A4B3ED8DF4AD5A6935CB3ACF62460/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbd702905855163ced070b67694f335d2" alt="" /></p>By Yimou Lee and Ben Blanchard TAIPEI, April 10 (Reuters) - Taiwanese officials are tracking what they view as a worrying rise in Chinese naval activity and military pressure against the island, even]]></description>
-            <link>https://www.yahoo.com/news/articles/taiwan-sees-only-warships-warplanes-071516985.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-sees-only-warships-warplanes-071516985.html</guid>
             <pubDate>Fri, 10 Apr 2026 10:44:59 GMT</pubDate>
         </item>
     </channel>
