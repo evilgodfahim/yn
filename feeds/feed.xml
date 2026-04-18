@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 21:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 21:58:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 21:27:28 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 21:58:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Life jacket worn by Titanic passenger who survived auctioned for $900,000]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JzGBluxZEHHQnXoEm3koiw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/87d05bc55e4f4f800dd3b36ca770563d.cf.webp" alt="" /></p>The item is believed to be one of only a handful of Titanic life jackets still in existence, the auction house said.]]></description>
+            <link>https://www.yahoo.com/news/articles/life-jacket-worn-titanic-passenger-202525579.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/life-jacket-worn-titanic-passenger-202525579.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 21:58:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brazil, Mexico, Spain pledge to send more aid to Cuba]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PU3r1wpMg.9iv6mGUgwYQg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/24bfd78b852cbf466cab166dd92899ba.cf.webp" alt="" /></p>MADRID, April 18 (Reuters) - The governments of Brazil, Spain and Mexico on Saturday vowed to step up coordinated aid to Cuba to alleviate what they described as a humanitarian crisis caused by the]]></description>
             <link>https://www.yahoo.com/news/articles/brazil-mexico-spain-pledge-send-192402259.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazil-mexico-spain-pledge-send-192402259.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 21:27:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ty3MSa4cHmkE3qBg8VDtmQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/4dcc7461b10cc4837d5b05c02b5057c2.cf.webp" alt="" /></p>Fugitive Janos Balla, 48, was arrested in Quintana Roo as President Claudia Sheinbaum seeks to increase cartel arrests.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-arrests-suspected-hungarian-drug-190504349.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-arrests-suspected-hungarian-drug-190504349.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 21:27:28 GMT</pubDate>
         </item>
         <item>
@@ -7047,13 +7053,6 @@ Lebanon, where Israel has been conducting a campaign triggered by the pro-Irania
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A917BC4F8290162DF62B04A3340B66A3A0B654CF0D88ADA957D425958C7EE425/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F264cc685d8b33f5c6ee7943690f18470" alt="" /></p>Did Sky News report that Hungarian opposition leader Péter Magyar is withdrawing from the election in early April 2026? No, that's not true: The British news channel has not reported that Magyar has dropped out of the race for prime...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-fake-sky-news-032341733.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-sky-news-032341733.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney poised to win Canada majority but affordability pressure looms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2AEEFD3F27CE8C67E327FE1F7C237F4EA078BC1ECA3BDF05E2796036C9DD16DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F088ed43ec226412b76f497bc2c65589e" alt="" /></p>Canadian Prime Minister Mark Carney's Liberal Party is poised to secure a majority in parliament in by-elections Monday, but a year into his tenure, hints of vulnerability may be emerging.Carney's Liberals won elections last April but fell just short of a majority.]]></description>
-            <link>https://www.yahoo.com/news/articles/carney-poised-win-canada-majority-014212253.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/carney-poised-win-canada-majority-014212253.html</guid>
             <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
         </item>
     </channel>
