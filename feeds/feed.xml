@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 21:58:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 22:34:40 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 21:58:10 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 22:34:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel says established a ‘yellow line’ in Lebanon, as it has in Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/gZsodi7B1GnGRb0aiaMNGA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/a6e9247f24d79f6d1a52e5e9da55cbed.cf.webp" alt="" /></p>It is the first time Israel has referred to such a ‘yellow line’ in Lebanon, after using a similar measure in Gaza.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-says-established-yellow-line-210333007.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-says-established-yellow-line-210333007.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 22:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life jacket worn by Titanic passenger who survived auctioned for $900,000]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JzGBluxZEHHQnXoEm3koiw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/87d05bc55e4f4f800dd3b36ca770563d.cf.webp" alt="" /></p>The item is believed to be one of only a handful of Titanic life jackets still in existence, the auction house said.]]></description>
             <link>https://www.yahoo.com/news/articles/life-jacket-worn-titanic-passenger-202525579.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/life-jacket-worn-titanic-passenger-202525579.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 21:58:10 GMT</pubDate>
         </item>
         <item>
@@ -7046,13 +7053,6 @@ Lebanon, where Israel has been conducting a campaign triggered by the pro-Irania
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000013.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000013.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: FAKE Sky News Report Falsely Claims Hungarian Opposition Leader Péter Magyar Is Withdrawing From Election]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A917BC4F8290162DF62B04A3340B66A3A0B654CF0D88ADA957D425958C7EE425/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F264cc685d8b33f5c6ee7943690f18470" alt="" /></p>Did Sky News report that Hungarian opposition leader Péter Magyar is withdrawing from the election in early April 2026? No, that's not true: The British news channel has not reported that Magyar has dropped out of the race for prime...]]></description>
-            <link>https://www.yahoo.com/news/articles/fact-check-fake-sky-news-032341733.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-sky-news-032341733.html</guid>
             <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
         </item>
     </channel>
