@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 14:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 15:31:41 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 15:31:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Make Russia Medieval Again! How Putin is seeking to remold society, with a little help from Ivan the Terrible]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/cQHcSjO91oAMHtPWz.UWAQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/the_conversation_us_articles_815/b197c8b24da425b94efc85156a45caf4.cf.webp" alt="" /></p>A new textbook soon to be taught in Russian schools leans on the works of a 16th-century monk. It fits a pattern of ‘political neomedievalism’ by the Kremlin.]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-medieval-again-putin-seeking-140105023.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-medieval-again-putin-seeking-140105023.html</guid>
+            <dc:creator><![CDATA[The Conversation]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 15:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran closes Strait of Hormuz a second time hours after opening]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/b365TwItRyKLIyBNpaFIIw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/d73688addc68f864349cf73553d23000.cf.webp" alt="" /></p>This comes after President Donald Trump said the U.S. naval blockade "will remain in full force" until a deal is made.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-closes-strait-hormuz-second-122954312.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-closes-strait-hormuz-second-122954312.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sat, 18 Apr 2026 15:31:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Going nuclear? Why a growing number of Washington’s allies are eyeing an alternative to US umbrella]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F2D06A494AE9303A9710214C706F96CC90B2A8097C77228510921E5B61B45BA/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_conversation_us_articles_815%2Fdeb5eaa5ab62979a73965ddba7ab7511" alt="" /></p>Source: The Conversation]]></description>
             <link>https://www.yahoo.com/news/articles/going-nuclear-why-growing-number-140507343.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/going-nuclear-why-growing-number-140507343.html</guid>
-            <dc:creator><![CDATA[The Conversation]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 18 (Reuters) - U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-sanctions-nicaragua-vice-minister-142440448.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-sanctions-nicaragua-vice-minister-142440448.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Saurabh Sharma MUMBAI, April 18 (Reuters) - An Indian-flagged vessel carrying crude oil was on Saturday attacked while attempting to cross the Strait of Hormuz, according to an Indian government]]></description>
             <link>https://www.yahoo.com/news/articles/indian-ship-attacked-while-crossing-135843693.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indian-ship-attacked-while-crossing-135843693.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E6E73D06FC4B3F950C7512F463ED80EF8D701CA4C01815F4235E64F26D98C7FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fdeee419999f661bc95e71ff5d7e82248" alt="" /></p>Ukraine attacked two Russian refineries and other key oil targets overnight into Saturday, officials said, just hours after the United States granted Moscow another waiver on the sale of its sanctioned oil.]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-strikes-russian-oil-refineries-133933917.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-strikes-russian-oil-refineries-133933917.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C93403E23CCDC8BE26FD9D38FE8048F34AAC87DD3B4027F3A2128E563A32ABC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc14a48627eee3a4374b62f5285f1fbfa" alt="" /></p>A handful of oil and gas tankers crossed the Hormuz Strait Saturday during a brief reopening, tracking data showed, but others retreated and two were reportedly attacked as Iran closed the route again.During the reopening, at least eight oil and gas tankers crossed the strait early Saturday after the Iranian announcement on Friday afternoon, data from tracking firm Kpler indicated.]]></description>
             <link>https://www.yahoo.com/news/articles/trade-ships-hit-hormuz-iran-132709627.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trade-ships-hit-hormuz-iran-132709627.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
         </item>
         <item>
@@ -7044,20 +7055,6 @@ Lebanon, where Israel has been conducting a campaign triggered by the pro-Irania
             <link>https://www.yahoo.com/news/articles/faa-pentagon-sign-agreement-deploying-201304947.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/faa-pentagon-sign-agreement-deploying-201304947.html</guid>
             <pubDate>Fri, 10 Apr 2026 22:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer-Why are people talking about the 25th Amendment to the US Constitution?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/N7sQlw.eyIEzbvh6SVxeYw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/29e1bc4fb36cc4648cde2fde1d35d8d8.cf.webp" alt="" /></p>By Patricia Zengerle WASHINGTON, April 10 (Reuters) - President Donald Trump's profanity-laced threats to wipe out Iran's civilization have led some Democrats to discuss attempting to remove him from]]></description>
-            <link>https://www.yahoo.com/news/articles/explainer-why-people-talking-25th-211501833.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-why-people-talking-25th-211501833.html</guid>
-            <pubDate>Fri, 10 Apr 2026 22:44:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos from Tehran as a fragile ceasefire is marked by mourning and a quiet weekend]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XOG19shO23F1yM5dItc5bw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/325179b7b30f39dc07b8e941fb65e222.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/photos-tehran-fragile-ceasefire-marked-212418138.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-tehran-fragile-ceasefire-marked-212418138.html</guid>
-            <pubDate>Fri, 10 Apr 2026 22:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
