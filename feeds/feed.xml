@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 19:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 19:58:08 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 19:58:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Pope Leo XIV draws 100,000 to Angola Mass, condemns corruption]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VsNL9JCU0uZ4aiDHOL4wGw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/bf0a331853f00b9d318c6d70014b497a.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leo-xiv-draws-100-191259664.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-xiv-draws-100-191259664.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 19:58:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bulgaria's pro-Russian former president takes strong lead in election, exit polls show]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A71123E2C7E14F9A0CCA7A199DEEEF5BB000FD1BADCBB1758D8536836DED721E/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff866b9f7a3d9e90beec00a682721b384" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/bulgaria-votes-pro-russian-former-010824655.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bulgaria-votes-pro-russian-former-010824655.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/795EABE21EA68FFA77444353B3158E544E6DB48F152C172A3490FD99D5FF22F3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe859d18ce897dc6d84da903127a10de4" alt="" /></p>April 19 (Reuters) - Pakistan's Prime Minister Shehbaz Sharif said on Sunday that he spoke with Iran's President Masoud Pezeshkian about the conflict in the Gulf.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
         </item>
         <item>
@@ -7050,13 +7056,6 @@ On the eve of the vote, frontrunner Keiko Fujimori told AFP that she would "rest
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5155B1962DD582F5F1C1887CA52AD21201B7993D853A38A522A8838BD87E7268/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb9bd9587e595fa89385f402738e6a824" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-issues-latest-rebuke-185130185.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-issues-latest-rebuke-185130185.html</guid>
-            <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli settlers kill Palestinian during raid on occupied West Bank village]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18B092E25067931C2D175B60D383500BD6B995B55ED06B375B5FC3883B947EA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1aa11ed08b8b96f538f6d4ef9e6ebda1" alt="" /></p>The raid comes just days after Israel approved 34 new illegal settlements in the West Bank.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-settlers-kill-palestinian-during-184748279.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-settlers-kill-palestinian-during-184748279.html</guid>
             <pubDate>Sat, 11 Apr 2026 19:30:18 GMT</pubDate>
         </item>
     </channel>
