@@ -4,16 +4,37 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 21:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 22:39:54 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 21:59:14 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil prices rise anew as a standoff between Iran and the U.S. keeps tankers from using the Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/oil-prices-rise-anew-standoff-222332147.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/oil-prices-rise-anew-standoff-222332147.html</guid>
+            <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran vows a swift response to the U.S. seizure of an Iranian-flagged vessel, Iran's state-run media say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-vows-swift-response-u-220610200.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-vows-swift-response-u-220610200.html</guid>
+            <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US, Mexican officials assigned to cartel case killed in car accident]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MEXICO CITY, April 19 (Reuters) - Two U.S. officials and two Mexican officials assigned to combat cartel operations died in a car accident in the northern Mexican state of Chihuahua on Sunday, a U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/two-us-officials-supporting-local-205855477.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-us-officials-supporting-local-205855477.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Korean leader Kim Jong Un oversaw ballistic missile tests, state media says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ykobWGtgdY3B.pbqkkKFqQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/03a44c4b41fb486e3c1646ea3d1a6c89.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/north-korean-leader-kim-jong-213948904.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korean-leader-kim-jong-213948904.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 21:59:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/BOlvkvzlM1WId5bTLUbojw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/26a2e80d8556ac0287f1b1e2f12c8802.cf.webp" alt="" /></p>Police probe suspected Iranian proxy group allegedly behind a wave of arson attacks targeting Jewish sites in London, raising alarm across Europe.]]></description>
             <link>https://www.yahoo.com/news/articles/uk-chief-rabbi-says-jews-180319405.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-chief-rabbi-says-jews-180319405.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 21:59:14 GMT</pubDate>
         </item>
         <item>
@@ -7037,27 +7057,6 @@ On the eve of the vote, frontrunner Keiko Fujimori told AFP that she would "rest
             <link>https://www.yahoo.com/news/articles/palestinian-killed-west-bank-violence-195905629.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-killed-west-bank-violence-195905629.html</guid>
             <pubDate>Sat, 11 Apr 2026 20:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US says two naval ships ‘transited’ Strait of Hormuz for mine-clearing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/948Xj.aICSEi6t.WA62urw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/36de0ef7977161cca45158830ced1a08.cf.webp" alt="" /></p>Negotiations are ongoing between US-Iranian delegations in Islamabad, with control of the strait a key sticking point.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-says-two-naval-ships-193803965.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-says-two-naval-ships-193803965.html</guid>
-            <pubDate>Sat, 11 Apr 2026 20:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/W7KS.ek6wMtinWbYp4zFBA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/cef729c5a75c5543f43f1c90e3934ec5.cf.webp" alt="" /></p>Deployment under mutual defence pact comes as Islamabad hosts US-Iran ceasefire talks.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-sends-fighter-jets-saudi-193554870.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-sends-fighter-jets-saudi-193554870.html</guid>
-            <pubDate>Sat, 11 Apr 2026 20:32:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: NO Hungarian Poll Would Have Orbán At 68% And Magyar At 35% Of The Vote -- Official Polls Would Add Up To 100%]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/TOEtMucxdwMgPgzYxb4Xqw--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/lead_stories_560/c63b5ea741bf040491d1c293cd86c509.cf.webp" alt="" /></p>Source: Lead Stories]]></description>
-            <link>https://www.yahoo.com/news/articles/fact-check-no-hungarian-poll-192946696.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-no-hungarian-poll-192946696.html</guid>
-            <pubDate>Sat, 11 Apr 2026 19:57:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
