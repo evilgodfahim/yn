@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 23:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 00:00:50 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 23:27:49 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 00:00:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DRC government, rebels agree to ease travel for aid convoys, refrain from civilian attacks, US says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 18 (Reuters) - The representatives of the government of the Democratic Republic of Congo and the rebel coalition Alliance Fleuve Congo made progress on a protocol on humanitarian access and]]></description>
+            <link>https://www.yahoo.com/news/articles/drc-government-rebels-agree-ease-213201380.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/drc-government-rebels-agree-ease-213201380.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 00:00:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How 24 hours of whiplash over the Strait of Hormuz unfolded]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/.57Ug9BsG685esRL_AEjOQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/8d4b54b76220d23c334fbd1a3b886f00.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/24-hours-whiplash-over-strait-215601723.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/24-hours-whiplash-over-strait-215601723.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 23:27:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6CCSyhBcG5XD_HD1WEbNVQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/1337dad626ed2c6d25b021cceee7636e.cf.webp" alt="" /></p>The three countries pledge more aid to Cuba and say Cubans must decide their own future amid a US pressure campaign.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-spain-brazil-call-cuba-210550275.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-spain-brazil-call-cuba-210550275.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 18 Apr 2026 23:27:49 GMT</pubDate>
         </item>
         <item>
@@ -7047,13 +7053,6 @@ Lebanon, where Israel has been conducting a campaign triggered by the pro-Irania
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16C820E5968F5C4E9B8BA9890A1B19724C4A4ACFAFC5F58E2F2B1449523004C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1e3756b110b2e4932bbf38878d129d7" alt="" /></p>TAIPEI, April 11 (Reuters) - Taiwan's defence ministry said on Saturday that it spotted 16 Chinese warplanes operating near the island the previous day, around the same time China's president was]]></description>
             <link>https://www.yahoo.com/news/articles/taiwan-spotted-chinese-warplanes-xi-043226364.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-spotted-chinese-warplanes-xi-043226364.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Zealand braces for Cyclone Vaianu, North Island evacuations ordered]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>(Corrects reference to Cyclone Gabrielle in paragraph 7) April 11 () - Thousands of New Zealanders were ordered ‌to evacuate their homes on Saturday as the ‌country's North Island braced for Cyclone Vaianu, which authorities warned could cause ​coastal flooding and landslides. Vaianu, forecast to bring heavy rain and winds of up to 130 kmh (80 mph), was expected to hit on Sunday, then pass west of the ‌remote Chatham Islands on ⁠Monday, the country's weather forecaster said.]]></description>
-            <link>https://www.yahoo.com/news/articles/zealand-braces-cyclone-vaianu-north-015428651.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zealand-braces-cyclone-vaianu-north-015428651.html</guid>
             <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
         </item>
     </channel>
