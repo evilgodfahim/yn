@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 00:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 03:53:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 00:00:50 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[New Zealand's capital Wellington begins clean-up after flash floods]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>SYDNEY, April 19 (Reuters) - A clean-up began in New Zealand's capital Wellington after flash flooding, sparked by heavy rain, hit the nation's North Island, authorities said on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/articles/zealands-capital-wellington-begins-clean-005910353.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zealands-capital-wellington-begins-clean-005910353.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea launches ballistic missiles toward sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/T0WtJ88NzGOftk1w6aEr1Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a306b095dd18dc9e19398c60f84371a8.cf.webp" alt="" /></p>North Korea launched multiple ballistic missiles toward the sea on Sunday, its neighbors said, days after the U.N.’s nuclear watchdog warned that North Korea was making “very serious” advances in efforts to build nuclear weapons.]]></description>
+            <link>https://www.yahoo.com/news/articles/south-korea-says-north-korea-000037189.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korea-says-north-korea-000037189.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Korea says North Korea has launched multiple ballistic missiles toward the North’s eastern waters]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>South Korea says North Korea has launched multiple ballistic missiles toward the North's eastern waters.]]></description>
+            <link>https://www.yahoo.com/news/articles/south-korea-says-north-korea-235716450.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korea-says-north-korea-235716450.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trinidad and Tobago police uncover 56 bodies, mostly children, at cemetery]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xnNg5NXxS0snGqidkVI3Zg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/714cc41bc950d9d817687e247eac575f.cf.webp" alt="" /></p>Police suspect the grim discovery in the city of Cumuto may be a case of ‘unlawful disposal of unclaimed corpses’.]]></description>
+            <link>https://www.yahoo.com/news/articles/trinidad-tobago-police-uncover-56-233028627.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trinidad-tobago-police-uncover-56-233028627.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moscow-born gunman dead after Kyiv shooting rampage leaves at least 6 dead, 14 wounded: Zelenskyy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/vfQWoAG1cDPXQjK7X_8vkg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/2672024c13b97de52dfb58472d0a004a.cf.webp" alt="" /></p>Kyiv supermarket shooting leaves at least 6 dead, several wounded after a Russian gunman took hostages and opened fire, according to Ukrainian officials.]]></description>
+            <link>https://www.yahoo.com/news/articles/moscow-born-gunman-dead-kyiv-212613872.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/moscow-born-gunman-dead-kyiv-212613872.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 19 Apr 2026 03:53:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DRC government, rebels agree to ease travel for aid convoys, refrain from civilian attacks, US says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 18 (Reuters) - The representatives of the government of the Democratic Republic of Congo and the rebel coalition Alliance Fleuve Congo made progress on a protocol on humanitarian access and]]></description>
             <link>https://www.yahoo.com/news/articles/drc-government-rebels-agree-ease-213201380.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/drc-government-rebels-agree-ease-213201380.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 19 Apr 2026 00:00:50 GMT</pubDate>
         </item>
         <item>
@@ -7019,41 +7058,6 @@ Lebanon, where Israel has been conducting a campaign triggered by the pro-Irania
             <link>https://www.yahoo.com/news/articles/russia-ukraine-set-begin-easter-035226088.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-ukraine-set-begin-easter-035226088.html</guid>
             <pubDate>Sat, 11 Apr 2026 06:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war: What is happening on day 43 of the US-Iran conflict?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F49841B8C56689F0A8664D492BC562906C06C3B788C0E2DA8C0A0151BD96190/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3f9d0941a6df568edf7fc78e5df72696" alt="" /></p>Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-war-happening-day-43-044917734.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-happening-day-43-044917734.html</guid>
-            <pubDate>Sat, 11 Apr 2026 06:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A $1.5 million roundabout from nowhere to nowhere shows the ‘Orbánist economy’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/865706BF09085743BA1356FC2CC74FF26A2677776B546BC173A5FB3FC1604063/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4aa48c37eae1cc60469ee89633f3898b" alt="" /></p>Ahead of a pivotal parliamentary election Sunday, opponents ask what Hungary has to show for vast sums of European Union funding brought in under Prime Minister Viktor Orbán.]]></description>
-            <link>https://www.yahoo.com/news/articles/1-5-million-roundabout-nowhere-040155390.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/1-5-million-roundabout-nowhere-040155390.html</guid>
-            <pubDate>Sat, 11 Apr 2026 06:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US intelligence indicates China preparing weapons shipment to Iran, CNN reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/909890E61AC45EE712530A08794EC1D3EE08EFBDBE6429FEEC363BC0074E126D/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1462c1519c2bd418c11be1b72a406ea6" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-intelligence-indicates-china-preparing-043215569.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-intelligence-indicates-china-preparing-043215569.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unsettled and uncertain: What the Iran war means around the world as US and Iran enter talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C9C61BDE78CCF20E2D6E9B0D2DBD50D2FEE8E5A0DE4A7BED7EAD5E43ACEC2FE/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc0c9037df9f5f5a3be35a83db3dccc60" alt="" /></p>]]></description>
-            <link>https://www.yahoo.com/news/articles/unsettled-uncertain-iran-war-means-040519361.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/unsettled-uncertain-iran-war-means-040519361.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan spotted Chinese warplanes as Xi met opposition leader in Beijing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16C820E5968F5C4E9B8BA9890A1B19724C4A4ACFAFC5F58E2F2B1449523004C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1e3756b110b2e4932bbf38878d129d7" alt="" /></p>TAIPEI, April 11 (Reuters) - Taiwan's defence ministry said on Saturday that it spotted 16 Chinese warplanes operating near the island the previous day, around the same time China's president was]]></description>
-            <link>https://www.yahoo.com/news/articles/taiwan-spotted-chinese-warplanes-xi-043226364.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-spotted-chinese-warplanes-xi-043226364.html</guid>
-            <pubDate>Sat, 11 Apr 2026 04:49:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
