@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 22:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 23:04:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 23:04:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US tells Afghans to choose Taliban home or DR Congo: activist]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/089pdVe.Mo595_sAGkS33g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/02c8b30df33318c6b30d8b4f17c56c48.cf.webp" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/us-tells-afghans-choose-taliban-220111524.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-tells-afghans-choose-taliban-220111524.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 23:04:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel unveils game-changing artillery against Iran-backed Hezbollah amid fragile ceasefire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/rkOsYZcehPIaZ9tw.9vblA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f.cf.webp" alt="" /></p>Israel deploys its new self-propelled Ro'em howitzer against Hezbollah targets as ceasefire talks between Israel and Lebanon slated to continue in Washington later this week.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-unveils-game-changing-artillery-200628100.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-unveils-game-changing-artillery-200628100.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Tue, 21 Apr 2026 23:04:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russian official says Russians in Moldova's Transdniestria under threat]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE19FDBC39045FCA00524C156DB798808DC4ABC29B586F0BB77CE519C194EAE4/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F27e9e03cfa18ec3fa4f4d59d4f406368" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/russian-official-says-russians-moldovas-211301538.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-official-says-russians-moldovas-211301538.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON, April 21 (Reuters) - President Donald Trump's administration has brought criminal charges against the Southern Poverty Law Center, a civil rights organization that tracks extremist groups,]]></description>
             <link>https://www.yahoo.com/news/articles/us-criminally-charges-southern-poverty-213536462.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-criminally-charges-southern-poverty-213536462.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBB0745D09A4FD3A6E8856DE7E8BE4055DF92C932F62FC55452127AF17987B58/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F04188056e3cf602ceaa2e4f957a3b99b" alt="" /></p>April 22 (Reuters) - Pakistan's Prime Minister Shehbaz Sharif on Wednesday thanked U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/pakistan-pm-welcomes-us-iran-212644907.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-pm-welcomes-us-iran-212644907.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0B7730A6AAD87D1C11A5A97111A2B8057CE74D577D991E42B731BFDCE002C6DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb18daa79ed617de0de256a1f92da87a1" alt="" /></p>The war in the Middle East has boosted demand to move vital cargo through the Panama Canal to such an extent that one vessel carrying liquefied natural gas (LNG) paid $4 million to skip the line and avoid a wait that can take up to five days, according to an official report.The most recent auction included a $4 million bid for an LNG vessel, and in recent weeks two oil tankers exceeded bids of $3 million, the authority said.]]></description>
             <link>https://www.yahoo.com/news/articles/strait-hormuz-blockade-drives-costs-210200128.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/strait-hormuz-blockade-drives-costs-210200128.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Islamabad is a city on hold, gripped by the limelight of its own success, host to something potentially historic — and yet at the same locked in by road closures.]]></description>
             <link>https://www.yahoo.com/news/articles/islamabad-hold-us-iran-historic-205850783.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/islamabad-hold-us-iran-historic-205850783.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +64,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6987345E195DD9E3BD6EFE99D195346DD44984A3A793FEB6A6D3F337CCF4D01E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8d550a59ea481d3b7a4c4f902e0d2898" alt="" /></p>Legal aid group says the rate of requests shows pro-Palestine advocacy persists despite Trump administration’s tactics.]]></description>
             <link>https://www.yahoo.com/news/articles/pro-palestine-legal-aid-requests-204847170.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pro-palestine-legal-aid-requests-204847170.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +71,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92CC8165E60BBB2472572797ACC0CB7A16C83A413D52942FA6F38D771C10982E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F00608b55254ded6cda9a536910e9006f" alt="" /></p>The Trump administration targets 14 individuals and entities over alleged links to Iran’s arms industry.]]></description>
             <link>https://www.yahoo.com/news/articles/us-issues-more-iran-sanctions-204221259.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-issues-more-iran-sanctions-204221259.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +78,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A15454C2704746FDAA2736CF3CD207CEBB87B79699E49CEED3DC0CE508F25DC6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F86522985876b6208ece339be02f1b564" alt="" /></p>The blockade of the Strait of Hormuz is causing concern in Europe, which relies heavily on imported jet fuel.]]></description>
             <link>https://www.yahoo.com/news/articles/eu-eyes-options-iran-conflict-203313716.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-eyes-options-iran-conflict-203313716.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +85,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7951FB98D745A419842E24CEC6AF7866FFD065B7CF1CE0963834AF9F4DCBC1B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd8b35d130046916050d47b765a4eaf1e" alt="" /></p>April 22 (Reuters) - The Japanese government is in talks to invite Philippine President Ferdinand Marcos Jr. to Japan as a state guest as early as next month, Nikkei Asia reported on Wednesday.]]></description>
             <link>https://www.yahoo.com/news/articles/japan-considers-inviting-philippines-president-202727552.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-considers-inviting-philippines-president-202727552.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +92,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01DE61F20008F1BAEFDB24579547B1AB4921852E2485A5A03D263422C7CEED97/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F61dbe7aedf7c212ce457e9190eb11920" alt="" /></p>The death of two U.S. intelligence officials has exposed the expanding, often secret reach of American operations south of the border.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-president-calls-investigation-cia-201718018.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-president-calls-investigation-cia-201718018.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -100,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F7168C01A52FAD0E9BA01C36F5D5DC29A8888C2E139D8B9781C557B95D5331A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F78ac3d68a098c9071a6dbad6169fc58b" alt="" /></p>Video shows the Teotihuacan pyramids gunman reportedly bragging about sacrificing victims before killing a Canadian tourist and wounding others.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-temple-gunman-ranted-pyramids-193431004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-temple-gunman-ranted-pyramids-193431004.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 21 Apr 2026 22:05:23 GMT</pubDate>
         </item>
         <item>
@@ -7045,20 +7050,6 @@ Musk, who regularly visits Russia and attended an April 12 Orthodox Easter mass 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD5976095C1923A8FC1968C92CA6DCC48A6878EBC0F199F0AFBEBC0D7FC42861/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fcddc8353f8cfb06280db7682df86ff94" alt="" /></p>Ukraine captured a Russian position using only unmanned robots and drones, Zelenskyy says, calling it a first in the history of the war with Russia.]]></description>
             <link>https://www.yahoo.com/news/articles/zelenskyy-announces-future-wars-first-144914590.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskyy-announces-future-wars-first-144914590.html</guid>
-            <pubDate>Tue, 14 Apr 2026 17:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China slams US military blockade of Strait of Hormuz as a 'dangerous and irresponsible move']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9832DA96C662B7C60A94905F330FB0C0F174B994635CC572F7B8379B5F80CA73/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F3d3b5299a0182c258ddbf317747524cc" alt="" /></p>China slammed the U.S. military blockade of the Strait of Hormuz as a "dangerous and irresponsible" move, urging all parties to honor a ceasefire agreement.]]></description>
-            <link>https://www.yahoo.com/news/articles/china-slams-us-military-blockade-143815725.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-slams-us-military-blockade-143815725.html</guid>
-            <pubDate>Tue, 14 Apr 2026 17:40:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunman opens fire at high school in Turkey, wounding at least 16]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C521EF11C85B341A1D1020CFDEAC0E80F0C6CA0AF95FF9C510DD61FED26C6FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F0c1b92b240db08359b6eed29616617a7" alt="" /></p>At least 16 people were hurt after a former student opened fire inside a high school in Siverek, Turkey, before killing himself, officials said.]]></description>
-            <link>https://www.yahoo.com/news/articles/gunman-opens-fire-high-school-143701461.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunman-opens-fire-high-school-143701461.html</guid>
             <pubDate>Tue, 14 Apr 2026 17:40:57 GMT</pubDate>
         </item>
     </channel>
