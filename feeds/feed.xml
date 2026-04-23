@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 22:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 23:38:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 23:38:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Guatemala court orders re-do of candidate list for attorney general]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/20bi3crMpnNm3sLloi072g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/0bb608b607e01818142d21c0de0c4c71.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/guatemala-court-orders-list-attorney-222937544.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/guatemala-court-orders-list-attorney-222937544.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 23 Apr 2026 23:38:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US soldier charged with winning $400,000 on Maduro removal bets]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0BCC7E84141EF1003F3892C8A7183E0E4A15A6504B7F00EC698E455D8BD609C/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F842d1312e081719f7309eb1f1c1540be" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-arrests-soldier-accused-betting-213104228.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-arrests-soldier-accused-betting-213104228.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C37C7309F1E181CF2F3D78D1B3971D1122160D36ECEB4E78A29924821E5720AA/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F0323c2c125dbfdee5a5fa614dc643826" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/police-israel-detain-jewish-man-210116387.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/police-israel-detain-jewish-man-210116387.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 24 (Reuters) - Russian diplomats early on Friday denounced the latest European Union sanctions imposed on Moscow in connection with its invasion of Ukraine, saying the new measures lacked U.N.]]></description>
             <link>https://www.yahoo.com/news/articles/russian-diplomats-denounce-eu-sanctions-222215129.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-diplomats-denounce-eu-sanctions-222215129.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F1605E67DEA177FAF23D1C0DB9BC8195328AA3321B648E9603C73AE841786FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F18aeb8d348253c5e776935b0f4e203dd" alt="" /></p>A U.S. soldier has been charged with using inside information to win $400,000 in an online betting market on Venezuelan President Nicolas Maduro’s capture, federal officials announced Thursday.  Gannon Ken Van Dyk was part of the operation to capture Maduro in January and used his access to classified information to make money on the prediction market site Polymarket, the federal prosecutor’s office in New York said.]]></description>
             <link>https://www.yahoo.com/news/articles/federal-officials-charge-us-soldier-221221083.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/federal-officials-charge-us-soldier-221221083.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MEXICO CITY, April 23 (Reuters) - Mexican authorities said on Thursday that Fernando Farias, a navy officer and alleged fuel trafficker, has been arrested in Argentina and faces extradition.]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-says-fuel-trafficking-suspect-215411310.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-says-fuel-trafficking-suspect-215411310.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0774768B5A9A356DDCF0594CAFF652D33C980419ED012D606C4BBA1258CCA6AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc526dbd1fc3a57c1d96ba2122219d183" alt="" /></p>Press advocates have warned of hostile rhetoric towards journalists and increasingly restrictive policies under Milei.]]></description>
             <link>https://www.yahoo.com/news/articles/milei-administration-argentina-blocks-journalist-215816535.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/milei-administration-argentina-blocks-journalist-215816535.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1EB46EF57D813F4D320B2CA08DB2DAB0904BE2F3BBB31D250AC89FC45355E2C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd08159b60af4aa4208afb2ce8d2626bb" alt="" /></p>An invitation to the December G20 summit in the United States will be sent to Russia as a member of the organization, a senior US official said Thursday."All G20 members will be invited to attend ministerial meetings and the leaders' summit," a senior Trump administration official said in a statement.]]></description>
             <link>https://www.yahoo.com/news/articles/g20-summit-invites-russia-us-214633482.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/g20-summit-invites-russia-us-214633482.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DE77E52E5677018B38B0D553598D10FCFBC75024215E66D25DB2D5C7E771A55/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbb8fd79ec430ec63ceded6a439e48a45" alt="" /></p>By Ana Isabel Martinez and Raul Cortes MEXICO CITY, April 23 (Reuters) - Mexican President Claudia Sheinbaum said on Thursday the government has opened an investigation into Economy Minister Marcelo]]></description>
             <link>https://www.yahoo.com/news/articles/mexico-opens-probe-economy-minister-213251865.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-opens-probe-economy-minister-213251865.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +77,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8DDE84B44BD57D710813B4A3C4FAD87461548794BE72F8C494038EFC38A5EF47/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4e7c23bb2ac09808987e64c74ef79878" alt="" /></p>By Jasper Ward WASHINGTON, April 23 (Reuters) - Advocacy groups issued a travel advisory on Thursday, warning that visitors traveling to the U.S. for the 2026 World Cup may face arbitrary detention or]]></description>
             <link>https://www.yahoo.com/news/articles/human-rights-groups-issue-us-212313449.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/human-rights-groups-issue-us-212313449.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 23 Apr 2026 22:37:03 GMT</pubDate>
         </item>
         <item>
@@ -7041,13 +7040,6 @@ Iran's foreign ministry welcomed the Israel-Lebanon truce, calling it part of th
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/V8XgAwpFvczSrrMT4rsaqg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/78e8d031c39d8fdfdaae44e69b529f23.cf.webp" alt="" /></p>Death toll rises to 10 after shooting by 14-year-old student at the Ayser Calik School in Kahramanmaras.]]></description>
             <link>https://www.yahoo.com/news/articles/endless-grief-turkiye-mourns-victims-175547999.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/endless-grief-turkiye-mourns-victims-175547999.html</guid>
-            <pubDate>Thu, 16 Apr 2026 20:40:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Whose is he?’: A Gaza father’s fight for a child who might not be his]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0ZIbTsRTdF_6rZ7FAKFQGg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d43a521b75b4ff6600a279bf4d6b8d31.cf.webp" alt="" /></p>Mohammed Lubbad’s wife Amal was pregnant when she died in Israeli air strikes. Then he was told she had given birth.]]></description>
-            <link>https://www.yahoo.com/news/articles/whose-gaza-father-fight-child-175101606.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/whose-gaza-father-fight-child-175101606.html</guid>
             <pubDate>Thu, 16 Apr 2026 20:40:50 GMT</pubDate>
         </item>
     </channel>
