@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 11:59:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 13:10:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 11:59:10 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 13:10:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US says it's hunting for explosive mines in latest push to open the Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF0C82A9201108BF27DEA26F1EA0E0DF2F9DA5A5524C135762710248DB84510E/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F509b673d7c0d3c9c4834a0e3c0930681" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/us-says-hunting-explosive-mines-121353126.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-says-hunting-explosive-mines-121353126.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali junta battles 'terrorist groups' amid intense fighting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D12C19766FA755D6D33C05226C7C5CBC3F0D4DEE91389995F49C3EEA0F90753/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd4ecd30dc0538f5a94f83f324727d237" alt="" /></p>The army in junta-ruled Mali on Saturday battled what it called "terrorist groups" that launched surprise attacks around the capital Bamako and other parts of the west African nation.A Malian army statement said: "Terrorist groups, not yet identified, early this morning targeted certain points and barracks in the capital and the interior" of the country.]]></description>
+            <link>https://www.yahoo.com/news/articles/gunfire-mali-army-battles-terrorist-103448864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunfire-mali-army-battles-terrorist-103448864.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran resumes commercial flights from Tehran airport]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39740BAB00D09659D5DCAF5F311855B9B60132D095F74263826A50F26A406BD7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffd500255ea9e892e928d797347b293e5" alt="" /></p>Commercial flights begin for the first time since the conflict with the US and Israel began about two months ago.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-resumes-commercial-flights-tehran-115853159.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-resumes-commercial-flights-tehran-115853159.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:10:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian strikes kill six across Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68C84FAB7BC86670627A6326EF4EB6B83048D072F236F93A12008913875DA8EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa06ff4383a7cda626fbd16725d0df309" alt="" /></p>Russian strikes across Ukraine killed at least six people, officials said Saturday, most of them in an attack on a residential building in the eastern city of Dnipro.A later strike on another apartment building in the city, killed one person and wounded seven, he said.]]></description>
+            <link>https://www.yahoo.com/news/articles/russian-strikes-kill-six-across-100844950.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russian-strikes-kill-six-across-100844950.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 13:10:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Taliban govt says Afghans in Qatar can return 'with full confidence']]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/lGYQspLcFhNpBgfUvK8wUw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/5372ae37f9572f2be76b714693b04afc.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/taliban-govt-says-afghans-qatar-114511767.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taliban-govt-says-afghans-qatar-114511767.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 11:59:10 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/A80DVwoUFLmQZETyHqfO3Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c75ec9f7da3df8da20ca098ecd4cb811.cf.webp" alt="" /></p>Capital Bamako and several other locations hit in an apparently coordinated ⁠assault involving multiple groups.]]></description>
             <link>https://www.yahoo.com/news/articles/gunmen-stage-simultaneous-attacks-across-092124519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunmen-stage-simultaneous-attacks-across-092124519.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 11:59:10 GMT</pubDate>
         </item>
         <item>
@@ -7015,34 +7045,6 @@ Iranian gunboats fired on a tanker in the Strait of Hormuz, a British maritime s
             <link>https://www.yahoo.com/news/articles/eyewitnesses-recount-three-deadly-israeli-093031826.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eyewitnesses-recount-three-deadly-israeli-093031826.html</guid>
             <pubDate>Sat, 18 Apr 2026 11:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope wraps up Cameroon visit with Mass as he looks ahead to Angola]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A03BC5FEC7A8F3AAAAB0D3EE2D28DEC6BAF5FBB7AFED16884EAC22B9CA0C7CE3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5138999aaf2e2a506e66bea9f1cfd2a2" alt="" /></p>Pope Leo XIV called Saturday for “structures of solidarity” to help those on the margins as he wrapped up his visit to Cameroon and headed to Angola on the third leg of his four-nation African odyssey.  Leo celebrated Mass at Yaounde Airport before an estimated 200,000 people, including President Paul Biya, 93, the world’s oldest leader.  The jostling, joyful atmosphere underscored the joy the third pope to visit Cameroon has brought the former French colony, where around a third of the population is Catholic.]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-wraps-cameroon-visit-mass-092437710.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-wraps-cameroon-visit-mass-092437710.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo, newly forceful global voice, heads to Angola on Africa tour]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60DC203CBD19BD2BD96FFD943F7B9306E3B7C48962D15FCD6746B57DBE09A07B/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9c608e923c06f176f94e5fc2e7ac0601" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-leo-newly-forceful-global-093520840.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-newly-forceful-global-093520840.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran closes Hormuz Strait again over US blockade with ships mid-transit]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99566A327000B6CE7ABC234661F8ED270DD4FD175FDFE2ED8AAF1A3C7E84F737/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5c34423cceca4c640c2e4027c04ff115" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-closes-hormuz-strait-again-090902514.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-closes-hormuz-strait-again-090902514.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:05:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Merchant vessels report gunfire as they attempt to cross Hormuz, shipping sources say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ATHENS, April 18 () - At ‌least two ‌merchant vessels said ​they were hit by gunfire as ‌they ⁠attempted to cross the ⁠Strait of Hormuz ​on ​Saturday, ​three maritime ‌security and shipping sources said. The impact was not immediately ‌clear.]]></description>
-            <link>https://www.yahoo.com/news/articles/merchant-vessels-report-gunfire-attempt-104321108.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/merchant-vessels-report-gunfire-attempt-104321108.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:05:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
