@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 15:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 16:01:59 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 15:05:34 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 16:01:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran's foreign minister leaves Islamabad without meeting US envoys, Pakistan officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/irans-foreign-minister-leaves-islamabad-145523670.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-foreign-minister-leaves-islamabad-145523670.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 16:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli attacks kill four in southern Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9CD87BCF0A0495A47A396CB0246A875049EDF314E56A4C080C5E5E2746BF3EBB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffe65be6ba6e438ec6cc9cc72da537c26" alt="" /></p>Raids on a truck and a motorcycle in the town of Yohmor al-Shaqif kill four people, state media report.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-attacks-kill-four-southern-132530246.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-kill-four-southern-132530246.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 16:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's foreign minister leaves without meeting US envoys, Pakistani officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/882072E03992CF0599FFF183892D5E5BE49461AD7F2392FF5E97BA807CE9BDA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F71064a33954189f325107adf71ed19c8" alt="" /></p>Iran 's foreign minister left Pakistan on Saturday evening, two Pakistani officials told The Associated Press, before any sign that U.S. envoys had even arrived for indirect talks on the fragile ceasefire.  Iranian Foreign Minister Abbas Araghchi was seen off at an airport, the officials said, speaking on condition of anonymity because they were not authorized to speak to the media.]]></description>
+            <link>https://www.yahoo.com/news/articles/trump-sends-envoys-islamabad-iran-041306488.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-sends-envoys-islamabad-iran-041306488.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 16:01:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Armed groups in Mali attack capital in possible coordinated effort, army says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SauVoucpekS8fQaiUTwDYg--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/ca502aa497cabb8cd608a90b8cbf7520.cf.webp" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/armed-groups-mali-attack-capital-135741649.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/armed-groups-mali-attack-capital-135741649.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 15:05:34 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VHuvnVIkJ8MQOS7zgakWDg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a6c98cc2986bdb136784dccf8f04ef13.cf.webp" alt="" /></p>Palestinians on Saturday buried a woman pregnant with twins and two of her children who were among at least 13 people killed in Israeli strikes in Gaza.  The toll on Friday included two men who were killed in Gaza City, and eight others killed in the southern city of Khan Younis, according to local hospitals.  Officials at Nasser Hospital in Khan Younis said the eight people, including four police officers, were killed after Israel targeted a police vehicle.]]></description>
             <link>https://www.yahoo.com/news/articles/palestinians-hold-funerals-pregnant-woman-120438684.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinians-hold-funerals-pregnant-woman-120438684.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 15:05:34 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WzdZp7ag_2iLLgCenObFdw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/2cd5b4246d7e1ec05526d789b39e9517.cf.webp" alt="" /></p>Analysts say the Barcelona summit led by Spain's Pedro Sánchez signals a progressive bloc forming to challenge U.S. influence in Latin America and beyond.]]></description>
             <link>https://www.yahoo.com/news/articles/latin-american-leftists-met-spain-120051735.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/latin-american-leftists-met-spain-120051735.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 15:05:34 GMT</pubDate>
         </item>
         <item>
@@ -7021,29 +7042,6 @@ He did not mention the United States, but President Donald Trump's administratio
             <link>https://www.yahoo.com/news/articles/iran-closes-strait-hormuz-again-120333175.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-closes-strait-hormuz-again-120333175.html</guid>
             <pubDate>Sat, 18 Apr 2026 12:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Displaced Lebanese return as Israeli shelling violates ceasefire in south]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CcsJYAdYYzAsmJWhJyZGkw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/4c16406ffbfd7f6f3aca372fa351a25a.cf.webp" alt="" /></p>Al Jazeera correspondents on the ground report that Israeli bulldozers are also continuing home demolitions.]]></description>
-            <link>https://www.yahoo.com/news/articles/displaced-lebanese-return-israeli-shelling-115302167.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/displaced-lebanese-return-israeli-shelling-115302167.html</guid>
-            <pubDate>Sat, 18 Apr 2026 12:43:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US sanctions 3 people, 2 firms over allegedly recruiting Colombian mercenaries in Sudan war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The U.S. imposed sanctions on three people and two firms over allegedly recruiting and deploying Colombian mercenaries to fight alongside the paramilitary Rapid Support Forces in Sudan’s war, which has entered its fourth year with no end in sight.  The sanctions, announced by the Department of Treasury late Friday, were the latest by the United States on the RSF, which have been at war against the Sudanese military since April 2023.  The group has been accused by rights groups of atrocities amounting to war crimes and crimes against humanity during the war which created the world’s largest humanitarian crisis.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-sanctions-3-people-2-114251824.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-sanctions-3-people-2-114251824.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:55:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/49C15BDFFA0965A5697D86DBA2EE7B703151973906EFBAA23D6769B3B1641612/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fefcea08e2507ea1e446d51bdcae60512" alt="" /></p>The latest developments in the Middle East war:
-- Gunboats fire on tanker -
-Iranian gunboats fired on a tanker in the Strait of Hormuz, a British maritime security agency reported.The tanker's captain reported being approached 20 nautical miles northeast of Oman by two gunboats of Iran's Revolutionary Guards Corp (IRGC), which without any radio warning "then fired upon the tanker", the UK Maritime Trade Operations Centre said in an online statement.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-113546655.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-113546655.html</guid>
-            <pubDate>Sat, 18 Apr 2026 11:55:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
