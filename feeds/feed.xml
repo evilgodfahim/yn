@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 22:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 23:03:16 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 22:02:39 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 23:03:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mali army bases hit in large-scale attacks claimed by al Qaeda-linked militants]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C76756EE5D12BB2FA7334AC52BA4E7E12352ADF8C4F50AFFB108F78C13D5CFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F7e824fcd9a0f1fc971b86dcda0974007" alt="" /></p>BAMAKO, April 25 (Reuters) - An al Qaeda affiliate and Tuareg rebels claimed ​responsibility ​on Saturday ​for coordinated attacks across Mali, in one of the boldest operations insurgents have mounted]]></description>
+            <link>https://www.yahoo.com/news/articles/mali-army-bases-hit-large-195444040.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mali-army-bases-hit-large-195444040.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 23:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Signal and is it secure?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B47228E51A754EFA94236C46C223735FF9656F3C8641F72D1379B51F4EC68384/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7925b3ca7036ce96c73eb226ed742489" alt="" /></p>Signal, an end-to-end encrypted messaging app long considered one of the most secure in the world, has recently faced attacks from hackers accused of links to Russia.Cyberattackers accused of Russian links did not target the encryption system directly.]]></description>
+            <link>https://www.yahoo.com/news/articles/signal-secure-213525210.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/signal-secure-213525210.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 23:03:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explosion in southwest Colombia kills at least seven, state governor says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93F983ECF3FE1ACC03AB56BB83250859A66436E3C27DD01792119FFFD9661203/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fec7e7672d368a8382028e12773fe5496" alt="" /></p>Authorities in Cauca region demand ‘decisive’ government action after deadly explosion on Pan-American Highway.]]></description>
+            <link>https://www.yahoo.com/news/articles/explosion-southwest-colombia-kills-leat-210351175.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explosion-southwest-colombia-kills-leat-210351175.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Apr 2026 23:03:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[After their slogan was outlawed, pro-Palestinian activists turned to a karaoke classic]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/3Qep8p2fB4G.3qTGzHF0tg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/986a63ce204ce6216967b71f278de49a.cf.webp" alt="" /></p>Source: CNN]]></description>
             <link>https://www.yahoo.com/news/articles/slogan-outlawed-pro-palestinian-activists-210050988.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/slogan-outlawed-pro-palestinian-activists-210050988.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 22:02:39 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BOGOTÁ, Colombia (AP) — An explosive device on a bus killed seven people Saturday in southwest Colombia as violence in that region escalates, authorities said.  Octavio Guzmán, the governor of Cauca, wrote on X that the device was activated while the bus was traveling along the Panamerican Highway in Cajibio, injuring more than 17 people.  Gen. Hugo López, commander of Colombia's Armed Forces, described the explosion in a press conference as a “terrorist act."]]></description>
             <link>https://www.yahoo.com/news/articles/authorities-southwest-colombia-alert-spate-184659105.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/authorities-southwest-colombia-alert-spate-184659105.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 25 Apr 2026 22:02:39 GMT</pubDate>
         </item>
         <item>
@@ -7020,27 +7042,6 @@ He did not mention the United States, but President Donald Trump's administratio
             <link>https://www.yahoo.com/news/articles/trade-ships-hit-hormuz-iran-132709627.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trade-ships-hit-hormuz-iran-132709627.html</guid>
             <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian official says US 'maximalist' demands stall face-to-face talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0365B92E8A88530D0F2C245117CB9E1E13937B6E87CA849DB837EFE55065E22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Facdb80b8d6c1d3fb875c9437fe607c41" alt="" /></p>Iran is not yet ready to hold a new round of face-to-face talks with U.S. officials, a senior Iranian official said Saturday, citing Washington's refusal to abandon “maximalist” demands on key issues.  In an interview with The Associated Press on the margins of a diplomacy forum in Turkey, Iranian Deputy Foreign Minister Saeed Khatibzadeh also said his country will not hand over its enriched uranium to the United States, rejecting claims made by President Donald Trump.  “I can tell you that no enriched material is going to be shipped to United States,” Khatibzadeh said.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-official-says-us-maximalist-132051244.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-official-says-us-maximalist-132051244.html</guid>
-            <pubDate>Sat, 18 Apr 2026 14:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Libya recovers 17 bodies believed to be migrants on Tripoli coast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>TRIPOLI, April 18 (Reuters) - At least 17 bodies believed to be those of migrants have been recovered in recent days from the shore near a coastal town west of the Libyan capital, Tripoli-based medics]]></description>
-            <link>https://www.yahoo.com/news/articles/libya-recovers-17-bodies-believed-131600806.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/libya-recovers-17-bodies-believed-131600806.html</guid>
-            <pubDate>Sat, 18 Apr 2026 13:57:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France blames Hezbollah for French peacekeeper's death in Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2ECD0C4408D2B43BF16EE9A4A54B5698322D944B895E0ED954CE9641743D732/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F41d1fbad346e6ab8b1436d97a4d6a481" alt="" /></p>A French soldier was killed and three others wounded in an attack Saturday on UN peacekeepers in Lebanon that appeared to have been carried out by Hezbollah, French President Emmanuel Macron said.Other UNIFIL peacekeepers have also been wounded since the war erupted, and in April, Israeli soldiers destroyed surveillance cameras in UNIFIL's headquarters, the peacekeeping body said.]]></description>
-            <link>https://www.yahoo.com/news/articles/france-blames-hezbollah-french-peacekeepers-130841096.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/france-blames-hezbollah-french-peacekeepers-130841096.html</guid>
-            <pubDate>Sat, 18 Apr 2026 13:57:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
