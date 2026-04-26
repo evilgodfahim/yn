@@ -4,16 +4,15 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 19:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 20:30:53 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 19:40:50 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 20:30:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[At least 16 dead in strikes across Ukraine and Russia on Chernobyl anniversary]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F938D8491E379FA8BBE7A202D700B87086C23DC7BD81F7452EE39B992607329/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F3e1372803e1a802f4763c44a7729e9bf" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/least-16-dead-strikes-across-184842493.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-16-dead-strikes-across-184842493.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 19:40:50 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +20,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD2F8D52E55E9FFEC6169475295F97A9C65FBBFE3955DA2AB0AE25358F775F84/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F91af465ffd1a89796b18b33a3577e2b3" alt="" /></p>Hezbollah rejects allegations from Israeli PM Benjamin Netanyahu that it is undermining the Israel-Lebanon ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-issues-forced-evacuation-orders-190956738.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-issues-forced-evacuation-orders-190956738.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 19:40:50 GMT</pubDate>
         </item>
         <item>
