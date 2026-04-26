@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 20:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 21:31:23 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 20:30:53 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 21:31:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Former Israeli PMs Bennett, Lapid unite to challenge Netanyahu in elections]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sC6wpOCN6POgtXPXE.loHw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/b624e383fdb2886effca09bf22d0b965.cf.webp" alt="" /></p>The two politicians’ alliance is aimed at uniting a fragmented opposition against current PM Benjamin Netanyahu.]]></description>
+            <link>https://www.yahoo.com/news/articles/former-israeli-pms-bennett-lapid-200550251.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/former-israeli-pms-bennett-lapid-200550251.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 21:31:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At least 16 dead in strikes across Ukraine and Russia on Chernobyl anniversary]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F938D8491E379FA8BBE7A202D700B87086C23DC7BD81F7452EE39B992607329/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F3e1372803e1a802f4763c44a7729e9bf" alt="" /></p>Source: CBS News]]></description>
@@ -7030,13 +7038,6 @@ Israel's Defence Minister Israel Katz said his military will use "full force" in
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C9A940124CCCACE938A0E17F8D13E979D9DF15C3232AB30DB3D4EA5EC2E9148/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F816af9c0f1e5d887dc53a01deb0f4dca" alt="" /></p>LUANDA, April 19 - Pope Leo on ‌Sunday decried the ‌intensification of the war ​in Ukraine, calling "for the weapons to fall silent and ‌for the ⁠path of dialogue to be ⁠followed." The pope made the appeal after ​a Mass ​outside ​Angola's capital ‌Luanda that drew roughly 100,000 people.]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-decries-ramp-ukraine-112042564.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-decries-ramp-ukraine-112042564.html</guid>
-            <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis-Allies fear a rushed US–Iran framework deal could backfire, leaving technical deadlock]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86D32A193712D5D1F27A05D4E71BDEDE0A64A0A878CD787AE901083E7DE415D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F399c58d4b991761c75d599314e39d8e4" alt="" /></p>PARIS/DUBAI, April 19 (Reuters) - European allies fear an inexperienced U. negotiating team is pushing for a swift, headline‑grabbing framework deal with Iran that could entrench rather than resolve deeper problems, diplomats with past experience dealing with Tehran said.]]></description>
-            <link>https://www.yahoo.com/news/articles/analysis-allies-fear-rushed-us-104225643.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/analysis-allies-fear-rushed-us-104225643.html</guid>
             <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
         </item>
     </channel>
