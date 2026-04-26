@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 17:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 18:40:24 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 18:40:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Palestinian authorities call local elections in a Gaza community and the West Bank a success]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA1392570D19119EDBFAA7FED530CAC15344E45F04A9998700833F73F7EE7084/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F978aa7a77775c9e316f055ebe0b8fb5c" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/palestinian-authorities-call-local-elections-182053501.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-authorities-call-local-elections-182053501.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 18:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buckingham Palace says King Charles' trip to the US to go ahead]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6804A06FDE7F15526281ED7CBEDBE59D8D32298531987B3273994B87E0BB8B7F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8b5a27b995246557672a33941a435365" alt="" /></p>LONDON, April 26 (Reuters) - Buckingham Palace said on Sunday that the four-day trip to the United States by King Charles and Queen Camilla would go ahead as planned following a shooting at a dinner]]></description>
+            <link>https://www.yahoo.com/news/articles/buckingham-palace-says-king-charles-175811321.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/buckingham-palace-says-king-charles-175811321.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 18:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[With goals of Iran war unfulfilled, Netanyahu's government faces unhappy public as elections loom]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B4B96294A2B6028DDD78F014CCAB2BB3B6221A320199E0588B41E21C2DF51AA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa4f92bf256b9c5f400c1a29d094f4f44" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/goals-iran-war-unfulfilled-netanyahus-162649249.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/goals-iran-war-unfulfilled-netanyahus-162649249.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 18:40:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Attacks in Mali: What we know]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/41C28992EABBE149B8000CB4280B549B895C3378AFEC045119665EF504C3BE07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F38d344c383c11ec16e33a944eb6e1689" alt="" /></p>Mali has been plunged into an unprecedented security crisis after an alliance of Tuareg rebels and a jihadist group carried out synchronised attacks against the West African country's military leadership.The FLA is made up of mainly Tuareg groups who want independence for Azawad, a territory in northern Mali.]]></description>
+            <link>https://www.yahoo.com/news/articles/attacks-mali-know-161921517.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/attacks-mali-know-161921517.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 18:40:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suspect in US press gala shooting - what we know]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EEED25D962C5E44AD4C4A9A87CC0B235022356135DDBD4D6C7AC412AF7C81FC7/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdd5bb020a54f7148da7cb06d9bca23c4" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/engineer-game-developer-us-press-094751263.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/engineer-game-developer-us-press-094751263.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EBB44AEEAF6AD441CABB7413B131A4749E4610FBA2B0EBE19BA783D26601FE29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2ac888d25ceee8e787e3692da0d2d8f5" alt="" /></p>The government is partly reversing a currency decision for basic items and tapping into the country’s sovereign fund.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-shifts-economic-focus-essentials-170010812.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-shifts-economic-focus-essentials-170010812.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AE3C37EC028CF32F323E0D45ED15D164351C017AFC69395AD229DBC04E02EAF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5bd6a0cd305591187298c096843cbf83" alt="" /></p>Voter turnout in Gaza remained low due to the ongoing impact of the genocide.]]></description>
             <link>https://www.yahoo.com/news/articles/abbas-loyalists-sweep-palestinian-elections-165027450.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/abbas-loyalists-sweep-palestinian-elections-165027450.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1CA4429B1B4E0619D1BADB15CC2361603996327DD33911A4D96448CC032010AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff7e6ba7c88b9a8c5a02616fd03e609d7" alt="" /></p>LIMA, April 26 (Reuters) - Right-wing candidate Keiko Fujimori is heading for a dead-heat presidential runoff against leftist Roberto Sanchez, a new poll showed on Sunday, as Peru's vote count drags]]></description>
             <link>https://www.yahoo.com/news/articles/perus-fujimori-leftist-sanchez-deadlocked-153618235.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/perus-fujimori-leftist-sanchez-deadlocked-153618235.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/540B365FFF904B74043047A78E335BF5018B2404086854C5835E7FA8FDB4B827/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3605b80c4f98e707bb2b1886624ddea3" alt="" /></p>JERUSALEM, April 26 (Reuters) - Two of Israeli Prime Minister Benjamin Netanyahu's most formidable political rivals said on Sunday they were joining forces in a bid to oust his coalition government in the upcoming election expected ‌later this year. The former prime ministers - right-wing Naftali Bennett and centrist Yair Lapid - issued statements announcing the merger of their parties, ‌Bennett 2026 and There is a Future.]]></description>
             <link>https://www.yahoo.com/news/articles/netanyahus-biggest-rivals-join-forces-145801862.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahus-biggest-rivals-join-forces-145801862.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 17:33:14 GMT</pubDate>
         </item>
         <item>
@@ -7015,34 +7042,6 @@ Israel's Defence Minister Israel Katz said his military will use "full force" in
             <link>https://www.yahoo.com/news/articles/eight-people-remain-hospital-kyiv-114359670.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eight-people-remain-hospital-kyiv-114359670.html</guid>
             <pubDate>Sun, 19 Apr 2026 15:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DRC government, M23 rebels commit to protect civilians, aid deliveries]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ICuTHSybVyv605VfIN8_UQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/3a30dc19e110f857cea40bc527a7386f.cf.webp" alt="" /></p>After talks in Switzerland, the two sides also made progress on a protocol for ceasefire oversight.]]></description>
-            <link>https://www.yahoo.com/news/articles/drc-government-m23-rebels-commit-143054442.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/drc-government-m23-rebels-commit-143054442.html</guid>
-            <pubDate>Sun, 19 Apr 2026 15:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to know about US-Iran standoff over the Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9h0r7rppCMfpdEE08.Uaow--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/572f29f53ef16050762180acb47b03ed.cf.webp" alt="" /></p>Trump accuses Iran of violating the ceasefire as he announces plans to send US negotiators to Pakistan for more talks.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-us-iran-standoff-over-140820994.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-us-iran-standoff-over-140820994.html</guid>
-            <pubDate>Sun, 19 Apr 2026 15:58:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran currently has no decision to send a negotiating delegation to Pakistan, Tasnim reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 19 (Reuters) - There is currently no decision by Iran to send a negotiating delegation to Pakistan "as long as there is a naval blockade," Iran's Tasnim news agency reported on Sunday, citing]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-currently-no-decision-send-140733801.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-currently-no-decision-send-140733801.html</guid>
-            <pubDate>Sun, 19 Apr 2026 15:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK's Starmer to face grilling from MPs over Mandelson scandal]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7KH4G8G_cdswAnSgVlyo7Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/db1c6489e8210c864e2c4292e785c5a4.cf.webp" alt="" /></p>Embattled UK Prime Minister Keir Starmer will face lawmakers in parliament on Monday as he tries to quell anger over an unrelenting scandal involving long-time Jeffrey Epstein associate Peter Mandelson.UK police are investigating allegations of misconduct in office by Mandelson when he was a Labour minister more than 15 years ago.]]></description>
-            <link>https://www.yahoo.com/news/articles/uks-starmer-face-grilling-mps-140443982.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uks-starmer-face-grilling-mps-140443982.html</guid>
-            <pubDate>Sun, 19 Apr 2026 15:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
