@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 22:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 23:09:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 22:30:21 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 23:09:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[North Korea's Kim says will continue to support Russia's policies, KCNA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/907E0031A25D118E3B010D3918DCEAD5C2510C6BD76F0D173D0D57BB644732CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff80fe928fc22f3bb0550d40470deae9c" alt="" /></p>SEOUL, April 27 (Reuters) - North Korean leader Kim Jong Un said his country will continue to support Russia's policies and he discussed the international political situation with Russia's defence]]></description>
+            <link>https://www.yahoo.com/news/articles/north-koreas-kim-says-continue-230031073.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-says-continue-230031073.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 23:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global military spending surges on insecurity: report]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F533BCD2DB2B8F4A3B688648652A3D745A7C8A7B70CE0B6DFEC19FC53D2B2DD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5d529f1d40ec2c6dcc47eea3fcfd19f4" alt="" /></p>Global military spending reached nearly $2.9 trillion in 2025, marking an 11th consecutive year of growth, researchers said Monday, as insecurity and rearmament fuelled defence budgets.Scarazzato said this was also reflected in the global "military burden" --  the share of worldwide GDP devoted to military spending -- which reached its highest level since 2009.]]></description>
+            <link>https://www.yahoo.com/news/articles/global-military-spending-surges-insecurity-222950931.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/global-military-spending-surges-insecurity-222950931.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 23:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global military spending rises 2.9% despite US decline over Ukraine freeze]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2BC3C58C0E3E7321EF4FA5300FA343A23B4081DEA36C1CA9E347D30FE8E6CF7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F97d52f291e1adac5097906994442b660" alt="" /></p>STOCKHOLM, April 27 (Reuters) - Global military spending rose 2.5% decline in the United States ‌as President Donald Trump halted new financial military aid to Ukraine, ‌a report by a conflict think-tank showed on Monday.]]></description>
+            <link>https://www.yahoo.com/news/articles/global-military-spending-rises-2-220627526.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/global-military-spending-rises-2-220627526.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 23:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magnitude 6.1 earthquake strikes in northern Japan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/magnitude-6-1-earthquake-strikes-213246967.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/magnitude-6-1-earthquake-strikes-213246967.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 26 Apr 2026 23:09:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syrian court begins proceedings against Assad and allies]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YZQ_QBVd5gY5D635hIK8Zg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f838e3468e1d0edf67cd11ca8493348f.cf.webp" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/syrian-court-begins-proceedings-against-212752221.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/syrian-court-begins-proceedings-against-212752221.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 22:30:21 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9fhr9bqf56A9tCw12G4FaQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/f5ba5f2a9cba0081c980bde03e24d53b.cf.webp" alt="" /></p>Abbas Araghchi will speak with ‘senior officials’ in Moscow, Iran’s Foreign Ministry says.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-foreign-minister-leaves-pakistan-204744832.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-foreign-minister-leaves-pakistan-204744832.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 22:30:21 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/R5CpK3vi7beSc.1jCcSINg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/d76ad488f7045827173ae14fa803b753.cf.webp" alt="" /></p>The state visit by Britain's King Charles III to the US would take place as planned, Buckingham Palace said on Sunday, following a shooting at a Washington media gala.The palace said that Charles was "greatly relieved" that Trump, his wife Melania and other guests were unharmed and later on Sunday said the trip would go on as planned.]]></description>
             <link>https://www.yahoo.com/news/articles/king-charles-state-visit-us-182826314.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/king-charles-state-visit-us-182826314.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 26 Apr 2026 22:30:21 GMT</pubDate>
         </item>
         <item>
@@ -7013,34 +7042,6 @@ Israel's Defence Minister Israel Katz said his military will use "full force" in
             <link>https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</guid>
             <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Argentina's Milei says US-Israel war against Iran 'right thing to do']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF1F603115BBA7F755F5226AE2A5D3C0EC0D1FE659D211C2644C37AC723F97A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F920d21273e2a1418f56d77074378b43c" alt="" /></p>Argentine President Javier Milei declared Sunday that the joint US-Israel war against Iran was the "right thing to do", as he signed on to the so-called Isaac Accords aimed at deepening bilateral ties between Israel and Latin American countries.The US-backed Isaac Accords are an initiative designed to boost Israel's ties with Latin America, mirroring the Abraham Accords under which several Arab countries normalised relations with Israel during Trump's first term.]]></description>
-            <link>https://www.yahoo.com/news/articles/argentinas-milei-says-us-israel-175459925.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/argentinas-milei-says-us-israel-175459925.html</guid>
-            <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight children killed in Louisiana mass shooting, media reports say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 19 () - Eight children were killed in ‌a mass shooting ‌in Shreveport, Louisiana, multiple news outlets ​reported Sunday, citing local police. The children killed in the incident ranged in ‌age ⁠from 1 to 14, Shreveport Police Department ⁠spokesperson Christopher Bordelon told NBC.]]></description>
-            <link>https://www.yahoo.com/news/articles/eight-children-killed-louisiana-mass-162707153.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eight-children-killed-louisiana-mass-162707153.html</guid>
-            <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel vows to level homes in Lebanon, counter threats with 'full force']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4907C5CC545F8797DAF4812AB8035E4D221785C8457F19B56357A5D9E136A625/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F57d813926c5ddb3056930cbe853623b2" alt="" /></p>Israel said its military had been instructed to use "full force" against imminent threats in Lebanon despite a truce there and vowed to level homes allegedly used by Hezbollah, with state media reporting demolitions were underway on Sunday.Israeli Defence Minister Israel Katz said he and Prime Minister Benjamin Netanyahu had instructed the army "to act with full force, both on the ground and from the air, including during the ceasefire, in order to protect our soldiers in Lebanon from any threat]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-vows-level-homes-lebanon-165321753.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-vows-level-homes-lebanon-165321753.html</guid>
-            <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney says Canada's US ties have become a weakness]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB3832654CA8C4B0E060A726F2D11609A1E3D406083A57B4E2ACF6F3CF5A2E08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9fc573b2ac227d0395f024de5c2647bb" alt="" /></p>By Amanda Stephenson CALGARY, April 19 (Reuters) - Canada's close ties to the United States were once a strength but have become a weakness, Prime Minister Mark Carney said on Sunday, in a video]]></description>
-            <link>https://www.yahoo.com/news/articles/carney-says-canadas-us-ties-162109294.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/carney-says-canadas-us-ties-162109294.html</guid>
-            <pubDate>Sun, 19 Apr 2026 18:04:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
