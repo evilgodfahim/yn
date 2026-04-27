@@ -4,16 +4,89 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 09:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 11:40:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil prices rise as U.S. and Iran appear locked in a costly stalemate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2FqoyWqmNT3.nSceUAQx6w--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/cbs_news_897/302c72f8a7cdeef6b514fa88cc192efd.cf.webp" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/oil-prices-rise-u-iran-111935274.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/oil-prices-rise-u-iran-111935274.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil's Lula and Flavio Bolsonaro neck and neck in second‑round poll]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ptf_lC_MfBln8hsYaPKQaw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/e1abb9aebf1518213f1aa5b211964cc6.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/brazils-lula-flavio-bolsonaro-neck-111450841.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazils-lula-flavio-bolsonaro-neck-111450841.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos show British royal visits to the U.S. over the years]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6xRlEAspTLIbMGBD7rzhUQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cbs_news_897/a842c4956101e04c03a848ddff960354.cf.webp" alt="" /></p>King Charles is making his first state visit to the U.S. as monarch, though he traveled here 19 times before his coronation. Many of his royal relatives have also made memorable trips over the years.]]></description>
+            <link>https://www.yahoo.com/news/articles/photos-show-british-royal-visits-101829164.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/photos-show-british-royal-visits-101829164.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zaporizhzhia nuclear power plant worker killed in Ukraine drone attack, management says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mQh_7WkR8w9p.QQKIdj7dg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/70abfb70265b01c02f679be777365cdc.cf.webp" alt="" /></p>MOSCOW, April 27 (Reuters) - An employee of Ukraine's Zaporizhzhia nuclear power plant, controlled by Russian forces, was killed in a Ukrainian drone attack, the Russian-installed management of the]]></description>
+            <link>https://www.yahoo.com/news/articles/zaporizhzhia-nuclear-power-plant-worker-095200807.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zaporizhzhia-nuclear-power-plant-worker-095200807.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis-Iran war fertiliser squeeze could spell trouble for next year's grain harvests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sIPwlEOtqwtCIw3kQeOoqw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/080d3a62910a14f5adba0ccba65ca505.cf.webp" alt="" /></p>By Gus Trompiz and Naveen Thukral PARIS/SINGAPORE, April 27 (Reuters) - Farmers around the world are facing the second surge in fertiliser prices in four years due to the Iran war.]]></description>
+            <link>https://www.yahoo.com/news/articles/analysis-iran-war-fertiliser-squeeze-094939039.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/analysis-iran-war-fertiliser-squeeze-094939039.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[War in the Middle East: latest developments]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/sYLfbFBpFqon8UnAs2Jp.g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/928b42a3b7660d09135af2aa74b11f12.cf.webp" alt="" /></p>The latest developments in the Middle East war:
+- Hezbollah  rejects talks -
+Hezbollah leader Naim Qassem rejected Lebanon's planned direct talks with Israel, calling them a "grave sin" that will destabilise Lebanon."We categorically reject direct negotiations with Israel, and those in power should know that their actions will not benefit Lebanon or themselves," Qassem said in a statement, calling on authorities to "back down from their grave sin that is putting Lebanon in a spiral of instabilit]]></description>
+            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-094452440.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-094452440.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia appoints labour union chief as new environment minister]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XXKjrGx9bcvihtzPePquEA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/ea09f0b8cef72b163e091b71798d8c05.cf.webp" alt="" /></p>JAKARTA, April 27 - Indonesian President Prabowo Subianto has appointed a labour union chief as the country's new environment minister, the palace said on Monday, replacing Hanif Faisol Nurofiq, who]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesia-appoints-labour-union-chief-093706683.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-appoints-labour-union-chief-093706683.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran FM blames US for failure of talks after landing in Russia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/EBT653kBuwjqIS0RnR0jbA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/318a5303b63add34563b4889d790689a.cf.webp" alt="" /></p>Iran's top diplomat blamed Washington on Monday for the failure of talks after landing in Russia as part of a whirlwind diplomatic tour, with direct negotiations between the warring parties seemingly at an impasse.Fars news agency said the messages were not part of formal negotiations, however.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-fm-blames-us-failure-082713574.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-fm-blames-us-failure-082713574.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Military spending surges in Europe and Asia, pushing world to levels not seen in 16 years, report says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ibWbXgv5IFijZ49cbbRJoQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/132f897ca690ddbb77c6fae264f4c164.cf.webp" alt="" /></p>Global military spending surged by almost 3% in 2025, fueled largely by ballooning defense expenditures in Europe and Asia, according to a report released Monday by a respected arms watchdog group.]]></description>
+            <link>https://www.yahoo.com/news/articles/military-spending-surges-europe-asia-074208279.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/military-spending-surges-europe-asia-074208279.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 11:40:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US woman speaks of ordeal in France Al-Fayed trafficking probe]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8CF05F7C5C881AE7A019E0DBF47175AA46ED673D74AAB4EFE6397E44E8ED9761/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7b23702f5b073067a651edc4db85cb1c" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/us-woman-speaks-ordeal-france-091519198.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-woman-speaks-ordeal-france-091519198.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +94,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8ACB44DDC2F732C0B8E20A9219D491159F3EDABFAAF50A6FF7E9AE41E2DD6247/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0fabd7586422525a3c38ff4502a988d4" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/french-teen-faces-jail-singapore-085524692.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-teen-faces-jail-singapore-085524692.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +101,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB9E41FA20DACCE1BB9FBD2FA38D94434DF94340741319956D57DF138C881AC3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa01d27f808891fd2ce4de3dee671aa13" alt="" /></p>TAIPEI, April 27 (Reuters) - The top U.S. diplomat in Taiwan on Monday pressed the island's opposition-majority parliament to pass a "comprehensive" defence budget, saying integrated air and missile]]></description>
             <link>https://www.yahoo.com/news/articles/us-presses-taiwan-parliament-pass-041939127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-presses-taiwan-parliament-pass-041939127.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BB8EB9E53145C381DCA94635D3514C356A3169A8CD6EBF0EF50D423C74D8FC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4b803684da86894638af9f5b599ce55e" alt="" /></p>Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-top-diplomat-russia-tehran-081043469.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-top-diplomat-russia-tehran-081043469.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>JAKARTA, April 27 (Reuters) - Students and civilians clashed with law enforcement personnel in Indonesia's insurgency-hit Papua on Monday during a protest attended by hundreds of residents demanding]]></description>
             <link>https://www.yahoo.com/news/articles/clashes-indonesias-papua-hundreds-protest-080542911.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/clashes-indonesias-papua-hundreds-protest-080542911.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FDEB169995B26B5584F744057B1B187474E91DE4516BD439AA2E28D4CA88EB12/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd8f9ee5796afe86e7b956602175cd5b9" alt="" /></p>Measles kills 70 in East Darfur’s Labado in a few weeks as healthcare collapse leaves families without medicines.]]></description>
             <link>https://www.yahoo.com/news/articles/war-neglect-fuel-deadly-measles-080435973.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-neglect-fuel-deadly-measles-080435973.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B3960BD3135647EC6EE6B8C82747E84AFFF38BD8BFF5F51DCCD5E98014BF27E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F862fed3a0ed348e90f88ae00dc68c467" alt="" /></p>By Michael Holden and Suzanne Plunkett LONDON/WASHINGTON, April 27 (Reuters) - Britain's King Charles and Queen Camilla arrive in the United States later on Monday for a four-day trip, a tour which]]></description>
             <link>https://www.yahoo.com/news/articles/king-charles-jets-us-trip-072914968.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/king-charles-jets-us-trip-072914968.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +136,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5DB6DB8F723570C0DAD4ACE233E67E33C8158ED9C1FCA3DEC23999AD9ED3263D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe4dd1e887fd13bc1b0381d6dbbddd781" alt="" /></p>Iran discusses diplomatic solutions with regional partners as Trump says Iran could telephone if it wants to talk.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-war-happening-day-59-072257572.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-happening-day-59-072257572.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +143,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46CC606FFBBF1A1DF0E01357CBF53915D15F7C57886F50503123F37032BC2797/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F916d73d8e98a074786894781b1fee25b" alt="" /></p>Before sunset, a blue flame used to spring to life in Brenda Obare’s kitchen with a quick turn of the knob as she started dinner.  Now, her stove is often cold as she crouches over a charcoal burner, coaxing a smoky fire to cook for her family outside her tin-roofed home in Kibera in Kenya's capital Nairobi, one of Africa’s largest informal settlements.  Cooking gas is too expensive and often unavailable.]]></description>
             <link>https://www.yahoo.com/news/articles/energy-shock-ripples-kitchens-forests-071723536.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/energy-shock-ripples-kitchens-forests-071723536.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +150,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/38444344334867F7B5CE3039329AA3438BD6E338923561BF4DFC2ADAFAA2F292/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd9f2d4e43da1eda40caa4abcce5ac8e7" alt="" /></p>Iran is offering to end its chokehold on the Strait of Hormuz without addressing its nuclear program, two regional officials with knowledge of the proposal said Monday, as the country's foreign minister made a visit to Russia he said was an opportunity to consult with Moscow regarding the war against Israel and the United States.  Iran also wants the U.S. to end its blockade of the country as part of its proposal, said the two officials, who spoke on condition of anonymity to discuss the closed-door negotiations.  The new proposal, passed to the United States by Pakistan, likely won't be supported by U.S. President Donald Trump, who wants to end Iran’s atomic program as part of an overall deal to reopen the Strait of Hormuz and make the ceasefire permanent.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-offers-end-chokehold-strait-070942841.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-offers-end-chokehold-strait-070942841.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +157,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86BEF7C4E9FE77F18F49123173A1292AEFB1379E826550B5AB7B5827D36D59B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fce184fe8e48a12a899d969b68cbe3e5c" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/surgeon-kept-sudan-hospital-functioning-063215273.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/surgeon-kept-sudan-hospital-functioning-063215273.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +164,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, April 27 (Reuters) - British police said on Monday they had arrested a 37-year old man in relation to a series of attacks on Jewish-linked premises in north west London.]]></description>
             <link>https://www.yahoo.com/news/articles/uk-police-another-arrest-relation-061231565.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-police-another-arrest-relation-061231565.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +171,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DHAKA, April 27 (Reuters) - At least 14 people were killed after lightning strikes hit several parts of Bangladesh, officials said on Monday, as seasonal thunderstorms swept across the country.]]></description>
             <link>https://www.yahoo.com/news/articles/lightning-strikes-kill-14-bangladesh-055215344.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lightning-strikes-kill-14-bangladesh-055215344.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +178,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FEDF31120C9AC4DFDA7664EACC028582A1733CC3E78812EB54FD2A545D9BED3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2be7254b4c5640d0fe58decfc047d1c0" alt="" /></p>North Korean leader Kim Jong Un has reaffirmed Pyongyang's support for Russia's invasion of Ukraine, vowing to help Moscow achieve victory in its "sacred" war, state media reported on Monday.Kim expressed "belief that the Russian army and people would surely win a victory in the just sacred war", KCNA reported.]]></description>
             <link>https://www.yahoo.com/news/articles/north-koreas-kim-reaffirms-support-054858286.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-reaffirms-support-054858286.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +185,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D4D4D74291DA357CC902AB36869729B3A81F7B5CC30B130FBB8F933A6F5DA40C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Ff843aabca655455371bed79406fa0459" alt="" /></p>The seizure of the MT Tifani has put a spotlight on this shady patch of waters off Malaysia.]]></description>
             <link>https://www.yahoo.com/news/articles/lawless-floating-gas-station-where-041425647.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lawless-floating-gas-station-where-041425647.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +192,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06C5E23E7E24C1241280C27B94FB9EFEC06D2B85A74334835D8012DD69D5BF64/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffb1d0f50810976bbe09bef379e878225" alt="" /></p>When the U.S. Supreme Court hears arguments on the Trump administration's plans to stop shielding Haitians and Syrians from deportation, people from more than dozen other countries will pay close attention, perhaps none more than an estimated 200,000 from El Salvador.  Many Salvadorans have lived in the United States for 25 years under Temporary Protected Status, which allows those already in the country to stay with work permits in increments of up to 18 months as long as the Homeland Security secretary deems conditions unsafe for return.  President Donald Trump's former secretary, Kristi Noem, ended TPS for all 12 countries that came up for renewal under her watch.]]></description>
             <link>https://www.yahoo.com/news/articles/haitians-syrians-arent-only-immigrants-040420904.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/haitians-syrians-arent-only-immigrants-040420904.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +199,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-7-040000812.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-7-040000812.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +206,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/046D8008531D6B962FA257A4EB1235C2EE6264F187B0EB226128781C92454F91/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe5dc08673eb887d7638bbaf96f9fe436" alt="" /></p>TAIPEI, April 27 (Reuters) - Taiwan's defence minister downplayed on Monday the impact of Chinese sanctions on seven European companies over arms sales to the island, saying it was not the first time]]></description>
             <link>https://www.yahoo.com/news/articles/taiwan-downplays-impact-chinese-sanctions-021926376.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-downplays-impact-chinese-sanctions-021926376.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +213,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D9B6B93D14016C84ED54EFE208B32CD6593303E2FE2F72B8D964D49E89D7A56/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F172752f15e62b986b9932d381c539233" alt="" /></p>The latest U.S. military strike on a boat accused of ferrying drugs in the eastern Pacific Ocean killed three people Sunday, according to a social media post by U.S. Southern Command.  The Trump administration's campaign of blowing up alleged drug-trafficking vessels in Latin American waters has gone on since early September and killed at least 186 people in total.  The military has not provided evidence that any of the vessels were carrying drugs.]]></description>
             <link>https://www.yahoo.com/news/articles/latest-us-military-strike-alleged-021549270.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/latest-us-military-strike-alleged-021549270.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +220,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A7116AE14847DB8119EDDD2136AB8E6C78B4E6A45CC9D31FE4F78AD88FC6C9E5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0ecbf6f7427895eab7b695af77a01442" alt="" /></p>BOGOTA, April 26 (Reuters) - Colombia's ruling left-wing coalition appears poised to retain power, with Ivan Cepeda leading the presidential race on 44.3% support and on track to continue President]]></description>
             <link>https://www.yahoo.com/news/articles/colombias-ruling-left-set-extend-021102852.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombias-ruling-left-set-extend-021102852.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +227,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA660EDA2840E5E4B395AC22A1FA54A201B66438C3F3290968CBDB89FC38AA54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F95b868f489a0d1133eca6486b755d725" alt="" /></p>April 26 (Reuters) - Iran through Pakistani mediators gave the U.S. a new proposal on reopening of the Strait of Hormuz and the ending of the war, with nuclear negotiations postponed for a later stage]]></description>
             <link>https://www.yahoo.com/news/articles/iran-gave-us-proposal-reopening-011220354.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-gave-us-proposal-reopening-011220354.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 27 Apr 2026 09:35:15 GMT</pubDate>
         </item>
         <item>
@@ -6993,72 +7046,6 @@ Qatar's aviation authority said it would begin allowing flights from foreign air
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, April 20 (Reuters) - British police said on Monday they arrested two people over an attempted arson attack on a synagogue in north London over the weekend, as counter-terrorism officers probe]]></description>
             <link>https://www.yahoo.com/news/articles/two-arrested-over-attempted-arson-071134256.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-arrested-over-attempted-arson-071134256.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[War in the Middle East: latest developments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B969A32C40E6FE0A7D3F1A89038069B1BF9F97CA491F6EE3466875B75F765AB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc8ed3e9d605df3dfceaf6a6a1568c4bf" alt="" /></p>The latest developments in the Middle East war:
-- Israel Lebanon warning -
-Israel's military warned Lebanese civilians against returning to dozens of villages in southern Lebanon, claiming Hezbollah's activities in the area were violating a ceasefire agreement struck last week.- Israel's 'full force' -
-Israel's Defence Minister Israel Katz said his military will use "full force" in Lebanon -- even during the ongoing ceasefire -- should Israeli troops face any threat from Hezbollah.]]></description>
-            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-072147985.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-072147985.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war: What is happening on day 52 of the US-Israeli conflict?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26A704C6CDCA93B356EEF48185941ADBD5473D15EF9741B639524764CF833242/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fba83d5f049fa8f3d5965e66f62c55a5b" alt="" /></p>Islamabad talks in limbo as Iran says it will retaliate after US marines capture an Iranian ship near Strait of Hormuz.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-war-happening-day-52-072114046.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-happening-day-52-072114046.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doubts over talks between Iran and US after violence flares in Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8346D7FE37661733C8369FFC360ED775B5951F1FD74DC63BFEDBEAC7B5BA2A3B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5c836b546181d77b03632e57b94d60f1" alt="" /></p>Pakistan moved ahead Monday with preparations for a new round of talks between the United States and Iran days before a tenuous ceasefire is set to expire, even as renewed conflict around the Strait of Hormuz raised questions about whether the meeting would take place.  Over the weekend, the U.S. attacked and seized an Iranian-flagged cargo vessel that it said had tried to evade its blockade of Iranian ports.  Iran’s joint military command vowed to respond, and its Foreign Minister Abbas Aragchi told his Pakistani counterpart that American threats to Iranian ships and ports were “clear signs” of Washington’s disingenuousness ahead of the planned talks, Iran state media reported.]]></description>
-            <link>https://www.yahoo.com/news/articles/over-3-300-people-died-070251568.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/over-3-300-people-died-070251568.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Head of Iran’s forensic medicine organization says war’s death toll is now at least 3,375 people]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
-            <link>https://www.yahoo.com/news/articles/head-iran-forensic-medicine-organization-065900030.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/head-iran-forensic-medicine-organization-065900030.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Latest: US Navy seizure of Iranian ship casts doubt on fresh ceasefire talks in Pakistan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E01DA91AF600A227B3830C96CB617E3D6F9F185D0A08BD0ADBA2E97720E24340/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6f0b474beb13ec6d2ef0de999b5b4e8e" alt="" /></p>The U.S. Navy's forcible seizure of an Iranian-flagged cargo ships threw doubt on an announcement from President Donald Trump that U.S. negotiators will head to Pakistan on Monday for another round of talks with Iran.  Trump's announcement Sunday had raised hopes of extending a fragile ceasefire set to expire by Wednesday.  Iran’s Foreign Ministry spokesperson Esmail Baghaei on Monday said Tehran did not have plans yet to attend any talks with the United States.]]></description>
-            <link>https://www.yahoo.com/news/articles/latest-us-navy-seizure-iranian-064351055.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/latest-us-navy-seizure-iranian-064351055.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says no talks with US for now, casting doubt over Pakistan efforts]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A2898454C2E15A355B178A209A91CE76CC7E8707127BF6AA199E16EA3E681EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9f237c39d02667cbb710bef8ee92e896" alt="" /></p>Iran said Monday it would not be sending negotiators to Pakistan for talks with the US, amid rising tensions.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-ready-multi-day-us-063203134.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-ready-multi-day-us-063203134.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US warship passes through Malacca Strait, Indonesian Navy says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>JAKARTA, April 20 (Reuters) - A United States warship passed through the Strait of Malacca over the weekend, the Indonesian Navy said on Monday, adding that the transit through the major sea route was]]></description>
-            <link>https://www.yahoo.com/news/articles/us-warship-passes-malacca-strait-063146970.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-warship-passes-malacca-strait-063146970.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US and allied forces kick off combat drills with Philippines despite Washington's focus on Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C0D6D7766F7BDA085DFB453C58D903C9A8EBC2EEEC817850E5088373ABE8A909/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7d97de5de6bbe796adb6b7d359ba13e0" alt="" /></p>The United States and the Philippines kicked off one of their largest combat exercises Monday in an annual display of allied military might aimed at deterring aggression in Asia, despite Washington’s preoccupation with the war in the Middle East.  The large-scale combat drills between the U.S. and Philippines will expand this year to include other militaries, including from Japan, France and Canada, which have signed visiting forces agreements with Manila, the Philippine military said.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-allied-forces-kick-off-062151886.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-allied-forces-kick-off-062151886.html</guid>
-            <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As barbed wire blocks kids from class, Palestinians stage ‘Freedom School’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE96E59475AB6508642DBDA884C3BDDF1D76B03C03681AC1DA4071CF429EAB3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7df344a56b37d957f8e580e5d4a36891" alt="" /></p>Children from Umm al-Khair in the occupied West Bank protest after setters erect a fence blocking access to school.]]></description>
-            <link>https://www.yahoo.com/news/articles/barbed-wire-blocks-kids-class-054401326.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/barbed-wire-blocks-kids-class-054401326.html</guid>
             <pubDate>Mon, 20 Apr 2026 08:32:03 GMT</pubDate>
         </item>
     </channel>
