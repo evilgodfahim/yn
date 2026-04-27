@@ -4,10 +4,83 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 00:01:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 04:05:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 00:01:38 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tsunami survivor battles wildfire to protect hometown in Japan's northeast]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MRAASwRQ35oJdh.Cm_rltw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4c2ad0189e6f284dc130c3d1cf38fa66.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/tsunami-survivor-battles-wildfire-protect-034336388.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tsunami-survivor-battles-wildfire-protect-034336388.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea's Kim reaffirms support for Russia's 'sacred' Ukraine war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/tzbl6sWgFiTkCWmWboKEaA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/900e3587d4a21f5547cdb8d78bad8865.cf.webp" alt="" /></p>North Korean leader Kim Jong Un has reaffirmed Pyongyang's support for Russia's invasion of Ukraine, vowing to help Moscow achieve victory in its "sacred" war, state media reported on Monday.Kim expressed "belief that the Russian army and people would surely win a victory in the just sacred war", KCNA reported.]]></description>
+            <link>https://www.yahoo.com/news/articles/north-koreas-kim-reaffirms-support-020151762.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-reaffirms-support-020151762.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As some hijabs come off in Iran, restrictions still in place]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QmaNLJqi3Q0E90198IVECg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/7d8edbd9cbe19eed08ba9888662768b2.cf.webp" alt="" /></p>Images of bareheaded women sipping coffee in cafes in Tehran, in apparent defiance of the Islamic republic's strict dress rule, have stirred interest outside Iran -- but for Elnaz, 32, it is no breakthrough.Mahsa, a 32-year-old student, said rules and observance are tighter in the major eastern city of Mashhad, home to one of the holiest shrines in Shia Islam.]]></description>
+            <link>https://www.yahoo.com/news/articles/hijabs-come-off-iran-restrictions-015352937.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hijabs-come-off-iran-restrictions-015352937.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orangutan uses Indonesia canopy bridge in 'world first': NGO]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/045s7QUAiLTD..WgGKUDqQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/bb6bdb88426cb63c6a1edfb99bf33041.cf.webp" alt="" /></p>A Sumatran orangutan has been filmed for the first time crossing a man-made canopy bridge constructed to help the endangered animals bypass a tarred road on the Indonesian island, an NGO said Sunday.The first Sumatran orangutan has now been caught on camera using one of the hanging bridges, SOS said in a statement sent to AFP Sunday.]]></description>
+            <link>https://www.yahoo.com/news/articles/orangutan-uses-indonesia-canopy-bridge-014854027.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/orangutan-uses-indonesia-canopy-bridge-014854027.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dealing with the dead in the ruins of Sudan's war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/J3mJkZClazt4J8YS0w2BCw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/fc93a65e31dc3153946ae63167df0f9d.cf.webp" alt="" /></p>At a makeshift morgue in Khartoum, engineer turned mortician Ali Gebbai clicked through a spreadsheet of the dead.Over three years, it turned Khartoum into an open-air graveyard.]]></description>
+            <link>https://www.yahoo.com/news/articles/dealing-dead-ruins-sudans-war-014116568.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/dealing-dead-ruins-sudans-war-014116568.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea strengthens nuclear push as US flails in Middle East]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_qjlooBG375nlJt6dZPvtA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/cc7696f1b5b739f4bd8a1ab3eb64cc7c.cf.webp" alt="" /></p>North Korea is taking advantage of the Middle East war to speed up its weapons development and cement its nuclear status in a world where international norms have broken down, analysts say."The regime judges that while the US is tied down in the Middle East, it is the optimal time to accelerate offensive deterrence and the parallel development of nuclear and conventional forces."]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-strengthens-nuclear-push-013952697.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-strengthens-nuclear-push-013952697.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caught between wars, US Afghan allies trapped in Qatar without safe exit]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/0g2tLJP3qM7tRnB47NhrzA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/6ba5225fe13717aee75fe60850eefde2.cf.webp" alt="" /></p>Stuck for over a year behind a perimeter fence on a defunct American base on Doha's edge, 1,100 former Afghan allies of US forces and their families have escaped Afghanistan with their lives only to find themselves trapped in uncertainty. Mahmoud, 38, who worked with US and international forces in Afghanistan and has lived on CAS with his family for over a year, told AFP "different rumours have circulated," whether about resettlement or the camp's closure.]]></description>
+            <link>https://www.yahoo.com/news/articles/caught-between-wars-us-afghan-012707897.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/caught-between-wars-us-afghan-012707897.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British royals begin four-day US visit despite shooting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Hr366XFQTz1S5qejoVA9Qw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/08cebfab761035f56e1951d8de0ca27d.cf.webp" alt="" /></p>Britain's King Charles III begins a state visit to the United States on Monday, as transatlantic tensions simmer over the Iran war, and despite a shooting two days earlier at a dinner attended by his host, President Donald Trump. - Controversy -
+Charles's first US state visit as monarch comes at the request of the UK government and President Donald Trump, according to the palace.]]></description>
+            <link>https://www.yahoo.com/news/articles/british-royals-begin-four-day-012158823.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/british-royals-begin-four-day-012158823.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Worker dies during stage assembly for Shakira concert in Rio]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ISbcDb3RsPxZDLZ4gfYutg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8842a568958de277a971827d0b19340d.cf.webp" alt="" /></p>RIO DE JANEIRO, April 26 (Reuters) - A worker died on Sunday after being injured during the assembly of a stage for a public concert featuring Colombian pop star Shakira in Rio de Janeiro, the state]]></description>
+            <link>https://www.yahoo.com/news/articles/worker-dies-during-stage-assembly-233104770.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/worker-dies-during-stage-assembly-233104770.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 27 Apr 2026 04:05:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Korea's Kim says will continue to support Russia's policies, KCNA says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/907E0031A25D118E3B010D3918DCEAD5C2510C6BD76F0D173D0D57BB644732CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff80fe928fc22f3bb0550d40470deae9c" alt="" /></p>SEOUL, April 27 (Reuters) - North Korean leader Kim Jong Un said his country will continue to support Russia's policies and he discussed the international political situation with Russia's defence]]></description>
@@ -6975,69 +7048,6 @@ Israel's Defence Minister Israel Katz said his military will use "full force" in
             <link>https://www.yahoo.com/news/articles/oil-prices-rise-anew-standoff-222332147.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/oil-prices-rise-anew-standoff-222332147.html</guid>
             <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran vows a swift response to the U.S. seizure of an Iranian-flagged vessel, Iran's state-run media say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-vows-swift-response-u-220610200.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-vows-swift-response-u-220610200.html</guid>
-            <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US, Mexican officials assigned to cartel case killed in car accident]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MEXICO CITY, April 19 (Reuters) - Two U.S. officials and two Mexican officials assigned to combat cartel operations died in a car accident in the northern Mexican state of Chihuahua on Sunday, a U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/two-us-officials-supporting-local-205855477.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-us-officials-supporting-local-205855477.html</guid>
-            <pubDate>Sun, 19 Apr 2026 22:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korean leader Kim Jong Un oversaw ballistic missile tests, state media says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ykobWGtgdY3B.pbqkkKFqQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/03a44c4b41fb486e3c1646ea3d1a6c89.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/north-korean-leader-kim-jong-213948904.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korean-leader-kim-jong-213948904.html</guid>
-            <pubDate>Sun, 19 Apr 2026 21:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK chief rabbi says Jews targeted by ‘sustained campaign of violence and intimidation' after string of attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/BOlvkvzlM1WId5bTLUbojw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/26a2e80d8556ac0287f1b1e2f12c8802.cf.webp" alt="" /></p>Police probe suspected Iranian proxy group allegedly behind a wave of arson attacks targeting Jewish sites in London, raising alarm across Europe.]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-chief-rabbi-says-jews-180319405.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-chief-rabbi-says-jews-180319405.html</guid>
-            <pubDate>Sun, 19 Apr 2026 21:59:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine pushes for Europe to build defense system against ballistic weapons]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/NRJGGRnpEoHIPqq1z4p4YQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/340c078c6cdd109a9c910e7c94e11451.cf.webp" alt="" /></p>KYIV, April 19 (Reuters) - Europe must have its own defense system against ballistic weapons, and Ukraine is already holding talks with several countries on its creation, Ukrainian President Volodymyr]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-pushes-europe-build-defense-194223359.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-pushes-europe-build-defense-194223359.html</guid>
-            <pubDate>Sun, 19 Apr 2026 21:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli ministers celebrate re-establishment of Sa-Nur West Bank settlement]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/bszdTXlA0oFd.xhA7J6_gA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/b65d9fbac983ef0ce16c8ace584fd85b.cf.webp" alt="" /></p>Sa-Nur is one of four former West Bank settlements approved by the government two decades after settlers were evicted.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-ministers-celebrate-establishment-sa-191355261.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-ministers-celebrate-establishment-sa-191355261.html</guid>
-            <pubDate>Sun, 19 Apr 2026 21:28:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo XIV draws 100,000 to Angola Mass, condemns corruption]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/VsNL9JCU0uZ4aiDHOL4wGw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/bf0a331853f00b9d318c6d70014b497a.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-leo-xiv-draws-100-191259664.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-xiv-draws-100-191259664.html</guid>
-            <pubDate>Sun, 19 Apr 2026 19:58:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bulgaria's pro-Russian former president takes strong lead in election, exit polls show]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A71123E2C7E14F9A0CCA7A199DEEEF5BB000FD1BADCBB1758D8536836DED721E/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff866b9f7a3d9e90beec00a682721b384" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/bulgaria-votes-pro-russian-former-010824655.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bulgaria-votes-pro-russian-former-010824655.html</guid>
-            <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan prime minister speaks with Iran's president]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/795EABE21EA68FFA77444353B3158E544E6DB48F152C172A3490FD99D5FF22F3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe859d18ce897dc6d84da903127a10de4" alt="" /></p>April 19 (Reuters) - Pakistan's Prime Minister Shehbaz Sharif said on Sunday that he spoke with Iran's President Masoud Pezeshkian about the conflict in the Gulf.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-prime-minister-speaks-irans-184601822.html</guid>
-            <pubDate>Sun, 19 Apr 2026 19:12:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
