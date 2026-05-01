@@ -4,16 +4,151 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 02:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 05:52:43 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The world’s biggest democracy has purged electoral rolls, leaving many without a vote]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C477F8AB374CD1574A113B337981433860293606CAB822EAA18B1C276737D61/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F826396b08792fcb34d7abc940cd384a2" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/world-biggest-democracy-purged-electoral-045603981.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/world-biggest-democracy-purged-electoral-045603981.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Detained Myanmar ex-leader Suu Kyi to meet legal team this weekend]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/141E2C5DF419A7A16D67682C08BA8EF856BDB0E29A52B562545D5D5215E10431/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2a211e6d8609c5c95a648993a467f072" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/detained-myanmar-ex-leader-suu-041530027.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/detained-myanmar-ex-leader-suu-041530027.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[War-battered Syria now sells itself as a safe corridor amid regional conflict]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9574F292D5702557928D2BAD5592698FCD4DDD3BA9F363393E4E7A35A33FDEAC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F36cb3341ec1bb70183192728746e136a" alt="" /></p>Ahed Badawi lived for more than a decade in Bahrain, a small Gulf country that — unlike her native Syria — rarely made headlines.  It provided a refuge for her, her sister and their elderly mother during Syria’s 14 years of civil war.  War-battered Syria has stood out as one of the few spots of calm in the region’s latest conflagration.]]></description>
+            <link>https://www.yahoo.com/news/articles/war-battered-syria-now-sells-050440213.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-battered-syria-now-sells-050440213.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 4:29 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Former Myanmar leader Aung San Suu Kyi has been moved from prison to house arrest and her sentence has been reduced as part of a prisoner amnesty for a Buddhist holiday.  Accompanying the announcement was a photo of the 80-year-old leader dressed in a traditional white blouse and skirt and sitting on a bench behind a low table facing unidentified men who wear military and police uniforms.]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-4-29-040000782.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-29-040000782.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 5:05 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-30-040000088.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-30-040000088.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 4:29 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-4-29-m-040000268.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-29-m-040000268.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Politics Headlines at 5:09 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000216.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-4-040000216.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US official says Iran war truce 'terminated' hostilities for war powers deadline]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8329E858097DF1D75C0848786D517560AE59990F47DE7F8142EAD0FC7DBF47CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd777f14e6d86ca12840e2ce8b8a84495" alt="" /></p>By Bo Erickson and Kanishka Singh WASHINGTON, April 30 (Reuters) - A U.S.-Iran ceasefire that began in early April has "terminated" hostilities between the two sides for the purposes of an approaching]]></description>
+            <link>https://www.yahoo.com/news/articles/war-powers-resolution-purposes-us-010741555.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-powers-resolution-purposes-us-010741555.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US should resume bombing Iran: John Bolton]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8B4DE0D68FD5CEE84A96128E3804E19E0534B9E3CA3511EBE83773DD69B3B00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fa49c3f3718b03997ae3c794e2012c174" alt="" /></p>A ceasefire between has been in place since April 8, as the White House seeks an agreement from Iran to abandon its nuclear ambitions.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-resume-bombing-iran-john-020902747.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-resume-bombing-iran-john-020902747.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blockbuster EU-Mercosur trade deal enters into force]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EBF2DF1AC687197E4083DB888D1B6E4E0694649370E740B4D3633BCB3F31B575/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F50f6e3ec677e9bf2907534ce8c4269fe" alt="" /></p>The European Union's mammoth trade deal with South American bloc Mercosur provisionally enters into force Friday, despite a pending court ruling on its legality.The agreement favours European exports of cars, wine and cheese, while making it easier for South American beef, poultry, sugar, rice, honey and soybeans to enter Europe.]]></description>
+            <link>https://www.yahoo.com/news/articles/blockbuster-eu-mercosur-trade-deal-015407952.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/blockbuster-eu-mercosur-trade-deal-015407952.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaska governor vetoes election bill citing 'significant operational burdens']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82EC22EF9A2C36EB011A106547C1936DCBC2B947DC5AB54F5F9737DD2C91DF95/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2093c8cdf7b3bb2a739827576c1aea7b" alt="" /></p>By Jasper Ward April 30 (Reuters) - Alaska Governor Mike Dunleavy on Thursday vetoed a major election reform bill, citing "significant operational burdens" and unspecified legal challenges.]]></description>
+            <link>https://www.yahoo.com/news/articles/alaska-governor-vetoes-election-bill-014503947.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/alaska-governor-vetoes-election-bill-014503947.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar’s detained former leader Aung San Suu Kyi moved to house arrest, military says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1434CD4F6F920AF0FDEF0AECFEE70A140220D0199D3027FC51A976EBEA3AB85A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fb4c63a0545c80b4ae740cebce0ca7b0c" alt="" /></p>Myanmar’s detained former leader Aung San Suu Kyi is to be moved to house arrest, state media reported on Thursday, more than five years after the military ousted the civilian government she led and jailed the Nobel laureate.]]></description>
+            <link>https://www.yahoo.com/news/articles/myanmar-detained-former-leader-aung-004258064.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/myanmar-detained-former-leader-aung-004258064.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Global famine fears rise as Hormuz crisis threatens ‘eight-year,' Suez-scale disruption]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FBB403248905A248374A1D156025B03B9E35A1CEBAB7964CCF97FE508252F38A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6258d0c75ac336eee040784858e1c749" alt="" /></p>Global famine fears are rising as the Strait of Hormuz crisis strains food supply chains, drives up fertilizer prices and threatens harvests worldwide.]]></description>
+            <link>https://www.yahoo.com/news/articles/global-famine-fears-rise-hormuz-011606211.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/global-famine-fears-rise-hormuz-011606211.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Air Force plans to buy five more Boeing E-7A surveillance aircraft]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Dan Catchpole April 30 (Reuters) - The U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-air-force-plans-buy-010459049.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-air-force-plans-buy-010459049.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mother-in-law of slain beauty queen arrested after international manhunt]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/879D6B826126387CB7B91733D29E79B430DA373ADCC356BF120C477AA832FCEF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F8585eade9b8e9cf3c932012bd9ac383b" alt="" /></p>Authorities arrested the suspected fugitive mother-in-law accused of killing a former Mexican beauty queen after a two-week international manhunt.]]></description>
+            <link>https://www.yahoo.com/news/articles/mother-law-slain-beauty-queen-002233380.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mother-law-slain-beauty-queen-002233380.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transgender Idaho residents challenge state law restricting public restroom access]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Steve Gorman April 30 (Reuters) - Six transgender residents of Idaho have filed suit challenging a new state law making it a crime for them to use sex-designated public restrooms and changing areas]]></description>
+            <link>https://www.yahoo.com/news/articles/transgender-idaho-residents-challenge-state-000721169.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/transgender-idaho-residents-challenge-state-000721169.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US FEMA reinstates employees it placed on leave after letter of dissent]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA69CACCA39713D19F1963EFEC39B6951C4B17F5ED45B560FD4C6B089556C233/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc3c88e6632c142aeb63a3fe3dd42392c" alt="" /></p>By Kanishka Singh WASHINGTON, April 30 (Reuters) - The U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-fema-reinstates-employees-placed-234932649.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-fema-reinstates-employees-placed-234932649.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 05:52:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fact Check: FAKE Pictures Show Giorgia Meloni Wearing Palestinian Flag Scarf, Slapping Benjamin Netanyahu -- They're Screenshots From An AI Video]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CHMtkGs0uBJZLjNlAR0uTQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/lead_stories_560/b24653d3fb0670a8d9fc33e0f8fa5b26.cf.webp" alt="" /></p>Source: Lead Stories]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-fake-pictures-show-020715615.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-pictures-show-020715615.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +156,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ddRF6bHio4FE1wvA3rNx6A--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a68d5ed6347655e796dd709e66ec4694.cf.webp" alt="" /></p>Source: Associated Press]]></description>
             <link>https://www.yahoo.com/news/articles/know-may-day-demonstrations-workers-010503986.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-may-day-demonstrations-workers-010503986.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +163,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XslSe5WasKoVykuF2r4KEg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/e09ff0a29d640b9e1706fe171c695847.cf.webp" alt="" /></p>BUENOS AIRES, April 30 (Reuters) - Argentina's Casa Rosada, where government press conferences are held, will allow accredited journalists back on Monday after blocking access last week, a]]></description>
             <link>https://www.yahoo.com/news/articles/argentinas-casa-rosada-invites-journalists-000051887.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/argentinas-casa-rosada-invites-journalists-000051887.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
         </item>
         <item>
@@ -6924,125 +7057,6 @@ pno/bar/sla/md]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27D87CA39286CD17092D2B1E4044F7FC883844C25A07E58E640275F2B9B270FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8353e8ce17e963bdc0a8476f3a2b0a64" alt="" /></p>April 23 (Reuters) - Ukraine has developed interceptor drones that can be directed from a distance and are capable of hitting targets hundreds or thousands of kilometres away, Defence Minister]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-remote-control-drones-hit-193413128.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-remote-control-drones-hit-193413128.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU unblocks funds as Ukraine presses for membership progress]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F96B563EBBF35A247278F993D79D270B797D287E879868910B7580586D66432F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0864da2cacef96ea781a88a77b89bd77" alt="" /></p>European leaders celebrated the long-awaited approval of the release of a 90-billion-euro ($105-billion) loan for Ukraine on Thursday, but Ukrainian President Volodymyr Zelensky quickly pushed the debate back to his country's EU accession.Zelensky has said the 90 billion euros will be used to "strengthen" the Ukrainian army, boost production in air defence and protect the country's energy grid.]]></description>
-            <link>https://www.yahoo.com/news/articles/eu-unblocks-funds-ukraine-presses-191254971.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-unblocks-funds-ukraine-presses-191254971.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US charges 2 Chinese nationals with managing cyberscam compound in Myanmar]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/670E16BA39BAFA389A97992B9BA1FD0CB6473C00FD5E3FE0183808307BFEA16D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F34e03bf943cc133076f0ca352f238aff" alt="" /></p>Two Chinese nationals face charges in the U.S. that they managed a sprawling compound in Myanmar where authorities say workers were forced to participate in cryptocurrency investment fraud scams, according to court records unsealed Thursday in Washington, D.C.  A complaint filed in federal court charges the suspects — Huang Xing Shan and Jiang Wen Jie — with wire fraud conspiracy.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-charges-2-chinese-nationals-190225626.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-charges-2-chinese-nationals-190225626.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa president suspends police chief over $21m contract]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CF20AADABCFF1EC2433A25244A89B8FCBB7F02632DA5D1C5E41D81D100027EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0e017627477a7cfafd590f0aae090fab" alt="" /></p>Police chief Fannie Masemola suspended as President Cyril Ramaphosa faces pressure to tackle corruption ahead of polls.]]></description>
-            <link>https://www.yahoo.com/news/articles/south-africa-president-suspends-police-184330418.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-africa-president-suspends-police-184330418.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italian peacekeepers replace crucifix desecrated in south Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ROME, April 23 (Reuters) - Italian UN peacekeepers have replaced the statue of Jesus Christ vandalised by Israeli soldiers in southern Lebanon, Prime Minister Giorgia Meloni said on Thursday.]]></description>
-            <link>https://www.yahoo.com/news/articles/italian-peacekeepers-replace-crucifix-desecrated-183346864.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/italian-peacekeepers-replace-crucifix-desecrated-183346864.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to know about a federal order reclassifying medical marijuana as a less dangerous drug]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6E0FCC9E480430A0518539287F6AA291063480FFE6573C7576E3881AF72A323F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6aed474cb5a38d1374930073c3068aba" alt="" /></p>President Donald Trump's administration has reclassified medical marijuana, which is already licensed in most states, as a less dangerous drug.  The action could facilitate new research on medicinal uses and make the marijuana industry more profitable.  Possessing marijuana is a federal crime punishable by fines and prison time.]]></description>
-            <link>https://www.yahoo.com/news/articles/know-federal-order-reclassifying-medical-183218735.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-federal-order-reclassifying-medical-183218735.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mixed views in Lebanon ahead of controversial talks with Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/379058BB23C5B835237975E8081AB00E92E54BE81255D729892AADCD2F88F62D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5d173ea00680716e1ab000216b117ae3" alt="" /></p>Lebanon remains divided over the best way to end the conflict with Israel, with some backing Hezbollah’s armed response.]]></description>
-            <link>https://www.yahoo.com/news/articles/mixed-views-lebanon-ahead-controversial-180939391.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mixed-views-lebanon-ahead-controversial-180939391.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran fast-boat swarms add to Hormuz threats for shipping]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E25780D8E002541C35F2DA3914DBD8496F7205146ABBCC8BFDA29C18A562AD86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2Ff785175f75b813fcc1520719e3b2fe22" alt="" /></p>Iran's use of small, fast boats to seize container ships could undermine suggestions U.S. forces have disabled its naval threat.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-fast-boat-swarms-add-180347510.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-fast-boat-swarms-add-180347510.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo condemns Iran’s killing of protesters but says he cannot support war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/998D466A4D8C96392030F8F8B7CF7F43E9D8F8632866610CA0357F438D3E11DD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F24190feef8ed9c52699d0c3363b04883" alt="" /></p>Pope Leo XIV on Thursday denounced the Iranian regime’s killing of protesters but stressed that, “as a pastor,” he cannot support the US-Israeli war with Iran.]]></description>
-            <link>https://www.yahoo.com/news/articles/pope-leo-condemns-iran-killing-180140321.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-condemns-iran-killing-180140321.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More than 6 million Somalis face hunger amid climate shocks and conflict]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE74241E014DC073F26AEB7718A0F7863277B1C4410469748F6A12E36663F785/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F00883bfff355856b062b9cd0c85162f8" alt="" /></p>Drought, failed rains, and conflict drive 6.5 million Somalis into hunger; children face acute malnutrition risks.]]></description>
-            <link>https://www.yahoo.com/news/articles/more-6-million-somalis-face-174535215.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/more-6-million-somalis-face-174535215.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli forces kill Palestinian teenager in occupied West Bank raid]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3194D381F7095624B7DAFD0205AA2E980E811588D4AFA14BC6B59A5B619AC907/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd2505eeee19585364e35cc646778af7c" alt="" /></p>Teenager dies in hospital after Israeli forces shot him with live ammunition in the shoulder, Palestinian media reports.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-forces-kill-palestinian-teenager-174502617.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-forces-kill-palestinian-teenager-174502617.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran's Mehr says air defences heard 'engaging hostile targets' in Tehran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 23 (Reuters) - Air defence systems were heard engaging what were described as "hostile targets" in parts of the Iranian capital Tehran on Thursday, Iran's Mehr news agency reported, after]]></description>
-            <link>https://www.yahoo.com/news/articles/irans-mehr-says-air-defences-174137879.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-mehr-says-air-defences-174137879.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France investigates suspected tampering with weather sensors after Polymarket bets]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FBE2C28668A709D30A444832A32018EF6BCD627383819E6E7982354D5545EA13/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F2f2f1443a9023cae8c96b0f047ef45b6" alt="" /></p>A weather sensor in France’s busiest airport, Paris-Charles de Gaulle, has been tampered with in what a French weather association says it suspects to be a betting scam.]]></description>
-            <link>https://www.yahoo.com/news/articles/france-investigates-suspected-tampering-weather-173418127.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/france-investigates-suspected-tampering-weather-173418127.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New multilateral force for gang-plagued Haiti to deploy soon, UN told]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/509837E3419282E3A276147C1D26F6B839BB5ED3A5A575B18666986A48CFE191/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F25590ca210fae962f4fd4c961283dafa" alt="" /></p>The new multinational force tasked with combating gangs in Haiti will deploy in "phases" over the coming months, a special representative for the force said Thursday."We are at a critical early phase of establishing the GSF," said Jack Christofides, the special representative for the Gang Suppression Force, told the UN Security Council.]]></description>
-            <link>https://www.yahoo.com/news/articles/multilateral-force-gang-plagued-haiti-170846000.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/multilateral-force-gang-plagued-haiti-170846000.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese national arrested for photographing US military aircraft: DOJ]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74FD7B6916C053ADAE0D9DE0155225D1B74243711A4B10F6E9FE77D7117D00B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F67af1f19b6b61315fb6ca148a0ee1b8f" alt="" /></p>Liang faces up to one year in prison if convicted, though additional charges may still be filed.]]></description>
-            <link>https://www.yahoo.com/news/articles/chinese-national-arrested-photographing-us-164707780.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/chinese-national-arrested-photographing-us-164707780.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia warns European states against hosting French nuclear bomber planes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0469157F1B02A5473D1A2ECD3FAEEB41F538CCEBF102317BEEB5E285FC9BE466/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F32b92a949d083f853c6a45e1382ea999" alt="" /></p>By Mark Trevelyan April 23 (Reuters) - Russia warned on Thursday that any European countries that accepted deployments of French nuclear-capable strategic bombers would make themselves targets for]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-warns-european-states-against-154836466.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-warns-european-states-against-154836466.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Movie Review: Moving but sometimes cloying, Tourette’s tale ‘I Swear’ soars on superb acting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0FFF8A5A01045561CC31CD2BC64057EBC2C95A90D1B6CCF0B92A896E72216377/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1460ab3d4fcec014976892dcbfedc99d" alt="" /></p>Perhaps the saddest thing about “I Swear,” the moving if also occasionally cloying film about Tourette’s activist John Davidson, is that a movie aimed at forging understanding ended up unwittingly causing division and horror — at a ceremony where it was being celebrated.  At the same British Academy Film Awards ceremony in February where Robert Aramayo, the absolutely terrific actor who plays Davidson, was a surprise best actor winner, Davidson’s involuntary racial slur hurled at presenters Michael B. Jordan and Delroy Lindo was more shocking than any moment in the film.  As Davidson himself says in the movie: “The problem isn’t Tourette’s — the problem is that people don’t know enough about Tourette’s.”]]></description>
-            <link>https://www.yahoo.com/news/articles/movie-review-moving-sometimes-cloying-154438540.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/movie-review-moving-sometimes-cloying-154438540.html</guid>
-            <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Higher fuel costs due to Iran war mean fewer people will receive aid globally, NRC says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7C27C8E3C871FD198946ED2A4193AE498691F8608C97DBD712562E1807BFABB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F63c33efc4734aa0eb0bb00331722dd13" alt="" /></p>By Gwladys Fouche OSLO, April 23 (Reuters) - The Iran war is having a devastating humanitarian impact globally with higher energy prices making everything from filling the tank of an aid lorry to]]></description>
-            <link>https://www.yahoo.com/news/articles/higher-fuel-costs-due-iran-144612396.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/higher-fuel-costs-due-iran-144612396.html</guid>
             <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
         </item>
     </channel>
