@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 23:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 02:14:55 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 23:44:40 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fact Check: FAKE Pictures Show Giorgia Meloni Wearing Palestinian Flag Scarf, Slapping Benjamin Netanyahu -- They're Screenshots From An AI Video]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CHMtkGs0uBJZLjNlAR0uTQ--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/lead_stories_560/b24653d3fb0670a8d9fc33e0f8fa5b26.cf.webp" alt="" /></p>Source: Lead Stories]]></description>
+            <link>https://www.yahoo.com/news/articles/fact-check-fake-pictures-show-020715615.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-pictures-show-020715615.html</guid>
+            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to know about May Day demonstrations as workers face rising energy costs due to Iran war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ddRF6bHio4FE1wvA3rNx6A--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/a68d5ed6347655e796dd709e66ec4694.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/know-may-day-demonstrations-workers-010503986.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-may-day-demonstrations-workers-010503986.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argentina's Casa Rosada invites journalists back starting Monday]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/XslSe5WasKoVykuF2r4KEg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/e09ff0a29d640b9e1706fe171c695847.cf.webp" alt="" /></p>BUENOS AIRES, April 30 (Reuters) - Argentina's Casa Rosada, where government press conferences are held, will allow accredited journalists back on Monday after blocking access last week, a]]></description>
+            <link>https://www.yahoo.com/news/articles/argentinas-casa-rosada-invites-journalists-000051887.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/argentinas-casa-rosada-invites-journalists-000051887.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 02:14:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brazil’s Lula plans new nomination to Supreme Court after historic defeat, sources say]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F5BED8CC1626049C773080EF2427DABFEF94F25E5292F69BBF9E8E33EC61EED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbcd503c9b225e5df655bd35a7c353ccf" alt="" /></p>(Refiles with new headline) By Lisandra Paraguassu and Ricardo Brito BRASILIA, April 30 (Reuters) - Brazilian President Luiz Inacio Lula da Silva plans to soon submit a new nomination to the Senate]]></description>
             <link>https://www.yahoo.com/news/articles/brazil-lula-plans-nomination-supreme-214747207.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazil-lula-plans-nomination-supreme-214747207.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 23:44:40 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65B0BA5E862A747814DE637918A77CB98F7E2B407AC2F568378A6D4767A91D85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fa88e70909c0299c25ca5b6ab62ef3b0d" alt="" /></p>Britain raised its national terror threat level to severe after two people were stabbed in an antisemitic attack in London's Golders Green neighborhood.]]></description>
             <link>https://www.yahoo.com/news/articles/britain-warns-another-terror-attack-204459046.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/britain-warns-another-terror-attack-204459046.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Thu, 30 Apr 2026 23:44:40 GMT</pubDate>
         </item>
         <item>
@@ -7022,27 +7044,6 @@ pno/bar/sla/md]]></description>
             <link>https://www.yahoo.com/news/articles/higher-fuel-costs-due-iran-144612396.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/higher-fuel-costs-due-iran-144612396.html</guid>
             <pubDate>Thu, 23 Apr 2026 19:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran fast-boat swarms add to Hormuz threats for shipping]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Qtv.VVUmFw9PBcZL5pwJIw--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/34c0ee75c748f09268624ea75aa49bac.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-fast-boat-swarms-add-174719587.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-fast-boat-swarms-add-174719587.html</guid>
-            <pubDate>Thu, 23 Apr 2026 18:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bolivia, Chile move to restore ties severed 50 years ago]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ciF40rmSRmVuEXSjKuEAhA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/b6ea09036b39da6a7fb876ea8514655d.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/bolivia-chile-move-restore-ties-173948844.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bolivia-chile-move-restore-ties-173948844.html</guid>
-            <pubDate>Thu, 23 Apr 2026 18:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA declines Grace's stroke drug over manufacturing and packaging issues]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HRY7SHzhaqLZYL3FS21qrA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4d6ed3adad2e1e527a70085922407b69.cf.webp" alt="" /></p>April 23 (Reuters) - Grace Therapeutics said on Thursday the U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-fda-declines-approve-grace-172551424.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-fda-declines-approve-grace-172551424.html</guid>
-            <pubDate>Thu, 23 Apr 2026 18:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
