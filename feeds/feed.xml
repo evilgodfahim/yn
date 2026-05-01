@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 22:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 23:12:58 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US approves military sales of over $8.6 billion to Middle East allies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qyPrP2d4cHdnKrBdYLRPLQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/6ba82022d927aa3a439628337b4bdcae.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-approves-military-sales-over-223148418.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-approves-military-sales-over-223148418.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to withdraw 5,000 troops from Germany in next 6-12 months]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/55rQB3DCmtm54YTvgwPBWw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b759db056cc2501c15c0fbba76617dce.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-223052847.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-223052847.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands march under May Day ‘workers over billionaires’ theme]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7eL_EG4syjbOiqRFmYgcvg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/5035006ab5ba7cccb177ef8ced8415d7.cf.webp" alt="" /></p>More than 3,000 events were planned across the country, with teachers and labor unions leading marches nationwide.]]></description>
+            <link>https://www.yahoo.com/news/articles/thousands-march-under-may-day-192636688.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-march-under-may-day-192636688.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Venezuelan protesters call government wage hike a joke]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F9CC6A17BF1437A13E2D3C7AB4F7092CA361B95D6F173FC29A78405C2D704E9/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7c15ebbcdada24b12c7f5cb58c6dc880" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/venezuelan-protesters-call-government-wage-212846006.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelan-protesters-call-government-wage-212846006.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MEXICO CITY, May 1 (Reuters) - A holiday Labor Day weekend turned tragic on Friday as at least 11 people died and 31 others were injured when a tourist bus crashed in Mexico's western state of Nayarit]]></description>
             <link>https://www.yahoo.com/news/articles/least-11-dead-western-mexico-215238049.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-11-dead-western-mexico-215238049.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1CBEDDC1196E7C1684FB061A285B6128D1D6823A7EEEEDF18351D2E1419E6456/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe13335a1c8105619f076b56a19f99918" alt="" /></p>By Phil Stewart and Idrees Ali WASHINGTON, May 1 (Reuters) - The United States is withdrawing 5,000 troops from NATO ally Germany, the Pentagon announced on Friday, as a rift over the Iran war widens]]></description>
             <link>https://www.yahoo.com/news/articles/us-withdrawing-5-000-troops-213331389.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-withdrawing-5-000-troops-213331389.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFD13746EF7A9835A1A5501D89249B9C72DC057460AA306C3C103CE0956DD60F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8c94fd29227c44fac97b3eceede296c7" alt="" /></p>Israel’s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/least-12-killed-latest-israeli-211015686.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-12-killed-latest-israeli-211015686.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +66,6 @@
 In May 2025, WHO members adopted a landmark agreement on tackling future health crises, after more than three years of negotiations sparked by the shock of Covid-19.]]></description>
             <link>https://www.yahoo.com/news/articles/gridlock-pandemic-treaty-talks-fail-210412788.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gridlock-pandemic-treaty-talks-fail-210412788.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +73,6 @@ In May 2025, WHO members adopted a landmark agreement on tackling future health 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2875B16D892787DAAA973728D9C8BB94693406C0C28DAA6F375F9A287AB2182D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7fb2481a6e5c769eed97946910b9758c" alt="" /></p>Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.]]></description>
             <link>https://www.yahoo.com/news/articles/iranian-nobel-laureate-narges-mohammadi-205955745.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-nobel-laureate-narges-mohammadi-205955745.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +80,6 @@ In May 2025, WHO members adopted a landmark agreement on tackling future health 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B447DFC53552791F8626B47BBE77481FF4A2882FC7E8A392BAA836B9DA82C79/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6bc9972c605fb8f73927b0d01842b384" alt="" /></p>By Daniel Wiessner May 1 (Reuters) - A U.S. appeals court on Friday temporarily blocked a federal rule allowing the abortion drug mifepristone to be dispensed through the mail, significantly]]></description>
             <link>https://www.yahoo.com/news/articles/us-court-blocks-mail-order-204737582.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-court-blocks-mail-order-204737582.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +87,6 @@ In May 2025, WHO members adopted a landmark agreement on tackling future health 
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The U.S. stock market is rising toward more records after Apple, Estee Lauder and others joined the list of companies delivering fatter profits for the start of the year than analysts expected.  The Dow Jones Industrial Average fell 40 points, and the Nasdaq composite added 1% to its own record.  The Nasdaq composite rose 222.13 points, or 0.9%, to 25,114.44.]]></description>
             <link>https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201515173.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201515173.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
         <item>
@@ -7024,27 +7040,6 @@ For a long time, the owners of the building where Anne Chatelain lives near Pari
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/593257C6BD5D14BF1D6F6DE45D609CA7DAC7404E8D30A4EEC9B2D203033981DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff57a57d909620fd1b0d76ff29ca83144" alt="" /></p>Documents seen by Al Jazeera say Iran is seeking land transit for stranded sea cargo to bypass US blockade.]]></description>
             <link>https://www.yahoo.com/news/articles/3-000-containers-stuck-pakistan-115322511.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/3-000-containers-stuck-pakistan-115322511.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelenskiy arrives in Saudi Arabia seeking security cooperation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8983C4DF90F88AB4376BF3937C27C5930BF19009BD0F2B3B4D27445782017E22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fad05067499c9b9c2797d7545dded2abd" alt="" /></p>KYIV, April 24 () - Ukrainian President Volodymyr Zelenskiy on Friday arrived in Jeddah on his ‌second visit to Saudi Arabia in a ‌month, as Kyiv tries to bolster security cooperation and advertise ​its battle-tested technology in the Middle East amid the Iran war. "Yesterday, at a meeting with European leaders, we secured financial guarantees for our resilience.]]></description>
-            <link>https://www.yahoo.com/news/articles/zelenskiy-arrives-saudi-arabia-seeking-114925995.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskiy-arrives-saudi-arabia-seeking-114925995.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu reveals he quietly underwent treatment for undisclosed prostate cancer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F37D801FF7CA56A93BA42484CB500E04AFEDC25BDD68D3A702B3316D19E23823/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F830cf188113dc0632ca37eae8e662545" alt="" /></p>Israeli Prime Minister Benjamin Netanyahu quietly underwent treatment for prostate cancer, he said as he publicized the results of his annual medical examination.]]></description>
-            <link>https://www.yahoo.com/news/articles/netanyahu-reveals-quietly-underwent-treatment-114523742.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahu-reveals-quietly-underwent-treatment-114523742.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Main suspect in Syria's Tadamon massacre arrested, ministry says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DE3989E78AB7ABF16FD43F7040F9FC8276F118CF5CB29E59C3D356760BDBCB0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3fd29ef696625e9e8a2e36bb40a48fe2" alt="" /></p>April 24 - Syria's Interior Ministry said on Friday it had arrested the main suspect in the 2013 Tadamon massacre, one of the worst acts ‌of violence attributed to the former government of Bashar al-Assad, in which 288 ‌civilians were killed. The ministry released footage of Amjad Yousef’s arrest in the Al-Ghab Plain area of Hama province in ​western Syria, near his hometown.]]></description>
-            <link>https://www.yahoo.com/news/articles/main-suspect-syrias-tadamon-massacre-113512471.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/main-suspect-syrias-tadamon-massacre-113512471.html</guid>
             <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
         </item>
     </channel>
