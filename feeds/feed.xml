@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 17:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 18:07:24 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 17:11:52 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 18:07:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UK PM says some pro-Palestinian marches could be banned]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60711D7A4D97A49E389125E72175300E9135F50DBDE4B462F4AC42219C1C206B/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5986dc9a755342f6adac07f9f699147c" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/uk-pm-says-pro-palestinian-171330209.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-pm-says-pro-palestinian-171330209.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 18:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen reports hijacked oil tanker headed for Somalia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/811946C43BA11F966CD475D0085B9A3ADFA38F4F2D42EAAD466A29AFB39C0DE5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc82ce3bc07b7e9f7115b54085c6255b3" alt="" /></p>The incident marks at least the fourth vessel hijacking near Somalia in recent weeks.]]></description>
+            <link>https://www.yahoo.com/news/articles/yemen-reports-hijacked-oil-tanker-171029166.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemen-reports-hijacked-oil-tanker-171029166.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 18:07:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Austrian police arrest man over poisoned baby food case]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>VIENNA, May 2 () - Austrian police said on Saturday they have arrested a 39-year-old suspect in connection ‌with a case in which rat poison was ‌placed in jars of baby food in what their German manufacturer called ​an attempt to extort it. Five "manipulated" jars of the same kind of baby food made by German brand HiPP were safely recovered last month in Austria, the Czech Republic and ‌Slovakia before they ⁠could be consumed, German police said at the time.]]></description>
             <link>https://www.yahoo.com/news/articles/austrian-police-arrest-man-over-164044534.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/austrian-police-arrest-man-over-164044534.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 17:11:52 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>SAO PAULO, May 2 (Reuters) - Heavy rains that hit northeastern Brazil over the last 48 hours have killed at least six people and displaced thousands in the states of Pernambuco and Paraiba, the]]></description>
             <link>https://www.yahoo.com/news/articles/least-six-dead-thousands-displaced-163435123.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-six-dead-thousands-displaced-163435123.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 17:11:52 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 2 (Reuters) - Lebanese armed forces commander General Rudolf Haykal and U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanese-army-chief-us-general-162101404.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanese-army-chief-us-general-162101404.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 17:11:52 GMT</pubDate>
         </item>
         <item>
@@ -7029,20 +7042,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <link>https://www.yahoo.com/news/articles/france-kept-climate-change-off-164628515.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/france-kept-climate-change-off-164628515.html</guid>
             <pubDate>Fri, 24 Apr 2026 23:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to hold public hearings on April 28-29 related to probes of forced labor]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/51eGntPWcaAW5wfU_WqLJQ--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/033875db4044f564f46d7779970d1dbe.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-hold-public-hearings-april-203009352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-hold-public-hearings-april-203009352.html</guid>
-            <pubDate>Fri, 24 Apr 2026 21:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Petro becomes first president to visit Venezuela since Maduro abduction]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/8D2FpK.TR.KYaHnmUkjUug--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/005b5f4821f16caa511d53e6649183cb.cf.webp" alt="" /></p>Border security set to loom large as Colombia’s leader meets interim Venezuelan President Delcy Rodriguez.]]></description>
-            <link>https://www.yahoo.com/news/articles/petro-becomes-first-president-visit-200008781.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/petro-becomes-first-president-visit-200008781.html</guid>
-            <pubDate>Fri, 24 Apr 2026 21:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
