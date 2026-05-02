@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 06:05:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 08:04:11 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 06:05:18 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mexican governor Ruben Rocha steps down, NYT reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/iyvBdLGunLpo6T_3Cuw1eg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b9ca29828d000af40c3dfa1d6652f69c.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/mexican-governor-ruben-rocha-steps-062251128.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexican-governor-ruben-rocha-steps-062251128.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to withdraw about 5,000 troops from Germany]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SKaxoDCRIsVqaHao0JJTog--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/a4a8e976c4cc9a72d844abd36c3e83a1.cf.webp" alt="" /></p>US Defense Secretary Pete Hegseth has ordered the withdrawal of about 5,000 troops from Germany within the next year, the Pentagon said on Friday, in the latest rift in transatlantic ties over the Mideast war.Pentagon spokesman Sean Parnell said in a Friday statement that "We expect the withdrawal to be completed over the next six to twelve months."]]></description>
+            <link>https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-224118699.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-224118699.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 7:06 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US warns shipping firms they could face sanctions over paying Iranian tolls in the Strait of Hormuz]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-56-040000804.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-56-040000804.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 4:56 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>What to know about May Day demonstrations as workers face rising energy costs due to Iran war]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-4-56-m-040000345.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-56-m-040000345.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 4:56 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Activists worldwide held May Day rallies and street protests on Friday, calling for peace, higher wages and better working conditions as many workers grapple with rising energy costs and shrinking purchasing power tied to the Iran war. May 1 is a public holiday in many countries to mark International Workers' Day, or Labor Day, when workers' unions traditionally rally around wages, pensions, inequality and broader political issues. Demonstrations were held across Asia — from South Korea to Australia and Indonesia — to many European capitals.]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-4-56-040000184.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-56-040000184.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon says 13 killed in Israeli strikes in south]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CzklKQ3MyBBda3zz39hKjg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/2684d1ed7c840e5d0889c8a3509379dc.cf.webp" alt="" /></p>Lebanon's health ministry said 13 people were killed on Friday in Israeli strikes in the south, including in a town where Israel's army had issued an evacuation order despite a ceasefire.Lebanon's health ministry on Friday raised the toll from Israeli strikes since March 2 to more than 2,600 dead, including 103 emergency workers and paramedics.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-says-13-killed-israeli-011415797.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-13-killed-israeli-011415797.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 08:04:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Peru probes trafficking of citizens to fight for Russia in Ukraine]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JTXgG1fM8llEVLSnS_SN_Q--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d788c558711a5c4b493b012e644be408.cf.webp" alt="" /></p>Peru’s public prosecutor says many of their citizens are victims of deception, lured by ⁠the promise of jobs.]]></description>
             <link>https://www.yahoo.com/news/articles/peru-probes-trafficking-citizens-fight-031446507.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/peru-probes-trafficking-citizens-fight-031446507.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 06:05:18 GMT</pubDate>
         </item>
         <item>
@@ -6996,49 +7043,6 @@ lg/jss/mar/msp/bgs]]></description>
             <link>https://www.yahoo.com/news/articles/palestinians-mourn-third-teenager-killed-123959574.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinians-mourn-third-teenager-killed-123959574.html</guid>
             <pubDate>Fri, 24 Apr 2026 14:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Netanyahu says doctors treated malignant prostate tumor]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ZT.VQBBB4cJZeGBC4_oWFQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/5ad4c69e0793135eb5b0d790da297c17.cf.webp" alt="" /></p>Besides the tumor, the annual health assessment finds Netanyahu to be in good health.]]></description>
-            <link>https://www.yahoo.com/news/articles/netanyahu-says-doctors-treated-malignant-123004560.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/netanyahu-says-doctors-treated-malignant-123004560.html</guid>
-            <pubDate>Fri, 24 Apr 2026 14:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates: War in Iran a ‘gift to the world,’ Hegseth says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/L5CIpHLEsS15zJQ3lA2KKg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/81bf0cd45955f2c733655486ce1028d1.cf.webp" alt="" /></p>Hegseth says unlike wars in the past,” the ongoing U.S. operation in Iran “has delivered decisive military results.”]]></description>
-            <link>https://www.yahoo.com/news/articles/live-updates-fragile-ceasefire-holds-100624772.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-fragile-ceasefire-holds-100624772.html</guid>
-            <pubDate>Fri, 24 Apr 2026 14:51:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia vows to help Cuba withstand US 'blackmail and threats']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7B1A0FAAA8B24379A81E5294AF82B8362B80AC7408303A0D680A9405A62293D/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe17299aad0257a99088a6f0e4c6aa607" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-vows-help-cuba-withstand-125410534.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-vows-help-cuba-withstand-125410534.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran's state-run IRNA news agency confirms Foreign Minister Abbas Araghchi heading to Pakistan, Oman and Russia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/irans-state-run-irna-news-123930411.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-state-run-irna-news-123930411.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From sun to subsoil, how countries are moving away from fossil fuels]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A9B9D346A9E95E9DB5FBFFBC6C39B624C25D832DC1F2B8DAB0DECC344275AC64/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7a05ec0b5e9062beb6ade3977a6cef49" alt="" /></p>Heating with geothermal energy, lighting with solar panels, cooking with biodegradable waste: how can we live with less oil and gas?- Geothermal in France -
-For a long time, the owners of the building where Anne Chatelain lives near Paris resisted switching from gas heating to geothermal energy.]]></description>
-            <link>https://www.yahoo.com/news/articles/sun-subsoil-countries-moving-away-123704688.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/sun-subsoil-countries-moving-away-123704688.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia says new EU sanctions will hurt developing countries]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2A9B7BC427FBD555A869151E71FCCE44E64B1E9999973DC8403F6B7CA469EBD5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F733fdbce0337beb1bea7cc6c638e1941" alt="" /></p>MOSCOW, April 24 (Reuters) - Russia said on Friday that new European Union sanctions on its oil and gas would hurt developing countries and the EU itself, and promised to retaliate.]]></description>
-            <link>https://www.yahoo.com/news/articles/russia-says-eu-sanctions-dire-114517616.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-says-eu-sanctions-dire-114517616.html</guid>
-            <pubDate>Fri, 24 Apr 2026 13:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
