@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 14:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 15:10:20 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mexican governor accused by U.S. of drug trafficking temporarily steps down]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8304ECD4E805B0C173A3250CEC7CC506F6D0E637BB49AE43B7684501745B292F/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F8396cfe038d1766f2e609c324011e02a" alt="" /></p>Source: CBS News]]></description>
+            <link>https://www.yahoo.com/news/articles/mexican-governor-accused-u-drug-142723762.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexican-governor-accused-u-drug-142723762.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s ‘two-tier’ policing and the crime epidemic in Palestinian towns]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC63BFE2C5CDDEBFC2F8D3C09DAD8D38282BB0659781DD067FF58EFC3D1A163E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe0a4592fdd6779f6f4c3401e12a27c64" alt="" /></p>Murder rates in Israel’s Palestinian areas soar, fueling allegations of state complicity and neglect.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-two-tier-policing-crime-142345313.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-two-tier-policing-crime-142345313.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK woman wins right to receive permanent birth control after exposing double standards in health service]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65B4DB20FEB8A51A2BF8320F0EE1446A01D37538E7B9B0819297117D25CDE3DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Ffcbf5ec4ab776df4195d8385896725d2" alt="" /></p>A British woman who was denied permanent birth control through the UK ’s national health service on the grounds she might regret the decision has won her case with the country’s health ombudsman after a 10-year legal battle]]></description>
+            <link>https://www.yahoo.com/news/articles/uk-woman-wins-receive-permanent-134211907.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-woman-wins-receive-permanent-134211907.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Factbox-Taiwan's 12 remaining diplomatic allies]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E65EAE2D64B3EF0ED7A20B2F8ADB28A34BCA9A4D7D9089B6A54D26E9AE709C8E/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0517871b9647464e3685983cba8328a6" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/factbox-taiwans-12-remaining-diplomatic-130550292.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-taiwans-12-remaining-diplomatic-130550292.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -22,7 +45,6 @@
 str-fal-sam/rmb]]></description>
             <link>https://www.yahoo.com/news/articles/taiwan-leader-makes-delayed-visit-130409918.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-leader-makes-delayed-visit-130409918.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +52,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5C81B504244FDAB6B493243A9E843DB9FDAFBB5B67A84B78FAB615AFC5828B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F206f2582474ea2163a635b982c6bb87a" alt="" /></p>Five army personnel, including three active-duty soldiers, identified as suspects in last week’s coordinated attacks.]]></description>
             <link>https://www.yahoo.com/news/articles/mali-probes-soldiers-suspected-involvement-130328499.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mali-probes-soldiers-suspected-involvement-130328499.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +59,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA3E163283B5EF9FAE4F9640E11543F57960F516588D1D2DC0FA5361392FB11B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F289c8bc23041fe7f884be19c810fe56d" alt="" /></p>Drones and planes hit several towns despite ‘ceasefire’ since April 17 as Hezbollah pledges to continue its attacks.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-air-strikes-kill-10-125534288.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-air-strikes-kill-10-125534288.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +66,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7069FBD270D99075440BA816B95087656398D10DD37EE1E8BA928076A6AC2375/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7eda5b5361846cc6d64920787c0efc82" alt="" /></p>Taiwan’s President Lai Ching-te said he arrived in the African nation of Eswatini on Saturday, days after his government was forced to push back the trip when several countries withdrew permission for him to fly over their territories reportedly over Chinese pressure.  In a post on X, Lai said he arrived in Eswatini — Taiwan’s only diplomatic ally in Africa — to “affirm our longstanding friendship.”]]></description>
             <link>https://www.yahoo.com/news/articles/taiwans-president-lands-eswatini-trip-125150659.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwans-president-lands-eswatini-trip-125150659.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +73,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA082C103998B100487FA6703727F3B836B44DDC2756B77289FEDB0338FCD564/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2f0f896f86117e2a46c6d3fadac5e1c0" alt="" /></p>A senior Iranian military officer said on Saturday that renewed fighting with the US was "likely", hours after President Donald Trump said he was not satisfied with an Iranian negotiating proposal.On Saturday morning, Mohammad Jafar Asadi, a senior figure in the Iranian military's central command, said "a renewed conflict between Iran and the United States is likely", in quotes published by Iran's Fars news agency.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-military-official-says-renewed-121859568.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-military-official-says-renewed-121859568.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +80,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 2 (Reuters) - Yemen’s coast guard said on Saturday that the M/T EUREKA oil tanker had been hijacked off the coast of Shabwa province by unidentified armed men who boarded the vessel, seized]]></description>
             <link>https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemen-says-oil-tanker-hijacked-121710980.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +87,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9931D10FFFD28DC4285491A43688509F97D863AD7FB2C74FE57C5E523C811F31/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F93e1c6e3c7d30cc9e877ae3a2d510f86" alt="" /></p>Dr. Amy Acton, a Democrat running unopposed in her party's primary for Ohio governor, faces some steep challenges in the coming general election.  Acton, a physician, was Ohio's public health director when the coronavirus hit the United States in early 2020, causing a wave of deaths, anxiety and social disruption.  As the government took aggressive action to combat it, Acton became a household name throughout Ohio.]]></description>
             <link>https://www.yahoo.com/news/articles/long-shadow-covid-19-pandemic-115154862.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/long-shadow-covid-19-pandemic-115154862.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -78,7 +94,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, May 2 (Reuters) - The UAE's aviation authority said air traffic in the country has returned to normal, the state news agency reported on Saturday, after precautionary measures implemented on]]></description>
             <link>https://www.yahoo.com/news/articles/uae-says-air-traffic-back-114308688.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uae-says-air-traffic-back-114308688.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -86,7 +101,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2EFB795FCA84F801C68D976873C49826A1CF21A01273C8C8A8008E06E0E76AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb9bd83ae2f2ea2589e99c4a8035dfa19" alt="" /></p>Britain's prime minister warned Saturday that tougher action was needed against people chanting certain phrases at pro-Palestinian protests, as concerns grew over the safety of British Jews after the stabbings of two Jewish men in London.  Keir Starmer said he would always defend the right to protest, but said there may be instances where some marches protesting the war in Gaza should be banned.  “When you see, when you hear some of those chants — ‘globalize the intifada’ would be one I would pick out — then clearly there should be tougher action in relation to that,” Starmer told the BBC.]]></description>
             <link>https://www.yahoo.com/news/articles/starmer-urges-tougher-action-against-112908675.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/starmer-urges-tougher-action-against-112908675.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -94,7 +108,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7BB167CF70990A0C198EA677DD5A0D4DCC6D735AC6D1C22F50FFB4FD13D06CC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Faab31170a23916e3660a6da2ab5fb305" alt="" /></p>Iran is being accused of intensifying its crackdown on dissent with executions, mass arrests and one of the internet longest shutdowns to stifle protests against the regime.]]></description>
             <link>https://www.yahoo.com/news/articles/killing-off-country-iran-executes-112630971.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/killing-off-country-iran-executes-112630971.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -102,7 +115,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E4AF1C026D482142B0773C46020A6113895E0B60573D7112098C66A473C3B85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F69bc0e7ca8865f182f2fbb7d3602d212" alt="" /></p>By Doyinsola Oladipo NEW YORK, May 2 (Reuters) - The suspect charged with storming a security checkpoint and firing a shotgun near the White House Correspondents' Association dinner on Saturday mocked]]></description>
             <link>https://www.yahoo.com/news/articles/washington-hilton-attack-spotlights-hotel-110544973.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/washington-hilton-attack-spotlights-hotel-110544973.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -110,7 +122,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FFA2F1850EB5F7E8B4AC174A3B11F508F65FE10B01B6275A53FCA4C30F385BE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1005b43855e6e196163b7b232d6e3bc0" alt="" /></p>BAMAKO, May 2 (Reuters) - Malian authorities are investigating soldiers suspected of involvement in last week's coordinated attacks on army bases across the country by militants linked to al Qaeda and]]></description>
             <link>https://www.yahoo.com/news/articles/mali-investigates-soldiers-over-role-094302287.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mali-investigates-soldiers-over-role-094302287.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -118,7 +129,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>NAIROBI, May 2 (Reuters) - At least 10 people have died across Kenya after heavy rains triggered flooding and landslides in several regions, police said, as authorities warned rising river levels]]></description>
             <link>https://www.yahoo.com/news/articles/kenya-flood-death-toll-hits-085855332.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kenya-flood-death-toll-hits-085855332.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -126,7 +136,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>KYIV, May 2 () - A Russian drone attack on a bus in Ukraine's southern city of ‌Kherson killed two people and injured seven more ‌early on Saturday, officials said. Most of the casualties were public utilities ​workers, regional governor Oleksandr Prokudin added on Telegram.]]></description>
             <link>https://www.yahoo.com/news/articles/two-killed-russian-attack-bus-070527626.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-killed-russian-attack-bus-070527626.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -134,7 +143,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 2 (Reuters) - Iran executed two men on Saturday accused of spying for Israel, including one accused of gathering intelligence near the Natanz nuclear site in central Isfahan province, Iranian]]></description>
             <link>https://www.yahoo.com/news/articles/iran-executes-two-spying-israel-070308808.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-executes-two-spying-israel-070308808.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -142,7 +150,6 @@ str-fal-sam/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F15AD580CC887495061E82CCFFD9F536632AB9AADF3A0EEFD8079E02AEEFA20/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F28f04658a20e895c7ef85bec1bb24453" alt="" /></p>By Felix Light ASHGABAT, May 2 (Reuters) - From a brightly lit, open-plan office Azat Seyitmuhammedov runs an e-commerce startup, Wabrum, that he founded almost a decade ago.]]></description>
             <link>https://www.yahoo.com/news/articles/reclusive-turkmenistan-shows-signs-cautiously-060725720.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/reclusive-turkmenistan-shows-signs-cautiously-060725720.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 14:07:40 GMT</pubDate>
         </item>
         <item>
@@ -7035,27 +7042,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2anbLgCuLNdXJVHCIBvU6A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/fe65be6ba6e438ec6cc9cc72da537c26.cf.webp" alt="" /></p>UN report says Hezbollah rocket attacks on Israel may have breached international humanitarian law.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-attacks-lebanon-may-violate-182427955.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-lebanon-may-violate-182427955.html</guid>
-            <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reality check: Israeli ambitions confront US dictates in Iran and Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/ggz4x2nQNsnjwVhZqpmHxw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/9d8c8e0dcb631bf5774bd100c355b3cc.cf.webp" alt="" /></p>Ceasefires with Iran and Lebanon appear imposed by the US rather than negotiated by Israel, much to latter’s unease.]]></description>
-            <link>https://www.yahoo.com/news/articles/reality-check-israeli-ambitions-confront-182133444.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/reality-check-israeli-ambitions-confront-182133444.html</guid>
-            <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US imposes sanctions on a China-based oil refinery and 40 shippers over Iranian oil]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Ksx4Bp5lJ8AUuNhWsl3AEA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/7d5f1d4295f9a7c083f5686d85f31162.cf.webp" alt="" /></p>President Donald Trump's administration is placing economic sanctions on a major China-based oil refinery and roughly 40 shipping companies and tankers involved in transporting Iranian oil.  The move, announced Friday and first reported by The Associated Press, makes good on Trump's threat to impose secondary sanctions on companies and countries that do business with Iran.  It's also part of his Republican administration’s overall ramped-up campaign to cut off Iran’s key source of revenue — its oil exports.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-imposes-sanctions-china-based-181252719.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-imposes-sanctions-china-based-181252719.html</guid>
-            <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Witkoff and Kushner headed to Pakistan for Iran talks, White House says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/d335I_KJ92yeS1hAIF1ZsQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/55683394308fc77fd2a85f3e402fac74.cf.webp" alt="" /></p>WASHINGTON, April 24 (Reuters) - U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/witkoff-kushner-headed-pakistan-iran-171813493.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/witkoff-kushner-headed-pakistan-iran-171813493.html</guid>
             <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
         </item>
     </channel>
