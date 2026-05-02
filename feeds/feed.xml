@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 20:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 21:33:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 20:33:45 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 21:33:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Governor of Mexico’s Sinaloa state steps down after US drug indictment]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E94FC11A96C2897688BFD93D5F6170069A46A425D4F44FE00645AC27263105F1/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd48ecc22be92c26296af03d7526c7f0f" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/governor-mexico-sinaloa-state-steps-200431584.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/governor-mexico-sinaloa-state-steps-200431584.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 21:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighting reaches outskirts of Kostiantynivka, a Ukrainian stronghold]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18DA7E86572275B75BB1DA8AB1788D61CDE929AEC9EFFAD5535316A4B5EF34D7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdff00fe69ccf17c297c9c87d1f34850b" alt="" /></p>KYIV, May 2 (Reuters) - Russian troops are inching toward the city of Kostiantynivka in Ukraine's eastern Donetsk region, trying to establish a foothold close to a heavily defended area, Ukraine's top]]></description>
+            <link>https://www.yahoo.com/news/articles/fighting-reaches-outskirts-ukraines-stronghold-102939828.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fighting-reaches-outskirts-ukraines-stronghold-102939828.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 21:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Danco seeks Supreme Court stay of ruling that pauses mail-order access to abortion drugs]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7FCADE635D77FFBD9F036344174F436602820AF58E297CC12EC848E0E886C314/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1275972a1dcd6d2a305eb283e98c19da" alt="" /></p>By Ismail Shakil May 2 (Reuters) - Pharmaceutical company Danco Laboratories filed an application with the U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/danco-laboratories-seeks-supreme-court-173049885.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/danco-laboratories-seeks-supreme-court-173049885.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 02 May 2026 20:33:45 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1AE80A36BF6D597BF23EB268276BC13CA2A3601964643B81291BE450D907000B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fca0d9f9a060efaa0970c5560b972147a" alt="" /></p>Studies show extreme rain has become more frequent in country, as Pernambuco and Paraiba states again battered.]]></description>
             <link>https://www.yahoo.com/news/articles/least-six-dead-heavy-rains-195925048.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-six-dead-heavy-rains-195925048.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 20:33:45 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD6F38FA8D3D9EBBCDE55434CE3685B914D9B1850BBDE612CA4B58379072B0A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd8f98d3351841a709f4e99560e500b9c" alt="" /></p>The attack, the second in a week, follows months of relative calm in the city after government forces regained control.]]></description>
             <link>https://www.yahoo.com/news/articles/khartoum-drone-strike-kills-five-195916237.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/khartoum-drone-strike-kills-five-195916237.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 20:33:45 GMT</pubDate>
         </item>
         <item>
@@ -7028,20 +7041,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE2E32E2A2084EBB4BF404546B73BD1852FE969DD7F062281F49FE8F2D1027F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F295fa6a9ed44437c88fda0423acb788f" alt="" /></p>WASHINGTON, April 24 (Reuters) - New York sued the Trump administration Friday for withholding more than $73.5 million in highway funding over the state's decision not to revoke some commercial driver]]></description>
             <link>https://www.yahoo.com/news/articles/york-sues-us-canceling-73-191626977.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/york-sues-us-canceling-73-191626977.html</guid>
-            <pubDate>Fri, 24 Apr 2026 23:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US targets Chinese refinery in sweeping Iran oil crackdown, sanctions ‘shadow fleet’ tankers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/12919A5B35027C9655E3D595E490C1C55949F2E41D8573A31EEEE23C80D49BC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F7c3296d58b6c0017cd3919a25ecf42f4" alt="" /></p>The OFAC sanctioned a major Chinese oil refinery and dozens of Iran-linked shadow fleet vessels in an escalation of a maximum pressure campaign on Tehran.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-targets-chinese-refinery-sweeping-191916513.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-targets-chinese-refinery-sweeping-191916513.html</guid>
-            <pubDate>Fri, 24 Apr 2026 23:04:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to possibly revoke citizenship for hundreds of foreign-born Americans, NBC reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96B21FFE3715FD5F345D6ECDC5E53C8B159B473003AD8FDCDC7E877E0D0CB08B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff2b355278f8711d74644d858d5d8cdbc" alt="" /></p>WASHINGTON, April 24 (Reuters) - The U.S. Justice Department is targeting at least 300 foreign-born Americans and could revoke their citizenship, NBC News reported on Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-possibly-revoke-citizenship-hundreds-191433017.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-possibly-revoke-citizenship-hundreds-191433017.html</guid>
             <pubDate>Fri, 24 Apr 2026 23:04:25 GMT</pubDate>
         </item>
     </channel>
