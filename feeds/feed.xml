@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 15:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 16:07:01 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 16:07:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thousands flock to illegal French rave despite explosives risk]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/305865F9889296751CD383F6FF7423F525B9A8484526B8A3C45B174BE2062C23/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F143ddea36d90aa62a1f44deb8e7df4e2" alt="" /></p>Source: CNN]]></description>
+            <link>https://www.yahoo.com/news/articles/thousands-flock-illegal-french-rave-151310140.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-flock-illegal-french-rave-151310140.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 16:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico’s Sinaloa state governor resigns amid US drug trafficking charges]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91CB75491716912A29F9848B916B703248EC387A15DBBFC7AB551D1B6BE79CF0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F40ac76efebe3ceb80b1eb0d87d46a7fc" alt="" /></p>Ruben Rocha Moya again denies allegations he shielded cartel, says taking ‘temporary leave’ to defend self.]]></description>
+            <link>https://www.yahoo.com/news/articles/mexico-sinaloa-state-governor-resigns-155231506.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-sinaloa-state-governor-resigns-155231506.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 16:07:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel says two Gaza flotilla activists brought in for questioning]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C535A51FC16A38D3727AE386EA73FBAA4C07EB65EC8781C16DBB621B25EC399E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0a90045e16a816eb4953ea2d3a711e61" alt="" /></p>Two activists who participated in a Gaza-bound aid flotilla have been brought to Israel for questioning, the foreign ministry said Saturday, after the vessels were intercepted by Israeli forces.Organisers published photos on X showing two activists with bruises on their faces, while one participant said in footage that Israeli forces had "beaten" them "several times".]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-says-two-gaza-flotilla-151028912.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-says-two-gaza-flotilla-151028912.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 02 May 2026 16:07:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mexican governor accused by U.S. of drug trafficking temporarily steps down]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8304ECD4E805B0C173A3250CEC7CC506F6D0E637BB49AE43B7684501745B292F/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F8396cfe038d1766f2e609c324011e02a" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/mexican-governor-accused-u-drug-142723762.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexican-governor-accused-u-drug-142723762.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC63BFE2C5CDDEBFC2F8D3C09DAD8D38282BB0659781DD067FF58EFC3D1A163E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe0a4592fdd6779f6f4c3401e12a27c64" alt="" /></p>Murder rates in Israel’s Palestinian areas soar, fueling allegations of state complicity and neglect.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-two-tier-policing-crime-142345313.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-two-tier-policing-crime-142345313.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65B4DB20FEB8A51A2BF8320F0EE1446A01D37538E7B9B0819297117D25CDE3DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Ffcbf5ec4ab776df4195d8385896725d2" alt="" /></p>A British woman who was denied permanent birth control through the UK ’s national health service on the grounds she might regret the decision has won her case with the country’s health ombudsman after a 10-year legal battle]]></description>
             <link>https://www.yahoo.com/news/articles/uk-woman-wins-receive-permanent-134211907.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-woman-wins-receive-permanent-134211907.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 02 May 2026 15:10:20 GMT</pubDate>
         </item>
         <item>
@@ -7022,27 +7043,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <link>https://www.yahoo.com/news/articles/why-u-k-lawmakers-called-183652345.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/why-u-k-lawmakers-called-183652345.html</guid>
             <pubDate>Fri, 24 Apr 2026 21:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One injured in bomb attack on Colombia military base]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/xaQ0CSezV1lmbbwg5JCzvw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/8ed46854b0ccb180923f53fb726e70a2.cf.webp" alt="" /></p>A bomb attack against a military base in the Colombian city of Cali wounded one person on Friday, health authorities said, amid fears of violence ahead of May 31 presidential elections. Cali, the third biggest city in Colombia, is frequently targeted by armed groups fighting over drug trafficking routes to the Pacific Ocean.]]></description>
-            <link>https://www.yahoo.com/news/articles/one-injured-bomb-attack-colombia-183618230.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/one-injured-bomb-attack-colombia-183618230.html</guid>
-            <pubDate>Fri, 24 Apr 2026 21:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Foreign Minister Abbas Araghchi arrives in Islamabad for talks on reviving ceasefire negotiations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Iranian Foreign Minister Abbas Araghchi arrives in Islamabad for talks on reviving ceasefire negotiations.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-foreign-minister-abbas-araghchi-184111674.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-foreign-minister-abbas-araghchi-184111674.html</guid>
-            <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli attacks on Lebanon may violate international law, UN warns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/2anbLgCuLNdXJVHCIBvU6A--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/fe65be6ba6e438ec6cc9cc72da537c26.cf.webp" alt="" /></p>UN report says Hezbollah rocket attacks on Israel may have breached international humanitarian law.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-attacks-lebanon-may-violate-182427955.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-lebanon-may-violate-182427955.html</guid>
-            <pubDate>Fri, 24 Apr 2026 19:26:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
