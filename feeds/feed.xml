@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 19:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 20:35:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 19:49:47 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 20:35:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cargo ship attacked by small craft near Strait of Hormuz, UK maritime agency says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uN.pPID59AV3SDlYZ7WV5Q--~B/Zmk9c3RyaW07aD01NjI7cT05NTt3PTEwMDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/fox_news_text_979/88095a873a87105312369a1983c44e2b.cf.webp" alt="" /></p>Source: Fox News]]></description>
+            <link>https://www.yahoo.com/news/articles/cargo-ship-attacked-small-craft-175856183.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cargo-ship-attacked-small-craft-175856183.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 20:35:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran weighs US response to peace plan after warning against military action]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B7EF9D5C77F65A88A51A6CB6732A12F66B7B1608ED57C92902353F93F96194EC/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F170a2ccaf4c1567d850d1316eedfff52" alt="" /></p>Source: AFP]]></description>
@@ -7034,13 +7042,6 @@ Britain's prime minister said he was "shocked by the scenes at the White House C
             <link>https://www.yahoo.com/news/articles/latest-trump-sending-witkoff-kushner-061330428.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/latest-trump-sending-witkoff-kushner-061330428.html</guid>
             <pubDate>Sat, 25 Apr 2026 17:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran's foreign minister leaves Islamabad without meeting US envoys, Pakistan officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/irans-foreign-minister-leaves-islamabad-145523670.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-foreign-minister-leaves-islamabad-145523670.html</guid>
-            <pubDate>Sat, 25 Apr 2026 16:01:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
