@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 10:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 11:12:42 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 10:29:52 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 11:12:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Strait of Hormuz blockade and other major naval sieges in modern times]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B256847C122F28F5134DEFF174F149FFA2C48AF022C62676CE59EFE443334AE0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4df3f917adc0468c73b9148300e7832f" alt="" /></p>Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.]]></description>
+            <link>https://www.yahoo.com/news/articles/strait-hormuz-blockade-other-major-103649286.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/strait-hormuz-blockade-other-major-103649286.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 11:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slovakia's PM Fico to attend Victory Day parade in Moscow, Russian TV says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F46BB63CEF96A89D0608BF756289F11E035F0C40506533234F0DB75BD79BED8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc1fc7e99fe8f99edfe38de4cf045148a" alt="" /></p>MOSCOW, May 3 (Reuters) - Slovakia's Prime Minister Robert Fico is among only a handful of global leaders due to attend a scaled-back edition of Russia's Victory Day parade in Moscow this month,]]></description>
+            <link>https://www.yahoo.com/news/articles/slovakias-pm-fico-attend-victory-103519328.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/slovakias-pm-fico-attend-victory-103519328.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 11:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Austrian police detain suspect in case of rat poison found in baby food jars on supermarket shelves]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/15AC2EDB1683D3085AA16F857358F8BB60E1DAB2B932E22003BC3986F6A869AB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9e542cb8e2271b247ad90b95dd140ada" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/austrian-police-detain-suspect-case-084439158.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/austrian-police-detain-suspect-case-084439158.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 10:29:52 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The vessel, carrying 82 people, set out overnight from Hardelot beach, a few kilometers (miles) south of the port of Boulogne-sur-Mer, but the engine failed and it began to drift, Christophe Marx, secretary-general of the Pas-de-Calais prefecture, told reporters.  Three of the injured were in very serious condition with burns caused by fuel at the bottom of the boat, he added.  It was the third deadly incident involving migrants trying make the perilous crossing to the U.K. in just over a month.]]></description>
             <link>https://www.yahoo.com/news/articles/2-dead-16-injured-attempted-095434075.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-dead-16-injured-attempted-095434075.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 10:29:52 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Ukraine on Sunday launched a wave of strikes against Russia’s oil export infrastructure, hitting a key loading port on the Baltic Sea and two tankers that Ukraine alleges were illegally used to transport Russian crude.  A nighttime drone strike sparked a blaze at Russia’s largest oil exporting port on the Baltic Sea, according to Russian regional Gov. Alexander Drozdenko.]]></description>
             <link>https://www.yahoo.com/news/articles/ukraine-hits-key-russian-oil-092405352.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-hits-key-russian-oil-092405352.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 10:29:52 GMT</pubDate>
         </item>
         <item>
@@ -7031,20 +7044,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-01-040000047.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-01-040000047.html</guid>
-            <pubDate>Sat, 25 Apr 2026 05:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Business Headlines at 4:13 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000067.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000067.html</guid>
-            <pubDate>Sat, 25 Apr 2026 05:44:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: NO EVIDENCE Al Jazeera Reported NATO Countries Shared Intel With Iran On U.S. Military Movements To Get 'No-Charge Passage' Through Strait Of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E02620BA44ED849CFEC52CC54C5E4D489C7E3E660152E65BB5337D826C5CAA22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fb3fe5cf5ca39cecf629aef70c48ad336" alt="" /></p>Did Al Jazeera broadcast a report stating that NATO countries shared intel with Iran on U.S. military movements? No, that's not true: Lead Stories did not find evidence of such a report. The video claiming to be the Al Jazeera...]]></description>
-            <link>https://www.yahoo.com/news/articles/fact-check-no-evidence-al-034814764.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-no-evidence-al-034814764.html</guid>
             <pubDate>Sat, 25 Apr 2026 05:44:18 GMT</pubDate>
         </item>
     </channel>
