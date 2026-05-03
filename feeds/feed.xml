@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 13:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 15:39:48 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 15:39:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Did the founders create a Christian nation? No, but religion did shape their thinking]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/esKuQKQ_G0EiA6byIrw5MQ--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/8a5464b15df64174d69a46459a58cc05.cf.webp" alt="" /></p>Source: Associated Press]]></description>
+            <link>https://www.yahoo.com/news/articles/did-founders-create-christian-nation-134046202.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/did-founders-create-christian-nation-134046202.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 15:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK military says a bulk carrier near Strait of Hormuz reports being attacked]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/i1GCrUvTMHpnGWweaLGk_g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/331298922791d204d4b87c6c772d78c6.cf.webp" alt="" /></p>A bulk carrier near the Strait of Hormuz has reported being attacked by multiple small craft, the British military’s United Kingdom Maritime Trade Operations center said Sunday, marking at least two dozen attacks in and around the strait since the Iran war began.  All crew aboard the unidentified carrier were safe after the attack off Sirik, Iran.  Iranian officials have asserted that they continue to control the strait and that ships not affiliated with the United States or Israel can pass if they pay a toll.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-presses-end-war-within-120903929.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-presses-end-war-within-120903929.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 15:39:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Politics Headlines at 3:22 p.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>UK military says a bulk carrier near Strait of Hormuz reports being attacked]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-2-040000121.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-2-040000121.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 03 May 2026 15:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Attorney Pirro says she has evidence officer was shot during White House correspondents' dinner]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/416CA165F0BBE401F83BFECB9C2DA4E6392FE5771EA67D7D53D086728B78093D/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd0835f944868882cea7a6ba9bc2a070f" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-attorney-pirro-says-she-132520882.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-attorney-pirro-says-she-132520882.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/656D4395EA2C3E82755042904CCF70D78F6FAEDE00A98D9F1E92D6FD97498253/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F30f5c0f4f22ab7e9f57f77e0e3edd0b8" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-raid-west-bank-leaves-132005515.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-raid-west-bank-leaves-132005515.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 3 (Reuters) - Two U.S. service members participating in the African Lion joint military exercises were reported missing near the city of Tan Tan in southern Morocco, the U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/two-us-troops-missing-during-122902817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-us-troops-missing-during-122902817.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A123D41B0A034E50B2F813B5F6C2826B5F3DB574EB2772E541A438B77A2011F9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1f9fd246977fd958c64e01b8a6c09cd3" alt="" /></p>Purchase includes two new combat squadrons of F-35 and F-15IA aircraft from Lockheed Martin and Boeing.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-approves-purchase-fighter-jets-123648210.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-approves-purchase-fighter-jets-123648210.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3451A46F7870796218FAADBC72911B8378FC59E14E90A5CD8FC624EE27C23B07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F28aeaecc1bca3f29e555c24c690005e2" alt="" /></p>AFRICOM says search and rescue operations under way in southwestern Morocco during African Lion exercise.]]></description>
             <link>https://www.yahoo.com/news/articles/us-military-says-two-members-122329210.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-two-members-122329210.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BB16B1A75BCF0BAA8787D478A92432519634BD6EDD383A745470EB8DF1B9DE52/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb3b23024206941806c17c42cabe9107b" alt="" /></p>Saudi Arabia, Russia and five other OPEC+ countries increased their oil production quota on Sunday in an expected move aimed at demonstrating continuity at the cartel after the shock withdrawal of the United Arab Emirates.The statement, following an online meeting of Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia and Saudi Arabia, made no mention of the United Arab Emirates, which quit the body on Friday, three days after announcing its withdrawal.]]></description>
             <link>https://www.yahoo.com/news/articles/opec-hikes-oil-production-quotas-121214067.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/opec-hikes-oil-production-quotas-121214067.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97C128484922E0F14C556531541AA88A32F9475E2BF1198559CDDAB4F2FEA304/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1dc1d4b83436ae02ccc8d699a3fb6ad5" alt="" /></p>ASHKELON, Israel, May 3 (Reuters) - An Israeli court has extended by two days the detention of two activists arrested aboard a Gaza-bound flotilla that was intercepted by Israeli forces in]]></description>
             <link>https://www.yahoo.com/news/articles/israel-court-extends-detention-gaza-121048188.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-court-extends-detention-gaza-121048188.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C6E3361A49D2E36E73E5FAE678F5811C828C0A3EDEECEE3157F0086D1D77F25C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd7310ef67fd8d23507abea7f89e88634" alt="" /></p>Two U.S. service members are missing in southwestern Morocco after taking part in annual multinational military exercises in the North African country, the United States Africa Command (AFRICOM) said Sunday.  The U.S., Morocco and other countries participating in the African Lion exercise have launched a search and rescue operation, AFRICOM said.]]></description>
             <link>https://www.yahoo.com/news/articles/2-us-members-missing-military-114514395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-us-members-missing-military-114514395.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +93,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E120ABCA0D2B4E7493A8F94479A5BBD25A9B2D052BDA0EE9CCC096DF241CB9D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9ebc53f3100912b42ad80d8178de94af" alt="" /></p>Court extends activists’ detention by two days for further interrogation, rights group tells Al Jazeera.]]></description>
             <link>https://www.yahoo.com/news/articles/gaza-aid-flotilla-activists-appear-114135460.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/gaza-aid-flotilla-activists-appear-114135460.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +100,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8083A204F31E8274F5B66540425FF4681CD1E7F586EB529B202352574CEBBD90/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fff31ca89934af32d6fe2a88f5c478e3b" alt="" /></p>VATICAN CITY, May 3 (Reuters) - Pope Leo on Sunday marked World Press Freedom Day by condemning persistent violations of media freedom around the world and paying tribute to journalists killed while]]></description>
             <link>https://www.yahoo.com/news/articles/pope-marks-world-press-freedom-111926042.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-marks-world-press-freedom-111926042.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +107,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>VIENNA, May 3 (Reuters) - Five children aged between 10 and 14 were injured in northern Austria on Saturday evening when a "war relic" that was under their campfire exploded, police said on Sunday.]]></description>
             <link>https://www.yahoo.com/news/articles/war-relic-explodes-under-austrian-111914790.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-relic-explodes-under-austrian-111914790.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +114,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, May 3 (Reuters) - Two people have died after an explosion at a house in the southern English city of Bristol, with authorities treating the cause of the incident as suspicious, local police]]></description>
             <link>https://www.yahoo.com/news/articles/two-people-die-explosion-southern-110127582.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-people-die-explosion-southern-110127582.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +121,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-12-10-040000428.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-12-10-040000428.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
         <item>
@@ -7035,27 +7046,6 @@ Fighting was also heard in the northern cities of Gao and Kidal and Sevare in th
             <link>https://www.yahoo.com/news/articles/asian-politics-headlines-8-38-040000798.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-8-38-040000798.html</guid>
             <pubDate>Sat, 25 Apr 2026 09:27:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From radiation to invasion: a Chernobyl worker's two wars]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/neKUopt.3pbIeSlDaEfgvQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/f9af39a90b0dd9e20cd9544e1b14256c.cf.webp" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/radiation-invasion-chernobyl-workers-two-053330085.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/radiation-invasion-chernobyl-workers-two-053330085.html</guid>
-            <pubDate>Sat, 25 Apr 2026 07:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Despite Iran tensions, King Charles III will follow his mother's lead in celebrating US-UK bonds]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/hcfN1HvXBGnX0sG.5vQzXw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/e134d9879f7727998258b9fd0ceef366.cf.webp" alt="" /></p>The challenge for King Charles III as he embarks on this week's state visit to the U.S. is, as always, to live up to his mother’s example.  The late Queen Elizabeth II wowed Congress in 1991 with a speech that celebrated the shared democratic traditions of Britain and the United States, quoted Abraham Lincoln, Franklin D. Roosevelt and Ralph Waldo Emerson, and highlighted the deep bonds between the two nations.]]></description>
-            <link>https://www.yahoo.com/news/articles/despite-iran-tensions-king-charles-040122042.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/despite-iran-tensions-king-charles-040122042.html</guid>
-            <pubDate>Sat, 25 Apr 2026 07:05:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US military strike on alleged drug boat kills 2 in eastern Pacific]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/okREY1GyXtsXsDGWKXkhlg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b9d5cdd620d534a4f3ce88d941016c3f.cf.webp" alt="" /></p>The U.S. military said it launched another strike Friday on a boat accused of ferrying drugs in the eastern Pacific Ocean, killing two people.  The Trump administration's campaign of blowing up alleged drug-trafficking vessels in Latin American waters has persisted since early September and killed at least 183 people in total.  The military has not provided evidence that any of the vessels were carrying drugs.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-military-strike-alleged-drug-023640603.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-strike-alleged-drug-023640603.html</guid>
-            <pubDate>Sat, 25 Apr 2026 07:05:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
