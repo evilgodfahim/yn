@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 22:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 23:41:48 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 22:51:22 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 23:41:48 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US to close watchdog office for federal immigration detention abuses]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/5yRNCUXrtFLGEbQRmSNR2w--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/f4b10ace16a66e4d06958ca360e586ff.cf.webp" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-close-watchdog-office-federal-225423673.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-close-watchdog-office-federal-225423673.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 05 May 2026 23:41:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suspected hantavirus cases to be evacuated from cruise ship]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JsjKffVmi0ihxhSXe0UkHQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/99bfe792c930ca425c4c93a0f649aa6d.cf.webp" alt="" /></p>Two seriously ill crew members on a cruise ship stricken by a deadly hantavirus outbreak will be evacuated via Cape Verde to the Netherlands, allowing the vessel to sail on to Spain's Canary Islands, the operator said Tuesday.The Dutch operator Oceanwide Expeditions indicated Tuesday that a solution was in sight, with plans to evacuate two sick crew members to the Netherlands for "urgent medical care", along with a third person who had been in close contact with a German passenger who died on Sa]]></description>
             <link>https://www.yahoo.com/news/articles/suspected-hantavirus-cases-evacuated-cruise-211853455.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/suspected-hantavirus-cases-evacuated-cruise-211853455.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 05 May 2026 22:51:22 GMT</pubDate>
         </item>
         <item>
@@ -7043,13 +7050,6 @@ The White House said Monday it was examining Iran's latest proposal to unblock t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B1B402AAC5975451B73EACB38D29D520F6B9774C1F809611D20DAC74D87BEBE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4e7594b9a09ea554b62f17df552ebb64" alt="" /></p>The Home Office is challenging judges who ruled the proscription of the group as a terrorist organisation as unlawful]]></description>
             <link>https://www.yahoo.com/news/articles/uk-appeal-high-court-ruling-073457817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-appeal-high-court-ruling-073457817.html</guid>
-            <pubDate>Tue, 28 Apr 2026 08:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine summons Israeli ambassador over ‘stolen’ grain shipments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E2B721A3BA566CE17AA27C6A3592B1916619652387B0E3DCA4AEEEB31279CC7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F273085ccf7eb686f43c27590671faf1f" alt="" /></p>The diplomatic spat unfolds as Ukrainian drones hit Russia’s Tuapse oil refinery, causing a ‘massive’ fire.]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-summons-israeli-ambassador-over-073411427.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-summons-israeli-ambassador-over-073411427.html</guid>
             <pubDate>Tue, 28 Apr 2026 08:10:45 GMT</pubDate>
         </item>
     </channel>
