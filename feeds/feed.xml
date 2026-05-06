@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 21:37:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 22:44:56 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What Israel wants from an Iran peace deal: No enrichment, missile limits and strict enforcement]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7D2A31AF6A1DA45BDB0B92B907B7E8CFC7E7F382B0C2CDB5797A2EFDBF66C6A/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F78b56a26d18211fa4de09656a7ebfef1" alt="" /></p>Source: Fox News]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-wants-iran-peace-deal-203045622.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-wants-iran-peace-deal-203045622.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Argentina investigates link to deadly hantavirus outbreak on cruise ship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C492A6DA4310A9A5B355D1BFE14F7A847A062B059CFF8899A83F04BBD558E2E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fce4fbe3b505a30efecb8744d149a5ee3" alt="" /></p>Three deaths reported from South America-related hantavirus as cruise ship remains off Cape Verde coast.]]></description>
+            <link>https://www.yahoo.com/news/articles/argentina-investigates-deadly-hantavirus-outbreak-221205723.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/argentina-investigates-deadly-hantavirus-outbreak-221205723.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Energy crisis front and centre as ASEAN leaders prepare for summit]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED94815EA450F43DCC8F6CB9FE35EEC6AF3A0ECF26567FB7C4407FB5B0DD0C1F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F69a0bc275aac28eab88ad8a8fd5758ec" alt="" /></p>By Mikhail Flores and Karen Lema CEBU, Philippines, May 7 (Reuters) - Conflicts far beyond Southeast Asia are expected to dominate discussions of leaders of the regional ASEAN bloc meeting in the]]></description>
+            <link>https://www.yahoo.com/news/articles/energy-crisis-front-centre-asean-220304367.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/energy-crisis-front-centre-asean-220304367.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea not bound to any treaty on non-proliferation of nuclear weapons, KCNA reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>SEOUL, May 7 (Reuters) - North Korea is not bound to any treaty on non-proliferation of nuclear weapons, state media KCNA reported on Thursday.]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-not-bound-treaty-212608817.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-not-bound-treaty-212608817.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How major US stock indexes fared Wednesday 5/6/2026]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201743683.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201743683.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Murders of Mexican journalists nearly double in 2025, advocacy group says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Lizbeth Diaz MEXICO CITY, May 6 (Reuters) - Eight journalists disappeared or were murdered in Mexico in 2025, the UK-based journalist advocacy group Article 19 said in a report published on]]></description>
+            <link>https://www.yahoo.com/news/articles/murders-mexican-journalists-nearly-double-194345112.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/murders-mexican-journalists-nearly-double-194345112.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia warns diplomatic missions to evacuate Kyiv staff if Moscow launches mass strike]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 6 (Reuters) - Russia's Foreign Ministry said on Wednesday that it had warned diplomatic missions to evacuate staff promptly from Kyiv in the event of a mass strike by Moscow in response to any]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-warns-diplomatic-missions-evacuate-190542220.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-warns-diplomatic-missions-evacuate-190542220.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo Rejects Trump’s Nuclear Claims and Tells His Critics To Speak ‘Truthfully’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/89C5F36E5D584A8775232C56DF5A68ABC42E63776D7A655FC8A36657B053722D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F58d1b424d132129018d9595d1184b5bf" alt="" /></p>“If someone wants to criticize me for proclaiming the Gospel, let him do so truthfully,” Pope Leo said.]]></description>
+            <link>https://www.yahoo.com/news/articles/pope-leo-rejects-trump-nuclear-190620630.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-rejects-trump-nuclear-190620630.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Wed, 06 May 2026 22:44:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lutnick testifies he can't recall why his family lunched on Epstein's island]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/AbZ0AOsz3tkNbsdGpxQyZQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d3563a8dec59989f66422d1221372b65.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/lutnick-testifies-cant-recall-why-202652045.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lutnick-testifies-cant-recall-why-202652045.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QMDAWpXCCEaruhqTjo3wRg--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/bdafe6ec1cb9ca6f209b7183622da146.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/feds-goolsbee-says-iran-war-200501180.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/feds-goolsbee-says-iran-war-200501180.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/YE7pJCYLalV27CBxe.vScQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/61ec40ead0bc3ceccfc707b8c2010727.cf.webp" alt="" /></p>Ruhi Cenet was surprised when cruise-ship life carried on as usual aboard the MV Hondius, even after the captain announced the first passenger's death.Cenet said he was startled to see that "everyday life continued" on the ship after the captain's announcement.]]></description>
             <link>https://www.yahoo.com/news/articles/hantavirus-ship-passenger-didnt-seriously-201902084.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hantavirus-ship-passenger-didnt-seriously-201902084.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Odm8OdQ_Xjo2nPMsKgKcXQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/bcd3476741596bd6868587e6c117306e.cf.webp" alt="" /></p>Fighters attack ‘Africa’s Alcatraz’, which detains high-value prisoners, and disrupt crucial supply chains to capital.]]></description>
             <link>https://www.yahoo.com/news/articles/al-qaeda-linked-fighters-storm-194305762.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/al-qaeda-linked-fighters-storm-194305762.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/K8jQu2RGP22dNR7h9rY7MA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/051640df3d9fe4e5179911dfd7f2e850.cf.webp" alt="" /></p>At least 17 others wounded in a targeted attack on Naseem al-Kalazani’s vehicle in western Khan Younis city.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-strike-kills-colonel-gaza-193142435.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strike-kills-colonel-gaza-193142435.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/uOKfL3RKHBxj4eADnh9dAg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/509a3e72f7e5ce66700ef4a05b54287b.cf.webp" alt="" /></p>By Diego Oré MEXICO CITY, May 6 (Reuters) - A U.S. indictment announced last week accusing several Mexican politicians, including the governor of Sinaloa, of having drug cartel ties is triggering a]]></description>
             <link>https://www.yahoo.com/news/articles/mexicos-sheinbaum-battles-party-split-181835292.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexicos-sheinbaum-battles-party-split-181835292.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 06 May 2026 21:37:49 GMT</pubDate>
         </item>
         <item>
@@ -7001,62 +7059,6 @@ Iran has executed at least 21 people and arrested more than 4,000 since the begi
             <link>https://www.yahoo.com/news/articles/eu-says-meta-failing-keep-074044154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-says-meta-failing-keep-074044154.html</guid>
             <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Charles to stress UK-US cultural, trade ties in New York]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/495A090B7E7C616C90B3603F187B49D27CFF7B763512B0F02B262DB11691E2E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4478f9d4f1f04369022130663ad3420f" alt="" /></p>King Charles III will use a trip to New York on Wednesday to showcase cultural and economic ties between Britain and the United States at a time when the "special relationship" is under strain.Later, Charles will mingle with business leaders, including investors and entrepreneurs, at an event highlighting the transatlantic economic ties.]]></description>
-            <link>https://www.yahoo.com/news/articles/king-charles-stress-uk-us-071641727.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/king-charles-stress-uk-us-071641727.html</guid>
-            <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Starvation and drowning on the deadly Horn of Africa migrant route]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC0939A394E1BE542ACB4B033AD8311DA0297F9B231EDEBA9B6FEBBB5D6693E3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F75578c853202542137843c114c4573ae" alt="" /></p>On a vast, sun-scorched plain in Djibouti, dozens of men made the days-long trek home after their plan failed to cross one of the world's deadliest migration routes from Africa to the Gulf.More than 900 died or disappeared along the route in 2025 -- the deadliest year on record, according to the UN International Organization for Migration (IOM).]]></description>
-            <link>https://www.yahoo.com/news/articles/starvation-drowning-deadly-horn-africa-063102490.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/starvation-drowning-deadly-horn-africa-063102490.html</guid>
-            <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[White House says funds to pay TSA and other Homeland Security workers will 'soon run out']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3CE28347524F1512CEF88EA652D52CAE5F9C76C4B7E462BE7AE4860B9089AAC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Feaff615fd114c9702088a6f23b2c135b" alt="" /></p>The White House is warning Congress that funding to pay Department of Homeland Security personnel will "soon run out,” sparking new threats of airport disruptions and national security concerns as the House slow-walks legislation to end what has been the longest-ever lapse in agency funding.  In a memo late Tuesday to lawmakers, the Office of Management and Budget said money that President Donald Trump tapped to pay Transportation Security Administration and other workers through executive actions will be exhausted by May. It called on the House to quickly approve the budget resolution senators approved in an all-night session last week that would pave the way for full funding for the department.  The pressure from the Trump administration could help House Speaker Mike Johnson, whose narrow Republican majority has been stalled out, tangled in internal party disputes on a range of pending issues, including the Homeland Security funding.]]></description>
-            <link>https://www.yahoo.com/news/articles/white-house-says-funds-pay-040211325.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/white-house-says-funds-pay-040211325.html</guid>
-            <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Politics Headlines at 10:21 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-10-040000823.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-politics-headlines-10-040000823.html</guid>
-            <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Politics Headlines at 9:00 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-politics-headlines-8-34-040000033.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-8-34-040000033.html</guid>
-            <pubDate>Wed, 29 Apr 2026 10:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korean court hikes ex-president's sentence for obstructing justice]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7EEA5D00F8D776B48532A0B547F4138FD49D0731469B7B8F85E980DFF680F3AC/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa1e8fce146c3062f5bc76c1d70982ec1" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/south-korean-court-hikes-ex-075101607.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korean-court-hikes-ex-075101607.html</guid>
-            <pubDate>Wed, 29 Apr 2026 08:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trial begins for 4 Indonesian service members charged over acid attack on activist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14753A6E9037B92900F8AEA2633449E3D9B06AEFFB0F93202DE101DFCA6EB002/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4eb5db9fee4f46d87d46198e3eabf0f9" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/trial-begins-4-indonesian-members-072927897.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/trial-begins-4-indonesian-members-072927897.html</guid>
-            <pubDate>Wed, 29 Apr 2026 08:04:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Encouraging’: Global rainforest loss slows in 2025 after record year]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D86C6FDAEDF2E489500052D05B7E42304E9BE8654D4ED54445CD9FDF5E7B0490/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F81a6ea4920e682b86b0bacfb51e41744" alt="" /></p>The researchers credit the slowdown to policies implemented by Brazil’s President Lula da Silva to curb deforestation.]]></description>
-            <link>https://www.yahoo.com/news/articles/encouraging-global-rainforest-loss-slows-074831486.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/encouraging-global-rainforest-loss-slows-074831486.html</guid>
-            <pubDate>Wed, 29 Apr 2026 08:04:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
