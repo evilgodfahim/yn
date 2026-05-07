@@ -4,16 +4,272 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 05:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 08:21:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[South Sudan's President Kiir sacks army chief, finance minister in latest reshuffle]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/10225B1A9BB5C817F132A050F7508A37FB36C890EADF33009188A0A13D44EF30/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F603ff795fc0b9f66f5c92a3fe423a6ab" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/south-sudans-president-kiir-sacks-064013902.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-sudans-president-kiir-sacks-064013902.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thai, Cambodian leaders to meet on ASEAN sidelines amid uneasy truce]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91F88C92E2C652902A56CB9E42D3CBE54840D6C32A764D5FA097BB3B67AAFF7A/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa24b314e87cb51df070ed0af5b75ba0b" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/thai-cambodian-leaders-meet-asean-073330765.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thai-cambodian-leaders-meet-asean-073330765.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Gaza journalist killed on the day his daughter was born]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F212D94033166B48E02D0E0AA68CDF01DC704B8BE5D64CA9EE4AECA5F1197445/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdb7f64c25f05abed4e84ed6695e6df60" alt="" /></p>Sana’s first birthday is shadowed by loss; her father Yahya was killed in an Israeli attack hours after her birth.]]></description>
+            <link>https://www.yahoo.com/news/articles/gaza-journalist-killed-day-daughter-081243961.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gaza-journalist-killed-day-daughter-081243961.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia's Sumatra flood victims file lawsuit as reconstruction work stalls]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>JAKARTA, May 7 (Reuters) - Victims of last year's deadly floods in Indonesia's Sumatra filed a lawsuit to the state court on Thursday, urging the government to grant national disaster status to three]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesias-sumatra-flood-victims-file-080121604.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesias-sumatra-flood-victims-file-080121604.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war day 69: Tehran ‘reviewing’ US proposals; Israel bombs Beirut]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B8107589DB47E3B5B092285EFDAEEFAB21A163125845E6B69E7BBFC25E20BE8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3df40110a57aa6ac53ee057b18087f2f" alt="" /></p>Trump says US-Iran talks are progressing as Tehran reviews a US proposal delivered through Pakistan.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-war-day-69-tehran-080107384.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-day-69-tehran-080107384.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airliners carrying women and children linked to Islamic State group land in Australia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The Australian government announced on Wednesday that the 13 — who have spent years in a Syrian desert camp — planned to return to Australia.  Police said the women face potential criminal charges relating to their alleged time in the Islamic State group’s so-called caliphate that spanned Syrian and Iraq.]]></description>
+            <link>https://www.yahoo.com/news/articles/airliners-carrying-women-children-linked-075226694.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/airliners-carrying-women-children-linked-075226694.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airliner carrying women and children linked to Islamic State group land in Australia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/airliner-carrying-women-children-linked-074024729.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/airliner-carrying-women-children-linked-074024729.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Philippines says China vessel conducting 'illegal' research near gas-rich Reed bank]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MANILA, May 7 (Reuters) - The Philippine Coast Guard has accused China of conducting illegal marine scientific research near the oil and gas-rich Reed bank within Manila's exclusive economic zone in]]></description>
+            <link>https://www.yahoo.com/news/articles/philippines-says-china-vessel-conducting-073442566.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/philippines-says-china-vessel-conducting-073442566.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK voters cast ballots in elections expected to deal blow to Starmer]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74BDF403F51060D4BB7B56792221CD6993DF2C662CA96A34DB2E9105BCB8B7A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F94ea97eb6819e28a98cb1816a85ea218" alt="" /></p>LONDON, May 7 (Reuters) - Millions of British voters cast their ballots on Thursday in local and regional elections that are expected to deal a huge blow to Prime Minister Keir Starmer's Labour Party and renew questions over his ability to govern. Elections for almost 5,000 council seats ‌in England and to the parliaments in Scotland and Wales could signal the beginning of the end of Britain's traditional two-party system if voters opt ‌for populist and nationalist parties rather than the once-]]></description>
+            <link>https://www.yahoo.com/news/articles/uk-voters-cast-ballots-elections-072013853.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-voters-cast-ballots-elections-072013853.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Countries scramble to track passengers of virus-hit cruise ship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/70D0C157EF69BF159833957C0873E45AACA9178A3B8B0C692846206CD395C427/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3f0a41df3de0f0b639d808f27dcc5816" alt="" /></p>AMSTERDAM, May 7 (Reuters) - Countries worldwide scrambled on Thursday to trace people who had left the cruise ship hit by a hantavirus outbreak before it got marooned ‌off the coast of Cape Verde, in an effort to prevent further spread of the disease. Three ‌people - a Dutch couple and a German national - died in the outbreak on the MV Hondius.]]></description>
+            <link>https://www.yahoo.com/news/articles/countries-scramble-track-passengers-virus-072235864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/countries-scramble-track-passengers-virus-072235864.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Taiwan carries out first torpedo test fire for domestically made submarine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>TAIPEI, May 7 () - Taiwan has carried out the maiden torpedo test firing for its first domestically developed submarine, a major milestone ‌in a project aimed at strengthening deterrence against the Chinese navy ‌and protecting vital sea lanes in the event of war. Taiwan, which China claims as its own ​territory, has made the indigenous submarine programme a key part of an ambitious project to modernise its armed forces as Beijing stages almost daily military exercises to assert its sovereignty]]></description>
+            <link>https://www.yahoo.com/news/articles/taiwan-carries-first-torpedo-test-072146164.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwan-carries-first-torpedo-test-072146164.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India vows to crush terror 'ecosystem', a year after Pakistan conflict]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DD711085DEDFC1157714EFF45A2FB121861A4D5075A200196853902651B488B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3510958aaaddc467fec47a4f9b8644d0" alt="" /></p>Prime Minister Narendra Modi said India remains "steadfast as ever" in its determination to defeat terrorism and its "enabling ecosystem", marking one year since a deadly clash with arch-enemy Pakistan."We remain as steadfast as ever in our resolve to defeat terrorism and destroy its enabling ecosystem," Modi said on Thursday, a year on since the launch of what India dubbed "Operation Sindoor".]]></description>
+            <link>https://www.yahoo.com/news/articles/india-vows-crush-terror-ecosystem-070047087.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/india-vows-crush-terror-ecosystem-070047087.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli attack on Gaza kills one person, wounds son of Hamas’s al-Hayya]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1DFFEB97F8451F3E0C466089F4946ABB3674FD3BE5D67BF6B90F3A6A286AD6FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Face33332716b81589312353329d275ab" alt="" /></p>Khalil al-Hayya says his son, Azzam, was ‘seriously wounded’ in deadly Israeli attack on Gaza City.]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-attack-gaza-kills-one-063703720.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attack-gaza-kills-one-063703720.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circus tackles jihadist nightmares of Burkina Faso's children]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC9C5859738E1ACD92E57F74A2258E90504465842A68DE3E09CDBE3B80071580/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffa04b33e6f6b1f6c38946bbc8f0d608c" alt="" /></p>By miming children juggling ammunition found on the ground or driven mad by fear, the four acrobats hope to express what is too painful for words: how their native Burkina Faso's jihadist conflict has ruined countless childhoods.For more than a decade, Burkina Faso has been at war with jihadists who have killed, kidnapped, raped or recruited thousands of the west African country's children, according to the United Nations.]]></description>
+            <link>https://www.yahoo.com/news/articles/circus-tackles-jihadist-nightmares-burkina-063117226.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/circus-tackles-jihadist-nightmares-burkina-063117226.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solomon Islands PM ousted after losing confidence vote]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF63B43DBF08525CD19A20F70283CE6E813960AA45FA676D9C69D55EE763ADB1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F276d3d77c59dd91e4bcc80c9e12e94fc" alt="" /></p>By Lucy Craymer and Alasdair Pal May 7 (Reuters) - Solomon Islands Prime Minister Jeremiah Manele was ousted from power on Thursday after losing a confidence vote in the country's parliament.]]></description>
+            <link>https://www.yahoo.com/news/articles/solomon-islands-pm-ousted-losing-062834976.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/solomon-islands-pm-ousted-losing-062834976.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan warns of strong response to any attack on anniversary of clash with India]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/32BA9030F4683451B29415EEC1C93EDD046AB813C3C427C8D8352D58EDFDB48B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb68638dda3de47e6319d704f703e11ca" alt="" /></p>Pakistan’s military warned Thursday it would respond strongly against any attack as it marked the anniversary of last year’s four-day conflict with neighboring India that brought the nuclear-armed rivals to the brink of war before a U.S.-brokered ceasefire halted the fighting.  The military said that any “hostile design” against Pakistan would be countered with “greater strength, precision and resolve” than what India witnessed during the May 2025 conflict, which Islamabad named “Marka-e-Haq,” or “Battle of Truth.”  Pakistan and India had exchanged tit-for-tat strikes following an attack by gunmen in the Indian-controlled part of the disputed Himalayan region of Kashmir that killed 26 people, most of them Hindu tourists.]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-warns-strong-response-attack-060413483.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-warns-strong-response-attack-060413483.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polls open in UK local elections seen as a verdict on Keir Starmer's leadership]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2F3EECD63B2D7DE172768C0DFB32E317DAF58653E8D0BEA73B407A5A67974B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa3ae45a40e63cb8b14b9cdbbdd27faba" alt="" /></p>British voters cast ballots Thursday in midterm local and regional elections that could shake up the country's politics and deliver a heavy blow to embattled Prime Minister Keir Starmer.  Starmer’s center-left Labour Party is bracing for big losses in polls that will choose about 5,000 local councilors and a handful of mayors across England, as well as semiautonomous parliaments in Scotland and Wales.  Local elections usually focus on issues like garbage collection, graffiti and potholes, but Starmer’s opponents have painted Thursday's vote as a referendum on the prime minister.]]></description>
+            <link>https://www.yahoo.com/news/articles/polls-open-uk-local-elections-060038746.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/polls-open-uk-local-elections-060038746.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mount Everest season opens late, with climbers undeterred by huge ice block and high travel costs]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C42D33F20F75026D6460ABECCF8B079674E8E5ACE4678468B373941A72AA367/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbfbd4e2d1a2e34d16464cc6fdea3525a" alt="" /></p>An unstable ice block dangerously hanging over the key trail on Mount Everest, high travel costs and increased permit fees haven't deterred hundreds of climbers from attempting to scale the world's highest mountain.  Around 410 climbers and an equal number of their Nepali climbing guides are at the base camp gearing up for the ascent to the nearly 8,850-meter-high (around 29,000-foot-high) peak this month during the much anticipated window of good weather on the mountain.  Climbers began gathering last month at the base camp, which is at an altitude of 5,300 meters (17,340 feet).]]></description>
+            <link>https://www.yahoo.com/news/articles/mount-everest-season-opens-climbers-055010649.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mount-everest-season-opens-climbers-055010649.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paraguay’s president visits Taiwan as pressure from China grows]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4F7B3FBBD9C1AB4BF5B0F4D3E8C034F1DDF698E5B90E1008A9931FFB63182484/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a6a3f0823df063013094a59c06d3cef" alt="" /></p>Paraguay’s President Santiago Peña arrived in Taiwan on Thursday for his first visit to the self-ruled island that Beijing claims as its own territory.  Paraguay is the only remaining country in South America and one of 12 worldwide to recognize Taiwan.  China, which has not ruled out force in annexing Taiwan, has ramped up a campaign over the past few years to lure Taiwan’s diplomatic allies.]]></description>
+            <link>https://www.yahoo.com/news/articles/paraguay-president-visits-taiwan-pressure-054252039.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/paraguay-president-visits-taiwan-pressure-054252039.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Troubled waters: Jakarta battles deadly, invasive suckerfish]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E61303FA1B6BB2FD4ED8FE527D0AF9E934E8EA43877F6456FB1BF3C517813EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F97b506adadbe7d2e6ae0c9687ca6dafa" alt="" /></p>Mounds of slimey carcasses pile up on a riverbank in Jakarta where authorities are fighting an uphill battle against a fast-breeding invasive fish flourishing in Java island's heavily polluted waterways.But sapu-sapu are able to live in oxygen-poor and polluted waters, digging holes into riverbanks to lay their eggs and weakening walls that have been known to collapse as a result.]]></description>
+            <link>https://www.yahoo.com/news/articles/troubled-waters-jakarta-battles-deadly-053936644.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/troubled-waters-jakarta-battles-deadly-053936644.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senegal's children mourn in silence when migrant parents disappear]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DDB036F2D3BB2D420E7A95FAAB1AB361C797365ABBF36AF16A39C76264D4B990/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F411d4ef6506827c170a722baad6440cc" alt="" /></p>Fallou softly whispers that since his mother's death he has chosen to remain quiet, while young Sokhna recounts the many nightmares she has had following her father's disappearance: for the children of Senegalese migrants lost at sea, the torment of grief is long-lasting."I cried a lot, and then I told myself it was God's will," Fallou whispered to AFP in halting speech, his figure contorted by spasms as he spoke of his mother's death.]]></description>
+            <link>https://www.yahoo.com/news/articles/senegals-children-mourn-silence-migrant-053120840.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/senegals-children-mourn-silence-migrant-053120840.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan fires missiles during drills, drawing China rebuke]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/727D5FD8C9CAEAA0FA40066D474964E59978AEB9831DF46467AE6E69D30406D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F576aba4cf780f00daf76deb89ecddb8a" alt="" /></p>Japan fired surface-to-ship missiles and sank an old warship in waters between the Philippines and Taiwan as part of major military exercises that include US forces, angering China.- Missile drill angers China -
+Long-frosty China-Japan ties have worsened after Takaichi, seen as an arch-conservative and security hawk, suggested in November that Japan might intervene militarily in any Chinese attempt to take Taiwan.]]></description>
+            <link>https://www.yahoo.com/news/articles/japan-fires-missiles-during-drills-041654837.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-fires-missiles-during-drills-041654837.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two drones from Russia crash in Latvia, damage oil storage facility]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Andrius Sytas and Janis Laizans RIGA, May 7 (Reuters) - Two drones entered NATO member Latvia from Russian territory and crashed, the Latvian army said on Thursday morning.]]></description>
+            <link>https://www.yahoo.com/news/articles/two-drones-russia-crash-latvia-042223869.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-drones-russia-crash-latvia-042223869.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australian women and children linked to Islamic State head home]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09CD26E83169131D47D97D1C46F11B8859EE06AD6B796E4D7D6360BBE0C66B0A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F97bb94fe8e5821d8dca4bb1467ed13c4" alt="" /></p>SYDNEY, May 7 (Reuters) - A group of Australian women and children linked to the extremist group Islamic State are on their way home from a camp in Syria and are expected to arrive in the country on]]></description>
+            <link>https://www.yahoo.com/news/articles/australian-women-children-linked-islamic-050058459.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/australian-women-children-linked-islamic-050058459.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Korean court reduces prison sentence for ex-prime minister in martial law case]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/151811C411AAAF29647416F4EB241A9A9548A22B44678AB3F89F7F11AE727122/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa92c304583f5a4cdc3a1ce3241f55e20" alt="" /></p>An South Korean appeals court has reduced the prison sentence of a former prime minister convicted of rebellion for his role in then President Yoon Suk Yeol’s ill-fated imposition of martial law in December 2024.  Ex-Prime Minister Han Duck-soo, a Yoon appointee, was sentenced to 23 years by a Seoul court in January.  Yoon was sentenced to life in prison for rebellion the next month.]]></description>
+            <link>https://www.yahoo.com/news/articles/south-korean-court-reduces-prison-044635851.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korean-court-reduces-prison-044635851.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US senators urge stability, cooperation between US, China]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A7A547EBE4447CFCCF998F42CF19831D70F644086CC6BA844C3D96884CFCB8A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F275ae9fe3281e5138572ed5f834a5493" alt="" /></p>BEIJING, May 7 (Reuters) - A delegation of United States senators visiting Beijing has called for stability and peaceful cooperation between the world's two largest economies a week before the]]></description>
+            <link>https://www.yahoo.com/news/articles/us-senators-urge-stability-cooperation-042430808.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-senators-urge-stability-cooperation-042430808.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China’s youth are ditching the rat race, and its spies say foreign countries are to blame]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/886C991DC931BFF5193D38FCD980909BD957CCF264BA5CA12FADBA9EF3AD5812/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fe53f2481730323afbaf89c4ea2b10d21" alt="" /></p>China’s top spy agency has come out of the shadows to warn that its young people are being duped by foreign forces into shirking hard work and prioritizing their individual emotions at the expense of national development. It hasn’t landed well online.]]></description>
+            <link>https://www.yahoo.com/news/articles/china-youth-ditching-rat-race-041223242.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-youth-ditching-rat-race-041223242.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia is ramping up its attempts to kill opponents in Europe, intelligence officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3A40109751ED85AE604832D7105C8372F4E997600A8BA8D6DEFE4B752624EE85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F799669221635d991c7af7aa0d6e9ec84" alt="" /></p>When Vladimir Osechkin wants to take his children to school or go to the supermarket, he calls the police.  The Russian activist has lived under protection since 2022 because French officials believe Russia is trying to kill him.  Elsewhere in Europe, Lithuanian officials disrupted a plot last year to kill a Lithuanian supporter of Ukraine and another against a Russian activist.]]></description>
+            <link>https://www.yahoo.com/news/articles/russia-ramping-attempts-kill-opponents-040750420.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-ramping-attempts-kill-opponents-040750420.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Southern Poverty Law Center attorneys make first court appearance in fraud case]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4F19D6A9E9DB6AF2A2171B3ED598A9AAE8B5F0356F91DB461925FA37792C9D6F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F93c554977472b02ec222ab920621dc19" alt="" /></p>Lawyers for the Southern Poverty Law Center will appear in court Thursday for the first time since the civil rights group was charged with defrauding donors by failing to disclose that money would be paid to informants inside extremist groups.  The grand jury indictment filed April 21 by the U.S. Justice Department is an extraordinary strike against the Alabama-based organization, which works to combat discrimination and racism particularly in Alabama, Florida, Georgia, Louisiana and Mississippi.  The SPLC denies wrongdoing, and no individual is charged.]]></description>
+            <link>https://www.yahoo.com/news/articles/southern-poverty-law-center-attorneys-040652674.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/southern-poverty-law-center-attorneys-040652674.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tech is betting on a former executive in the race for California governor]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/432F8383E2DCE285FD9071D35C1F00EF9840C4B484FBDB22AF82D7385C4F38A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9520f0d3c8eade62df611719b5eaef6b" alt="" /></p>One tech investor called him “the only sane” Democrat in the race for California governor.  San Jose Mayor Matt Mahan is tech’s favorite candidate to be the next leader of California.  The 43-year-old former tech executive jumped into the crowded race in January, touting himself as a pragmatic problem-solver.]]></description>
+            <link>https://www.yahoo.com/news/articles/tech-betting-former-executive-race-040502325.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tech-betting-former-executive-race-040502325.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hantavirus survivor discusses the ‘very gnarly’ infection]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6792894AEC6418BC7479153D0812EEF88601E00E50554A49A163E4E373A1AE2F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff9ab8ffe2ab943346efcfc3c5a249ba1" alt="" /></p>A deadly outbreak of the rare virus on a cruise ship has raised concerns about a potential global health threat.]]></description>
+            <link>https://www.yahoo.com/news/articles/hantavirus-survivor-discusses-very-gnarly-040020797.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hantavirus-survivor-discusses-very-gnarly-040020797.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 7:42 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-5-55-040000284.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-5-55-040000284.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 07 May 2026 08:21:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New York judge releases purported Epstein suicide note]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/LjF10yCq.09D02e5MByvwg--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4a53812ed71dec6c24e5c916f3affb5d.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/york-judge-releases-purported-epstein-011527050.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/york-judge-releases-purported-epstein-011527050.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +277,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/7CQ0_..lwtOhaRjqJAik4Q--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/8688c5ed38ba1914693d2478ec17c77d.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/once-city-peace-geneva-sees-050535542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/once-city-peace-geneva-sees-050535542.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +284,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wPv6Oq91iek5kXlXE6Uhsg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/462788789ca36b807159194c0ce1051e.cf.webp" alt="" /></p>Israel’s military launches a probe after photo shows soldier placing a cigarette into the mouth of Virgin Mary statue.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-soldier-desecrates-statue-virgin-044838817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-soldier-desecrates-statue-virgin-044838817.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +291,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PaFfH_DmmNHusHJNJSjbpg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/6ad6c3b09a512d88190300f88603ad5d.cf.webp" alt="" /></p>Australia will look to stave off energy shortages by forcing major gas companies to reserve 20 percent of their exports for domestic use, Energy Minister Chris Bowen said Thursday. In a bid to shield the nation from "global price volatility", Australia's largest gas firms will be forced to ring fence fuel for the domestic market -- equivalent to 20 percent of their exports.]]></description>
             <link>https://www.yahoo.com/news/articles/australia-force-gas-giants-fuel-042244374.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/australia-force-gas-giants-fuel-042244374.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +298,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war]]></description>
             <link>https://www.yahoo.com/news/articles/asian-headlines-4-31-m-040000201.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-31-m-040000201.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +305,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Southeast Asian leaders will reaffirm core values in veiled Mideast war rebuke]]></description>
             <link>https://www.yahoo.com/news/articles/asian-politics-headlines-4-46-040000294.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-4-46-040000294.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +312,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The U.S. military fired on an Iranian oil tanker Wednesday as President Donald Trump sought to pressure Tehran into reaching a deal to end the war.  The Islamic Republic said it was reviewing the latest American proposals.  A fighter jet shot out the rudder of the tanker in the Gulf of Oman as it tried to breach the American blockade of Iran’s ports, U.S. Central Command said in a social media post.]]></description>
             <link>https://www.yahoo.com/news/articles/top-asian-news-4-31-040000075.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-31-040000075.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +319,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/PyVs4mERX_OGSc_eI1.QGg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/840e8c623c492e810eb50b3fc9eddb18.cf.webp" alt="" /></p>Southeast Asian leaders plan to issue a contingency plan that upholds international law, sovereignty and freedom of navigation in what could be seen as a veiled rebuke to the United States, Israel and Iran over the Middle East war which has impacted their region, according to a draft declaration seen Thursday by The Associated Press.  The declaration is set to be issued by the leaders from the Association of Southeast Asian Nations when they meet in an annual summit on Friday in the central Philippine island province of Cebu.  It also outlines a crisis plan to deal with the energy shortages and other global problems caused by the war.]]></description>
             <link>https://www.yahoo.com/news/articles/southeast-asian-leaders-reaffirm-core-025719510.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/southeast-asian-leaders-reaffirm-core-025719510.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -78,7 +327,6 @@
 cmk-lb-ar/rlp/abs]]></description>
             <link>https://www.yahoo.com/news/articles/rubio-seeks-ease-tensions-us-023502532.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-seeks-ease-tensions-us-023502532.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -87,7 +335,6 @@ cmk-lb-ar/rlp/abs]]></description>
 The local polls are the thirdmajor ballot in South Korea since an amended law to combat AI-fuelled election falsehoods was passed in 2023.]]></description>
             <link>https://www.yahoo.com/news/articles/ai-disinfo-tests-south-korean-023054989.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ai-disinfo-tests-south-korean-023054989.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -95,7 +342,6 @@ The local polls are the thirdmajor ballot in South Korea since an amended law to
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WlYegttGyzOwQyhRjDSRYg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/c4d707c986efba383b6c79e4d4feb9db.cf.webp" alt="" /></p>The frustration from Americans whom O'Reilly alluded to regards the spike in gas prices since the war began.]]></description>
             <link>https://www.yahoo.com/news/articles/bill-o-reilly-delayed-end-022709389.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bill-o-reilly-delayed-end-022709389.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -103,7 +349,6 @@ The local polls are the thirdmajor ballot in South Korea since an amended law to
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/CIskPXv4bswi1c1HRhzCoA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b65da445e9c62c2750f6139e8612b904.cf.webp" alt="" /></p>By Kanishka Singh WASHINGTON, May 6 (Reuters) - The U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-reinstates-deportation-proceedings-against-005534553.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-reinstates-deportation-proceedings-against-005534553.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -111,7 +356,6 @@ The local polls are the thirdmajor ballot in South Korea since an amended law to
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/4lBtPNcc.BjyRWzpFBQBvA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/3bd6360db9574cc7242bb221a0f3c4ae.cf.webp" alt="" /></p>Yerson Granados used to fish off Colombia's Caribbean coast for a living, but when he discovered the havoc he was wreaking on coral reefs, he changed his ways.When he discovered the pressing need to preserve coral, Granados swapped his dynamite, nets and anchors for a diving suit, which he uses to plunge to the depths of the sea to attach coral fragments to an artificial reef in a bid to repopulate the area.]]></description>
             <link>https://www.yahoo.com/news/articles/colombian-ex-fisherman-swaps-trade-021145239.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colombian-ex-fisherman-swaps-trade-021145239.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -120,7 +364,6 @@ The local polls are the thirdmajor ballot in South Korea since an amended law to
 fal/ho/br/kjm/abs]]></description>
             <link>https://www.yahoo.com/news/articles/lobito-corridor-africas-mega-project-020215850.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lobito-corridor-africas-mega-project-020215850.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -128,7 +371,6 @@ fal/ho/br/kjm/abs]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QrV4qU1jV.YIaZqClOdFrw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/lead_stories_560/6201608429d7bd80a7e4a40c612c2e32.cf.webp" alt="" /></p>Did European Commission President Ursula von der Leyen ban laptops from cafés in the European Union? No, that's not true: There is no credible evidence that von der Leyen ever ordered such a ban. The creator of the post that...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-european-commission-president-011347448.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-european-commission-president-011347448.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Thu, 07 May 2026 05:44:28 GMT</pubDate>
         </item>
         <item>
@@ -6843,230 +7085,6 @@ Senegal struck a similar tone, balancing climate and development priorities afte
             <link>https://www.yahoo.com/news/articles/uk-police-arrest-man-two-111300004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-police-arrest-man-two-111300004.html</guid>
             <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[He once struck a peace deal with Israel and says Lebanon's leaders should try again now]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA335F966134C9E0668FD63EAE0D33A1A8C2687C4A37B5402DF7E8686BB570F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4cbea5ff7c06cd7d08de0eb54ca581a0" alt="" /></p>The former Lebanese president who once signed a short-lived deal with Israel ending decades of a state of war now says the time is right to try again.  Amin Gemayel spoke with The Associated Press in an interview Wednesday after the first direct talks between Lebanon and Israel since the 1980s, as they explore what could lead to a security agreement or even the eventual normalization of relations.  The 84-year-old Gemayel, who rarely speaks to international media, acknowledged that much has changed as Lebanese leaders again pursue talks with Israel and as a fragile ceasefire holds.]]></description>
-            <link>https://www.yahoo.com/news/articles/once-struck-peace-deal-israel-160803063.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/once-struck-peace-deal-israel-160803063.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico to require federal projects to use local steel in response to US tariffs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28CE810A22AB4108735E05F99AAE23301C8898EBD7D802864C902BA2715268BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ffb80b34fca5f70b50404db1374c69cd5" alt="" /></p>MEXICO CITY, April 29 () - Mexico's President Claudia Sheinbaum on Wednesday announced a rule that all federal work projects use steel ‌from Mexican companies, after attempts to reach a deal to ‌lift U. "The commitment we are making here is that the government's ​purchases will be steel produced in Mexico," Sheinbaum said during her daily morning press conference.]]></description>
-            <link>https://www.yahoo.com/news/articles/mexico-require-public-projects-local-143035140.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-require-public-projects-local-143035140.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to give $100 million to repair damaged Chornobyl nuclear shelter, Kyiv says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86DC1B4090B48CDEF7D868E9A91CBDBD2343CA8BEC51FBD60A71437CEBF25697/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fda3bdafaff000d4c06bea7e5ece3c4fe" alt="" /></p>will give $100 million towards ‌repairs of the vast ‌radiation containment dome at the Chornobyl ​plant in northern Ukraine, site of the world's worst atomic accident in 1986, after the ‌dome was ⁠damaged by a Russian drone, Kyiv's energy minister, ⁠Denys Shmyhal, said on Wednesday. One of Chornobyl's four reactors ​exploded in 1986 ​and ​is now enclosed ‌by a shelter to contain the lingering radiation.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-100-million-repair-damaged-154453359.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-100-million-repair-damaged-154453359.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[9 people arrested in massive raids on religious sect in U.K.]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2DDFFA4015448B26F9C246D4862234300452C5E33C49BC1865F1ECEEE515AC6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe2648c3036278130b556642ab9a2e077" alt="" /></p>Nine people were arrested in raids on the U.K. headquarters of the AROPL religious sect, on suspicion of modern slavery, forced marriage and sexual offenses.]]></description>
-            <link>https://www.yahoo.com/news/articles/9-people-arrested-massive-raids-154214353.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/9-people-arrested-massive-raids-154214353.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 1.2m in Lebanon expected to face acute hunger: UN-backed report]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6DDFDC730EF2CC7B7D725C1E0D3E77622BA3D09B91593F8133BD32387A03958/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F052abd48eb5382217255a70603c79f13" alt="" /></p>FAO, WFP and Lebanon gov’t say 1.24 million people ‘expected to face food insecurity’ at crisis levels or worse.]]></description>
-            <link>https://www.yahoo.com/news/articles/over-1-2m-lebanon-expected-153332079.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/over-1-2m-lebanon-expected-153332079.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. war in Iran has cost $25 billion so far, says Pentagon official]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B066559355B7C5A443A089347C651022EB39A67797253D5924D0ACA3615B9CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F871ea72fc8ffe0b992e90f50cb8e8b21" alt="" /></p>WASHINGTON, April 29 (Reuters) - The United States' war in Iran has cost $25 billion so far, a senior Pentagon official said on Wednesday, providing the first official estimate of the military's price]]></description>
-            <link>https://www.yahoo.com/news/articles/u-war-iran-cost-25-145859729.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-war-iran-cost-25-145859729.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modi's BJP set for surprise gains in India state elections, exit polls show]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2BE3A37C849B5C752563F07AA2E2918ACFD9B02D4E00CF57D0ACA755DC17F823/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4d08cc0696863ea2a561e56437f31efa" alt="" /></p>April 29 (Reuters) - - Indian Prime Minister Narendra Modi's Bharatiya Janata Party and its allies were projected to win two of four state elections, exit polls showed on Wednesday, projecting a]]></description>
-            <link>https://www.yahoo.com/news/articles/modis-bjp-set-surprise-gains-150826154.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/modis-bjp-set-surprise-gains-150826154.html</guid>
-            <pubDate>Wed, 29 Apr 2026 17:20:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Supreme Court guts key provision of Voting Rights Act]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HLqTaP_QWAJB06y_xMba0w--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/375fc22a0e29e08c2d2c068f75df018b.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-supreme-court-blocks-louisiana-141426194.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-supreme-court-blocks-louisiana-141426194.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guerrillas claim deadly Colombia attack, say it was an 'error']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/DpjYp3ljWzTEMGOdAau97w--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/85070dfe23f4edc1bf266047471edae5.cf.webp" alt="" /></p>Dissident guerrillas from Colombia's defunct FARC rebel army took responsibility for a bomb attack that killed 21 people, claiming a "tactical error" during an electoral campaign marked by a surge in violence.The dissident FARC offshoot Central General Command (EMC) took responsibility for the attack, stating late on Tuesday that the incident had occurred during clashes with the army and had resulted from "errors" in the group's military manoeuvres.]]></description>
-            <link>https://www.yahoo.com/news/articles/guerrillas-claim-deadly-colombia-attack-150341813.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/guerrillas-claim-deadly-colombia-attack-150341813.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madagascar detains French former serviceman over alleged mutiny plot]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ANTANANARIVO, April 29 (Reuters) - Madagascar has detained a former French serviceman accused of taking part in a plot to destabilise the Indian Ocean island, including by inciting security forces to]]></description>
-            <link>https://www.yahoo.com/news/articles/madagascar-detains-french-former-serviceman-093919481.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/madagascar-detains-french-former-serviceman-093919481.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Jewish men stabbed in London in what police call terrorist incident]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wlXbYRICq4hJv4mI4F.n8g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/3c18df144a5abdb0daa7da24716fe74b.cf.webp" alt="" /></p>Two Jewish men were stabbed in broad daylight in a leafy suburb of north London on Wednesday in what police described as a terrorist incident, further rattling a Jewish community already reeling from a series of antisemitic attacks in the UK’s capital city.]]></description>
-            <link>https://www.yahoo.com/news/articles/two-jewish-people-stabbed-london-131210549.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-jewish-people-stabbed-london-131210549.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We saw terrible things’: Mali refugees tell of atrocities amid attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/O7Xlyx41ltHdy.GKxR5QDg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/abf209e9a6c7e57f18061b1c0f29390a.cf.webp" alt="" /></p>Thousands of Malians have been forced to flee their country as several groups, including the army, assault them.]]></description>
-            <link>https://www.yahoo.com/news/articles/saw-terrible-things-mali-refugees-141617171.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/saw-terrible-things-mali-refugees-141617171.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Supreme Court backs anti-abortion pregnancy centers in New Jersey case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/OL2Cd3XwOQE4jljbuHSv0g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/63bd12f37f3bdbef1e4461d54370d213.cf.webp" alt="" /></p>WASHINGTON, April 29 (Reuters) - The U. Supreme Court sided on Wednesday with the operator of Christian faith-based anti-abortion "crisis pregnancy centers" in New Jersey that is trying to impede a state investigation into whether the facilities engage ‌in deceptive practices.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-supreme-court-backs-anti-141232321.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-supreme-court-backs-anti-141232321.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN experts urge Saudi labour practices switch before World Cup]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Fd6BKECDv8rEc5tBtBmdOw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/1ea165dbc2ed7ea2a2b1bcf505beb38a.cf.webp" alt="" /></p>UN rights experts on Wednesday urged Saudi Arabia to ditch their foreign labour system in the build-up to the 2034 football World Cup, citing abuse and exploitation concerns.Saudi Arabia was handed the right to host the World Cup at a FIFA Congress in 2024 despite concerns about its human rights record, the risks to migrant labourers and criminalisation of same-sex relationships.]]></description>
-            <link>https://www.yahoo.com/news/articles/un-experts-urge-saudi-labour-135840796.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-experts-urge-saudi-labour-135840796.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s royals remember Queen Elizabeth II on what would have been her 100th birthday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QvTBmAJCbxBWNNQl0G6A4w--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/b0e408b81c79268aa3943a33d04cb2c0.cf.webp" alt="" /></p>Britain’s royal family marked what would have been the late Queen Elizabeth II’s 100th birthday by unveiling comprehensive plans for a new charity and memorial in central London.]]></description>
-            <link>https://www.yahoo.com/news/articles/britain-royals-remember-queen-elizabeth-214619035.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/britain-royals-remember-queen-elizabeth-214619035.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tuareg rebels vow Mali junta 'will fall', north will be captured]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/g5MLUXTMwbgniueBvB.c0Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/ee4c89962891e526d4be1c29ab538fc3.cf.webp" alt="" /></p>Mali's Tuareg rebels told AFP Wednesday the country's ruling junta will fall and that they intend to conquer the north, just days after unprecedented large-scale attacks targeting the nation's military government.FLA spokesman Mohamed Elmaouloud Ramadane told AFP on Wednesday that the rebels intend to take control of Gao, Timbuktu and Menaka following their success in Kidal.]]></description>
-            <link>https://www.yahoo.com/news/articles/tuareg-rebels-vow-mali-junta-132921333.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tuareg-rebels-vow-mali-junta-132921333.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK watchdog says counterterrorism law could hit protests, free speech]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/kNHUslF4q7VQTmKd5nglMA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4e2e9f719a6a41ab3e4ce37ca7cae120.cf.webp" alt="" /></p>By Sam Tabahriti LONDON, April 29 (Reuters) - Britain's terrorism watchdog on Wednesday said the government risked stretching counterterrorism laws beyond their original purpose by using such powers]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-watchdog-says-counterterrorism-law-130511431.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-watchdog-says-counterterrorism-law-130511431.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Record antisemitic incidents in Canada fuel criticism of Carney government response]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/QMAOl0zvFeaypMwQScTwxA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fox_news_text_979/680d46c2cf7e56dbfd9a9feb29ed1381.cf.webp" alt="" /></p>Canada faces record antisemitic incidents in 2025 as critics say Prime Minister Mark Carney's government is failing to adequately address anti-Jewish hate.]]></description>
-            <link>https://www.yahoo.com/news/articles/record-antisemitic-incidents-canada-fuel-130036306.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/record-antisemitic-incidents-canada-fuel-130036306.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin will host a scaled-back parade in Red Square this year, amid mounting pressures and threats]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/MAH2QgcIvtB.PesoBm.kDw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/d277d24b8e7d86ed2a1c59876522185b.cf.webp" alt="" /></p>The May 9 Victory Day parade in Moscow’s Red Square is the headline event for Russian President Vladimir Putin. But this year, military hardware will be absent.]]></description>
-            <link>https://www.yahoo.com/news/articles/putin-host-scaled-back-parade-124245511.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/putin-host-scaled-back-parade-124245511.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beijing clamps down on drones: Sales banned citywide from May 1]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/AGbq3aaL_7wiSTy5fFh8SA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/79e22c3445525858b4ae91110503d0c8.cf.webp" alt="" /></p>Beijing is banning all drones within city limits starting May 1.  The Chinese capital's city government passed a series of ordinances in late March banning drone sales and flights, although users have long been blocked from flying drones within the city.  A search on Taobao, one of China's top online shopping platforms, showed that users with a Beijing delivery address could not check out with a drone in their cart.]]></description>
-            <link>https://www.yahoo.com/news/articles/beijing-clamps-down-drones-sales-104310525.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/beijing-clamps-down-drones-sales-104310525.html</guid>
-            <pubDate>Wed, 29 Apr 2026 15:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine says it hits Russian oil pumping station 1,500 km away]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F775B7D8744685895F5002C73B8C6B6F8865659E4CB595EEA9A894FCEFCEBF94/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Febccc917ce402aa29ff78095bc891670" alt="" /></p>April 29 (Reuters) - Ukraine struck what it said was an oil pumping station 1,500 km (900 miles) into Russia near the Ural Mountains with drones overnight, and President Volodymyr Zelenskiy said Kyiv]]></description>
-            <link>https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-continue-extending-103138102.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-continue-extending-103138102.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia urges social media platforms to disclose the number of accounts closed for users under 16]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Indonesia is urging social media companies and digital platforms to report the number of accounts that have been suspended as part of the implementation of government regulations restricting access for children under 16, authorities said Wednesday.  “We will continue to insist that compliance alone is not enough; we must also report the figures to the public in the interest of transparency,” said Communication and Digital Affairs Minister Meutya Hafid.  Indonesia began implementing a new government regulationat the end of March banning children younger than 16 from accessing digital platforms that could expose them to pornography, cyberbullying, online scams and addiction.]]></description>
-            <link>https://www.yahoo.com/news/articles/indonesia-urges-social-media-platforms-122707687.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-urges-social-media-platforms-122707687.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani troops destroy Afghan Taliban posts amid rising tensions]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Pakistani troops targeted and destroyed several Afghan Taliban posts in a remote southwestern region on Wednesday in what officials described as a response to “unprovoked aggression,” signaling rising tensions between the neighbors.  Two security officials said Pakistan also struck hideouts of the Pakistani Taliban near Chaman town in southwestern Balochistan province.  A day earlier, a mortar shell fired by the Afghan Taliban hit a house there, killing one civilian and wounding two others.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistani-troops-destroy-afghan-taliban-122657197.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistani-troops-destroy-afghan-taliban-122657197.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria says Australia won't repatriate families from camp for those with alleged ties to IS militants]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CCF9CD37FD68ED3E94A66CD765681212039AFCEF72B0FF0146A483B9A1F44BDB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4a6b96e707f74bc6b31a9c4f31f13a51" alt="" /></p>A group of Australian women and children who left a camp in Syria that houses people with alleged ties to Islamic State group militants are stuck in the country because Australian authorities have refused to allow their return, Syrian officials said Wednesday.  Thirteen women and children from four families last week left Roj camp, a remote facility near the border with Iraq that houses relatives of suspected militants, on Friday and traveled to Syria's capital.  An official at the camp at the time said that the families were expected to remain in Damascus for around 72 hours and then be sent to Australia.]]></description>
-            <link>https://www.yahoo.com/news/articles/syria-says-australia-wont-repatriate-122255007.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/syria-says-australia-wont-repatriate-122255007.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Is Iran’s oil storage nearly full – and will it have to cut production?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F736B9480841646D119F51C2F0DFF1FD7192FB3EF947D5F039EFF9045445C29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F50d4ff5c8bf85d584215389f8ac4c91a" alt="" /></p>Experts predict Iran could gradually scale back oil production if the US naval blockade of Hormuz persists.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-oil-storage-nearly-full-122253508.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-oil-storage-nearly-full-122253508.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mystery figure paid men to carry out arson attacks linked to UK PM Starmer, London court told]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1BF7338631511E63B8EA3F77005AD757921181D3C94669E7BBF2F8CF83F0E119/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F49f47356f9436df2f54a0a6350a60588" alt="" /></p>By Michael Holden LONDON, April 29 (Reuters) - Three men with links to Ukraine carried out a series of arson attacks on property connected to British Prime Minister Keir Starmer on behalf of a mystery]]></description>
-            <link>https://www.yahoo.com/news/articles/three-men-trial-accused-arson-111117277.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-men-trial-accused-arson-111117277.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Hezbollah’s fibre optic drones test Israel’s sophisticated radar system]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B21047882BED614C484EFA36519B39D939F9127222B2F182B3BC1CF2AAEB6A78/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fac0f3123b78e07b064f5525a23397440" alt="" /></p>Immune to jamming and invisible to radar, the low-cost drones are piercing through Israel’s multibillion-dollar systems.]]></description>
-            <link>https://www.yahoo.com/news/articles/hezbollah-fibre-optic-drones-test-121533225.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hezbollah-fibre-optic-drones-test-121533225.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What role has Russia played in Mali’s security and the Sahel region?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0155AC2BDD7DB1D15836E5662F772926FDAA4D6A63B964C7EF7F457D2B3F1CB0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F157853be5886a27d8d541bfb34d8610a" alt="" /></p>Russia, which has been making inroads into the Sahel through defence partnerships, now faces scrutiny.]]></description>
-            <link>https://www.yahoo.com/news/articles/role-russia-played-mali-security-121258559.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/role-russia-played-mali-security-121258559.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanese soldier and brother killed in Israeli strike, Lebanon army says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>April 29 (Reuters) - A Lebanese soldier and his brother were killed in an Israeli strike in Bint Jbeil in southern Lebanon, the Lebanese army said on Wednesday.]]></description>
-            <link>https://www.yahoo.com/news/articles/lebanese-soldier-brother-killed-israeli-115933569.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanese-soldier-brother-killed-israeli-115933569.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK prime minister condemns attack after 2 stabbed in a Jewish neighborhood of London]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6871B00F6F96F9BC904F3EDECE1E338722420B1B9BA951FDAC4666B12B0ABB98/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2a6bcb024ef727e302b6f79cd71e5f4d" alt="" /></p>Two people were stabbed Wednesday in a London neighborhood with a large Jewish community and a 45-year-old man was arrested on suspicion of attempted murder over what authorities called an antisemitic attack.  Counterterror police are investigating whether the stabbings are linked to a string of arson attacks on synagogues and other Jewish sites in the city.  Political leaders condemned the stabbing, with Prime Minister Keir Starmer saying that ”attacks on our Jewish community are attacks on Britain."]]></description>
-            <link>https://www.yahoo.com/news/articles/community-groups-2-stabbed-jewish-115146708.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/community-groups-2-stabbed-jewish-115146708.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourist dies after being bitten at snake-charming show in Egypt]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD7962825729DF1CDBCE62F0F1B042E6C1BDF498605500F17036AF76BE7D8AA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F39da9ddf7f0068cd0d89aecbb8fc5207" alt="" /></p>A snake, reported to be a cobra, crawled into the victim's pants and bit him as he watched a show, police said.]]></description>
-            <link>https://www.yahoo.com/news/articles/tourist-dies-being-bitten-snake-103828293.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tourist-dies-being-bitten-snake-103828293.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN-backed data undercuts viral Gaza famine claims as child malnutrition falls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4628B986707A33C26BCD2875265A763E892ED319B3D338EF69A72A7B6A5833E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F4f2459d0f8c45f5b6a791640a0503ce9" alt="" /></p>United Nations data challenges viral Gaza famine claims as experts say Hamas is weaponizing humanitarian narratives to undermine a post-war coalition.]]></description>
-            <link>https://www.yahoo.com/news/articles/un-backed-data-undercuts-viral-100000294.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-backed-data-undercuts-viral-100000294.html</guid>
-            <pubDate>Wed, 29 Apr 2026 13:52:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
