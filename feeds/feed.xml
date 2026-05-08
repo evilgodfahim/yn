@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 21:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 22:48:37 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 21:53:08 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 22:48:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Peru presidential hopeful says electoral 'coup' underway]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60BCDC8E3CCF680C77BEC09F07F223CC4B5A8F91E743BB1AF7DF9F18690D87B7/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9d51d547f7d14dcc2b287e7d480545cf" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/peru-presidential-hopeful-says-electoral-222945866.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/peru-presidential-hopeful-says-electoral-222945866.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Fri, 08 May 2026 22:48:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US imposes sanctions on 10 individuals, companies for aiding Iran's weapons sector]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC85A376EB2A9F293CF9FE46558C9DACF6C7041AD262F624E0CDD8E53954FB6B/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F09c1da82cb285bd581344d4c5365397d" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-imposes-sanctions-10-individuals-214444683.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-imposes-sanctions-10-individuals-214444683.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 08 May 2026 21:53:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8819F446C8B58E6463A7A9AFD8639F3D8278711B77CC2C4D8BF6184B41BB135/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcb2ea6c2141a5498ac0392bebcb5deba" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-190915801.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-190915801.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 08 May 2026 21:53:08 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C77765B398763BBED4CB184115BBFCD93C8E7AB5E253915FB963046676D4B08C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faaa88240b2ba7841e3b528c9dcf7e414" alt="" /></p>By Valerie Volcovici and Idrees Ali WASHINGTON, May 8 (Reuters) - Members of Maryland's congressional delegation are awaiting answers from the U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/maryland-lawmakers-await-answers-air-210948107.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/maryland-lawmakers-await-answers-air-210948107.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 08 May 2026 21:53:08 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/849C171E4370F2DD90B160B58C45DE4889FED81B340F552C52584DDB4DA1F571/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa1134516de791771d4379fe2650220b2" alt="" /></p>May 8 (Reuters) - Russian Foreign Minister Sergei Lavrov told his United Arab Emirates counterpart on Friday that U.S.-Iran talks needed to be supported to prevent a resumption of hostilities in the]]></description>
             <link>https://www.yahoo.com/news/articles/russias-lavrov-tells-uae-counterpart-211145610.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russias-lavrov-tells-uae-counterpart-211145610.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 08 May 2026 21:53:08 GMT</pubDate>
         </item>
         <item>
@@ -7049,13 +7053,6 @@ In May 2025, WHO members adopted a landmark agreement on tackling future health 
 Iran's judiciary chief Gholamhossein Mohseni Ejei on Friday said Tehran was open to talks with the United States but would not accept what he called policy "imposition" under threats."The Islamic Republic has never shied away from negotiations... but we certainly do not accept imposition," Ejei said in a video carried by the judiciary's Mizan Online website.]]></description>
             <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-115452073.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-115452073.html</guid>
-            <pubDate>Fri, 01 May 2026 13:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gaza aid flotilla vessels taken to Crete after Israeli interception]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1298E7593E1227593F0C5BCD0A0806B56EA361623B9264E426298A8460E203F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa4f9c484061deebb9382ce720dcd276c" alt="" /></p>Israel’s military reportedly seized 22 vessels sailing among the Global Sumud Flotilla.]]></description>
-            <link>https://www.yahoo.com/news/articles/gaza-aid-flotilla-vessels-taken-113133860.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gaza-aid-flotilla-vessels-taken-113133860.html</guid>
             <pubDate>Fri, 01 May 2026 13:01:22 GMT</pubDate>
         </item>
     </channel>
