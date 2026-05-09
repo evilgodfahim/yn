@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 05:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 07:46:14 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Financial struggles burden Yemen’s army as soldiers wait for wages]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8D1C1EAB15C44A76E27134DD8E3030698826ADF6F1E48BD96A80BD6A28AFF771/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe20d551d690cedc5e1a0f169fcc7ae2b" alt="" /></p>Yemeni soldiers earn $38 to $116 monthly, but an unstable currency has eroded the value of their salaries.]]></description>
+            <link>https://www.yahoo.com/news/articles/financial-struggles-burden-yemen-army-071153407.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/financial-struggles-burden-yemen-army-071153407.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US, Iran no closer to ending war as Gulf clashes flare]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5DFFD39A7E59199993CD2047AC19F83D2FE01A39B2D064ED34947C512160DA0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F823145210c07805b5d8fa30091f0fa09" alt="" /></p>By Idrees Ali, Erin Banco and Hatem Maher WASHINGTON/CAIRO, May 9 (Reuters) - The U.S. and Iran appeared no closer on Saturday to finding an end to their war after the two sides traded fire in the]]></description>
+            <link>https://www.yahoo.com/news/articles/us-iran-no-closer-ending-065843259.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-no-closer-ending-065843259.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moscow marks Victory Day with a Red Square parade under tight security]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/247EF082F96D2614241DB39EB79289E5D83859D3253A94258E1F318DC7FF82B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbf3eaf390c9321b6478348ce6ba74215" alt="" /></p>Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II.  Security was tight in Moscow as Putin and several foreign leaders attended the parade, even as a U.S.-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to disrupt the festivities.  Putin, in power for more than a quarter-century, has used Victory Day, Russia’s most important secular holiday, to showcase the country’s military might and rally support for his military action in Ukraine, now in its fifth year.]]></description>
+            <link>https://www.yahoo.com/news/articles/moscow-set-mark-victory-day-045133372.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/moscow-set-mark-victory-day-045133372.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran operating like ‘Somali pirates’ with Strait of Hormuz, says US official]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4EDAC0EBFB0DAA3CA09C32DD345F18ECB988C86C9C31B8744D24CD0933005CAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F553039660a1dd266f1f43abe5de0518a" alt="" /></p>“Not only are they holding their own country hostage,” Burgum told NewsNation. “They're trying to hold the world economy hostage."]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-operating-somali-pirates-strait-042948122.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-operating-somali-pirates-strait-042948122.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘It was a real hell’: Palestinian journalist on his year in Israeli prison]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A76BB94F968C341BF57D5AF7E677CEB3412FFFA28398DDD6BD83E97BA754BC6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F325e3c86408ba3c53eda6b527e034cab" alt="" /></p>He is one of 105 Palestinian journalists who have been detained and imprisoned since October 7, 2023, the majority also held without charge, according to the Committee to Protect Journalists.]]></description>
+            <link>https://www.yahoo.com/news/articles/real-hell-palestinian-journalist-israeli-040151477.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/real-hell-palestinian-journalist-israeli-040151477.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What to know about the latest wave of changes to congressional districts]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AEF6515C52D75B42B0CB81F7AB76A00CD8B874F6D59FE7E5EBDA7155F78417E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F730d4423fcd5d6003eaeec3ef4c57b04" alt="" /></p>The remaking of the U.S. political map accelerated this week in courts and legislatures, all of it in this round expected to boost Republicans in their attempt to keep control of Congress in November's elections.  This week's major action came in Southern states, with a significant state court ruling in Virginia and continued fallout from a U.S. Supreme Court decision last month.  In a 4-3 decision Friday, the Virginia Supreme Court stuck down a Democratic congressional redistricting plan that was approved by voters in April.]]></description>
+            <link>https://www.yahoo.com/news/articles/know-latest-wave-changes-congressional-040106701.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/know-latest-wave-changes-congressional-040106701.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fuel shortages and high prices push adoption of EVs in Africa, led by Ethiopia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF5F167681D0EB53A869CBA49D09C9F634CEF51D6D8190E13C34B020467D09EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F56f660724f6165453394e60ed15ddc36" alt="" /></p>Use of electric vehicles in Africa is surging, led by Ethiopia, as soaring prices and fuel shortages compel countries to opt for cleaner and cheaper transport.  Africa imported 44,358 electric vehicles from China in 2025, according to data from China’s Commerce Ministry, up from 19,386 in 2024.  The shipments, valued at over $200 million, highlight growing demand, especially in Ethiopia after it banned new imports of gas and diesel-powered vehicles in 2024.]]></description>
+            <link>https://www.yahoo.com/news/articles/fuel-shortages-high-prices-push-030427821.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fuel-shortages-high-prices-push-030427821.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US military strike on alleged drug boat in the eastern Pacific kills 2, leaves a survivor]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B97E854AF78AB59D92CCCEDC245325E623E1C650DAF5A8351B1DE3E48532118/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F23f7735362149fa74147640128aa54dc" alt="" /></p>The U.S. military's latest strike on an alleged drug-trafficking boat in the eastern Pacific Ocean killed two men Friday while leaving one survivor.  Video posted on social media by U.S. Southern Command shows a black, boat-shaped image before what appears to be an explosion, followed by a column of fire rising from the ocean.  The White House announced Wednesday that President Donald Trump has signed off on a new U.S. counterterrorism strategy that sets eliminating drug cartels in the Western Hemisphere as the administration’s highest priority.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-military-strike-alleged-drug-004447581.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-strike-alleged-drug-004447581.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 07:46:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indonesia rescuers search for hikers killed in volcanic eruption]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0FEEBC3CD0DCC2D027692133856C7BC888FFADF641E78E994575E27F4DEC488/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F90a4a55dbc9d01551e11e24bd69776c6" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/indonesia-rescuers-search-hikers-killed-052952989.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-rescuers-search-hikers-killed-052952989.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2041AA1A3964B27B9DC01A5322EF9F32C9A1A9AB582D32BF41E69E772BDB09B2/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe6063a8aaf045df627ea7333d80ef653" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/magyar-become-hungarys-regime-change-051747723.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/magyar-become-hungarys-regime-change-051747723.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11DE1BCDC12FF66858F9B81195BEDC4B5DD1658D874A02E4D105210674506829/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd918bf186f81f104fd4ec3e1d2ad0fa0" alt="" /></p>By Guy Faulconbridge and Vladimir Soldatkin MOSCOW, May 9 (Reuters) - Russia holds its most scaled-back Victory Day parade in years on Saturday due to the threat of attack from Ukraine, where victory]]></description>
             <link>https://www.yahoo.com/news/articles/russia-holds-scaled-back-ww2-210146934.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-holds-scaled-back-ww2-210146934.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A US fighter jet disabled two Iran-flagged tankers on Friday by firing precision munitions into their funnels, the US military said, demonstrating the precision of the weapons in use.]]></description>
             <link>https://www.yahoo.com/news/articles/us-fighter-jet-attack-iranian-043428837.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-fighter-jet-attack-iranian-043428837.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B7D20C82C6EE8F22EC0E68F897CBD12F177CF3AB473D50FB5E8A494E5CBD31F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F3fece609692294a186490809d3105886" alt="" /></p>The rise comes as Argentina races to trace the footsteps of a couple who traveled extensively in the country and later died amid an outbreak on the cruise ship Hondius.]]></description>
             <link>https://www.yahoo.com/news/articles/hantavirus-cases-nearly-doubled-argentina-040051233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hantavirus-cases-nearly-doubled-argentina-040051233.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/asian-politics-headlines-4-02-040000720.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-politics-headlines-4-02-040000720.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-5-12-040000890.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-5-12-040000890.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +126,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DAFD801F87CA5ACC38F5C6B9C5C0A61620D450D0EE9302AEC853383C941A103B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fd806d917517349121c308685fcefb157" alt="" /></p>Does a real video show "The Grand Aurelian" cruise ship dumping waste into the ocean? No, that's not true. There is no credible evidence that a cruise ship with this name was caught dumping garbage, and no reputable outlets have...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-fake-video-shows-034706781.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-fake-video-shows-034706781.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +133,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56A10D8231EDD1FB81E4363F031FEF5CD82888213692AF3085C5E0B170668B4A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6514f100350131604c1cb7d763d65159" alt="" /></p>Ukraine's President Volodymyr Zelensky agreed to uphold a three-day ceasefire announced by US President Donald Trump while Russia holds its annual Victory Day parade on Saturday, though the event was set to be scaled back over security fears.After two failed attempts at truces this week by both Russia and Ukraine, Trump announced on Friday a three-day ceasefire between both sides would come into effect the following day.]]></description>
             <link>https://www.yahoo.com/news/articles/moscow-hold-scaled-back-victory-034050745.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/moscow-hold-scaled-back-victory-034050745.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +140,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Kanishka Singh and Christian Martinez WASHINGTON, May 8 (Reuters) - The U.S. military said on Friday it struck a vessel in the Eastern Pacific, killing two people and leaving one survivor.]]></description>
             <link>https://www.yahoo.com/news/articles/us-military-says-killed-2-010230012.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-killed-2-010230012.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +147,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C822F0BE44CC4FC9E53ECB8DA4FE99C348DE830929529954218578464DDB9AC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3c7a15bdd41d9c77ddca1d663f32bbda" alt="" /></p>Isolated and traumatised by drones and missiles, seafarers in the Gulf face grave mental suffering after more than two months stuck on board in the Middle East war, maritime charities warn."We heard that one of the seafarers, an officer, suffered a panic attack while the vessel was being boarded," said John Canias, maritime operations coordinator for the International Transport Workers' Federation (ITF).]]></description>
             <link>https://www.yahoo.com/news/articles/trapped-seafarers-traumatised-gulf-fighting-032320503.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trapped-seafarers-traumatised-gulf-fighting-032320503.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +154,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/411FC1EDC45C712A559A0C653A9A89415848584F4B8BC63AEF86D6FA48F7FAD7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fecde1e7af55af4227105edfcb0455014" alt="" /></p>Does a real photo show Pope Leo XIV rocking Nikes with his clerical vestments? Yes, that's true: This is a real photo that appears in a trailer for a documentary about the time Pope Leo XIV spent in Rome before...]]></description>
             <link>https://www.yahoo.com/news/articles/fact-check-real-photo-shows-030410546.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-real-photo-shows-030410546.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +161,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/13F38DB554D539359753A9CA82460401AEB1247B11B0FB16F74B4773D25913D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F2522ab29f7130c55cce5151c29c311ab" alt="" /></p>Experts say hantavirus that affected cruise ship passengers is not spreading the way COVID-19 did]]></description>
             <link>https://www.yahoo.com/news/articles/expert-hantavirus-cruise-outbreak-far-010942395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/expert-hantavirus-cruise-outbreak-far-010942395.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sat, 09 May 2026 05:33:12 GMT</pubDate>
         </item>
         <item>
@@ -7008,62 +7059,6 @@ In May 2025, WHO members adopted a landmark agreement on tackling future health 
             <link>https://www.yahoo.com/news/articles/north-koreas-extreme-battlefield-doctrine-140722841.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-extreme-battlefield-doctrine-140722841.html</guid>
             <pubDate>Fri, 01 May 2026 16:48:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorities have identified a body as Nahida Bristy, the 2nd missing University of South Florida student from Bangladesh]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/authorities-identified-body-nahida-bristy-153255179.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/authorities-identified-body-nahida-bristy-153255179.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In south Syria, families fear for relatives seized by Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4AF5015B574890D8F60B0D9BCE1E9D7032F538022C877B83BC8CDA9FFE83FF17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe16e3d843328e58e748a80a5733fbce1" alt="" /></p>Whenever Fatima al-Safadi hears a knock at the door, she imagines it might be her sons -- among dozens of people Israel has seized from southern Syria and whose fate remains unknown months later."Sometimes I hear a knock at the door and I rush to open it, but there is nobody there," she said, holding a picture of her sons close.]]></description>
-            <link>https://www.yahoo.com/news/articles/south-syria-families-fear-relatives-152056234.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-syria-families-fear-relatives-152056234.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five killed in small plane crash near Austin]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 1 (Reuters) - Five people were killed late Thursday when a small plane crashed near Austin, Texas, local authorities said Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/five-killed-small-plane-crash-143512632.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/five-killed-small-plane-crash-143512632.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China has now dropped tariffs on imports from every African country except 1]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B72982E67125E6F24B6596FBF663CAAE3726B07E12D831E2A939EB5DDCEA0FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2f131ed8e0ca0f8456217211c3ea21e8" alt="" /></p>A China policy giving Africa's biggest economies tariff-free access to its market for the next two years came into effect Friday while its economic rival the United States seeks to impose new import taxes under President Donald Trump's push for protectionism.  China had already dropped tariffs on 33 poorer African countries, meaning 53 of the continent's 54 nations are now eligible for “tariff-free treatment” for their goods, according to China.]]></description>
-            <link>https://www.yahoo.com/news/articles/china-now-dropped-tariffs-imports-140608020.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-now-dropped-tariffs-imports-140608020.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine says a strike hit Tuapse oil terminal, the fourth attack on the region in 2 weeks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8046380769A634C80C828A5BE74BA5DDF81E099F6C752B5A6E377CA5BB88D717/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F58762ab4434447e7069fdacfbfd3bfe0" alt="" /></p>Ukrainian forces struck an oil terminal in the Russian Black Sea city of Tuapse, Ukraine’s General Staff said on Friday, marking the fourth attack targeting the region's oil infrastructure in just over two weeks.  Explosions and a fire were recorded on the premises of local oil infrastructure, the statement from the General Staff said.  Local officials in Russia said a Ukrainian drone attack sparked the blaze and that no casualties were reported.]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-says-strike-hit-tuapse-134456270.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-says-strike-hit-tuapse-134456270.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine rolls out army reform, Zelenskiy says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E9B90092F1E0B66AB8791304313F333F09D282E3EBCFEFC4F084C86718754AA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe3fcf9e7db0ac70ee0cc40cfe6d25ddf" alt="" /></p>KYIV, May 1 (Reuters) - Ukraine is launching an "army reform", President Volodymyr Zelenskiy said on Friday, announcing plans to increase wages for the military, strengthen the contract system and]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-rolls-army-reform-zelenskiy-125106248.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-rolls-army-reform-zelenskiy-125106248.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli authorities taking 2 activists from a Gaza-bound flotilla to Israel for questioning]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/098850C8EFDD30874847473D58C44B05591D28CF684059C9464E3DF20E20C942/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F604b0518bf36309f233ede5dd006cf13" alt="" /></p>Israeli authorities said they were taking two activists who led an aid flotilla bound for Gaza, and who were captured by Israel in international waters of the Mediterranean Sea, to Israel for questioning.  The activists, Spanish-Swedish citizen of Palestinian origin Saif Abukeshek and Brazilian citizen Thiago Ávila, were among dozens of activists intercepted by the Israeli navy off the coast of Crete.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-authorities-taking-2-activists-102156709.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-authorities-taking-2-activists-102156709.html</guid>
-            <pubDate>Fri, 01 May 2026 15:49:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuban immigrant died in ICE custody in Georgia, notice to US lawmakers says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/HCrFQjmUHLGx3PNWcU33vA--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/3675fd58c056f5f47f5848a81cbe6a20.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/cuban-immigrant-died-ice-custody-141629888.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuban-immigrant-died-ice-custody-141629888.html</guid>
-            <pubDate>Fri, 01 May 2026 14:35:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
