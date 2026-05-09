@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 15:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 16:27:40 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 15:28:37 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E73FC828CAD7B36C29442A53F70FB28E40D153D6E5009F48C4221623543A2A4C/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fad231e83557d0cc92b109038cc960ce2" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK nationals on hantavirus-hit cruise ship to isolate in hospital on return]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2573B439D929A40959E7E786232647C9F1F6DC600245362A6F3826E719891BC2/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F32ef7c8c3a76804f8b67961aa9014fa6" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/uk-nationals-hantavirus-hit-cruise-153747073.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-nationals-hantavirus-hit-cruise-153747073.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/503D901BCF097788556BEB99DD2625079C237AABBA9DD3AD2DE77CE196354C86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F308c0a4c2ff4005201bdbf628bcaa526" alt="" /></p>Niger’s military government has banned dozens of local and foreign reporters since seizing power in 2023.]]></description>
+            <link>https://www.yahoo.com/news/articles/niger-suspends-nine-french-media-155327744.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/niger-suspends-nine-french-media-155327744.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.K.'s Starmer faces calls to resign after disastrous local elections]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30EC6F2F0FAF5183BB080173711662CE57BE4493E18DB1CB238562FA3E811118/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F5c4af24c2da70b33cd016ad1257ddabd" alt="" /></p>British Prime Minister Keir Starmer pledged Saturday to revive the Labour Party after a disastrous set of local and regional elections.]]></description>
+            <link>https://www.yahoo.com/news/articles/u-k-starmer-faces-calls-135429848.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-k-starmer-faces-calls-135429848.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Péter Magyar sworn in as Hungary's prime minister, ending Viktor Orbán's rule]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D888B728A57C61820677D8EBBEA6E31DA828BBA1C5CD059F179D7AE10BB9CCE/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F917157168fb183dfce9c9972deee1fa5" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/p-ter-magyar-sworn-hungarys-145051374.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/p-ter-magyar-sworn-hungarys-145051374.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 09 May 2026 15:28:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/146CBB6BAC9DF19D84923C20325F695B26101A91542598E86230FCDC5A228C62/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F1362fb21baff24e2da11b8ccf96fcfd5" alt="" /></p>The MV Hondius is expected to reach the Canary Islands early Sunday. Passengers are set to be carefully removed hours after docking.]]></description>
             <link>https://www.yahoo.com/news/articles/director-says-personally-oversee-hantavirus-145550639.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/director-says-personally-oversee-hantavirus-145550639.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 09 May 2026 15:28:37 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/52ED9B9EF8A51F5CE732C8D9A8D35D152255C8421C1E10CF3E7C4EC08B0E0848/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0077bd7bb04feaed959603fbac079556" alt="" /></p>LONDON, May 9 (Reuters) - Britain said on Saturday it was deploying its warship HMS Dragon to the Middle East in preparation for a potential multinational effort to protect shipping in the Strait of]]></description>
             <link>https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-142514145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-142514145.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 09 May 2026 15:28:37 GMT</pubDate>
         </item>
         <item>
@@ -7027,35 +7056,6 @@ A senior Iranian military officer said on Saturday that renewed fighting between
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFD13746EF7A9835A1A5501D89249B9C72DC057460AA306C3C103CE0956DD60F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8c94fd29227c44fac97b3eceede296c7" alt="" /></p>Israel’s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.]]></description>
             <link>https://www.yahoo.com/news/articles/least-12-killed-latest-israeli-211015686.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-12-killed-latest-israeli-211015686.html</guid>
-            <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gridlock as pandemic treaty talks fail to finish]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01786AB4D037D3413D18C6765B97880785BD4EB92A0A78E9B81F5240CCA917E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1e4d56403cb1bb64e43623486e0319c3" alt="" /></p>The World Health Organization said Friday that divided member states want up to a year of further negotiations on the missing piece of an international agreement on handling future pandemics.- World 'largely unprepared' -
-In May 2025, WHO members adopted a landmark agreement on tackling future health crises, after more than three years of negotiations sparked by the shock of Covid-19.]]></description>
-            <link>https://www.yahoo.com/news/articles/gridlock-pandemic-treaty-talks-fail-210412788.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gridlock-pandemic-treaty-talks-fail-210412788.html</guid>
-            <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2875B16D892787DAAA973728D9C8BB94693406C0C28DAA6F375F9A287AB2182D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7fb2481a6e5c769eed97946910b9758c" alt="" /></p>Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.]]></description>
-            <link>https://www.yahoo.com/news/articles/iranian-nobel-laureate-narges-mohammadi-205955745.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iranian-nobel-laureate-narges-mohammadi-205955745.html</guid>
-            <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US court blocks mail-order access to abortion drugs, for now]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B447DFC53552791F8626B47BBE77481FF4A2882FC7E8A392BAA836B9DA82C79/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6bc9972c605fb8f73927b0d01842b384" alt="" /></p>By Daniel Wiessner May 1 (Reuters) - A U.S. appeals court on Friday temporarily blocked a federal rule allowing the abortion drug mifepristone to be dispensed through the mail, significantly]]></description>
-            <link>https://www.yahoo.com/news/articles/us-court-blocks-mail-order-204737582.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-court-blocks-mail-order-204737582.html</guid>
-            <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How major US stock indexes fared Friday 5/1/2026]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The U.S. stock market is rising toward more records after Apple, Estee Lauder and others joined the list of companies delivering fatter profits for the start of the year than analysts expected.  The Dow Jones Industrial Average fell 40 points, and the Nasdaq composite added 1% to its own record.  The Nasdaq composite rose 222.13 points, or 0.9%, to 25,114.44.]]></description>
-            <link>https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201515173.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/major-us-stock-indexes-fared-201515173.html</guid>
             <pubDate>Fri, 01 May 2026 22:09:55 GMT</pubDate>
         </item>
     </channel>
