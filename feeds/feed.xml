@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 17:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 18:13:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Syria and Lebanon make ‘significant progress’ at talks on joint interests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2641363DD004193323C84AF7B58ADA0059EDAB95ED62FDA9D0C5BB86A41F8A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0482d2641ab9771eb12ae415ecac4656" alt="" /></p>In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.]]></description>
+            <link>https://www.yahoo.com/news/articles/syria-lebanon-significant-progress-talks-175018019.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/syria-lebanon-significant-progress-talks-175018019.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesian police arrest 321 foreigners in an operation to crack down on banned online gambling]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>More than 300 foreign nationals were arrested in a raid on an alleged online gambling operation in the Indonesian capital, police said Saturday, in one of the country’s largest crackdowns on illegal digital betting networks.  The 321 foreigners, mainly from Vietnam, were arrested at a commercial building near the city's Chinatown section that investigators described as a hub for more than 70 online gambling websites, targeting players outside Indonesia, based on marketing records and digital evidence collected during the raid.]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesian-police-arrest-321-foreigners-174918323.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesian-police-arrest-321-foreigners-174918323.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin Marks Pared-Down Victory Day Parade in Moscow After Zelensky Gives ‘Permission’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/039D60067AE5C2B31D8B7014E861967B896355C91F3EB81FAFD1802D54D24CFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F4432a53bff68041ca1366101603581b8" alt="" /></p>Trump hailed a cease-fire between the two sides ahead of the parade, as Zelensky issued an apparently tongue-in-cheek decree permitting the event.]]></description>
+            <link>https://www.yahoo.com/news/articles/putin-marks-pared-down-victory-154013548.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/putin-marks-pared-down-victory-154013548.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hantavirus cruise ship nears Canary Islands as passengers await evacuation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83BFC6E090C49B1ACEE4657A0391F62923DB1D9F64F23318EB784F63A44E21D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F30db0e6d20380f806a3ecc4a2001e07f" alt="" /></p>There are currently 150 passengers still on the MV Hondius.]]></description>
+            <link>https://www.yahoo.com/news/articles/hantavirus-cruise-ship-nears-canary-152619859.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hantavirus-cruise-ship-nears-canary-152619859.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indonesia rescuers retrieve hiker's body after volcanic eruption]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3ABAC22665F0C20007A3416D4A8036DAEA014DAB8F4D21E9B993B92CA52E5D4/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F03aec7aa09a937964f7a6454b3107d04" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/indonesia-rescuers-retrieve-hikers-body-164149571.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-rescuers-retrieve-hikers-body-164149571.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC5D66197A504325242BB3758322692971ED16DC02F4FA2C4001B85AA9087A5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe1d6c8a5b924f134463f740b09b2222c" alt="" /></p>No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 9 (Reuters) - Qatari LNG tanker Al Kharaitiyat was sailing towards the Strait of Hormuz on Saturday after departing Qatar's Ras Laffan en route to Port Qasim in Pakistan, according to LSEG]]></description>
             <link>https://www.yahoo.com/news/articles/qatari-lng-tanker-sailing-towards-170332251.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/qatari-lng-tanker-sailing-towards-170332251.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88A7766603A216BFDB8D1BCB2E9862DD0355523DC46C962217F332443E54CCA2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F084f3fd7abe1d5d3b9e46784ee44e0e8" alt="" /></p>The strait represents ‘a capability that can affect the entire global economy with a single decision’, politician says.]]></description>
             <link>https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C637F7699455F835F0457709EBA1879911FA4E533173EACF84715962DCE5889/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fad2852a055f3f30ac20821a5bdb742ae" alt="" /></p>Authorities reported eight people killed in Israeli airstrikes in southern Lebanon on Saturday, with more raids targeting a highway south of Beirut outside Hezbollah's traditional strongholds and far from the centre of ongoing fighting.NNA also reported that the "Israeli enemy launched two strikes on the Saadiyat highway", referring to a location around 20 kilometres (12 miles) south of Beirut.]]></description>
             <link>https://www.yahoo.com/news/articles/lebanon-says-least-one-killed-141450056.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-least-one-killed-141450056.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
         <item>
@@ -7030,34 +7057,6 @@ A senior Iranian military officer said on Saturday that renewed fighting between
             <link>https://www.yahoo.com/news/articles/japans-pm-takaichi-hanoi-meet-014306605.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/japans-pm-takaichi-hanoi-meet-014306605.html</guid>
             <pubDate>Sat, 02 May 2026 03:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China was the birthplace of recreational drones. Now you can’t buy one in Beijing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/WHUeFWQebCgWrnoVb65Qvw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/cnn_articles_875/75aaccdb2aaf15ad876a404ce3fd7173.cf.webp" alt="" /></p>In the flagship Beijing store of the world’s biggest drone maker, display racks designed to showcase DJI’s famous flying products sit awkwardly empty.]]></description>
-            <link>https://www.yahoo.com/news/articles/china-birthplace-recreational-drones-now-002532157.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-birthplace-recreational-drones-now-002532157.html</guid>
-            <pubDate>Sat, 02 May 2026 03:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US withdrawing 5,000 troops from Germany, US officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/AYd9r7uJV4s.4pdokCyEDw--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/video.cbsnewsvideos.com/39346d52adff8dd62237bfe5da195078.cf.webp" alt="" /></p>By Phil Stewart and Idrees Ali WASHINGTON, May 1 (Reuters) - The United States is withdrawing 5,000 troops from NATO ally Germany, the Pentagon announced on Friday, as a rift over the Iran war widens]]></description>
-            <link>https://www.yahoo.com/news/articles/us-withdrawing-5000-troops-from-germany-us-officials-say-222322619.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-withdrawing-5000-troops-from-germany-us-officials-say-222322619.html</guid>
-            <pubDate>Sat, 02 May 2026 03:57:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US approves military sales of over $8.6 billion to Middle East allies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/qyPrP2d4cHdnKrBdYLRPLQ--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/6ba82022d927aa3a439628337b4bdcae.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-approves-military-sales-over-223148418.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-approves-military-sales-over-223148418.html</guid>
-            <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to withdraw 5,000 troops from Germany in next 6-12 months]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/55rQB3DCmtm54YTvgwPBWw--~B/Zmk9c3RyaW07aD02NjI7cT05NTt3PTk4NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/ap.org/b759db056cc2501c15c0fbba76617dce.cf.webp" alt="" /></p>Source: Associated Press]]></description>
-            <link>https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-223052847.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-withdraw-5-000-troops-223052847.html</guid>
-            <pubDate>Fri, 01 May 2026 23:12:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
