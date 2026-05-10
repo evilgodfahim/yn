@@ -4,16 +4,33 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 13:00:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 14:34:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 14:34:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[War in the Middle East: latest developments]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A33525FE9125669EDF99C51B4B7807D7FA4CF80E9B5E2C48DF0D873818DCFA2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fafbe879dce03a20c98625cd604b589e1" alt="" /></p>Here are the latest developments in the Middle East war:
+- Iran sends response -
+Iran has sent its response to a US proposal to end the war in the region via Pakistan, Iranian state media reported. "The Islamic Republic of Iran sent today (Sunday) through Pakistani mediators its response to the latest text proposed by the United States to end the war," the official IRNA news agency said, without offering details.]]></description>
+            <link>https://www.yahoo.com/news/articles/war-middle-east-latest-developments-124722633.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/war-middle-east-latest-developments-124722633.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 14:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran sends response to US proposal to end war via mediator Pakistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0798461D8F50ADFA2CDAC73FCF11C763A38FE577B4192726DD7F4757FC997C91/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1f465d2c52bccbce2b55bfed5f17d39f" alt="" /></p>According to the proposal, initial negotiations will focus on ending hostilities.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-sends-response-us-proposal-124050106.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-sends-response-us-proposal-124050106.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 14:34:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UK's Starmer says his government is a 10-year project despite calls to quit]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BEBAD22673DBAA81CE9D554EBF88ED01BE3CF03DCE8F5FE6FDC3358C8BA90C1/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9c365fcb5cc87a5b0fa5c605c17de0ff" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/uks-starmer-says-government-ten-104025258.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uks-starmer-says-government-ten-104025258.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +38,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57855469F7A24634DB076AEEF955A169C3307EB99026BB13DBE278CA88550FC6/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd44d88f9f0604e04561731c5fb6543a4" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/drones-target-gulf-vessels-tehran-122543133.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/drones-target-gulf-vessels-tehran-122543133.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +45,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, May 10 (Reuters) - The United Arab Emirates' air defences dealt with two drones coming from Iran on Sunday, the Defence Ministry said, the latest in renewed attacks on the oil-rich Gulf country]]></description>
             <link>https://www.yahoo.com/news/articles/uae-says-air-defences-dealt-121912003.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uae-says-air-defences-dealt-121912003.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, May 10 (Reuters) - Iran’s Oil Terminals Company denied reports of an oil leak near Kharg Island on Sunday, according to state media, after satellite imagery this week appeared to show a large]]></description>
             <link>https://www.yahoo.com/news/articles/iran-denies-reports-oil-leak-121908616.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-denies-reports-oil-leak-121908616.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A355817971B0DC65D4FECEBEFC651C53508156CF6384C80A362144E42555E58C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9e117ddcfbda0f9db47cc78dd37c9078" alt="" /></p>Drone hits cargo ship off Qatar’s coast, while Kuwait and the United Arab Emirates repel attacks.]]></description>
             <link>https://www.yahoo.com/news/articles/us-iran-ceasefire-under-strain-121651402.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-iran-ceasefire-under-strain-121651402.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC92525957F01EF743CB0695D7603EEE9E8FE8EB3AB42EAB6CC05E4BADB14446/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F0832ba9ecc42fa6307ca018bd4c42e85" alt="" /></p>The flights are notable not only for their proximity to the island’s coast, but for the suddenness of their appearance and their timing.]]></description>
             <link>https://www.yahoo.com/news/articles/us-intelligence-gathering-flights-surging-120051590.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-intelligence-gathering-flights-surging-120051590.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7319C5875204944C8E62E777A450D6D50214665A8384945288066A178AC1ECF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7efbc55479b49889795be3b97e476a2d" alt="" /></p>Rescuers on Indonesia ’s remote island of Halmahera found the bodies of two Singaporean hikers on Sunday, two days after they were caught in a volcanic eruption on Mount Dukono, officials said.  The bodies of the men, aged 30 and 27, were located a few meters (yards) from where the first victim, an Indonesian female hiker, was found dead on Saturday, Abdul Muhari, the National Disaster Management Agency’s spokesperson, said.  The men's bodies were covered by thick layers of volcanic material, Muhari said, adding that the densely packed material had complicated evacuation efforts and significantly slowed progress.]]></description>
             <link>https://www.yahoo.com/news/articles/bodies-retrieved-indonesian-volcano-eruption-114708030.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bodies-retrieved-indonesian-volcano-eruption-114708030.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>DUBAI, May 10 (Reuters) - Kuwait’s army said it had detected and dealt with several hostile drones in the country’s airspace at dawn on Sunday, the latest incident following similar cross‑border drone]]></description>
             <link>https://www.yahoo.com/news/articles/kuwaits-army-says-intercepted-hostile-114136290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/kuwaits-army-says-intercepted-hostile-114136290.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3D0F43F8460218BEA96DE5A7C8668F629D452E1803228755EB977C15BA33AEB4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc07224bd48518e2ee4bbc015bd8e76af" alt="" /></p>When Russian forces withdrew from Kidal in northern Mali, retreating from the very rebels they were sent to crush, they surrendered more than just territory.]]></description>
             <link>https://www.yahoo.com/news/articles/rebels-jeered-putin-troops-key-110911300.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rebels-jeered-putin-troops-key-110911300.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 10 May 2026 13:00:50 GMT</pubDate>
         </item>
         <item>
@@ -7043,20 +7052,6 @@ Lebanon's state-run National News Agency said Israeli strikes across southern Le
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 3 (Reuters) - The Israeli military issued an urgent warning on Sunday to residents of 11 towns and villages in southern Lebanon, urging them to evacuate their homes and move at least 1,000 metres]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-military-urges-southern-lebanon-045242457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-military-urges-southern-lebanon-045242457.html</guid>
-            <pubDate>Sun, 03 May 2026 07:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangkok food vendor curbs push city staple from the streets]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/U3aQT.C8hjIgwef8DInMSg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/882dce4a8456e86c9a3a4f5ce0bb2fad.cf.webp" alt="" /></p>Across Bangkok, aromas of garlic, chilli and grilled meat drift from roadside stalls and carts, but tighter controls on vendors threaten livelihoods and the street food culture that defines the Thai capital.With rows of food stalls and picnic tables, the new hub so far houses around a dozen vendors who previously sold food on nearby streets.]]></description>
-            <link>https://www.yahoo.com/news/articles/bangkok-food-vendor-curbs-push-043702080.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bangkok-food-vendor-curbs-push-043702080.html</guid>
-            <pubDate>Sun, 03 May 2026 07:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US approves $8.6bn in arms sales to Middle East allies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/6QuurrO54wZhH8vxCVCX1g--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/d1991a10764061eece4a7f8069a92fc2.cf.webp" alt="" /></p>US State Department cites emergency circumstances to fast-track sales without the approval of Congress.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-approves-8-6bn-arms-040528444.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-approves-8-6bn-arms-040528444.html</guid>
             <pubDate>Sun, 03 May 2026 07:51:01 GMT</pubDate>
         </item>
     </channel>
