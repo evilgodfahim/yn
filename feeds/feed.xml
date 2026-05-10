@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 20:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 21:40:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 20:39:51 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 21:40:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran Nobel winner released on bail for medical treatment: supporters]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D524BEB0EE09588EBA4423236D21EC920A637C5F8754447643C010374BF1992/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8687da8fd5ad1ea1f9a6ffa26a68b517" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-nobel-winner-released-bail-205712558.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-nobel-winner-released-bail-205712558.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 21:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US disappointed in Taiwan's smaller defense budget, official says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON/BEIJING, May 11 (Reuters) - The U.S. was disappointed in a move by Taiwan's opposition-controlled parliament to approve defense spending short of what Washington believes is needed, a]]></description>
+            <link>https://www.yahoo.com/news/articles/us-disappointed-taiwans-smaller-defense-202858045.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-disappointed-taiwans-smaller-defense-202858045.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 21:40:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Body of missing US soldier recovered in Morocco]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CHICAGO, May 10 (Reuters) - A search team recovered the body of a U.S. soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the U.S. Army said on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/articles/body-missing-us-soldier-recovered-200651547.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/body-missing-us-soldier-recovered-200651547.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 10 May 2026 21:40:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Relatives of Mexico's disappeared hold Mother's Day protest ahead of World Cup]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Fmgdth32QvGETmoM03.Vew--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/5ca80cb20be88297fcfd053840ce1083.cf.webp" alt="" /></p>By Alicia Fernandez and Leila Miller MEXICO CITY, May 10 (Reuters) - Thousands of people, led by mothers of those who have disappeared during decades of drug violence, marched in Mexico's capital on]]></description>
             <link>https://www.yahoo.com/news/articles/relatives-mexicos-disappeared-hold-mothers-191537155.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/relatives-mexicos-disappeared-hold-mothers-191537155.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 20:39:51 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/E5aK.SNY_P1Dg8UZ4x1ilQ--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4515bb729fbd673904370328cc9f08fe.cf.webp" alt="" /></p>DUBAI, May 10 (Reuters) - Iran has sent its response to a U.S. proposal aimed at ending the more than two-month war to mediator, Pakistan, Iran's IRNA news agency said on Sunday.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-sends-response-us-proposal-131233922.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-sends-response-us-proposal-131233922.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 20:39:51 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/JHnOwjKMa3EVng10R_hF.Q--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/104ea2cea3e6197d4757e8521df4dcea.cf.webp" alt="" /></p>MADRID, May 10 (Reuters) - British paratroopers have dropped onto Britain's most remote overseas territory, Tristan da Cunha, along with medics and medical supplies, after a case of suspected]]></description>
             <link>https://www.yahoo.com/news/articles/british-paratroopers-lead-airdrop-onto-122728780.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/british-paratroopers-lead-airdrop-onto-122728780.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 20:39:51 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/mNDp2BkU_kEvFp6it3XRpw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d1d7061474d39e836e838cbbdabd97a1.cf.webp" alt="" /></p>BERLIN, May 10 (Reuters) - Germany dismissed on Sunday a suggestion from Russian President Vladimir Putin that former Chancellor Gerhard Schroeder could coordinate talks with the European Union to]]></description>
             <link>https://www.yahoo.com/news/articles/germany-sceptical-putins-suggestion-schroeder-110526933.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/germany-sceptical-putins-suggestion-schroeder-110526933.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 10 May 2026 20:39:51 GMT</pubDate>
         </item>
         <item>
@@ -7031,27 +7051,6 @@ On the Russian side of the front line, two people were killed in the Belgorod bo
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 3 (Reuters) - Two U.S. service members participating in the African Lion joint military exercises were reported missing near the city of Tan Tan in southern Morocco, the U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/two-us-troops-missing-during-122902817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-us-troops-missing-during-122902817.html</guid>
-            <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel approves purchase of fighter jets from the US]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A123D41B0A034E50B2F813B5F6C2826B5F3DB574EB2772E541A438B77A2011F9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1f9fd246977fd958c64e01b8a6c09cd3" alt="" /></p>Purchase includes two new combat squadrons of F-35 and F-15IA aircraft from Lockheed Martin and Boeing.]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-approves-purchase-fighter-jets-123648210.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-approves-purchase-fighter-jets-123648210.html</guid>
-            <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US military says two service members taking part in Morocco drills missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3451A46F7870796218FAADBC72911B8378FC59E14E90A5CD8FC624EE27C23B07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F28aeaecc1bca3f29e555c24c690005e2" alt="" /></p>AFRICOM says search and rescue operations under way in southwestern Morocco during African Lion exercise.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-military-says-two-members-122329210.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-two-members-122329210.html</guid>
-            <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OPEC+ hikes oil production quotas but stays mum on UAE pull-out]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BB16B1A75BCF0BAA8787D478A92432519634BD6EDD383A745470EB8DF1B9DE52/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb3b23024206941806c17c42cabe9107b" alt="" /></p>Saudi Arabia, Russia and five other OPEC+ countries increased their oil production quota on Sunday in an expected move aimed at demonstrating continuity at the cartel after the shock withdrawal of the United Arab Emirates.The statement, following an online meeting of Algeria, Iraq, Kazakhstan, Kuwait, Oman, Russia and Saudi Arabia, made no mention of the United Arab Emirates, which quit the body on Friday, three days after announcing its withdrawal.]]></description>
-            <link>https://www.yahoo.com/news/articles/opec-hikes-oil-production-quotas-121214067.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/opec-hikes-oil-production-quotas-121214067.html</guid>
             <pubDate>Sun, 03 May 2026 13:53:06 GMT</pubDate>
         </item>
     </channel>
