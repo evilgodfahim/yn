@@ -4,16 +4,200 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 00:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 04:26:37 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 00:02:49 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kyiv under attack from Russian drones, missiles, at least 4 injured, Ukrainian officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37EC1B9060103230A0D87D4C6080584BE514BB8A3D35CAEFE58AB4690AF0CF7F/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F70722e79c1f549d246d8eb62542f60a3" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/ukrainian-capital-kyiv-under-massive-003234526.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukrainian-capital-kyiv-under-massive-003234526.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon, Israel to hold new talks in US as ceasefire nears end]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D031A6093D3D266E94C1534BD38BA7F18F3FE21D81B4E1662F2C4F744A6F53D/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fed855a71921dfc6c2e0c298026216fcb" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-israel-hold-talks-us-033350889.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-israel-hold-talks-us-033350889.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 90 killed as storm lashes India's most populous state of Uttar Pradesh]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>NEW DELHI / BHUBANESWAR, May 14 (Reuters) - Almost 90 people were killed in a violent storm that pounded India's most populous state of Uttar Pradesh with rain and hail, a state official told Reuters.]]></description>
+            <link>https://www.yahoo.com/news/articles/nearly-90-killed-storm-lashes-041428122.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nearly-90-killed-storm-lashes-041428122.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asian Headlines at 4:01 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/asian-headlines-4-01-m-040000374.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-01-m-040000374.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Business Headlines at 4:10 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000658.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-business-headlines-4-040000658.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top Asian News 4:01 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/top-asian-news-4-01-040000807.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-4-01-040000807.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Middle Eastern Headlines at 4:07 a.m. GMT]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-07-040000424.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-07-040000424.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Korea official says unlikely anyone but Iran behind Hormuz ship attack, Yonhap reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00A457D3C431D04F9423472A392507724EF8FF8D94C781B6902C8D6572B560B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9b83ddfdee165326033934091058fe46" alt="" /></p>SEOUL, May 14 (Reuters) - The possibility that an entity other than Iran was responsible for the attack against a South Korean cargo vessel near the Strait of Hormuz is low, a senior official in Seoul]]></description>
+            <link>https://www.yahoo.com/news/articles/south-korea-official-says-unlikely-034105935.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-korea-official-says-unlikely-034105935.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war: Why the BRICS foreign ministers meeting in India matters]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/670ECA5F4414CB7A5463B9B3BEC2E05F998F1A89139669EC172D41DB6E038D0C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7d04254b80b3b89e0d89e87bf74b330e" alt="" /></p>The foreign ministers meeting is taking place before the 2026 BRICS summit in India in September.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-war-why-brics-foreign-030033529.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-why-brics-foreign-030033529.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Promised to us': The Israelis dreaming of settling south Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6B05AEB1CE01EF2469C1571CD4FAF1F883A027F3E14F790D62A7E694AE83EB9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9c2ce0338ed238cc95d269c66818e35e" alt="" /></p>From her home in an Israeli settlement in the occupied West Bank, Anna Sloutskin yearns to expand her country's borders and one day move to southern Lebanon.In the occupied West Bank, the government has greenlit a major expansion of Israeli settlements and far-right ministers have openly called for the territory's annexation.]]></description>
+            <link>https://www.yahoo.com/news/articles/promised-us-israelis-dreaming-settling-021155463.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/promised-us-israelis-dreaming-settling-021155463.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba’s energy crisis to worsen as donated Russian oil runs out, minister warns]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/169D742855FD2F01C244443056C3AD2B6A7B710501671EBCAEE0B727EC28E2CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fcd0814cb4fc8ac8c0a8f64d9630b7145" alt="" /></p>Cuba’s dire energy woes are about to become even more critical, the nation’s energy minister warned Wednesday.]]></description>
+            <link>https://www.yahoo.com/news/articles/cuba-energy-crisis-worsen-donated-020435218.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-energy-crisis-worsen-donated-020435218.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran says its small subs deployed to Strait of Hormuz as expert explains threat: ‘Vulnerable to detection’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B888DAEABC25BE91759374B412D0470CB8361DF86899B1F0942D8593F39A2C7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc828b2afa6961db1cfd3d1582d1015ac" alt="" /></p>Iran claims it has deployed small submarines as an "invisible guardian" of the Strait of Hormuz, but analyst says the vessels pose limited strategic threat.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-says-small-subs-deployed-015858676.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-small-subs-deployed-015858676.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A woman UN leader is 'historical justice,' says Ecuadoran contender for top job]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FCF97CD52F1BC37AF86DC6EA0FF1EA8DAC99CF6CDD2D4E5D2F771ADC8A60518C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcdb8aebe0d2c3e872d2ed96d07c4efbc" alt="" /></p>The appointment of a woman to the UN's top job is a question of "historical justice" according to Maria Fernanda Espinosa, who is seeking to become the organization's first female leader."Some people say it is time" that a woman leads the UN, "and I believe it is a matter of historical justice," she told AFP. 
+"But I think it's also an issue of merit, of having the full pool of merit, experience and knowledge to the service of the United Nations."]]></description>
+            <link>https://www.yahoo.com/news/articles/woman-un-leader-historical-justice-015240702.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/woman-un-leader-historical-justice-015240702.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian pharma fuels Africa's 'zombie drug' and opioid crisis]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/69A8BDCF17AECCEB3ABBED215401F33C05A317C0160C27D2DA9A4581AF727D0C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1482146cc0303f805d8de67a58b26fa2" alt="" /></p>They come in blister packs of 10 like any normal painkiller and you can buy them easily in roadside kiosks and street pharmacies across west Africa. "Consumers (in west Africa) are much more naive than in other parts of the world," he said, and there is little government regulation or enforcement on the ground to protect them.]]></description>
+            <link>https://www.yahoo.com/news/articles/indian-pharma-fuels-africas-zombie-012419645.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indian-pharma-fuels-africas-zombie-012419645.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After months of blackout, Iran gives internet to select few]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/824D0276A9DABD13795A249D8C24022DD55C9B1575378379FFE3B0A0933E8024/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8a2aa31b2db9a982bb432e2ba919a469" alt="" /></p>After months under a near-total internet blackout during the Middle East war, Iranian tech worker Amir-Hassan was finally able to get back online, but only through a privileged service that has sparked public criticism.The reformist Shargh daily newspaper and other outlets have described the system as "tiered internet", criticising what they called "the transformation of the internet from a public and civic right into an allocable privilege".]]></description>
+            <link>https://www.yahoo.com/news/articles/months-blackout-iran-gives-internet-012037175.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/months-blackout-iran-gives-internet-012037175.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon, Israel to hold new talks in US as ceasefire nears end]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9EF44E3C3AD5958ED5BBA08D110D523BA915F64D1070AC269000DEE9E66EBC09/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8e39bc0af79e10cd4b86f5cab17f701c" alt="" /></p>Lebanon and Israel are to hold new peace talks in Washington starting Thursday, as their latest ceasefire -- considered to still be in place despite hundreds of deaths in Israeli strikes -- nears its end.The summit did not happen, with Aoun saying a security deal needed to be in place and Israeli attacks needed to end before such a landmark symbolic meeting.]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-israel-hold-talks-us-011537693.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-israel-hold-talks-us-011537693.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact Check: Posts Saying Your Favorite Celeb Publicly Claimed 'Pro-Israel American Billionaires' Are Working To Undermine Their Career Are NOT Real -- Spam From Vietnam]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5DEE06D8909D78E45A2E8AE0F80B8F1A3FD04F25959EF61625860187D0AB7641/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F3651d2f63b3de7d15197f793c7c3dc02" alt="" /></p>Are social media posts claiming that a long list of celebrities have each said "powerful pro-Israel American billionaires" are working to undermine their careers real? No, that's not true: None of the celebrities named in the posts made any such...]]></description>
+            <link>https://www.yahoo.com/news/articles/fact-check-posts-saying-favorite-011357003.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fact-check-posts-saying-favorite-011357003.html</guid>
+            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US judge blocks Justice Department bid for Rhode Island hospital transgender care records]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/837858E1710598C90D85D516D35446D35909D9F31A35FDB1D8DD42BE50F5E928/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F94958f230351c9bb343969dd3ce10421" alt="" /></p>By Nate Raymond May 13 (Reuters) - A U.S. judge on Wednesday blocked the Justice Department from forcing a Rhode Island hospital to hand over records on gender-affirming care for transgender youth,]]></description>
+            <link>https://www.yahoo.com/news/articles/us-judge-blocks-justice-department-001919629.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-judge-blocks-justice-department-001919629.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US children's book author sentenced to life after poisoning husband]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07B8C7DBD9282BE0A41F6C115280E689CCA63C1B158E9D5AD4C2E1ABB2CDC3FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9bd3e0c52a7903d84253b6962fa1c2a1" alt="" /></p>An American woman who made headlines by writing a children's book about grief after poisoning her husband was sentenced to life in prison without the possibility of parole Wednesday, US media reported. She said her children's book, titled "Are you with me?"]]></description>
+            <link>https://www.yahoo.com/news/articles/us-childrens-book-author-sentenced-001603667.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-childrens-book-author-sentenced-001603667.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Miraculous': 11 plane crash survivors rescued at sea off Florida]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Steve Gorman May 13 (Reuters) - All 11 people aboard a private airplane that crashed at sea off central Florida survived the wreck and were rescued from their lifeboat hours later by a U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/miraculous-11-plane-crash-survivors-000146472.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/miraculous-11-plane-crash-survivors-000146472.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meta challenges New Mexico's $3.7 billion plan for teen mental health in social media trial]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E804B48035AD1F995BA5FDCD35BE7986044516215FFF578871769EE7DAE6AE59/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F782d2537b937fad16b48d047f319fe50" alt="" /></p>By Diana Novak Jones May 13 (Reuters) - A lawyer for Meta Platforms on Wednesday argued that New Mexico's $3.7 billion proposal to address teen mental health harms goes too far, saying it would force]]></description>
+            <link>https://www.yahoo.com/news/articles/meta-challenges-mexicos-3-7-231140120.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/meta-challenges-mexicos-3-7-231140120.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jury convicts man accused of running secret Chinese spy outpost in New York City]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B53A568FD93D4884C7E2633CC51E8FF33C16F3FA887F1D8C371DA60235B69A86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F49bdc8f7d26e52af8f025cbda5aa9ea4" alt="" /></p>A man accused of running a secret Chinese spy outpost from a nondescript office building in Manhattan’s Chinatown neighborhood was convicted Wednesday of acting as an illegal foreign agent.  Lu Jianwang, 64, was also convicted of obstructing justice by deleting text messages that U.S. prosecutors said included orders from Beijing to silence, harass and intimidate pro-democracy dissidents.  The weeklong trial in Brooklyn federal court pitted U.S. concerns about China's crackdown on dissidents against the defense’s contention that prosecutors twisted a well-meaning Chinese American community leader’s bureaucratic misstep to put him in prison.]]></description>
+            <link>https://www.yahoo.com/news/articles/jury-convicts-man-accused-running-222307425.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jury-convicts-man-accused-running-222307425.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two weeks of clashes in a southern Sudan region kill dozens, a local medical group says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80A1FD1B75CB029906FEFFD947CC9C09458A66D44EAD93BF36E6E7D999852A92/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5fe1bbb7536dcf856fd2fcbbac9d8e62" alt="" /></p>Two weeks of intense clashes in southern Sudan have killed over 61 people, including nine children, a local medical group said Wednesday, fighting that is part of the larger war that has gripped the African country since 2023.  According to the Sudan Doctors Network, which monitors casualty tolls in the conflict, the fighting erupted earlier this month between forces linked to the rebel group Sudan People’s Liberation Movement-North and the Otoro tribe in the town of Kauda, in South Kordofan.  Rebel leader Abdel Aziz al-Hilu, who commands the SPLM-N, has aligned his fighters with the Sudanese paramilitary Rapid Support Forces, a group that is fighting the Sudanese military.]]></description>
+            <link>https://www.yahoo.com/news/articles/two-weeks-clashes-southern-sudan-214656274.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-weeks-clashes-southern-sudan-214656274.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 14 May 2026 04:26:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Federal judge blocks US sanctions against UN expert on Palestinian territories]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/EFzY2o4DICoyh4PMppD67g--~B/Zmk9c3RyaW07aD0yODE7cT05NTt3PTUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b01b666a5c309e2124494b79412c435d.cf.webp" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/federal-judge-blocks-us-sanctions-222745542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/federal-judge-blocks-us-sanctions-222745542.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 14 May 2026 00:02:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +205,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9.KLyRbBNalVIfidO4E3XA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/3e017d0cd19ae7cf89d54b7386fc3f2c.cf.webp" alt="" /></p>By William James LONDON, May 13 (Reuters) - Britain's grand State Opening of Parliament ceremony does not normally feature an elephant.]]></description>
             <link>https://www.yahoo.com/news/articles/pm-starmers-leadership-woes-overshadow-151511072.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pm-starmers-leadership-woes-overshadow-151511072.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 14 May 2026 00:02:49 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +212,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/v1wp1fBPLgspaQWiuZptoQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/os/creatr-uploaded-images/2026-05/026d29c0-4ee2-11f1-be76-f92eb81bf7e1.cf.webp" alt="" /></p>Over 1,700 passengers and crew on a British cruise ship were ordered to remain on board after an outbreak of gastrointestinal illness, French authorities said Wednesday.  The Ambition was midway through a 14-night cruise from Belfast and Liverpool that was due to take in ports in northern Spain and along France's Atlantic coast.  It reached Bordeaux on Tuesday evening, according to the operator, Ambassador Cruise Line.]]></description>
             <link>https://www.yahoo.com/news/articles/eu--france-cruise-ship-143010312.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu--france-cruise-ship-143010312.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 14 May 2026 00:02:49 GMT</pubDate>
         </item>
         <item>
@@ -6878,168 +7060,6 @@ Dwindling fuel supplies, soaring food costs and the safety of migrant workers ne
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BFE193943CFBB772E9AB270F0F68CDF67B534FC81DD54B819405699E145C5579/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F500537d7b136a20e173e4f8a28127473" alt="" /></p>Imprisoned Nobel Prize laureate Narges Mohammadi was being examined by Iranian government-appointed medical experts Wednesday for the second time since she was hospitalized last week, a move her brother said he hopes would lead to her transfer to a hospital in Tehran.  Mohammadi was rushed on Friday from prison to a local hospital in the northwest Iranian town of Zanjan after she fell unconscious.]]></description>
             <link>https://www.yahoo.com/news/articles/family-fears-jailed-iranian-nobel-145006731.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/family-fears-jailed-iranian-nobel-145006731.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish Islands Refuse To Take Hantavirus Ship, As Latest Patient Arrives in Hospital]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C7CFFD2D393648A4B5A4CE89690DB407DF2EAA41A22BD473BE0F2F910FA3F7D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Fe11f0de6289df48663cbaba6f7e52ae0" alt="" /></p>President of the Canary Islands Fernando Clavijo has clashed with the national government over the cruise ship's planned arrival.]]></description>
-            <link>https://www.yahoo.com/news/articles/spanish-islands-refuse-hantavirus-ship-144639592.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spanish-islands-refuse-hantavirus-ship-144639592.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protests as Venice Biennale opens in turmoil over Russian presence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A53235A90187126CE7940EE3E535FEB2615DD9CC87D64F39236C5322444C62A9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F125b8c9cff65dd9054144243734034d0" alt="" /></p>Bare-breasted activists protested at the Venice Biennale on Wednesday, incensed over the return of Russia to the prestigious art festival for the first time since the Ukrainian war broke out."This pavilion stands on Ukrainian mass graves," she said, adding that it was the first time the two groups had staged a joint protest.]]></description>
-            <link>https://www.yahoo.com/news/articles/venice-biennale-opens-turmoil-over-054434772.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venice-biennale-opens-turmoil-over-054434772.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNN founder Ted Turner: 20th century media giant]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23690A69F897E7C005A8A3A8781ABB31DB4C5B3DD1FC7DD2E9724E6525CAD5A3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F10dd3f90c3807053ea182e685d28b073" alt="" /></p>Ted Turner created CNN in 1980, revolutionizing the way America, and the world, got their news, and then went on to become one of the most prominent business leaders and philanthropists of his era.Ten years later, that became the flagship of his nationwide Turner Broadcasting System, the profits from which he parlayed into the launch of CNN.
-CNN launched in 1980 as the first 24-hour cable news network, gaining traction in the United States and later internationally.]]></description>
-            <link>https://www.yahoo.com/news/articles/cnn-founder-ted-turner-20th-142913242.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cnn-founder-ted-turner-20th-142913242.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Palestine group protests outside Israeli real estate event in New York]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/007C89256DC3FFE685669619C9F3FB814BEBED0F429FA4935D19CBD9E15B694D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4c6b389606eae980190e077783e8da95" alt="" /></p>Demonstration against event featuring properties for sale in occupied West Bank is the second protest in six months.]]></description>
-            <link>https://www.yahoo.com/news/articles/pro-palestine-group-protests-outside-140701567.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pro-palestine-group-protests-outside-140701567.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN demands Israel release Gaza flotilla activists, investigate abuse claims]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F6530AC948B3903FF759F820C703779E6515E8EDD1C192713667B866DA7BF417/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa43da8a5bf96703eac93c21642ffbbcb" alt="" /></p>Israel must ‘immediately and unconditionally’ release Saif Abu Keshek and Thiago de Avila, rights office spokesman says.]]></description>
-            <link>https://www.yahoo.com/news/articles/un-demands-israel-release-gaza-140655709.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-demands-israel-release-gaza-140655709.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Follow the money: How far-right Reform UK built a global network]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A81778EBF561CF3378C9FCE86271F84CAD694E5080982ABADFCBB0727D621B8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F22cd86f54f4b0e9b5c60dc44e6d93842" alt="" /></p>Reform UK’s rise is backed by individual donors, overseas trips and networks that contrast with its nationalist message.]]></description>
-            <link>https://www.yahoo.com/news/articles/money-far-reform-uk-built-140547784.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/money-far-reform-uk-built-140547784.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 trade talks target critical minerals as US-EU tariff rift strains unity]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43C4CED9A89E19B861E240160C8893516B4C3374336AB0604E28875BED1E2622/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F91d846da2256253edade57e3dad5f3c4" alt="" /></p>By Leigh Thomas and Elizabeth Howcroft PARIS, May 6 (Reuters) - Group of Seven trade ministers meeting in Paris on Wednesday sought common ground on securing critical mineral supplies that are]]></description>
-            <link>https://www.yahoo.com/news/articles/g7-trade-ministers-discuss-critical-075157073.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/g7-trade-ministers-discuss-critical-075157073.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bosnian town seeks answers after hundreds test positive for lead in their blood]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/449C049BACEB444B95B8543AA95EB8326698051F0C676A8E99458E4679DE45D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F699193069aa693c6ae1afcac986e13ec" alt="" /></p>By Amel Emric and Daria Sito-Sucic VARES, Bosnia and Herzegovina, May 6 (Reuters) - A new silver, lead and barite mine offered hope to the small town of Vares, in mountainous central Bosnia, when it opened in 2024. After decades of economic decline, new roads and houses were built, cafes and restaurants filled up, and the long-dwindling population ‌swelled with workers and new residents.]]></description>
-            <link>https://www.yahoo.com/news/articles/bosnian-town-seeks-answers-hundreds-135638646.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bosnian-town-seeks-answers-hundreds-135638646.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bus and oil tanker collide in Indonesia, killing at least 16 people]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A passenger bus collided head-on with a fuel tanker truck on a highway on Indonesia's Sumatra island on Wednesday, killing at least 16 people and injuring four others, officials said.  The crash occurred around midday on the Trans-Sumatra Highway in North Musi Rawas regency of South Sumatra province, when an intercity bus carrying at least 20 people struck a tanker truck traveling in the opposite direction, said Mugono, a local disaster management agency official.]]></description>
-            <link>https://www.yahoo.com/news/articles/bus-oil-tanker-collide-indonesia-135519127.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bus-oil-tanker-collide-indonesia-135519127.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burkina Faso authorities accused of secretly detaining prominent journalist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96942402E9A0D19F045D2604D668E7284ADEAE0195AE94C9CF1C1ACC981C47CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd3c93b447a8e2c4bf65fbded55f466ac" alt="" /></p>RSF says investigation found Atiana Serge Oulon held at Ouagadougou villa, contradicting authorities’ account.]]></description>
-            <link>https://www.yahoo.com/news/articles/burkina-faso-authorities-accused-secretly-135218117.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/burkina-faso-authorities-accused-secretly-135218117.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli court rejects flotilla activists' appeal challenging detention]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B2CE986EF7A8B67925EDDF7111D74BBE4201620E0ACF195E7C9160C7A44EFA5B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdfcdb4d89d71103dd7863de72bd3fcdf" alt="" /></p>An Israeli court rejected on Wednesday an appeal filed by two foreign activists contesting their detention by authorities, their lawyer told journalists.Israeli authorities have rejected the allegations but have filed no charges against the men.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-court-rejects-flotilla-activists-134802632.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-court-rejects-flotilla-activists-134802632.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Araghchi in Beijing: How China could shape the direction of the US-Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F41FE41209523D06D41AD9D55BF48EDCABCA53E5956370CF345C6C3665F78562/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F52380b08b65e3e1e24e8523f9c6cefe4" alt="" /></p>Analysts say shared US and Chinese interests in reopening the Strait of Hormuz could create a path towards peace.]]></description>
-            <link>https://www.yahoo.com/news/articles/araghchi-beijing-china-could-shape-134754980.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/araghchi-beijing-china-could-shape-134754980.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jordan's ancient marvel Petra deserted since Mideast war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A767E9CE2FFEAC95D4A454FA0C303E7366FF49FAFE6CF9F2FD8D6E9139F84100/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F381c75abaa17412be6de60c11327d726" alt="" /></p>Ukrainian tourist Ruslana Novak and her friend had Jordan's ancient city of Petra almost entirely to themselves as they marvelled at the massive edifice carved into pink sandstone. Since the Middle East war erupted in late February, the famed Rose City has been all but abandoned by the usual crowds of tourists that flock to the site every year.]]></description>
-            <link>https://www.yahoo.com/news/articles/jordans-ancient-marvel-petra-deserted-133450811.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/jordans-ancient-marvel-petra-deserted-133450811.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ryanair's O'Leary urges pre-flight morning booze ban]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AEDBB0DE3F8193AE438BF181BE520850E9A79C309DD0EF3CEBAFA49E39A2F3FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6df013169e618ae0b2d6df1a1435e1f8" alt="" /></p>Ryanair chief executive Michael O'Leary has urged a ban on serving alcohol in airport bars before morning flights in an effort to tackle drunk and aggressive passengers.Ryanair had yet to respond to an AFP request confirming the time at which the airline starts selling alcohol aboard its flights.]]></description>
-            <link>https://www.yahoo.com/news/articles/ryanairs-oleary-urges-pre-flight-132024529.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ryanairs-oleary-urges-pre-flight-132024529.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU struggles to finalise US trade deal under threat of higher auto tariffs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF9F2FCBEABE0DFCC92F4EC6B35922A8A2E55EC7266EA582B91ED6DE84CF9418/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb92d061264a9462a578a720ed3f6a814" alt="" /></p>BRUSSELS, May 6 () - EU lawmakers and governments aim on Wednesday to finalise a deal scrapping duties on U. imports under renewed pressure from ‌President Donald Trump, though divisions over safeguards dim chances of a swift agreement.]]></description>
-            <link>https://www.yahoo.com/news/articles/eu-struggles-finalise-us-trade-131915328.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-struggles-finalise-us-trade-131915328.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explainer-What is the hantavirus that killed three cruise ship passengers?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D90D4391742718CB5BC72F90FB8DB049F9AB30A0B69947FC6FEF04C68E043B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e216651bf9ee0887d32fddc767f3bde" alt="" /></p>May 5 (Reuters) - Three people have died in an outbreak of hantavirus on a luxury cruise ship, with another five confirmed or suspected cases.]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-hantavirus-killed-three-cruise-012848717.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-hantavirus-killed-three-cruise-012848717.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain to repatriate asymptomatic passengers of hantavirus-hit ship]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F48C35E08A6F2E98EFFA3EAF87FC6F66A99F4DFD1AEB4D8062B6FFCBFFBF20B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F64fe2ad95e9f00bc787ae063c3caa0be" alt="" /></p>(Corrects day in first paragraph to Wednesday) MADRID, May 6 (Reuters) - All passengers remaining aboard a luxury cruise ship hit by a deadly hantavirus outbreak are asymptomatic and non-Spanish]]></description>
-            <link>https://www.yahoo.com/news/articles/spain-repatriate-asymptomatic-passengers-hantavirus-122914597.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spain-repatriate-asymptomatic-passengers-hantavirus-122914597.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3 suspected hantavirus patients evacuated from cruise ship: WHO]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AFDE1CE54311F8A33B284D842901CD92BEB6C762803184B306C321C8D561853/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fc07c3840d00a0f8bb45eb8f3cd4fb0cc" alt="" /></p>The cruise ship is at the center of a deadly hantavirus outbreak and is set to dock in the Canary Islands.]]></description>
-            <link>https://www.yahoo.com/news/articles/3-suspected-hantavirus-patients-evacuated-124414380.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/3-suspected-hantavirus-patients-evacuated-124414380.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ghana artist's billboard campaign takes aim at fast fashion fallout]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9C17EF508CB71281FDC4857E8B53F75412C0CB204D88DB3978AAD6FEAE81F295/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F56569ccf97e8b3a92369206e7ed32f57" alt="" /></p>On a busy roadside in Accra, a billboard that would normally advertise soft drinks is draped in a cascade of worn shirts -- frayed collars, faded blues and greys and a striking circular pattern stitched at its centre.At the latest installation, in Accra's Madina suburb, five workers hoisted pre-stitched panels of discarded clothing onto the towering metal frame of a billboard, releasing them from above so they fell into place like a patchwork curtain, layers of fabric rippling in the wind.]]></description>
-            <link>https://www.yahoo.com/news/articles/ghana-artists-billboard-campaign-takes-124245399.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ghana-artists-billboard-campaign-takes-124245399.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says Strait of Hormuz passage to be ensured after US pauses operation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C372E89DBC3F2A55B69892B82CC419AB21A84F67E30420DEACDCB3CF33DE6772/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe06e076bcf1d751342fd3585a68a7391" alt="" /></p>Navy of Iran’s Islamic Revolutionary Guard Corps (IRGC) says safe transit will be ensured with new procedures in place.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-says-strait-hormuz-passage-124146827.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-strait-hormuz-passage-124146827.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the FDD, the pro-Israel think tank shaping Trump’s Iran policy?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C46F20E1E5FE75C6F73B5875FB2A3C1B1FFA8905FE0D20CE8E7175CEDA6231DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5b355f4d73e5773b8848c7fca7cd09df" alt="" /></p>FDD’s talking points on the US-Israel war on Iran have been picked up by the Trump administration.]]></description>
-            <link>https://www.yahoo.com/news/articles/fdd-pro-israel-think-tank-123922970.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fdd-pro-israel-think-tank-123922970.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lutnick will appear before a House panel to answer for his changing story on Epstein]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/936A57F07EF7B78F3C66B2C9542F64CCC8C21D56C125C1AB277431316F3580AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8921d11e726dd2a55e5ce1ff440a722c" alt="" /></p>Commerce Secretary Howard Lutnick is appearing Wednesday before a House committee investigating sex offender Jeffrey Epstein as lawmakers seek answers for Lutnick's contact with him in the years after Epstein's 2008 conviction for soliciting prostitution from an underage girl.  Lutnick, a member of President Donald Trump's Cabinet, is the latest powerful political figure to appear before the House Oversight Committee.]]></description>
-            <link>https://www.yahoo.com/news/articles/lutnick-appear-house-panel-answer-120510606.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lutnick-appear-house-panel-answer-120510606.html</guid>
-            <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rare shelter for displaced LGBT people in Lebanon offers safety in war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8681AA98FD5E40FF3F2B3CAD18551EB1E2E727893BF2A3EE7DA85B745BCB74A7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F79e4ae0cb764b30b263758a9a7319983" alt="" /></p>By Catherine Cartier and Emilie Madi BEIRUT, May 6 (Reuters) - Mohammed's life as a gay man in conservative south Lebanon was already rife with challenges.]]></description>
-            <link>https://www.yahoo.com/news/articles/rare-shelter-displaced-lgbt-people-120210721.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rare-shelter-displaced-lgbt-people-120210721.html</guid>
             <pubDate>Wed, 06 May 2026 15:08:27 GMT</pubDate>
         </item>
     </channel>
