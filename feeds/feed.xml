@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 21:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 22:47:21 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 22:47:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UAE says all of its actions came under defensive measures to protect sovereignty, vital infrastructure]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 16 (Reuters) - The United Arab Emirates said on Saturday that all actions taken by the Gulf country came within its framework of defensive measures aimed at protecting its sovereignty, civilians,]]></description>
+            <link>https://www.yahoo.com/news/articles/uae-says-actions-came-under-220327376.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uae-says-actions-came-under-220327376.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 22:47:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. reups $6M reward for American missing in Afghanistan for 12 years]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C705D58283299FF3711E838417B0B2EF09D521EC95BB4064CBCB87A002610502/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fb51f78c9bfb9f3bb16163c831b36d1ca" alt="" /></p>Paul Edwin Overby Jr. vanished in May 2014 while researching a book in Khost province, Afghanistan, the FBI said.]]></description>
+            <link>https://www.yahoo.com/news/articles/u-reups-6m-reward-american-212752026.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-reups-6m-reward-american-212752026.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Fri, 15 May 2026 22:47:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colorado governor grants clemency  to former county elections clerk Tina Peters]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8D80A80A245E4D611477B1383F382CF5443762D60C173269FDFF51F2C2777AB7/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe50422853612bd9d493cf1dbc29a84f4" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/colorado-governor-grants-clemency-former-211031679.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/colorado-governor-grants-clemency-former-211031679.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/266E032B523D997BCA8506A2779072DDDE12BFE9B6EEF04D4B5031A0F7BC8EE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fae99423194dd21214835c7d5aefecc37" alt="" /></p>Lawyers say new evidence suggests Trump admin ‘engineered’ outcome of case against pro-Palestine Columbia student.]]></description>
             <link>https://www.yahoo.com/news/articles/mahmoud-khalil-calls-deportation-halted-211324562.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mahmoud-khalil-calls-deportation-halted-211324562.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/42B9AC7454B43D20869AFCCFD00B1B812B200C6A58F56C588B9FAEB49E49B747/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4baaf4e2c8736f67cb88bb4131796427" alt="" /></p>Three women and a child among civilians killed in Israel’s latest attacks on Gaza City.]]></description>
             <link>https://www.yahoo.com/news/articles/seven-killed-gaza-nakba-day-210522653.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/seven-killed-gaza-nakba-day-210522653.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +51,6 @@
 Al-Saadi is most recently alleged to have plotted attacks in the United States against a New York synagogue and two Jewish centers in California and Arizona.]]></description>
             <link>https://www.yahoo.com/news/articles/us-says-iran-backed-militia-205529011.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-says-iran-backed-militia-205529011.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +58,6 @@ Al-Saadi is most recently alleged to have plotted attacks in the United States a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D5AE455D2CEF0B4EF770D84E25039F371E54415C43F4BB65FB3D874BFD9B9C8A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffa7b87e07d4ba9ddfd5ed4d0aa5339af" alt="" /></p>Gerardo Merida Sanchez was arrested in Arizona on May 11 before being transferred to New York.]]></description>
             <link>https://www.yahoo.com/news/articles/ex-sinaloa-security-chief-mexico-203124455.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ex-sinaloa-security-chief-mexico-203124455.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +65,6 @@ Al-Saadi is most recently alleged to have plotted attacks in the United States a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/250F0568CD7D7D5601918F36AE2E15B6B95BBFF6B01F87A4DE50D20687888023/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F6b149d00b0ed66c79d825c3ba4e15498" alt="" /></p>Burnham's path back to Westminster could prove "tricky," experts tell TIME, but the successful Mayor of Manchester has a lot working in his favor.]]></description>
             <link>https://www.yahoo.com/news/articles/could-king-north-andy-burnham-202359176.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/could-king-north-andy-burnham-202359176.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +72,6 @@ Al-Saadi is most recently alleged to have plotted attacks in the United States a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A023B0E499F8EB927B7A7855C96E7B14139725AC0DD76E09B8C099B804C7EB9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc76a97b4b40948db8a878c3d9b6f4709" alt="" /></p>Uyghur mother Mihrigul Tursun recounts years of alleged detention, torture and family separation in China's Xinjiang camps in emotional testimony.]]></description>
             <link>https://www.yahoo.com/news/articles/mother-recounts-horrors-brutal-chinese-192949886.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mother-recounts-horrors-brutal-chinese-192949886.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +79,6 @@ Al-Saadi is most recently alleged to have plotted attacks in the United States a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AC677E2EE9D14CB8CE482F51098420EB62F6014983DFDE9E148A9D4E4925557/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff36ee0feb042ce649ad937568d9ee3a0" alt="" /></p>Officials with WHO are explaining their decision to classify every patient on board the MV Hondius as a “high risk contact."]]></description>
             <link>https://www.yahoo.com/news/articles/officials-explain-high-risk-hantavirus-184507719.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/officials-explain-high-risk-hantavirus-184507719.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
         </item>
         <item>
@@ -7033,20 +7041,6 @@ The Nigerian military has not officially identified a ringleader of the alleged 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/178B46B1B09B66E596C8A41754DDCA1DDFAB517E3F6BB367A14249BA41C94A0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3499a55938e3213d7fc7f9811f5cf877" alt="" /></p>By William James and Jessie Pang LONDON, May 7 (Reuters) - Britain will summon the Chinese ambassador following the conviction of two men for spying on behalf of Hong Kong and ultimately China,]]></description>
             <link>https://www.yahoo.com/news/articles/uk-summon-chinese-ambassador-spying-164643306.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-summon-chinese-ambassador-spying-164643306.html</guid>
-            <pubDate>Fri, 08 May 2026 05:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Headlines at 4:39 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-4-39-040000662.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-4-39-040000662.html</guid>
-            <pubDate>Fri, 08 May 2026 05:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 4:54 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-4-29-m-040000131.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-4-29-m-040000131.html</guid>
             <pubDate>Fri, 08 May 2026 05:15:08 GMT</pubDate>
         </item>
     </channel>
