@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 21:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 22:38:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two presidential campaign staffers killed in Colombia as elections near]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/908539845FD370EED675301D6CBC2B3021AB8D487E3868314BCD14424228F106/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff257311d4bf73cd4e6fbfd3eda25fc9f" alt="" /></p>Rights office says the violence could hinder ‘exercise of political rights’ ahead of May vote to replace Gustavo Petro.]]></description>
+            <link>https://www.yahoo.com/news/articles/two-presidential-campaign-staffers-killed-214204165.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-presidential-campaign-staffers-killed-214204165.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran men's soccer team heading to Turkey for World Cup preparations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16A04169849920152BDF7AE21D9208345833E97FA5DD3B0DAB8940F31322D2E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ff7484d47d670027a9c37840d843b6c32" alt="" /></p>Iran and the U.S. cut diplomatic ties in 1980, and the players are expected to use their time in Turkey to complete the necessary procedures for obtaining visas.]]></description>
+            <link>https://www.yahoo.com/news/articles/iran-mens-soccer-team-heading-211537896.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-mens-soccer-team-heading-211537896.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>One of four Canadians who returned home from a cruise ship where there was a hantavirus outbreak received a “presumptive positive” test result for the virus, Canadian officials said Saturday.  Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weekend, said Dr. Bonnie Henry, the public health officer for the province of British Columbia.  “Clearly this is not what we hoped for, but it is what we planned for,” Henry said.]]></description>
             <link>https://www.yahoo.com/news/articles/canadian-cruise-passenger-gets-presumptive-210904288.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/canadian-cruise-passenger-gets-presumptive-210904288.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6725E325EE0E4CB677192427763AAFD04344FBA560211224BD142F1744AF68B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdf45c56eb01e1399c6120701b4d9754a" alt="" /></p>Right-wing challenger Flavio Bolsonaro faces new scrutiny over a film funding scandal, which could affect the race.]]></description>
             <link>https://www.yahoo.com/news/articles/poll-shows-lula-bolsonaro-tied-210510598.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/poll-shows-lula-bolsonaro-tied-210510598.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
         </item>
         <item>
@@ -7026,20 +7040,6 @@ There are no approved vaccines or known cures for the hantavirus, which is usual
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D13F82A6C8A2E6CFC5A4B110A27B0900921D45367C8267534F3948A7743D59A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnextshark_articles_509%2F1317d71ee2a7a33ee6dcd8937202c310" alt="" /></p>Global interest in moving permanently to the U.S. has fallen to its lowest level in nearly two decades as the Trump administration expands immigration enforcement and tightens border restrictions, according to Gallup’s latest migration survey.  Only 15% of prospective migrants worldwide selected the U.S. as their preferred destination in 2025, down from 24% recorded between 2007 and 2009.  The survey documented declining preference for the U.S. across multiple regions while countries including Japan, Germany and Canada gained support among people seeking to relocate abroad.]]></description>
             <link>https://www.yahoo.com/news/articles/fewer-migrants-see-america-future-151724158.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/fewer-migrants-see-america-future-151724158.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian American developer asks US judge to dismiss lawsuit alleging he aided Hamas]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/411DE298B35B2CDBB02CA30D16CA66796FEA9945EB2C5C489E979DF6D8F143FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdb1562c4d803da6a56c4d89f21d57a56" alt="" /></p>By Rami Ayyub JERUSALEM, May 8 (Reuters) - A prominent Palestinian-American developer asked a U.S. judge on Friday to throw out a lawsuit accusing him of supporting Hamas through his Gaza projects,]]></description>
-            <link>https://www.yahoo.com/news/articles/palestinian-american-developer-asks-us-144430120.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-american-developer-asks-us-144430120.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US forces strike two empty Iranian oil tankers, Central Command says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97B9D3D06192186975ECDE618D80A2D8E570FD21385665733C26E114EE0934B5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F17d9e52fd7f065f929fdbd9d500437f0" alt="" /></p>May 8 (Reuters) - The U.S. military struck two empty Iranian-flagged oil tankers on Friday that it said were seeking to violate the ongoing U.S. blockade, U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-forces-strike-two-empty-144538371.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-forces-strike-two-empty-144538371.html</guid>
             <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
         </item>
     </channel>
