@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 22:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 23:43:23 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 23:43:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuelan official Alex Saab, a Maduro ally, deported to US]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD7D476376A9EBBD2772102F066CAA3F1A5B2AB29AED25B60FE7EF782D5548C0/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1d3605c33db0e83535d1a272d9cf3dc" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/venezuelan-official-alex-saab-maduro-224817487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuelan-official-alex-saab-maduro-224817487.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 23:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela says it deported a close ally of Maduro to face judicial proceedings in US]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C09638B7E3F0646D248EE8A2D8E221B033BC612FF4AF3F9C51C3B705B48A897/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1e0e2c7862ddfc16ce1937ad5071bee9" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/venezuela-says-deported-close-ally-224702132.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuela-says-deported-close-ally-224702132.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 23:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada cruise passenger 'presumptive positive' for hantavirus]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E7882797011D4FEA46F9C33E1FD293523EB8D1A50CD067C4FF027AB48E42117/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa5b92c45feeb35608b71bf5a703dc842" alt="" /></p>Canadian public health officials said Saturday a "high risk" passenger who was aboard the cruise ship MV Hondius tested "presumptive positive" for the Andes hantavirus."The overall risk to the general population in Canada from the Andes hantavirus outbreak linked to the MV Hondius cruise ship remains low at this time," the public health agency stressed.]]></description>
+            <link>https://www.yahoo.com/news/articles/canada-cruise-passenger-presumptive-positive-230158966.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canada-cruise-passenger-presumptive-positive-230158966.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 23:43:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two presidential campaign staffers killed in Colombia as elections near]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/908539845FD370EED675301D6CBC2B3021AB8D487E3868314BCD14424228F106/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff257311d4bf73cd4e6fbfd3eda25fc9f" alt="" /></p>Rights office says the violence could hinder ‘exercise of political rights’ ahead of May vote to replace Gustavo Petro.]]></description>
             <link>https://www.yahoo.com/news/articles/two-presidential-campaign-staffers-killed-214204165.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-presidential-campaign-staffers-killed-214204165.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16A04169849920152BDF7AE21D9208345833E97FA5DD3B0DAB8940F31322D2E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ff7484d47d670027a9c37840d843b6c32" alt="" /></p>Iran and the U.S. cut diplomatic ties in 1980, and the players are expected to use their time in Turkey to complete the necessary procedures for obtaining visas.]]></description>
             <link>https://www.yahoo.com/news/articles/iran-mens-soccer-team-heading-211537896.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-mens-soccer-team-heading-211537896.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 16 May 2026 22:38:12 GMT</pubDate>
         </item>
         <item>
@@ -7019,27 +7041,6 @@ There are no approved vaccines or known cures for the hantavirus, which is usual
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC552B5DABB4F84413C6C3597A61EB2159315F03156E8C6C05B99F5C091DC5F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F41aff5e26d1512aa347b16da2d0aefa1" alt="" /></p>The Pentagon on Friday released a first batch of secret files documenting reported sightings of unidentified flying objects -- some dating back to the 1940s -- fanning speculation over whether alien life exists.An Air Force intelligence report -- marked "top secret" -- from November of the following year features information on reported sightings of "unidentified aircraft" and "flying saucers."]]></description>
             <link>https://www.yahoo.com/news/articles/anybody-pentagon-releases-secret-ufo-151939783.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/anybody-pentagon-releases-secret-ufo-151939783.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US arranging repatriation flight for Americans on hantavirus-hit cruise ship]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09762898D596947700A2BCD9492B399634F4C05B043B5FC845ECD6E01E5B0672/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F649eefe3b8e5777e7d05815a67a43a08" alt="" /></p>WASHINGTON, May 8 (Reuters) - The United States is arranging a repatriation flight to return American passengers on a Dutch cruise ship hit by an outbreak of a deadly strain of hantavirus, the U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-arranging-repatriation-flight-americans-152624606.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-arranging-repatriation-flight-americans-152624606.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa’s top court revives impeachment inquiry against president]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9C2430C40CBDF2B3679841FE546C1793F33CC766396354D097B1A101988A3C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc36245cad2e1cf9149090db1547dccb0" alt="" /></p>The scandal centres on a large sum of foreign currency stolen from President Cyril Ramaphosa’s farmhouse in 2020.]]></description>
-            <link>https://www.yahoo.com/news/articles/south-africa-top-court-revives-151939314.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-africa-top-court-revives-151939314.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fewer migrants see America as their future amid tougher US immigration policies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D13F82A6C8A2E6CFC5A4B110A27B0900921D45367C8267534F3948A7743D59A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnextshark_articles_509%2F1317d71ee2a7a33ee6dcd8937202c310" alt="" /></p>Global interest in moving permanently to the U.S. has fallen to its lowest level in nearly two decades as the Trump administration expands immigration enforcement and tightens border restrictions, according to Gallup’s latest migration survey.  Only 15% of prospective migrants worldwide selected the U.S. as their preferred destination in 2025, down from 24% recorded between 2007 and 2009.  The survey documented declining preference for the U.S. across multiple regions while countries including Japan, Germany and Canada gained support among people seeking to relocate abroad.]]></description>
-            <link>https://www.yahoo.com/news/articles/fewer-migrants-see-america-future-151724158.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/fewer-migrants-see-america-future-151724158.html</guid>
             <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
         </item>
     </channel>
