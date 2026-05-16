@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 16:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 17:50:21 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 17:50:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Car plows into pedestrians in Italy's Modena, 8 injured, 2 critically, mayor says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8236B691A56E0AC6037A7B7635339C156B6C69FD8363E9FB76047EF934FE65B9/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F82615d387678b13d254b8c2e8101a743" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/articles/car-plows-pedestrians-italys-modena-172453584.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/car-plows-pedestrians-italys-modena-172453584.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 17:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of teachers march in Lisbon over pay, careers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Sergio Goncalves and Miguel Pereira LISBON, May 16 (Reuters) - Thousands of teachers marched through central Lisbon on Saturday to protest against the centre-right government, demanding higher pay,]]></description>
+            <link>https://www.yahoo.com/news/articles/thousands-teachers-march-lisbon-over-173550208.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-teachers-march-lisbon-over-173550208.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 17:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil's Lula tied with Senator Flavio Bolsonaro in second-round in Datafolha poll]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/75D40494BC356F80EB04523EB5E3BF11CC4A0885E2B3542B0A34C891BCAA9173/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3f0e5275f1d146dc548187fc99b4ca5c" alt="" /></p>SAO PAULO, May 16 (Reuters) - A second-round runoff in October between Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro would result in a draw, the latest Datafolha poll]]></description>
+            <link>https://www.yahoo.com/news/articles/brazils-lula-tied-senator-flavio-171038817.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/brazils-lula-tied-senator-flavio-171038817.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 17:50:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Romania finds unexploded projectile in village near Ukraine border]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BUCHAREST, May 16 (Reuters) - An unexploded projectile was discovered on a property in southeastern Romania near the European Union and NATO member's border with Ukraine on Saturday, its defence]]></description>
+            <link>https://www.yahoo.com/news/articles/romania-finds-unexploded-projectile-village-170502144.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/romania-finds-unexploded-projectile-village-170502144.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 17:50:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli strike that killed Hamas military leader Izz al-Din al-Haddad, in photos]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B1B10D071EA39B88520BE8E88321AADFF2DF9BAD66F88B5922A9B1E58F52393/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd38848ad7205636dca62be6da9860a47" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-strike-killed-hamas-military-161938343.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-strike-killed-hamas-military-161938343.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/812EEB43E615749D54BA564E9FAFC3EB3AC682130301079EAC244417503C7308/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F167c972af51a820ffb75e881c1383457" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/u-k-health-secretary-run-160317693.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-k-health-secretary-run-160317693.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0115A4568E3301CB54DEF56BF50F5DC7B182347B8575845031DB9E08EE3D5102/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4128a10d34dfd25285dd22a3588ad904" alt="" /></p>Sudan’s army says it retook a vital town in southeastern Blue Nile state and inflicted heavy losses on the RSF.]]></description>
             <link>https://www.yahoo.com/news/articles/sudanese-army-captures-key-town-163550343.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/sudanese-army-captures-key-town-163550343.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 16 (Reuters) - A magnitude 6.0 earthquake struck Antigua and Barbuda on Saturday, according to the U.S. Geological Survey.]]></description>
             <link>https://www.yahoo.com/news/articles/magnitude-6-0-earthquake-hits-155839912.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/magnitude-6-0-earthquake-hits-155839912.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48C0E18D80A85940491EAF94BAE45471B7356230865B202A2243035AF47FA072/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F970732e60cb2915d4013a9098c0826ce" alt="" /></p>Israel targeted Izz al-Din al-Haddad, the head of Hamas’s armed wing in Gaza, in an attack that killed seven others.]]></description>
             <link>https://www.yahoo.com/news/articles/hamas-confirms-killing-qassam-brigades-160233657.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hamas-confirms-killing-qassam-brigades-160233657.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A87413513BBCD27581FAA525A1CF93441F535A1BD7A08FFAD30EEB20EC13285/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3399dab97394283029cd3b453d3b6927" alt="" /></p>Latvia's president on Saturday appointed an opposition lawmaker, Andris Kulbergs, to form an interim government following the collapse of the ruling coalition in a row over stray Ukrainian drones.He told reporters on Saturday that he had invited Kulbergs to form a government.]]></description>
             <link>https://www.yahoo.com/news/articles/opposition-latvian-lawmaker-tapped-form-160011432.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/opposition-latvian-lawmaker-tapped-form-160011432.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F4A6A0A99C31B6720AA76E53A1FD77602546D169537020E192F77FA96784DDC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F29bae566270f445126b4df3a57f7c9f1" alt="" /></p>Nigeria and the US say ‘key’ ISIL leader was killed in joint military operation in Borno state.]]></description>
             <link>https://www.yahoo.com/news/articles/abu-bilal-al-minuki-isil-155815990.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/abu-bilal-al-minuki-isil-155815990.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +94,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AABFE20457FD57CBF81C06FB9C245252B03C7A54C9E16B9332722C6BC6924368/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1ee57a9991cf64092e593b423edb739a" alt="" /></p>Prime Minister Benjamin Netanyahu's call to gradually end Israel's reliance on US military aid could boost strategic flexibility, analysts said, though a full break from Washington's support remains unlikely anytime soon."I think that it's time that we weaned ourselves from the remaining military support," he told CBS News's 60 Minutes.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-could-wean-itself-off-153719382.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-could-wean-itself-off-153719382.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 16:50:03 GMT</pubDate>
         </item>
         <item>
@@ -7020,34 +7044,6 @@ One file -- from December 1947 -- contains a series of reports on "flying discs.
             <link>https://www.yahoo.com/news/articles/several-u-states-monitoring-cruise-130454861.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/several-u-states-monitoring-cruise-130454861.html</guid>
             <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Costa Rica's Laura Fernandez vows 'war' on crime ahead of inauguration]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Op.98jDQ.tvnCDU7aM8tIw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/d9c643ba0cfe23662421e339066af178.cf.webp" alt="" /></p>By Alvaro Murillo SAN JOSE, May 8 (Reuters) - Costa Rica's Laura Fernandez is set to be inaugurated president on Friday, with the right-wing politician vowing to wage a "war without quarter" on crime]]></description>
-            <link>https://www.yahoo.com/news/articles/costa-ricas-laura-fernandez-vows-130454820.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/costa-ricas-laura-fernandez-vows-130454820.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates: Iran expected to respond to US peace deal by Friday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/pYOrc2lDe6RbGgUUKmUfHA--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/newsnation_articles_600/b815f0aabd30a7dd44849b7fc74faf5f.cf.webp" alt="" /></p>Trump warns Iran could face more U.S. strikes if peace negotiations collapse.]]></description>
-            <link>https://www.yahoo.com/news/articles/live-updates-trump-says-truce-110158527.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/live-updates-trump-says-truce-110158527.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio says expecting Iran response to US proposal on Friday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5CB0B475DC7D72004A9EEA07121F1BD44334A7B97C4D5C7CCB3B471E766B93FB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0f2a428f382dea4ceb49de372ce7282b" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/rubio-says-expecting-iran-response-130353332.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-says-expecting-iran-response-130353332.html</guid>
-            <pubDate>Fri, 08 May 2026 13:13:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indonesian authorities halt search for three hikers missing as Mount Dukono eruption continues]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39F3A68740F373143C6708F0DF5F3E26EB9457BA4298F2B386F9F6C0D514EACB/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1875e68d0e8edf5fed48d69c84ff3b7a" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/indonesian-authorities-search-3-hikers-082153732.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesian-authorities-search-3-hikers-082153732.html</guid>
-            <pubDate>Fri, 08 May 2026 13:13:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
