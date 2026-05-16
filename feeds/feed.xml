@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 20:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 21:41:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 20:51:28 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>One of four Canadians who returned home from a cruise ship where there was a hantavirus outbreak received a “presumptive positive” test result for the virus, Canadian officials said Saturday.  Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weekend, said Dr. Bonnie Henry, the public health officer for the province of British Columbia.  “Clearly this is not what we hoped for, but it is what we planned for,” Henry said.]]></description>
+            <link>https://www.yahoo.com/news/articles/canadian-cruise-passenger-gets-presumptive-210904288.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canadian-cruise-passenger-gets-presumptive-210904288.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poll shows Lula and Bolsonaro tied before Brazil’s presidential election]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6725E325EE0E4CB677192427763AAFD04344FBA560211224BD142F1744AF68B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdf45c56eb01e1399c6120701b4d9754a" alt="" /></p>Right-wing challenger Flavio Bolsonaro faces new scrutiny over a film funding scandal, which could affect the race.]]></description>
+            <link>https://www.yahoo.com/news/articles/poll-shows-lula-bolsonaro-tied-210510598.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/poll-shows-lula-bolsonaro-tied-210510598.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 21:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former mayor and aide killed in shooting in Colombia weeks before election]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0537B76AE3FABA2F9C8DE9D9E54237C70EF6A59A59AC316DF7DBFFCA3B0855E3/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F3829691849bf884b3ec875187b9d758c" alt="" /></p>Source: CBS News]]></description>
             <link>https://www.yahoo.com/news/articles/2-presidential-campaign-staffers-killed-185933008.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/2-presidential-campaign-staffers-killed-185933008.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 16 May 2026 20:51:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BB528302B585AFC71C5ECAA72547A50E21C059154BD782223DCFD10DFA98A315/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8941e9795689a02761fe42318a531002" alt="" /></p>Spain, Ireland, Iceland, Slovenia and Netherlands all withdrew in protest against Israel’s participation amid Gaza war.]]></description>
             <link>https://www.yahoo.com/news/articles/thousands-protest-eurovision-final-five-203157552.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-protest-eurovision-final-five-203157552.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 20:51:28 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D03A9C2A0657959D90BB17B35DB39A8E99B3C3309AFAD35AB1CA80178FA977B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc14b0fefeab7d8cfe067f9adab265752" alt="" /></p>When some 150,000 people descended on London in September for a rally organized by Tommy Robinson – an agitator who spreads anti-Muslim bigotry and has several criminal convictions – it felt like a watershed moment in British politics.]]></description>
             <link>https://www.yahoo.com/news/articles/britain-hard-march-tens-thousands-191509616.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/britain-hard-march-tens-thousands-191509616.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 16 May 2026 20:51:28 GMT</pubDate>
         </item>
         <item>
@@ -7027,20 +7040,6 @@ There are no approved vaccines or known cures for the hantavirus, which is usual
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97B9D3D06192186975ECDE618D80A2D8E570FD21385665733C26E114EE0934B5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F17d9e52fd7f065f929fdbd9d500437f0" alt="" /></p>May 8 (Reuters) - The U.S. military struck two empty Iranian-flagged oil tankers on Friday that it said were seeking to violate the ongoing U.S. blockade, U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-forces-strike-two-empty-144538371.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-forces-strike-two-empty-144538371.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Porn website at center of CNN investigation into sexual abuse taken offline]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44A8A2FCB1D322AA5AE9067387B2996CFAE475F321F74BE4F71C975EE71135C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4e1338bbc9c2925364f24034437fcb6e" alt="" /></p>The porn website Motherless, which faced scrutiny over hosting content linked to gender-based violence and drug-facilitated sexual assault, has been taken offline.]]></description>
-            <link>https://www.yahoo.com/news/articles/porn-website-center-cnn-investigation-144424498.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/porn-website-center-cnn-investigation-144424498.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farage’s Reform UK wins big in local elections, splintering two-party system and piling pressure on Starmer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/184A9FDC88EFDF250D2AC3FE9415F4A5DAC9147C0F243CFB8BBA9A37DED5DA8F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F257fcfff45410d3184bc220b58987bbd" alt="" /></p>The hard-right Reform UK party led by Nigel Farage has surged in England’s local elections while the governing Labour Party has slumped, deepening doubts about Prime Minister Keir Starmer’s ability to govern and further splintering Britain’s traditional two-party political system.]]></description>
-            <link>https://www.yahoo.com/news/articles/farage-reform-uk-wins-big-144221352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/farage-reform-uk-wins-big-144221352.html</guid>
             <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
         </item>
     </channel>
