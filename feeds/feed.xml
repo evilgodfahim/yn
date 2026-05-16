@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 18:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 19:58:52 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bolivian police clash with protesters blocking roads]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99C80343F25E235060C99825DF45AF10A865D5BA140698A2CDE9E7C7B8E26563/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1d9b85c939738ed3b98bcba659a0036d" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/bolivian-police-clash-protesters-blocking-193820674.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/bolivian-police-clash-protesters-blocking-193820674.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least eight injured as car rams into pedestrians in Italian city of Modena]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A4F86E5A60A04F1EE35BEF318FA8BB7D583A5EAC3E75CD13E4816D19C751954F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9a126577883beb90979b3afa67abef31" alt="" /></p>By Sara Rossi MILAN, May 16 (Reuters) - A man drove a car into a crowd in the northern Italian city of Modena, injuring at least eight people, four of whom are in serious condition, police said.]]></description>
+            <link>https://www.yahoo.com/news/articles/car-rams-people-italian-city-161055893.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/car-rams-people-italian-city-161055893.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A54E0AC2B18010ACB75ECB9CDFB6A8B71DFF9A210FE7F2B8503CD25B022D4092/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8c312241f07778ec569564447225eda5" alt="" /></p>Africa CDC concerned that outbreak of Bundibugyo strain could spread rapidly due to intense population movement.]]></description>
+            <link>https://www.yahoo.com/news/articles/drc-health-minister-warns-very-183558770.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/drc-health-minister-warns-very-183558770.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four bystanders tackle knife-wielding driver after car plows into crowd in Italy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6952DA53C1D81A4E9FE54313622DE40A32BC576094433A7335EF8ABCE8E85639/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4caf25ba7634e238a8fb2273673b33c1" alt="" /></p>Shortly after a car plowed into a crowd of pedestrians in Modena, Italy on Saturday, four Italian civilians stepped in and tackled the vehicle’s driver, pulling him to the ground, according to the city’s mayor.]]></description>
+            <link>https://www.yahoo.com/news/articles/four-bystanders-tackle-knife-wielding-182458269.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/four-bystanders-tackle-knife-wielding-182458269.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rwandan genocide suspect Kabuga dies in custody in The Hague at age 91]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFE24659CC1478A4EC4D0C3F3A20E5F6FAFEA6C2B75EA64199C63C12380C11CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd88fd83e868aa67df10fbd62cadb57f3" alt="" /></p>A Rwandan suspect charged in connection with the 1994 genocide died in a hospital while in custody in The Hague, Netherlands, a U.N. court said Saturday, three years after the court declared him unfit to continue standing trial.  Félicien Kabuga, 91, was accused of encouraging and bankrolling the mass killing of Rwanda’s Tutsi minority.  In 2023, the judges declared him unfit to continue standing trial because he had dementia and said they would establish a procedure to continue hearing evidence without the possibility of convicting him.]]></description>
+            <link>https://www.yahoo.com/news/articles/rwandan-genocide-suspect-kabuga-dies-181320547.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rwandan-genocide-suspect-kabuga-dies-181320547.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eurovision Song Contest final takes the stage, stung by Gaza boycott]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/047F50D747DA7A09168D3A792F5D30F4339C6BDFD0C6C027A577FC140215260F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd50eb3c8b0d0ac9d845e0eed183255c0" alt="" /></p>By Francois Murphy VIENNA, May 16 (Reuters) - The Eurovision Song Contest's final takes place in Vienna on Saturday, stung by five nations' boycott over Israel taking part, although protests in the]]></description>
+            <link>https://www.yahoo.com/news/articles/eurovision-song-contest-final-takes-040739077.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eurovision-song-contest-final-takes-040739077.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Several injured after car plows into crowd; passerby allegedly stabbed by driver]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/546311E07CF10ADB133B42F27E85A3DD6DCA83A2127C78AEA2FD4747E2C3DC7C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F32a0c2c8b01c7a2f1aa2e2878cf4353a" alt="" /></p>A man allegedly drove a car into a crowd of people in the Italian city of Modena on Saturday and then got out and slashed a citizen with a knife.]]></description>
+            <link>https://www.yahoo.com/news/articles/several-injured-car-plows-italy-170148147.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/several-injured-car-plows-italy-170148147.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 16 May 2026 19:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rwanda genocide suspect Kabuga dead: court]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8C3CFDC7CF4029666AF4755DC08A25C167ADF7CB250A2F939D0D8984241BC6E/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F767d9d27470c12b00cf587c00ee8745e" alt="" /></p>Source: AFP]]></description>
             <link>https://www.yahoo.com/news/articles/rwanda-genocide-suspect-kabuga-dead-181618750.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rwanda-genocide-suspect-kabuga-dead-181618750.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ADB36A8C0EF94FAED89B17C6A598DB7BEDC54B6E7434AE55E94161EC67BE745E/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc1c6f5d7382ee3cbc98f49a2e1655c7a" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/french-judge-look-complaints-against-180133972.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/french-judge-look-complaints-against-180133972.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DD2D6F0C91DF57D1575F15A6FCDDBB047FD1ECA656C93F65A233794E68720E3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe9ba14d1554b3d833840052a9969f082" alt="" /></p>Outspoken Spanish star Javier Bardem told AFP he was "getting more work than ever" despite his public campaigning against Israel's war in Gaza, something he attributed to "the narrative changing" around the conflict. "I think it's important to be able to express your point of view, knowing that there will be people who agree and people who don't," Bardem told AFP at the Cannes Film Festival where he is starring in "The Beloved" by Spanish director Rodrigo Sorogoyen.]]></description>
             <link>https://www.yahoo.com/news/articles/spanish-star-javier-bardem-says-183757611.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/spanish-star-javier-bardem-says-183757611.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B6530E032EAE5DFFA2F53D804B2CDB0BCF86AA98ACBCC8018C9DEEBDFBFDA1D9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F55f4c7636eb917339a2e4a37bd8b48bf" alt="" /></p>Dutch tech giant ASML signed a deal with Tata Electronics Saturday to help build and scale up a semi-conductor plant in India, overseen by Prime Minister Narendra Modi on his tour of the Netherlands.Tata Electronics' plant, with a planned investment of $11bn, will make semi-conductor chips for the AI sector, as well as the car industry and other economic segments.]]></description>
             <link>https://www.yahoo.com/news/articles/modi-oversees-semi-conductor-deal-181146020.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/modi-oversees-semi-conductor-deal-181146020.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A9D07AFE1C106DF49E4358660DB0EDF6255462DA58487B897A7B0C78A17F55A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6f999c9ec285ee97e3a82a998a4c2671" alt="" /></p>Internal Fatah leadership elections take place amid questions of who will eventually succeed the 90-year-old leader.]]></description>
             <link>https://www.yahoo.com/news/articles/palestinian-president-abbas-casts-vote-180338242.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-president-abbas-casts-vote-180338242.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/462B8EC731FE7F0EB7B0F8C2493C1352AEAB569DD60F4C8F6C53539B06D381C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fdd3763b4da1d844813d9f436a055cd12" alt="" /></p>Timmy, the young humpback whale who was stranded for weeks in shallow waters, has been found dead just off Denmark’s coast, according to the Danish Environmental Protection Agency, just weeks after a controversial rescue effort set him free.]]></description>
             <link>https://www.yahoo.com/news/articles/timmy-stranded-humpback-whale-found-172132196.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/timmy-stranded-humpback-whale-found-172132196.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0303BF57ED6F0BE702D6E00BE6DA764F65CBC86615B17319599C6B45305A0C3D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F52f4957ea1d33c60eac7895234fda0af" alt="" /></p>TUNIS, May 16 (Reuters) - Hundreds of Tunisians protested in the capital Tunis on Saturday against President Kais Saied, accusing him of undermining freedoms and presiding over a worsening economic]]></description>
             <link>https://www.yahoo.com/news/articles/tunisians-protest-against-saied-over-171854733.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/tunisians-protest-against-saied-over-171854733.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81F36A8F2BF589BFEF171110E55B041C3C5E8394B850B5B0FFB2491F631B8A62/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa2dccaf6bdcf9f3655decba1d1f17113" alt="" /></p>Palestinian activist Ramy Shaath said French authorities are seeking to deport him on the grounds that he is a threat to public security, accusing France of targeting him over his pro-Palestinian activism.  Shaath, 54, said in a May 14 video statement posted online that the move was part of what he described as a broader campaign to silence Palestinians and supporters of the Palestinian cause in France.  Shaath helped found the pro-Palestinian organization Urgence Palestine after the start of the Israel-Hamas war.]]></description>
             <link>https://www.yahoo.com/news/articles/palestinian-activist-ramy-shaath-says-171545142.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/palestinian-activist-ramy-shaath-says-171545142.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 16 May 2026 18:53:44 GMT</pubDate>
         </item>
         <item>
@@ -6998,55 +7046,6 @@ There are no approved vaccines or known cures for the hantavirus, which is usual
             <link>https://www.yahoo.com/news/articles/spain-says-detected-suspected-hantavirus-125349385.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/spain-says-detected-suspected-hantavirus-125349385.html</guid>
             <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine says it is running short of air defence missiles]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8E6AEBE079757681B89ED4E4D2BBFAEA38CA508B04DEF41A75F27DA2D9432FDC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3989f95b33fb0f12a7baca26d1315d9b" alt="" /></p>KYIV, May 8 (Reuters) - Ukraine is running short of air defence missiles after Russia's massive winter attack campaign, the country's air force said on Friday, as it braces for further strikes.]]></description>
-            <link>https://www.yahoo.com/news/articles/ukraine-says-running-short-air-132515643.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ukraine-says-running-short-air-132515643.html</guid>
-            <pubDate>Fri, 08 May 2026 16:49:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denmark's coalition talks break down in setback for prime minister Frederiksen]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/jjcYpppgWyqXoXmN9B3aYw--~B/Zmk9c3RyaW07aD0zMzE7cT05NTt3PTQ5MzthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/406dddfaa54a746dc75186433c9e2962.cf.webp" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/denmarks-coalition-talks-break-down-144121629.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/denmarks-coalition-talks-break-down-144121629.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Botswana’s former President Festus Mogae dies aged 86]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Lz_VgswwB8eECDvp1ByIZg--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/06bbee84b5b462e433633dccebf8b7dc.cf.webp" alt="" /></p>The former leader won praise for good governance and the fight against HIV/AIDS in the southern African nation.]]></description>
-            <link>https://www.yahoo.com/news/articles/botswana-former-president-festus-mogae-142501802.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/botswana-former-president-festus-mogae-142501802.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Virginia's top court throws out Democratic-backed US House map]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Sp9S4TW_CklC5XVaINWAJA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/621d63d9b80caf9a22dfb2fb4cb33d8c.cf.webp" alt="" /></p>By Joseph Ax May 8 (Reuters) - Virginia's top court on Friday threw out a new electoral map that was crafted to flip four Republican-held U.S. congressional seats to Democrats, handing President]]></description>
-            <link>https://www.yahoo.com/news/articles/virginias-top-court-throws-democratic-142323819.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/virginias-top-court-throws-democratic-142323819.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US military says it fires on and disables 2 more Iran-flagged oil tankers trying to break its blockade]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>US military says it fires on and disables 2 more Iran-flagged oil tankers trying to break its blockade.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-military-says-fires-disables-141254434.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-says-fires-disables-141254434.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Greece investigating Ukrainian-made naval drone found in cave at island]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ATHENS, May 8 (Reuters) - Greek authorities are investigating a drone boat found by fishermen in a cave on the Ionian island of Lefkada, police and coast guard sources said on Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/greece-investigating-ukrainian-made-naval-140413994.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/greece-investigating-ukrainian-made-naval-140413994.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rising fuel prices strand hundreds of Indonesian fishermen]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/wd6syBnUud1yINX8sCvlEg--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/afp.com/587f6119593edd991fe9a910bc4ec442.cf.webp" alt="" /></p>Hundreds of fishermen in an Indonesian coastal town on the island of Java have been forced to stop going out to sea and told AFP their livelihoods are at risk due to soaring fuel prices.Hundreds of fishermen held a protest in Pati, a coastal town in Central Java, on Monday demanding a lower price for the diesel that fuels their boats.]]></description>
-            <link>https://www.yahoo.com/news/articles/rising-fuel-prices-strand-hundreds-140343589.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rising-fuel-prices-strand-hundreds-140343589.html</guid>
-            <pubDate>Fri, 08 May 2026 15:05:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
