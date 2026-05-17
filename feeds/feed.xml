@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 21:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 22:12:09 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[North Korea's Kim calls for stronger frontline units to deter war, KCNA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64552F77A495BAACC382F69294930C96BA3EFC20C2F496B8F0AB5C6E712D3A95/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fee31afb7ed14f9d836f91b98f31b7382" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/north-koreas-kim-calls-stronger-213101037.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-calls-stronger-213101037.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Military jets' crew members safely ejected after Idaho air-show collision, Navy says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Matt Tracy WASHINGTON, May 17 (Reuters) - Four crew members involved in a mid-air collision of military jets at an air show ejected safely on Sunday outside Mountain Home Air Force Base in Idaho,]]></description>
+            <link>https://www.yahoo.com/news/articles/military-jets-crew-members-safely-212452868.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/military-jets-crew-members-safely-212452868.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel kills at least five in Lebanon after ‘ceasefire’ extended]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE4C35A52BBEC1B496B40541FB51D3319C299CC29D4C85E4659C8AC61DA2B4CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fea027f46ddb7152446e0af74bf39c27a" alt="" /></p>At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.]]></description>
             <link>https://www.yahoo.com/news/articles/israel-kills-least-five-lebanon-201614478.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-kills-least-five-lebanon-201614478.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, May 17 (Reuters) - Saudi Arabia on Sunday said it intercepted three drones after they entered its territory from Iraqi airspace.]]></description>
             <link>https://www.yahoo.com/news/articles/saudi-says-intercepted-three-drones-200812200.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-says-intercepted-three-drones-200812200.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1AA43D764E0854565D6B82A95ABE40C905807C528C31A2A135F91309686A1C67/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fba0f050f3cc4b28d692205ca27637915" alt="" /></p>By Alexander Tanas CHISINAU, May 17 (Reuters) - Moldovan leaders denounced as a threat Russian President Vladimir Putin's offer of simplified Russian citizenship for the country's pro-Russian]]></description>
             <link>https://www.yahoo.com/news/articles/moldovan-leaders-decry-russian-move-200704474.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/moldovan-leaders-decry-russian-move-200704474.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9C92E03776EA352DAF0353AC632219F4E7754BA96B4D464FCB3E9D7082A383F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F65d834f526a5949e2e052ae40f1aa100" alt="" /></p>The rare Bundibugyo strain, with no approved vaccine or treatment, has killed nearly 90 people and reached Congo's capital, Kampala, and beyond.]]></description>
             <link>https://www.yahoo.com/news/articles/declares-global-emergency-over-ebola-200424084.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/declares-global-emergency-over-ebola-200424084.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
         </item>
         <item>
@@ -7029,20 +7041,6 @@ Iran has sent its response to a US proposal to end the war in the region via Pak
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC5D66197A504325242BB3758322692971ED16DC02F4FA2C4001B85AA9087A5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe1d6c8a5b924f134463f740b09b2222c" alt="" /></p>No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</guid>
-            <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Qatari LNG tanker sailing towards Hormuz Strait, shipping data shows]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 9 (Reuters) - Qatari LNG tanker Al Kharaitiyat was sailing towards the Strait of Hormuz on Saturday after departing Qatar's Ras Laffan en route to Port Qasim in Pakistan, according to LSEG]]></description>
-            <link>https://www.yahoo.com/news/articles/qatari-lng-tanker-sailing-towards-170332251.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/qatari-lng-tanker-sailing-towards-170332251.html</guid>
-            <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88A7766603A216BFDB8D1BCB2E9862DD0355523DC46C962217F332443E54CCA2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F084f3fd7abe1d5d3b9e46784ee44e0e8" alt="" /></p>The strait represents ‘a capability that can affect the entire global economy with a single decision’, politician says.]]></description>
-            <link>https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</guid>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
     </channel>
