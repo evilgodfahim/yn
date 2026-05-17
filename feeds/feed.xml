@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 20:03:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 21:12:32 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel kills at least five in Lebanon after ‘ceasefire’ extended]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE4C35A52BBEC1B496B40541FB51D3319C299CC29D4C85E4659C8AC61DA2B4CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fea027f46ddb7152446e0af74bf39c27a" alt="" /></p>At least five people have been killed in Israeli air attacks on several locations in southern and eastern Lebanon.]]></description>
+            <link>https://www.yahoo.com/news/articles/israel-kills-least-five-lebanon-201614478.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-kills-least-five-lebanon-201614478.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi says it intercepted three drones that entered from Iraqi airspace]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, May 17 (Reuters) - Saudi Arabia on Sunday said it intercepted three drones after they entered its territory from Iraqi airspace.]]></description>
+            <link>https://www.yahoo.com/news/articles/saudi-says-intercepted-three-drones-200812200.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/saudi-says-intercepted-three-drones-200812200.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moldovan leaders decry Russian move on citizenship for separatist region]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1AA43D764E0854565D6B82A95ABE40C905807C528C31A2A135F91309686A1C67/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fba0f050f3cc4b28d692205ca27637915" alt="" /></p>By Alexander Tanas CHISINAU, May 17 (Reuters) - Moldovan leaders denounced as a threat Russian President Vladimir Putin's offer of simplified Russian citizenship for the country's pro-Russian]]></description>
+            <link>https://www.yahoo.com/news/articles/moldovan-leaders-decry-russian-move-200704474.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/moldovan-leaders-decry-russian-move-200704474.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WHO Declares Global Emergency Over Ebola Strain With No Vaccine. Here's What To Know]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9C92E03776EA352DAF0353AC632219F4E7754BA96B4D464FCB3E9D7082A383F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F65d834f526a5949e2e052ae40f1aa100" alt="" /></p>The rare Bundibugyo strain, with no approved vaccine or treatment, has killed nearly 90 people and reached Congo's capital, Kampala, and beyond.]]></description>
+            <link>https://www.yahoo.com/news/articles/declares-global-emergency-over-ebola-200424084.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/declares-global-emergency-over-ebola-200424084.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 21:12:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/63A95E11EC29D3DA81AE6BD5E15C42F9CCE79137E53CBBAF81BFF17E81A176BA/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Fa25a050100dd6e39a44ad2b8d1e354d5" alt="" /></p>Source: Time]]></description>
             <link>https://www.yahoo.com/news/articles/zelensky-hails-ukraines-growing-drone-190154915.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelensky-hails-ukraines-growing-drone-190154915.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON, May 17 (Reuters) - Mountain Home Air Force Base is investigating an aircraft collision just outside the base in Idaho that occurred earlier on Sunday, a Mountain Home Air Force Base]]></description>
             <link>https://www.yahoo.com/news/articles/mountain-home-air-force-investigating-194954785.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mountain-home-air-force-investigating-194954785.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BB1B73F38C5118B5891D884FABACDE8A27C125B8F2F6CA381EAE964BDCE671C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa7e369f56f0218e3643c0530aea447da" alt="" /></p>A Canadian who was aboard the cruise ship MV Hondius has tested positive for the Andes hantavirus, public health officials said Sunday."The overall risk to the general population in Canada from the Andes hantavirus outbreak linked to the MV Hondius cruise ship remains low at this time," the agency stressed.]]></description>
             <link>https://www.yahoo.com/news/articles/canadian-cruise-passenger-confirmed-positive-194646637.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/canadian-cruise-passenger-confirmed-positive-194646637.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46F2520B91B3847630D1939E5965E7042E558F5BF39D9080E596BC0BC589BD4E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5161bc2c5a4f4aec671b47426260694d" alt="" /></p>Officials blamed the shooting on ‘armed individuals’, though no details were provided about attackers or their motives.]]></description>
             <link>https://www.yahoo.com/news/articles/mexican-officials-announce-10-dead-192228229.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexican-officials-announce-10-dead-192228229.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Andrius Sytas TALLINN, May 17 (Reuters) - A suspected Ukrainian military drone was found crashed in Lithuania on Sunday, the Lithuanian government's National Crisis Management Centre said.]]></description>
             <link>https://www.yahoo.com/news/articles/suspected-ukrainian-military-drone-found-180148212.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/suspected-ukrainian-military-drone-found-180148212.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2B1795175C49186FA75293FB60474837036035AA5C0F6BA2AB06ACE245312E4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0e1dcbac76a7049ec9913f144f9828c0" alt="" /></p>Taiwanese President Lai Ching-te said on Sunday that Taiwan will never be "traded away" as he pressed the United States to keep selling weapons to the island democracy to maintain regional peace."The United States' continued arms sales to Taiwan and deepening of Taiwan-US security cooperation are not only necessary but also key elements in maintaining regional peace and stability," Lai said in a statement on Facebook.]]></description>
             <link>https://www.yahoo.com/news/articles/taiwans-leader-says-island-not-174719130.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/taiwans-leader-says-island-not-174719130.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 17 May 2026 20:03:01 GMT</pubDate>
         </item>
         <item>
@@ -7018,34 +7044,6 @@ Iran has sent its response to a US proposal to end the war in the region via Pak
             <link>https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/level-atomic-bomb-iran-highlights-163501810.html</guid>
             <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon says Israel kills 8 in south, strikes reported outside Beirut]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C637F7699455F835F0457709EBA1879911FA4E533173EACF84715962DCE5889/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fad2852a055f3f30ac20821a5bdb742ae" alt="" /></p>Authorities reported eight people killed in Israeli airstrikes in southern Lebanon on Saturday, with more raids targeting a highway south of Beirut outside Hezbollah's traditional strongholds and far from the centre of ongoing fighting.NNA also reported that the "Israeli enemy launched two strikes on the Saadiyat highway", referring to a location around 20 kilometres (12 miles) south of Beirut.]]></description>
-            <link>https://www.yahoo.com/news/articles/lebanon-says-least-one-killed-141450056.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-least-one-killed-141450056.html</guid>
-            <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E73FC828CAD7B36C29442A53F70FB28E40D153D6E5009F48C4221623543A2A4C/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fad231e83557d0cc92b109038cc960ce2" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html</guid>
-            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK nationals on hantavirus-hit cruise ship to isolate in hospital on return]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2573B439D929A40959E7E786232647C9F1F6DC600245362A6F3826E719891BC2/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F32ef7c8c3a76804f8b67961aa9014fa6" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-nationals-hantavirus-hit-cruise-153747073.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-nationals-hantavirus-hit-cruise-153747073.html</guid>
-            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Niger suspends nine French media bodies: Watchdog slams ‘abusive’ decision]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/503D901BCF097788556BEB99DD2625079C237AABBA9DD3AD2DE77CE196354C86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F308c0a4c2ff4005201bdbf628bcaa526" alt="" /></p>Niger’s military government has banned dozens of local and foreign reporters since seizing power in 2023.]]></description>
-            <link>https://www.yahoo.com/news/articles/niger-suspends-nine-french-media-155327744.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/niger-suspends-nine-french-media-155327744.html</guid>
-            <pubDate>Sat, 09 May 2026 16:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
