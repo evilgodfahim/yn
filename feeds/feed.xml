@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 22:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 23:26:53 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 23:26:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lebanon says Israeli strikes kill 7 as Hezbollah condemns talks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23289326B06705AF269698052FD362790E863E7C435E0E3D6AEBBB25F0704A86/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa2c42079788508fd40cc9054224cac6b" alt="" /></p>Source: AFP]]></description>
+            <link>https://www.yahoo.com/news/articles/lebanon-says-israeli-strikes-kill-223453012.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-says-israeli-strikes-kill-223453012.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 23:26:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola outbreak in Congo and Uganda declared global health emergency]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A4EC75FC0E0FABBB5960EA1C0289A17B025E7B6E97F60E05388849B37714172/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fc70b354d74164b285dd1706c2e12c574" alt="" /></p>At least 80 deaths have been reported in a new Ebola disease outbreak in Congo and Uganda, authorities said.]]></description>
+            <link>https://www.yahoo.com/news/articles/frequent-burials-least-80-dead-161343670.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/frequent-burials-least-80-dead-161343670.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 17 May 2026 23:26:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Korea's Kim calls for stronger frontline units to deter war, KCNA says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64552F77A495BAACC382F69294930C96BA3EFC20C2F496B8F0AB5C6E712D3A95/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fee31afb7ed14f9d836f91b98f31b7382" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/north-koreas-kim-calls-stronger-213101037.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-koreas-kim-calls-stronger-213101037.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Matt Tracy WASHINGTON, May 17 (Reuters) - Four crew members involved in a mid-air collision of military jets at an air show ejected safely on Sunday outside Mountain Home Air Force Base in Idaho,]]></description>
             <link>https://www.yahoo.com/news/articles/military-jets-crew-members-safely-212452868.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/military-jets-crew-members-safely-212452868.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 17 May 2026 22:12:09 GMT</pubDate>
         </item>
         <item>
@@ -7028,20 +7042,6 @@ Iran has sent its response to a US proposal to end the war in the region via Pak
             <link>https://www.yahoo.com/news/articles/hantavirus-cruise-ship-nears-canary-152619859.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/hantavirus-cruise-ship-nears-canary-152619859.html</guid>
             <pubDate>Sat, 09 May 2026 18:13:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia rescuers retrieve hiker's body after volcanic eruption]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3ABAC22665F0C20007A3416D4A8036DAEA014DAB8F4D21E9B993B92CA52E5D4/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F03aec7aa09a937964f7a6454b3107d04" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/indonesia-rescuers-retrieve-hikers-body-164149571.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-rescuers-retrieve-hikers-body-164149571.html</guid>
-            <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli attacks across Lebanon kill at least 19]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC5D66197A504325242BB3758322692971ED16DC02F4FA2C4001B85AA9087A5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe1d6c8a5b924f134463f740b09b2222c" alt="" /></p>No letup in Israeli attacks despite a US-brokered ceasefire, with a new round of talks expected next week.]]></description>
-            <link>https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-attacks-across-lebanon-kill-170731622.html</guid>
-            <pubDate>Sat, 09 May 2026 17:28:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
