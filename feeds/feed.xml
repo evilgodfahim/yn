@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 22:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 23:33:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 22:14:07 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 23:33:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At least 16 people killed in two attacks in northern Honduras]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/103FE14BF612246E237A1816704CFD798F4B888D2346717CF5F4E917E1828275/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb46ed58e6c2d8324155f54a034f2490d" alt="" /></p>One attack involved a police raid, while the other took place on a palm farm, killing rural labourers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-16-people-killed-two-224652013.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-16-people-killed-two-224652013.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 23:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US-bound flight diverted to Canada over Ebola concern]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F7B40C07003D68B41D43B9A48DA57C4EC79836FEF1C0F156C531AB45065C61D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fc92c5cc43400f96556f33446aa0330bd" alt="" /></p>One of the passengers on the Detroit-bound flight was from the Democratic Republic of Congo.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/us-bound-flight-diverted-canada-213015737.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/us-bound-flight-diverted-canada-213015737.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 23:33:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five Things We Learned From the U.K. Government’s Release of Files Related to Former Prince Andrew]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A1BBB6A97136EB12A85F09161A54709E60A26D24A3A0E99C49B3E6A2CCE3D374/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F20e469367b01aad50ec30dce0b135ad7" alt="" /></p>The documents suggest that the late Queen had a "very keen" interest in Andrew taking up the role of special trade envoy.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/five-things-learned-u-k-203753985.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/five-things-learned-u-k-203753985.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Thu, 21 May 2026 23:33:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DHS reiterates it could suspend international travel at some airports in 'sanctuary cities,' sources say]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9FCE7A425B7E74CD78CA7E0C6CFE5C75D1094CD12E0EB4A7727662AF5F595141/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3a3f40bf81f4eda3b96bfcef4f4c9bd5" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/dhs-reiterates-could-suspend-international-215441301.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/dhs-reiterates-could-suspend-international-215441301.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 21 May 2026 22:14:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64EDCA129E07E5EC6FFAF2D88EC4B0E317AA927E3ED87CB7FDFD133490869FE5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1d7c36a412be9b21e0c07d8466a06f17" alt="" /></p>UN Security Council urged to press for Israeli obligations and Hamas disarmament under Gaza ‘ceasefire’ roadmap.]]></description>
             <link>https://www.yahoo.com/news/world/articles/board-peace-envoy-warns-permanent-211002288.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/board-peace-envoy-warns-permanent-211002288.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 21 May 2026 22:14:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D2971BB49009753058E5A6642301832CFC77A3D9626FD54A8E34CE4BDC3ABD1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbe6f199552358c7cf2d111fd6fdc801c" alt="" /></p>MOSCOW, May 21 (Reuters) - Belarusian President Alexander Lukashenko on Thursday dismissed any notion that Belarus would be dragged into the Ukraine war, but said Russia and Belarus would jointly]]></description>
             <link>https://www.yahoo.com/news/articles/lukashenko-says-belarus-not-dragged-201947150.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lukashenko-says-belarus-not-dragged-201947150.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 21 May 2026 22:14:07 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A3BD15F035B8F6682D3595CBA686AD06B2E25176600EF9BD7C971A9EDEA2AEEF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1754237312c536865185caf1a6011346" alt="" /></p>It's never a good sign when a report comes with a big red disclaimer at the top of each page, but that's what happened on Thursday when the Democratic National Committee belatedly released its controversial autopsy report on the 2024 election.  “This document reflects the views of the author, not the DNC," the disclaimer said.  "The DNC was not provided with the underlying sourcing, interviews, or supporting data for many of the assertions contained herein and therefore cannot independently verify the claims presented.”]]></description>
             <link>https://www.yahoo.com/news/politics/articles/takeaways-democratic-national-committees-long-200755365.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/takeaways-democratic-national-committees-long-200755365.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 21 May 2026 22:14:07 GMT</pubDate>
         </item>
         <item>
@@ -7022,27 +7042,6 @@ Silina, from the Unity party, had been prime minister since September 2023.]]></
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B9566E232DE22DCCCA7E02F6EFDCC85286BC69C4B2B9842BAD730E01EB4171A/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe99bf73da75e0036a6ed0a175e5a7430" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/articles/jerusalem-braces-annual-ultranationalist-jewish-134600782.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/jerusalem-braces-annual-ultranationalist-jewish-134600782.html</guid>
-            <pubDate>Thu, 14 May 2026 13:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blackouts and protests as Cuba says fuel has 'run out']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/187C764C25216962A12C59896E63780E3FD6D1858C6F8F6003854FF76F7D180A/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3d490c9f41092deb77e216b1820dc7f9" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/blackouts-protests-cuba-says-fuel-132746619.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/blackouts-protests-cuba-says-fuel-132746619.html</guid>
-            <pubDate>Thu, 14 May 2026 13:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio says it would be ‘terrible mistake’ if China tried to take Taiwan by force and US position on island is unchanged]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/rubio-says-terrible-mistake-china-133104197.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-says-terrible-mistake-china-133104197.html</guid>
-            <pubDate>Thu, 14 May 2026 13:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK's Princess Kate learns pasta-making on visit to Italy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D5292465DC893C71721B48EEC76AA55056D9891DC3B71B4E0DDEE90BEE4E0561/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F17d0e69a6d731cb244d60fcf250fc8e3" alt="" /></p>PARMA, May 14 (Reuters) - Britain's Princess of Wales learned how to make pasta on Thursday during a visit to a hillside community in northern Italy's so-called food valley, an area globally known for]]></description>
-            <link>https://www.yahoo.com/news/articles/uks-princess-kate-learns-pasta-131303048.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uks-princess-kate-learns-pasta-131303048.html</guid>
             <pubDate>Thu, 14 May 2026 13:51:18 GMT</pubDate>
         </item>
     </channel>
