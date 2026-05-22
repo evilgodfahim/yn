@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 19:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 20:53:16 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bolivia in crisis: Social unrest, demands for president to resign escalate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22853F6E4259931D3BFEEEB4DD970458376BF3CD5E6AE8D423217538DF151FDB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F60653721360c0242fc64f08cc8aec506" alt="" /></p>Protests have spiraled out of control and President Rodrigo Paz is facing demands to resign.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/bolivia-crisis-social-unrest-demands-202937660.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bolivia-crisis-social-unrest-demands-202937660.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos of live music stirring back to life in Tehran as a ceasefire offers a fragile respite]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DDD6209B9117BA1D6F5067019CB7C6E84AE44917BEFC5083E509D3C1CEC9E8C8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fac2662461a3d585f28db948d23cf3183" alt="" /></p>Bands and orchestras have begun returning to the stage in Tehran, where musicians have struggled to find work since war with the U.S. and Israel broke out in late February.  The tenuous ceasefire in effect since April 8 has given Iranians a chance to attend concerts and other social gatherings.  On Thursday, more than 300 people turned out for a concert at the Tehran Contemporary Art Museum dubbed "Sounds of the South,” featuring music from southern Iran.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/photos-live-music-stirring-back-201444953.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-live-music-stirring-back-201444953.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan military chief arrives in Tehran in push to end Iran war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D740E8573A41AD69E6567CD4DB13AECF27113A5587E696A516AC774891EDE49F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd2f6b8291c701a0e5ac8ee5e8223b632" alt="" /></p>Pakistan's powerful army chief arrived in Tehran on Friday, with Islamabad mediating as the Islamic republic examines a new US proposal to end the Middle East war.Pakistan's military said in a statement that Field Marshal Asim Munir had "arrived in Tehran as part of ongoing mediation efforts".]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-military-chief-arrives-tehran-194710687.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-military-chief-arrives-tehran-194710687.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/221E984BF77024A8A5E4ACB6B200884134232D91A1384386843A90C03910B182/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F391a30f4dbcb30027891292071b98488" alt="" /></p>Pakistan’s Asim Munir is in Tehran as part of mediation efforts, as EU moves to sanction Iran over the Hormuz blockade.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/pakistan-army-chief-iran-us-191105985.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/pakistan-army-chief-iran-us-191105985.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Secretary of State Rubio sees progress in Iran talks, says more work to be done]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C3B97C1B2976C9FB28E936D642A95FEE77EC7B6AEA9937FC1E7778F8719E61B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F81b64184414e33f1c374b71b62f63bb1" alt="" /></p>By Parisa Hafezi and Michael Martina DUBAI/HELSINGBORG, Sweden, May 22 (Reuters) - The United States has seen some progress towards a deal with Iran but more work is required, Secretary of State Marco]]></description>
+            <link>https://www.yahoo.com/news/articles/pakistan-seeks-breakthrough-us-iran-065029736.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-seeks-breakthrough-us-iran-065029736.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 22 May 2026 20:53:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lula leads Flavio Bolsonaro in Brazil election poll after Banco Master scandal]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF38351906CB93198008DD528FEC9F71D8C7683A7D32D38C205C4C8A45B956B2/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1e4c7562820a7c520f15c9e70684adde" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/lula-leads-flavio-bolsonaro-brazil-185259129.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lula-leads-flavio-bolsonaro-brazil-185259129.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06E705D6F8653C7563F39E50F05CF08FC1F238214D3FB326F8111D37DA0FFCA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F122d9e930648cb4169faf030e666f7ad" alt="" /></p>US intelligence chief Tulsi Gabbard announced her resignation on Friday, ending the tenure of a long-term contrarian who appeared to be at odds with President Donald Trump over the Iran war.The experience informed her opposition to America's long foreign wars, as it did for Vice President JD Vance and Pentagon chief Pete Hegseth.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/us-intelligence-chief-tulsi-gabbard-181502026.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-intelligence-chief-tulsi-gabbard-181502026.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E34C332E2AC4267EF10A3B739FDBB2231CD098130888C6681CF0ECE80B01881/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F51daf6356afd2d9028d8921b6c4183d0" alt="" /></p>The secretary of state tempered optimism for a deal to end the Iran war, calling Iran's bid to "create a tolling system" in the Strait of Hormuz "not acceptable."]]></description>
             <link>https://www.yahoo.com/news/politics/articles/rubio-says-iran-imposing-tolls-103543594.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/rubio-says-iran-imposing-tolls-103543594.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/61A72D580182B621BDB17900A89B4D8007EDB9B1F2FF77002730B2131ABA8DAA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd39446cea37e198ffef3be2ae19474d8" alt="" /></p>Observers describe a climate in which the chances of justice in the military tribunals are slim.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/israel-october-7-tribunal-show-180447734.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/israel-october-7-tribunal-show-180447734.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/284F696B372541F09123473D71B4C98D4BCF373EB691CB8A0B4F368F402D5D2F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwnyw_fox_local_videos_385%2Fb22b7ee1e7b7e093bc444aa60b0bfe19" alt="" /></p>Tulsi Gabbard resigned as President Donald Trump's director of national intelligence on Friday, saying she needed to leave office as her husband battles cancer, becoming the fourth Cabinet member to depart during Trump’s second term.  In her resignation letter, which she posted on social media, Gabbard said she told Trump she would leave her job overseeing the coordination of 18 intelligence agencies on June 30.  “At this time, I must step away from public service to be by his side and fully support him through this battle,” she wrote in the letter, which was reported earlier by Fox News.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/US--Trump-Gabbard-173722418.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/US--Trump-Gabbard-173722418.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3C1F39D562D98C02E5463734657926C7A5A139903EDAED05AD5FA9973EF829E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F272ac50ef77b380ee16bd5eb519bebc0" alt="" /></p>Despite the united front, Russian President Vladimir Putin left Beijing without a headline deal to show.]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-china-visit-long-words-172244161.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-china-visit-long-words-172244161.html</guid>
-            <dc:creator><![CDATA[Newsweek]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1AD6441E1089A2E4A87C77E142AF8E8BC0EA16399E7F399D9397F38279889A48/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fd1a9610f7a7948f4cfeae281253496ba" alt="" /></p>The satirical "Cockroach Janta Party" calls itself a "political front of the youth, by the youth, for the youth." India's government may be trying to squash it.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/fake-political-party-led-ai-164725174.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fake-political-party-led-ai-164725174.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Fri, 22 May 2026 19:25:05 GMT</pubDate>
         </item>
         <item>
@@ -7013,42 +7046,6 @@ Starmer will automatically be a candidate if a leadership race is triggered and 
             <link>https://www.yahoo.com/news/articles/israel-strikes-lebanon-talks-us-113129852.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-strikes-lebanon-talks-us-113129852.html</guid>
             <pubDate>Fri, 15 May 2026 13:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thai lawmakers vote to revive clean air bill]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/736F3FA0BF447ABB37FE1195AE304AECF21DB2D9851C90B57A3A21EDC2157766/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F228e3f9d7e04d7a3d762a63d5d98a0bf" alt="" /></p>Thailand's parliament on Friday revived a law that would enshrine the right to breathable air and tax emitters, setting up a final vote in the senate on the landmark legislation."What a relief," Wirum Limsawart, one of the founders of Thailand's Clean Air Network, who advocated for the bill, told AFP. 
-However, he said he remains worried about attempts to block the law in the senate.]]></description>
-            <link>https://www.yahoo.com/news/articles/thai-lawmakers-vote-revive-clean-103251409.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/thai-lawmakers-vote-revive-clean-103251409.html</guid>
-            <pubDate>Fri, 15 May 2026 13:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippines will 'definitely' comply with ICC request to arrest senator, minister says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94836FE3E19BEA24CDF2C3088481AF7D6DDB16E9944B5C53ADE755DC3BD72A85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6dd5c39f330bf98046b5f6d05d9d28e0" alt="" /></p>By Nestor Corrales and Mikhail Flores MANILA, May 15 (Reuters) - The Philippine justice minister said on Friday that the country will "definitely" submit to a request from the International Criminal]]></description>
-            <link>https://www.yahoo.com/news/articles/philippines-definitely-comply-icc-request-102933429.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/philippines-definitely-comply-icc-request-102933429.html</guid>
-            <pubDate>Fri, 15 May 2026 13:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26FA5665A712319FC6400D91A78116C3524C54659C476F3D9D987828DEE8B016/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5baf22f1a8e6dff9fdd052a784ce4a1a" alt="" /></p>Africa’s top public health body on Friday confirmed a new Ebola outbreak in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far.  The deaths and suspected cases have been recorded mainly in the Mongwalu and Rwampara health zones, the Africa Centres for Disease Control ​and Prevention said in a statement.  The Ebola virus is highly contagious and can be contracted through bodily fluids such as vomit, blood or semen.]]></description>
-            <link>https://www.yahoo.com/news/articles/africa-top-health-body-confirms-071114031.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/africa-top-health-body-confirms-071114031.html</guid>
-            <pubDate>Fri, 15 May 2026 13:47:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran has 'no trust' in the US, will negotiate only if it is serious, Araqchi says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BBA02F394C6A1E270881AEF6AAC9B6F6A862EA1C0409FC1C67ED844B450FFA2/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff2ec83619898c32842463905307737ed" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-no-trust-us-negotiate-105432001.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-no-trust-us-negotiate-105432001.html</guid>
-            <pubDate>Fri, 15 May 2026 11:33:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Somali piracy on the rise as Iran war forces ships into high-risk detours]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/183610890544C2113A5CD235AE8849BEEA6FBB5398F520D96F71DB1E98BCD512/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F94337ff5742566cb7e0bc4f498aea835" alt="" /></p>Source: CNN]]></description>
-            <link>https://www.yahoo.com/news/articles/somali-piracy-rise-iran-war-103601217.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/somali-piracy-rise-iran-war-103601217.html</guid>
-            <pubDate>Fri, 15 May 2026 11:33:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
