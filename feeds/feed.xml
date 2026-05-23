@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 15:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 16:56:55 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 16:56:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US Secretary of State kicks off India visit, invites Modi to White House]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/001E3B2BDC0ED289822B53ABDA6E76ED39D34E1E5509D5F26B3984AEE615C41D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe1326ab954803129fcf80441961e912d" alt="" /></p>US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/us-secretary-state-kicks-off-155214260.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-secretary-state-kicks-off-155214260.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US adds Atlanta area airport for Ebola screening, CDC says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1227019E70757A1DA9C3D5D3267CFFED899D81B00524123A70C59E3FCCEFA701/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc8dd789a51128c3a80d9cb3ea223076d" alt="" /></p>WASHINGTON, May 23 (Reuters) - Americans coming back from the Democratic Republic of the Congo, Uganda or South Sudan now have a second entry point for returning to the United States, with the CDC on]]></description>
+            <link>https://www.yahoo.com/news/us/articles/us-adds-atlanta-area-airport-154229506.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/us-adds-atlanta-area-airport-154229506.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 500 children die in measles outbreak in Bangladesh]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/42D9F1BAC636BDD9185BFDC31BE8878009A084306EF8706368B09202131208D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F88e5c2e08a482bbc63cc99c494d46ffd" alt="" /></p>Most cases recorded by doctors among children aged between six months and five years.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-500-children-die-measles-154205535.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-500-children-die-measles-154205535.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A new kind of war': Inside Ukraine's hidden factories mass-producing combat drones]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39FCA2498972C9D32630DC95F7201318D62BB6A6C9B0CC3CFE8CE0C905F2328C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F9e70169ad358a0f59f16ae13c77d5e93" alt="" /></p>In an exclusive look inside Ukraine's hidden drone factories that are rapidly producing kamikaze drones and interceptor systems to counter Iranian-designed Shahed and other Russian drones.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kind-war-inside-ukraines-hidden-134045120.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kind-war-inside-ukraines-hidden-134045120.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 16:56:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U.S. and Iran report progress on talks ending war, looking to next few days]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21ADCD6E79FFF0BDF3D8737E92B43C7F735A0DA3EA6FBBCE71966F542F98E9F8/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5df421c654100d173b1a3c56d7043ba2" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/u-iran-report-progress-talks-144607797.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/u-iran-report-progress-talks-144607797.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/12FB78670BB649787F0C1E7E08D217AE7F6B82B34A036C7E251A09E3D4D6D047/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7b029f16fdec25157adf3ac71eb060c2" alt="" /></p>Israel struck south Lebanon on Saturday despite a ceasefire as Hezbollah said its backer Tehran had pledged not to abandon the militant group.Hezbollah has also kept up attacks on Israeli targets in south Lebanon and in northern Israel, including targeting Israeli air defence platforms across the border on Saturday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanon-says-israeli-strike-army-132939242.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-says-israeli-strike-army-132939242.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/52E2A0914E1FC8D778C5BA219635EDC47CED6D70C9F4ED286BB340788AEEF33E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2466ce8db4bc5ff9e5240c28460aa335" alt="" /></p>The death toll from a Ukrainian strike on a college and its dormitory in a Russian-occupied town in eastern Ukraine has risen to 18, Russian officials said on Saturday.The Russian army said it has repelled 407 Ukrainian drones launched through Friday night to Saturday afternoon.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-strike-college-russian-occupied-150447221.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-strike-college-russian-occupied-150447221.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F8A51F911FBB08FAF9610ABDCECFFED2301AE27B6BDBE60717A3220736C8CDF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F875ccb5ea694fa75ec06b81ad4224650" alt="" /></p>Attack on a police post in northern Gaza comes as dozens of people were wounded in Israeli attacks in the past 48 hours.]]></description>
             <link>https://www.yahoo.com/news/world/articles/five-police-officers-13-old-150030822.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-police-officers-13-old-150030822.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +74,6 @@
 The Red Cross said on Saturday that three Congolese volunteers had died in Ituri after apparently contracting Ebola there.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ebola-claims-more-lives-other-145720156.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-claims-more-lives-other-145720156.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +81,6 @@ The Red Cross said on Saturday that three Congolese volunteers had died in Ituri
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>South African activists who were detained when their boats were intercepted while trying to breach Israel's blockade of Gaza have alleged they were beaten and tortured by Israeli soldiers.  The Global Sumud Flotilla of 50 boats was intercepted in international waters some 250 miles (400 kilometers) off the coast of Israel as they sought to breach the blockade and deliver aid to Palestinians in Gaza.  According to the activists, who were welcomed by pro-Palestine supporters and their families as they arrived in South Africa from Turkey on Saturday morning, some of them were even electrocuted while being interrogated about their participation in the flotilla.]]></description>
             <link>https://www.yahoo.com/news/world/articles/south-african-gaza-flotilla-activists-144711559.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-african-gaza-flotilla-activists-144711559.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +88,6 @@ The Red Cross said on Saturday that three Congolese volunteers had died in Ituri
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/47FE87981550B58C18FFEC9B62D8B04DDE471DFB6F864346D860F1979F8ACD59/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2e8acb15685f65e5e5a831960abc1d1f" alt="" /></p>By Michael Martina, David Brunnstrom, Simon Lewis and Trevor Hunnicutt NEW DELHI, May 23 (Reuters) - U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/rubio-touts-us-energy-india-131519001.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/rubio-touts-us-energy-india-131519001.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +95,6 @@ The Red Cross said on Saturday that three Congolese volunteers had died in Ituri
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93BA71E8A3E60A31F72B6249B446F9E8A58488CFA6B379D774B6C8C3A317DC83/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F292b96421094f4d998e7eccfa8f3adc7" alt="" /></p>France on Saturday banned Israel’s far-right national security minister, Itamar Ben-Gvir, citing his "unspeakable" behavior targeting activists from a flotilla to Gaza who were detained by his police force.  “We cannot tolerate that French nationals can be threatened, intimidated or brutalized in this way — all the more so by a public official,” Barrot posted, calling on the European Union to also sanction Ben-Gvir.  The Associated Press has sought comment from Ben-Gvir's spokesperson and the office of Israeli Prime Minister Benjamin Netanyahu.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-israeli-minister-itamar-134149434.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-israeli-minister-itamar-134149434.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 15:57:11 GMT</pubDate>
         </item>
         <item>
@@ -7020,34 +7044,6 @@ The whale, dubbed "Timmy" in Germany's media, was initially]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>MOSCOW, May 16 (Reuters) - Russian troops have taken control of the settlements of Borova and Kutkivka in Ukraine's Kharkiv region, the RIA state news agency reported on Saturday, citing the Defence]]></description>
             <link>https://www.yahoo.com/news/articles/russia-says-took-control-two-091219271.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-says-took-control-two-091219271.html</guid>
-            <pubDate>Sat, 16 May 2026 09:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sierra Leone to take in hundreds of West Africans deported by US, minister says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4636C3FAA1EFE09BBF299F566079D5B86E9E8620951C329A4C7628B95FE19C9B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F75593c48c7a488ea000b0c03b8df3097" alt="" /></p>By Umaru Fofana and Robbie Corey-Boulet FREETOWN, May 16 (Reuters) - Sierra Leone has agreed to take in hundreds of West African migrants who are being deported by the United States, its foreign]]></description>
-            <link>https://www.yahoo.com/news/articles/sierra-leone-hundreds-west-africans-090858940.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/sierra-leone-hundreds-west-africans-090858940.html</guid>
-            <pubDate>Sat, 16 May 2026 09:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From the Nakba to Gaza’s ruins: One man’s lifetime of displacement]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F86D7DA1C76586F964F534A78AB9EAD8F64EB8CABE6E8BB7013CCB68D8C048F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7dac9e477431c68ee41f8b962f729b2c" alt="" /></p>Nakba survivor in Gaza recounts displacement after 1948 and 2023 and his unwavering attachment to his homeland.]]></description>
-            <link>https://www.yahoo.com/news/articles/nakba-gaza-ruins-one-man-090503131.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/nakba-gaza-ruins-one-man-090503131.html</guid>
-            <pubDate>Sat, 16 May 2026 09:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunmen kidnap dozens of students in Nigeria’s Borno State]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/41A08C06B6956D2F76ADCF82711A2FE1CBED38A38BC084C1E634E427501FD86B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F75d2e718942b440008df6377d907893c" alt="" /></p>No group claimed responsibility for the raid, which bore the hallmark of the Boko Haram group.]]></description>
-            <link>https://www.yahoo.com/news/articles/gunmen-kidnap-dozens-students-nigeria-075849548.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/gunmen-kidnap-dozens-students-nigeria-075849548.html</guid>
-            <pubDate>Sat, 16 May 2026 09:23:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Some see 'King of the North' as UK government's savior. First he needs a seat in Parliament]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83FCE1B13FA468E5207697764F526F715D134D053D42B94CC5E2EC913B139141/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6218462305b54b2ecd648bebebd1d877" alt="" /></p>Britain’s government is in turmoil and the man many think could save it isn't even eligible for the job.  Not yet, at least, though a path is now open for Andy Burnham, the popular mayor of Greater Manchester, to try to unseat beleaguered Prime Minister Keir Starmer.  Burnham would first need to return to Parliament, where he could then try to mount a challenge to Starmer's leadership.]]></description>
-            <link>https://www.yahoo.com/news/articles/see-king-north-uk-governments-041556237.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/see-king-north-uk-governments-041556237.html</guid>
             <pubDate>Sat, 16 May 2026 09:23:35 GMT</pubDate>
         </item>
     </channel>
