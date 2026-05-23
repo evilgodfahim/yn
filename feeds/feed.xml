@@ -4,16 +4,87 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 10:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 11:40:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Uganda confirms three new Ebola cases, bringing total to five]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EEB33204173CA10FB99C851FC3FD1E1B7DF58F6497D25B85AB93DB7C7494A894/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2dd8e9f4dbed92cbe134e65a53086c4f" alt="" /></p>The new cases include a driver who transported the country’s first ⁠confirmed patient and a health worker.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uganda-confirms-three-ebola-cases-113059969.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uganda-confirms-three-ebola-cases-113059969.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five policemen killed in Israeli strike on position in northern Gaza, General Directorate says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 23 (Reuters) - Five policemen were killed and several others wounded in an Israeli strike on Saturday on a police position near the Sheikh Radwan area of northern Gaza, Gaza's General Directorate]]></description>
+            <link>https://www.yahoo.com/news/world/articles/five-policemen-killed-israeli-strike-112809718.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-policemen-killed-israeli-strike-112809718.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Uganda confirms new Ebola cases, linked to DR Congo]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46A8DF3A3D6651E1D4288280A4A8B7614AE294A6430DB1F7D465D46458B82323/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F48470f30b40db7ffe7900065f2c7ed5b" alt="" /></p>Three new Ebola cases have been confirmed in Uganda, health authorities said Saturday, after the World Health Organization raised the risk from the deadly outbreak to the highest level for neighbouring Democratic Republic of Congo.On Friday, the WHO raised the risk from Ebola in the DRC to "very high".]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uganda-confirms-ebola-cases-linked-110251094.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uganda-confirms-ebola-cases-linked-110251094.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope condemns environmental harm in Italy's 'Land of Fires']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/674C4CDEBAFCCAA5542202D16157460BA1CF4CA29A400AB6DFD0E5AB61395E09/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6f1d941faa3cf93a55a0ec3367f6a924" alt="" /></p>Pope Leo XIV made a visit on Saturday to Italy's "Land of Fires", where for decades the mafia has illegally dumped and burned toxic rubbish, poisoning both people and their land.Italy's "Land of Fires", also known as the "Triangle of Death", has served as a dump and illegal incineration site since the late 1980s.]]></description>
+            <link>https://www.yahoo.com/news/science/articles/pope-condemns-environmental-harm-italys-105617290.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/pope-condemns-environmental-harm-italys-105617290.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senegal’s President Faye sacks PM Sonko and dissolves government]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7D9E5C1E7F25823D70B96B5E0BE9D4C721CC018F04057040B2349DF2D30E880/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7a466da65203d8e18e897407e4c68378" alt="" /></p>The renewed instability could complicate bailout negotiations with the International Monetary Fund.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/senegal-president-faye-sacks-pm-103541558.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/senegal-president-faye-sacks-pm-103541558.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian drone attack triggers fire at a Russian oil terminal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD8B0E642CD91AE72293C9BEB55AB9A3D11A74806187FD529C53EC6A5B415149/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3fb5ee9a999cc42c0b544ca441266cd4" alt="" /></p>A Ukrainian drone attack caused a fire at another Russian oil terminal overnight, local officials in Russia’s Krasnodar region said Saturday, in what appeared to be the latest attack on Moscow’s vital oil industry.  Russia’s Astra news outlet said Ukrainian drones struck the Sheskharis oil terminal and depot, the terminus for Russian state-controlled pipeline company Transneft’s main oil pipelines in the region.  Ukraine did not immediately comment on the attack.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukrainian-drone-attack-triggers-fire-101818831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-drone-attack-triggers-fire-101818831.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coal mine explosion in China kills 90 people, state media say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27DD762B01B8795FE54199F388C988703E1F2C1CD9B44E23818A6B4AAEFBF8B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe8ddab0c14381336296422d2c3cad6e6" alt="" /></p>The incident marks China's deadliest mining accident in years.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/coal-mine-explosion-china-kills-101531420.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/coal-mine-explosion-china-kills-101531420.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive-Ukraine's Zelenskiy says proposal of associate EU membership 'unfair']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/331DB02DC21CEC1E9F0DDDA7D6EFC5A2CADFC61ABB9EE3F93A4E6B73104C2563/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6be6a2042c4b9f6b37f7722f02642e91" alt="" /></p>By Daniel Flynn KYIV, May 23 (Reuters) - Ukrainian President Volodymyr Zelenskiy said in a letter to EU leaders that a German proposal to grant Ukraine "associate" membership of the European Union was]]></description>
+            <link>https://www.yahoo.com/news/articles/exclusive-ukraines-zelenskiy-says-proposal-073827078.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/exclusive-ukraines-zelenskiy-says-proposal-073827078.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The US-Israel War With Iran Is Tearing Iraq Apart]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8264741AAF443EB5941A451F88860FEA9362E325043D3B8D8AA7C86DE05BF374/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F5617df0d179290ad72239a4a9c9e0203" alt="" /></p>"Iraq is not outside the war. It is already part of its geography," a former adviser to the Iraqi prime minister told Newsweek.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/us-israel-war-iran-tearing-080000013.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-israel-war-iran-tearing-080000013.html</guid>
+            <dc:creator><![CDATA[Newsweek]]></dc:creator>
+            <pubDate>Sat, 23 May 2026 11:40:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pope Leo decries 'dizzying' profits earned by companies that pollute]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B35DC899C11C485B01FAB47BF14D9B5C70B3E557E60D5E987BCF94A71BAA135C/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F202f2714800cbdb2a90987727206d894" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/pope-leo-decries-dizzying-profits-091145584.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/pope-leo-decries-dizzying-profits-091145584.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +92,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>ISTANBUL, May 23 (Reuters) - The Turkish intelligence agency MIT captured 10 suspected Islamic State militants in Syria and brought them back to Turkey, the Anadolu news agency on Saturday cited]]></description>
             <link>https://www.yahoo.com/news/articles/turkey-captures-10-islamic-state-094938290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/turkey-captures-10-islamic-state-094938290.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +99,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/49554320DF5DA4EDD3ECBF06F6041E2681BD8D3B82FC5B57AD283E1C83F472C5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4835687fcbd1b58e518f3f7cde5e3a7b" alt="" /></p>May 23 (Reuters) - Uganda has confirmed three new cases of Ebola, bringing the total number of infections in the current outbreak there to five, the health ministry said on Saturday, as authorities]]></description>
             <link>https://www.yahoo.com/news/world/articles/uganda-confirms-three-ebola-cases-084942650.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uganda-confirms-three-ebola-cases-084942650.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>The remains of four Italian divers who died deep inside an underwater cave earlier this month while diving in the Maldives were repatriated early Saturday, a Maldivian government spokesperson said.  The body of their Italian diving instructor was recovered outside the cave at the time and returned home.  A high-risk operation to recover the bodies faced hurdles and was initially suspended after Mohamed Mahudhee, Madlivian, a military diver who was part of the recovery team, was killed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/remains-4-italian-divers-killed-094705054.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/remains-4-italian-divers-killed-094705054.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +113,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0265B5BD436CCA353B88B4A5AB85836056533570572DA4758B821F499430DEF7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6fab6ad0456b0d788f83b4a8633488e2" alt="" /></p>SHANGHAI, May 23 (Reuters) - A gas explosion at Liushenyu coal mine in China's northern Shanxi province late on Friday killed at least 90 people, making it China's worst coal mine disaster in over 16]]></description>
             <link>https://www.yahoo.com/news/world/articles/factbox-chinas-deadliest-coal-mine-093213667.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/factbox-chinas-deadliest-coal-mine-093213667.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +120,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D32F17E2B15376B30E857FAE5944D70C8FD489B72EB0D3F48DD5853E062CA54D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4626d8752c5bfbe4a4baa0de7a3950f8" alt="" /></p>People in southern Lebanon are living under “psychological terror” from Israeli air attacks and displacement orders.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-attacks-southern-lebanon-near-093024123.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-attacks-southern-lebanon-near-093024123.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +127,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0781022FC0D61FA4628C4418DDE0F158BA8434E35BDAB48BE2B55384D0C79B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F170c1214eed781102ad2f38f2cabb775" alt="" /></p>A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-weighs-us-peace-proposal-081638451.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-weighs-us-peace-proposal-081638451.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +134,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF1A4F3557E055E2346E61C3BD43A41FE9D133BCFD7C4EF2E53A365BFC397BCB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Feb4594ffe5e5f27e2277394189cac269" alt="" /></p>TAIPEI, May 23 (Reuters) - Hundreds of people rallied in central Taipei on Saturday in support of government plans to increase defence spending, after the opposition controlled parliament approved]]></description>
             <link>https://www.yahoo.com/news/politics/articles/hundreds-rally-taipei-defence-spending-081410071.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/hundreds-rally-taipei-defence-spending-081410071.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +141,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E573472502F35B236C3EA57B28C2728DE5E7843133C7927FAAB8C47AE18B64A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa1a68a360190f6b9d7426af85111f478" alt="" /></p>When South African infectious disease specialist Lucille Blumberg checked her email on the morning of May 1, while the country was celebrating the Labor Day holiday, an urgent message caught her attention.  A U.K.-based colleague had written about a passenger from a cruise ship sailing thousands of miles away in the Atlantic Ocean who had been evacuated and admitted to a Johannesburg hospital with suspected pneumonia.  The colleague, who monitors diseases in remote British overseas territories in the South Atlantic Ocean, asked Blumberg to follow up on the passenger, who had been evacuated from the ship in one of the territories, Ascension Island.]]></description>
             <link>https://www.yahoo.com/news/science/articles/south-african-scientists-identified-hantavirus-080431079.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/south-african-scientists-identified-hantavirus-080431079.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +148,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5346AA7D3847E32763FCBC148199D190B9FCEE82EEC808EDC3257A2A10CA6B71/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F8054ff286b9dc9020a2b5723b26b9a20" alt="" /></p>While Russia has dismissed claims it has plans to invade NATO, the alliance is rushing to prepare for the nightmare scenario.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scene-war-game-uk-respond-080000680.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scene-war-game-uk-respond-080000680.html</guid>
-            <dc:creator><![CDATA[Newsweek]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +155,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36FC5F743746FF2BDD983BCD64631C04720F82A8DAF860BC9A1CE13A517BE65C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4bb59d14ca3e96e0afc9e5306121fdcd" alt="" /></p>Pope Leo XIV on Saturday greeted one by one families who lost loved ones to illegal toxic dumping in an area near Naples, as many paused to share photographs and other mementos of children and young people who have died or are battling cancer — illnesses tied to a multi-billion criminal racket run by the mafia.  Leo's visit to the so-called Terra dei Fuochi, or Land of Fires, came on the eve of the 11th anniversary of Pope Francis’ big ecological encyclical Laudato Si (Praised Be), and indicates Leo’s commitment to carry on his predecessor’s environmental agenda.  “I have come first of all to gather the tears of those who have lost loved ones, killed by environmental pollution caused by unscrupulous people and organizations who for too long were able to act with impunity,” Leo said in remarks to family members and local clergy inside Acerra's cathedral.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pope-leo-visits-italys-land-064614188.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-leo-visits-italys-land-064614188.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +162,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/549F4C90BDE570821415BD50632AA9306F4CDC8BE1E87DC3D865D7B8FFC2F8C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7daef292cbeec25b5836d30c979fefdc" alt="" /></p>Russian President Vladimir Putin is running out of time to win his war against Ukraine, amid a stalemate on the battlefield and growing troubles at home, an Estonian intelligence chief has told CNN.]]></description>
             <link>https://www.yahoo.com/news/world/articles/time-not-russia-favor-battlefield-040008903.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/time-not-russia-favor-battlefield-040008903.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 23 May 2026 10:10:45 GMT</pubDate>
         </item>
         <item>
@@ -6989,69 +7049,6 @@ Al-Saadi is most recently alleged to have plotted attacks in the United States a
             <link>https://www.yahoo.com/news/articles/could-king-north-andy-burnham-202359176.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/could-king-north-andy-burnham-202359176.html</guid>
             <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mother recounts horrors of brutal Chinese detention camp where infant son died]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A023B0E499F8EB927B7A7855C96E7B14139725AC0DD76E09B8C099B804C7EB9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc76a97b4b40948db8a878c3d9b6f4709" alt="" /></p>Uyghur mother Mihrigul Tursun recounts years of alleged detention, torture and family separation in China's Xinjiang camps in emotional testimony.]]></description>
-            <link>https://www.yahoo.com/news/articles/mother-recounts-horrors-brutal-chinese-192949886.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mother-recounts-horrors-brutal-chinese-192949886.html</guid>
-            <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO officials explain ‘high risk’ hantavirus classification]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AC677E2EE9D14CB8CE482F51098420EB62F6014983DFDE9E148A9D4E4925557/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff36ee0feb042ce649ad937568d9ee3a0" alt="" /></p>Officials with WHO are explaining their decision to classify every patient on board the MV Hondius as a “high risk contact."]]></description>
-            <link>https://www.yahoo.com/news/articles/officials-explain-high-risk-hantavirus-184507719.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/officials-explain-high-risk-hantavirus-184507719.html</guid>
-            <pubDate>Fri, 15 May 2026 21:52:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Factbox-The 1996 incident at the root of expected Raul Castro indictment]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50A3E92EF004FE89E575E3091AFBC60F29E1D6A87A98A2EA99D4733372037A6D/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F43a7f14b4450e0c88b0c3c08d4b0f3de" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/factbox-1996-incident-root-expected-203143376.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/factbox-1996-incident-root-expected-203143376.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US plans to unveil criminal charges against Raul Castro next Wednesday, official says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C26CC522B5DD22543821826CF736CC3ADC43A7E984DCAE8AA1525DDB794E9F39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9d8d0ec8c79acf5288ac74e614a72845" alt="" /></p>By Jana Winter and Andrew Goudsward May 15 (Reuters) - The Trump administration plans to announce criminal charges against former Cuban president Raul Castro next Wednesday, according to a U.S.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-plans-unveil-criminal-charges-201432414.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-plans-unveil-criminal-charges-201432414.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada takes key step towards new oil pipeline]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83081BCAA3A1F339CE491FE9BFEA34173CC1CED702FF0698EA07D13D9FA83619/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7116bfea6ab5877e5c25611209bb3ac5" alt="" /></p>Prime Minister Mark Carney and the leader of Canada's oil‑rich Alberta province took a major step Friday toward building an oil pipeline that could substantially increase crude exports to Asia.The leader of the left‑wing New Democratic Party, Avi Lewis, charged that Friday's announcement "marks the Carney government's official surrender to the oil and gas lobby."]]></description>
-            <link>https://www.yahoo.com/news/articles/canada-takes-key-step-towards-190328063.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canada-takes-key-step-towards-190328063.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oscar-winning Iranian director Farhadi calls crackdown, war deaths 'deeply painful']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1A7A8B7745608B7B3377933CD69C9DB0988C0B1ABCCEA166DF37677A383E324/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4d6b3290ed70b1dd45e7636bbd5a76f6" alt="" /></p>CANNES, France, May 15 (Reuters) - Asghar Farhadi, director of the first Iranian film to win the Oscar for best foreign language movie, on Friday described as deeply painful the deaths of thousands of]]></description>
-            <link>https://www.yahoo.com/news/articles/oscar-winning-iranian-director-farhadi-195005944.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/oscar-winning-iranian-director-farhadi-195005944.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan’s Fatima Sana breaks world record for fastest 50 in women’s T20]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F126E40FEA43003EB95595B8ADFE67FE34FF8F6DDAD86B6DF3353B391E821FA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F802073c0b6dab2a930bb53c16e24e521" alt="" /></p>Pakistan captain Sana scored 50 off 15 balls in a match-winning innings against Zimbabwe in Karachi.]]></description>
-            <link>https://www.yahoo.com/news/articles/pakistan-fatima-sana-breaks-world-194408585.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/pakistan-fatima-sana-breaks-world-194408585.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seven killed in Gaza as Israel says it targets Hamas leader]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30ECA2642E49DEB8DFC25F7D64701B4BB4359701A352229E9E40C7C07EDF10ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd732d42afc3115d015298f4cd3bc4f5c" alt="" /></p>By Dawoud Abu Alkas, Rami Ayyub and Nidal al-Mughrabi GAZA/JERUSALEM/CAIRO, May 15 (Reuters) - Gaza medics said Israel killed at least seven Palestinians, including a child, in airstrikes on Friday]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-targets-head-hamas-armed-173526694.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-targets-head-hamas-armed-173526694.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prosecutors seek death penalty for US man charged with killing Israeli embassy staffers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C7D2768DC736DACC550E151A6CCB31954FA97DF6A536293F452F0BF633D944E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F01ac8917c051771ea222cc5a37b938cd" alt="" /></p>Prosecutors said Friday that they will seek the death penalty for a Chicago man charged with fatally shooting two Israeli embassy staffers in the US capital last year.US Attorney Jeanine Pirro said in a court filing that prosecutors will seek the death penalty for Rodriguez, who faces murder, firearms and hate crime charges.]]></description>
-            <link>https://www.yahoo.com/news/articles/prosecutors-seek-death-penalty-us-190952055.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/prosecutors-seek-death-penalty-us-190952055.html</guid>
-            <pubDate>Fri, 15 May 2026 20:38:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
