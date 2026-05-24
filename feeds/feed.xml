@@ -4,16 +4,32 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 14:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 15:56:30 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 15:56:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Three months of classes held online in Iran because of the war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39538019B0F829953223EE34607699E3597B4D8B50B9E8D33727C59D95C27258/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc3c27a51902e7f2970cd47aecea055fe" alt="" /></p>Every afternoon since Iran's war with the United States and Israel erupted, Sarah has sat with her seven-year-old son for online classes.Neither the United States nor Israel officially claimed responsibility, but a New York Times investigation concluded that a US Tomahawk cruise missile hit the elementary school.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/three-months-classes-held-online-150705402.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-months-classes-held-online-150705402.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 15:56:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers search for 20 missing after Philippine building collapse]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33CE1FF32D7B4D3344070A2A45ABE66D8203CD1098DE95E2511E0149ADBA4DC9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F55b34689c0a15a2ddd85da44198947e7" alt="" /></p>Rescuers were racing on Sunday to free two workers pinned under a building that collapsed in the northern Philippines, killing a Malaysian man and leaving 20 people missing.The man, from Malaysia's northern Sabah state, had managed to communicate with rescuers by phone while pinned under a hotel wall shortly after the collapse at 3:00 am Sunday (1900 GMT Saturday), acting Philippine fire chief Rico Kwan Tiu told AFP.
+"Unfortunately, when we retrieved him just now, he was already lifeless," he ad]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rescuers-search-20-missing-philippine-130228459.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-search-20-missing-philippine-130228459.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 15:56:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bahrain jails nine defendants for life for ‘cooperating’ with Iran’s IRGC]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC6B04D0C4F6A48E7A758E63AF84B11772CDF702B62E55C244A7C5DF6BC75CC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6932f1fe5dad7a6e5e1a3d38e044c393" alt="" /></p>Convictions come amid an intensified crackdown by Bahraini authorities on individuals accused of having ties to Tehran.]]></description>
             <link>https://www.yahoo.com/news/world/articles/bahrain-jails-nine-defendants-life-141650084.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bahrain-jails-nine-defendants-life-141650084.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +37,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/117F145B27BA89FE3A0C69AE1286A7773490CD713D66D01E573C49CF08E8B7CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7a15153b119b7a4366071051efc5445b" alt="" /></p>France bans the Israeli far-right minister after his ‘unspeakable’ behaviour against arrested Gaza flotilla activists.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-ben-gvir-other-140127519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-ben-gvir-other-140127519.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE53755799C40D46C5D9CABC6D892BAE5C006E402A3DD1C0A62751B163E2DC5B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Faa2b870593a350c7977b165f847ebd27" alt="" /></p>As millions of Muslims gather in Mecca, Palestinians in Gaza face a third year of heartbreak as Israel has shut border.]]></description>
             <link>https://www.yahoo.com/news/world/articles/third-row-israel-blocks-hajj-140023235.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/third-row-israel-blocks-hajj-140023235.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8087B33784B3369B4A3A94118AB02011C1BAD76EF5C2D8F7CA4F529C6C9B5CD0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fed74cdff3096ea097ed9fb7b6f2fc469" alt="" /></p>With no food aid, 65-year-old Saeedah Mohammed heads out with a plastic bag to pick tree leaves near her displacement camp in southern Yemen, before serving them to her grandchildren to stave off hunger.So now she gathers leaves and slips them into her plastic bag.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemen-family-deprived-aid-reduced-125341203.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-family-deprived-aid-reduced-125341203.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C4014F9F43B559E964FE49FBDC3512A26A3D00E94961B09737F4992769FB5BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F0a27510c09cea1e7b8d92f2d3ffe1455" alt="" /></p>Prime Minister Shehbaz Sharif called the attack a "cowardly act of terrorism" on social media.]]></description>
             <link>https://www.yahoo.com/news/world/articles/24-killed-dozens-more-injured-121732354.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/24-killed-dozens-more-injured-121732354.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +66,6 @@
 A key sticking point in the talks is traffic through the Strait of Hormuz, a vital global conduit for oil shipments that has come under Iranian control since the outbreak of the war.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/possible-iran-us-deal-know-120947109.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/possible-iran-us-deal-know-120947109.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +73,6 @@ A key sticking point in the talks is traffic through the Strait of Hormuz, a vit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/202094642DDC03277D066C49BF83488B5AF01A06A8866D28FEF4EF42979C47EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fd9cf6f50ae9b607953735fa5c6a124ae" alt="" /></p>“Final aspects and details of the deal are currently being discussed and will be announced shortly," Trump said.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/potential-60-day-ceasefire-table-115520367.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/potential-60-day-ceasefire-table-115520367.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sun, 24 May 2026 14:47:09 GMT</pubDate>
         </item>
         <item>
@@ -7036,20 +7046,6 @@ The USS Gerald R. Ford aircraft carrier, dispatched to the Middle East ahead of 
             <link>https://www.yahoo.com/news/articles/man-dies-attack-13-foot-224957793.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/man-dies-attack-13-foot-224957793.html</guid>
             <pubDate>Sun, 17 May 2026 06:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US Treasury allows sanctions waiver on Russian seaborne oil to lapse]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/UImuJX2lfrjrOeS4sP0e2A--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/6a381e9e121bfb5bd512a878aec4246d.cf.webp" alt="" /></p>May 16 (Reuters) - The Trump administration on Saturday allowed a sanctions waiver to lapse that had previously allowed countries including India to buy Russian seaborne oil after a month-long]]></description>
-            <link>https://www.yahoo.com/news/articles/us-treasury-allows-sanctions-waiver-190749133.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-treasury-allows-sanctions-waiver-190749133.html</guid>
-            <pubDate>Sun, 17 May 2026 06:00:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela expels Maduro ally Alex Saab to US again]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2AF64D7AD95E4911D8707B5668B4A7F495265ACF45272EBB541830A2CEB72B73/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe9f5bd685ad768659c367aa53001aa9a" alt="" /></p>Source: AFP]]></description>
-            <link>https://www.yahoo.com/news/articles/venezuela-expels-maduro-ally-alex-004140674.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuela-expels-maduro-ally-alex-004140674.html</guid>
-            <pubDate>Sun, 17 May 2026 02:26:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
