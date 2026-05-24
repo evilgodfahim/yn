@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 19:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 20:29:55 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 19:05:36 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Possible fissure in California chemical tank may help prevent explosion, fire official says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43A9C6961715819EBCADAFD3D8195EEEAFEC1F0DA55EE4E82DFF2609C733AAE6/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc4bc95d0e866d485a4516371a9f04e58" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/possible-fissure-california-chemical-tank-200604657.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/possible-fissure-california-chemical-tank-200604657.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill six in southern Lebanon amid fresh evacuation orders]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3CDEEE3476DAF74262EC9D31D90290631A2962F17242318FDB484D632C560910/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2168e9fe8c7454ce97464390fedb6889" alt="" /></p>Israel’s attacks in southern Lebanon are expanding despite supposed ceasefire.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-strikes-kill-six-southern-190933215.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-strikes-kill-six-southern-190933215.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkey riot police use tear gas to take opposition party HQ]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16025D8C42E7AD020D0AE459E9512D1F81007C0A6B09B11B297F00D12DBA2D46/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fde1ac7eaa511c6d18249420c9082b790" alt="" /></p>Hundreds of Turkish riot police firing teargas forced their way into the Ankara headquarters of the country's main opposition party on Sunday, days after a court had dismissed its leadership, AFP journalists saw."They stormed our headquarters, used tear gas, beat us with batons, ransacked the party (building) and threw us out," Ozel told AFP on Sunday evening.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/turkey-riot-police-tear-gas-183457305.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/turkey-riot-police-tear-gas-183457305.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shark kills spearfisher in front of friends: "Terrifying thing to see"]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/101AF30C9AA0339BC95B4FB965A52A1A2936D3E1784C805896261C040214BF78/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fc2b99279d4f130c0175b64293a3d17e5" alt="" /></p>A spearfisher was killed on the Great Barrier Reef on Sunday in Australia's second fatal shark attack in just over a week, police said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/shark-kills-spearfisher-front-friends-182624092.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shark-kills-spearfisher-front-friends-182624092.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria's Tinubu to run for second term after party primary win]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7555605F6AFD0988ED93717A2C0CF8BD5A3C96C2C03E547CD6977922A85FF04B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0b67b89224c7a262e774f958bb7e39fe" alt="" /></p>LAGOS, May 24 (Reuters) - Nigeria's President Bola Tinubu will seek a second and final four-year term in January after overwhelmingly defeating a little-known challenger in ruling party primaries,]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nigerias-tinubu-run-second-term-175211432.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerias-tinubu-run-second-term-175211432.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 24 May 2026 20:29:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forensic experts sift through ruined dormitory in Russian-held Luhansk region]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EE3DBCB5DE877043336F59876964EBA48354BC9E76C92D49E0BDA63541DAC954/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F09f52d9d902a0816e884fcfca3c0e4f3" alt="" /></p>STAROBILSK, Russian-controlled Ukraine, May 24 (Reuters) - - Forensic experts on Sunday sifted through the ruins of a dormitory largely destroyed in what Russian authorities say was a Ukrainian drone]]></description>
             <link>https://www.yahoo.com/news/world/articles/forensic-experts-sift-ruined-dormitory-185829699.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/forensic-experts-sift-ruined-dormitory-185829699.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 24 May 2026 19:05:36 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/873A860B85AC077A5ED44AE2FD1DFF573B488BBEE6658383231CD97D7C7DA989/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3bb9b89b1fb193f3af840d4f5b9756b5" alt="" /></p>May 24 (Reuters) - U.S. lawmakers appearing on Sunday morning talk shows split sharply over a potential deal to end the Iran war, with Republicans mostly backing the publicly reported contours of an]]></description>
             <link>https://www.yahoo.com/news/politics/articles/possible-deal-iran-divides-us-170841283.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/possible-deal-iran-divides-us-170841283.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 24 May 2026 19:05:36 GMT</pubDate>
         </item>
         <item>
@@ -7009,41 +7047,6 @@ Jibril Rajoub was reelected as the secretary-general of the committee, keeping t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6C8C8AC2B2A81E2264C9C97410B3C69A70C6075373F4B2E3B30120FB8F5D36B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F18fac7205115f7011aa17044ca304380" alt="" /></p>MOSCOW, May 17 () - At least four people were killed in a major Ukrainian drone ‌attack on Russian regions, including Moscow, which ‌faced its largest assault in more than a year. Three people died ​in the Moscow region and one in the Belgorod region, authorities said on Sunday.]]></description>
             <link>https://www.yahoo.com/news/articles/least-three-died-ukraine-drone-044324383.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/least-three-died-ukraine-drone-044324383.html</guid>
-            <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola outbreak worsens in Central Africa, but not pandemic: WHO]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B59611059D84BBF98C97C08CC22BFE62FCD3868C0AE4CB1E4496B16966A7ACC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F05695ff3fdd8633912eef38a11600a4a" alt="" /></p>The DRC health ministry said on Friday that 80 people had died in the new outbreak in the eastern province.]]></description>
-            <link>https://www.yahoo.com/news/articles/ebola-outbreak-worsens-central-africa-044557664.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ebola-outbreak-worsens-central-africa-044557664.html</guid>
-            <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO declares global health emergency over Ebola outbreak in Congo and Uganda]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/42BE2151A7332C3B3B4E2D86EEA97E4A95ED449182808CDCE849D0231E56D17C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F16bb04cb53d4d931d33f4df8d8e3d3fc" alt="" /></p>WHO Director-General Tedros Adhanom Ghebreyesus declared the Ebola disease outbreak in Congo and neighboring Uganda a public health emergency of international concern on Sunday after more than 300 suspected cases and 88 deaths.  In a post on X, the World Health Organization said the outbreak does not meet the criteria of a pandemic emergency like the COVID-19 pandemic, and advised against the closure of international borders.  WHO said a laboratory-confirmed case has also been reported in Congo’s capital of Kinshasa, which is about 1,000 kilometers (620 miles) from the outbreak's epicenter in the eastern province of Ituri, suggesting a possible wider spread.]]></description>
-            <link>https://www.yahoo.com/news/articles/declares-global-health-emergency-over-043843920.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/declares-global-health-emergency-over-043843920.html</guid>
-            <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Top Asian News 7:01 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Recent comments by U.S. President Donald Trump that arms sales to Taiwan are a “very good negotiating chip” in the United States’ dealings with China are heightening anxieties on the island democracy that Beijing claims as its own.  Trump made the comment in a Fox News interview with Bret Baier that aired right after the U.S. president wrapped up a high-stakes visit to China on Friday.]]></description>
-            <link>https://www.yahoo.com/news/articles/top-asian-news-7-01-040000626.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/top-asian-news-7-01-040000626.html</guid>
-            <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Headlines at 7:24 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/middle-eastern-headlines-7-24-040000150.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/middle-eastern-headlines-7-24-040000150.html</guid>
-            <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Asian Headlines at 7:01 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/articles/asian-headlines-7-01-m-040000494.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/asian-headlines-7-01-m-040000494.html</guid>
             <pubDate>Sun, 17 May 2026 08:26:55 GMT</pubDate>
         </item>
     </channel>
