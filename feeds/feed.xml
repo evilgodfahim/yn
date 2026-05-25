@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 21:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 22:53:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 22:53:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Canada demands Israel probe 'appalling' treatment of flotilla members]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82801C4386DDA3109F218BB78EEDB33DB2CA7E0E9BB3A47DB9A6EB2ADE2F3248/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa6e1590ab7a3d8f35275d06365b089c5" alt="" /></p>OTTAWA, May 25 (Reuters) - Canadian Prime Minister Mark Carney on Monday told Israeli President Isaac Herzog that the treatment of activists detained by Israel had been "appalling" and described the]]></description>
+            <link>https://www.yahoo.com/news/articles/canada-demands-israel-probe-appalling-220424627.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canada-demands-israel-probe-appalling-220424627.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 22:53:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Explosions heard in Iran, Mehr says Bandar Abbas situation under control]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, May 25 (Reuters) - Explosions were heard in Iran's Bandar Abbas city and coastal areas near the Strait of Hormuz, Iranian media reported on Monday, adding that the cause was unknown.]]></description>
             <link>https://www.yahoo.com/news/articles/explosions-heard-iran-cause-unknown-205604918.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/explosions-heard-iran-cause-unknown-205604918.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>HAVANA, May 25 (Reuters) - Cuba on Monday published a complete list of prisoners released as part of an amnesty announced last month, at a time of tense negotiations between the island's government]]></description>
             <link>https://www.yahoo.com/news/articles/cuba-publishes-list-prisoners-released-205629290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-publishes-list-prisoners-released-205629290.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BCB722B0AC7D9200796CCEDE522166547DD6F2BA31909AD2564D033239499569/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Faf45f043fe5a8dd33206b41f7f4a377a" alt="" /></p>Prime Minister Netanyahu’s order comes despite ‘ceasefire’ agreed with Lebanon last month, which was recently extended.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-intensify-lebanon-offensive-bid-204928100.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-intensify-lebanon-offensive-bid-204928100.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BAD860E77A679DB2E186703B6B91307EEE0905BA56A2589AA36B458FDBD17682/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Fc3e9b3f1637c5b14a9bf1a267e014f85" alt="" /></p>The pressure campaign against Japan shows economic statecraft is now a central tool in Beijing's arsenal, an analyst says.]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-targets-trump-top-ally-202159839.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-targets-trump-top-ally-202159839.html</guid>
-            <dc:creator><![CDATA[Newsweek]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD3FC084F8CA1F922C847F1EA268C299F72C36CEFFEE73771596663C587739F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe980965fe2ef01555d27237f79bef3bb" alt="" /></p>Canadian Prime Minister Mark Carney on Monday compared Alberta's plans to consider separating from Canada to Brexit, calling it "dangerous" and suggesting people may not appreciate the consequences of their vote.That is a very dangerous bluff," the prime minister said.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/canada-pm-compares-dangerous-alberta-201225232.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/canada-pm-compares-dangerous-alberta-201225232.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4719F428E888519C140FBEF9C9EC7E20F4F6AADF3BDAF1CBB5D106CB5832DBF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7375c4c7e6d8941d059404d5580dbea4" alt="" /></p>The Israeli army intensified strikes in southern Lebanon on Monday, as Israeli Prime Minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in Lebanon in an effort to "crush" Hezbollah.The Israeli military also announced on Monday that a soldier had been killed the previous day in southern Lebanon.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-strikes-southern-lebanon-far-184702693.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-strikes-southern-lebanon-far-184702693.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26FB024CFDEC45B564FD727B7D783D3562E696A16E4BA20A4C29C421711D54F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5925255140591fde9bfae1373c26ce84" alt="" /></p>DEIR AL-BALAH, Gaza Strip (AP) — A Palestinian woman and a young girl were killed in an Israeli airstrike in southern Gaza on Monday, hospital authorities said.  The strike hit a tent sheltering a displaced family in the area of Muwasi, on the western side of Khan Younis, according to the Kuwait field hospital, which received the casualties.  The fatalities were the latest among Palestinians in the coastal enclave since an October ceasefire deal attempted to halt a more than two-year war between Israel and the Palestinian militant Hamas group in Gaza.]]></description>
             <link>https://www.yahoo.com/news/world/articles/palestinian-woman-young-girl-were-184334532.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-woman-young-girl-were-184334532.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24516BA197FA3F66763BA4B3AFCA6D1B296A3366B5880DA5008060AA0D40EC15/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F54d4bfc1f587a9d3b5dcbf86071c295e" alt="" /></p>The pope unveils "Magnifica Humanitas" encyclical, warning artificial intelligence risks becoming a tool of domination unless governments set moral limits.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pope-leo-warns-ai-risks-183110807.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-leo-warns-ai-risks-183110807.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
         </item>
         <item>
@@ -7041,13 +7041,6 @@ On Sunday, the WHO declared the outbreak a "public health emergency of internati
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24929C75CBD40E8DB762A0F3B133407E97EB44B9F46335FD5E496D8CEB74B076/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F17c276830e7e2e3130e163c58af7cf71" alt="" /></p>By Timour Azhari RIYADH, May 18 (Reuters) - Syria will take part in a closed-door session with G7 finance ministers and central bank governors in Paris on Monday, a person familiar with the matter]]></description>
             <link>https://www.yahoo.com/news/articles/syria-join-g7-finance-talks-085216608.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/syria-join-g7-finance-talks-085216608.html</guid>
-            <pubDate>Mon, 18 May 2026 13:38:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippines swears in senators for VP Duterte's impeachment trial]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2BA495275BB8F88073922BE353995E500EC8AFC9BEB590A55FF3E725D7ACB819/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6e5928e4828a6f4c03a2713f79a302e8" alt="" /></p>Philippine lawmakers were on Monday sworn in to serve as judges in the trial of impeached Vice President Sara Duterte, the second attempt since last year to force her from office.Under the Philippine constitution, an impeachment triggers a trial in the Senate, where a guilty verdict on any of the charges would see her removed and banned from elected office for life.]]></description>
-            <link>https://www.yahoo.com/news/articles/philippines-swears-senators-vp-dutertes-084708717.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/philippines-swears-senators-vp-dutertes-084708717.html</guid>
             <pubDate>Mon, 18 May 2026 13:38:39 GMT</pubDate>
         </item>
     </channel>
