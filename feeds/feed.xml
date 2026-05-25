@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 18:57:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 20:21:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Senegal president names economist Lo as prime minister]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D80DC50E0842C3D7C3AD48B8789D0434B4E9912D5BF01B89443A94AD6E09CDB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8c6e8d9990c9eeb852766e7fb1814b87" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/senegal-president-names-economist-lo-201056660.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/senegal-president-names-economist-lo-201056660.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish citizen evacuated from hantavirus-hit cruise ship tests positive]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20949404A48D872E0799AF96B2B4633E06A1AAE146E43C49F987AB32C51D2D8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fe96a01f89be84b3708bb8ecdb41f0b21" alt="" /></p>A Spanish national who was evacuated from the cruise ship MV Hondius and is isolating at a hospital in Madrid has tested positive of hantavirus, Spain’s Ministry of Health said Monday.]]></description>
+            <link>https://www.yahoo.com/news/science/articles/spanish-citizen-evacuated-cruise-ship-182856878.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/spanish-citizen-evacuated-cruise-ship-182856878.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meloni coalition wins Venice mayoral vote, defying polls]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11ED9E019F7C20F97B2063F68C45F32034BFB028E2B2AB66F7A06D031739B07C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1065f966f7fe9ec79855496d0ab24c4" alt="" /></p>By Angelo Amante ROME, May 25 (Reuters) - Prime Minister Giorgia Meloni's right-wing coalition won the Venice mayoral election, projections showed on Monday, retaining control of the most prominent]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/meloni-coalition-wins-venice-mayoral-184006629.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/meloni-coalition-wins-venice-mayoral-184006629.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran says obstacles remain, but acknowledges deal taking shape with U.S.]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D05E45AAA4D38077675203DD408828F87A2CFFF3B19915DB7DEAFB8CA0C321B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F4ff144ff99fd7877456ee1ff4ccbeec5" alt="" /></p>As the Trump administration signals hope for a possible deal, Iran says obstacles linger, and "frequent changes" in U.S. positions aren't helping.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/iran-says-obstacles-remain-acknowledges-111112690.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/iran-says-obstacles-remain-acknowledges-111112690.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/15431B0C2B72DBC52B2EB9B8A6A8E75AEB483161FB91CC1BB3C006CADA678860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffa554db2e6603faaae3a1e1f14d52ce2" alt="" /></p>Bolivian President Rodrigo Paz said Monday he would slash his salary and that of his ministers by 50 percent to try to end weeks of anti-government protests."This president has made the decision, as part of his efforts and commitment to the country, to reduce his salary by 50 percent," Paz announced in the southeastern city of Sucre.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/bolivian-leader-slash-own-salary-183126782.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bolivian-leader-slash-own-salary-183126782.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08BFF43F4A66132DF33AD9706778057EFF194A3477A776579DA84254FE73E26B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F903b98e1c797669c3af146720852685e" alt="" /></p>Paz says the salary cut for him and cabinet ministers shows the government’s ‘commitment’ to the country’.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/bolivia-embattled-president-says-50-183109909.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bolivia-embattled-president-says-50-183109909.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BRUSSELS, May 25 (Reuters) - A fire at a textile warehouse in a town southwest of Brussels that prompted the evacuation of several streets on Monday was almost put out early in the evening and the]]></description>
             <link>https://www.yahoo.com/news/articles/residents-belgian-town-evacuated-due-140400769.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/residents-belgian-town-evacuated-due-140400769.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/149992C1B32C9E214E33EAF232DF34B6133095160A0E239E134FD8212B5C8C14/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F888fd59b859ff5a0b6b91749f74b1996" alt="" /></p>MADRID, May 25 (Reuters) - A Spanish national in quarantine in a Madrid military hospital, who is among those evacuated from a cruise ship earlier this month, has tested positive of hantavirus,]]></description>
             <link>https://www.yahoo.com/news/world/articles/spanish-national-evacuated-hantavirus-cruise-181802486.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spanish-national-evacuated-hantavirus-cruise-181802486.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6FB672743F1333B7FAFD09076EDC05B31D436371EA8BCC416A223F7ACE0E881/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9ef37bbde108cb5324bc6146a6b47d32" alt="" /></p>A leftist figure allied with President Gustavo Petro, a right-wing millionaire lawyer who champions the tough-on-crime approach and a conservative opposition senator are the frontrunners in Colombia's presidential elections on Sunday.The philosopher, lawyer and reformist member of Colombia's main opposition party considers Uribe her "father."]]></description>
             <link>https://www.yahoo.com/news/world/articles/leftist-icon-millionaire-lawyer-conservative-180511465.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/leftist-icon-millionaire-lawyer-conservative-180511465.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FB4A4399534938686785D87BBB3CB9B68AD568435826088B16486B76323F3898/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fefb0d7059ffb8da9ce2bb055e262b7e4" alt="" /></p>May 25 (Reuters) - President Volodymyr Zelenskiy said on Monday that Ukraine had made little progress in talks with the United States on expanding production of missile defences and was working with]]></description>
             <link>https://www.yahoo.com/news/articles/zelenskiy-little-progress-talks-u-173736603.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskiy-little-progress-talks-u-173736603.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B4D541EC71ADB3BF1ECEE407081F6709298B9855C42672B6AC798A5FBFF481B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa7ca0dc9cad73864e0deaa3f7ac0c87b" alt="" /></p>Analysts warn Netanyahu is exploiting a failing “ceasefire” to prolong the destruction of Gaza ahead of Israeli election]]></description>
             <link>https://www.yahoo.com/news/politics/articles/israel-escalates-gaza-attacks-netanyahu-174609231.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/israel-escalates-gaza-attacks-netanyahu-174609231.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +93,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/274F0BBA56725813DFC3A1FBD920D0C83DEBAA34026ADD4FC1EE48C3A05898C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3b7da5f335e934f2645a94b8edfe7d88" alt="" /></p>Lawyer convicted for the second time this year as President Saied’s crackdown on dissent intensifies.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tunisian-court-hands-presidential-critic-173948758.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tunisian-court-hands-presidential-critic-173948758.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +100,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF730722F40BA412391C27C2294007454C800D05F8AD3ACB51B56F11114A1DEB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F96511f453337eab22add97a8be672630" alt="" /></p>Every time Vanny Birungi, a volunteer with the Red Cross in eastern Congo, goes out to raise awareness about the latest Ebola outbreak as suspected cases near 1,000, she faces a double threat.  One is the rare Bundibugyo type of Ebola, with no vaccine or treatment.  The other is the anger and suspicion of residents who have pelted her with stones and verbal abuse in Bunia, a city at the heart of the outbreak.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rare-ebola-outbreak-one-danger-165945052.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rare-ebola-outbreak-one-danger-165945052.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +107,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC46C689C3FA880EE2764BCEAE2A5B98DAC3B48E7B259D9348A3925E0D979328/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Fb3e49ca27b61aa42f9d01d99217aa088" alt="" /></p>The influencer referred to a federal probe into his visit to the Caribbean island.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/hasan-piker-says-boy-cuba-164731145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/hasan-piker-says-boy-cuba-164731145.html</guid>
-            <dc:creator><![CDATA[Newsweek]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +114,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDF2C1EF43CC9EB5A6010EA14455623176000615FA570DEBB0DDA6C80099BF22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fae51626cdbcc9834e6476cd02d20c886" alt="" /></p>LONDON, May 25 (Reuters) - A former senior cleric in the Russian Orthodox Church said on Monday that Czech police had found small containers of a white substance in his car during a search a day]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-orthodox-cleric-denies-white-141509790.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-orthodox-cleric-denies-white-141509790.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +121,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2BB356AAC9BAB0C4DA2F6E5ABB6637C48467398DFA79E1EAFF76061D33AA2D9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff271ca46602559666a8879bc99cfafea" alt="" /></p>At a busy Beirut centre, migrant volunteers stirred pots of okra soup and shaped balls of the African staple fufu, keeping food coming for those caught between the latest Israel-Hezbollah war.Across the city in a suburb of Beirut, kitchen shelves were stacked with sauces and tins crowded the walls as volunteers prepared green beans and fried rice balls.]]></description>
             <link>https://www.yahoo.com/news/world/articles/migrants-step-support-community-war-162704261.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/migrants-step-support-community-war-162704261.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
         </item>
         <item>
@@ -7032,27 +7043,6 @@ On Sunday, the WHO declared the outbreak a "public health emergency of internati
             <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/Gh7F4e.OecuP_r00oqOwOQ--~B/Zmk9c3RyaW07aD01MDQ7cT05NTt3PTg5NjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/al_jazeera_289/c8bf5fa5260014994832f0c8f037bf2b.cf.webp" alt="" /></p>More than 50 vessels departed from the Turkish port city of Marmaris last week.]]></description>
             <link>https://www.yahoo.com/news/articles/israeli-forces-intercept-gaza-bound-082322787.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israeli-forces-intercept-gaza-bound-082322787.html</guid>
-            <pubDate>Mon, 18 May 2026 09:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Norway joins EU's Baltic Sea Region cooperation amid greater security focus]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/_puub5RFE3V8GS8miEiyHw--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/b2268a38fb60580203ff3e0fad979855.cf.webp" alt="" /></p>OSLO, May 18 (Reuters) - Norway said on Monday it has joined the European Union's Strategy for the Baltic Sea Region (EUSBSR), which aims to coordinate work around common challenges, including]]></description>
-            <link>https://www.yahoo.com/news/articles/norway-joins-eus-baltic-sea-081913234.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/norway-joins-eus-baltic-sea-081913234.html</guid>
-            <pubDate>Mon, 18 May 2026 09:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Revised Iranian proposal to end war shared with US, Pakistani source says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/SFY.TJbdmzESIn_oaylk3g--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/4099194f53ed5956243c4ca8b404eb68.cf.webp" alt="" /></p>ISLAMABAD, May 18 (Reuters) - Pakistan has shared with the U.S. a revised proposal from Iran to end the conflict in the Middle East, a Pakistani source told Reuters on Monday, as peace talks appeared]]></description>
-            <link>https://www.yahoo.com/news/articles/revised-iranian-proposal-end-war-081552815.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/revised-iranian-proposal-end-war-081552815.html</guid>
-            <pubDate>Mon, 18 May 2026 09:43:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia PM meets with king amid talk of early elections]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/uu/api/res/1.2/9N1F6fnRIZ4aDyrnf5_0KA--~B/Zmk9c3RyaW07aD0yNTI7cT05NTt3PTQ0ODthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/reuters.com/57a18ce5231839ac12d8363a9479599b.cf.webp" alt="" /></p>KUALA LUMPUR, May 18 (Reuters) - Malaysia's King Sultan Ibrahim held an audience with Prime Minister Anwar Ibrahim on Monday, a day after the premier floated the possibility of calling an early]]></description>
-            <link>https://www.yahoo.com/news/articles/malaysia-pm-meets-king-amid-081350238.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/malaysia-pm-meets-king-amid-081350238.html</guid>
             <pubDate>Mon, 18 May 2026 09:43:40 GMT</pubDate>
         </item>
     </channel>
