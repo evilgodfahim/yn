@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 23:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 May 2026 02:33:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
+        <pubDate>Fri, 29 May 2026 02:33:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A man wanted for three killings has been apprehended after an intense search of Hawaii’s Big Island, police said]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/us/articles/man-wanted-three-killings-apprehended-011856099.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/man-wanted-three-killings-apprehended-011856099.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 02:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to designate two Brazilian gangs as ‘terrorist’ organisations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B29DFE2DABBF13294ADB55AE5F6597E5AD1CA0BE49B115AD75F94582AF0EB8DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb16886290bade40efe3f7e8bd89bb64f" alt="" /></p>Trump administration has used crime and drug trafficking to push for greater US military influence across Latin America.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/us-designate-two-brazilian-gangs-001242496.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-designate-two-brazilian-gangs-001242496.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 02:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US labels two Brazilian crime groups as terrorist organizations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A89230ADA0FA5FDB445D67A6AEB25659681B1886DAA16ED4491740D1AA60DCE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa66e14ef65b43c886a73165bc82c896b" alt="" /></p>The United States on Thursday designated two well-known Brazilian crime groups, the so-called Red Command (CV) and First Capital Command (PCC), as terrorist organizations, despite opposition from Brasilia.In Portuguese, CV is known as "Comando Vermelho" and PCC is called "Primeiro Comando da Capital."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/us-labels-two-brazilian-crime-233706048.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-labels-two-brazilian-crime-233706048.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 02:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolivian minister rules out president's resignation despite ongoing unrest]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7555543DC0F3366986E6B00125A2191442FFBFB6AABB94201F79A2BBA087716B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3b3b6a4a2932bd9f16ee869b2c356549" alt="" /></p>(Corrects minister comment in paragraph 3) By Monica Machicao LA PAZ, May 28 (Reuters) - A Bolivian senior minister on Thursday ruled out any possibility of President Rodrigo Paz resigning and told]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bolivian-minister-rules-presidents-resignation-200321277.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bolivian-minister-rules-presidents-resignation-200321277.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 29 May 2026 02:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US to designate two Brazilian gangs as 'terrorist organizations,' Rubio says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE183705349D223749ED82D6A95C1C8E6830A278D32ED9D9C25326526F430A3B/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff95c6eafca914aa5905617d45be01b94" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-intends-designate-two-brazilian-221857743.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-intends-designate-two-brazilian-221857743.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/us/articles/crews-recovered-remains-6-9-223211982.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/crews-recovered-remains-6-9-223211982.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28D4E0DB686DA5AABAA1655E08C343DAB69F761CE535364FF9B21C053A984835/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fdd985dbb0c0344fd0d35d6fdbac2e098" alt="" /></p>Putin and Tokayev signed a landmark $16.5 billion nuclear power plant deal, marking Russia's geopolitical victory in Central Asia, reports say.]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-lands-16-5b-nuclear-204320195.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-lands-16-5b-nuclear-204320195.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C691109B3E2C6DF880C76D0C0059A25D70507E6C3322F11943FDD302FB93F6A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ff6832a3886a1cf7fe7c8c03946321c59" alt="" /></p>It is the highest on-the-record estimate of Russian military deaths to come from any government since the war in Ukraine began.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nearly-500-000-russian-soldiers-191754350.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nearly-500-000-russian-soldiers-191754350.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Thu, 28 May 2026 23:47:53 GMT</pubDate>
         </item>
         <item>
@@ -7012,34 +7040,6 @@ Authorities razed most of Chen's home village of Xingyi, in Guizhou province, in
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/026B5E9C6AF9F3BDA9270FAE51F35538665ECF1B101052EDAF06832393F3527A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F51b6703bf3bad409b12b688ed133725d" alt="" /></p>Nearly one in eight people in the world lives with a mental disorder, and one person dies by suicide every 43 seconds.]]></description>
             <link>https://www.yahoo.com/news/articles/numbers-behind-global-mental-health-070533935.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/numbers-behind-global-mental-health-070533935.html</guid>
-            <pubDate>Thu, 21 May 2026 10:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian far right party proposes Norway-style oil fund and state oil company]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CF101C906E23A09ACD629EAA7231DEF2579F4E690967EDED5360628AAA231FAF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1b4b28bc35df77507cc59599eb21b94d" alt="" /></p>By Helen Clark ADELAIDE, May 21 (Reuters) - Australian populist party Pauline Hanson’s One Nation said it wanted to create a Norway-style sovereign wealth fund and for the government to take a share]]></description>
-            <link>https://www.yahoo.com/news/articles/australian-far-party-proposes-norway-070424502.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/australian-far-party-proposes-norway-070424502.html</guid>
-            <pubDate>Thu, 21 May 2026 10:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Finland's massive bomb shelters draw world to Helsinki in quest for security]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Anne Kauranen and Vitalii Hnidyi HELSINKI/BALAKLIIA, Ukraine, May 21 (Reuters) - Visiting mayors from Ukrainian cities took pictures inside an enormous cave carved in the bedrock below the Finnish]]></description>
-            <link>https://www.yahoo.com/news/articles/finlands-massive-bomb-shelters-draw-070354767.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/finlands-massive-bomb-shelters-draw-070354767.html</guid>
-            <pubDate>Thu, 21 May 2026 10:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hungary's ruling Tisza party moves to limit prime ministerial terms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6A5B238B095598C359ED3EA4B3E33C5B191D1495BEC8E49A657524501E778FF2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa25ed2e039994683bb55cf74035535e2" alt="" /></p>BUDAPEST, May 21 (Reuters) - Hungary's ruling Tisza party submitted a constitutional amendment to parliament late on Wednesday that would allow prime ministers to serve for a maximum of eight years]]></description>
-            <link>https://www.yahoo.com/news/articles/hungarys-ruling-tisza-party-moves-070208614.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hungarys-ruling-tisza-party-moves-070208614.html</guid>
-            <pubDate>Thu, 21 May 2026 10:34:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war day 83: Tehran ‘reviewing’ latest US response to end conflict]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53B82F63D58187CB9DD3AF5927C19F4F4C6F15A75AE77A98A614FCEC162B0357/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fbf6d282adc72ba0f687a79d95de775b8" alt="" /></p>Iran says diplomacy with the US remains open as Hormuz tensions deepen and outrage grows over Israel’s flotilla arrests.]]></description>
-            <link>https://www.yahoo.com/news/articles/iran-war-day-83-tehran-065910523.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-war-day-83-tehran-065910523.html</guid>
             <pubDate>Thu, 21 May 2026 10:34:19 GMT</pubDate>
         </item>
     </channel>
