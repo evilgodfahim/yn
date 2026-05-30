@@ -4,16 +4,103 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 15:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 May 2026 17:13:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
+        <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Palestinian doctor killed, three people injured in Israeli attack on Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB454C596C639953C36A3F203AF09BBB4FE09E8916FB697CB7DE0198FBA1CF94/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd6d9676ec3e73353d0ee20ee34924954" alt="" /></p>Israeli settlers attacked Palestinian homes and property across the occupied West Bank.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/palestinian-doctor-killed-three-people-170403913.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-doctor-killed-three-people-170403913.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Community security: Nir Oz volunteers train to defend Israel's frontlines after Oct. 7]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14DBE560FFDEC78FD52A1AB53AC2A2A209CBEBC9AA8AB0AFC4BDD75EAF498003/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd140b0f5f69910ef7d9ac61c3da0c2eb" alt="" /></p>With support from the Magen 48 organization, Gaza border Kibbutz Nir Oz is training a new, young security team to protect their community. The paths here are lined with flowers and small bushes and even trees that provide a bit of shade.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/community-security-nir-oz-volunteers-170253141.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/community-security-nir-oz-volunteers-170253141.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola spread in DR Congo 'alarming', charity warns, as WHO chief visits worst-hit area]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9CF2538AE3C5F406BCAC9B8D564A97CFFC10B1A31795C99E243295B66EBE3469/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc1cb4ab8e19faadf9af79509341fd4e1" alt="" /></p>Médicins Sans Frontières says that never before has an Ebola outbreak recorded so many cases so soon after its declaration.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ebola-spread-dr-congo-alarming-161212280.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-spread-dr-congo-alarming-161212280.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oldest Active Navy Aircraft Carrier To Make Final Overseas Port Call]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/248D7FA10EE8370F086D437829820970EF0197D3F1A018291A85573BAF610F32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F9d4b4e6158ba92310d472a6d9b1c5622" alt="" /></p>The United States Navy’s USS Nimitz will arrive in Jamaica on Monday, the final overseas port call during the warship’s goodwill tour.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/oldest-active-navy-aircraft-carrier-164513810.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oldest-active-navy-aircraft-carrier-164513810.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confirmed Ebola cases nearly double in days as WHO chief visits DR Congo]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B61709964FB9E1C7928050F5A390443FF352ABE38A7B7048712CD25D546C20EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8858c88a67631d5ce624df0b122b739e" alt="" /></p>WHO’s Tedros calls for a community-led fight as a rare Ebola strain spreads rapidly through conflict-hit eastern DRC.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/confirmed-ebola-cases-nearly-double-164446364.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/confirmed-ebola-cases-nearly-double-164446364.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WHO chief visits Congo as Ebola cases spread faster than response]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/049ED2FD41E372D31E27BED3F6FFE2783F65008E77330E171D6E692D9CCB74FC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F1e0154dafe698bc88e7bec50a66d9ca8" alt="" /></p>The health organization said latest official figures showed 906 suspected cases and 223 suspected deaths.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/chief-visits-congo-ebola-cases-162436872.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chief-visits-congo-ebola-cases-162436872.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4 miners walk out of Laos mine after water recedes; 2 still missing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DAB3AE0DD061F4718F642F8D73E4219D3D3B185C0991DD985300AA1DAA8032E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0b9b13a83d63677cb5f46ec26d4ffc15" alt="" /></p>After 10 days trapped deep in a narrow cave, four Laotian men were able to walk out of the mine Saturday where rescuers were working to save them.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/4-miners-walk-laos-mine-162054753.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-miners-walk-laos-mine-162054753.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands rally in western Germany against gas-fired power stations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D81875AC5FFDCDA352A69558254B2EE811DAB464373AAA720EEFF4A61629E8AE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3262fc6a1ba2096f073fed67db66c0bb" alt="" /></p>Thousands of climate activists gathered in Hamm, in western Germany, to protest against gas-fired power plants on Saturday. The rally, held under the banner, “Future instead of gas – defend the energy transition,” opposed government plans to build new gas-fired power stations and called for an expansion of renewable energy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-rally-western-germany-against-161042687.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-rally-western-germany-against-161042687.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missile hits Kiryat Shmona during early-morning Hezbollah barrage, local leaders demand answers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A159A8058DFCEE0DC9CB6C72A7AF1E830C113A29B4BC114EA5EAC1B9CD3E09A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F50716615cec9f630c3d3c7ad79d2e190" alt="" /></p>A Hezbollah missile hit the city center of Kiryat Shmona overnight, causing heavy damage to businesses; Iron Dome intercepted all other projectiles. The city center of Kiryat Shmona took a direct hit from a Hezbollah missile overnight, following a series of missile launches from Lebanon targeting Israel's northern communities, the IDF announced early Saturday morning.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/missile-hits-kiryat-shmona-during-155832797.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/missile-hits-kiryat-shmona-during-155832797.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain fears Ireland is a ‘back door’ for Russian spies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5031C9D77858DA8A6B1B044DFB4896D2BBCA689FB4081BADAE0C06319D024E43/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F544087eca78b83a6cb6eedb67dec4d0e" alt="" /></p>Whitehall officials fear that Ireland has become a “back door” to Britain for Russian spies because of its generous visa programme, an Irish politician has said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/britain-fears-ireland-back-door-151032891.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-fears-ireland-back-door-151032891.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Austrian protesters shut vital motorway connecting Germany to Italy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C32C99C66A1F314E21E4605115F44232FCCAEB941BEFCBB70BCDEF7A8854480/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F975d8163036ad490464e0aec580b899b" alt="" /></p>MATREI AM BRENNER, Austria, May 30 (Reuters) - Thousands of local residents shut down Austria's Brenner motorway on Saturday, a vital north-south corridor through the Alps between Germany and Italy,]]></description>
+            <link>https://www.yahoo.com/news/world/articles/austrian-protesters-shut-vital-motorway-144547238.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/austrian-protesters-shut-vital-motorway-144547238.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 30 May 2026 17:13:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ousted Turkish opposition leader Ozel draws thousands in Ankara protest]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC84AF948933413A66AA9125E8E3B87F674952E0FAD2B9365D1DCC98903CCFC3/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0b1bbe42ddb3188d4de6aac82bb6292d" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/ousted-turkish-opposition-leader-ozel-150417685.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/ousted-turkish-opposition-leader-ozel-150417685.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD89388B24C832681E82825CF1442D023CD25F6ECE528DC94D0E8B5951FAE975/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F43e96da37299b32f246c5c7530df48e7" alt="" /></p>Thousands of climate activists gathered in Hamm, in western Germany, to protest against gas-fired power plants on Saturday. The rally, held under the banner, “Future instead of gas – defend the energy transition,” opposed government plans to build new gas-fired power stations and called for an expansion of renewable energy.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thousands-rally-western-germany-against-154038301.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-rally-western-germany-against-154038301.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F5B6F937B3EA502FFD3DA8850B5E65BBA99985ACF0FC519FB068FFA89567235/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffa49b1152455068ea69a8e3d2607b639" alt="" /></p>Local authorities say the cancellation of other West concerts had played a role in the decision.]]></description>
             <link>https://www.yahoo.com/news/world/articles/italy-bans-kanye-west-travis-153918437.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/italy-bans-kanye-west-travis-153918437.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B919649B29DF273D1C3598FB9342FDD0DB4F9C2550FE4723338C12865F3D68A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F54d131c1446006689462323799b5923e" alt="" /></p>There are currently 906 suspected cases and 223 suspected deaths in the DRC.]]></description>
             <link>https://www.yahoo.com/news/world/articles/director-general-arrives-drc-amid-152800804.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/director-general-arrives-drc-amid-152800804.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA0D24D4E2D099F22966904B1CA784178FD29B2A4693FD0C6EF171CCEDF4BCE1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Feb89e59d064f3429dc8952501e7039f1" alt="" /></p>Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.]]></description>
             <link>https://www.yahoo.com/news/world/articles/senior-sri-lankan-monk-suspended-152635002.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/senior-sri-lankan-monk-suspended-152635002.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +136,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACAC784416AB818B2D130A36141AA166E73A2E913DBD088A7062DAB386A7FEDC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6c9d6469cd88669dc2571f7f6903a50f" alt="" /></p>Israel said on Saturday it is preparing for more intense rocket fire by the Lebanese Hezbollah militia, as the Israel Defense Forces (IDF) expand their operation in southern Lebanon. Earlier, the IDF ordered the evacuation of residents from 10 villages in Lebanon after renewed exchanges of fire with Iranian-backed Hezbollah.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-set-expand-operations-southern-152523133.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-set-expand-operations-southern-152523133.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +143,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/011F19DC7E94FDEFC5C70FE9DA02C726B2F06A5DE7AACCE79E797FA9F9A64529/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F181ef3678df2590ec326821f546cc478" alt="" /></p>Three Latvian climbers died after a fall on Mount McKinley in Alaska. A fourth climber was rescued and hospitalized.]]></description>
             <link>https://www.yahoo.com/news/world/articles/3-climbers-killed-fall-denali-151054883.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/3-climbers-killed-fall-denali-151054883.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +150,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B815B4E0633048DA64E09620E3DCBA6DB7BF8837FA5FD554FE9E0AB5129BF096/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F6f9f6c5a363b0ca9b1be15d628707ef4" alt="" /></p>Syrian Authorities have detained 18 individuals suspected of involvement in operating and managing the Assad regime’s chemical weapons program. The recent discovery of Assad-era chemical weapons munitions and materials in Syria has implications beyond the identification and destruction of hazardous stockpiles.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syrian-chemical-weapons-could-help-150734884.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syrian-chemical-weapons-could-help-150734884.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +157,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77F0E90940D15EA9EA68FD71CAA4C4CA265BC01F565D5B7F0319D827B7113BB7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F2e2e155f9cb7a659819354caddddfdb9" alt="" /></p>After a long and complex operation inside a flooded cave in a remote area of central Laos, on Saturday, the men at the center of the mission did something few expected: they walked out.]]></description>
             <link>https://www.yahoo.com/news/world/articles/were-trained-high-stakes-underwater-142112198.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/were-trained-high-stakes-underwater-142112198.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +164,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/271D952A0A4148C59B6A06690E89F8B12B322C221385BCB17C6339D082D8F581/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3c4075846747faa73f0506a7926c2de2" alt="" /></p>Israel’s air force and artillery struck areas close to a strategic mountain housing a Crusader-built castle in southern Lebanon Saturday as fighting raged in villages close to the southern city of Nabatieh.  Israel’s military issued evacuation warnings for more than a dozen villages in southern Lebanon, a day after Lebanese and Israeli military officials held their first direct talks in decades at the Pentagon.  The situation in southern Lebanon was discussed during a meeting Saturday between Lebanon’s president and prime minister who said in a statement later that they will intensify their contacts to make Israel stop demolition and bulldozing of homes and historical sites as well as its evacuation warnings.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israeli-strikes-reportedly-pound-near-140953418.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-strikes-reportedly-pound-near-140953418.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +171,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C67A9EFBAAEA5FF630B717377E24679A8DE51304C6FBB37FAE34952B0D813A7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4a858561b8b558791ee0c8a30bcc60fb" alt="" /></p>Cambridge students have complained they are being examined in “crazy” conditions, citing yellow test papers and the danger of paper cuts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/cambridge-students-complain-yellow-exam-135133256.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cambridge-students-complain-yellow-exam-135133256.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 30 May 2026 15:59:57 GMT</pubDate>
         </item>
         <item>
@@ -6963,83 +7040,6 @@ He added that, with Italy, he was also calling for European Union-level s]]></de
             <link>https://www.yahoo.com/news/world/articles/drone-games-put-ukraines-best-070810226.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drone-games-put-ukraines-best-070810226.html</guid>
             <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan trade minister holds brief talks with Chinese counterpart amid diplomatic row]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>TOKYO, May 23 (Reuters) - Japan's Trade Minister Ryosei Akazawa said on Saturday there were no formal bilateral talks with China's Commerce Minister Wang Wentao, though the two had a brief]]></description>
-            <link>https://www.yahoo.com/news/articles/japan-trade-minister-holds-brief-070936220.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-trade-minister-holds-brief-070936220.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China coal mine blast kills at least 90, more missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36E93DF12A6096CBF4CAA0198F0F8700284090EC9D7BD38A0B2824A74FF4706D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3c3a35a3a40225cdc82fda9a8d3e28ad" alt="" /></p>A gas explosion at a coal mine in northern China has killed at least 90 people, state media reported on Saturday, the country's biggest mining disaster in 17 years.Friday's explosion was the worst mining disaster in China since 2009, when 108 people were killed in a mine blast in northeast Heilongjiang province.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-coal-mine-blast-kills-065207318.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-coal-mine-blast-kills-065207318.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war day 85: Tehran says major gaps remain in US talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DAEF46F01118930D08FE006556C38C3C3071A6442040C35F018190C96EBF0100/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa69684bc4b5d1bc26c7d7bb8594d3634" alt="" /></p>Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-war-day-85-tehran-065145806.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-day-85-tehran-065145806.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Burn-like rashes and hunger: Gaza’s children face skin disease crisis]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DFD1C396D5CD3CAD8360A7ECD83C1D622A2D7A0610C299EFCEC1579D8C54BAB2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0e29e20d5eb5cf3db0059c1efb546a9c" alt="" /></p>Overcrowded camps in Gaza see a surge in skin diseases. Children are most affected as healthcare services collapse.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/burn-rashes-hunger-gaza-children-054636834.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/burn-rashes-hunger-gaza-children-054636834.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coal mine gas explosion in China kills more than 80 after dozens earlier reported trapped underground, state media says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/world/articles/coal-mine-gas-explosion-china-054300054.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/coal-mine-gas-explosion-china-054300054.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Middle Eastern Headlines at 6:13 a.m. GMT]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/world/articles/middle-eastern-headlines-6-13-040000643.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/middle-eastern-headlines-6-13-040000643.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Asian workers keeping Greenland in business]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92B710579425CC15CF2CFA6CF37207F0EEE86D80DDF94DA15380F0EE5A5EA939/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3a7c4eca3de95557bbd848916d2817aa" alt="" /></p>Marinel Garciano dislikes winter, and that's tough when it lasts nine months in Ilulissat, Greenland.But behind the glass there was no greenery -- just the pristine white of a blizzard enveloping the streets of Ilulissat, north of the Arctic Circle, in the icy month of April.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/asian-workers-keeping-greenland-business-030705668.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/asian-workers-keeping-greenland-business-030705668.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26F414B79D155E959513BF4CBAA10805E6AAF1A0988CC4FF7352CFB4BCD943D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1c968a53d410e8c77d19573cbfe7d5e0" alt="" /></p>Before it became the somewhat easy-to-mispronounce name of a rare type of Ebola virus, Bundibugyo is a mountainous district in western Uganda that even some locals would struggle to pinpoint on a map.  Many are cocoa farmers who search for whatever cultivable land they can find in the impossibly steep landscape of hills and valleys marking Uganda’s border with Congo.  As an example of the classic village idyll, Bundibugyo is a beautiful place.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/ugandans-rue-bundibugyo-ebola-virus-030409270.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/ugandans-rue-bundibugyo-ebola-virus-030409270.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[40,000 people under evacuation orders for a chemical tank leak in Southern California]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33269E3008DB1B7B6CD7EF3C323EE11CEAE96C4668D231D8344C3722D1D79833/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F27b5a4f77d97cd236608a51e339cb5da" alt="" /></p>Authorities in Southern California on Friday were racing to figure out how to prevent the explosion of a storage tank that has been leaking a hazardous chemical used to make plastic parts, as some 40,000 people were under evacuation orders in the area.  A storage tank holding between 6,000 and 7,000 gallons (22,700 and 26,500 liters) of methyl methacrylate overheated Thursday and began venting vapors into the air at an aerospace plastics facility in Garden Grove, a city in Orange County, the local fire authority said.  The tank could fail and crack, releasing the chemical onto the ground, or it could explode, Orange County Fire Authority Division Chief Craig Covey said Friday.]]></description>
-            <link>https://www.yahoo.com/news/weather-news/articles/40-000-people-under-evacuation-224724504.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/40-000-people-under-evacuation-224724504.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fentanyl, meth found at house where New Mexico responders got sick after answering overdose call]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/859EB037BEBE013A3571C5B0CE3BAF9EBCCD638359121D7292F9E37D669603C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffab6825725bf63b33f926ae1c5540cb9" alt="" /></p>Fentanyl and methamphetamine were found at a home where first responders became sick after answering a call about suspected overdoses in a rural county in New Mexico, authorities said Friday.  Three people found inside the house on Wednesday died.  A fourth person who was in the house and one of the emergency responders who became sick were still being treated at a hospital Friday.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/fentanyl-meth-found-house-where-224720482.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/fentanyl-meth-found-house-where-224720482.html</guid>
-            <pubDate>Sat, 23 May 2026 08:07:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are India and Pakistan quietly preparing to restart dialogue?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/592E66C450CF5D0F203CC726E58251E0F905667064A8AFC870625922CBA9AF54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe8209d3fdb04c41f4f181ed746778e79" alt="" /></p>India and Pakistan remain publicly entrenched, even as unofficial voices push for renewed dialogue and restraint.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/india-pakistan-quietly-preparing-restart-041131596.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/india-pakistan-quietly-preparing-restart-041131596.html</guid>
-            <pubDate>Sat, 23 May 2026 05:50:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
