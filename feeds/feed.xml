@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 21:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 22:52:45 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Colombia's presidential election, in photos]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56D91123F5AE3EBC9E85036493815B19C91E0CA38A70C8589AB4D6D0D0028846/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff5dc8011915ad7fd71385e300d66af76" alt="" /></p>Source: AP]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombias-presidential-election-photos-223441395.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombias-presidential-election-photos-223441395.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel seizes Crusader castle in Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36D97B36D93637322115CD305294017042C069C50EEF1C7E8AF0AB3228AB00CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fb0673e837dfdad29bc62e72c9287e97d" alt="" /></p>Israeli forces seized a 12th-century Crusader castle in southern Lebanon, as Israel intensifies its farthest incursion into the country in 26 years, despite a nominal ceasefire.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-seizes-crusader-castle-lebanon-222313975.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-seizes-crusader-castle-lebanon-222313975.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli forces push further into south Lebanon, seize Beaufort castle]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51C7A6D537E86FD488C92561DDB6BB5584EC3974234F932E7E6AF07B05649090/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fbf11b1188a5e1e74e99f369370ede934" alt="" /></p>Israeli troops advanced deeper into Lebanon on Sunday, seizing the medieval Beaufort castle for the first time in 26 years amid Hezbollah attacks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-forces-push-further-south-221758824.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-forces-push-further-south-221758824.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analysis: Lebanon's Shiites face a 'semi-Nakba,' bearing brunt of war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C7C1BBC3C0483F0A26D692DE68166D0BA15D1496DFCA9EBEE9B9CECA6DCDCE6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fd9441b8fb4c3eb31b81e4ebfe4574a5e" alt="" /></p>Lebanon's Muslim Shiite community, whose fortunes rose with the once-powerful Hezbollah, is facing what many are likening it to a "semi-Nakba."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/analysis-lebanons-shiites-face-semi-220432989.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/analysis-lebanons-shiites-face-semi-220432989.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel expands Lebanon offensive after capturing historic castle]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACDB0C196E7D7B8B86E21BE9D96A927235B13C37F78ECCF98AA1B0B097E08BC1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F460ea5120292af91926ca2a62dfc2669" alt="" /></p>Israeli troops are moving further into Lebanon after capturing a historic fortress, despite an ongoing ceasefire.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-expands-lebanon-offensive-capturing-215304569.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-expands-lebanon-offensive-capturing-215304569.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congo says number of confirmed Ebola cases rises to 282]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E5FBF73D6893046B12BFD4EA6762BC4B1E59256D6A073871636C47CECD687F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Feb8694255dfa91f6aef7cafa6ea28051" alt="" /></p>KINSHASA, May 31 (Reuters) - Democratic Republic of Congo said on Sunday that the number of confirmed Ebola cases had increased to 282 after 19 new positive test results were recorded.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215224528.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215224528.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/398F4CB4358AC7371948214C05F67CAE37A30E34343DCD536074B31CBA9BB1A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc92ac3c2edb7b9a1b4bf2f79b5fdd831" alt="" /></p>President Volodymyr Zelenskyy wants to deepen ties between Ukraine and Silicon Valley's defense tech startups.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html</guid>
+            <dc:creator><![CDATA[Business Insider]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE70941CB5E2400E98A7E2F2B6B4F951BFE9866AB01C094415D577A82FD6661F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F30dd0e22ddb27b45e95859c4b75d1392" alt="" /></p>Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nicaragua-confirms-death-custody-indigenous-213815521.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nicaragua-confirms-death-custody-indigenous-213815521.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23D7A27B35E57FE618C8320F968016BA006D07930F6B514A7987F8E517C55519/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8aa3e089cb2ba194d813db23fa71a37e" alt="" /></p>The fatal incident was the most recent in a string of elephant attacks in southern India]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-trampled-death-rampaging-wild-211944414.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-trampled-death-rampaging-wild-211944414.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/491EF8EBB911858AAD4DE24ADA20A7ADF57A34DCF8526B365ABD840D74366471/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5ff0b33f8e1f692eaf525fc7bb8d2b72" alt="" /></p>The search for the individuals reported missing will resume on June 1, as authorities continue to investigate the destructive May 31 blast]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-5-people-dead-3-211913211.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-5-people-dead-3-211913211.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30F3ACE4E9AFC2F74CA9AC1CACFE6379327B4206FE6AC1F147EF6CB764FE8521/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F619ec1718088307ee13c7f7751d9089e" alt="" /></p>Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nicaraguan-indigenous-leader-dies-three-211846982.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nicaraguan-indigenous-leader-dies-three-211846982.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3AFAD6F478805905EF1A99B495C85F70E8F94B895F260459CC308ADE5755A3B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F1fd1e79e2dbffeb98c0c79d710c2f8a1" alt="" /></p>World Bank data reveals the African nations topping global birth charts-and the surprising outlier where having kids is becoming rare.]]></description>
             <link>https://www.yahoo.com/news/world/articles/african-countries-highest-fertility-rates-203037283.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/african-countries-highest-fertility-rates-203037283.html</guid>
-            <dc:creator><![CDATA[Complex]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A964E519F9A0503F10A0A40FC84AAAEBE19534BA23F67EA2C9AB214A0A1FB1D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbb2d366e1b1fea1973348e832b82823a" alt="" /></p>On a hot afternoon in a hospital in the town of Bundibugyo, health workers were being trained to fight Ebola. This particular day, they were astounded when dozens of patients suddenly scattered, some fearfully leaping over the benches and hedges to safety.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fear-grips-residents-ugandan-town-202524867.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fear-grips-residents-ugandan-town-202524867.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5086DE8CC89C7B5B23D1F76D79E862B073CC1104E8C56180BAECDD03BC8663BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8059f3ce539923940691b812c2f92416" alt="" /></p>French President Emmanuel Macron has condemned the riots that broke out nationwide following Paris Saint-Germain's Champions League victory over Arsenal, vowing a tough response. "That's not soccer, that's not sports, that's not what we love," Macron said while receiving the French side at the Élysée Palace following their return from Budapest, according to French broadcaster BFMTV.]]></description>
             <link>https://www.yahoo.com/news/world/articles/macron-vows-response-clashes-mar-192540412.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-vows-response-clashes-mar-192540412.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B2F5E36D13E87AB4C7818294BDB36E8CB16C96B39FF9DE46621238690C359F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb622610eee5af7393e5f667f58b0a6ec" alt="" /></p>Brooklyn Rivera, a renowned Indigenous leader from Nicaragua who spent years fighting for the rights of his community and was imprisoned by the government in September 2023, has died.  The Nicaraguan government issued a statement Sunday saying that Rivera died from a bacterial infection after his health had declined following a case of COVID-19, which led to his physical and neurological deterioration.  Human rights activists and groups worldwide denounced his death and a previous statement by the government in which they referred to Rivera as “Brother” and said they were praying for him.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indigenous-leader-brooklyn-rivera-dies-190722043.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indigenous-leader-brooklyn-rivera-dies-190722043.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
         </item>
         <item>
@@ -6982,55 +7030,6 @@ A major issue in the talks is traffic through the Strait of Hormuz, the vital gl
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
             <link>https://www.yahoo.com/news/world/articles/middle-eastern-business-headlines-5-040000992.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/middle-eastern-business-headlines-5-040000992.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Africa Day 2026: Has the continent achieved true liberation?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3EDC1BCB1094EECCFBA651BCFBFC3992F68FE5F826E48D9F5A24808A9ABCD1A2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fed85e8b1143e9bf2984d3087ad578447" alt="" /></p>Africa Day 2026 spotlights power, debt and digital control as Africans redefine sovereignty.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/africa-day-2026-continent-achieved-035113684.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/africa-day-2026-continent-achieved-035113684.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deadly suicide blast rips through Pakistan train route, killing at least 23]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A466F332CC7C230C3755D4D51934F4BFF8E465F9E299D964CC64F05947FDBF1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff4e7a0636b48bf6c10c00822cc37df5f" alt="" /></p>At least 23 killed and 70 wounded after a suicide bomber reportedly detonated an explosives-laden vehicle alongside an incoming passenger train in Quetta, Pakistan.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/deadly-suicide-blast-rips-pakistan-033932739.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deadly-suicide-blast-rips-pakistan-033932739.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Truck overturns in central Bangladesh, killing at least 15 people]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>A truck carrying iron rods and extra passengers overturned on a major highway early Monday in central Bangladesh, leaving at least 15 people dead and 10 others injured, police said.  The crash happened after the driver lost control around 5 a.m. at Soratoil area in Tangail district, 83 kilometers (52 miles) northwest of the nation's capital, Dhaka, said local police chief Fuad Hossain.  Hossain said the truck was carrying hitchhiking passengers and travelling from Dhaka to the northern region as vacationers began traveling ahead of the Islamic festival Eid al-Adha on Thursday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/truck-overturns-central-bangladesh-killing-032644775.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/truck-overturns-central-bangladesh-killing-032644775.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian activists return after Gaza flotilla incident, allege Israeli abuse]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C6A57DCE25D822A6A7D9C3634F8A146767893B98022DCF4B4CA11A40666F17A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Feb5b9f008e2a97f4bcda573c52e70541" alt="" /></p>By Stefica Bikesh and Cordelia Hsu SYDNEY, May 25 (Reuters) - Australian activists detained by Israel while on a flotilla attempting to deliver aid to Gaza have returned home, with organisers alleging]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australian-activists-return-gaza-flotilla-030535123.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-activists-return-gaza-flotilla-030535123.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toshifumi Suzuki, 'father' of Japan convenience stores, dies at 93]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/478D55944D92E2EDF554CD6274DF28A089F48151C51F21CE6F0A57E4C9DA3318/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc31a68e7cd7f1e8a49266f9708c34fef" alt="" /></p>Former chairman of Seven & i Holdings Toshifumi Suzuki, credited for the global success of 7-Eleven convenience stores, has died at the age of 93, the company said Monday.Suzuki is known for opening the first 7-Eleven store in Japan in 1974 and growing the business into the world's largest convenience store chain, including through turning the struggling US headquarters into a subsidiary of the Japanese company and rebuilding it.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/toshifumi-suzuki-father-japan-convenience-030352338.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/toshifumi-suzuki-father-japan-convenience-030352338.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thai beer heir sexual abuse allegations ignite rare public reckoning]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4EE132CF2CB04B110D8EEB5628D6C592AA1CE21DA3AD9E735B49A40BA8948D33/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F02b32924c9558ecd765892af52d630c5" alt="" /></p>A high-profile alleged sexual abuse case within a wealthy Thai beer brewing family has prompted a wave of painful accounts from survivors of unconnected abuse in the conservative country.Experts said the case marks an unprecedented shift in Thailand -- which never had a #MeToo movement -- with Thais more openly discussing sexual harassment and abuse.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/thai-beer-heir-sexual-abuse-025720564.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thai-beer-heir-sexual-abuse-025720564.html</guid>
-            <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippine construction collapse toll hits three, 17 missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B1CCE26CCC8493F993C4E81C98AA58E4C49536BD71CF4D8001534AAE01F06D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5e80594a9cee1103c425ed7b704c03b9" alt="" /></p>The death toll rose to three Monday in the collapse of a building under construction near the Philippine capital, with 17 people still believed missing, authorities said.Seventeen other people, mostly construction workers who were sleeping at the building site when disaster struck, remained missing, Sajili said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/philippine-construction-collapse-toll-hits-023518231.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/philippine-construction-collapse-toll-hits-023518231.html</guid>
             <pubDate>Mon, 25 May 2026 07:06:23 GMT</pubDate>
         </item>
     </channel>
