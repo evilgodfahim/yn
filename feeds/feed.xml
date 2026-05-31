@@ -4,16 +4,135 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 12:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 14:43:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Veteran, 101, helps mark Polish allies anniversary]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7837CF1B24B01769A2B4E954582C8103BADFD1B25E4637F5ACB48D6D529E6DB3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8ef7ce5f273d8ea5f03e9804c4c7756e" alt="" /></p>Guests at Checkendon camp celebrated the 80th anniversary of allied Polish Troops arriving.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/veteran-101-helps-mark-polish-134619663.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/veteran-101-helps-mark-polish-134619663.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspicious letter sent to Norwegian princess at Sydney university]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/813F61245EF2427A5F5E299B7BCC46FDE2E569AF69CF05C7950B8BE767DAC989/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffcb58cc299e875294efaa094607aadf8" alt="" /></p>An Australian man has been banned from contacting Norway's Princess Ingrid Alexandra, who is currently studying in Sydney, after police intercepted a suspicious letter sent to campus, Norwegian media reported on Sunday. Security personnel working for the princess intercepted the letter addressed to her, Norwegian news agency NTB reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/suspicious-letter-sent-norwegian-princess-141028690.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspicious-letter-sent-norwegian-princess-141028690.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Health Organization hails recovery of five Ebola patients]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA8439282E55CCE794264E5BC1953E7D7569D183FB2B31FD0BC7FDC207ACE051/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff5f654eeed2bda15d4341df79b6ce432" alt="" /></p>More than 220 people are suspected to have died from the disease’s latest outbreak, which was declared two weeks ago.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/world-health-organization-hails-recovery-135732478.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-health-organization-hails-recovery-135732478.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli forces push past Lebanon’s Litani River: How significant is it?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3A7D13116CC9346E8CCB4679825143187C71BEA51EDE737775A5027B52CCBE72/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe013052e0ec9305d6dc6cb27380e4d53" alt="" /></p>Analysts say Israel is effectively expanding its area of military control northward towards the Zahrani River.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-forces-push-past-lebanon-133954099.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-forces-push-past-lebanon-133954099.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satellite imagery shows erasure of southern Gaza as Israel expands control]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB7FB7709BD5EF842AC48E4E47E5348ABAC4A3583306B16ADEB5B45B59F2C9BC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fbb592dad725b49bd2d68cb2c306f8ed6" alt="" /></p>Satellite images show transformation as Netanyahu orders military to occupy 70 percent of Gaza.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/satellite-imagery-shows-erasure-southern-132826774.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/satellite-imagery-shows-erasure-southern-132826774.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran War Again Underlined Iraqi Kurdistan’s Critical Air Defense Need]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF169910F18E97128034167ACE00773A7355D8BE37BF377B42C413DCD5708EB7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F47b613b57b191dadecaac182bd3ccbcd" alt="" /></p>While it’s arguably clearer than ever that Iraqi Kurdistan urgently needs air defenses, it remains equally unclear where or how it can get them.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-war-again-underlined-iraqi-131251485.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-again-underlined-iraqi-131251485.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France calls for emergency UN meeting on Israel's advance in Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9620F6C195C74A55765B9D83343E99ED7BABEA81F3D74F3F550FF662B60C11C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1dd9e8147613ce31aa3854067b65d0af" alt="" /></p>France on Sunday called for an emergency meeting of the UN Security Council as Israeli forces advanced further into southern Lebanon, seizing a historic landmark as a base for expanded attacks on Hezbollah. “Nothing can justify the continuation of Israeli military operations in Lebanon and an ever-deeper occupation of Lebanese territory,” Foreign Minister Jean-Noël Barrot told the French broadcaster BFMTV.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/france-calls-emergency-un-meeting-131042468.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-calls-emergency-un-meeting-131042468.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leo Shows He’s the Planet’s Pope by Taking on AI]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60CB1C1989EF6BF690C7E844733A0AF0ABAEAAF4543F6B8E5C3660548CD2422D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Frolling_stone_news_992%2Fb5062c542099e2af8cae0cd011d0ad83" alt="" /></p>The leader of the Catholic Church called artificial intelligence a threat to humanity in his first encyclical]]></description>
+            <link>https://www.yahoo.com/news/world/articles/leo-shows-planet-pope-taking-130000772.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/leo-shows-planet-pope-taking-130000772.html</guid>
+            <dc:creator><![CDATA[Rolling Stone]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hot-air balloons take to the skies at festival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7992CEADD39EB88D7D0FDE1EADC7326991B22CE33A6E8B845C8668E69DE372EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F202d42087724cae8f677c5bc886ad999" alt="" /></p>The three-day event at Alcester also includes aerobatic displays from the world-famous Red Arrows.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hot-air-balloons-skies-festival-125216342.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hot-air-balloons-skies-festival-125216342.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mouse plague terrorises Australian farms]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CEED70232BC5C3AE07C2D7A994D4EBBF8278131D6AB69961CC147825A650FB46/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F7cab3dbaa84b553a48a3ab741229d9e9" alt="" /></p>A plague of mice is devastating fields and invading homes in parts of rural Australia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mouse-plague-terrorises-australian-farms-124202898.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mouse-plague-terrorises-australian-farms-124202898.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan Denies ‘New Militarism’ After China Claims]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F9C0E2C48F89A8C60F3AB4F117812F9C6E932D3C8011F1D443B5359A072A2EDD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F8079e7305e1b1b30c8fb4fb08048e3d5" alt="" /></p>Japanese Defense Minister Shinjirō Koizumi said on Sunday that the "door is always open" to China.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/japan-denies-militarism-china-claims-123638803.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-denies-militarism-china-claims-123638803.html</guid>
+            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘The arteries of modern civilization’: The US and allies take action to protect seabed cables]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E78E12CB510A9E8673CFF49C13ECCBC36E9481A88B3D30F7E01430330BA790A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F0c3ebcb591bdd6d263a42ca6dae56194" alt="" /></p>The United States, Australia and the United Kingdom have taken a big step towards tackling growing threats to undersea pipelines and cables, which carry huge amounts of energy and data around the world.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/arteries-modern-civilization-us-allies-122843397.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/arteries-modern-civilization-us-allies-122843397.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[D-Day memorial to British soldiers stolen]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B189990CEA892DEFFF54D97C42FF003D3BE9494A5BBDB3713BE49310DDC8770E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc76bbca7f75ce7b1eec1053b1ffb4e59" alt="" /></p>A bronze statue commemorating British soldiers who fought on D-Day has been stolen from a French town in Normandy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/d-day-memorial-british-soldiers-121911294.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/d-day-memorial-british-soldiers-121911294.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carlo Petrini, founder of the Slow Food movement who championed sustainability and local cultures]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4FB81A4F12EFD35A54164A709C5D61E376F8DF86AA929710532543F50363F1CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb092efc3ad67daa907244b9fe1c448bc" alt="" /></p>Carlo Petrini, who has died aged 76 in his home town of Bra in Piedmont, was the founder of the Slow Food movement, whose mission is to create localised tradition-based alternatives to globalised fast food and the tyranny of supermarkets.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/carlo-petrini-founder-slow-food-114655504.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/carlo-petrini-founder-slow-food-114655504.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France detains close to 800 in unrest after PSG Champions League win]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82392BF988BD0C37CA11A346E91C18A9E7233EB21EFBF4B742CBF07F32A07A87/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F31901e3f80b31e3c88e83eac9e9b952d" alt="" /></p>Hundreds of people were detained and dozens of police officers injured across France following Paris Saint-Germain's Champions League victory over Arsenal, as celebrations in several cities turned into unrest. Releasing updated figures, French Interior Minister Laurent Nuñez said on Sunday that 780 people had been detained nationwide, including some 480 in the Paris metropolitan area.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/france-detains-close-800-unrest-114016535.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-detains-close-800-unrest-114016535.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 31 May 2026 14:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pupils identified as arsonists in deadly school fire in Kenya]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00B655C237BD3B410A01ABA6E439B48E2BDF8C215F57F40739B21AFEF51606C2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F01306b31c80be819a734b08b08c99448" alt="" /></p>Following the deadly fire at a girls’ boarding school in Kenya, police on Sunday identified seven pupils as the arsonists using the school’s CCTV footage. No information has yet emerged regarding a possible motive.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pupils-identified-arsonists-deadly-school-124042752.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pupils-identified-arsonists-deadly-school-124042752.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +140,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/62113E633995ADCB8359EAD6A69E6CA09CB1EB768FDB2C50AB75A360FF32FDEE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1415b31983b332690ea2d7d4c7c83981" alt="" /></p>Israeli troops on Sunday claimed to have taken control of the strategically located Beaufort Castle in southern Lebanon for the first time in 26 years during ground operations against the Hezbollah militia. Defence Minister Israel Katz said troops had raised the Israeli colours on the highland stronghold, which an army spokesman described as a "symbol of Hezbollah’s arrogance.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-captures-strategic-fortress-during-124041127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-captures-strategic-fortress-during-124041127.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +147,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78188E843CEB2C7AB99AA79BCBF58C0054A7A184854F6DB1CD8098CC5682EA03/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7c3d4737bba7703e0a94439afaf910ea" alt="" /></p>A simulated building collapse helps volunteers to prepare for global search and rescue missions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/volunteers-rehearse-life-saving-disaster-123255446.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/volunteers-rehearse-life-saving-disaster-123255446.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +154,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC9AFE1B7809F4DCB48169DB190B4AF3089B8262C47F9DF32A221A99683D4EA5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F733002a0b52679501069b84ca304a9ea" alt="" /></p>The following is the full transcript of the interview with Ukrainian President Volodymyr Zelenskyy, a portion of which aired on "Face the Nation with Margaret Brennan" on May 31, 2026. The interview was taped on May 29, 2026.]]></description>
             <link>https://www.yahoo.com/news/world/articles/full-transcript-ukrainian-president-volodymyr-122536160.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/full-transcript-ukrainian-president-volodymyr-122536160.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +161,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8470FA1539EFFB662E642C81CE9CFB807D36B09C19876AC619135D0CA61B3DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3ff33ef8ddfca5fea400d5cd0ec0cef2" alt="" /></p>Now the IDF is back at the Beaufort, but this time there is a sense of conquest. Israel has changed a lot in the last two decades.]]></description>
             <link>https://www.yahoo.com/news/world/articles/return-beaufort-israel-symbolic-conquest-121828245.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/return-beaufort-israel-symbolic-conquest-121828245.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +168,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/87DC7BEC1A5FDC3474C862AAB9FBDF52B0D4EC1597993FF8622016909611A605/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdc30d762efe03168636678e3ef373174" alt="" /></p>Maj Gen Rabe Abubakar's kidnapping highlights continuing security challenges facing parts of the country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerian-retired-general-abducted-wife-121325163.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-retired-general-abducted-wife-121325163.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +175,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/405E083928EE718FF31AC67F514D89C4AF3C007C8B91DEC879170DD73E07A29C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F196368cfe05da83917665f4ff979521b" alt="" /></p>How Soviet séances and CIA remote viewers sparked a decades-long arms race no one was supposed to know about]]></description>
             <link>https://www.yahoo.com/news/world/articles/psychic-soldiers-mind-readers-dolphin-120045731.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/psychic-soldiers-mind-readers-dolphin-120045731.html</guid>
-            <dc:creator><![CDATA[Reason]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +182,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68C82D18FAEE1BEC334B475A7ABACA7DF0BA2309E5E0EE83FFEFF96CB476237C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3bf1c03d252eb89f76d5f6a52937a388" alt="" /></p>TAIPEI, May 31 (Reuters) - Taiwan's presidential office condemned China on Sunday after the New York Times said one of its reporters was expelled from the country following an interview the newspaper]]></description>
             <link>https://www.yahoo.com/news/world/articles/taiwan-condemns-china-york-times-115805811.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-condemns-china-york-times-115805811.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +189,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7FB82CCE29A9A81600FC53A7BD459EBF5361E4B5BBCC46CC7ED8885C4CB1EE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F43fe0e9183908bd8b7fab5e55c53a42b" alt="" /></p>So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.]]></description>
             <link>https://www.yahoo.com/news/world/articles/laos-cave-survivors-help-plan-114301007.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/laos-cave-survivors-help-plan-114301007.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +196,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1755784619F883DCB738CB456E1833B7FEDCED69A9D535D9DE4CD38A77EA7C9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F25b14fd3079fd2426d3ec8e9970fa9b4" alt="" /></p>He warned that those who will pay the price of holding the ridge will be the soldiers and Israeli citizens living in the north. Brig.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-commander-beaufort-ridge-warns-115423950.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-commander-beaufort-ridge-warns-115423950.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +203,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7D43A05193E064CC6EFD97FA3C72454562DAC558EB9935F5E173998CA940652/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fdbc83de0a3df46ef5844804dfbd33e3f" alt="" /></p>A few months ago, the senior official allegedly locked the door of his office while an employee was inside, confiscated the employee's mobile phone, and attempted to review recordings. A deputy director-general at the Israel Tax Authority was questioned byLahav 433 investigators on Sunday over suspicions of multiple offenses, including invasion of privacy, unlawful detention, obstruction of justice, fraud, and breach of trust.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-tax-authority-official-questioned-115032858.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-tax-authority-official-questioned-115032858.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +210,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33A7EF6486AF99050FDEE6FD695FFABE00AB8598B2576A1FF2ED03C0D9F01859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F94f553b0145bcf2f9c384b1d78f751c4" alt="" /></p>The IDF held the outpost until May 2000, when Israel withdrew its forces from southern Lebanon on the order of former prime minister Ehud Barak. IDF shares footage of operation in Beaufort Ridge, May 31, 2026.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pictures-idf-retakes-southern-lebanons-113204513.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pictures-idf-retakes-southern-lebanons-113204513.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +217,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BBBC1450522A0DB919BC6D68157064A21EBE7DDB910862C874BAEBC79EC1C93/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5e92467f6a7e1ce6e39becb75d4a22b6" alt="" /></p>Malta's governing Labour Party (MLP) has declared victory in the EU country's general election. "We have made history by winning for the fourth time in a row," said Prime Minister Robert Abela in a television interview on Sunday after initial results showed his party leading the conservative Nationalist Party (PN).]]></description>
             <link>https://www.yahoo.com/news/world/articles/malta-pm-abela-set-term-112521946.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malta-pm-abela-set-term-112521946.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +224,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46D104F30F98A0282C6F14A840B713563A19AF52BF67A82DB4A778E29EA289F6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3e10ac1b815bc878116cb222e66e42ef" alt="" /></p>Ukrainian President Volodymyr Zelensky said on Sunday that Ukraine has received a new launch pad for the Iris-T air defence system from Germany. "We thank Germany for its contribution to the protection of our people," he wrote on Telegram, saying thousands of lives had been saved thanks to Berlin's "significant assistance.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-thanks-germany-iris-t-112521015.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-thanks-germany-iris-t-112521015.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +231,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A03A22EEEC7D4EAD54DFF1159924AE85A9AFD7B9F4F2682EAADFDBE50316F29E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fb4e85da33a3be8d3e15ba76e454c2c06" alt="" /></p>Drone command centers, units, and operators are highly valuable targets, so Ukraine keeps them mobile and underground.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-war-lesson-nato-forces-111601500.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-war-lesson-nato-forces-111601500.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +238,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F939296B5ED7F0D7079EA069CD443F9A52331DCC624AB9EE52DB86750468FFC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F00c0a4e26489a704f4c430dc4fb1bc55" alt="" /></p>Hungry and weak, the Laos cave survivors huddled together in damp darkness for 11 days, clinging to hope as a wall of water blocked their way out.]]></description>
             <link>https://www.yahoo.com/news/world/articles/laos-cave-survivors-found-courage-105531004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/laos-cave-survivors-found-courage-105531004.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +245,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/343BAC8E56A9A6644BE662B6148C150A9A542F40DF81D5F1EE1874822A8EC99C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F298afbd5204f82ff6b451c25da301023" alt="" /></p>Ukraine denied Moscow's claims on Sunday that a Ukrainian drone struck the Russian-controlled Zaporizhzhia nuclear plant, as Kyiv launched fresh strikes overnight on Russian energy sites.  Ukraine’s General Staff on Sunday said Ukrainian drones had struck the Saratov oil refinery in southwestern Russia, causing a “large-scale fire.”  It said the extent of the damage was being clarified, and claimed the refinery has been supplying Moscow’s war effort.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-hits-russian-energy-targets-094456971.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-hits-russian-energy-targets-094456971.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +252,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3211B7DC31E25B5045F9E34F69897AEE9EA6FD7CB30B276882AAE7D13560DB62/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4fac9a543a43685fe4fbd440463c95b4" alt="" /></p>On May 25, 1971, Sergeant Michael Willetts of the Parachute Regiment was killed in Springfield Road Police Station, Belfast, when a Provisional IRA suitcase bomb exploded.]]></description>
             <link>https://www.yahoo.com/news/world/articles/don-t-let-paras-heroism-060000484.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/don-t-let-paras-heroism-060000484.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 31 May 2026 12:57:37 GMT</pubDate>
         </item>
         <item>
@@ -6941,111 +7043,6 @@ A key sticking point in the talks is traffic through the Strait of Hormuz, a vit
             <link>https://www.yahoo.com/news/world/articles/powerful-bomb-explosion-pakistans-quetta-065932610.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-bomb-explosion-pakistans-quetta-065932610.html</guid>
             <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 24 killed in Pakistan train blast claimed by separatist militants]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C659594148A8A7A031A9701ECA0B1FCDC159B3A04422744B7A001685D01DD086/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcf5bdba06a174921266bfc1b74a9fe4e" alt="" /></p>(Refiles to remove duplication in paragraphs 2, 3)  May 24 (Reuters) - A bomb blast hit a shuttle train carrying Pakistani security personnel and their families in the ‌southwestern province of Balochistan on Sunday, officials said, in the latest major attack claimed ‌by separatist militants. The explosion killed at least 24 people and injured around 70, according to three provincial government and security ​officials, who spoke on the condition of anonymity as they are not authorized to speak t]]></description>
-            <link>https://www.yahoo.com/news/world/articles/powerful-bomb-explosion-pakistans-quetta-081401751.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-bomb-explosion-pakistans-quetta-081401751.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US, Iran inch closer to deal to end the war: What to know]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93C3A5CCF88B4AD104769F1F64AECC347BDB807068A1F58E897C4C1C72D4DCC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe3b1cf1f222a72985f05362bc03499e5" alt="" /></p>The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/us-iran-inch-closer-deal-093752751.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-iran-inch-closer-deal-093752751.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli fire kills parents and their infant in Gaza, medics say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO/GAZA, May 24 (Reuters) - An Israeli airstrike on an apartment in a refugee camp in central Gaza on Sunday left three people dead, including a six-month-old child, health officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-fire-kills-parents-infant-093309737.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-fire-kills-parents-infant-093309737.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemen war sees scramble for scant resources between displaced and locals]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A04951E264977B89CC0FF3683F389384C85B812B2D5B1401111EF9F949376D00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0d2353d26b0ef2ffaa9fba428752a44e" alt="" /></p>Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/yemen-war-sees-scramble-scant-084745494.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-war-sees-scramble-scant-084745494.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia says it hit Ukraine with hypersonic and ballistic missiles, state news agencies report]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1650E81E96AF54EEADCDA697EE849EF767E5B369200791C4773838DAA7F2F2D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0ba4bf2e5529f90d541601d580354d31" alt="" /></p>MOSCOW, May 24 (Reuters) - Russian forces hit targets in Ukraine using four types of missiles - Oreshnik, Iskander, Kinzhal and Zircon - in overnight attacks on Sunday, in retaliation for Kyiv's]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-says-hit-ukraine-hypersonic-084505823.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-says-hit-ukraine-hypersonic-084505823.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyprus votes for new parliament with corruption and living costs in focus]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4D6CA2948D98EC81BBF8D877D1E96BF6D76757E1474BF2F2A27BA7F21CD1918F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1ebe200ebd0529e1b6dd264ab9fd5aeb" alt="" /></p>By Michele Kambas NICOSIA, May 24 (Reuters) - Cypriots went to the polls on Sunday in a parliamentary election expected to deliver gains for anti-corruption campaigners and the far right, while]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/cyprus-votes-parliament-corruption-living-082915036.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/cyprus-votes-parliament-corruption-living-082915036.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suicide car bomb attack on train in Pakistan kills at least 24]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E2349EA5C1A5A3AE7CD86F935CA4787EE8A278F042E1B8E5AA1E8B04A14E657/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2f21ae9f8ebd2fc26022728ec830723a" alt="" /></p>The Balochistan Liberation Army has claimed responsibility for the attack.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bomb-attack-pakistan-balochistan-province-082158135.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bomb-attack-pakistan-balochistan-province-082158135.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three dead and 17 missing after flooding in China's Chongqing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BEIJING, May 24 (Reuters) - The death toll has risen to three with 17 missing following flooding in the Chongqing municipality of southwestern China, China's state-run Xinhua reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-dead-17-missing-flooding-081805354.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-dead-17-missing-flooding-081805354.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hoax fire call hits flat of Polish president’s family member, Tusk says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2647278233A0CA9DF7055551A30085400C919921D09D13E581E634987CA72C7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faa54f82889d52e32454708640e5b7c8f" alt="" /></p>WARSAW, May 24 (Reuters) - Poland is facing a series of false alarms about fires or other threats, including one on Saturday at a flat in Gdansk belonging to a member of President Karol Nawrocki's]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hoax-fire-call-hits-flat-070807673.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hoax-fire-call-hits-flat-070807673.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A suicide bombing near a railway track in southwest Pakistan kills at least 23 people]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB00AA6D0E1BAC4D6AEC5252EBC94761AD1952AB72AF4ED0A1FCD291F4AFCA83/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdc7552a7aed0a939d7c246b5865e2186" alt="" /></p>A suicide bomber detonated an explosives-laden vehicle near a railway track as a passenger train passed through the southwestern Pakistani city of Quetta on Sunday, killing at least 23 people and wounding over 70 others, officials said.  The attack happened in an area where security forces are usually stationed, badly damaging several nearby buildings and smashing more than a dozen vehicles parked along the road, according to witnesses and images circulating on social media.  Doctors at local hospitals said they had received the wounded, with 20 in critical condition.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/powerful-bomb-exploded-near-railway-063821816.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-bomb-exploded-near-railway-063821816.html</guid>
-            <pubDate>Sun, 24 May 2026 10:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia kills 4 in massive Ukraine attack after vowing retaliation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8571565ACE6A08A490EC08DD3925AA1C195414BFD265506F479F96606662E35/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd3fcf7d9703559d50eb94878f3c0b54e" alt="" /></p>Russia pounded Kyiv with a massive missile and drone attack that killed four people early on Sunday, authorities said, after President Vladimir Putin threatened retaliation for strikes in Russian-occupied eastern Ukraine.Ukrainian authorities and the US embassy had earlier warned of a possible significant attack on Kyiv, after Russia said it would "punish" those responsible for deadly strikes in a part of eastern Ukraine under its control.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/missile-strikes-pound-kyiv-russia-004130545.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/missile-strikes-pound-kyiv-russia-004130545.html</guid>
-            <pubDate>Sun, 24 May 2026 08:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 16 people killed after a powerful bomb exploded near a railway track in southwest Pakistan, officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-16-people-killed-powerful-080110453.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-16-people-killed-powerful-080110453.html</guid>
-            <pubDate>Sun, 24 May 2026 08:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan, China coast guards in standoff at top of South China Sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/820F22E84149A5BBD311C7F62D20EC1CA643C2E7FFC02B3444F547E089A57A9F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8ee1147ab5235bd3adcd5081047ff69a" alt="" /></p>TAIPEI, May 24 (Reuters) - The Taiwanese and Chinese coast guards were engaged in a tense standoff for the second day near the strategically located Pratas islands at the top of the South China Sea,]]></description>
-            <link>https://www.yahoo.com/news/world/articles/taiwan-china-coast-guards-standoff-073343070.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-china-coast-guards-standoff-073343070.html</guid>
-            <pubDate>Sun, 24 May 2026 08:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Attacks on Ebola centres intensify in eastern DRC amid outbreak fears]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1816630A1C638197A594396A955CF6E03992C9341ED838F0E3DD05646ED49404/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F26d872405033065eb1fa93a5bcaf7a61" alt="" /></p>Anger and mistrust growing over Ebola burials as traditions clash with medical response to prevent spread.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/attacks-ebola-centres-intensify-eastern-072921826.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/attacks-ebola-centres-intensify-eastern-072921826.html</guid>
-            <pubDate>Sun, 24 May 2026 08:19:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dies after shark attack on Australia's Great Barrier Reef]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CANBERRA, May 24 (Reuters) - A 39-year-old man has died after being attacked by a shark at the Great Barrier Reef on Sunday, police said, the second fatal shark attack in Australia this month.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/man-dies-shark-attack-australias-065344016.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dies-shark-attack-australias-065344016.html</guid>
-            <pubDate>Sun, 24 May 2026 08:19:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
