@@ -4,16 +4,383 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 10:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:20:38 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mandelson documents cast light on government work, appointment of US ambassador]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA4AC4162C41FD25EF4D52C4BA02CA9FC65F1EDC23CB89E873C95473331F8EB4/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fde7ceff699a96d000bc004ec7a710923" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/uk-releases-second-batch-files-131525298.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-releases-second-batch-files-131525298.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Tube strikes to go ahead as talks fail]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF7418F1B489B240BE353B607D651D6EDED1F7A7853674ED01F9D91C7C1B3AA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2fa04dcb8cc581e749ea5dd089b3eee7" alt="" /></p>Members of the RMT union will strike on Tuesday and Thursday this week in a row over working hours.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/london-tube-strikes-ahead-talks-154607453.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-tube-strikes-ahead-talks-154607453.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anthropic giving EU cybersecurity agency access to Mythos AI model]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACC5B51C9C0A5C7B09D800F0FA59E6312F0520721E6E81A6B2071B255189689C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fquartz_855%2F118079d1e094ff29eee520cda50cb3a4" alt="" /></p>ENISA will join Project Glasswing, Anthropic's program for testing the powerful vulnerability-finding model before a wider release]]></description>
+            <link>https://www.yahoo.com/news/world/articles/anthropic-giving-eu-cybersecurity-agency-160739607.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anthropic-giving-eu-cybersecurity-agency-160739607.html</guid>
+            <dc:creator><![CDATA[Quartz]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four bodies found in burnt-out car in Italy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE291DDDC1F2BAE4B8BEFDD12958241CD221BCEE3B1BF9D5D202D2EDCA2F6AA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd6a976ff53c1df5f51c6218123e11920" alt="" /></p>The charred bodies of four men have been discovered in a burnt-out car at an Italian petrol station. The bodies were found in a minivan that had caught fire at a petrol station in the small town of Amendolara in the south of the country.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/four-bodies-found-burnt-car-155523049.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-bodies-found-burnt-car-155523049.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel says Gaza doctor killed in strike was Hamas commander]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0481F4CF79694A4D9023F01141F60C25109E8422D08EABB6AE2843BBF3D3DBB5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fde1a97921982712c2be97ebff971b008" alt="" /></p>The Israeli military said on Monday that it had killed a Hamas commander who was also working as a doctor at a hospital in the Gaza Strip, despite an ongoing ceasefire. The man was killed on Saturday in what the military described as a "precise strike" in the central Gaza Strip.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-says-gaza-doctor-killed-155519987.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-says-gaza-doctor-killed-155519987.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chile warns of new criminal routes through Strait of Magellan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D78B88DB69FB4F0495C487466FBBEAEE563FC6A5D58949B5438EA9D9C6EC247/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc87a195831876bd36a57c707218efac8" alt="" /></p>Chilean prosecutors warned that organized crime groups are opening new maritime routes through the Strait of Magellan at the southern tip of Chile.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/chile-warns-criminal-routes-strait-155144072.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chile-warns-criminal-routes-strait-155144072.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mystery device found on beach 'not ordnance']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD0C1266196480304D1C110151C1CC5A4E290EABA28106CCBF14F0F5C5E2A741/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6405d22916a7e5a6d75081a4c7e663b4" alt="" /></p>HM Coastguard says Bridlington South Beach was evacuated after the object was discovered on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mystery-device-found-beach-not-154605487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mystery-device-found-beach-not-154605487.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tehran insists truce must cover Lebanon as fighting escalates]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/173BD8CFA1476D9012CDE14F0DA754C6DA312115C4DF46472D9CD62412C2F582/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9438381b948259c551cbd49053387b37" alt="" /></p>Iran on Monday renewed its call for a ceasefire in Lebanon amid continuing Israeli attacks, with Foreign Minister Abbas Araghchi saying the current fragile truce between Iran and the United States must also encompass Lebanon. "The ceasefire between Iran and the US is unequivocally a ceasefire on all fronts, including in Lebanon.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tehran-insists-truce-must-cover-154059360.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tehran-insists-truce-must-cover-154059360.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man pleads not guilty after nightclub evacuation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DFAA65AFC8D527CB2D1063AE79EA4A92080BBD38D61D8D81A3ED00D9046F0B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F31b014f02a11d7a4d7cedd1f1b7e4940" alt="" /></p>A man pleads not guilty to behaving in a disorderly manner after the incident in St Peter Port.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-pleads-not-guilty-nightclub-154019629.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-pleads-not-guilty-nightclub-154019629.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South African households grapple with water shortages]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC03DFC5D851922209E66E967B1041D3AB6235A1F500371CA717B1CC67C62E13/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F9e40a22dd28ff462d912786b9be34552" alt="" /></p>The water crisis is likely to hand the country’s main opposition parties leverage ahead of local elections later this year.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/south-african-households-grapple-water-153431808.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-african-households-grapple-water-153431808.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Czech court orders German neo-Nazi provocateur's extradition]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3523E0F88B27C174712FADEEF4E2A7EC464FDA8E6CBED2D8C8FE25177CBEFF88/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F89e6e4d1160c9f471de5584172a0294d" alt="" /></p>A Czech court said on Monday it had decided to extradite a German neo-Nazi provocateur accused of abusing Germany's gender laws to serve a sentence in a women's prison.The move meant Liebich would have been sent to a women's prison, sparking a debate in Germany over abuses of the new law.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/czech-court-orders-german-neo-152738582.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/czech-court-orders-german-neo-152738582.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman from Iran describes fear for loved ones: "Sense of terror"]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C168B44D54BB93D94A0E495754919A5263EB92FEBB6318E19856F91172700A0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F1cef9e9ac5d7fd38ae26d842b7e34fe6" alt="" /></p>An Iranian woman who now lives in the U.S. spoke with CBS News as the war with Iran entered its fourth month.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-iran-describes-fear-loved-151926857.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-iran-describes-fear-loved-151926857.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia's Under-16 Social Media Ban Carries Fines Up To $2.5 Million]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31DD8EA9C072A4DBFF3D37ADD64FCC2FBA5C6BDA66F052D2BFD7F4AEF6D6E352/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_100%2Fa51c9b08cc818c34102cb2f6d7aba55e" alt="" /></p>Malaysia's under-16 social media ban has taken effect.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/malaysias-under-16-social-media-151408579.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malaysias-under-16-social-media-151408579.html</guid>
+            <dc:creator><![CDATA[Engadget]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four bodies found in burnt-out car in Italy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ADD6571AFB80402A290B350342283C7ED7B4840D283D1AF1000D1450BC94659A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F326794e6e6772526cf150f1b544dcc1e" alt="" /></p>The charred bodies of four men have been discovered in a burnt-out car at an Italian petrol station. The bodies were found in a minivan that had caught fire at a petrol station in the small town of Amendolara in the south of the country.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/four-bodies-found-burnt-car-151042765.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-bodies-found-burnt-car-151042765.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whale dies off French coast, hauled away by lorry]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/58A9676738993DC910244E5854B1C576CB1D6A5A14BE18A8DE61408E0FE49AB5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F18c99f159281914008fdb64b78d32aab" alt="" /></p>A fin whale beached itself on the Île de Ré in western France, died and was then removed shortly afterwards. The cause of the female whale’s death is still unclear, said a spokeswoman for the local prefecture on Monday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/whale-dies-off-french-coast-151042239.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/whale-dies-off-french-coast-151042239.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German shopkeeper convicted over display of anti-Semitic sign]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0E70720D428277E3C746657C6C6D085592493F05012F9FE613CCBA3C6DE9C27/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffeef663d20a8e8dc2b58c4c3f4021e78" alt="" /></p>A man in Germany has been given a six-month suspended sentence for displaying an anti-Semitic notice in his shop. The court in the northern German city of Flensburg ruled on Monday that in September last year, the 60-year-old displayed a notice in a clearly visible position in his second-hand shop for around four hours which included the phrase "Jews are banned from these premises!!!" As a condition of his probation, he must pay a fine of €1,200 ($1,390) to the Ladelund Concentration Camp Memori]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-shopkeeper-convicted-over-display-151042134.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-shopkeeper-convicted-over-display-151042134.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abiy expected to retain power in Ethiopia election]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83DEAA4D86E4E34633FE6D6A286EF1917DEFB5234BEBD51ABEE3F100D208CDAC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fe12ac9c967f8807672684049f47b6a46" alt="" /></p>Prime Minister Abiy Ahmed has pursued economic liberalization during his two terms in power.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/abiy-expected-retain-power-ethiopia-150719145.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/abiy-expected-retain-power-ethiopia-150719145.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish woman wearing Star of David pendant forced out of Spanish sauna]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D580E4E452B30F888C449493AFA05416EE54253CD2AE98B8E542B0B5AD86402C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F1207a61fbc76fdc827b6e7a2d262b9cc" alt="" /></p>A Jewish woman wearing a Star of David pendant was forced to leave a sauna in Barcelona, in what Israel has called an “anti-Semitic attack”.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/jewish-woman-wearing-star-david-150651260.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jewish-woman-wearing-star-david-150651260.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK Military Looks At Allowing Lethal Strikes With Zero Human Intervention]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78B49F855923F56450F1F95700C81F8E5375427DA645C14487957876C4BAD950/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F6af2fc41c9acdc7f5cd6da16e974b5ac" alt="" /></p>UK military officials suggest removing human control from lethal AI targeting in exceptional circumstances despite policy denying autonomous weapons development.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uk-military-looks-allowing-lethal-150514026.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-military-looks-allowing-lethal-150514026.html</guid>
+            <dc:creator><![CDATA[Gadget Review]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola may have been spreading unchecked since January, aid groups fear]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2A7430487AE7CB6C750D932AEC81E2937579B8F20860DAB55FC29AE6D78BA130/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fd05b1bea471c0a60b664c86452e962df" alt="" /></p>The first Ebola case in the current epidemic in the Democratic Republic of Congo (DRC) may date back as far as January, according to local medics.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ebola-may-spreading-unchecked-since-150446584.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-may-spreading-unchecked-since-150446584.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[African officials seek homegrown response to Ebola outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C13E92D18FFF53C5E3B8371D57E762931B7234FA27F55A1F7BA9931DB5C79E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F01985717c3f987528753673c339219f8" alt="" /></p>Health systems in Africa are stretched, but leadership across the continent is driving the response, following major foreign aid cuts last year.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/african-officials-seek-homegrown-response-150230992.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/african-officials-seek-homegrown-response-150230992.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran Axes Peace Talks With U.S. as Trump Spirals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B67AA5A938B08544FB76F607B0BA5DC8BEF2AD0F7C1C6300478398941790D473/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_new_republic_521%2Fd0ef6d6af69d4fd56012c9fd9d99855d" alt="" /></p>Remember when Trump claimed he was close to a deal?]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-axes-peace-talks-u-150038224.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-axes-peace-talks-u-150038224.html</guid>
+            <dc:creator><![CDATA[TNR]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN Security Council to hold emergency meeting on Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6A0F9C58A1DE2DB2D85522A399CEFDF608B1B5D15B8C54C5DA9D75A8AF89BDD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7f5f64abe49aabc35dbd5d8542d94418" alt="" /></p>The UN Security Council is set to hold an emergency meeting later on Monday to discuss the escalating conflict in Lebanon, diplomats in New York said. The session was scheduled at the request of France and is due to begin at 3 pm (1900 GMT), according to diplomatic sources.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-security-council-hold-emergency-145537934.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-security-council-hold-emergency-145537934.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buckingham Palace Allegedly Aware of Ex-Prince Andrew’s 2020 Trade Dealings]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E96B3D5544C74AF21A7CC0DE855925AC42AF55E1C9EFB6FDDB628F8B2542B8F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2F25a4e5e7f1f344f575e0fc617f9cd3dd" alt="" /></p>A new BBC report has claimed that King Charles and Buckingham Palace were handed over a massive archive of over 30,000 emails in May 2020 regarding ex-Prince Andrew’s activities as the U.K.’s Special Representative for International Trade. The archive, which may have contained explosive revelations, was passed on to Lord Chamberlain, the most senior official […] The post Buckingham Palace Allegedly Aware of Ex-Prince Andrew’s 2020 Trade Dealings appeared first on Mandatory.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/buckingham-palace-allegedly-aware-ex-145423085.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/buckingham-palace-allegedly-aware-ex-145423085.html</guid>
+            <dc:creator><![CDATA[Mandatory]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran executes two men over January mosque arson amid trial outcry]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16BFAA26FD901A75E0911A088F22FD313E35BD705F815A8994D86205FA1D28B0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ffc47e9e58e79cf650224d26d735b63d1" alt="" /></p>Mehrdad Mohammadinia and Ashkan Maleki had allegedly been part of a group of demonstrators who targeted the Jafari Mosque in Tehran's Gisha neighborhood. The Islamic regime executed two men on Monday who were alleged to have burned a mosque during the January protests, the Iranian judicial outlet Mizan news agency reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-executes-two-men-over-145402947.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-two-men-over-145402947.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buckingham Palace Allegedly Aware of Ex-Prince Andrew’s Trade Envoy Work in 2020]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3390EA81C0AC927455C4594C6C34E2993309EB3DC3E0257F6D873FAC6D2AEB0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Feee77dd5259d4c40aebc28c2c3f31179" alt="" /></p>A new BBC report has claimed that King Charles and Buckingham Palace were handed over a massive archive of over 30,000 emails in May 2020 regarding ex-Prince Andrew’s activities as the U.K.’s Special Representative for International Trade. The archive, which may have contained explosive revelations, was passed on to Lord Chamberlain, the most senior official […] The post Buckingham Palace Allegedly Aware of Ex-Prince Andrew’s Trade Envoy Work in 2020 appeared first on Reality Tea.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/buckingham-palace-allegedly-aware-ex-145152609.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/buckingham-palace-allegedly-aware-ex-145152609.html</guid>
+            <dc:creator><![CDATA[RealityTea]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family's heartbreak after girl found dead in water]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Sixteen-year-old Lillianna Tomlinson's family say her life has been taken in the "most tragic way".]]></description>
+            <link>https://www.yahoo.com/news/world/articles/familys-heartbreak-girl-found-dead-145025787.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/familys-heartbreak-girl-found-dead-145025787.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British soldier killed in training exercise accident in northern Iraq]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The death was announced by the Defence Secretary John Healey in the House of Commons on Monday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/british-soldier-killed-training-exercise-143229864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-soldier-killed-training-exercise-143229864.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian PM Modi meets Myanmar military gov’t leader in New Delhi]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1191ECD68948CB8B68A98E7A51B8CCF5ECFF7DC8C89FD369AC7D3140962D4489/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F609cb2fb9e0390cd053176957f80e4ae" alt="" /></p>Myanmar opposition groups criticise India for hosting Min Aung Hlaing, but India says engagement is best way forward.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/indian-pm-modi-meets-myanmar-144517798.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indian-pm-modi-meets-myanmar-144517798.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Toddler and 2 Family Dogs Die After House Becomes Engulfed in Flames. Dad in Coma After Trying to Save Boy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B456B96397F98B475BBEB5D61594CCC340DB5AC824750661E533868D8CD9E795/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbbc746dadc5abe8b9503c5899d697176" alt="" /></p>“They tried to get the baby, but they couldn’t get to him,” Tracie Long said of firefighters' attempts to rescue her 3-year-old grandson]]></description>
+            <link>https://www.yahoo.com/news/world/articles/toddler-2-family-dogs-die-144403690.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/toddler-2-family-dogs-die-144403690.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel urges south Beirut residents to leave as strikes intensify]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FDAF2255D56777363DC6FB2418C7C0755086F9D7AD2F5472A8E83599370E46F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1b646f58df66cb5d87ba8f37d0d7cbd0" alt="" /></p>The Israeli military has called on residents of the southern suburbs of the Lebanese capital Beirut to flee. In a message in Arabic on X, a military spokesman said that people should leave their homes for their own safety.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-urges-south-beirut-residents-144034108.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-urges-south-beirut-residents-144034108.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany sees lowest level of rubbish since 2009]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C28485FC2C624F525BB62296486CF135F67FF4D24BFFB295A93F9213969A74F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1a2089490be7d07eee069a8f5d4b2515" alt="" /></p>Germans threw away less waste in 2024, with the total volume falling to its lowest level since 2009, the country's Federal Statistical Office reported on Monday. Preliminary results show that 362.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-sees-lowest-level-rubbish-144034698.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-sees-lowest-level-rubbish-144034698.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt’s new monorail offers a modern ride, but Cairo is still not convinced]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5A78B0250BB0F8C9B35C30E9BEC276D26BD2ABEC5B59570A99870074ACF929A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F44120501353c788365950dae52617b96" alt="" /></p>Cairo’s East Nile monorail opened to passengers this month as a flagship of Egypt’s infrastructure ambitions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/egypt-monorail-offers-modern-ride-143020767.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/egypt-monorail-offers-modern-ride-143020767.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Several figures emerge as next leaders of Hamas in Gaza, but who will end up leading the group?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0943191C0BE0ACC2B26BE9A452D83A07626E6901C10EBA2B6DF84479777AB3C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff817979083bd674aa589dee659aa220a" alt="" /></p>Although Hamas only controls half of Gaza, it still runs the lives of 2 million civilians and seeks out new leadership amid targeted eliminations by the IDF. Israel eliminated Hamas’ latest leader in Gaza, Mohammed Odeh, on May 26, just two weeks after the IDF had also killed his predecessor, Izz al-Din al-Haddad.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/several-figures-emerge-next-leaders-142929377.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/several-figures-emerge-next-leaders-142929377.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is the British military actually for?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FAB0CDA3C8912F898AAB0D3A85BED27A20334D3B35BEF8154ACD1036A2B99C93/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ff67553f89fe851c2367e41d8501bd9e2" alt="" /></p>Defence debates have too long sidestepped the central question of what the British military is actually for. What purpose are the Armed Forces meant to serve? Who are they intended to fight? Where? With which allies? For how long? And to what end?]]></description>
+            <link>https://www.yahoo.com/news/world/articles/british-military-actually-142703491.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-military-actually-142703491.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian missiles target U.S. base in Kuwait as both sides keep trading fire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B1B54C3A7D1AB56550B82E1D90E244C32960A702DC593886E4D661998319413/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftask_purpose_217%2F6d53edfa86c51aab02f99746592b2240" alt="" /></p>The U.S. military shot down Iranian missiles targeting American forces in Kuwait on Sunday night. Several U.S. troops were reportedly injured in similar strikes last week.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iranian-missiles-target-u-kuwait-142654646.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-missiles-target-u-kuwait-142654646.html</guid>
+            <dc:creator><![CDATA[Task & Purpose]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Syrian general under al-Assad faces torture trial in Vienna]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E16281495440AD489E891BCD1468D8FF2549933689E58D7A5AB8ED51230086A9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5817089ceba3f8cde62f8a29f1975aaa" alt="" /></p>Two senior security officials from the former Syrian government of ousted ruler Bashar al-Assad are on trial in Austria, accused of torture, grievous bodily harm and sexual assault, the prosecution at Vienna's regional court said on Monday. The defendants allegedly mistreated detainees themselves and gave orders for others to do so, the prosecutor said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/former-syrian-general-under-al-142535331.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-syrian-general-under-al-142535331.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docs Tell Woman to Take Painkillers for a Cold. After She's Found 'Barely Breathing,' She's Diagnosed with Meningitis]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71260C2F887BDF5C66B9AA9722B26ABA497221C3098D842618986B3262EC158A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3f03ddd562c90f2cc69bff18d9029ca8" alt="" /></p>Nicola "Nicky" Hillier ended up on life support from a fast-moving bacterial meningitis infection that left her deaf and struggling to walk]]></description>
+            <link>https://www.yahoo.com/news/world/articles/docs-tell-woman-painkillers-cold-142522015.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/docs-tell-woman-painkillers-cold-142522015.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Prince Andrew under investigation after incident at Royal Ascot]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF241E38507C43275C70850A77367330BC7BD67480FDF2D2D0E2ADE2E6F5A348/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Faol_wonderwall_734%2F2af410943c64f9bb095068fbe37b8c4f" alt="" /></p>Andrew Mountbatten-Windsor is in hot water once again. According to The Sunday Times, authorities are investigating the former Duke of York over an alleged encounter with a woman at Royal Ascot in 2002.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-142335416.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-142335416.html</guid>
+            <dc:creator><![CDATA[Wonderwall]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway’s Crown Prince Haakon Cuts Japan Trip Short as His Wife’s Health Continues to Deteriorate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5179483A8C423EA3D976B06B9DCCDD585CBF5FB897B5A453888946DB7C2FA7B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftown_country_721%2Fde03a32b8955c4f10fb74d85a909c535" alt="" /></p>Crown Prince Haakon is returning early from an official trip to Japan as Crown Princess Mette-Marit’s pulmonary fibrosis continues to worsen. Their daughter, Princess Ingrid Alexandra is also flying back from Australia, where she is currently enrolled in university.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/norway-crown-prince-haakon-cuts-141736284.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/norway-crown-prince-haakon-cuts-141736284.html</guid>
+            <dc:creator><![CDATA[Town & Country]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Laos rescuers heard ‘knocking sound’ searching cave for lost villagers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/10020E9E9A78622BBCC7123CAC6494117175EC4E84AB30F22752F1A7C9961C7D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F3dc63f74356d33bd3c2456c7472cb20b" alt="" /></p>Rescue workers in Laos said they heard a knocking sound while searching a cave system for villagers that went missing after a flash flood on May 19.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/laos-rescuers-heard-knocking-sound-141441834.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/laos-rescuers-heard-knocking-sound-141441834.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel orders strikes on south Beirut ahead of UN meeting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/390A7BD7EB50734916446D3A0A314EA26A69BF24A4AF5E3CE0ABD5C9BD91E557/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F04b4a2d2fc817470563cec01b83f0c00" alt="" /></p>Israel said Monday it would once again target Beirut's southern suburbs, a Hezbollah stronghold mostly spared heavy attacks since April, as it stages its deepest incursion into Lebanon in two decades.Beirut's southern suburbs and their surroundings have been struck twice since April 8, when huge Israeli attacks across Lebanon killed hundreds in minutes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-orders-strikes-beirut-ahead-120247260.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-orders-strikes-beirut-ahead-120247260.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-Prince Andrew Under Investigation for ‘Inappropriate’ Royal Ascot Incident — Report]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8E6818EC9085A0B77DFDD3B697D562129DDFCB4ACE331ED2C1FFA7F9BF235D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2F83990eb04e1b159267a0b9f02713c230" alt="" /></p>Several months after his arrest on suspicion of misconduct in public office and ties to Jeffrey Epstein, ex-Prince Andrew Mountbatten-Windsor has found himself under investigation again. A new report suggests that this is for his alleged inappropriate behavior towards a woman many years ago at the Royal Ascot. Police are investigating Ex-Prince Andrew over ‘inappropriate […] The post Ex-Prince Andrew Under Investigation for ‘Inappropriate’ Royal Ascot Incident — Report appeared first on Reality]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-141132850.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-141132850.html</guid>
+            <dc:creator><![CDATA[RealityTea]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frustration, anger as residents rush to flee Beirut's southern suburbs]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2EC76DE54DB02A072AEBBC80E14925EABF81E56DFCD0CBA74F2F63BCC891B742/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F89e9c0ba845396f3c7772ec031d290cf" alt="" /></p>Lebanese Army troops were deployed on Monday at the entrances to Beirut's southern suburbs to organize traffic as residents rushed to leave the area amid fears of possible Israeli strikes. Earlier Israeli Prime Minister Benjamin Netanyahu announced a decision to strike Beirut's southern suburbs, widely known as Dahiyeh, prompting anxiety among residents and disruptions to daily life.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/frustration-anger-residents-rush-flee-141035258.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/frustration-anger-residents-rush-flee-141035258.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hondius cruise ship ready to sail again after hantavirus outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4BFAE11C18583C92ABE642852B7AA4676DC608359737ADFE0EAC241CA5664747/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa6f8a5d22c0fae9d64f9250499334f27" alt="" /></p>The cruise ship at the centre of a hantavirus outbreak has been disinfected and is ready to set sail again with passengers, its operator said on Monday. The Hondius is to depart on June 6 for Norwegian Arctic archipelago of Svalbard.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hondius-cruise-ship-ready-sail-141034325.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hondius-cruise-ship-ready-sail-141034325.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF raids home of terrorist who carried out Sunday's car ramming attack in Gush Etzion]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BACB16CF78F7869354644FC735DFACAEA2776A5CBA60ED2453D507385597213C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F8656de697b44955a4f5c369ecfb935d4" alt="" /></p>As part of the operation, soldiers from the Yehuda Brigade interrogated those close to the terrorist. The IDF overnight conducted an operation in Hebron to raid the home of the terrorist who carried out the terror ramming attack at the Gush Etzion Junction, the military announced on Monday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/idf-raids-home-terrorist-carried-140728997.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-raids-home-terrorist-carried-140728997.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 01 Jun 2026 16:20:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nigeria police warn against reprisal attacks against South Africans]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BADE4830EE0191A045EB5512A699B8D932A4DC1FF57DA65FB8A76A80AEF5D434/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F49a28946c952daef2e6e5d1ca79d2912" alt="" /></p>Tensions have been rising in South Africa in recent weeks following several anti-migrant protests.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigeria-police-warn-against-reprisal-100255957.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigeria-police-warn-against-reprisal-100255957.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +388,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA1D5242BBCA055E9F9F77157E9E48AFEEA462680AA38D29F0BD80506FC1A3DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4220140611124a4d5a6ec8edac5db677" alt="" /></p>The French Navy conducted the operation with the support of allies including the UK on Sunday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-intercepts-sanctioned-russian-oil-100227166.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-intercepts-sanctioned-russian-oil-100227166.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +395,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00282D07E2BC12D1F06F402C67F9B8644C7FF1820849E7CE8541E83E2C529646/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3dcdc69e9a95c1f467b2863f08dac976" alt="" /></p>A court has ruled the UK does not need to pay Rwanda after the UK pulled a deal between the two countries.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uk-wins-court-case-over-093636091.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-wins-court-case-over-093636091.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +402,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F187AD17A5A5A2EEB54E042590917E9D6E08D6261EDCE7CEBBBF7DD863C095A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0b1c2fb8ec9ba1b869d5da0d07eb1476" alt="" /></p>The four nurses - three men and a woman - received certificates to celebrate their recoveries.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dr-congo-celebrates-recovery-ebola-091453010.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-celebrates-recovery-ebola-091453010.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +409,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6243431DF0353366BABAB5FD3429B6173D76494423540BA132276C02F2B748C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc641a81528398b84d30769fdffeed0ef" alt="" /></p>Fewer people moved to Germany last year than in 2024, with immigration down 13% to around 1. 48 million in 2025, the Federal Statistical Office in Wiesbaden reported on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fewer-syrian-afghan-ukrainian-arrivals-095536200.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fewer-syrian-afghan-ukrainian-arrivals-095536200.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +416,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/575CC16AB1AE289FBB65D0631F921CDFA6C6F7C2356BD8F8D5BF91AFA36B26B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3a7b7903b77bdc365f2a89d37b5495a9" alt="" /></p>Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning "repeated" Iranian attacks.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-us-report-wave-strikes-061751554.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-us-report-wave-strikes-061751554.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +423,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E3C69704E623FD0162678DF039122E08DDB412D582C67EBE8E5C85447A2AAB5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Faa4f742c13458e2f0473550aa19fd8c7" alt="" /></p>A secret bunker, an underground tunnel and an armband bearing the Star of David are among the rare findings in a house in southern Poland that was used by Jews, including young members of the resistance, to hide from the Nazis.  “This armband is a witness, it’s like directly touching that evil which people created for other people,” Karolina Jakoweńko from the Cukerman’s Gate Foundation, which organized the search, told The Associated Press.]]></description>
             <link>https://www.yahoo.com/news/world/articles/secret-bunker-tunnel-star-david-094708172.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/secret-bunker-tunnel-star-david-094708172.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +430,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36439D735E41AD1B7F65271BA4887A85ADAAF1EFE31D0C4F8A202A18322B3F18/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3031fb6b95ade9a6a680255698a2a34c" alt="" /></p>At least 282 confirmed cases of Ebola have now been reported in Congo’s ongoing outbreak, the central African nation said late Sunday, as patients who recovered from the disease spoke of their indescribable joy in interviews with The Associated Press.  The outbreak remains focused in Congo's eastern Ituri province, where 264 of the cases have been recorded, Congo’s Ministry of Health said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/confirmed-ebola-cases-congo-reach-094208435.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/confirmed-ebola-cases-congo-reach-094208435.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +437,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/804E3C15D00293631A01B499F0AA898AF0C08CF9E734D59E2D512262D20A02CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe40a8a664479c40ab04a19ddef9185ab" alt="" /></p>Two more men have been executed in Iran in connection with the January uprising, the judiciary-linked Mizan news agency reported on Monday. Mehdad Mohammadi-Nia and Ashkan Maleki were accused of acts including setting fire to a mosque during the mass protests.]]></description>
             <link>https://www.yahoo.com/news/world/articles/executions-iran-following-protests-094048202.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/executions-iran-following-protests-094048202.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +444,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/02E1AEFAD7E225A516184670EF3D808A23A8B00515C8C595FB286A9E77489928/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F75ed9a73373ca01ccdb6c955edfff3ae" alt="" /></p>Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-pm-orders-strikes-beirut-092840101.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-pm-orders-strikes-beirut-092840101.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +451,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/58ACFDC69DCD9C0E3FBD6CF5078B8B67FCE63DF0C5684735614E5625279B866D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F0a7b82736cbabd022925d2dd6df4d151" alt="" /></p>The teenager’s disappearance was reported at 6.30pm on Sunday at the River Wharfe, near Burnsall in the Yorkshire Dales]]></description>
             <link>https://www.yahoo.com/news/world/articles/girl-13-dies-being-rescued-074624292.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/girl-13-dies-being-rescued-074624292.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +458,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/17245407728CF3F1C02075B4FA18D3535A7F91EBB90B78D7F3EDE95C041FA709/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff041c58e24b34dc1a45670fc84e241af" alt="" /></p>Tomi Reichental, who lost 35 close family members in the Holocaust, moved to the Republic of Ireland in 1959.]]></description>
             <link>https://www.yahoo.com/news/world/articles/holocaust-survivor-tomi-reichental-dies-084809099.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/holocaust-survivor-tomi-reichental-dies-084809099.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +465,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33B7B264F905C6E9E20A1810FB91D652A380A789DC930E1B61B928507CC916E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F755039c59153ae7c11a94e7a3877585e" alt="" /></p>A Syrian man convicted of an Islamist terrorist stabbing in the west German city of Bielefeld last year was sentenced on Monday to life in prison and will remain in preventive detention if his sentence ends early due to the seriousness of his crimes, the court announced. The ruling echos the demands of federal prosecutors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/life-prison-syrian-convicted-islamist-091027346.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/life-prison-syrian-convicted-islamist-091027346.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +472,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A46831FAE9DC59C7E0F0D826A8C51DB84F17791C005D02D4F8BDFE122309D922/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbe10e8ca10c1c619e068c833e6e792a9" alt="" /></p>The conflict between Israel and the Iran-backed Lebanese Hezbollah militia escalated further, with eight people killed and 19 injured in an Israeli overnight attack in southern Lebanon, Lebanon's state news agency NNA reported on Monday. Hezbollah, a Shiite militia, has meanwhile stepped up its attacks on northern Israel.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eight-killed-further-clashes-between-091027996.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eight-killed-further-clashes-between-091027996.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +479,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B9A14CB0637C54AC656D38EECE590336DDDA55906F66FD7C9FF803B05B0C57BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0a9bfa934059c35b15f87bbd5f8cf5a0" alt="" /></p>Five workers were killed and two others injured Monday after an explosion and fire at a Hanwha Aerospace defense facility in Daejeon, officials said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/five-killed-explosion-hanwha-aerospace-090811386.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-killed-explosion-hanwha-aerospace-090811386.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +486,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D762AE45601AA8DF18D497C053BBDA88BB5CB33446BDEF36D0E359EBE8EFED3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F0b2f7f991065b550f88236981518eb59" alt="" /></p>One soldier was severely wounded, and two others were lightly wounded during the incident in which Tzarfati was killed. Staff-Sergeant Adam Tzarfati was killed in a Hezbollah drone explosion in southern Lebanon, the IDF announced on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/staff-sergeant-adam-tzarfati-killed-085758993.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/staff-sergeant-adam-tzarfati-killed-085758993.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +493,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2914834FE0BFC0937C65E81BBC5ECEBF04CC277F5680E183E4A11BFDF02F53BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F287661bdbc7e0432e28d75aaeb3b6a1e" alt="" /></p>Kuwait, which hosts US forces, says its defence systems intercepted missiles and drones amid sirens across the country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-irgc-launches-retaliatory-strike-085326724.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-irgc-launches-retaliatory-strike-085326724.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +500,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/000B56B04CF35E722AD8BE20325644D613C9A59B9855C2C284C952A7A848AC8B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb0c78465c957e9b0071fb9f24ec29b8d" alt="" /></p>An ex-Syrian general and a former senior Syrian police officer went on trial in Vienna on Monday, accused of torturing opponents of the now-deposed regime of Bashar al-Assad.The defendants, a former brigadier general in the Syrian intelligence services and a former head of the investigations office of the local criminal police, are said to have committed the crimes in Raqa between April 2011 and March 2013.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-syrians-accused-torture-trial-085032996.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-syrians-accused-torture-trial-085032996.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +507,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/05898F77179F53A3F328A02624D741AB61D927BBA98D7A70D612079AC8FD16FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fretail_insight_network_724%2F6c70d542e2b835fd77c8e014b20e9950" alt="" /></p>The UK is under renewed scrutiny over support for young people entering work following a government interim report led by Alan Milburn on youth employment.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uk-youth-jobs-debate-intensifies-083654409.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-youth-jobs-debate-intensifies-083654409.html</guid>
-            <dc:creator><![CDATA[Retail Insight Network]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +514,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E2FD0F7B86A63F84406B5FADD52897E1F8596F673DDA378ABEA2EC9F9AA875D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F74c399cc8e9303409d38388a63e362b1" alt="" /></p>The fatal assault happened on Clarendon Street in the early hours of Monday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-dead-assault-dublin-083522824.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dead-assault-dublin-083522824.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +521,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A6C55AE0BEA75CD6654BAA6CCD8DA4D3E198506FF3D759DD154F67C9ED93D6C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fd3b5dc68fdbb3fad0fe4ea293b77e572" alt="" /></p>Prime Minister Benjamin Netanyahu ordered the Israeli military to attack the southern Beirut suburb of Dahiyeh early Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/netanyahu-orders-beirut-strikes-lebanon-082718964.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/netanyahu-orders-beirut-strikes-lebanon-082718964.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +528,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D36954AEBC2025462FA90D008CADAC30B86F6C1F87EAD6E16B898133AA746910/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F64d13b14760b2dcbc83342f591c4a767" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/world/articles/malaysia-bars-under-16s-signing-082248554.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malaysia-bars-under-16s-signing-082248554.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +535,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F5EDC485BD66B785B9B96939EE2F0F91990D6ABB359BEA6577C20F86BAB2C38/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9c371457eccba803d74afdd6195410e3" alt="" /></p>KUALA LUMPUR, June 1 (Reuters) - Malaysia has begun barring those aged under 16 from registering accounts on social media platforms, its communications regulator said on Monday, as it boosts efforts]]></description>
             <link>https://www.yahoo.com/news/world/articles/malaysia-bars-under-16s-signing-082248153.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malaysia-bars-under-16s-signing-082248153.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +542,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC4B5FCF7C8F7A80F494475201E91BBA3BCE61E562B869C65FD4C03DC26E3D47/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc62dffebae02ac8a3c88e292d7c256dd" alt="" /></p>Plan aims to create conducive environment for a gradual de-escalation and cessation of all hostilities, official says.]]></description>
             <link>https://www.yahoo.com/news/world/articles/washington-proposes-roadmap-escalation-lebanon-082211652.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/washington-proposes-roadmap-escalation-lebanon-082211652.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +549,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E02C01D7BBE8FB66B38FFF3556B8248869307259C103CA9012D9CA85DBE7061/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd0b741417aa29a00822005ea649bf277" alt="" /></p>The separate crashes occurred in County Louth, Roscommon and Dublin.]]></description>
             <link>https://www.yahoo.com/news/world/articles/three-deaths-irish-roads-over-081402166.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-deaths-irish-roads-over-081402166.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -213,7 +556,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/886410A021CFE951FF98EF94F873929FBE652EA9E79E4034660BA954D50DA2C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F01d97a7a1a468a92799a99da5b534845" alt="" /></p>Iran's Revolutionary Guards reported a retaliatory attack on Monday following a US airstrike. The base from which the United States had launched its attack on the southern province of Hormozgan had been struck by Iranian forces, the Islamic Revolutionary Guard Corps said in a statement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-claims-retaliatory-strike-us-081133253.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-claims-retaliatory-strike-us-081133253.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -221,7 +563,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5F7489E99C4AAE8C8942448405895AD715562C98E1852E92CC0DF3282ADC6CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdc98706c8434e2c13d7b93d2ca427f68" alt="" /></p>Food sellers on Chinese delivery platforms must have physical shopfronts and indicate if they do not offer dine-in services under new rules unveiled on Monday to stamp out "ghost" takeout merchants.Merchants on food delivery platforms must now have physical shopfronts and label themselves if they do not offer dine-in services, according to the SAMR's new rules.]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-issues-rules-bust-ghost-080706049.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-issues-rules-bust-ghost-080706049.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -229,7 +570,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC4E90292C34B24CE93493E87BABD6DB5108E767428C4B61168BD97FD955423D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4128107a10a8afa4b36de761f23ac31d" alt="" /></p>Rescuers in Laos say they are investigating a possible “knocking response” deep inside a flooded cave network where two men are believed to remain trapped.]]></description>
             <link>https://www.yahoo.com/news/world/articles/laos-cave-rescuers-investigating-knocking-080251509.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/laos-cave-rescuers-investigating-knocking-080251509.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -237,7 +577,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24F7A905A21960DCECB8CD7F366A748CB1C332E3B184CE3D031E57C2D68D8846/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Fb2d0c75b2659d2653e0edef5550962a0" alt="" /></p>Abelardo de la Espriella, who has painted himself as a Trump supporter, will face left-wing Iván Cepeda in the runoff elections.]]></description>
             <link>https://www.yahoo.com/news/world/articles/colombia-pro-trump-presidential-candidate-080032819.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-pro-trump-presidential-candidate-080032819.html</guid>
-            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -245,7 +584,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D5920DDB79E46C3835C0E4CBFBC0AC03A4ABBBAE7D36BB471D7EF41E09537BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F073fc1d2ac06fe0bb20c5585fe6c8754" alt="" /></p>A Philippine senator said he will surrender to authorities after a special anti-graft court ordered his arrest on Monday on a non-bailable charge of plunder after he allegedly pocketed a huge kickback in a flood-control project in the latest crisis to hit the upper chamber.  The special Sandiganbayan anti-graft court had initially issued a warrant for Sen. Jinggoy Estrada’s arrest Friday on a graft charge that was bailable.  Estrada, 63, has strongly denied allegations mainly by a former government public works engineer that he received more than 570 million pesos ($9.3 million) in kickbacks from flood control projects.]]></description>
             <link>https://www.yahoo.com/news/world/articles/philippine-senator-charged-plunder-says-075930783.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/philippine-senator-charged-plunder-says-075930783.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -253,7 +591,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2DD095AFCCE6AF5BEE7196971DF3A5432EEEFACF0267E2DF6C2573FF172DC19/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F644830f14e547315b20a958e00aa2619" alt="" /></p>About a dozen people have been injured in Russia's latest attacks on Ukraine, officials in the war-torn country said on Monday. In the border city of Kharkiv in north-eastern Ukraine, two people were injured and two apartment blocks were hit, Governor Oleh Syniehubov wrote on Telegram.]]></description>
             <link>https://www.yahoo.com/news/world/articles/many-injured-ukrainians-latest-russian-075522190.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/many-injured-ukrainians-latest-russian-075522190.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -261,7 +598,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA13A2B863C760303374544205314FFC0851E1F4B8C8A4768831CD58A312F11B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe3119ad14fe06f8d806989de08e9d383" alt="" /></p>While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-war-day-94-us-074023433.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-day-94-us-074023433.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -269,7 +605,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C48C684B294D68EFAEF81C9A6982EBE4B70C9DB7F77567413FA8C3A786F29F4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fb77a5f19e0c8c0196b41e09f158034a6" alt="" /></p>The United States and Iran said they traded attacks late Sunday, with each side claiming to have hit military targets, the latest tit-for-tat strikes amid a brittling cease-fire.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-iran-trade-strikes-over-071821757.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-iran-trade-strikes-over-071821757.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -277,7 +612,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30BD13D4F0B4370232FD12A04C8A217B4A2A6333F0095BC7B39BC1FB8C567F8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F226ff4123b30f9e8ce684cfc3c72b178" alt="" /></p>Vape-related fires across Britain have soared by more than 450pc as lithium batteries explode, a major insurance firm has warned.]]></description>
             <link>https://www.yahoo.com/news/world/articles/vape-related-fires-surge-450pc-070000121.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vape-related-fires-surge-450pc-070000121.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -285,7 +619,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DD967B50D9CA8A7022613AA2E33DAEB59637415AD61A8223A2541F3BDF9A0BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2e02e6ce4e3a24adcbcf6a51ece6c3a8" alt="" /></p>Australia's economy minister said Monday that "legitimate" concerns were driving a rise in support for the far right after a bombshell opinion poll showed the populist One Nation is now the country's most popular party."I think people have legitimate concerns about where they fit in the economy," Treasurer Jim Chalmers said when asked what was driving that.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australia-economy-minister-says-legitimate-065937014.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-economy-minister-says-legitimate-065937014.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -293,7 +626,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/496772A81167F3694D62A8C7A7D0E108C2F41CA002786086991BC019154267C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F1c2cdf4a3adb0632c912fab141ee93f6" alt="" /></p>According to CENTCOM, the attacks were in response to Iran's downing of an American MQ-1 Reaper drone. The United States struck Iranian targets in Goruk and Qeshm Island, both located along the Strait of Hormuz, US Central Command (CENTCOM) announced on Monday on X/Twitter.]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-strikes-iranian-targets-along-065717450.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-strikes-iranian-targets-along-065717450.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -301,7 +633,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5AC51C1E9DCE1458C33D0A1434DE491BB7C7B41D546E4C36BBE4F0E447CDA373/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff5049f74faf6f4c5d38aea04f009a0d8" alt="" /></p>A German court is due to deliver its verdict on Monday in the trial of a Syrian man who has confessed to carrying out an Islamist stabbing attack that seriously wounded four people outside a bar in the western city of Bielefeld last year. Federal prosecutors have asked the Higher Regional Court in Düsseldorf to sentence the 36-year-old defendant, identified as Mahmoud M under German privacy rules, to life imprisonment for four counts of attempted murder.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-court-rule-terrorist-attack-065538098.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-court-rule-terrorist-attack-065538098.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -309,7 +640,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34D84B509E639F5F4123D40E25C8C434D08E2D7A28265FB3138EA6C19AAF44D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F0cd96fecfff9e2cb3ef9ce4929bd1a47" alt="" /></p>Huge numbers of Muslims defied searing desert temperatures to pray on Mount Arafat at the climax of the hajj pilgrimage, but video purportedly showing a sea of worshippers at the site is AI-generated. The video is inconsistent with footage filmed by news organisations including AFP, and Mount Arafat's landscape, and was also flagged as synthetic by AI detection software.]]></description>
             <link>https://www.yahoo.com/news/world/articles/video-showing-sea-hajj-pilgrims-065505834.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-showing-sea-hajj-pilgrims-065505834.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -317,7 +647,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5596AA0B9B0BEC45A65224009EE7EEB835A8F24A84716E399AFBEBF7D0FBEAFC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd6fa3bbab9325062e2a8db3bc4c8290a" alt="" /></p>Dozens of officials will patrol world-famous Shibuya as Japan responds to the impacts of overtourism.]]></description>
             <link>https://www.yahoo.com/news/world/articles/litterbugs-now-face-spot-fines-065244698.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/litterbugs-now-face-spot-fines-065244698.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -325,7 +654,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE25ED66E8EA0C7F74D8C894CB9BFA87BDDDBE535238D037BDE30D6E1F856860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F19fc268658505eee8761047f2f062b4e" alt="" /></p>Rescuers searching for two miners missing in a flooded cave system in Laos said they had discovered a previously unknown entrance that could provide access to the area where the men are believed to be trapped. Australian cave diver Josh Richards told dpa that he, French cave expert Robin Cuesta and soldiers found the opening after trekking through dense forest in the mountainous Xaisomboun province.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rescuers-access-route-search-two-064020410.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-access-route-search-two-064020410.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -333,7 +661,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC9B47C78B4318B062D21CB932CD8694548BC657EAA2ED760F51043D3B363BC7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa365b89f18e04a03ee3be9a11f4f2170" alt="" /></p>PARIS, June 1 () - The French Navy on Sunday boarded an oil tanker, named the Tagor, which was subject ‌to international sanctions and sailing from Russia, French President Emmanuel ‌Macron wrote on X. "This operation took place in the Atlantic Ocean, on the high ​seas, with the support of several partners, including the United Kingdom, in strict compliance with the law of the sea," he said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/frances-macron-says-french-navy-054135363.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/frances-macron-says-french-navy-054135363.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -341,7 +668,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07ABAF911526EDC82669252184167E31146F21A98E808CC2A79571DEA88EA23C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff9014c34b7cb3f29d3522316383758d3" alt="" /></p>Until three years ago, Sara Cabral’s faith experience was on trend with other Southern European youth — a “Catholic but never practicing” upbringing with little relevance to her life on Spain’s Canary Islands.  “You get a restlessness about an emptiness that you don’t know how to fill,” Cabral, 26, says of her embrace of Catholicism.  On trips to Spain this month and France in September, Leo will find thousands of young people like her in these traditionally Catholic but now staunchly secular countries, where historic churches are abundant and Mass attendance is sparse.]]></description>
             <link>https://www.yahoo.com/news/world/articles/returning-fold-young-spaniards-embrace-061714098.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/returning-fold-young-spaniards-embrace-061714098.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -349,7 +675,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B6BD2F136B9715B4B261996C92F4B2AD89F1E867020C77F96387C6D10FFC765/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2Fcd6c7695539b5381e692234d40622c28" alt="" /></p>Ukraine's air defense gap against Russian glide bombs may have an answer in the Gripen paired with the Meteor beyond-visual-range missile.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-pairs-mbda-meteor-missiles-061321478.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-pairs-mbda-meteor-missiles-061321478.html</guid>
-            <dc:creator><![CDATA[Interesting Engineering]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -357,7 +682,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46A903DB296936CD6839D3639BB01EE996E4FC93B32AA76B08EE437518028126/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb25d2af868864777d1e0d0370dcf90b3" alt="" /></p>Having children in inner London is becoming rarer. But Jonny Singer, a 34-year-old dad in Islington who works in sports administration, is pleased that he and his wife have bucked the trend.]]></description>
             <link>https://www.yahoo.com/news/world/articles/london-growing-childlessness-crisis-060000609.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-growing-childlessness-crisis-060000609.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -365,7 +689,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4AA0A1D3933755F0D73023E475D4CD0F21359FC2EB16C821D2CDF43058D70172/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7a0c0b0406d93e7f3c3084f8c07b9f9a" alt="" /></p>Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-attacks-damage-20-us-053323843.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-attacks-damage-20-us-053323843.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -373,7 +696,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/915229F2BE3DCF3DE46D5D9FEE3D3A5C85936ED369B2C5CA2D5AB16BB3A2BE66/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbac3de5820d9f59659973b0e9c2d89fb" alt="" /></p>The 175-year-old cedar had to be cut down after another tree fell during storms last year.]]></description>
             <link>https://www.yahoo.com/news/world/articles/felled-tree-transformed-prayer-sculpture-054017915.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/felled-tree-transformed-prayer-sculpture-054017915.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 01 Jun 2026 10:13:15 GMT</pubDate>
         </item>
         <item>
@@ -6748,328 +7070,6 @@ On one street, children played just metres from the site of a Russian strike.]]>
             <link>https://www.yahoo.com/news/politics/articles/us-military-says-carried-self-235533079.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-military-says-carried-self-235533079.html</guid>
             <pubDate>Tue, 26 May 2026 03:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada's Carney calls treatment of Gaza flotilla activists 'unacceptable']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A653BAFFE5DB3C1AD82D65B61A816A45BB4318DAEAA7F30D3AE1421209CB3418/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F15275dcd6fa39e1eaa73d9faa25d444a" alt="" /></p>Canadian Prime Minister Mark Carney on Monday denounced the "appalling treatment" of activists aboard the Gaza-bound aid flotilla as "unacceptable," in a call with Israeli President Isaac Herzog, according to a statement.In the call, Carney called for an independent investigation and "strongly condemned" remarks by Ben Gvir, according to the statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/canadas-carney-calls-treatment-gaza-234440879.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canadas-carney-calls-treatment-gaza-234440879.html</guid>
-            <pubDate>Tue, 26 May 2026 03:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia sees second fatal shark attack in just over week]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF7035172CB66A08048E72C2B8BD47C472C74D7DD3BC524905074E85C5D8DAE5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F45c219248847713332b5cb8b28396f56" alt="" /></p>Nine days before Michael Jensz's death, another spearfisher was killed by a suspected 16-foot great white shark.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-sees-second-fatal-shark-224109924.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-sees-second-fatal-shark-224109924.html</guid>
-            <pubDate>Tue, 26 May 2026 03:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo Uses First Major Papal Text to Warn About Dangers of AI]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E340187075EDB80768480A906F59E25C7802962E4D3D68673C5DE9EFEF3B138B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F2be0a2615a0de04021e153831fc6457e" alt="" /></p>The 42,300-word encyclical urges greater regulation of artificial intelligence.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/pope-leo-uses-first-major-205646134.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/pope-leo-uses-first-major-205646134.html</guid>
-            <pubDate>Tue, 26 May 2026 03:42:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India's trade minister says visit by Canada's Carney reset ties after 2023 killing of Sikh activist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5B5584AED54126FE6713016E33937942B24D9C88F4037766CC71B73A9F7E20D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5591d3239042dc9a8f644fe4dde4d52f" alt="" /></p>Canadian Prime Minister Mark Carney's recent visit to India has helped pave the way for a complete reset of Canada-India relations, India's trade minister said Monday.  The ties were strained under Carney's predecessor in the wake of the 2023 killing of a Sikh activist in Canada.  The remarks by India’s Commerce and Industry Minister Piyush Goyal, who is visiting Canada, came as he met with Canada's International Trade Minister Maninder Sidhu.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/indias-trade-minister-says-visit-235059579.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/indias-trade-minister-says-visit-235059579.html</guid>
-            <pubDate>Mon, 25 May 2026 23:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US military strikes Iranian boats, missile launch sites: CENTCOM]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>WASHINGTON, May 25 (Reuters) - The U.S. military carried out strikes on Monday in southern Iran against targets including boats attempting to lay mines and missile launch sites, in what it described]]></description>
-            <link>https://www.yahoo.com/news/articles/us-military-strikes-iranian-boats-231330799.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-military-strikes-iranian-boats-231330799.html</guid>
-            <pubDate>Mon, 25 May 2026 23:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US forces conducted 'self-defense strikes' in southern Iran, Fox News says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 25 (Reuters) - U.S. forces conducted "self-defense strikes" in southern Iran on Monday, Fox News reported, citing a military spokesperson.]]></description>
-            <link>https://www.yahoo.com/news/articles/us-forces-conducted-self-defense-230610181.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-forces-conducted-self-defense-230610181.html</guid>
-            <pubDate>Mon, 25 May 2026 23:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's military says it's striking Hezbollah sites as Netanyahu vows to 'increase the blows']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5E9618071424B06BCFA7E9754B7A4B9CC8F5FBB006E221677747F1941019CD6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F819cd72c4bf3f46c4d6cb02a9159fdb9" alt="" /></p>Israel’s air force targeted sites belonging to Hezbollah in Lebanon, including in the country's eastern Bekaa Valley, late on Monday as Israeli Prime Minister Benjamin Netanyahu vowed to intensify attacks on the Lebanese militant group.  Netanyahu's warning came as Hezbollah has been firing fiber optic drones — a weapon used widely in the war in Ukraine — at Israeli forces in southern Lebanon and northern Israel in recent weeks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israels-military-says-striking-hezbollah-204224937.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israels-military-says-striking-hezbollah-204224937.html</guid>
-            <pubDate>Mon, 25 May 2026 23:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada demands Israel probe 'appalling' treatment of flotilla members]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82801C4386DDA3109F218BB78EEDB33DB2CA7E0E9BB3A47DB9A6EB2ADE2F3248/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa6e1590ab7a3d8f35275d06365b089c5" alt="" /></p>OTTAWA, May 25 (Reuters) - Canadian Prime Minister Mark Carney on Monday told Israeli President Isaac Herzog that the treatment of activists detained by Israel had been "appalling" and described the]]></description>
-            <link>https://www.yahoo.com/news/articles/canada-demands-israel-probe-appalling-220424627.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canada-demands-israel-probe-appalling-220424627.html</guid>
-            <pubDate>Mon, 25 May 2026 22:53:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explosions heard in Iran, Mehr says Bandar Abbas situation under control]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>CAIRO, May 25 (Reuters) - Explosions were heard in Iran's Bandar Abbas city and coastal areas near the Strait of Hormuz, Iranian media reported on Monday, adding that the cause was unknown.]]></description>
-            <link>https://www.yahoo.com/news/articles/explosions-heard-iran-cause-unknown-205604918.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explosions-heard-iran-cause-unknown-205604918.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba publishes list of prisoners released in April amnesty]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>HAVANA, May 25 (Reuters) - Cuba on Monday published a complete list of prisoners released as part of an amnesty announced last month, at a time of tense negotiations between the island's government]]></description>
-            <link>https://www.yahoo.com/news/articles/cuba-publishes-list-prisoners-released-205629290.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/cuba-publishes-list-prisoners-released-205629290.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel to intensify Lebanon offensive to ‘crush’ Hezbollah]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BCB722B0AC7D9200796CCEDE522166547DD6F2BA31909AD2564D033239499569/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Faf45f043fe5a8dd33206b41f7f4a377a" alt="" /></p>Prime Minister Netanyahu’s order comes despite ‘ceasefire’ agreed with Lebanon last month, which was recently extended.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-intensify-lebanon-offensive-bid-204928100.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-intensify-lebanon-offensive-bid-204928100.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Targets Trump’s Top Ally in Pacific]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BAD860E77A679DB2E186703B6B91307EEE0905BA56A2589AA36B458FDBD17682/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Fc3e9b3f1637c5b14a9bf1a267e014f85" alt="" /></p>The pressure campaign against Japan shows economic statecraft is now a central tool in Beijing's arsenal, an analyst says.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-targets-trump-top-ally-202159839.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-targets-trump-top-ally-202159839.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada PM compares 'dangerous' Alberta separatist bid to Brexit]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD3FC084F8CA1F922C847F1EA268C299F72C36CEFFEE73771596663C587739F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe980965fe2ef01555d27237f79bef3bb" alt="" /></p>Canadian Prime Minister Mark Carney on Monday compared Alberta's plans to consider separating from Canada to Brexit, calling it "dangerous" and suggesting people may not appreciate the consequences of their vote.That is a very dangerous bluff," the prime minister said.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/canada-pm-compares-dangerous-alberta-201225232.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/canada-pm-compares-dangerous-alberta-201225232.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel steps up Lebanon strikes as Netanyahu escalates offensive]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4719F428E888519C140FBEF9C9EC7E20F4F6AADF3BDAF1CBB5D106CB5832DBF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7375c4c7e6d8941d059404d5580dbea4" alt="" /></p>The Israeli army intensified strikes in southern Lebanon on Monday, as Israeli Prime Minister Benjamin Netanyahu said he had ordered the military to escalate its offensive in Lebanon in an effort to "crush" Hezbollah.The Israeli military also announced on Monday that a soldier had been killed the previous day in southern Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-strikes-southern-lebanon-far-184702693.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-strikes-southern-lebanon-far-184702693.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Palestinian woman and a young girl were killed in an Israeli airstrike in Gaza, officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26FB024CFDEC45B564FD727B7D783D3562E696A16E4BA20A4C29C421711D54F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5925255140591fde9bfae1373c26ce84" alt="" /></p>DEIR AL-BALAH, Gaza Strip (AP) — A Palestinian woman and a young girl were killed in an Israeli airstrike in southern Gaza on Monday, hospital authorities said.  The strike hit a tent sheltering a displaced family in the area of Muwasi, on the western side of Khan Younis, according to the Kuwait field hospital, which received the casualties.  The fatalities were the latest among Palestinians in the coastal enclave since an October ceasefire deal attempted to halt a more than two-year war between Israel and the Palestinian militant Hamas group in Gaza.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/palestinian-woman-young-girl-were-184334532.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-woman-young-girl-were-184334532.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo warns AI risks becoming tool of 'domination, exclusion and death' in new encyclical]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24516BA197FA3F66763BA4B3AFCA6D1B296A3366B5880DA5008060AA0D40EC15/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F54d4bfc1f587a9d3b5dcbf86071c295e" alt="" /></p>The pope unveils "Magnifica Humanitas" encyclical, warning artificial intelligence risks becoming a tool of domination unless governments set moral limits.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pope-leo-warns-ai-risks-183110807.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-leo-warns-ai-risks-183110807.html</guid>
-            <pubDate>Mon, 25 May 2026 21:41:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senegal president names economist Lo as prime minister]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D80DC50E0842C3D7C3AD48B8789D0434B4E9912D5BF01B89443A94AD6E09CDB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8c6e8d9990c9eeb852766e7fb1814b87" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/senegal-president-names-economist-lo-201056660.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/senegal-president-names-economist-lo-201056660.html</guid>
-            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish citizen evacuated from hantavirus-hit cruise ship tests positive]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20949404A48D872E0799AF96B2B4633E06A1AAE146E43C49F987AB32C51D2D8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fe96a01f89be84b3708bb8ecdb41f0b21" alt="" /></p>A Spanish national who was evacuated from the cruise ship MV Hondius and is isolating at a hospital in Madrid has tested positive of hantavirus, Spain’s Ministry of Health said Monday.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/spanish-citizen-evacuated-cruise-ship-182856878.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/spanish-citizen-evacuated-cruise-ship-182856878.html</guid>
-            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meloni coalition wins Venice mayoral vote, defying polls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11ED9E019F7C20F97B2063F68C45F32034BFB028E2B2AB66F7A06D031739B07C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd1065f966f7fe9ec79855496d0ab24c4" alt="" /></p>By Angelo Amante ROME, May 25 (Reuters) - Prime Minister Giorgia Meloni's right-wing coalition won the Venice mayoral election, projections showed on Monday, retaining control of the most prominent]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/meloni-coalition-wins-venice-mayoral-184006629.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/meloni-coalition-wins-venice-mayoral-184006629.html</guid>
-            <pubDate>Mon, 25 May 2026 20:21:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran says obstacles remain, but acknowledges deal taking shape with U.S.]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D05E45AAA4D38077675203DD408828F87A2CFFF3B19915DB7DEAFB8CA0C321B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F4ff144ff99fd7877456ee1ff4ccbeec5" alt="" /></p>As the Trump administration signals hope for a possible deal, Iran says obstacles linger, and "frequent changes" in U.S. positions aren't helping.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/iran-says-obstacles-remain-acknowledges-111112690.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/iran-says-obstacles-remain-acknowledges-111112690.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bolivian leader to slash own salary by 50% in gesture to protesters]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/15431B0C2B72DBC52B2EB9B8A6A8E75AEB483161FB91CC1BB3C006CADA678860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffa554db2e6603faaae3a1e1f14d52ce2" alt="" /></p>Bolivian President Rodrigo Paz said Monday he would slash his salary and that of his ministers by 50 percent to try to end weeks of anti-government protests."This president has made the decision, as part of his efforts and commitment to the country, to reduce his salary by 50 percent," Paz announced in the southeastern city of Sucre.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/bolivian-leader-slash-own-salary-183126782.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bolivian-leader-slash-own-salary-183126782.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bolivia’s embattled president says will take a 50 percent salary cut]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08BFF43F4A66132DF33AD9706778057EFF194A3477A776579DA84254FE73E26B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F903b98e1c797669c3af146720852685e" alt="" /></p>Paz says the salary cut for him and cabinet ministers shows the government’s ‘commitment’ to the country’.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/bolivia-embattled-president-says-50-183109909.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bolivia-embattled-president-says-50-183109909.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire at Belgian town almost put out, smoke to fade during the night]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>BRUSSELS, May 25 (Reuters) - A fire at a textile warehouse in a town southwest of Brussels that prompted the evacuation of several streets on Monday was almost put out early in the evening and the]]></description>
-            <link>https://www.yahoo.com/news/articles/residents-belgian-town-evacuated-due-140400769.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/residents-belgian-town-evacuated-due-140400769.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish national evacuated from hantavirus cruise ship tests positive]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/149992C1B32C9E214E33EAF232DF34B6133095160A0E239E134FD8212B5C8C14/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F888fd59b859ff5a0b6b91749f74b1996" alt="" /></p>MADRID, May 25 (Reuters) - A Spanish national in quarantine in a Madrid military hospital, who is among those evacuated from a cruise ship earlier this month, has tested positive of hantavirus,]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spanish-national-evacuated-hantavirus-cruise-181802486.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spanish-national-evacuated-hantavirus-cruise-181802486.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leftist icon, millionaire lawyer, conservative senator: Who will be Colombia's next leader?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6FB672743F1333B7FAFD09076EDC05B31D436371EA8BCC416A223F7ACE0E881/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9ef37bbde108cb5324bc6146a6b47d32" alt="" /></p>A leftist figure allied with President Gustavo Petro, a right-wing millionaire lawyer who champions the tough-on-crime approach and a conservative opposition senator are the frontrunners in Colombia's presidential elections on Sunday.The philosopher, lawyer and reformist member of Colombia's main opposition party considers Uribe her "father."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/leftist-icon-millionaire-lawyer-conservative-180511465.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/leftist-icon-millionaire-lawyer-conservative-180511465.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelenskiy: Little progress in talks with U.S. on missile defences]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FB4A4399534938686785D87BBB3CB9B68AD568435826088B16486B76323F3898/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fefb0d7059ffb8da9ce2bb055e262b7e4" alt="" /></p>May 25 (Reuters) - President Volodymyr Zelenskiy said on Monday that Ukraine had made little progress in talks with the United States on expanding production of missile defences and was working with]]></description>
-            <link>https://www.yahoo.com/news/articles/zelenskiy-little-progress-talks-u-173736603.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zelenskiy-little-progress-talks-u-173736603.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B4D541EC71ADB3BF1ECEE407081F6709298B9855C42672B6AC798A5FBFF481B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa7ca0dc9cad73864e0deaa3f7ac0c87b" alt="" /></p>Analysts warn Netanyahu is exploiting a failing “ceasefire” to prolong the destruction of Gaza ahead of Israeli election]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/israel-escalates-gaza-attacks-netanyahu-174609231.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/israel-escalates-gaza-attacks-netanyahu-174609231.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tunisian court hands presidential critic Sonia Dahmani new jail term]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/274F0BBA56725813DFC3A1FBD920D0C83DEBAA34026ADD4FC1EE48C3A05898C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3b7da5f335e934f2645a94b8edfe7d88" alt="" /></p>Lawyer convicted for the second time this year as President Saied’s crackdown on dissent intensifies.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tunisian-court-hands-presidential-critic-173948758.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tunisian-court-hands-presidential-critic-173948758.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rare Ebola outbreak is one danger. Attacks on healthcare workers are another]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF730722F40BA412391C27C2294007454C800D05F8AD3ACB51B56F11114A1DEB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F96511f453337eab22add97a8be672630" alt="" /></p>Every time Vanny Birungi, a volunteer with the Red Cross in eastern Congo, goes out to raise awareness about the latest Ebola outbreak as suspected cases near 1,000, she faces a double threat.  One is the rare Bundibugyo type of Ebola, with no vaccine or treatment.  The other is the anger and suspicion of residents who have pelted her with stones and verbal abuse in Bunia, a city at the heart of the outbreak.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rare-ebola-outbreak-one-danger-165945052.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rare-ebola-outbreak-one-danger-165945052.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hasan Piker Says ‘They’re After Your Boy’ As Cuba Trip Investigated]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC46C689C3FA880EE2764BCEAE2A5B98DAC3B48E7B259D9348A3925E0D979328/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Fb3e49ca27b61aa42f9d01d99217aa088" alt="" /></p>The influencer referred to a federal probe into his visit to the Caribbean island.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/hasan-piker-says-boy-cuba-164731145.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/hasan-piker-says-boy-cuba-164731145.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Orthodox cleric denies link to white substance found in car by Czech police]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDF2C1EF43CC9EB5A6010EA14455623176000615FA570DEBB0DDA6C80099BF22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fae51626cdbcc9834e6476cd02d20c886" alt="" /></p>LONDON, May 25 (Reuters) - A former senior cleric in the Russian Orthodox Church said on Monday that Czech police had found small containers of a white substance in his car during a search a day]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-orthodox-cleric-denies-white-141509790.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-orthodox-cleric-denies-white-141509790.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrants step up to support community in war-hit Beirut]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2BB356AAC9BAB0C4DA2F6E5ABB6637C48467398DFA79E1EAFF76061D33AA2D9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff271ca46602559666a8879bc99cfafea" alt="" /></p>At a busy Beirut centre, migrant volunteers stirred pots of okra soup and shaped balls of the African staple fufu, keeping food coming for those caught between the latest Israel-Hezbollah war.Across the city in a suburb of Beirut, kitchen shelves were stacked with sauces and tins crowded the walls as volunteers prepared green beans and fried rice balls.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/migrants-step-support-community-war-162704261.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/migrants-step-support-community-war-162704261.html</guid>
-            <pubDate>Mon, 25 May 2026 18:57:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia threatens more strikes on Kyiv, urges foreigners to leave city]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5819A3377726D0441EA0F460230BFC28D154A2AA0F3BC2897E0FE7F3F1068DB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe53b1d776f12b6e610e8629f587ca4c1" alt="" /></p>Russia said Monday it plans to launch more strikes on Kyiv, including on its "decision-making centres", and repeated a call for foreign citizens and diplomats to leave the city.We are warning foreign citizens, including personnel of diplomatic missions and international organisations, to leave the city as soon as possible," it added.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-threatens-more-strikes-kyiv-145628782.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-threatens-more-strikes-kyiv-145628782.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cambodia's new conscription law takes effect in wake of conflict with Thailand]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>Cambodia ’s new conscription law, which establishes penalties of up to five years in prison for those who evade military service, has come into effect, the country's Prime Minister Hun Manet said Monday.  The law was signed on Saturday by Senate president Hun Sen in his capacity as acting head of state while King Norodom Sihamoni undergoes medical treatment for prostate cancer in China.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cambodias-conscription-law-takes-effect-164522759.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cambodias-conscription-law-takes-effect-164522759.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO urges DRCongo's neighbours to act immediately on Ebola risk]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF5BA77214D52E590DB219A33430810CA97C7A7B960AC2166DEBD23FE8E4E1D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc6a38c7b58b3f8a2fd589c5564a61424" alt="" /></p>States neighbouring the Democratic Republic of Congo are at great danger from Ebola and should act immediately to counter the deadly virus, the head of the World Health Organisation said on Monday.One person is confirmed dead in neighbouring Uganda with a further six confirmed infected after Monday saw the health ministry confirm two new cases.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/urges-drcongos-neighbours-act-immediately-163538769.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/urges-drcongos-neighbours-act-immediately-163538769.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carney says Alberta vote on separation could become 'dangerous bluff']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/503428D543A8228587D44CBCD81C4C27F7F51F98D1521EE61E05E553FA7FF2B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F538e492dbabe9354acdc833b864e7e77" alt="" /></p>By David Ljunggren OTTAWA, May 25 (Reuters) - Canadian Prime Minister Mark Carney said on Monday that Alberta's planned vote on potentially breaking away from the rest of Canada, while not binding,]]></description>
-            <link>https://www.yahoo.com/news/articles/carney-says-alberta-vote-separation-160558263.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/carney-says-alberta-vote-separation-160558263.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran hangs another protester as dozens more risk execution: rights groups]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B7D6A28F15BEAF953F79345E24B5A0AD4AD398643A17080A9846919CC6FBFA0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fbaaf476a87c796d824a8ba0c54b6615c" alt="" /></p>Iran on Monday executed a man on charges related to protests this year, the latest in a spree of hangings on political or security accusations since the start of the US-Israeli war with dozens more risking execution, rights groups said.Some three dozen men have been hanged on charges related to protests, membership of banned opposition groups, or espionage since wartime executions resumed in March, according to rights groups.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-hangs-another-protester-dozens-154828845.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-hangs-another-protester-dozens-154828845.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Train bomb in Pakistan’s Baloch region: Why violence is on the rise]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A889AD4948F0977FDED2D885AEC5C09D95F4A8B56DCD45BEE7680B06E0C53BA7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8d17a46b054fff8ed1d616158ea3fc23" alt="" /></p>Deadly blast in Pakistan marks uptick in Balochistan separatist violence.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/train-bomb-pakistan-baloch-region-154321716.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/train-bomb-pakistan-baloch-region-154321716.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia threatens strikes on Kyiv defence sites, urges foreigners to leave]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BEF828DC360856436DA39EB9077B2C8D5C65A427CAF4EEB7E4E484B6F6909BB4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4a4fb86e8702fc7f38d1e035cd2910ca" alt="" /></p>KYIV, May 25 (Reuters) - Russia urged foreign nationals on Monday to leave Kyiv before it launches a "series of systematic strikes" against defence targets in Ukraine's capital, a day after one of its]]></description>
-            <link>https://www.yahoo.com/news/articles/energy-infrastructure-damaged-missile-attack-051208282.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/energy-infrastructure-damaged-missile-attack-051208282.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gunmen abduct 25 people in twin attacks in Nigeria's Kwara state, police say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Camillus Eboh ABUJA, May 25 (Reuters) - Suspected bandits attacked a police station and a traditional ruler’s palace in Nigeria’s Kwara state early on Sunday, abducting at least 10 people and]]></description>
-            <link>https://www.yahoo.com/news/world/articles/gunmen-abduct-25-people-twin-153323789.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gunmen-abduct-25-people-twin-153323789.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo calls for "disarming" of AI in technology-focused encyclical]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1DDCE612B65AE197C58E0517DCFDE14B7C7B9E9B27300809E6D0B2CA3A7252BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F431632c3c38b1817fa42437dda0834b4" alt="" /></p>In his "Magnifica Humanitas" encyclical, Pope Leo warns that as civilization grapples with the power of AI, the main challenge is remaining "profoundly human."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pope-leo-calls-disarming-ai-152358520.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-leo-calls-disarming-ai-152358520.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With AI manifesto, Leo joins pantheon of popes who urged world to change]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09C07D3E523A98C72621762E2A6AFD708EF7171689075D60A52043017545A0DA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F052bb261c589035686fc04a5c5a35b51" alt="" /></p>By Joshua McElwee VATICAN CITY, May 25 (Reuters) - Catholic popes have been urging global leaders to address social justice issues for 135 years across some two dozen major documents that many of the]]></description>
-            <link>https://www.yahoo.com/news/articles/ai-manifesto-leo-joins-pantheon-150215924.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ai-manifesto-leo-joins-pantheon-150215924.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turkey's pro-Kurdish party condemns ousting of main opposition]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D339AB51741AD10B8FFDB65AEA06032AB194ED82FBD264609D7C83578D873497/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3901bc606608c718635489cd2e88f7c7" alt="" /></p>By Huseyin Hayatsever ANKARA, May 25 (Reuters) - Turkey's pro-Kurdish DEM Party condemned on Monday a court ruling that ousted the leadership of the main opposition CHP last week, calling a police]]></description>
-            <link>https://www.yahoo.com/news/articles/turkeys-pro-kurdish-party-condemns-145042884.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/turkeys-pro-kurdish-party-condemns-145042884.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Land where notorious cartel leader was killed is being auctioned]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56EF75DF7882175AC91C1468F455B2A696536E63E5A772CD36CE1B8AA7E32AF9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F75057bfb3d17b1f7b6665b7aeb03bf7d" alt="" /></p>The Mexican government announced the auction of a plot of land within the country club where drug kingpin "El Mencho" died during a clash with the army in February.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/land-where-notorious-cartel-leader-144048553.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/land-where-notorious-cartel-leader-144048553.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian Gaza aid flotilla activists allege abuse after Israeli abduction]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F3676C98716DCBA5D955828467FF50C473F47747DCFA644C391D8F4331D1387F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6f4bcbada3156db712802d78c6739a0b" alt="" /></p>Activists allege assaults and torture during Israeli detention after flotilla intercepted in international waters.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australian-gaza-aid-flotilla-activists-143335652.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-gaza-aid-flotilla-activists-143335652.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO chief says suspected Ebola deaths at 220 as epidemic ‘outpacing us’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8764BEBB83F05EF062E8AE6DE252F55F8A9202233A295430DD38EE0B1346BDE0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F271cccb602a94d1d9234610a8be8b86b" alt="" /></p>Tedros ⁠Adhanom Ghebreyesus says a delay in detecting cases means responders were now ‘playing catch-up’.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/chief-says-suspected-ebola-deaths-143256804.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chief-says-suspected-ebola-deaths-143256804.html</guid>
-            <pubDate>Mon, 25 May 2026 17:01:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
