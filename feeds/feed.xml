@@ -4,16 +4,327 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 05:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 09:45:54 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Drones Have Not Replaced Artillery, But They Make It Harder To Fire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A27FB7AF5963BE8BC944E260C1FF68ACFEC36AC00F1FD98BA0E756D046E8EEA5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F01978990af99dc366a6aa3fdc209c23a" alt="" /></p>Drones dominate losses on the Russia-Ukraine battlefield, but they have not replaced artillery. Instead, they have forced both sides to adapt how artillery is employed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/drones-not-replaced-artillery-harder-094018643.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drones-not-replaced-artillery-harder-094018643.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As Congo grapples with Ebola, volunteers cook up meals to support patients and health workers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C715DAE52BB9EF989769E43A4EE47C1EE2FCA859793510E11173847C8715500A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fde5ee7ad44a9c7c0b23ae53e4bae2d9f" alt="" /></p>Arlette Basekawike, a volunteer for the United Nations food agency in Bunia, the heart of Congo's Ebola outbreak, spends most of her time in a small shed outside a health facility preparing meals for patients and health workers.  “Even though the patients have this disease, they still feel better when they eat, and the doctors have the energy to treat the sick and give them medication,” Basekawike told The Associated Press on Monday as she prepared vegetables and potatoes with goat meat in a large cooking pot.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/congo-grapples-ebola-volunteers-cook-093219831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-grapples-ebola-volunteers-cook-093219831.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two people shot dead amid Kenya protests against US Ebola quarantine centre plan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B3B0FB4EF5DFECD5A7C775530F92B851C4EFD80E061B361960BFAB9939530D7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8b5c36916f2a215300ce673721217a77" alt="" /></p>The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-people-shot-dead-amid-092507870.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-people-shot-dead-amid-092507870.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia’s ACCC directs four retail platforms to delist potentially dangerous toys]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07E48F264C96631E1B9E1B7EE17B1E57EDF84427135766CEE322D303A9E9DE75/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fretail_insight_network_724%2Fbfacc19319b8ad07527e23af991f524c" alt="" /></p>The takedown orders target listings for toys that include small high-powered magnets covered by a permanent prohibition under Australian Consumer Law in place since 2012.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-accc-directs-four-retail-092447081.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-accc-directs-four-retail-092447081.html</guid>
+            <dc:creator><![CDATA[Retail Insight Network]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High Court orders Kenya government to release details of Ebola facility]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/49D12CA4F3E8EC59779EE9A69F1B8FB361582D3BBF5CE3746E81994DC71DC8F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F79f5d05dbad320c78441d3de26e58180" alt="" /></p>Hundreds of people took to the streets in the central Kenyan town of Nanyuki to protest against the planned site.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/high-court-orders-kenya-government-092044211.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/high-court-orders-kenya-government-092044211.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Protests over US Ebola site in Kenya kill two, court keeps block]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2C2144F348708E1C4972E5388C2F50C303398DA27D64F11957950D8A6865758/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb447cb02376523d15b6f7528866304a5" alt="" /></p>By Humphrey Malalo NAIROBI, June 2 (Reuters) - A Kenyan court blocked on Tuesday for another three weeks a proposed U.S. Ebola quarantine facility that has triggered protests killing two people.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kenyas-president-defends-planned-u-064620472.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenyas-president-defends-planned-u-064620472.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reports of discrimination in Germany rise to record high]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7AE3498FD00DEACEB018431CBBE0D55CEC88C407DE22882BE4B965C71EDD948D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F63b681d8b73a81577418f9d46692fb57" alt="" /></p>A record number of people contacted Germany's anti-discrimination agency last year, with most reporting having suffered from racist discrimination, according to new figures released on Tuesday. Germany's federal anti-discrimination agency offers support to people who have experienced discrimination on the grounds of race or ethnic origin, gender, religion or belief, disability, age or sexual identity.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/reports-discrimination-germany-rise-record-091042367.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/reports-discrimination-germany-rise-record-091042367.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 50% of German adults are overweight, new figures show]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C0FD65C2406E88D5E7870240C8BFEF3DB69139ABC6AEE23196916B745C4AFB52/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fec229ddbbc2b3bb248eaeb0279e0913b" alt="" /></p>More than half of German adults are overweight, according to official figures released on Tuesday, with men particularly affected. Some 53% of adults aged 18 or older surveyed in 2025 had a body mass index (BMI) of over 25, the Federal Statistical Office said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-50-german-adults-overweight-085523826.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-50-german-adults-overweight-085523826.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone racers might seem like ideal combat pilots. But trainers say they have to relearn almost everything.]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE093D3AB967963C96FD0DB9E725123DC6EBD5BA1538FE6F2A724E3AA13232BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F31801eeb07e19c968ba68634372b4a18" alt="" /></p>Ukraine's drone operators often have to fly slowly or have their drone wait a long time before attacking. That's a different approach than racing.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/drone-racers-might-seem-ideal-085501028.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drone-racers-might-seem-ideal-085501028.html</guid>
+            <dc:creator><![CDATA[Business Insider]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congo re-opens airport at centre of Ebola outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BEB10D658ED272A5F8200525942A841E189F8E68679A46692238E64CB9FDDE70/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc251257acaa07cc6b6dfe03e82bd1908" alt="" /></p>KINSHASA, June 2 (Reuters) - Democratic Republic of Congo has re-opened the airport in the capital city of the province hit hardest by the ongoing Ebola outbreak, a government statement said,]]></description>
+            <link>https://www.yahoo.com/news/world/articles/congo-opens-airport-centre-ebola-084725520.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-opens-airport-centre-ebola-084725520.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadly Russian strikes rock Kyiv as Zelenskyy appeals to US for urgent help]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37798FEC668FA5B87C710F0CA71DA783CABCA915D76AF55BB4687E5223AC51A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2F6aef76de9bd99e7cb4d604e7b6617056" alt="" /></p>Ukraine's air force said Russia launched 73 missiles and 656 drones.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-launches-horrific-drone-missile-075858092.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-launches-horrific-drone-missile-075858092.html</guid>
+            <dc:creator><![CDATA[Good Morning America]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.S. soldier, British servicemember die during Iraq military training]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40E7EF9BE6F2CF16E62FF039BCF622A0DFDCB44F72DEC8795493BD642D33D429/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F1cd9c4c259ebea6971f7116ed9e3b6fc" alt="" /></p>A U.S. soldier and a British servicemember died during military training in northern Iraq over the weekend, both militaries said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/u-soldier-british-servicemember-die-083102140.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-soldier-british-servicemember-die-083102140.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran executes three convicted rapists amid surge in capital punishment]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF3633992BD88EC3847745143A8C9722F5D1BD9AEF243C85E10ABEF0E821D47B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9b4e291925c6a9e3c087db2b8ce49b73" alt="" /></p>Iran has executed three men convicted of rape, the Mizan news agency reported on Tuesday, amid a broader wave of executions that has drawn criticism from human rights groups. Two death sentences were carried out on Tuesday morning in the Kurdish city of Qorveh, while another was hanged in the northern city of Rasht, according to the judiciary-affiliated news agency.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-executes-three-convicted-rapists-082536744.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-three-convicted-rapists-082536744.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany pledges another €20 million in aid for Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B3E4A63952B7F7B910FDB16B749CFBE26E96CD7EB90407731C34398985DF0FDC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F267de82620b1742afe5ee61df49a7579" alt="" /></p>Germany has promised another €20 million ($23 million) in humanitarian aid to Lebanon, after Development Minister Reem Alabali Radovan had to cancel a planned visit to the country over security concerns amid ongoing Israeli attacks. “I pledged the €20 million aid package yesterday,” Alabali Radovan told Germany's Deutschlandfunk broadcaster on Tuesday, noting the long-standing partnership with Lebanon in development cooperation.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-pledges-another-20-million-081026336.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-pledges-another-20-million-081026336.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel, Hezbollah exchange fire after Trump announcement]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0783EFD0A445E19F0A13D6C01EEF84481C33B7B2A36EFB6B83B62272CBED4E87/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F783e3a6bc91aae46a64591981c572a06" alt="" /></p>Israel conducted strikes on south Lebanon and Hezbollah fired into northern Israel on Tuesday, after US President Donald Trump announced an agreement to halt attacks that neither side has publicly accepted.According to Lebanon's National News Agency, Israel conducted fresh air strikes on south Lebanon on Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-hezbollah-exchange-fire-trump-080725650.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-hezbollah-exchange-fire-trump-080725650.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic Highland fortress damaged by vandals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/922B00551BB742BE4A260CA54BD3AC899B0B859A5D1D1D1DAABD41DB8503D753/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F89a99f01515b3b660363e8677b88349c" alt="" /></p>Vandalism at Old Inverlochy Castle near Fort William could affect ongoing conservation work.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/historic-highland-fortress-damaged-vandals-074307525.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/historic-highland-fortress-damaged-vandals-074307525.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope Leo plays tennis religiously as part of an Augustinian devotion to sports and spirituality]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F9BC69AE1C0199FC4B276CCB188A4A5C7D3D37CD682A29534331A298FA01D932/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6d0d99f9c777d5c0266b152dc28e8aa3" alt="" /></p>When Pope Leo XIV was elected last year and it emerged that he was a tennis player, his love of the sport was quickly celebrated during an audience with top-ranked Jannik Sinner.  In the ensuing months, Leo has tried to set aside time in his busy schedule to play the sport every week as part of his Augustinian devotion to physical activity and spirituality.  The Rule of St. Augustine, an ancient guide for religious life, highlights the value of good habits.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pope-leo-plays-tennis-religiously-080122595.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-leo-plays-tennis-religiously-080122595.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[94 days of paralysis: The Strait of Hormuz remains choked off]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B4A7C73774E05AD31E858DDB5DFBC8622B04E19FD59F02E8F9DE5406E36A413/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F601a3e28ad2043d859163522736f8748" alt="" /></p>The most powerful shipping executives in the world are gathered in Athens, Greece this week for the annual International Shipping Exhibition. The hot topic: the Strait of Hormuz.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/94-days-paralysis-strait-hormuz-080007685.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/94-days-paralysis-strait-hormuz-080007685.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mozambique says 5 citizens killed in ‘xenophobic attacks’ in South Africa]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97857301371C3BEFA8ECDE8473950DFD845B14A447683D6AD0378ED66CB7AE91/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe545086b41920eb39f1caefc90e20cba" alt="" /></p>The violence prompted 300 Mozambicans to return home over the weekend.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mozambique-says-5-citizens-killed-075437360.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mozambique-says-5-citizens-killed-075437360.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China goes after 'ghost kitchens' to rein in cut-throat food delivery apps]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D9958EBF025C7A8087E2757182F878E37D2143CF09956F4B2D454B1368A0C9FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7fd58c1906fb50558ec45e4541c85270" alt="" /></p>The thousands of "ghost kitchens" - online shops that don't actually exist - have spooked Chinese consumers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/china-bans-ghost-kitchens-food-055643172.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-bans-ghost-kitchens-food-055643172.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia kills 13, injures more than 100 in overnight Ukraine attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4094B8AD5D9CA17711016B49BAEEA1884373F2DF8B020412BE59BD2E1B43F4C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Faf1907d6822d6047c4073d1b35e7727f" alt="" /></p>Russia launched massive drone-and-missile attack overnight, killing at least nine people and injuring dozens more in Dnipro, Kyiv and Kharkiv.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-kills-9-injures-nearly-050648693.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-kills-9-injures-nearly-050648693.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenyan president defends US Ebola quarantine center amid protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE797C80C69FF13510D78AD4BCFA70929F212C7CD5F208D49AC07EBECDDAC778/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5194b63a8fda7d48b65e628d14d59c3c" alt="" /></p>Kenya’s president on Monday defended the establishment of an Ebola quarantine facility by the U.S., a move that led to protests despite a court order blocking the plan.  President William Ruto on Monday night said the U.S. had a long-standing partnership with Kenya on health matters and that the quarantine facility at Laikipia Air Base was one of 24 facilities that had been established in the event of an Ebola outbreak in the country.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kenyan-president-defends-us-ebola-074515955.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenyan-president-defends-us-ebola-074515955.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Satellite Image Shows Possible Chinese Structure on Disputed Reef]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25B0FEC8C95730BEA3368FCF20D363BB730B881FFBD6A1FA450CACED388BA1B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F2a317126ddcb5984e58c84375a324e89" alt="" /></p>Scarborough Shoal, a rich fishing ground, continues to be a focal point in the Philippines' territorial feud with China.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/satellite-image-shows-possible-chinese-074409504.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/satellite-image-shows-possible-chinese-074409504.html</guid>
+            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Taiwanese air force pilots die in trainer crash]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD0D54CC4749B4A6A36DBBF1A6E0025EF87619E14080FDB80BA1FCEFBBE62757/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2ea70a0aa5b1b0c153fc329eb2c98956" alt="" /></p>Two Taiwanese air force pilots died on Tuesday when their propeller-driven T-34 training aircraft crashed in Kaohsiung City. The T-34 trainer crashed shortly after 8 am (midnight GMT) north of the Gangshan Air Force Base, the state-owned Central News Agency (CNA) reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-taiwanese-air-force-pilots-074023302.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-taiwanese-air-force-pilots-074023302.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Major Russian attack hits Kiev, other Ukrainian cities]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/588BD31176869328DAE9B33B2CFC6904C4685C0A9EBACED1D9591CD04FC4C79D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe9c89d03e862eb2aa9351e94a1f285a8" alt="" /></p>Russia has again launched a major missile and drone attack on the Ukrainian capital Kiev and other parts of the country, killing at least 10 people and injuring almost 100 others, Ukrainian officials said early on Tuesday. Powerful explosions were heard across central Kiev overnight.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/major-russian-attack-hits-kiev-072523366.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-russian-attack-hits-kiev-072523366.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eleven killed as Russia fires hypersonic missiles at Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5BD6EBFA2F197054FE7DBE15D5A300047C90FE3CF6793BCB0CE0045DA1A1D286/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa6a821db24eeb5d4be37292d65ab230f" alt="" /></p>Russia bombarded Ukraine with a barrage of hypersonic missiles and drones overnight, killing at least 11 people, injuring dozens and trapping others.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eleven-killed-russia-fires-hypersonic-072405115.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eleven-killed-russia-fires-hypersonic-072405115.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kyiv hit by deadly Russian strikes, people feared trapped in apartment building rubble]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/58C45AFA8FED332F5FBD71DBDAD39840E4F8800182CB8AD5F91358B43707FDB4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F48e3b0742455aef7a09671e21c1955b5" alt="" /></p>Russia launched a large-scale deadly attack on the Ukrainian capital Kyiv early Tuesday, damaging residential buildings, authorities said, as part of a broad offensive on targets across Ukraine.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kyiv-hit-deadly-russian-strikes-071228343.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kyiv-hit-deadly-russian-strikes-071228343.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Sturgeon 'refused to help police' and files show Labour infighting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85392266497BE4C688426072BD4BF0C8B00BD9A29C01231DEF62FDABD0F2D013/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3b567a6b46ad9bd04e2d2c2e86caa4c4" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/scotlands-papers-sturgeon-refused-help-061303615.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-sturgeon-refused-help-061303615.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day, June 2: Italy votes to become a republic]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57F2479F51F19E886EC362A54429FEB2EE1B339ED9DC5327E61DBD788DD6617D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc3729ed856e1d6ae703789c8efb47f90" alt="" /></p>On June 2, 1946, in a national referendum, voters in Italy decided the country should become a republic rather than return to a monarchy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/day-june-2-italy-votes-070006265.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/day-june-2-italy-votes-070006265.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel is derailing its own success in Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A0731A255CC9C71D53BCE4A7AB6AEDA3D1FCE1C5A24756486B17499D91936D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F902288f640cd60d779a4450d3a38fada" alt="" /></p>When Israeli soldiers seized Beaufort Castle in southern Lebanon on Sunday, they probably did not reflect on how its craggy Crusader battlements once witnessed a disastrous confidence trick.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-derailing-own-success-lebanon-065817662.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-derailing-own-success-lebanon-065817662.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany's poverty rate rises to record high, welfare group says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28B787C16C01B34FF020C224274A7BB7600A49C266950D5668C0E5D79C6588F4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffed60a2cc5990ffe805b071f1062ce8b" alt="" /></p>Germany's poverty rate rose to a record high of 16. 1% in 2025, leaving around 13.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germanys-poverty-rate-rises-record-065536945.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germanys-poverty-rate-rises-record-065536945.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F81FB2110A984E9A072A8D6D2D883A4C82C83C1EF23C400F5422E1EBDA308D96/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb9c39832d6bfb3f12a802a58adb455d5" alt="" /></p>Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-war-day-95-trump-065514378.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-day-95-trump-065514378.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia launched 37% more attacks but still lost ground in May, Ukrainian war tracker says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF43866EF35E0E3E33609D4C22C3009D56481F4A18F20BEABC5835E76A74F664/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F1e4e4e953e51b89790313ac942dc7b1d" alt="" /></p>DeepState UA said it was Russia's first month of net losses since 2023, when Ukraine launched its major summer offensive with Western arms.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-launched-37-more-attacks-061208306.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-launched-37-more-attacks-061208306.html</guid>
+            <dc:creator><![CDATA[Business Insider]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK's Cooper: Rules-based order in shared interest of Britain and China]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D44216D83E787928003E8E5AC6BF65E3B2FC4887EA42E40C8BB93A1C117D69E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7e8d9495024928cd3d591399571facf7" alt="" /></p>The rules-based international order is in Britain and China's "shared interest," UK Foreign Secretary Yvette Cooper said as she met the country's Vice President Han Zheng for talks on global security as part of a three-day visit to Asia. Cooper acknowledged "areas of disagreement" between London and Beijing but insisted that approaching discussions with "candour and respect" would help to increase mutual understanding of one another.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uks-cooper-rules-based-order-055539466.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uks-cooper-rules-based-order-055539466.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baerbock says UN reform overdue but world body remains indispensable]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B5DCA258AB5F01E3F6C6BA2D9AF2B9F7F0DB1913D963E3DA9F6FC0029B32F95/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdd108c3aaa01171c6f5befda02f5b68e" alt="" /></p>UN General Assembly President Annalena Baerbock called for bold reforms of the United Nations, saying the world body remains indispensable despite mounting criticism and growing geopolitical tensions. "Reform is long overdue.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/baerbock-says-un-reform-overdue-054041521.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/baerbock-says-un-reform-overdue-054041521.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Between ballet and war: Japanese dancers pursue dreams in Russia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E977A2C97828E0BBC7698D016B72D4A6B4254827E232D39E36A826F151AB061C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5fecaad70b8d409722c6578294fb6410" alt="" /></p>En pointe, demi-pointe, entrechat -- for Jotaro Kanazasi and Haruka Takemi, two Japanese dancers based in Russia's historic city of Nizhny Novgorod, life revolves entirely around their art, even as the war in Ukraine occasionally interrupts their daily routine.Absorbed in their lives as professional dancers, Takemi and Kanazasi admit they follow the news only loosely, including the war Moscow has been waging in Ukraine since February 2022.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/between-ballet-war-japanese-dancers-053043155.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/between-ballet-war-japanese-dancers-053043155.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fears of hunger overwhelm Guatemalan village as El Nino approaches]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F4D0B5D984CCA68688E35104AE5DF8BE5C35C33C065E76E8C60E0B6F1795E4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb74933431ae16654979070711df733fc" alt="" /></p>While drought expands through Cunen as the specter of El Nino climate instability approaches, one fear has seized this indigenous Guatemalan village: death by hunger. Her fears are well-founded: around 2.5 million Guatemalans face potential food insecurity due to the drought and the high probability of a powerful El Nino weather cycle.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fears-hunger-overwhelm-guatemalan-village-052816528.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fears-hunger-overwhelm-guatemalan-village-052816528.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I gave birth in the street': Conflict makes childbirth risky in parts of Africa]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F575849660952ECCEE5B6820AF920CAC70E7F1976C2082E350950A57E51ADD0A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a2f5fd2f79105ab0c998dbd64547a84" alt="" /></p>The agony began for Maude Ahmad Fadala shortly after sunset.  There were no camp facilities for what was about to happen, and she had no money to travel.  This is part of a series on maternal mortality in sub-Saharan Africa, which has the world’s fastest-growing population and the majority of mothers dying from pregnancy-related causes: 70%, or around 182,000 deaths every year.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gave-birth-street-conflict-makes-050308335.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gave-birth-street-conflict-makes-050308335.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian attack on Ukraine kills at least 16 and traps others in damaged buildings]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F4440D0984AC32AA3837FD9D0567D4DC8DADB418A92646D7AB69EDC1036E8C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7123518af089208316e97f331abd5b79" alt="" /></p>Russia launched hundreds of drones and dozens of missiles against Kyiv and other Ukrainian cities overnight, killing at least 16 civilians and wounding more than 100 others, authorities said Tuesday.  The damage trapped some people under the rubble of apartment buildings.  Kyiv residents had been on edge for days after Russia warned that a massive aerial attack was coming and warned foreign diplomats to leave the Ukrainian capital.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-attack-ukraine-capital-kills-044046749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-attack-ukraine-capital-kills-044046749.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 02 Jun 2026 09:45:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cambodia launches UN-backed process to settle maritime dispute with Thailand]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/212A2017298E9F565BEE9354F5765D5C520BC546D62887C101EBA1DE0C17C0F8/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff6f77bcee1dbfcc72b88a9f7d469fba0" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/cambodia-launches-un-backed-process-041336616.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/cambodia-launches-un-backed-process-041336616.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +332,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85FC4310AB60BDC4A62DBD7E116CCC1EA648732D99F08186AA04D937518111BC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fec68e589f0addba4b1e1214b2481ab88" alt="" /></p>Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble.]]></description>
             <link>https://www.yahoo.com/news/world/articles/four-dead-several-injured-massive-011330788.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-dead-several-injured-massive-011330788.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +339,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2E82CDF61458B8B45F21AFE7598531468D1F996965CABF11CEA053D61700FFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6b6404e4701d7599daaa5f7e2cb01c88" alt="" /></p>A temperamental lift leads to the apartment in central Ukraine of a 27-year-old poet celebrated in Japan but almost unknown in her own country.The lift was not working.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-haiku-poet-finds-small-043639897.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-haiku-poet-finds-small-043639897.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +346,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6C5BE0A9F5687390570D82EA121E33C01742049F9D74EE10A1D7DA69C29B9EFD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_enquirer_natl_articles_358%2F669fd73df2400b9c60f675f48055e7bd" alt="" /></p>A Cincinnati nun known for her work in the Wild West and later back in the Queen City is a step closer to veneration and sainthood.]]></description>
             <link>https://www.yahoo.com/news/world/articles/vote-brings-famous-cincinnati-nun-041528385.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vote-brings-famous-cincinnati-nun-041528385.html</guid>
-            <dc:creator><![CDATA[The Enquirer]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +353,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E9CB3A43ED101020EC6D3EA94E05D077A30E4DE32A4C58BAC78F0DD40165841/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1cc080d63c61ec938fa7d838ab6b5549" alt="" /></p>A barrage of Russian missile and drone strikes killed nine people and wounded dozens across Ukraine, authorities said on Tuesday, just days after President Volodymyr Zelensky warned that Moscow was preparing a "massive new strike".The strikes on Ukraine came after Zelensky said on Friday "we have intelligence information about Russia preparing a new massive strike" and called for people to "protect your lives".]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-missiles-rock-kyiv-kill-023019242.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-missiles-rock-kyiv-kill-023019242.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +360,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/369199B601D7510716BD19FFB7572BBE5BD2CB1907C97C13B9B9613A43119F75/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe62553b97de851aa1ee4419afe4b1984" alt="" /></p>The vast majority of people who became German citizens last year retained their original nationality under Germany's new dual citizenship rules, according to a survey by the Mediendienst Integration research group. The share of newly naturalized citizens holding more than one nationality ranged from 85% to 98% in cities that collected the data, the survey found.]]></description>
             <link>https://www.yahoo.com/news/world/articles/survey-most-german-citizens-keep-041036692.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/survey-most-german-citizens-keep-041036692.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +367,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/724BDB7A641D1C632E97A655FF28782C405D014F992B4CF275ADD505D5B0CD32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fb555b527986dfc23b3e33c7267f0d222" alt="" /></p>Corrections Victoria says no flags are permitted on prison officers' uniforms, contradicting a state opposition lawmaker's false claim that the guards are barred from wearing the Australian flag while the Aboriginal and LGBTQ flags are allowed. The department told AFP the uniforms include the Victoria State Crest, and they fly the national flag outside every prison.]]></description>
             <link>https://www.yahoo.com/news/world/articles/anti-labor-critics-riled-false-040230701.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anti-labor-critics-riled-false-040230701.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +374,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8DC877EB9FA899CDDCBF572E4CFE22D36F83F0F6826C1ADD97C5BDF5915699C2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fd9a507baeb68e10c2428b77070b2db48" alt="" /></p>AI drones make decisions on who or what to target in just 6.6 milliseconds]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-kill-them-algorithm-lets-035614490.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-kill-them-algorithm-lets-035614490.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +381,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/41EB337E208551C9CAB9393617FBDCF1E66C2C97AE8D372C1D658126B6779BB5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F8af5e0eaf3c62c3cd1c855eccbbccadc" alt="" /></p>A heartfelt statement from SeaWorld remembered Dottie's life and health challenges.]]></description>
             <link>https://www.yahoo.com/news/world/articles/beloved-seaworld-san-diego-staple-033000575.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/beloved-seaworld-san-diego-staple-033000575.html</guid>
-            <dc:creator><![CDATA[California Post]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +388,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CEA6D41BFD76AA76B406196DB2EED241DB73A1471325B28508EA8CBC6C31BAB0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F077a391b0c2dbd341061826e54b0d3cc" alt="" /></p>The British woman was crossing the Balaitús peak's Great Diagonal in the Pyrenees Mountains]]></description>
             <link>https://www.yahoo.com/news/world/articles/hiker-dies-falling-1-640-032011764.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hiker-dies-falling-1-640-032011764.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +395,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/12F6A62F4370F486C14A9A4A8E87DD468B6680BB0EC98A1E32EA469D4BC56331/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F48740491030adbe56be63836d45de868" alt="" /></p>Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australian-ex-minister-launches-crowd-015144735.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-ex-minister-launches-crowd-015144735.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +402,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D96D79C1D84144FC33D7E1C8FAEDF0E369E7296A48EA919F563FB66F5782113/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F32c4a41c456e720b48915270abf90c7f" alt="" /></p>The element of surprise was lost when Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz announced the IDF's intentions to strike targets in the Lebanese capital. Multiple Hezbollah leaders fled Beirut after a joint statement from Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz caused any IDF strikes in the capital to lose the element of surprise, an IDF source said on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pm-statement-caused-hezbollah-leaders-022212104.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pm-statement-caused-hezbollah-leaders-022212104.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +409,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8831E09AC700788D236D627ADA0133DBA7A41E1C47C526D20EE42411928EC6E6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc94ebde3f41670add00a9d70aadfc1ef" alt="" /></p>Local police identified the missing person as Mackenzie Swift on Monday, June 1]]></description>
             <link>https://www.yahoo.com/news/world/articles/11-old-boy-disappeared-river-015754777.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/11-old-boy-disappeared-river-015754777.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +416,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B73F90CAE7A352384A52D74021E7A3768F296E36A345DAAC6FFA1691E4967C8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F42eff20b4cc5e82808c30dae870b136f" alt="" /></p>The punctuality of Germany's long-distance trains remained at a low level in May, with 61. 3% of ICE and Intercity services arriving on time, according to internal data from state-owned rail operator Deutsche Bahn.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germanys-long-distance-rail-punctuality-015534162.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germanys-long-distance-rail-punctuality-015534162.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +423,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/87B34F6484BEE931365C64A4EE6B171F67498DDD98BC95D32445C02329480566/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F2b4285bfb0820dcb920ef648852fc59b" alt="" /></p>Does a viral video actually show a group of people attempting to set a Yorkshire church on fire in broad daylight? No, that's not true: The clip showed a place of worship in Mexico, not the U.K. Images of the...]]></description>
             <link>https://www.yahoo.com/news/world/articles/fact-check-reused-video-masked-014801852.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-reused-video-masked-014801852.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +430,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F10D8494426945EFB3664EF2F7E5CE4BF7F64DFCFAE7537EFA30124BE2B35360/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F49c401dca56746a82bcc70c308dbfd42" alt="" /></p>"Vapes are one of the most environmentally wasteful, damaging, and dangerous consumer products ever sold."]]></description>
             <link>https://www.yahoo.com/news/world/articles/retailer-recycling-lottery-leaves-millions-014000133.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/retailer-recycling-lottery-leaves-millions-014000133.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +437,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A61A87A441C5A88CC2ACA959AE1ABB3DF3D6A512FDF2561DB12BBD8EF34B9544/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F206e040db4504ab0ffb058138892d42a" alt="" /></p>Farmer Issa al-Moussa walks among his damaged wheat crop in eastern Syria after the nearby Euphrates River flooded in recent days due to heavy rainfall and increased flows from Turkey.Turkish media however quoted official sources as saying that water authorities carried out "controlled water releases" from the Ataturk Dam after water levels rose due to heavy rainfall in recent months.]]></description>
             <link>https://www.yahoo.com/news/world/articles/euphrates-flood-deprives-east-syria-012807223.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/euphrates-flood-deprives-east-syria-012807223.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +444,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C15C272DC49324E9B0E70C0D134A9D22C82468F5DA2A01BE5CAF30E7FC5F91A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F5ed88f0d4d95dc81a36e0efcd706b14a" alt="" /></p>Albania's SPAK opens investigation into luxury resort project linked to Jared Kushner as violent protests over the coastal development intensify.]]></description>
             <link>https://www.yahoo.com/news/world/articles/jared-kushners-overseas-luxury-resort-011856708.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jared-kushners-overseas-luxury-resort-011856708.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +451,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/02466BFF340DCC3AFF3931C08FE255D525A93F9C63E3F26503EF6E5C20498A5D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2Fdb68b3303089a349d7244e89d406d784" alt="" /></p>The incident occurred at a Brazilian beach known for a history of shark encounters. Doctors were forced to amputate his leg following the incident at Piedade Beach.]]></description>
             <link>https://www.yahoo.com/news/world/articles/don-t-let-die-11-011726516.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/don-t-let-die-11-011726516.html</guid>
-            <dc:creator><![CDATA[SURFER Magazine]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +458,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/15142202A91846039E223CF3C682E8AD138D09AA9F79B651F9593A3F64C71489/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3f0ddfdb323731689df1c60bc9e89026" alt="" /></p>UN chief Antonio Guterres said Monday that peacekeepers will be needed in Lebanon after the mandate of the current mission expires at year-end -- an option likely to face opposition from the United States and Israel.Last August, the UN Security Council, under US pressure, decided to end the mandate of the United Nations Interim Force in Lebanon (UNIFIL) on December 31, 2026.]]></description>
             <link>https://www.yahoo.com/news/world/articles/vital-keep-un-force-lebanon-010029218.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vital-keep-un-force-lebanon-010029218.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +465,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07AD33EE4E1FD0D40551182C4FBD2FD854B6D6025E9063AD3B842C43BCBA10C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd2c6fa405e9b94fa50e5bd5fc8469a0f" alt="" /></p>Australia's wheat crop is set to fall by more than a quarter this season, a government report said Tuesday, as farmers face dry conditions and a surge in fuel and fertiliser prices fed by conflict in the Middle East.Farmers were expected to cut the total area planted with wheat by 12 percent, it said, citing lower profitability compared to other crops and "very dry" conditions in northern regions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australia-says-wheat-crop-set-004349977.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-says-wheat-crop-set-004349977.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +472,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CCF32AD7F61979A24332522D2610A45CB07BD53146EA50968B0E1EEDAB06474C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F3cd7388f3f57e625ef9e71f1228b853e" alt="" /></p>Residents in southern Italy were rattled by a magnitude 6.2 earthquake during the early hours of Tuesday morning. The U.S. Geological Survey reported that the earthquake struck about 10 miles southwest of Saracena, Italy, at 6:12 p.m. EST]]></description>
             <link>https://www.yahoo.com/news/world/articles/powerful-magnitude-6-2-earthquake-003109631.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-magnitude-6-2-earthquake-003109631.html</guid>
-            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +479,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/382856E83054C14238A38E4489F57592E2A5FB00087AB89BB826516FE47EA19F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdbe20fee83098b87b412023b7d70b4b4" alt="" /></p>A powerful earthquake struck off the coast of Italy's Calabria region early on Tuesday and was felt as far away as Naples, news agency ANSA reported. The earthquake's epicentre was in the Tyrrhenian Sea off the city of Cosenza, some 240 kilometres south-east of Naples.]]></description>
             <link>https://www.yahoo.com/news/world/articles/powerful-earthquake-strikes-off-italys-001026280.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-earthquake-strikes-off-italys-001026280.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +486,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74CF0CEA89B05C2EAE75AE7DA76F45F32EAD990B61D3DB5DDA75787F79B5CFBD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc4c4983e229fec84dae82b11cb7d6d0a" alt="" /></p>Canada is failing Jewish Canadians and the community is being brutally targeted by hate, Prime Minister Mark Carney said Monday.  Carney said across Canada, antisemitism has surged to levels not seen in the post-World War II era.]]></description>
             <link>https://www.yahoo.com/news/world/articles/canada-failing-jewish-community-jews-233326403.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-failing-jewish-community-jews-233326403.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +493,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/868F18FDBA83B9B4DB897778F4BE77FA8B07B64E642E096032259D81B2577E01/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff5e60f7c2eab819a4a1ba5ded99af749" alt="" /></p>The secretary of State called the visit deeply meaningful.]]></description>
             <link>https://www.yahoo.com/news/world/articles/marco-rubio-visits-mother-teresa-223459844.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/marco-rubio-visits-mother-teresa-223459844.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 02 Jun 2026 05:08:20 GMT</pubDate>
         </item>
         <item>
@@ -6771,280 +7058,6 @@ At one end of the line in Nasr City, rush hour continues as usual.]]></descripti
             <link>https://www.yahoo.com/news/world/articles/north-korea-tests-multi-purpose-012045873.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-tests-multi-purpose-012045873.html</guid>
             <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: FAKE Euronews Video Falsely Claims Armenian PM Nikol Pashinyan's Press Secretary Accused Him Of Sexual Assault]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A45C5906ABC6328FD6C6E61E44FFC1F11165BF5D1C34112C8EBD628E72AB93D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Ff3b09da0e3ec41d79aa4237e904d6717" alt="" /></p>Did a real Euronews video report claim that Armenian Prime Minister Nikol Pashinyan's press secretary accused him of sexual assault in late May 2026? No, that's not true: The European news channel did not report that Pashinyan's press secretary, Nazeli...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fact-check-fake-euronews-video-011214849.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-fake-euronews-video-011214849.html</guid>
-            <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands rally for EU on Georgia independence day]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BD68742202AA32BC8447B1D8A3F8AEE98A5104BB2F77C98E41BB6262D44D2B23/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffd5f64a1d76a1d5b0c404f56418a458e" alt="" /></p>Thousands of Georgians staged a pro-Europe rally in the capital Tbilisi on the country's Independence Day on Tuesday, to protest what critics say is the government's democratic backsliding and anti-Western tilt.Waving Georgian and EU flags, thousands of protesters marched through central Tbilisi before staging a rally outside parliament amid a heavy police presence, an AFP journalist saw.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/thousands-rally-eu-georgia-independence-000623725.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/thousands-rally-eu-georgia-independence-000623725.html</guid>
-            <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soto, Young and Minter return to the Mets; OF Taylor on the IL with hip flexor strain]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AEC143221311617254A9EAEE642EF8FD3708D90D928C16625A1F75C3FB90CF32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4a210af1139225e604f468a3b6c21011" alt="" /></p>Juan Soto, A.J. Minter and Jared Young returned to the New York Mets on Tuesday, when the last-place club’s depth was challenged again by the loss of outfielder Tyrone Taylor to the 10-day injured list due to a right hip flexor strain.  “Almost back to normal,” Mets manager Carlos Mendoza said of Soto, who was battling a bug that’s been going around the clubhouse.]]></description>
-            <link>https://www.yahoo.com/news/articles/soto-young-minter-return-mets-230952175.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/soto-young-minter-return-mets-230952175.html</guid>
-            <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea tests new multi-purpose missile launch system: KCNA]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF394387994FABA3A91050A1AB46DA8D40928F495C80676DDD1E994C493FF635/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff4350e2c21e3a652f11c660dcb0a8dcf" alt="" /></p>North Korea said Wednesday it had tested a new lightweight multi-purpose missile launching system and a multiple tactical cruise missile weapon system the previous day.Tuesday's launches were North Korea's first in 37 days and its eighth test this year.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/north-korea-tests-multi-purpose-224300372.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-tests-multi-purpose-224300372.html</guid>
-            <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: AI Train Crash Photo With Yellow Van NOT Real -- AI-Generated Image Of Real Accident In Buggenhout, Belgium]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4521452F64A00922EA7A6CF12FB0785E293E92EC31AAF38A23D5CE028FB32AC3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F87beb1546964188a6a9c2d1d771b9012" alt="" /></p>Is this a real photo of a train crash in Buggenhout, Belgium, in which a van carrying special needs children was hit by a train on May 26, 2026? No, that's not true: The image published by a website named...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fact-check-ai-train-crash-194914615.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-ai-train-crash-194914615.html</guid>
-            <pubDate>Wed, 27 May 2026 06:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Even moderately hot days raise risk of koala deaths: study]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9727EE734C8CE6C589DC961C90161E9F7C37CBDF73509D3A0099407C4B8B5414/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2486e78bdcc89597abd22dbedb81613f" alt="" /></p>Koalas can endure tough conditions in the Australian bush but prolonged exposure to even moderately hot weather can increase their risk of heat-related death, researchers said on Wednesday.The increasing frequency and intensity of hot days in Australia pose a "significant threat" to endangered inland northwest koala populations at greatest risk of heat exposure, the study said.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/even-moderately-hot-days-raise-232957214.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/even-moderately-hot-days-raise-232957214.html</guid>
-            <pubDate>Wed, 27 May 2026 01:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia allows central bank, top bank Sberbank to directly down drones]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC32A221C1183471B1008C56674F9E09C78D3B752B92E43BE2D6B6E4B03B9BE2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F83329f4e47f389d50e5f64cb53e59e21" alt="" /></p>May 27 (Reuters) - Russia has passed a law allowing its central bank and other financial institutions to operate defence systems and arm staff to ward off drone attacks without special forces]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-allows-central-bank-top-234003340.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-allows-central-bank-top-234003340.html</guid>
-            <pubDate>Wed, 27 May 2026 01:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain faces 'moment of consequence' as threats from adversaries mount, spy chief says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>LONDON, May 27 (Reuters) - Britain is at a "moment of consequence" amid increasingly brazen behaviour from adversaries and a narrowing window to stay ahead in the race to harness technology along with]]></description>
-            <link>https://www.yahoo.com/news/world/articles/britain-faces-moment-consequence-threats-230309291.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-faces-moment-consequence-threats-230309291.html</guid>
-            <pubDate>Wed, 27 May 2026 01:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mother, boyfriend allegedly abandoned blindfolded young sons in remote forest as part of 'game': reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E54409B235350DC876977836B655C7BB18AB36DBF05DC047E5F50B16B6399653/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F38031748cd15518c249bb7e0e0781ead" alt="" /></p>Marine Rousseau and Marc Ballabriga allegedly abandoned her two young children in a forest in Europe, blindfolding them as part of a so-called game.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mother-boyfriend-allegedly-abandoned-blindfolded-220330003.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mother-boyfriend-allegedly-abandoned-blindfolded-220330003.html</guid>
-            <pubDate>Wed, 27 May 2026 01:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Authorities urge Euphrates riverbank residents in Syria to move inland as waters rise]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A4EA066DF6318287A43E3F8CFB3102D73331D9228E3E8A48F4366EC4725D682/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd77c3c1cc155d348f1e0c8d1df12ab3f" alt="" /></p>Water levels of the Euphrates River in northern and eastern Syria rose over the past two days, causing flooding, officials said Tuesday, spurring authorities to urge residents living on the banks to move inland.  There were no reports of casualties in the flooding, which has been rare in Syria since Turkey built dams decades ago that control the flow of the Euphrates into Syria and Iraq.  The floods affected the northern province of Raqqa and the eastern province of Deir el-Zour.]]></description>
-            <link>https://www.yahoo.com/news/weather-news/articles/authorities-urge-euphrates-riverbank-residents-215434760.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/authorities-urge-euphrates-riverbank-residents-215434760.html</guid>
-            <pubDate>Wed, 27 May 2026 01:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea tests mix of enhanced ballistic, cruise missiles and artillery rockets, KCNA says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC3500C397FD5A44E00EED664E141CF234AB524792C7C3515831B5C0D672F6EB/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb1062d092031f945123fb701331ad90e" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/north-korea-tests-mix-enhanced-223039827.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-tests-mix-enhanced-223039827.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN Security Council condemns attack on UAE nuclear plant]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1DE0D1D3A952C9FC07B56BC65C35F193A821BF249EB7F3E56DAAD20716990763/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F53a4f62e4de8ade30e0e706225b86b49" alt="" /></p>WASHINGTON, May 26 (Reuters) - The United Nations Security Council on Tuesday condemned the attack on Barakah Nuclear Plant in the United Arab Emirates, according to a statement, adding that the]]></description>
-            <link>https://www.yahoo.com/news/articles/un-security-council-condemns-attack-215320870.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/un-security-council-condemns-attack-215320870.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanker reports external explosion off Oman coast, crew safe, UKMTO says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2271499361D1CED57CFFD14FF4F25B5A11F3F0BF21F11D86ACF673CEE0AB065/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe7e2d8a2dabe6b4a708529054b80d2ca" alt="" /></p>DUBAI/OSLO, May 26 (Reuters) - United Kingdom Maritime Trade Operations said on Tuesday that a tanker had reported an external explosion on the vessel's port side, close to the waterline, 60 nautical]]></description>
-            <link>https://www.yahoo.com/news/articles/tanker-reports-external-explosion-off-173737098.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/tanker-reports-external-explosion-off-173737098.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia says US won’t give diplomat visa for United Nations meeting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EE513587378C054DD3B5F6DF810CED64A67CCEE7B36829C2F8281B4EFFB94EC3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F6dcf1a7666fc550e5dad4e715291c2e2" alt="" /></p>Russia's Deputy Foreign Minister is supposed to attend a UN Security Council meeting in New York, but the US apparently won't give him a visa.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/russia-says-us-won-t-213430970.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/russia-says-us-won-t-213430970.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli strikes kill 31 in south Lebanon as Israel expands ground operations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D836EF2FD7C3D653057E3BF9F4199CD480FAF3418C9C7B5C6C61FA025848F2CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff0d29523cf8ec0ba637966091bacffc4" alt="" /></p>Israeli strikes on southern Lebanon killed 31 people on Tuesday, the Lebanese health ministry said, as Israel said it was intensifying attacks despite a truce in its war with Hezbollah.In a statement, the health ministry said 31 people, including at least four children and three women, were killed in attacks and 40 wounded.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-strikes-kill-31-south-213009523.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-strikes-kill-31-south-213009523.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel says it targets new Hamas leader in Gaza as Palestinians report 3 dead]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC4281B3CB98084479F1B707A0C37032831596CBF2407F389ADF3C9CE4032A08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd31ce9da3e4fea9f1f222483e893fde5" alt="" /></p>DEIR AL-BALAH, Gaza Strip (AP) — Israel carried out a pair of airstrikes in Gaza City late Tuesday, killing at least three people and injuring 12, hospital officials said.  In a joint statement, Israeli Prime Minister Benjamin Netanyahu and his defense minister, Israel Katz, said the strikes had targeted the new leader of Hamas' military wing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-says-targets-hamas-leader-210306932.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-says-targets-hamas-leader-210306932.html</guid>
-            <pubDate>Tue, 26 May 2026 23:02:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK's ex-PM Blair calls on Labour to focus on policy, not personality]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3DF29D3B1C234508358E8F10798EFC552C24C84D7CADA3F667C47EFF400ED87/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc47c19ef0efa6a48759a64018f1c37d8" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/uks-ex-pm-blair-calls-210725475.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uks-ex-pm-blair-calls-210725475.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada imposes Ebola-related travel ban as Bahamas plans similar move]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0BBF68DA5F65821FE22448F58C8984310EE444D8A9D2AB6997F94B484D5F2D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0785cb6dd6bc5ab0cbacfb171097eff1" alt="" /></p>By Jasper Ward WASHINGTON, May 26 (Reuters) - Canada said on Tuesday it will temporarily ban residents from three African countries amid an Ebola outbreak as a source told Reuters The Bahamas plans to]]></description>
-            <link>https://www.yahoo.com/news/articles/canada-imposes-ebola-related-travel-214353878.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/canada-imposes-ebola-related-travel-214353878.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK, Poland set to sign defence treaty to tackle hostile threats across Europe]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/05FEC410A45A757CB69B58670A5772738F43F53AA047F477991CE637A7334D49/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa626c18e913a03b012a77c91c50f6e62" alt="" /></p>LONDON, May 26 (Reuters) - Britain will sign a new defence and security treaty with Poland on Wednesday to strengthen defence cooperation in the face of increasing hostile threats across Europe, the]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-poland-set-sign-defence-213527916.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-poland-set-sign-defence-213527916.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US to set up quarantine facility in Kenya for Americans exposed to Ebola, WSJ reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82ACEF868FD344D76A75B3958AA5065D99A5AB9EF1E9E3B5DCD96E0D06E13735/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1c9b768b4874179a549c1441382b1a5d" alt="" /></p>May 26 (Reuters) - The Trump administration is expected to deploy U.S. public health officers to Kenya to staff a potential quarantine facility there amid the Ebola outbreak in the Democratic Republic]]></description>
-            <link>https://www.yahoo.com/news/us/articles/us-set-quarantine-facility-kenya-211011908.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/us-set-quarantine-facility-kenya-211011908.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Republican attorneys general split with House party members over US social media bill]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/255B3561E4E310423F2360116EE2AC799C92688A9B38BBE3DAD366F62E5D2304/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdb542b01d0607e4c05ae7d273ec7f911" alt="" /></p>By Courtney Rozen WASHINGTON, May 26 (Reuters) - More than a dozen Republican attorneys general said they oppose a children's online safety bill backed by their party's members of the U.S.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/republican-attorneys-general-split-house-202102116.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/republican-attorneys-general-split-house-202102116.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel attacks Hamas' new armed wing chief, Netanyahu says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FBC631662EAB9E64AF30170E8FA5D06BD77271C0B8CF4E804AB8D27A0DC39D23/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F82cd67c4c4cc54eae25c23ffdf74b424" alt="" /></p>By Rami Ayyub and Nidal al-Mughrabi JERUSALEM/CAIRO, May 26 (Reuters) - Israel said on Tuesday it had attacked Hamas’ new armed wing chief, who it said was appointed just days earlier after Israel]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-carried-attack-against-hamas-182321949.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-carried-attack-against-hamas-182321949.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranians emerge online with skepticism  and defiance after months of blackout]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F31AC14721E9E34CD4DCB74144C923D38FEFD6ABFA0060D8E906ED932DEDD901/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc1c630ec1457a62aa541236d7ebea194" alt="" /></p>Iranians reacted with a mix of skepticism, caution and sarcasm on Tuesday after internet monitors reported a partial restoration of online access following months of near-total isolation under a nationwide shutdown imposed by Iranian authorities.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iranians-emerge-online-skepticism-defiance-192429881.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranians-emerge-online-skepticism-defiance-192429881.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China says it hopes Iran war parties can meet each other halfway]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6802FBCBD5172BD9364788EF1A3205237C19B5BC2AA780248A7BAC9ED8D52F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe7a05c66f824661a66896edbea525847" alt="" /></p>May 26 (Reuters) - China's Foreign Minister Wang Yi said on Tuesday he hoped parties in the Iran conflict can stay committed to pursuing a ceasefire and continue to meet each other halfway.]]></description>
-            <link>https://www.yahoo.com/news/articles/china-says-hopes-iran-war-184756400.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/china-says-hopes-iran-war-184756400.html</guid>
-            <pubDate>Tue, 26 May 2026 21:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US CDC seeks staff for Ebola screening as outbreak response expands]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82D3B0FE8F17E1BA63D7F737FFD4862953BBF19F3C6A43B1BD15DC39741F20EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5290683a98ca2e6404065d747c016fdd" alt="" /></p>May 26 (Reuters) - The U.S.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/us-cdc-seeks-staff-ebola-193828008.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/us-cdc-seeks-staff-ebola-193828008.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel pounds Lebanon with strikes, expands ground operations past security zone]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C66188EBBFF4F2F61137BADE48D43AA67197F123457FB903C4F86328B3D3667D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa7dc55fe639a17b55842b312b6696e0c" alt="" /></p>By Jana Choukeir May 26 (Reuters) - Israel pounded Lebanon with more than 120 air strikes on Tuesday in one of the heaviest days of bombing in weeks, Lebanese security sources said, as Israeli Prime]]></description>
-            <link>https://www.yahoo.com/news/articles/israel-expands-ground-operation-beyond-151727690.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-expands-ground-operation-beyond-151727690.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Multiple injuries, at least one dead in chemical tank rupture in Washington state, ABC reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>May 26 (Reuters) - A chemical tank rupture at the Nippon Dynawave Packaging facility in Longview, Washington resulted in multiple critical injuries and at least one fatality, ABC News reported on]]></description>
-            <link>https://www.yahoo.com/news/us/articles/multiple-injuries-fatalities-chemical-tank-190358581.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/multiple-injuries-fatalities-chemical-tank-190358581.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three UK teens convicted of rape walked free. After a nationwide outcry their sentences will be reviewed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE803A40906C331374F61E83C2A9944977FFC061CA0F584C50B5C10CF75D5B3C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fae60f388d0af7ba70c86fb81f9de053a" alt="" /></p>Three teenage boys who were convicted over the rape of two girls were last week allowed to walk out of a UK court without any custodial sentence, triggering a nationwide outcry.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-uk-teens-convicted-rape-183211746.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-uk-teens-convicted-rape-183211746.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portugal police say operation breaks up large-scale illegal immigration network]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/128539CE15F03EEE5BB1578F0A812FD16DBB87C1896BD6393251D40D6C1EC909/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa68dac24787b21f82af72f066a711ec8" alt="" /></p>LISBON, May 26 (Reuters) - Portuguese police said on Tuesday that the authorities have dismantled a criminal group allegedly responsible for illegally trying to regularise the status of around 4,000]]></description>
-            <link>https://www.yahoo.com/news/world/articles/portugal-police-operation-breaks-large-174833037.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/portugal-police-operation-breaks-large-174833037.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel expands ground operation in south Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36355A49B33C58A831893C51617891C61D77F4A2FAE37E0EDBDDFAF8ADC9613E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdetroit_news_articles_230%2F25c97da6e3bd67d61ae534fd8b001a61" alt="" /></p>The Israeli military has expanded its ground operations in southern Lebanon beyond a demarcation line that Israel set up after an April 16 ceasefire.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-expands-ground-operation-south-173657111.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-expands-ground-operation-south-173657111.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serial killer fears grow in Puerto Vallarta after 3 murders]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5DD3A09745BB40D273C2421409339A1C00DAC1B8CAC303359F6C2D3985851794/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fab81b51bfbc87dfb82ea2071f26ec03b" alt="" /></p>All three victims were found within 11 days of each other.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/serial-killer-fears-grow-puerto-171426897.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/serial-killer-fears-grow-puerto-171426897.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's humanitarian system buckling, 'no longer fit for purpose,' US-based researchers say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B89D9BB2A5C5662D70925F8DEF1A2E51B4DDF9AFFE9B47CD6DD9CE1EC62CA6E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb5cbfe0717cee7630db23eb105c8a5ab" alt="" /></p>A new Lancet report argues the global humanitarian system needs major reform as crises around the world overwhelm current aid delivery.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/worlds-humanitarian-system-buckling-no-164212177.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/worlds-humanitarian-system-buckling-no-164212177.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Remnants of Assad's chemical weapons program recovered, Syrian official says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3AAD52CE6864A97B959576111C6BCBDE3294D6C91E8F7D1C3FC4E492AF92684/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F755a8f1e123fbaa7e2400a3e88fdee73" alt="" /></p>By Anthony Deutsch AMSTERDAM, May 26 (Reuters) - Syria's transitional leadership has located remnants of former Syrian President Bashar al-Assad's clandestine chemical weapons program, including raw]]></description>
-            <link>https://www.yahoo.com/news/articles/remnants-assads-chemical-weapons-program-145604566.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/remnants-assads-chemical-weapons-program-145604566.html</guid>
-            <pubDate>Tue, 26 May 2026 19:59:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dozens of countries at UN condemn Moscow's 'threats' to embassies in Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DF7B6D3BBA6EDC7BCF0B307966E54666E65BF99886FC79DFCFDC2F97C207E5B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc4cc4b99f789279f757f479fc31aef3d" alt="" /></p>Almost 50 countries condemned what they said were threats by Russia against embassies in Ukraine in a joint statement at the United Nations on Tuesday."We also condemn recent threats by Russia to diplomatic institutions and embassies in Kyiv.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/dozens-countries-un-condemn-moscows-144339426.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dozens-countries-un-condemn-moscows-144339426.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US FDA advisers to weigh updating 2026-27 COVID vaccines to target XFG variant]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA7A43CD558B00C03C2C4B9E03E57B52720C89FDBA8B34C6F72649347BCD1B59/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F92a0c82d1c2835fa33aa6cd31645777a" alt="" /></p>May 26 (Reuters) - Advisers to the U.S.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/us-fda-advisers-weigh-updating-145455520.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/us-fda-advisers-weigh-updating-145455520.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's Elbit developing hardware to combat Hezbollah drones, CEO says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA0AE021BCE5DED276D382418E895BCD8D36723F9669290D984E26A5A0B8EB4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F819a001fe6c872f2a4c106d820d4a945" alt="" /></p>By Steven Scheer JERUSALEM, May 26 (Reuters) - Israel's largest defence contractor is developing hardware to combat explosive Hezbollah drones that have killed Israeli troops in southern Lebanon,]]></description>
-            <link>https://www.yahoo.com/news/articles/israels-elbit-developing-hardware-combat-154855068.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/israels-elbit-developing-hardware-combat-154855068.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four killed as Belgian school bus hit by train after appearing to plow through barrier]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/549F4C90BDE570821415BD50632AA9306F4CDC8BE1E87DC3D865D7B8FFC2F8C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7daef292cbeec25b5836d30c979fefdc" alt="" /></p>Two children were among four people killed when a school minibus was hit by a train after appearing to plow through a barrier at a level crossing in northern Belgium on Tuesday morning, police said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/four-killed-train-hits-school-105321465.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-killed-train-hits-school-105321465.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran partially restores internet access after months-long shutdown]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BEFC60730955FF086DDE1006762C77F7881129C3784C18AD06C4E7374A4C6693/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1532249273d7a3de010f61891a6091fa" alt="" /></p>Iranian authorities partially restored internet connectivity Tuesday after an almost three-month shutdown imposed against the backdrop of the war against Israel and the US, said a monitor, a senior official and sources inside the country.- 'Long way to go' -
-The shutdown imposed when war erupted on February 28 followed a similar blackout imposed from January 8 as the country was rocked by mass anti-government protests.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-partially-restores-internet-access-153941265.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-partially-restores-internet-access-153941265.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong proposes issuing 10,000 permits for drivers on ride-hailing apps like Uber]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/89EA9EFA119939BCE1B41DD85CD152BD5410BB3CB7F33658C9146141E24124D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F11488ef5f6e6097cd6ce3a7b17f1ecbe" alt="" /></p>The Hong Kong government on Tuesday proposed issuing 10,000 new vehicle permits for drivers to work for online ride-hailing services like Uber, less than half the amount that industry representatives were hoping for.  Hong Kong has about 18,000 licensed taxis and caps private service car-hire permits at 1,500, and these drivers can be summoned through ride-hailing apps.  The Hong Kong government unveiled details of a regulatory framework last summer to bring the industry under formal regulation, following years of pressure from taxi companies.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hong-kong-proposes-issuing-10-151506289.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kong-proposes-issuing-10-151506289.html</guid>
-            <pubDate>Tue, 26 May 2026 17:40:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
