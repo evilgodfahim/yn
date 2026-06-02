@@ -4,7 +4,7 @@ const cheerio = require("cheerio");
 const RSS = require("rss");  
   
 const baseURL = "https://www.yahoo.com";  
-const targetURL = "https://www.yahoo.com/news/world/";  
+const targetURL = "https://www.yahoo.com/news/";  
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";  
 const MAX_ITEMS = 1000;  
   
