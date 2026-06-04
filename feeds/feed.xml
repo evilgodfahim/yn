@@ -4,16 +4,255 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 21:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 22:51:30 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Officer charged with stealing journalist's camera bag, allegedly tracked by AirTag]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53F9DF83673079144560C6FB6B8AEAEF7D1ECB48003975AA8356CAC35527DC8B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F5814f3c0ea462e448b0cdf4b814a6995" alt="" /></p>The journalist had been covering anti-ICE protests at Delaney Hall.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/officer-charged-stealing-journalists-camera-222350995.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/officer-charged-stealing-journalists-camera-222350995.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kennedy Center staff directed to remove Trump's name by June 12]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/54D6E06C88160A0211A72866B77686CB8EFFB339F844E8D756559432B3D17E05/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fdfbecd3dfd85298a45f70237b0cd171a" alt="" /></p>Kennedy Center employees have been instructed to remove Donald Trump's name from signs and materials by June 12 to comply with a judge's order.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/kennedy-center-staff-directed-remove-222336348.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/kennedy-center-staff-directed-remove-222336348.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pentagon hires man who pleaded guilty in Jan. 6 riot for sensitive civilian job]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/58C8A98972B2FFE59395AEA549C744A5C0459C958E43B6768FF00CC1568BE357/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe83a078b8bfae91bb66c4b0c4bbf090a" alt="" /></p>A man who pleaded guilty to participating in the Jan. 6 riot as a 19-year-old — and later described the events of that day as a "disgrace" — now works for the Defense Department.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/pentagon-hires-man-pleaded-guilty-221814341.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/pentagon-hires-man-pleaded-guilty-221814341.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sen. Wyden wants to know why Leon Black paid Epstein $170 million for tax planning]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/500C554C603B77F0A740D791EE6EC13F0CBEA5F84908C797AAF5F3DEA70B3186/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fc9a791941344ea74104b77c7f821057c" alt="" /></p>Jeffrey Epstein was paid extraordinary sums by billionaire Leon Black, and Sen. Ron Wyden wants to know why.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/sen-wyden-wants-know-why-221010105.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/sen-wyden-wants-know-why-221010105.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaska Senate race has two Dan Sullivans. One isn't happy about it]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE61D534AF21E297BD28619106201D3249712CF2C411930AAE88E53D9827A8E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fb82c0898356f44a4a27b03aad1d214b1" alt="" /></p>Incumbent Alaska Sen. Dan Sullivan alleges voter confusion after another candidate with the same name joins the race, prompting GOP legal threats.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/alaska-senate-race-two-dan-220758566.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/alaska-senate-race-two-dan-220758566.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colorado court orders retrial for paramedics in Elijah McClain case]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B6BB94F57600C78278247394D25F60500B038A55FD658191B3ABC5116B6A4E18/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0dde5dac96a9a996575b9060159e27ff" alt="" /></p>June 4 (Reuters) - An appeals court in the U.S. state of Colorado on Thursday ordered a retrial of two paramedics convicted over the death of Elijah McClain, a young Black man who was pinned down by]]></description>
+            <link>https://www.yahoo.com/news/us/articles/colorado-court-orders-retrial-paramedics-215937367.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/colorado-court-orders-retrial-paramedics-215937367.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump admin vetting critic of RFK vaccine policies for FDA chief, sources say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4133A86F19C40A4F3D90B5AAACC96449ED30F2C9A501BB591B78F5067B57B6C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F573bdca3e14c8c5c830e47c4f36eebf6" alt="" /></p>Ned Sharpless, a first-term Trump health official who has criticized vaccine policies championed by Robert F Kennedy Jr., is being considered for FDA commissioner.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/trump-admin-vetting-critic-rfk-215812669.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-admin-vetting-critic-rfk-215812669.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU considers limiting protection for Ukrainian men of fighting age]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/543ED20CA937E80448BFE62150B5136BA03E66DCA723F1DC1EB5F3B47DA22F36/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ffa4fcc25274bfaaef9a6a95367c853c5" alt="" /></p>June 4 (Reuters) - EU ministers on Thursday broadly supported a proposal to limit access to temporary protection for Ukrainian men of military age, Sweden’s migration minister said.]]></description>
+            <link>https://www.yahoo.com/news/articles/eu-considers-limiting-protection-ukrainian-215544678.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/eu-considers-limiting-protection-ukrainian-215544678.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Minnesotans whose loved ones were killed by police condemn state GOP for praying for Derek Chauvin]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/527737E2C2E0700D23725250F996EBCB7B950B7E13E0C9BD2DFE582CFD3BDE24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2e5803262de82d4f5fa72f3bba870e25" alt="" /></p>Minnesota residents with loved ones who died at the hands of police spoke out Thursday about the state Republican Party holding a public prayer for Derek Chauvin, the former police officer in prison for murdering George Floyd.  “You all had the opportunity to honor fallen soldiers or children who lost their lives,” said Courteney Ross, Floyd’s girlfriend and who was visibly emotional through “tears of outrage.”  Valerie Castile, the mother of Philando Castile, a 32-year-old school cafeteria worker who was shot and killed by a Minnesota police officer in 2016, echoed what Ross said, calling the act “the most hurtful thing you can do.”]]></description>
+            <link>https://www.yahoo.com/news/us/articles/minnesotans-whose-loved-ones-were-215110779.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/minnesotans-whose-loved-ones-were-215110779.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[4.1 magnitude earthquake rattles Vegas, part of a series in the West]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0FB7DE4A9CDD9A602CF8C2059506E139009B4AAE8825CB449D03E15F4445900/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F9b2db7ed3ba0aebf5fae57660861beac" alt="" /></p>The United States Geological Survey reported a 4.1 magnitude earthquake near Las Vegas on June 4, one of many shaking the West on the same day.]]></description>
+            <link>https://www.yahoo.com/news/weather-news/articles/4-1-magnitude-earthquake-rattles-214832585.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/4-1-magnitude-earthquake-rattles-214832585.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says Pulte 'not going to be permanent' DNI amid pushback]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35F9E2CCBCC9787544395D39B479FE774AE59E093380BD49176A6F812957F66A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F3368b30c59cf48c97a05c2ff858f5f22" alt="" /></p>Pulte, 38, has generated bipartisan pushback, with senators questioning his qualifications to serve as director of national intelligence.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/trump-says-pulte-not-going-214527060.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-pulte-not-going-214527060.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Here is who Epstein’s longtime assistant accused of sexual abuse]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B49AC850516838C575969C243CBC5F0B93237A64A9A974A72ADE0966B28C5EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F9b3f72c2eeb026dbf0edea3b1bb083e0" alt="" /></p>Lawmakers investigating the late convicted sex offender Jeffrey Epstein are turning their attention to three men who Epstein’s longtime assistant accused of sexual abuse in closed-door testimony this week, sources familiar with the matter told CNN.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/epstein-longtime-assistant-accused-sexual-201330146.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/epstein-longtime-assistant-accused-sexual-201330146.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump eyes his next DC renovation: The Lincoln Memorial]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AAC845D1D98653D0EFC4071BA07B66732664D1ECE7D52410570E1BE78DE6E641/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2Fdd6d5eed6dfe1d82a01ef17271459fe9" alt="" /></p>The president said he wants to build pedestrian access between the monument and the Potomac River.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/trump-eyes-next-dc-renovation-214317481.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-eyes-next-dc-renovation-214317481.html</guid>
+            <dc:creator><![CDATA[Politico]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kennedy Center orders staff to remove Trump’s name]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0577D595E11541B263853251E91D386A45074EB559A2DFE43B3DADA6285B592/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7034f6c6914461584574377f02972d0f" alt="" /></p>The Kennedy Center’s general counsel ordered staff on Thursday to remove President Donald Trump’s name from the building by June 12, according to a memo obtained by CNN, in order to comply with a recent court order.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/kennedy-center-orders-staff-remove-214242927.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/kennedy-center-orders-staff-remove-214242927.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President announces plan to build 'Trump Promenade' on Lincoln Memorial]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/540C7A6981BFEA00BEEA988E3E4C38B0789BA0177D118978D0791857C4032404/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F7ce21e9803c95a52a2f10df36ea4ac48" alt="" /></p>President Donald Trump plans to build a promenade at the Lincoln Memorial. An administration official said the concept is part of the original design of the National Mall.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/president-announces-plan-build-trump-214050731.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/president-announces-plan-build-trump-214050731.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Decades in the making, Deb Haaland's political rise spurs both inspiration and scrutiny]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3A1CE417D2E4975E9399C6A513794FC948E7C4A97B6B665C7057577EFB2A407E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdb2417f26fb2b172ac46c0c038055d6d" alt="" /></p>As the sun peeked over the Sandia Mountains, Deb Haaland was at a familiar spot, the tribal community where she used to work, waving at motorists and encouraging them to stop and vote in New Mexico’s primary.  It was the final day of voting earlier this week, and Haaland was embracing friends and former colleagues at San Felipe Pueblo where she was once a tribal administrator.  Before the day was over, Haaland, who is a citizen of Laguna Pueblo, secured the Democratic nomination for New Mexico governor.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/decades-making-deb-haalands-political-214030283.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/decades-making-deb-haalands-political-214030283.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says it is ramping up emergency assistance in Bolivia amid protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F221DB4396F283F946D770644FC4CE53F7AA3372EB80949F49F4230FB47EF56C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8b2d98ceb90517659d46597ab035ff81" alt="" /></p>WASHINGTON, June 4 (Reuters) - U.S.]]></description>
+            <link>https://www.yahoo.com/news/articles/us-says-ramping-emergency-assistance-212430992.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-says-ramping-emergency-assistance-212430992.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kennedy Center moves to erase Trump references after judge said they were illegally added]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE22BDFB3E9A58BC383D76267EBFC66F0AA8C2D5CE9DCA9C1A299ED567A613B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa5b0e034ecc1bf90dfc992983fff6cc4" alt="" /></p>The Kennedy Center is beginning the process of removing references to President Donald Trump a week after a federal judge ruled that his name had been illegally added to the performing arts center.  Roma Daravi, the Kennedy Center’s vice president of public relations, said in a statement to The Associated Press that “we are complying with the court’s order while evaluating all legal options to preserve this revitalization and recognize President Trump’s leadership.”  In a Thursday memo to staff from the Kennedy Center's Office of General Counsel, the institution's lawyers said email signatures, letterhead and other documents must reflect the name as “The John F. Kennedy Center for the Performing Arts" or “Kennedy Center.”]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/kennedy-center-begins-process-removing-212011241.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/kennedy-center-begins-process-removing-212011241.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon sued over Ring facial recognition, plaintiffs seeking $5M]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C22A7534D2D99D95C10351F78DF2197947151EB22940CA0BAD0D375FC4F5EA31/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fa17ee1d40f46b5135e0119981c2dab52" alt="" /></p>Amazon faces a lawsuit claiming Ring cameras scanned and stored facial data from visitors and passersby without consent, raising privacy concerns.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/amazon-sued-over-ring-facial-211803605.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/amazon-sued-over-ring-facial-211803605.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Planning commission seeks more details on Trump’s planned 250-foot arch near the Lincoln Memorial]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0448D86662115DE1269F4B7E1B12C29D5AF9B9C60111790F1B15290F5F4F1086/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7408dbb3f5e732e6953517e49a9ee38b" alt="" /></p>The National Capital Planning Commission has kept alive the triumphal arch that President Donald Trump wants built at an entrance to the nation’s capital, requesting more information on how it could potentially impact air travel navigation in the area, as well as other specifics on construction and traffic in the area.  Most members of the federal agency that approves construction on federal land voted in favor Thursday of seeking more information from the Department of the Interior, which submitted the application for the 250-foot arch planned between the Lincoln Memorial and Arlington National Cemetery.  The vote came after nearly three hours of public comment from about 20 members of the public, some representing historic and architectural organizations, and most of whom expressed concerns about the arch that is one of several projects the Republican president is pursuing to leave his imprint on Washington.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/planning-commission-seeks-more-details-211552370.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/planning-commission-seeks-more-details-211552370.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transparency or confusion: Trump admin's X engagement outpaces Biden's]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3CB50638DA618041E0710217F552032AA4449B7E14A9E7981B1664EC2B6F3107/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F3d3efb247c38f9ffc30a634dae3a9f7d" alt="" /></p>Federal government's social media posts on X, formerly Twitter, are drawing far more engagement under Trump than Biden, new Pew data shows.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/transparency-confusion-trump-admins-x-211320997.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/transparency-confusion-trump-admins-x-211320997.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Todd Blanche was ‘in charge’ of Epstein matter, Bondi told lawmakers, according to new transcript]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D539A5E3605B61D152E395F5D1257432F238279417E075064BBE5C4B253B275F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4a8b3f2fc747f55575ae823ed5946aca" alt="" /></p>Todd Blanche, President Donald Trump’s pick to lead the Justice Department, was responsible for overseeing the release of the Jeffrey Epstein files, former Attorney General Pam Bondi said during a closed-door interview with lawmakers last month.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/todd-blanche-charge-epstein-matter-203018129.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/todd-blanche-charge-epstein-matter-203018129.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Todd Blanche Hates 'Weaponization' of Government Unless It Benefits His Boss]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3387669A022F50DCFB87DB4ECD513DC759E9F35A2BC1E3D3EA42702E33CC303A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F39b3bfa936746430ee2d316cc4b8b6ec" alt="" /></p>Blanche is happy to pervert justice in service of the president's personal agenda. No wonder Trump wants to keep him as attorney general.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/todd-blanche-hates-weaponization-government-211006965.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/todd-blanche-hates-weaponization-government-211006965.html</guid>
+            <dc:creator><![CDATA[Reason]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-FirstEnergy executives reindicted in Ohio in $60 million corruption scheme]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D671B92F1180A768470216C6568801494115EDC5828B40AA6A60FCFAF7EEEE3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4f7e30729b756bc8055df7a05a8ac645" alt="" /></p>Ohio Attorney General Dave Yost announced Thursday that a grand jury has reindicted two fired FirstEnergy Corp. executives whose initial prosecutions in the state's long-running $60 million bribery scandal ended in mistrial earlier this year.  Yost, a Republican, joined Summit County Prosecutor Elliot Kolkovich in detailing a combined 22 new criminal counts against Charles “Chuck” Jones, the Akron-based energy giant’s former CEO, and Michael Dowling, its one-time top lobbyist.  “The roots of this complex case haven’t changed — FirstEnergy was hijacked by two scheming executives who sought to control the regulator that influenced the company’s stock prices,” Yost said in a statement.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/ex-firstenergy-executives-reindicted-ohio-210756956.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/ex-firstenergy-executives-reindicted-ohio-210756956.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flesh-eating worm, baffling cold case, cameos on ‘Friends’: Catch up on the day’s stories]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9078F91D91F4A9CA6B4BDC3FFB445A3ABC3C0F2B544F0D47E3A04C8BF225BAD5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7c13a4dd4ee541673441f0d75774541d" alt="" /></p>CNN’s 5 Things PM brings you the stories you might have missed during your busy day.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/flesh-eating-worm-baffling-cold-210245874.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/flesh-eating-worm-baffling-cold-210245874.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says Bill Pulte won't be director of national intelligence permanently]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/198152C8F77D7ECD9A316C23AEDAB6E95EB690B9264F47F9529A4FE5FE4B8837/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F71ebe439230b6daa7b4e43d31ddbabde" alt="" /></p>Asked if Bill Pulte has the national security experience for the job, President Trump said he does because he's "smart."]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/trump-says-bill-pulte-wont-210052795.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-bill-pulte-wont-210052795.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pam Bondi’s Epstein files interview transcript released]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/664201F6105844D3977407E28B2050F91FB1F837CD29417CD1925DD67DE15252/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff5589b4253c4c587219124a5ee41a41c" alt="" /></p>Bondi was criticized by lawmakers and survivors over the release of the files, particularly over redactions some argue protect wrongdoers.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/pam-bondi-epstein-files-interview-205732969.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/pam-bondi-epstein-files-interview-205732969.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Video reveals damage from fire on US aircraft carrier after sources say fire control system failed]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/209B3DE39A7545CFACA7F75FA74F923F07446C2FBE4FE59A3821F22D67C2707A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4451b840816c9bd32c4115a3557f7e71" alt="" /></p>When a fire burned aboard the world’s biggest aircraft carrier in March as it took part in operations against Iran, the US Navy released a short statement saying the blaze had been “contained,” that two sailors had received medical treatment for “non-life-threatening injuries” and that the carrier was “fully operational.”]]></description>
+            <link>https://www.yahoo.com/news/us/articles/exclusive-video-reveals-damage-fire-205718680.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/exclusive-video-reveals-damage-fire-205718680.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[United flight struck pole, not truck as it landed at Newark last month: NTSB]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CEAF168CCFE7A11BA89D04601E37788683F29BF7EA69425234BAAC2EC15BD41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F02a13326bdc8acf2df554859e5da9183" alt="" /></p>The flight came close to a truck that was driving on a nearby highway.]]></description>
+            <link>https://www.yahoo.com/news/us/articles/united-flight-struck-pole-not-205702339.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/united-flight-struck-pole-not-205702339.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social Security: Here’s how much monthly checks could be cut by 2032]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B63102A7319BC53C4F1C5E4657D0DD1704DCB64863804C91886D721F65ACC0D5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F6d430a9b71a495c8a0ef16212133730a" alt="" /></p>Retirees could see their Social Security checks cut by about $500 a month by 2032 if Congress doesn't take action.]]></description>
+            <link>https://www.yahoo.com/news/politics/articles/social-security-much-monthly-checks-205158670.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/social-security-much-monthly-checks-205158670.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Thu, 04 Jun 2026 22:51:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US imposes sanctions on Cuban President Miguel Díaz-Canel in latest move to pressure leadership]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ECDCBB05883A297E72397F05020BDEAE8807D37B0928580379238AA6A38E44CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3864fc9769bf3a0bbae450a6b4a30981" alt="" /></p>The United States has imposed sanctions on ​Cuba’s President Miguel Díaz-Canel, along with four other individuals, according to a filing Thursday on the U.S. Treasury Department website.  Included in the sanctions are Alejandro Castro Espín, the son of former President Raúl Castro.  The sanctions come after U.S. President Donald Trump signed an executive order expanding sanctions against the island.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/us-imposes-sanctions-cuban-president-210331711.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-imposes-sanctions-cuban-president-210331711.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +260,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07A66BB8BAAC908D0826718A788D0F5D628282124DC1D1305C1279C11C8528CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F259cddecbf2583deb5d04a179897fb4c" alt="" /></p>The acting attorney general has Trump’s confidence to become the nation’s top law enforcement official permanently. Now he needs the Senate’s.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/todd-blanche-won-over-key-210228242.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/todd-blanche-won-over-key-210228242.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +267,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA274C13AD5378FB8F8C8AFFD41D57E82467A747A06F61C77D8BD50A22ED1B6F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2F90f2a8d93d1aae9c23b26e125cc2e5eb" alt="" /></p>Anthony Moore said the woman approached him as he was driving in South Carolina.]]></description>
             <link>https://www.yahoo.com/news/us/articles/truck-driver-describes-helping-save-205956000.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/truck-driver-describes-helping-save-205956000.html</guid>
-            <dc:creator><![CDATA[Good Morning America]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +274,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/922BD93B62ED7A54585EE9501CF98BC18CD179A0616487CC974131BE9DF2D8E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F0f7d556f50b11c5a9b6a692636c390e3" alt="" /></p>Democratic leaders came out against the resolution before the vote, saying they favor another one introduced by Tlaib on Wednesday.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/house-blocks-rep-rashida-tlaibs-204610506.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/house-blocks-rep-rashida-tlaibs-204610506.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +281,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6D1C778F047353D6D4314D256A4EAEC5DBFD141FF5B3D0AD6F65A7C0E0E13212/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F25566fdc46b4a8083f3e57bd7b4d11e1" alt="" /></p>By Jasper Ward WASHINGTON, June 4 (Reuters) - The U.S. on Thursday imposed sanctions on Cuban President Miguel Diaz-Canel and some affiliated people and entities, the U.S.]]></description>
             <link>https://www.yahoo.com/news/articles/us-imposes-sanctions-cuban-president-204400816.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-imposes-sanctions-cuban-president-204400816.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +288,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/423D3249A6AEB9F5E919A846651D588DEDF79E6A8F39B2132759B80A6F1D6B9D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F901b9b3fcc90a9ec4114852ee7c0393c" alt="" /></p>WASHINGTON, June 4 (Reuters) - U.S. President Donald Trump said on Thursday that Bill Pulte's appointment as acting intelligence director is for the short term and not a permanent position.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-says-pultes-role-acting-201351469.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-pultes-role-acting-201351469.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +295,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/000014652F21F56364FE14FDB8B4C782EB9115B8832ABDFCBD2041DCA0E887D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F465c0c1e5b9b4c43c9c6ed82d1e75607" alt="" /></p>WASHINGTON, June 4 (Reuters) - U.S. President Donald Trump said on Thursday he believed progress was being made between Israel and Lebanon and that Lebanon deserved to have peace.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-says-thinks-progress-being-203711533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-thinks-progress-being-203711533.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +302,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9EC56F4FA7D92F0088BB2FC0D87373E1C2E673E42E94CC5AC84C55840FAF8D85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc45b42579f699c70e28a29189c00e6eb" alt="" /></p>WASHINGTON, June 4 (Reuters) - U.S. President Donald Trump on Thursday said that Washington did not need a deal with Iran to get enriched uranium from the country. "We could get it right now.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-says-does-not-deal-203529871.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-does-not-deal-203529871.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +309,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/922A5899A350AF67BF5DE6B919041B7059CE84C28D945FC34A4DEFF9C7AD3CCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fa4a5e18696eb8f8018f8328959fd1585" alt="" /></p>Perhaps the most controversial provision would preempt state laws governing model development for three years.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/washington-weighs-bipartisan-ai-proposal-203434156.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/washington-weighs-bipartisan-ai-proposal-203434156.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +316,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5B771D72EAF92BC3F51C532FA85872B6099D6CED5A754D47EBA40B0D63A8B8B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F7971e52a82921b7bc10f58e7a54e7c0b" alt="" /></p>The Health and Human Services Department wants to access medical records, but it's not tied to reports of autism research, the department says.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/rfk-jr-health-department-seeking-203345146.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/rfk-jr-health-department-seeking-203345146.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +323,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/13E4C6939AAF7C8A38DCFF14C6936A2B9B56FFF3B09B3717F0B014140FE8DDBD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F5820009acc571853ba7b813082d11d64" alt="" /></p>Elias Irizarry, a 19-year-old Citadel cadet and Jan. 6 participant, is reportedly assigned to the Special Operations and Low-Intensity Conflict office.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/pentagon-hires-jan-6-rioter-202535715.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/pentagon-hires-jan-6-rioter-202535715.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +330,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36F070B8264DAA665EA6559658DF2B7F08A74E3553736BFDEB0386B35C00F757/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F6127f99a3997d766a4d159ddb169889b" alt="" /></p>The president is using Cold War-era authorities to sink hundreds of millions of dollars into US-mined coal.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-directs-nearly-700m-toward-202410023.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-directs-nearly-700m-toward-202410023.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +337,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C06A8AD2212EB1D88035176C5E21E6AB8BC0B80DB9F1C8E11138EE61D8D451F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F3f9c829fd56740e0bb13b44962e10f3a" alt="" /></p>The Senate floor is showcasing deep Republican dissatisfaction with President Donald Trump’s White House ballroom project and his paused “anti-weaponization” fund.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/senate-republican-defections-pile-trump-202157532.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/senate-republican-defections-pile-trump-202157532.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +344,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/667061C14D6904592DC9E2D64450FB144DAFEE26164AEA6B879449A3D8706AA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F9c9d26d145e23e215196145bc8af9f8d" alt="" /></p>A Colorado court reversed homicide convictions against two paramedics in the ketamine overdose death of Elijah McClain after the Black man was pinned down by police.]]></description>
             <link>https://www.yahoo.com/news/us/articles/homicide-convictions-reversed-colorado-paramedics-201951077.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/homicide-convictions-reversed-colorado-paramedics-201951077.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +351,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/29516D0933F977EB7520DC3643A57C892E11F89F2A07C0D31A838B4C4FE3D206/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F44bcfe296400d954d23f7590550d0405" alt="" /></p>The president said it would connect the monument to the Potomac River.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-announces-plan-add-promenade-201326512.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-announces-plan-add-promenade-201326512.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +358,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85B4D4A094AF928316395F2B9966EFC9C3016C8BFE95DD6383241781DC0D0077/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Fa6a7accd8506d4c45c6dcdf0eea13e87" alt="" /></p>All four were pronounced dead at the scene.]]></description>
             <link>https://www.yahoo.com/news/us/articles/father-kills-2-daughters-mother-201224458.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/father-kills-2-daughters-mother-201224458.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +365,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3951B06B3808140F188D6EE712F88F62DD5AF79F2BCA9E394C65F3C41CF20FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fcf8ede6937cde01683af98082c8a5260" alt="" /></p>Ukrainian President Volodymyr Zelenskyy on Thursday called for face-to-face negotiations in a public letter addressed directly to Russian President Vladimir Putin.  The letter, the first public message Zelenskyy has written directly to Putin since Russia launched its full-scale invasion in 2022, was a sweeping critique of the Russian leader’s 26 years in power.  Zelenskyy acknowledged shifting U.S. priorities, saying it would be wrong to simply wait for the Trump administration to return its attention to ending the Ukraine war while it remains heavily focused on the Iran war.]]></description>
             <link>https://www.yahoo.com/news/world/articles/public-letter-ukraines-zelenskyy-calls-201002719.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/public-letter-ukraines-zelenskyy-calls-201002719.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +372,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E89D940A89479AA20AC18AA094C108205CCA4BED0802B24C4C99E661A9957E17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Fa514a461a4346152ddaea6c54f1b20fb" alt="" /></p>Officials say those charged funded lavish lifestyles from fraudulent claims.]]></description>
             <link>https://www.yahoo.com/news/us/articles/alleged-ohio-fraudsters-filed-false-200244656.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/alleged-ohio-fraudsters-filed-false-200244656.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +379,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C48C467564D5300BA9245D966BCAAA8BC746CB885BC716BD095C921D9A21F402/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd8108ea0181f3c220e9ae1fb2434d86b" alt="" /></p>KYIV, June 4 () - Ukrainian President Volodymyr Zelenskiy published an open letter to President Vladimir Putin on Thursday in which he proposed ‌the two leaders meet to agree an end to more than ‌four years of war, warning that Kyiv stood ready to fight on otherwise. In his letter, which ​the president's office said had been sent to other countries, including the United States, Zelenskiy said the majority of Russians had grown tired of Ukrainian missile and drone attacks, inflation and fuel shor]]></description>
             <link>https://www.yahoo.com/news/politics/articles/zelenskiy-open-letter-invites-putin-195811697.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/zelenskiy-open-letter-invites-putin-195811697.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +386,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA7ADB8FEBD5C503F4E64EF5F2E1B134DF17578DFE88F4225552C5852DDD7E4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Fd776957b0f940856c7745fd493d661c1" alt="" /></p>Wind and hail are expected in the Plains states.]]></description>
             <link>https://www.yahoo.com/news/weather-news/articles/temperatures-soar-northeast-great-plains-200055990.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/temperatures-soar-northeast-great-plains-200055990.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +393,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25554DA0B76294DEF83E450A8A0CA75961E8ABB5520C88797119F7334D106BA2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fcd92bdbd3c0c0bd383291d8b39aa393f" alt="" /></p>Senate Democrats wanted to attach a measure to fully kill what critics are calling a "slush fund."]]></description>
             <link>https://www.yahoo.com/news/politics/articles/senate-republicans-reject-first-effort-195950975.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/senate-republicans-reject-first-effort-195950975.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +400,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D59FC3EB2764F0D9A2F8D361AECE333F5E193416068D3BB495C3C6EE9F451335/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F7edc9ae67908ddc05fb2af3ef438525a" alt="" /></p>Sens. Bill Cassidy, a Louisiana Republican, and Cory Booker, a New Jersey Democrat, said the anti-weaponization fund violates multiple constitutional provisions.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/bipartisan-senate-duo-urges-court-195913131.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bipartisan-senate-duo-urges-court-195913131.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +407,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/600E464D3F8542A4FE39EBEA0C7B35596DDAC84135D865FAC8592A16547005C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb44e075cbf31edc902a456dbb8925ecd" alt="" /></p>WASHINGTON, June 4 (Reuters) - U.S. President Donald Trump said on Thursday that a promenade will be built onto the Lincoln Memorial in Washington.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-says-promenade-being-built-195904871.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-promenade-being-built-195904871.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +414,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB2F332917421F7A97E16BE88ACAFA670A306930E1465FA5B75655D0EDEE0D35/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F0d71ef9b91241c4ec02213fd03d11f76" alt="" /></p>Staffers are ordered to remove references to Trump from email signatures, letterhead, voicemails and website pages, among other items.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/kennedy-center-memo-directs-staffers-195754533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/kennedy-center-memo-directs-staffers-195754533.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +421,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/918E18ACF9BE10CFAF87EBFB0F8E55AE99D09BE35EF301A3A1E0CBD36D1BE926/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F7a9d61a940fa868968e02fa6bf0edfa2" alt="" /></p>President Donald Trump said Wednesday the final coat of protection was added to the Lincoln Memorial Reflecting Pool. When will water be added?]]></description>
             <link>https://www.yahoo.com/news/us/articles/lincoln-memorial-reflecting-pool-finished-195411807.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/lincoln-memorial-reflecting-pool-finished-195411807.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -213,7 +428,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C043A010ECAA9AB75E1946D8B87595EB47C6B62037309A6CAFBBF9C72EBAEAB7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fe2e17db376ff3981d516dddc89fc25f4" alt="" /></p>Hunter Biden publicly called out CNN’s Jake Tapper for "attacking my Mom," per a June 3 X post.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/hunter-biden-says-cnns-jake-195000213.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/hunter-biden-says-cnns-jake-195000213.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -221,7 +435,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7683F6AEFF6CF720CD410F411A818C28477C30D81A5653253E6A57FAD2F79E05/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F24467d93f5da551542da30f2f8da04ed" alt="" /></p>That total is a low-ball estimate because some federal agencies didn't report their totals to the Government Accountability Office.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/feds-wasted-186-billion-improper-194543568.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/feds-wasted-186-billion-improper-194543568.html</guid>
-            <dc:creator><![CDATA[Reason]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -229,7 +442,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C70FAB995F1865CD1F0A84473CC7B6F410D1B25CD8143012F726B08F6A0C79B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F97a361e3b78c21b877af8d5691bf762e" alt="" /></p>But there were no hints dropped at the court hearing about the identity of the Trump administration official linked to the probe.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/american-journalist-pleads-guilty-acting-194501181.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/american-journalist-pleads-guilty-acting-194501181.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -237,7 +449,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/926472AB7BC7B33F2AA28E97A9ECCD3C07CB3F7EE4D1E9E8A088D92CCB12F90B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa38213b2ad75bd6118de20bb41549929" alt="" /></p>By David Shepardson WASHINGTON, June 4 (Reuters) - United Airlines issued a safety bulletin to pilots on approaches at Newark airport after a Boeing 767 aircraft struck a light pole on the New Jersey]]></description>
             <link>https://www.yahoo.com/news/us/articles/united-issued-safety-bulletin-pilots-194349470.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/united-issued-safety-bulletin-pilots-194349470.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -245,7 +456,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC69C154EBDC04DA09D27878588EEDAE3586255D5A64693FF5B7628D7A0EFF29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fb502762602b1b0dcfafd6097635bbc77" alt="" /></p>The USDA is citing this Miami zoo featured in Netflix's “Tiger King” documentary series. Here's the alleged violations the agency said it found.]]></description>
             <link>https://www.yahoo.com/news/us/articles/zoo-featured-tiger-king-cited-193514363.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/zoo-featured-tiger-king-cited-193514363.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -253,7 +463,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6368AB09A2B421C7FDA3F5399A96167FBD853A1A9651D8F361666DCC2A2956F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fceae29d65e5ec7b917de25fb4bc49d8e" alt="" /></p>Kevin O'Leary agreed to scale back his proposed Utah data center after pressure from a top state lawmaker.]]></description>
             <link>https://www.yahoo.com/news/us/articles/kevin-oleary-agrees-cut-size-192604146.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/kevin-oleary-agrees-cut-size-192604146.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -261,7 +470,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5314BF21047BEB77C2B6A8AB5C4B00F7DC3F14FF3EB9378B89F77E1C512605B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F369ed6f756d5c6c884a4d0de24bd12a3" alt="" /></p>The Department of Interior says the purpose of the arch is to celebrate the triumphs of the American people and inspire patriotism and love of country]]></description>
             <link>https://www.yahoo.com/news/politics/articles/stop-madness-trumps-arch-draws-192117599.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/stop-madness-trumps-arch-draws-192117599.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -269,7 +477,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/770C3114FABA16BFC11E7B129C1EAAEBE36080718A1FDA80C3D21517E627A098/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fxbluemoon-nasa-option-2023-05-19-012931-0_6924.jpg" alt="" /></p>The space agency's next big launch will serve as a crucial test of the systems that will take humans down to the lunar surface.]]></description>
             <link>https://www.yahoo.com/news/science/article/what-to-know-about-artemis-iii-nasas-next-mission-in-its-journey-back-to-the-moon--and-beyond-192115851.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/science/article/what-to-know-about-artemis-iii-nasas-next-mission-in-its-journey-back-to-the-moon--and-beyond-192115851.html</guid>
-            <dc:creator><![CDATA[Yahoo News]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -277,7 +484,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0ACAB7BC2F2F5BBA248068DDFD08D176790541651F46A7D0A90658400E6A2DD2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F198d4e3e193c8bb89db64a94e4e82c1d" alt="" /></p>By Jana Choukeir and Laila Bassam DUBAI/BEIRUT, June 4 (Reuters) - The Iran-backed Hezbollah militia rejected a new ceasefire in Lebanon on Thursday and Israel said it would not withdraw troops from]]></description>
             <link>https://www.yahoo.com/news/articles/lebanon-ceasefire-raises-hopes-progress-115019320.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/lebanon-ceasefire-raises-hopes-progress-115019320.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -285,7 +491,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1ADE357CDFBCD0E0EF7EAAED92E502402A6786A57F33BEF122347A24D81E9857/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fe1f0e5081ec70166f52570907f0fff3c" alt="" /></p>While most Democrats have hesitated to criticize Maine's leading Democratic candidate for Senate, U.S. Sen. John Fetterman lambasted him on June 2.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/fetterman-breaks-dems-calls-platner-191839424.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fetterman-breaks-dems-calls-platner-191839424.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -293,7 +498,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E7E77102C04D8B2E5E4DDD406DA63299C27686CF7C9DB9836755A54235D41E3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fe00d94144eec29650730b01b5b3973cf" alt="" /></p>Sergeant Devin A. Seibel of Central Texas died at Erbil Airbase in Iraq during a training incident on May 31.]]></description>
             <link>https://www.yahoo.com/news/us/articles/us-army-soldier-killed-iraq-191801453.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/us-army-soldier-killed-iraq-191801453.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -301,7 +505,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/940F4186363ED6549A6675F414BB48E1E43298588EE18567A767F4AF10ABE704/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4e96d4fe8c143581f70b9b5acbddadd2" alt="" /></p>A two-year investigation into immigrants with fake identity documents led to federal officials detaining 48 workers at a South Carolina metal casting business and six people facing state charges, including two top managers at the plant, authorities announced Thursday.  Dozens of officials with federal and local law enforcement agencies raided Burnstein von Seelen Precision Castings in Abbeville on Wednesday.  Immigration and Customs Enforcement officers took the workers into custody on alleged immigration violations, and the company's plant manager and human resources director were arrested on allegations they knowingly hired immigrants in the U.S. illegally, state Attorney General Alan Wilson said at a news conference.]]></description>
             <link>https://www.yahoo.com/news/us/articles/south-carolina-probe-fake-ids-190639758.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/south-carolina-probe-fake-ids-190639758.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 04 Jun 2026 21:08:38 GMT</pubDate>
         </item>
         <item>
@@ -6835,217 +7038,6 @@
             <link>https://www.yahoo.com/news/world/articles/grammy-winning-director-explores-nigerian-013214429.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grammy-winning-director-explores-nigerian-013214429.html</guid>
             <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Left-wing senator to face right-wing lawyer in Colombia run-off]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FEA6DCB64A63B753881DFEA85690EDEE5A25E01988A77F71E51EDC28D79CA67B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2b41851f87dc8bb2059db14c2b38b8f8" alt="" /></p>Colombia's presidential election will be decided in a run-off after right-wing lawyer Abelardo de la Espriella and left-wing Senator Iván Cepeda emerged as the top two candidates in Sunday's first-round vote. With around 99.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/left-wing-senator-face-wing-011021142.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/left-wing-senator-face-wing-011021142.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Before, the land sustained us’: Who benefits from Guinea’s bauxite wealth?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B576972032285E626265412F8781A689703706A77B9A0A56C747097DB30DFB23/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F90d9a82a6a32346f6209d4f486014304" alt="" /></p>The country has vast reserves of the ore, a source material for aluminium. But citizens still languish in poverty.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/land-sustained-us-benefits-guinea-010805338.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/land-sustained-us-benefits-guinea-010805338.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macron says opportunity for US, Iran deal ‘must be seized now’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/070D09961D292F69E3EFF5B823AF4ECCE2B9AA61DD3BAA443A53E48E60BA1455/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fd9e2541a7dea86da6adc88c9070a70af" alt="" /></p>French President Emmanuel Macron on Sunday urged leaders in the Middle East to help the U.S. and Iran seize the opportunity for a peace deal after months of war resulting in the closure of the Strait of Hormuz. Macron said he met with Saudi Crown Prince Mohammed bin Salman, Omani Sultan Haitham bin Tariq, Emirati…]]></description>
-            <link>https://www.yahoo.com/news/world/articles/macron-says-opportunity-us-iran-004848582.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-says-opportunity-us-iran-004848582.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pro-Trump presidential candidate wins spot in Colombian runoff]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE89A2FDB2EF4D7F1A50FEBDE96FD7CBD0BA7B343356CCDE374942CDDB505385/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2Fd86d2c356eed951491d63745a679db82" alt="" /></p>Abelardo de la Espriella will face Iván Cepeda, who has sought to achieve "total peace" in the South American nation.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pro-trump-presidential-candidate-wins-002827636.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pro-trump-presidential-candidate-wins-002827636.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amazon deforestation: the good, the bad and the under protection]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8858506A3606EA3864163AAC132DF76E1C6FABAE72F561149F7D4E0D5F3D93F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2F734bd0f0bdbffc4b3f0217e388c55eb3" alt="" /></p>Deforestation has fallen but harsh realities remain]]></description>
-            <link>https://www.yahoo.com/news/world/articles/amazon-deforestation-good-bad-under-002619360.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/amazon-deforestation-good-bad-under-002619360.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A year of grief and waiting: What remains when a plane falls from the sky]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD968A61DA036E2BF974D8FE0C1F798093AE3217BAF3C74359CE6DE921CD8403/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Feb6a93e824d533e73786c5694ceb5325" alt="" /></p>A year after the Air India crash, a mother still speaks about her dead son in the present tense and a brother waits for answers.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/grief-waiting-remains-plane-falls-002502314.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grief-waiting-remains-plane-falls-002502314.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E700E3ECACFB1A9542E4DFA01CCD86AE735EE1502573FA6DE3958EDD3830D69/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb4ecfc170dc3fa5623395d0b0de79906" alt="" /></p>Drone expert warns Hezbollah's nighttime drone capabilities are game changing, using thermal sensors to target IDF troops under cover of darkness.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hezbollahs-game-changing-night-hunting-222650227.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hezbollahs-game-changing-night-hunting-222650227.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombia right wing candidate De La Espriella, leftist Cepeda poised to head to run-off]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD56C2BE0C2CE5552D0D8AE3FA52B2EAE22089A821501A204C18BAAC96E5CCF3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd7480bddc6d8db1c77ed31dbcefe1487" alt="" /></p>By Julia Symmes Cobb BOGOTA, May 31 (Reuters) - Colombian right wing outsider Abelardo de la Espreilla is poised to compete in a runoff in the country's presidential race against leftist senator Ivan]]></description>
-            <link>https://www.yahoo.com/news/world/articles/colombia-wing-candidate-la-espriella-220326444.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-wing-candidate-la-espriella-220326444.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Prince Andrew Under Investigation For Alleged Encounter With Woman At Royal Ascot]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9BF1E0454C143774E692CBDABB6ED83E69244D9E96D223A6B5FC12F43DF0025/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftmz_articles_672%2Fb80151455138c74abc8ecfcb66b7c48c" alt="" /></p>Former prince Andrew Mountbatten-Windsor is back in the crosshairs of police in England ... he's under investigation for an alleged encounter back in the day with a woman at Royal Ascot.  Cops across the pond are reportedly looking into an alleged incident from 2002 at the famous racing festival ... with police "examining events in 2002 as they consider wider possible crimes by Andrew Mountbatten-Windsor, including sexual misconduct, ­corruption and fraud" ... according to The Sunday Times.  Royal Ascot is the most prestigious horse racing event in England with a rich history of tradition dating back centuries ... and in 2002, it was reportedly attended by Andrew's mom, Queen Elizabeth, his older brother the future King Charles, his younger brother Prince Edward, and his older daughter Princess Beatrice.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-210044571.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-prince-andrew-under-investigation-210044571.html</guid>
-            <pubDate>Mon, 01 Jun 2026 04:50:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The drivers risking death on Ukraine's most dangerous bus routes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/800CF947960DD49C535B1A567AD34B35F705E1DFC93A57CFAAC9FD1E1D08F766/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3e1b3b22859062d3aeceb3813b322ad7" alt="" /></p>Russian drones are targeting public buses in Kherson, killing three transport workers so far this year.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/drivers-risking-death-ukraines-most-234104844.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drivers-risking-death-ukraines-most-234104844.html</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sky Vets race the setting sun to save snared buffalo leading her herd]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0EFBE1EF4B0B0BF997177E7953DDA4BD004A9C6E6934271631861A6FE39BF7B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fde55239613f74734ff4805a26376a0b8" alt="" /></p>"The others followed and deferred to her every move."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sky-vets-race-setting-sun-234000321.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sky-vets-race-setting-sun-234000321.html</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A7D135306E10EA531AF0EAA58827C8DAEF677B947D3AC80D72924658723DAF37/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2387272cd1fc239663f63f1c5c2215f8" alt="" /></p>China's worst coal mining disaster in 15 years comes amid an ambitious pivot towards green energy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/secret-tunnels-unregistered-workers-chinas-233221395.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/secret-tunnels-unregistered-workers-chinas-233221395.html</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[55 killed, Myanmar village destroyed in accidental gunpowder blast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/203F7375D62734B2D506E5FEEA2DD9885C265147E09D8CE799854F5F9649D519/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0a4de2c12c4d94a42302add64caf30ac" alt="" /></p>Fifty-five people were killed and dozens more injured when gunpowder stored for mining purposes detonated in a rebel-held village in Myanmar.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/55-killed-myanmar-village-destroyed-231936352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/55-killed-myanmar-village-destroyed-231936352.html</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump acolyte, leftist icon: Who will be Colombia's next leader?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB78315A5BE1740025535F8DEDD0AD395C13D808121FAA76E2ECA4F5BCCF9C23/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa8fadf17ff1a5471bdb2539a17b07b94" alt="" /></p>A right-wing millionaire lawyer who vows an iron fist on narco gangs and a leftist philosopher-turned-senator have made it through to a June 21 runoff to see who will be Colombia's next president.'The Tiger' -
-Abelardo de la Espriella, 47, is a millionaire lawyer and businessman who said he entered politics to prevent Colombia from being "destroyed" by the left.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/trump-acolyte-leftist-icon-colombias-231208814.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-acolyte-leftist-icon-colombias-231208814.html</guid>
-            <pubDate>Mon, 01 Jun 2026 00:00:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombia's presidential election, in photos]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56D91123F5AE3EBC9E85036493815B19C91E0CA38A70C8589AB4D6D0D0028846/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff5dc8011915ad7fd71385e300d66af76" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/world/articles/colombias-presidential-election-photos-223441395.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombias-presidential-election-photos-223441395.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel seizes Crusader castle in Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36D97B36D93637322115CD305294017042C069C50EEF1C7E8AF0AB3228AB00CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fb0673e837dfdad29bc62e72c9287e97d" alt="" /></p>Israeli forces seized a 12th-century Crusader castle in southern Lebanon, as Israel intensifies its farthest incursion into the country in 26 years, despite a nominal ceasefire.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-seizes-crusader-castle-lebanon-222313975.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-seizes-crusader-castle-lebanon-222313975.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli forces push further into south Lebanon, seize Beaufort castle]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51C7A6D537E86FD488C92561DDB6BB5584EC3974234F932E7E6AF07B05649090/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fbf11b1188a5e1e74e99f369370ede934" alt="" /></p>Israeli troops advanced deeper into Lebanon on Sunday, seizing the medieval Beaufort castle for the first time in 26 years amid Hezbollah attacks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-forces-push-further-south-221758824.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-forces-push-further-south-221758824.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis: Lebanon's Shiites face a 'semi-Nakba,' bearing brunt of war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C7C1BBC3C0483F0A26D692DE68166D0BA15D1496DFCA9EBEE9B9CECA6DCDCE6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fd9441b8fb4c3eb31b81e4ebfe4574a5e" alt="" /></p>Lebanon's Muslim Shiite community, whose fortunes rose with the once-powerful Hezbollah, is facing what many are likening it to a "semi-Nakba."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/analysis-lebanons-shiites-face-semi-220432989.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/analysis-lebanons-shiites-face-semi-220432989.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel expands Lebanon offensive after capturing historic castle]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACDB0C196E7D7B8B86E21BE9D96A927235B13C37F78ECCF98AA1B0B097E08BC1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F460ea5120292af91926ca2a62dfc2669" alt="" /></p>Israeli troops are moving further into Lebanon after capturing a historic fortress, despite an ongoing ceasefire.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-expands-lebanon-offensive-capturing-215304569.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-expands-lebanon-offensive-capturing-215304569.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congo says number of confirmed Ebola cases rises to 282]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E5FBF73D6893046B12BFD4EA6762BC4B1E59256D6A073871636C47CECD687F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Feb8694255dfa91f6aef7cafa6ea28051" alt="" /></p>KINSHASA, May 31 (Reuters) - Democratic Republic of Congo said on Sunday that the number of confirmed Ebola cases had increased to 282 after 19 new positive test results were recorded.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215224528.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215224528.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelenskyy makes a pitch to Silicon Valley's defense startups: Bring your AI, we'll bring the battle experience]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/398F4CB4358AC7371948214C05F67CAE37A30E34343DCD536074B31CBA9BB1A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc92ac3c2edb7b9a1b4bf2f79b5fdd831" alt="" /></p>President Volodymyr Zelenskyy wants to deepen ties between Ukraine and Silicon Valley's defense tech startups.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-makes-pitch-silicon-valleys-213555130.html</guid>
-            <pubDate>Sun, 31 May 2026 22:52:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicaragua confirms death in custody of Indigenous leader Brooklyn Rivera]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE70941CB5E2400E98A7E2F2B6B4F951BFE9866AB01C094415D577A82FD6661F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F30dd0e22ddb27b45e95859c4b75d1392" alt="" /></p>Rivera spent nearly three years in detention, cut off from the outside world, leading advocates to fear for his welfare.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nicaragua-confirms-death-custody-indigenous-213815521.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nicaragua-confirms-death-custody-indigenous-213815521.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Trampled to Death by Rampaging Wild Elephant Outside His Home]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23D7A27B35E57FE618C8320F968016BA006D07930F6B514A7987F8E517C55519/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8aa3e089cb2ba194d813db23fa71a37e" alt="" /></p>The fatal incident was the most recent in a string of elephant attacks in southern India]]></description>
-            <link>https://www.yahoo.com/news/world/articles/man-trampled-death-rampaging-wild-211944414.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-trampled-death-rampaging-wild-211944414.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Least 5 People Dead, 3 Missing After WWII-Era Bomb Explodes, Destroying Several Homes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/491EF8EBB911858AAD4DE24ADA20A7ADF57A34DCF8526B365ABD840D74366471/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5ff0b33f8e1f692eaf525fc7bb8d2b72" alt="" /></p>The search for the individuals reported missing will resume on June 1, as authorities continue to investigate the destructive May 31 blast]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-5-people-dead-3-211913211.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-5-people-dead-3-211913211.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicaraguan indigenous leader dies after three years in prison]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30F3ACE4E9AFC2F74CA9AC1CACFE6379327B4206FE6AC1F147EF6CB764FE8521/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F619ec1718088307ee13c7f7751d9089e" alt="" /></p>Rights groups condemn the death of Brooklyn Rivera, 73, following his long arbitrary detention by the governing regime.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nicaraguan-indigenous-leader-dies-three-211846982.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nicaraguan-indigenous-leader-dies-three-211846982.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[African Countries With The Highest Fertility Rates Ranked]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3AFAD6F478805905EF1A99B495C85F70E8F94B895F260459CC308ADE5755A3B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F1fd1e79e2dbffeb98c0c79d710c2f8a1" alt="" /></p>World Bank data reveals the African nations topping global birth charts-and the surprising outlier where having kids is becoming rare.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/african-countries-highest-fertility-rates-203037283.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/african-countries-highest-fertility-rates-203037283.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fear grips residents of Ugandan town over Ebola outbreak]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A964E519F9A0503F10A0A40FC84AAAEBE19534BA23F67EA2C9AB214A0A1FB1D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbb2d366e1b1fea1973348e832b82823a" alt="" /></p>On a hot afternoon in a hospital in the town of Bundibugyo, health workers were being trained to fight Ebola. This particular day, they were astounded when dozens of patients suddenly scattered, some fearfully leaping over the benches and hedges to safety.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fear-grips-residents-ugandan-town-202524867.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fear-grips-residents-ugandan-town-202524867.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macron vows response after clashes mar PSG's Champions League win]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5086DE8CC89C7B5B23D1F76D79E862B073CC1104E8C56180BAECDD03BC8663BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8059f3ce539923940691b812c2f92416" alt="" /></p>French President Emmanuel Macron has condemned the riots that broke out nationwide following Paris Saint-Germain's Champions League victory over Arsenal, vowing a tough response. "That's not soccer, that's not sports, that's not what we love," Macron said while receiving the French side at the Élysée Palace following their return from Budapest, according to French broadcaster BFMTV.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/macron-vows-response-clashes-mar-192540412.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-vows-response-clashes-mar-192540412.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indigenous leader Brooklyn Rivera dies in Nicaragua after nearly 3 years of detention]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B2F5E36D13E87AB4C7818294BDB36E8CB16C96B39FF9DE46621238690C359F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb622610eee5af7393e5f667f58b0a6ec" alt="" /></p>Brooklyn Rivera, a renowned Indigenous leader from Nicaragua who spent years fighting for the rights of his community and was imprisoned by the government in September 2023, has died.  The Nicaraguan government issued a statement Sunday saying that Rivera died from a bacterial infection after his health had declined following a case of COVID-19, which led to his physical and neurological deterioration.  Human rights activists and groups worldwide denounced his death and a previous statement by the government in which they referred to Rivera as “Brother” and said they were praying for him.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/indigenous-leader-brooklyn-rivera-dies-190722043.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indigenous-leader-brooklyn-rivera-dies-190722043.html</guid>
-            <pubDate>Sun, 31 May 2026 21:52:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Car ramming attack wounds several at Gush Etzion Junction in West Bank, south of Jerusalem]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA8567985AEA7E279AB5B6F8FE3EF55920402601209A176146EBEEC611B6D638/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fde0addbe49529503e728861733f57e7d" alt="" /></p>The soldier who killed the terrorist also provided emergency medical treatment to one of the wounded, saving their life, a spokesperson from the Gush Etzion Regional Council said. A terrorist was killed on Sunday evening after a car ramming attack at the Gush Etzion Junction, West Bank.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/car-ramming-attack-wounds-several-202550460.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/car-ramming-attack-wounds-several-202550460.html</guid>
-            <pubDate>Sun, 31 May 2026 20:35:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
