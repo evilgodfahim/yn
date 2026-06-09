@@ -2,18 +2,361 @@
     <channel>
         <title><![CDATA[Yahoo News – World]]></title>
         <description><![CDATA[Latest world news from Yahoo News]]></description>
-        <link>https://www.yahoo.com/news/</link>
+        <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 02:27:54 GMT</lastBuildDate>
-        <atom:link href="https://www.yahoo.com/news/" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
+        <lastBuildDate>Tue, 09 Jun 2026 06:31:39 GMT</lastBuildDate>
+        <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indonesia parliament amends law to allow police to serve in civilian government]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/343750BD76DB1431CE9516CBE2136966D182213611A79226EC6EA1B0CE3CA55B/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3a55db628d006a4ea7a4ed31908167b0" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesia-parliament-amends-law-allow-054716253.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-parliament-amends-law-allow-054716253.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘As close as lips and teeth’: The highs and lows of China-North Korea ties]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0393509C645B993E9F5EBE710B4AEBA4030DC54E359A8C19DA0D65313BB78A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F84d0ef6aa54735cab56988e64965dca7" alt="" /></p>Chinese President Xi has been welcomed in Pyongyang for his first visit since 2019.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/close-lips-teeth-highs-lows-061833017.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/close-lips-teeth-highs-lows-061833017.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Gaza border region teachers, psychologists offered NIS 72,000 grant by Israeli government]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9FA2647F7692F5B2EC814759D2F90D85A54CE1D0E4FCC51E6010178D9DDC50E7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F25a26fa7d883e60252c67c283858a1eb" alt="" /></p>Those sought for the grant include professionals versed in English, computers, physics, biology, chemistry, technology, therapeutic professions, kindergarten teaching, and educational counseling. The Israeli government is offering a grant of up to NIS 72,000 to new teachers and psychologists in the Gaza border area, according to a joint announcement by the Financial Ministry's Wages and Labor Agreements Department, the Education Ministry, and the Tekuma Administration.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gaza-border-region-teachers-psychologists-061757935.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaza-border-region-teachers-psychologists-061757935.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All 24 Indian crew rescued from tanker set ablaze off Oman after US strike]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E2737E65C381FFF0480929F583234B16D8A5AC85EDD7FC7EE1C249F8CE4F26A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9b81df00e1a917d1f017d20316845073" alt="" /></p>Crew members of the unladen tanker had sent distress messages saying the vessel was on fire and sinking.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/24-indian-crew-rescued-tanker-061554679.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/24-indian-crew-rescued-tanker-061554679.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2EBBCD84E32BC57E287C4CFBDF30EC598F214FFAA607703C5F8E476826F7B65/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F266b86e323dac8dd75c68610e11fb833" alt="" /></p>Israel's PM says his country is holding fire "at the moment", after Iran's armed forces said they had stopped military action.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-says-halted-attacks-israel-151305799.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-says-halted-attacks-israel-151305799.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man taken to hospital with 'serious injuries' after stabbing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF65AE8870D681904E7BD7E9723879034E54AF33C842327B3AEBF174EB75C91E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F817a16b8178f3109f72abea36d3c80bd" alt="" /></p>Police attended an incident Kinnaird Avenue following a report made shortly after 22:30 GMT on Monday 8 June.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-taken-hospital-serious-injuries-054207014.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-taken-hospital-serious-injuries-054207014.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven Georgians tried in France over theft of rare Russian books]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D371313D8C7B334F8A46D119D4B3E8269A258E73EF9DE7858340BD097B0B702/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb1913fc9011de150770b5015705b3070" alt="" /></p>Seven Georgian nationals will be tried in Paris starting Tuesday for the theft of rare editions of Russian literary classics from prestigious French libraries, including works by Alexander Pushkin.The thefts targeted rare Russian classics worth millions of euros in total, including by 19th-century literary greats Pushkin and Nikolai Gogol.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/seven-georgians-tried-france-over-055616668.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/seven-georgians-tried-france-over-055616668.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI image used in baseless claims on purported collusion to arrest ex-Philippine president's drug war enforcer]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3858C5424F893C71B63A119738A96094F1322B52F2A095B71B78EE149F8B38C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F975207a8f0e903a4327fe8cb2d797442" alt="" /></p>After government investigators tried in May 2026 to arrest Senator Ronald Dela Rosa, chief enforcer of former Philippine president Rodrigo Duterte's deadly drug war, posts shared an AI-generated image falsely claiming it showed one of his fellow lawmakers drinking with law enforcement agents and that it was proof that he helped plot Dela Rosa's arrest. The picture contains visual errors, which are marks of AI-generated images, while an analysis using an OpenAI verification tool showed it was fab]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ai-image-used-baseless-claims-053731401.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ai-image-used-baseless-claims-053731401.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says in 'final throes' of reaching Middle East peace deal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/69521D8DCF2E8D15DE933196A1B5BB25C2F926342C2A5BD9130D767431EB80AA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F976e0213c7b71f3b916081bbfdaee58c" alt="" /></p>US President Donald Trump said Tuesday that negotiators were in the "final throes" of talks for a peace deal in the Middle East, after Iran and Israel halted fresh hostilities that threatened to reignite the months-long war.Iran and Israel "were going back and forth and now they both agreed through me to stop and we're in the final throes of what will be a very, very good deal," the US leader told reporters on his return from an NBA Finals game.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-iran-trade-fire-first-074008657.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-iran-trade-fire-first-074008657.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's 'oldest paper archive' book recognised]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/42A38EBA20DCDDE1B728FB8B8AF67949D883D65E9C5E10029469CE97964CE1C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1b2579ef2438eea98a6690a8ce8bd2a2" alt="" /></p>It was "new cutting-edge technology" at the time, says archivist Luke Shackell.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/englands-oldest-paper-archive-book-052952506.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/englands-oldest-paper-archive-book-052952506.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: World Cup build-up and SNP audit probe row]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB8A8DAF27FCC335D503F91879F09BAED4909EF7EDA2A94BD37EDC61378ED6E5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff3a50d2dabd1e609054e7631379cea65" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/scotlands-papers-world-cup-build-052836749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-world-cup-build-052836749.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italian commuters find a moment of peace on a cable-guided ferry sketched by Leonardo da Vinci]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EC49FE01D80F1C095FC2247CE032E6D03079A67D154DCE5D7C1ED9FBAFA09021/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F999618a201da0c0049f600c4283cd1ee" alt="" /></p>The ferry glides from one bank of northern Italy's Adda River to the other, guided by a cable and pulled by currents, offering harried commuters five minutes of serenity and an alternate route now that a bridge closure has backed up traffic.  It is the last remaining of its kind along the Adda River, which extends from the Alps to the Po River in the Lombardy region.  “This is a mean of transport that has been here for 500 years and has always connected the two banks of the Adda,” said Massimo Zoia, one of the volunteer ferrymen who operates the vessel.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/italian-commuters-moment-peace-cable-051840274.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/italian-commuters-moment-peace-cable-051840274.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Survivors share experiences and lessons from Congo’s 2018 Ebola outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4F1F4D441204464D4983CAB72A7653EB6209F6128173F2F57661A82D54775F93/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc61b3f2e2989ca22d6fc731cc3494869" alt="" /></p>The memories come flooding back whenever Vianney Kambale Kombi hears the word Ebola.  Kombi also remembers the broad skepticism over the disease, attacks on health workers and inaction from patients that he blames for the speed in which the disease spread.  “We thought it was witchcraft,” said Kombi.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/survivors-share-experiences-lessons-congo-051150088.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/survivors-share-experiences-lessons-congo-051150088.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restoration of historic dockyard house complete]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB2B1BA5FE53500CB430B29449847FF21AEDFB3312E78C1E120AB4D77DC18131/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2b01b8f8273fc856dd35703f0053b855" alt="" /></p>The building, which has been used as a filming location, will be open to visitors again this summer.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/restoration-historic-dockyard-house-complete-050006410.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/restoration-historic-dockyard-house-complete-050006410.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Ukrainian weapons boom catching Putin off guard]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39C2DCAFEFD2275F7A242D99FD77632ECF848654E15FCB89DAF7DA2AF519B633/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa8d51863b01b5dd2f89490fc0edf653a" alt="" /></p>In tiny workshops scattered across Ukraine, a war machine is being built at a pace that has left Nato’s most powerful members standing still.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukrainian-weapons-boom-catching-putin-050000218.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-weapons-boom-catching-putin-050000218.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The English don’t know who they are any more]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2FA6CA4F75BE2710BA2D0A1C20DB3F959ECA67421529F07D627C913EACFCC63/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fba03f12564c0f388ca4b0ee802424c03" alt="" /></p>When we say someone is English, what exactly do we mean? Do we mean simply that they were born in England (in which case, they can be of any race)? Or do we think of the English as a distinct ethnic group (in which case, they’d have to be white)?]]></description>
+            <link>https://www.yahoo.com/news/world/articles/english-don-t-know-more-050000520.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/english-don-t-know-more-050000520.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Squadron Leader Terry Hilliard, RAF pilot who flew his Canberra into an H-bomb mushroom cloud]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6E0734BF3763DC588A7A3AFF32487647D4C2374F4B0981AE19D8AF1903C32EFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ffb06c4112d10da110f2061096d7e96ce" alt="" /></p>Squadron Leader Terry Hilliard, who has died aged 93, flew his Canberra jet bomber to Australia in 1958 to take part in a series of tests of Britain’s first hydrogen bomb and was tasked with entering the mushroom cloud of the explosion to obtain air samples; he also flew on operations over Malaya and during the Suez crisis.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/squadron-leader-terry-hilliard-raf-050000180.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/squadron-leader-terry-hilliard-raf-050000180.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India’s fertility rate falls below replacement level: Why it matters]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E322BF2A84467F9E92E50E27A5C46EF17BD09FD524E0BF6A107E3747F4C5F69/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F32dd23f1c5d7bd913d8f82409565dc01" alt="" /></p>India’s fertility rate falls to 1.9 children per woman, with consequences for the workforce, the elderly and economy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/india-fertility-rate-falls-below-045814575.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/india-fertility-rate-falls-below-045814575.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ebola death toll in DR Congo climbs to 101]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/75048F43619979B9375DB0FB091D855F71E99C3B87584B80DE3938246EDB7410/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fda1d8d28382d5a40c142bfe0447790cc" alt="" /></p>The Democratic Republic of the Congo is grappling with its 17th Ebola outbreak since virus was first identified in 1976.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ebola-death-toll-dr-congo-045122883.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-death-toll-dr-congo-045122883.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says pilots are fine after US helicopter crashes near Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8498F9B70362C7BB98A4327A648944553F61D2FDCA1C19BEC27C38DAACBB67F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F53f652097b23ccca20034b1d8c53fe44" alt="" /></p>A U.S. Army Apache attack helicopter crashed near the Strait of Hormuz, with President Donald Trump saying the two crew members on board were “fine” after the incident involving the strategic waterway, which remains under a chokehold by Iran.  What caused the crash remained unclear Tuesday morning in the Middle East, which was still reeling after Iran and Israel exchanged fire the previous day in the biggest blow yet to the straining ceasefire in the Iran war.  Since the U.S. and Israel began striking Iran on Feb. 28, the war has shaken the global economy, driven up energy prices around the world and made many basics, including food, more expensive.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ml--iran-us-044323023.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ml--iran-us-044323023.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel kills 14 in southern Lebanon after trading fire with Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/12995C2F511ED5B7D9886E05C8E436AD35960883A879F0822ECD3839438AEAAD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb7930aa5031dcaf5ecc5d572a84be548" alt="" /></p>Killings come as Iran warned of ‘crushing blows’ if Israeli attacks continued in Lebanon, including in the south.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-kills-14-southern-lebanon-043445947.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-kills-14-southern-lebanon-043445947.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20,000 people displaced by the Philippine earthquake that killed at least 37]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4737B807C4D6F416F2195FFF6E97D8A7AEDFF3C27E06A0F9F2BC4D160E4D761C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9d944649ef8fc27b1424475b6056079e" alt="" /></p>Rescuers searched ruined buildings in the southern Philippines on Tuesday to ensure no one was still trapped a day after one of the strongest earthquakes to hit the country in a half-century killed at least 37 people and displaced more than 20,000.  Only four people were considered missing on official records in the southern provinces near where the 7.8 magnitude quake struck Monday morning, but the Office of Civil Defense acknowledged several collapsed and heavily damaged buildings must be thoroughly inspected for possible survivors or casualties.  The earthquake centered off Mindanao, the second most populous Philippine island, injured nearly 500 people and displaced more than 20,000, most of whom fled to emergency shelters.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/20-000-people-displaced-philippine-042257120.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/20-000-people-displaced-philippine-042257120.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sweden set to ban mobile phones in schools, joining trend of shelving screens for students]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3456EC637102042202512728B22FD7712A9A32A572CC44E127F1AFD2F9463081/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2a9f36a056356e016092078c96972928" alt="" /></p>MALMÖ, Sweden (AP) — Long championed as a leader in adopting digital technology, Sweden is set to ban mobile phones in schools beginning in the fall for the next academic year as part of a broad, international reversal on the use of screens in classrooms.  Since 2023, the Scandinavian country’s center-right coalition government has pursued a policy prioritizing more reading time and less screen time, particularly among preschool students, by favoring books and other traditional learning tools.  Lawmaker Joar Forsell, chairperson of the Swedish parliament's education committee, said officials have seen a decline in the general ability to read and write in Sweden, especially among younger students.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/sweden-set-ban-mobile-phones-041000530.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sweden-set-ban-mobile-phones-041000530.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A century without Gaudí: Barcelona celebrates the architect who turned the city into a work of art]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3686CB28485A31240580AA769A8591322684FE72EFB6029918E43DFE5273664D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F53812356598c028c5fe64dde228dc5c4" alt="" /></p>The master craftsman of Catalan modernism created the architectural stereotypes that now draw hordes of tourists to Barcelona, which will not see his magnum opus, the Sagrada Família, completed in 2026 as planned.View on euronews]]></description>
+            <link>https://www.yahoo.com/news/world/articles/century-without-gaud-barcelona-celebrates-040115621.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/century-without-gaud-barcelona-celebrates-040115621.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DEF0D6A0D59A86F19F41B9860ED0361AF2D8535C1C21D3CA6BC76C1F44A50BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F350f431d1cccaab57f7be746f3e27665" alt="" /></p>Kyiv has made it difficult for Moscow to provide military and civilian supplies to the territories it occupies.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russias-fuel-crisis-intensifies-ukraine-232322805.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russias-fuel-crisis-intensifies-ukraine-232322805.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bear hunt continues as Japanese city shuts schools for second day]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71DBD7DBDA706409EC550432799E6BA72DCFEF490AB843B85366D5B6FA90767A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5e40aa1aea2a1e700f96cd00a67dc69d" alt="" /></p>By Joseph Campbell and Chang-Ran Kim UTSUNOMIYA, Japan, June 9 (Reuters) - The hunt for a black bear spotted more than a dozen times in the Japanese city of Utsunomiya continued on Tuesday as all 94]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bear-hunt-continues-japanese-city-030202569.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bear-hunt-continues-japanese-city-030202569.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli strikes kill 14 in Lebanon as attacks persist despite Iran threat]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/973A750E7136CAAD9C487B61C5139C83AB1EFFD9265D0A1E0C8ACFF7D88797E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F86f14b2ab21d0013ba4f3cf308d4b170" alt="" /></p>Iran has warned that it will resume attacks if Israel continues striking Lebanon, but Israeli leaders on Monday insisted they would not be deterred.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-strikes-kill-14-lebanon-030002934.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-strikes-kill-14-lebanon-030002934.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French justice minister refuses to resign over girl killing case]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43676075EF906B8EE60C32A016959ED6B08A7B12630FA1D15BE65388FD856164/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F671fdfbebdebd4a4f1656495893a9b87" alt="" /></p>France's justice minister Monday refused to resign after outrage erupted over judicial lapses in the handling of the suspect in an 11-year-old girl's killing.Justice Minister Gerald Darmanin apologised on Friday for what he called a "huge failure" in the handling of previous accusations against the suspect.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/french-justice-minister-refuses-resign-024250759.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-justice-minister-refuses-resign-024250759.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xi and Kim pledge closer ties as North Korea meeting enters second day]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2B0479643A8F17A59A99494DBD99C9A2F9EE9225ED800A6951D1A8657AB56EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F78015bd9c1de0fcbb0e830180205b6cb" alt="" /></p>The Chinese leader is on the last day of a two-day visit to Pyongyang, his first official trip since 2019.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/xi-jinping-lands-north-korea-031520463.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/xi-jinping-lands-north-korea-031520463.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rome probes Israeli minister over treatment of Gaza flotilla activists]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/075D43B9BC38763120AF22842FB889161D020A9310A0D0FDEBE833EEB7649EC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F00392b2f1ca4245af59aa445b4cca854" alt="" /></p>Italian authorities have launched an investigation into Israeli Minister for National Security Itamar Ben-Gvir over the treatment of Gaza aid flotilla activists in mid-May. Prosecutors in Rome announced late on Monday that Ben-Gvir was being investigated in a probe focused on allegations of torture and unlawful imprisonment of activists who were part of the Gaza aid flotilla.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rome-probes-israeli-minister-over-014025120.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rome-probes-israeli-minister-over-014025120.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UPDATE: Philippines Rocked by Deadly 7.8 Earthquake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FEC89DB64014B2BE835E8AD4B2600E8920C68A5BBD459547224230BF56BD019E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fdf79b7bb11d0d082a55cca0b6028f330" alt="" /></p>At least 32 people are dead and hundreds injured after a massive 7.8 magnitude earthquake devastated the southern Philippines at approximately 7:37am Monday (local time). The epicenter was about 20 miles deep, located just offshore from the city of General Santos. Since the big quake, there has ...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/philippines-rocked-deadly-7-8-014003716.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/philippines-rocked-deadly-7-8-014003716.html</guid>
+            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bolivian president says 'narcoterrorists' behind crippling protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FFB328F880249C24F8972DBA1DC8274C1CBB1EB03D61B5A03CD229003CE78857/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff2e0384cdeed8b1f9260fbb933dc4d9c" alt="" /></p>Bolivia's embattled president on Monday signaled dwindling patience for protests that have paralyzed the country, moving closer to enacting a state of emergency that would allow the military to intervene.On Sunday, the legislature passed a new law paving the way for Paz to declare a state of emergency which would authorize military deployment to repress the movement and clear the blockades.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bolivia-protests-president-warns-narcoterrorists-180652716.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bolivia-protests-president-warns-narcoterrorists-180652716.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How The U.S. Response To Ebola Shows Failures On Lessons From COVID-19]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/360BA88E363A354525D5BF45256F156744B712620583C8AEC40EC3F8D88C0779/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F01ba1d8d3f214946e83a9841ec840017" alt="" /></p>The U.S. Ebola response has been reactionary as opposed to proactive. A doctor breaks down why and how it mirrors the U.S. response to COVID-19.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/u-response-ebola-shows-failures-005637139.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-response-ebola-shows-failures-005637139.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany to set up AI safety institute]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E567BD4965F2C4BED66B95D780B79A794082F6B91D74199625AFE2965BC18226/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6dcb6d257c1121e02123242d8820f930" alt="" /></p>Germany is setting up an artificial intelligence (AI) safety institute to better assess the opportunities and risks linked to advanced AI models, the government said on Monday. The National Security Council approved the creation of the new body, which is to bring together German expertise on the capabilities and potential dangers of AI systems.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-set-ai-safety-institute-004028883.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-set-ai-safety-institute-004028883.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Israel and Iran step back' and 'Is uni a waste of money?']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC7E8EB6D7BE2D30C85BA00CC8FCE51C2F309729737EA0A6AE2B8853A65CDE0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F01eb80496865c38a6b2d39b235dd85b2" alt="" /></p>Several front pages cover the agreement between Israel and Iran to halt attacks on one another, following an exchange of fire on Monday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-iran-step-back-uni-002646160.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-iran-step-back-uni-002646160.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia acknowledges fuel shortages after Ukrainian attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2DB1372772CED740F2A8B856BE38D7AA3A39EF0A7817AFD5989C49B0357FB27/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd446ea09546babf6dc3ac794a60d8443" alt="" /></p>The Russian Energy Ministry has acknowledged fuel supply problems following Ukrainian attacks on the country's energy infrastructure. Companies in the fuel and energy sector have recently faced a rise in hostile air attacks, "leading to temporary difficulties with fuel supplies in a number of southern regions," the ministry said on Monday in a statement on Telegram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-acknowledges-fuel-shortages-ukrainian-002521706.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-acknowledges-fuel-shortages-ukrainian-002521706.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICC suspends British prosecutor over claims of sexual misconduct]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5FDF957122D99CCA7F0C342D4B285F494F74CF4906BAED5049ABDE2FBFB58217/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F720d3e98e52ef66d98b1067a804abd28" alt="" /></p>The International Criminal Court’s chief prosecutor has been suspended over allegations of sexual misconduct in an unprecedented decision.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/icc-suspends-british-prosecutor-over-001003969.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/icc-suspends-british-prosecutor-over-001003969.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico promises peaceful World Cup opening despite protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D90CC62894DA880A23CDB81BEA2D010AAB06B2B0D4951086D38461A7E64177D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F27c53a47c55483953f7f9375aa7e4d89" alt="" /></p>Mexican President Claudia Sheinbaum said on Monday she could guarantee a peaceful World Cup opening ceremony this week, despite concern over ongoing protests."We are going to guarantee... that the celebration of the World Cup is well-executed, in peace and tranquility," Sheinbaum said in her daily press conference.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mexico-promises-peaceful-world-cup-234251805.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexico-promises-peaceful-world-cup-234251805.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youth protests in Brussels turn violent for second week]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F61C2262323B3F2EAC9FDB4FFEF6A7714C8B874E9AB0007D8078C527DBDCA80/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe0698bfce3700cb2580f7ae1864d0954" alt="" /></p>Youth protests in Brussels descended into violence for the second week in a row on Monday, with police using tear gas and a water cannon against demonstrators. A dpa reporter at the scene said police intervened after protesters started damaging rubbish bins and e-scooters and throwing stones and firecrackers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/youth-protests-brussels-turn-violent-234020432.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/youth-protests-brussels-turn-violent-234020432.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICC chief prosecutor suspended over sexual misconduct allegations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1408CE0EA7B3B5F2366392C7A4C1F42E3A48F098E08BD4CF9063C9A75B32C3C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F95770353f0ea29f1f397dfb7fb649196" alt="" /></p>International Criminal Court (ICC) chief prosecutor Karim Khan was suspended from duty with immediate effect late Monday over suspected sexual misconduct. A final decision on his possible removal from office is to be taken at a special session of the court’s member states, the ICC oversight body said in The Hague.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/icc-chief-prosecutor-suspended-over-234020478.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/icc-chief-prosecutor-suspended-over-234020478.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel says it intercepted drone from Yemen over south]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/70BD6551CF1DF2F830DE077F3CD8860D885F6497D218FDA95C1D6116CC169C8B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff795de3ff928a1602303a7e3faec1474" alt="" /></p>The Israeli air force intercepted a drone from Yemen over southern Israel, the military said early on Tuesday. The military said on X that the incident in the airspace over the Red Sea city of Eilat had concluded, without saying which group it believed was behind the drone attack.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-says-intercepted-drone-yemen-232626411.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-says-intercepted-drone-yemen-232626411.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gov't approves plan to boost desalinated water production using private companies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53008A783E3975C9AD7B88A2A1DB95B8C503644D9486D51DF25D1A92F9737FD7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd696313baf53f643db61b1c4d69ffbba" alt="" /></p>The overarching goal of the new plan is to enable the State of Israel to produce 2. 3 billion cubic meters of desalinated water per year by 2050, and 2,75 billion cubic meters per year by 2075.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/govt-approves-plan-boost-desalinated-223129310.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/govt-approves-plan-boost-desalinated-223129310.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadly 7.8 Magnitude Earthquake Leads Officials to Cancel Classes on First Day of School]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F4B8979D56EECFDDE222FF83AC65200AD56015AB5576D435E5CF238CFAC086D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd5dd7d7263644d7e8b9c46ab905b9ce2" alt="" /></p>“Their excitement on the first day of school turned to trauma,” said Rosavel Cachuela, a school principal in the Philippines]]></description>
+            <link>https://www.yahoo.com/news/world/articles/deadly-7-8-magnitude-earthquake-222135924.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deadly-7-8-magnitude-earthquake-222135924.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Tue, 09 Jun 2026 06:31:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump administration denies unlawful retaliation in Anthropic AI blacklisting]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5B92CDB59FAD936EF96CD33D4FDAB6410381ACD778FAA12C542B970EDA690582/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd98e9823159658c255d31a75448ded71" alt="" /></p>By Karen Sloan June 8 (Reuters) - The Trump administration on Monday denied unlawfully retaliating against Anthropic, while acknowledging that U.S. agencies moved to cut off the AI company's products]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-administration-denies-unlawful-retaliation-011945810.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-administration-denies-unlawful-retaliation-011945810.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +364,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36B5A58C14DA35627194682B47C8793B75243466DD40028D5E5AD5BABF885C43/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2F5674b30b6316a11ca6887dc2cac836cc" alt="" /></p>The Powerball jackpot is at $225 million for Monday, June 8. A look at the latest winning numbers.]]></description>
             <link>https://www.yahoo.com/news/us/articles/powerball-jackpot-hits-225m-mondays-010043138.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/powerball-jackpot-hits-225m-mondays-010043138.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +371,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED1B5720523CCB5506BEFED036DF3BA50D677ACA73EBEB32B932A011DBAB8A55/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd59f04d8e674c4261e96adc52283bbd7" alt="" /></p>Alaska U.S. Senate candidate Dan Sullivan acknowledges that sharing a name and party affiliation with the incumbent Republican gives him “an instant megaphone" in the crowded primary race.  “This is my choice,” Sullivan, who lives in the small fishing community of Petersburg, said in a telephone interview Monday.  Last week, Sen. Dan Sullivan accused the challenger Sullivan of “trying to trick” voters to help his main rival in the race, Democratic former U.S. Rep. Mary Peltola.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/other-dan-sullivan-alaska-us-003440511.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/other-dan-sullivan-alaska-us-003440511.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +378,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D371A86D72CB76431006B71D044BE9EAE2E969EC979E802E4A7ADC50B0B9970/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa884f5ac53410108cce8a4720d88f5b8" alt="" /></p>Protesters in Bolivia demanding the resignation of conservative President Rodrigo Paz hurled firecrackers, stones and sticks at police who responded with tear gas on Monday, leading to dozens of arrests as road blockades continue to paralyze the Andean nation.  The renewed clashes in the central city of Cochabamba erupted after President Paz signed a measure that could pave the way for a hard-line government crackdown on the demonstrations that have roiled Bolivia over the past five weeks, disrupting transportation and causing shortages of food, fuel and medical supplies.  Bolivia's national workers' union, peasant farmers and Indigenous groups from the highlands — outraged over Paz's scrapping of fuel subsidies and frustrated with his failure in the last seven months to resolve Bolivia's persistent economic problems — have set up 90 blockades on key routes nationwide, effectively isolating major cities, especially La Paz, the seat of government and neighboring El Alto.]]></description>
             <link>https://www.yahoo.com/news/world/articles/protesters-police-clash-bolivia-president-003434218.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/protesters-police-clash-bolivia-president-003434218.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +385,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4D71F3BD920BEAAE1F5F4677523EB5388A0BFEBEE0F98A63D406959C78C8120F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Fd7698f2bc9ce82b10fd33452fe9c527b" alt="" /></p>Lawmakers voted 7-4 to advance the legislation.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/house-panel-advances-70-billion-002700800.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/house-panel-advances-70-billion-002700800.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +392,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA07A9FDE69F68B4208CE1C60137F16F09B41D0DD76E678F4919693ABED1303F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F867a0e10ccf8eb98833a0f6942528f10" alt="" /></p>Trump questioned Spencer Pratt's LA mayoral election performance after the president walked out of a "Meet the Press" interview.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/nithya-raman-edges-spencer-pratt-002304183.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/nithya-raman-edges-spencer-pratt-002304183.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +399,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4A7BEFDDF21265B223A41BD6B728F400FF5FE722733CFA7BAB488B1A4197DC9A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F923f36f3d66219d794d96195b8c0613b" alt="" /></p>Karen Bass and Nithya Raman will face off in LA's November mayoral general election after advancing from a competitive primary.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/la-mayoral-race-heads-november-001330350.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/la-mayoral-race-heads-november-001330350.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +406,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33373E56A1BA93C37AC20648CC2D102841AF1CFC61942E75DA395EDD149327B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F0a5c6e8847a24e8f39d1fbdd14b1d15c" alt="" /></p>The Democratic governor was also granted limited entry to the immigrant detention center, but remained concerned about conditions.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/jersey-health-inspectors-delaney-hall-000619014.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/jersey-health-inspectors-delaney-hall-000619014.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +413,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD9454A23ED8B29199C183580B052AD3EF50A111BD0D5784C8EB5BA6E30EEA2B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F28ffa1c85b63c268dff0b060c7515581" alt="" /></p>Former reality TV star Spencer Pratt has dropped to third place in the competitive race, results show.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/la-mayor-race-results-nithya-000510602.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/la-mayor-race-results-nithya-000510602.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +420,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4824D76FC94EF186AEC7FF55D168FB629E5EADD72AD587DA1F451FD92F985770/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_money_325%2Fa87c2fc39451b3d56d3372392179ae64" alt="" /></p>Publix is set to open five new locations in two U.S. states just before July 4, bringing its iconic green logo to customers across the Southeast.]]></description>
             <link>https://www.yahoo.com/news/us/articles/publix-opening-5-stores-soon-000506341.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/publix-opening-5-stores-soon-000506341.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +427,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7256D997DA3606A152D5D751210E4B236ADC2BB60DFC247B0D913F6429668C99/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fb90275563f9092c7a6e839dd0a5ef44f" alt="" /></p>Nithya Raman will advance to the November election in the Los Angeles mayoral race, CNN’s Decision Desk projects, after overtaking Spencer Pratt for second place as more votes were counted in the days after the June 2 primary.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/nithya-raman-advance-over-spencer-000316243.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/nithya-raman-advance-over-spencer-000316243.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +434,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7EE5965471F6CF5AE22C1E02C136CE2E5D8788DA1B3B9A56B6598409EC0AEC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F0055164fc7a0f2a07e4904666b51dcf0" alt="" /></p>James Carville says he doesn't feel sorry for urging Democrats to move past Kamala Harris, arguing she had an incredible career and her chance to try.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/carville-doesnt-feel-sorry-urging-000010843.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/carville-doesnt-feel-sorry-urging-000010843.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +441,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7F8A52F025D4877E81039CE4548809E584B44C9A1610D796DC2C1583C91ED0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F95278c93a57abbea9c9ec6b16a541e90" alt="" /></p>Attacks between Israel and Iran test cease-fire and U.S. influence]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-struggles-pull-netanyahu-back-235808723.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-struggles-pull-netanyahu-back-235808723.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +448,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/575F0EE8C7014F65D524C1F854ED6D20B1F5100EC636488034CFFFDF697D3EE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F5c6e8081d5053b3b2ecdee67185849f2" alt="" /></p>Incumbent Karen Bass will compete with City Councilmember Nithya Raman in November after Spencer Pratt failed to advance from the primary.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/bass-face-progressive-challenger-la-235705058.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bass-face-progressive-challenger-la-235705058.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +455,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F99B222F4CA58ED5BC8397BBEF4747F3164906600687AAEED573413A7A6C856D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Faad13e476bb7a14121040314fa8b065f" alt="" /></p>A 23-year-old suspect fled into Central Park and dove into Harlem Meer to evade NYPD officers attempting to arrest him on petty larceny charges.]]></description>
             <link>https://www.yahoo.com/news/us/articles/rogue-swimmer-arrested-diving-11-234837857.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/rogue-swimmer-arrested-diving-11-234837857.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +462,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5CDA7DBC3FE02B1BD568FD6A1E32B68B3EC5B4EC80063864FAA036675A357F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F1e7db968985d599e0f413c3400c8e9cd" alt="" /></p>The party that revels in Democratic divisions over Israel is in an awkward spot as its president splits from the prime minister over the war.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/republicans-want-trump-netanyahu-smooth-234717074.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/republicans-want-trump-netanyahu-smooth-234717074.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +469,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5CDA7DBC3FE02B1BD568FD6A1E32B68B3EC5B4EC80063864FAA036675A357F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F1e7db968985d599e0f413c3400c8e9cd" alt="" /></p>The party that revels in Democratic divisions over Israel is in an awkward spot as its president splits from the prime minister over the war.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/republicans-want-trump-netanyahu-return-234717791.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/republicans-want-trump-netanyahu-return-234717791.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +476,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A466F332CC7C230C3755D4D51934F4BFF8E465F9E299D964CC64F05947FDBF1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff4e7a0636b48bf6c10c00822cc37df5f" alt="" /></p>American Airlines flight attendant Kellie Williams, 31, was found dead on a Florida beach after an apparent boat strike while snorkeling, officials said.]]></description>
             <link>https://www.yahoo.com/news/us/articles/american-airlines-flight-attendant-killed-234214680.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/american-airlines-flight-attendant-killed-234214680.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +483,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E88419B38849F4FD9B0F4EAB9644AEBE25E2037EEA123FBD0F332B0313F9BE4E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F9d014399e258777191b3255ba714b61b" alt="" /></p>A prescribed burn that escaped control lines turned into a wildfire that has torched hundreds of acres, according to a fire official.]]></description>
             <link>https://www.yahoo.com/news/weather-news/articles/putah-fire-californias-yolo-county-233045962.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/putah-fire-californias-yolo-county-233045962.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +490,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBCE54AA4F557C1E0C024729890E12CA4A0BA5739094314ACA3BA5C5A2F53987/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F17708c5353b4c5a04c4ba57397435d5d" alt="" /></p>Erik Mendoza, 18, was reportedly sentenced to life in prison for the 2023 brutal killing of 5-year-old Prince McCree in Milwaukee, Wisconsin.]]></description>
             <link>https://www.yahoo.com/news/us/articles/wisconsin-teen-sentenced-life-brutal-230642250.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/wisconsin-teen-sentenced-life-brutal-230642250.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +497,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE9DF831B6EB14C0B8C284D705AEA4952F62C47A5779DEB3799A2DE81A379C37/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F60977e3d5dc4e0690b046138eac9ee05" alt="" /></p>A Mamdani-linked strategist helping Graham Platner is facing scrutiny after past writings about sharing explicit sexual images resurfaced amid the U.S. Senate race in Maine.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/mamdani-linked-platner-adviser-history-230521984.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/mamdani-linked-platner-adviser-history-230521984.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +504,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3D0E3BF6211C38CA5244119D992FF66DD6916897B200D3DEFD82DC3BC7F90825/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6ac9c5281738e359f35312363f5d656d" alt="" /></p>JFK's grandson Jack Schlossberg called President Donald Trump's ability to program people's minds through social media a "genius" trait during his congressional campaign.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/jfks-grandson-jack-schlossberg-warns-230053865.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/jfks-grandson-jack-schlossberg-warns-230053865.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +511,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DAE2479EA227BCB6E1B78826853BB752A7F561A53D0F79608B335846DEA8053B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Ffc5fb47cc50e7e8161ad1d34447ee86d" alt="" /></p>Israeli Prime Minister Benjamin Netanyahu’s open defiance in striking Iran against President Trump’s demands for a ceasefire adds to growing divisions between the U.S. and Israel over the way forward on the war in the Middle East. Trump and Netanyahu have moved in lockstep in major military operations against Iran, and the president has delivered…]]></description>
             <link>https://www.yahoo.com/news/politics/articles/netanyahu-defies-trump-iran-lebanon-225221993.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/netanyahu-defies-trump-iran-lebanon-225221993.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +518,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43EFB6439E66C7DE2D256C1BE680DC1F7E0F11E6483DC5DD015459D7EFCC5D01/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc9366722adcc21f6f1baa8fefc2b3274" alt="" /></p>A Nantucket pastor defends canceling the church's annual Fourth of July reading of founding documents, citing a need to understand their "own whiteness."]]></description>
             <link>https://www.yahoo.com/news/politics/articles/church-cans-patriotic-staple-biden-223048556.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/church-cans-patriotic-staple-biden-223048556.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +525,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94913BE7AB231999F828058A69601255AB9B7F2C3AA63179C6E71F45202424F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F4bcf5ceff49b5db713a91ae6f451b379" alt="" /></p>In recent years, a majority of representatives voted to ban women pastors, but the measure failed.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/southern-baptists-weigh-banning-women-223013337.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/southern-baptists-weigh-banning-women-223013337.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -213,7 +532,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/071139D4A21F8FA93269BC08E9C1F2085F3FFF3A05F1C3E40DA401860E0046E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F142501689fbdf940e1c2bc5377a8b912" alt="" /></p>Maine Democratic Senate candidate Graham Platner went after Sen. John Fetterman (D-Pa.) on Sunday during a town hall, calling the Pennsylvania senator “an a–hole.” “The Senate really is a place of — it’s a lot about relationships, and … I don’t want to go down there and simply be nonfunctional,” Platner said, discussing how he…]]></description>
             <link>https://www.yahoo.com/news/politics/articles/platner-says-won-t-hole-222445083.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/platner-says-won-t-hole-222445083.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -221,7 +539,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BDF3EDC649DE0F6650B2B2BB69181EDA6FF4C9164F5DA65F630D8666BCBEF236/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6cc535ae55bd49eee62e9f7254e975e2" alt="" /></p>DOJ seeks to revoke citizenship of 17 individuals accused of child sexual abuse, narcotics trafficking and fraud who allegedly lied to obtain U.S. status.]]></description>
             <link>https://www.yahoo.com/news/us/articles/doj-moves-strip-citizenship-17-222316856.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/doj-moves-strip-citizenship-17-222316856.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -229,7 +546,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2CDEBFCB2E25F36001F96FE05D798646C2C2A136E9F18B697D39C7DB1C976DEA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F970a2208263280df6e94e8af6e72c7d6" alt="" /></p>NewsNation Chief Washington Anchor and On Balance host Leland Vittert gives you an early look at tonight’s 9 p.m. ET show.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/opinion-leland-vittert-war-notes-222216177.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/opinion-leland-vittert-war-notes-222216177.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 09 Jun 2026 02:27:54 GMT</pubDate>
         </item>
         <item>
@@ -6734,307 +7050,6 @@
             <link>https://www.yahoo.com/news/politics/articles/senate-overnight-session-republicans-debate-052036024.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/senate-overnight-session-republicans-debate-052036024.html</guid>
             <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[California drivers found liable for $176M in crash that killed 2 boys]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/910519A86FE5F86944A1159521F5D89A77C9AB68F4F363056E4B6C71BC2B8458/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F58ef5240d12f61cc15beba69c8ab1469" alt="" /></p>Jurors awarded more than $170 million in a wrongful death suit filed after two boys were struck and killed in a Southern California crosswalk in 2020.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/california-drivers-found-liable-176m-051725208.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/california-drivers-found-liable-176m-051725208.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House panel advances $1.15 trillion defense bill after marathon debate]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18D6A27D9424F31C7FD9E88C4B3EF7E4E3B93744B388BE0CDCAF2BCB6A63AD3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F79a93210750284abe6bc1b2ee422f568" alt="" /></p>The House Armed Services Committee (HASC) late Thursday passed the annual Defense policy bill, sending the mammoth, nearly $1.15 trillion measure to the full House after debating a chunk of some 900 offered amendments for 14 hours. The measure, known as the fiscal 2027 National Defense Authorization Act (NDAA), passed the panel by a 44…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/house-panel-advances-1-15-051112927.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/house-panel-advances-1-15-051112927.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists make bread from yeast inside 5,300-year-old mummy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E5262C202C5652DA82ED58566BC9FD0A66EAEA142FB14436BBB2EC25131565B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F08f3f0649ac5f528604dd0f9277ef87b" alt="" /></p>As for what else the yeast could be used for, lead study author Mohamed Sarhan said beer was "on the list."]]></description>
-            <link>https://www.yahoo.com/news/science/articles/scientists-bread-yeast-inside-5-050741916.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/scientists-bread-yeast-inside-5-050741916.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senate holds "vote-a-rama" on ICE funding, rejects move to ban DOJ fund]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1FED30894C6768BA8AF85FA7EE5B98006B7DB9420B9AC92F1B84BE55B94CBB2E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F6c408c732893534a709fdbe3c7653777" alt="" /></p>The Senate is holding a marathon vote series as Republicans seek to fund immigration agencies under the Department of Homeland Security without help from Democrats.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/senate-holds-vote-a-rama-on-ice-funding-rejects-move-to-ban-doj-fund-223400794.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/senate-holds-vote-a-rama-on-ice-funding-rejects-move-to-ban-doj-fund-223400794.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA launches safety study for abortion pill mifepristone, source says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4A3037DCD1F39E77940EF56C070AF5F8CF4E3975FEE985825412AB41B588BB0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fad007f58493b71ceaa2eabc9957c216f" alt="" /></p>The Food and Drug Administration has launched a safety study of the abortion pill mifepristone, a senior FDA official confirmed to CBS News, a step that could pave the way for the Trump administration to restrict access to the medication.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/fda-launches-safety-study-abortion-045520390.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fda-launches-safety-study-abortion-045520390.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FBI taking proactive approach to prevent foreign attacks, Kash Patel says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B11A9F700A58CD21EA68655A6C241F8D97046D560DB6654CD88D007002FF950/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fdf0e287bdc0a7c8e6e30e50c046e5851" alt="" /></p>FBI Director Kash Patel says the agency is making a "proactive effort" to stop international threats from striking America.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/fbi-taking-proactive-approach-prevent-044948261.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fbi-taking-proactive-approach-prevent-044948261.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian cockroach kingpin caught with 100,000 illegal insects in record bug bust]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AFB88116772B9D1C2FCB36C30D2C1DCE831CB424AE70E8B269E2DB35AF43B006/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7b8f978ab5d66e413be438b17fb546a8" alt="" /></p>More than 100,000 live cockroaches illegal to keep in Australia were confiscated from a single breeder in the country’s largest-ever seizure of exotic invertebrates, officials said Friday.  The haul of Madagascar hissing cockroaches and dubia cockroaches, worth 200,000 Australian dollars ($142,000), was seized in May from a commercial breeder in the city of Bathurst in New South Wales state, according to Australia’s Department of Climate Change, Energy, Environment and Water.  The Madagascar hissing species is one of the world’s biggest cockroaches, measuring 2 to 3 inches (5 to 8 centimeters) in length.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australian-cockroach-kingpin-caught-100-044851371.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-cockroach-kingpin-caught-100-044851371.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Overcrowded migrant vessel with 240 people on board intercepted near Turks and Caicos]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A466F332CC7C230C3755D4D51934F4BFF8E465F9E299D964CC64F05947FDBF1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff4e7a0636b48bf6c10c00822cc37df5f" alt="" /></p>The U.S. Coast Guard and Customs and Border Protection intercepted an overcrowded migrant vessel taking on water with 240 people on board near Turks and Caicos Islands.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/overcrowded-migrant-vessel-240-people-044758068.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/overcrowded-migrant-vessel-240-people-044758068.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cassidy tries to drive stake in Trump’s anti-weaponization fund]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B63E21CA2D3606F0FA1E3A07454495B30E21760A8E741CE37383AB83AF9691F3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fe27a728c69d265a0b3ac04535a60026b" alt="" /></p>Republican and Democratic senators say that Thursday’s vote-a-rama — a marathon series of votes on amendments to the budget reconciliation package — is dragging on because Sen. Bill Cassidy (R-La.) is trying to perfect language to drive a stake through President Trump’s proposed $1.8 billion anti-weaponization fund. Cassidy has spoken to Senate Parliamentarian Elizabeth MacDonough…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/cassidy-tries-drive-stake-trump-044016691.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/cassidy-tries-drive-stake-trump-044016691.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blanche says Trump’s AG nomination is ‘honor of a lifetime’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4505F7F4E98EFE0DD63E3421D80B9B89219D763118F1664615F82D9DCBF9B689/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Ff859edc93fd8420a702a5c005d581944" alt="" /></p>Acting Attorney General Todd Blanche spoke exclusively with "Katie Pavlich Tonight."]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/blanche-says-trump-ag-nomination-042319360.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/blanche-says-trump-ag-nomination-042319360.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump lawyers refuse to reveal financial information to BBC in $10 billion lawsuit, FT reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4AE73CD198099BD8A148C136A0C58ED8C6CBE45B7F218E974BB1EC1AE40A25FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb8260e77864a144ac40467bc522bd980" alt="" /></p>June 5 (Reuters) - US President Donald Trump's legal team has refused to hand over financial information requested by BBC lawyers in his $10 billion defamation case against the broadcaster, the]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/trump-lawyers-refuse-reveal-financial-042130602.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-lawyers-refuse-reveal-financial-042130602.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Listen to journalist Reza Valizadeh's voice memo from Iran's Evin Prison here]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8303B79F3857A48A3903FA249CCF4CB4D2119084596392545ABAF9D21091A019/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ff812d49d4df705a533db6df3565531df" alt="" /></p>CBS News obtained a brief voice memo from Iranian American journalist Reza Valizadeh, who is being detained in Iran's Evin Prison and is pleading for help for him and other American captives.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/listen-journalist-reza-valizadehs-voice-041714319.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/listen-journalist-reza-valizadehs-voice-041714319.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Journalist in Iran's Evin Prison pleads for medical help for him, U.S. captives]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC0ADCB62A05CF0DD5D096021BBCD1A0679420FDE61C09216A30FCBDC7E9DC64/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fa5171baa60e1869a6502b21ec3b32929" alt="" /></p>CBS News has obtained a voice memo recorded by Iranian American journalist Reza Valizadeh, who has been detained in Evin Prison for over a year.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/journalist-irans-evin-prison-pleads-040206452.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/journalist-irans-evin-prison-pleads-040206452.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope Leo's visiting Europe's migration hot spots. Catholics hope he'll ease political tensions]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30842C6B41E4B1A40DD281C7CDF827AE2FB2E1AD370E275678EE379CC5B8ACFA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0b88511ce20c925361e1628189d9ef2e" alt="" /></p>Pope Leo XIV is delving into the hotly contested issue of migration by visiting two flashpoints — Spain’s Canary Islands in the Atlantic next week, and Italy’s Lampedusa island in the Mediterranean in early July.  Many Catholics and migrants hope the upcoming papal trips will refocus attention on solidarity and support — and away from divisive political debate that is splitting the right in addition to pitting it against the left.  “Stuck in the middle are the migrants,” said the Most Rev. José Mazuelos, the bishop of Canarias, whose diocese includes several of the islands.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/pope-leos-visiting-europes-migration-040544231.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/pope-leos-visiting-europes-migration-040544231.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A rare Edith Wharton story is unearthed about the gap between everyday life and the horrors of WWI]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C2E7B52A2B9D81167D1234938BF8FCE3868CD0D59B44835B026AB9712630D6E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F432b20c232835aba878b1ae15281a7ca" alt="" /></p>When World War I broke out in 1914, Edith Wharton's initial response was less as a storyteller in search of material than as a citizen and intrepid witness.  The Pulitzer Prize-winning author of “The House of Mirth,” “The Custom of the Country” and other probing stories of New York society was living in Paris at the time and soon set out to help those imperiled by the clash between Allied and German forces.]]></description>
-            <link>https://www.yahoo.com/news/articles/rare-edith-wharton-story-unearthed-040224734.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/rare-edith-wharton-story-unearthed-040224734.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Karmelo Anthony defense, prosecutors wage first-impression war as emotions rock opening of trial: expert]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F81DF32D385967379B403E970268F0D7557D5179E9CE85AC602D1B3241EC5BC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fe92465dd512c2691c759a3fe1eda9981" alt="" /></p>Karmelo Anthony's murder trial opens with emotional 911 call, surveillance video and witnesses describing efforts to save stabbing victim Austin Metcalf.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/karmelo-anthony-defense-prosecutors-wage-040039340.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/karmelo-anthony-defense-prosecutors-wage-040039340.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rubio sanctions Cuban groups with ties to US nonprofit network funded by communist donor Neville Roy Singham]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A3F920090998B822E700AAA01CE6829A3F0CEBA438A925BC823BDD77FA3B8811/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F678204604d3bf529e6c01c53fd56d6d0" alt="" /></p>Secretary of State Marco Rubio sanctioned five Cuban entities including ICAP, targeting networks he says enable Cuba's subversive radical operations.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/rubio-sanctions-cuban-groups-ties-035429352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/rubio-sanctions-cuban-groups-ties-035429352.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky asks Putin to meet face-to-face, with US ‘fully focused’ on Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0FFA4315187812267C37FCF8762C3FF4E21F5DBD88C323F44365083267A0034B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fa9cd4b3850b33b8ef10199758b405795" alt="" /></p>Ukrainian President Volodymyr Zelensky on Thursday shared a letter asking Russian President Vladimir Putin for a face-to-face meeting while the U.S. remains “fully focused” on Iran. Zelensky told Putin that he has “spent nearly of half of your 26 years in power in Russia waging war against Ukraine.” He expands on how much Russia’s war…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/zelensky-asks-putin-meet-face-031159684.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/zelensky-asks-putin-meet-face-031159684.html</guid>
-            <pubDate>Fri, 05 Jun 2026 08:29:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Graham Platner to hold Maine rally with Rep. Ro Khanna as scandals shake up campaign]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF8E03D4E9159F78DB5D6972A040C12595B04553E799035FFD020347F2313A82/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc322b2721a81812208aab5e15e3e945e" alt="" /></p>Graham Platner, the insurgent Democratic candidate for U.S. Senate in Maine, will hold his first major campaign rally on Friday night as reports continue emerging about his history with women.  Last weekend, his campaign wrestled with stories about sexually explicit messages that Platner sent to several women while he was married.  One woman said Platner twisted her arm during an argument and locked her in a room.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/graham-platner-hold-maine-rally-040141830.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/graham-platner-hold-maine-rally-040141830.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nevada Republicans to decide on Trump-backed vs. experienced replacement for Rep. Mark Amodei]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8887D5F7AC67F6E9D2C95821A2367BE7694062A4DDCAD0007F446B259C45AF50/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F43d021dc65879cc9a504d8dd52e734e0" alt="" /></p>Nevada's only Republican congressional seat is open for the first time in 15 years, and the primary is testing Republican voters' appetite for a veteran politician or a newcomer with President Donald Trump's backing.  Republican Rep. Mark Amodei announced his retirement earlier this year, creating an opening in the state's 2nd District, which covers all of northern Nevada.  Republicans boast a large registration advantage in the district, and experts and strategists are watching the race for clues about how much influence Trump continues to hold over the party's voters as he enters the last half of his final term.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/nevada-republicans-decide-trump-backed-040112655.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/nevada-republicans-decide-trump-backed-040112655.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protests, elections, World Cup events and other top photos from Latin America and the Caribbean]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1AF1944B5D4B9AFC0002A337C86CFB03C00FE206634C4FD558D5D1BD16F3996/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe965609a7d2a217cc4efb52314722250" alt="" /></p>Source: AP]]></description>
-            <link>https://www.yahoo.com/news/world/articles/protests-elections-world-cup-events-040013612.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/protests-elections-world-cup-events-040013612.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Xi to visit North Korea as Beijing seeks deeper Pyongyang ties]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E90344EA2A025BE8F2B7CA6F3DFFA45DD3B9F2E1F0E1E6BB557DE71D6720C70C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4ee864428a6afd345e8ce7994b50af5d" alt="" /></p>By Xiuhao Chen and Jack Kim BEIJING/SEOUL, June 5 (Reuters) - Chinese President Xi Jinping will visit North Korea from June 8 to 9, state news agency Xinhua said on Friday, his first trip in nearly]]></description>
-            <link>https://www.yahoo.com/news/articles/chinas-xi-visit-north-korea-023745615.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/chinas-xi-visit-north-korea-023745615.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Homicide convictions reversed for paramedics in Elijah McClain case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8DEC6321EB1146FB6393C034155660A06837D9668B748239018071D282C336EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fc216a2b1944ae730a9f4a44d13735a8e" alt="" /></p>A Colorado appeals court has reversed the criminally negligent homicide convictions of two former paramedics in the 2019 death of Elijah McClain.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/homicide-convictions-reversed-paramedics-elijah-032829404.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/homicide-convictions-reversed-paramedics-elijah-032829404.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malaysia PM Anwar facing crucial test of support as two states call early elections]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/093B6629B69BF2552F1BDABC155F9B80E331323AD4BA78F4A860B12CD679FA1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fac0286db226b3f0e572a67407eae7a20" alt="" /></p>KUALA LUMPUR, June 5 (Reuters) - Malaysian Prime Minister Anwar Ibrahim's ruling coalition will face a test of its public support amid signs of internal tensions after two states this week called snap]]></description>
-            <link>https://www.yahoo.com/news/world/articles/malaysia-pm-anwar-facing-crucial-025559204.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malaysia-pm-anwar-facing-crucial-025559204.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Security planners brace for unprecedented threats as millions head to 11 US World Cup cities]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25F2AFE3B7379C109D027899A198E2262AC9D4BDE0AE51936124FF7F91C87DCF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9d858a459fd94083d9cb76460bf63ad6" alt="" /></p>Millions of soccer fans are expected to gather in 11 U.S. cities for the World Cup, and security planners have been coordinating with state, local and federal law enforcement agencies to monitor unprecedented security threats.  “This is not just one national or one continental event," said Andrew Giuliani, the executive director of the White House Task Force on the World Cup.  Giuliani spoke Thursday at a World Cup kickoff event about the security challenges of preparing for an event of this magnitude, from monitoring trends across states to heat mitigation.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/security-planners-brace-unprecedented-threats-023906740.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/security-planners-brace-unprecedented-threats-023906740.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US House backs Russia sanctions, Ukraine aid, in latest blow to Trump]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B90BE2960169E9B173654A39F4D02E4EEBB011DD45046D1D66A0D5F69223D8E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F031a0a4c71bcaedecdd8e7c009c2d347" alt="" /></p>By Patricia Zengerle WASHINGTON, June 4 (Reuters) - The U.S.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/us-house-backs-russia-sanctions-003001540.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/us-house-backs-russia-sanctions-003001540.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Democrats spar over big tech during debate for coveted congressional district in Manhattan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30FBB87455DE7ECDE7342ED2AF99458BD5FD6D898E5F46E4708D3300D28E7A69/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F556302ce4cec7353528aaa21fc962e3c" alt="" /></p>Democrats competing over a coveted congressional district in Manhattan slugged it out during a heated debate Thursday night, sparring over big tech and who would be President Donald Trump's toughest foe.  Within moments, state Assembly Member Micah Lasher suggested Bores would be beholden to the big tech players who support his campaign.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/democrats-spar-over-big-tech-023143539.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/democrats-spar-over-big-tech-023143539.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China’s Xi Jinping to make rare trip to North Korea next week]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/293BAFBDB705BC232AB8E96CD6A6F02BD367288FFE0B8E7BA37A2F0A034AB87F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F0e03e6bbbd2cc24fc0538e9cc0bf1496" alt="" /></p>Xi Jinping will travel to North Korea next week for a rare visit that comes just weeks after the Chinese leader hosted US President Donald Trump and Russian leader Vladimir Putin for separate, nearly back-to-back visits in Beijing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-xi-jinping-rare-trip-022851026.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-xi-jinping-rare-trip-022851026.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What former Attorney General Pam Bondi told House committee investigating Epstein]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9E4ED5F24FF06AA4F8BC1507B4AFF6713B45E540C31F2CB4CE1145C541EE5298/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F2d8e9a172105016c4f619497ba321202" alt="" /></p>Bondi said Todd Blanche handled the release of the DOJ's Epstein files.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/bondi-declined-answer-questions-interactions-022253572.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/bondi-declined-answer-questions-interactions-022253572.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F029A997438072D07111701477C0E54066C026A217C219F314B2137B79B5CBCC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb7120cd6a170e4c19802642071ef9c28" alt="" /></p>Chinese leader Xi Jinping will travel to North Korea next week, both countries announced Friday, in what will be his first visit in nearly seven years.  Kim has likewise been cozying up again to China, the North’s biggest trade partner and aid provider, in the past year.  “As North Korea builds closer ties with Russia, China seeks to use Xi’s trip to reassert its influence over Pyongyang and safeguard its strategic interests in northeast Asia,” said William Yang, an analyst for the International Crisis Group.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/chinese-leader-xi-jinping-travel-021925989.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chinese-leader-xi-jinping-travel-021925989.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola outbreak a growing concern due to mistrust: Former CDC director]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DF8A42746C563702F14CC2E2A91B31B9940222BC63CAC13DE2D18DB1D826F62/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fc6b7aac64d39fc12e1167f931ffe00fa" alt="" /></p>Redfield thinks the outbreak could grow to be the second-largest pandemic in Ebola history.]]></description>
-            <link>https://www.yahoo.com/news/science/articles/ebola-outbreak-growing-concern-due-021429618.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/science/articles/ebola-outbreak-growing-concern-due-021429618.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[House passes Ukraine aid, Russia sanctions as GOP bucks Trump on foreign policy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC96B9A99D5776CA0D30CF8FF989B4D07F480C9AB640F46237CD98F52105CEB4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F296ddb2fb1cd464f8651ffc7695cd38e" alt="" /></p>Eighteen Republicans sided with Democrats to authorize billions in aid to Ukraine.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/house-passes-ukraine-aid-russia-013724597.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/house-passes-ukraine-aid-russia-013724597.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICE will stop reporting deaths of newly released detainees]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ACDE9223274B3978BFF7A659B2F828C97226F6097D77D7E1DC44B1E4BD4C62CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F5ca4a40e4c0bac27c5e1e1c7bdf821a4" alt="" /></p>The agency called the move a "common sense" change.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/ice-stop-reporting-deaths-newly-013524055.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/ice-stop-reporting-deaths-newly-013524055.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Platner says ‘not once’ has he considered dropping Maine Senate primary bid]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/071139D4A21F8FA93269BC08E9C1F2085F3FFF3A05F1C3E40DA401860E0046E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F142501689fbdf940e1c2bc5377a8b912" alt="" /></p>Progressive oyster farmer Graham Platner said on Thursday that “not once” has he considered dropping his Maine Senate primary bid after new allegations about his past behavior surfaced earlier that day. “No, not once,” Platner told MS NOW’s Chris Hayes, when asked in an interview if he had considered dropping out in the past week. “Amy…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/platner-says-not-once-considered-013214430.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/platner-says-not-once-considered-013214430.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Collins casts 10,000th consecutive Senate vote]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4EE79C248ABDFFEE8DB5411FB9EE4693CEA8B1EC4865CC2ACB13FD05677C156B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F794e9f915a71b80a6afe84df0b731e61" alt="" /></p>Sen. Susan Collins (R-Maine) cast her 10,000th consecutive Senate vote on Thursday night, voting for a Democratic motion to commit the $70 billion budget reconciliation package back to the Judiciary Committee. Collins stood at her desk wearing a red dress underneath a blue blazer with bright brass buttons and announced “aye” when the clerk…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/collins-casts-10-000th-consecutive-011811454.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/collins-casts-10-000th-consecutive-011811454.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump says he saw no decline in Biden after debate]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7846A12B40BCABE23111F45B0549FBC9310C8CBD51087EDD2B1287F0D83FAD17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F7c81e426f7a28e44b5ece78fd8b2cd76" alt="" /></p>President Donald Trump commented on former President Joe Biden's mental acuity at a June 4 Oval Office event.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/trump-says-saw-no-decline-011507670.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-says-saw-no-decline-011507670.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Jersey man accused of killing wife with barbell allegedly confessed in messages to relatives: report]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5809AF1839667A18C94AA9D4B06291E9D9BA2C91CC77590767E844488181597/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc223088ce3f575f44c95e147f5b48886" alt="" /></p>A New Jersey man allegedly used a barbell to kill his wife and confessed in emails and texts to family, according to a Monmouth County affidavit.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/jersey-man-accused-killing-wife-011350981.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/jersey-man-accused-killing-wife-011350981.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FDA launches study of abortion pill safety, WSJ reports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DC3D80CCEE4C4451FABE413425B916453E9ED7E8B44DFF98E900BF5C1D1C3A7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fed9152fec7db8dcbf4d6cf9777e26976" alt="" /></p>June 4 () - The FDA has launched ‌a safety study ‌of the abortion pill, ​also known as mifepristone, a step that could pave the ‌way for ⁠the Trump administration to restrict how ⁠it is distributed and used, ​the Wall ​Street ​Journal reported on ‌Thursday. The FDA study, using existing drug-safety systems, is expected to take six months ‌and aims to ​withstand ​legal ​criticism, the report ‌said, citing administration ​officials.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/fda-launches-study-abortion-pill-011041309.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fda-launches-study-abortion-pill-011041309.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump announces 'rally to end all rallies' in DC to celebrate America's 250th anniversary]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7C726526FB25EF04A8FBD56AF55474F5AB095D827674435FA5AD4040AF415A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F1173b68b8b46eb2fcb921892e36c56ab" alt="" /></p>President Trump announces a massive rally in Washington, D.C., on June 24 to celebrate the nation's 250th anniversary with speakers and performances.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/trump-announces-rally-end-rallies-011005998.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-announces-rally-end-rallies-011005998.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sheriff nominee who killed daughter's alleged abuser won't face murder charge]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E64389CE340FE131C0A91D936A17BDCB3EC747EE434B0C3026D0BFAC100C9409/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Faa3601bae2c2f8bc6fb51a0232ee4d6a" alt="" /></p>A judge has dismissed a murder charge against Aaron Spencer, an Arkansas sheriff nominee who was accused of killing his teenage daughter's alleged abuser in 2024.]]></description>
-            <link>https://www.yahoo.com/news/us/articles/judge-dismisses-murder-charge-against-011000567.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/us/articles/judge-dismisses-murder-charge-against-011000567.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FCC reviewing school internet subsidies amid kids’ screen time concerns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D834C9FE659E7B6354508B67599576E4A05579D1F916980EDC4B1A4628D2F6A9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F857d8bb5432eb23034ce3cccad665664" alt="" /></p>The Federal Communications Commission (FCC) is reviewing a $3 billion annual program that subsidizes internet access for schools and libraries, citing concerns over excessive screen time among children and its impact on their health. FCC Chair Brendan Carr announced on Wednesday that the commission will conduct a complete review of the E-Rate program and release…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/fcc-reviewing-school-internet-subsidies-010447849.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/fcc-reviewing-school-internet-subsidies-010447849.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live updates: Vulnerable Republicans break with party during amendment vote marathon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1D4396A2A9A7813C4C90AE8C02B7837AD174500CC1AE850F26213A0B87992CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fa072386b2220a80bf5bd3e8768cffe61" alt="" /></p>The Senate launched a voting blitz on Thursday as it moves toward passing a $70 billion budget reconciliation package that would fund immigration enforcement agencies. Among the amendments up for a vote, Senate Republicans defeated 49-50 one sponsored by Senate Democratic Leader Chuck Schumer (N.Y.) to prohibit the Department of Justice from establishing a $1.8 billion “anti-weaponization”…]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/live-updates-senate-poised-vote-141248018.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/live-updates-senate-poised-vote-141248018.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ohio Medicaid fraud has gone unchecked, until now: Auditor]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/371D9745789064669A8F6FE99262E1A3A78CB4153E30277929E4760F6255B71A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F5869d4a08beeb925371c22c5468f3ecd" alt="" /></p>Keith Faber blames state-level bureaucrats for not being more aggressive about verification.]]></description>
-            <link>https://www.yahoo.com/news/politics/articles/ohio-medicaid-fraud-gone-unchecked-005254152.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/ohio-medicaid-fraud-gone-unchecked-005254152.html</guid>
-            <pubDate>Fri, 05 Jun 2026 04:13:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
