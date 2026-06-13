@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Jun 2026 22:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 00:14:40 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 00:14:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The night people in Belfast fled their homes because of racist violence]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F1F22340AA276B412DE99B5BC4B8062116646E38BC596232DAA5EE30FA9F904/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff6e472ef451df02ad1f80ebfcebe596c" alt="" /></p>Reporter Richard Morgan recalls the chaotic scenes he witnessed when reporting on days of disorder in Northern Ireland.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/night-people-belfast-fled-homes-230047215.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/night-people-belfast-fled-homes-230047215.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 13 Jun 2026 00:14:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U.S., Iran signal peace deal near as Tehran claims victory]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C5F01323589D74988AC906DB9F80FC78C710C11039C7AB5831607AD164A368B/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fkrem_tegna_videos_762%2F8dcc9dccc5423c3b495ade2754d8648a" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/trump-bristles-over-memorandum-text-that-appears-to-favour-iran-152520766.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/trump-bristles-over-memorandum-text-that-appears-to-favour-iran-152520766.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2D6BB3C0D55DD22C29D4C76F74D45A2A336613BEAA252DCE0E2CC71AA6ABE3D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb65dc941f2294a75912e06a6e8990897" alt="" /></p>A rotting body was found in the trunk of a car parked near the stadium where Iran's World Cup football team is training in Mexico, AFP journalists at the scene reported Friday.Reporters watched as police in Tijuana opened the trunk of the gray Toyota SUV, which had California plates, in the parking lot of a supermarket directly across from the Caliente Stadium, where Team Melli is training as it prepares for three games in the United States.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rotting-body-found-near-irans-222322440.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rotting-body-found-near-irans-222322440.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D072BA5F8F467597DF02EA984820F8D714D676C3274132D8D87E07F9E9CDE3C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2b7fb49649179329d956f8f97f2ed0e4" alt="" /></p>Pope Leo XIV finally returned home late on Friday after a delay due to technical problems with his aircraft. The pope landed at Fiumicino Airport at 11:03 pm (2103 GMT) on board an Army Falcon aircraft provided by Spain's King Felipe for the journey, marking the end to his week-long visit to Spain, Italian news agency ANSA reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pope-lands-rome-delay-leaving-221136884.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-lands-rome-delay-leaving-221136884.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA8803233321E792702584B382EC0AF730B675D0C7019E0C5FBC0863F0D23413/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F203927b5cb0fdef4d7928d117d599fe3" alt="" /></p>BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.]]></description>
             <link>https://www.yahoo.com/news/world/articles/college-scam-promised-students-fleeing-220844233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/college-scam-promised-students-fleeing-220844233.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A1465BA3E201A23BE4F730A621F12C68881A5FEB3D69910F13E451685FA009E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F44b2b10d4a382bf4350f7b3dbaaffe49" alt="" /></p>The United Nations has recorded the highest number of civilians killed and wounded in a single month in Ukraine since April 2022, with at least 274 people killed and a further 1,763 injured in May, according to a report by the Office of the UN High Commissioner for Human Rights (UNHCR). This represents an increase of 93% compared to May 2025, when 191 deaths and 865 injuries were recorded, the report issued on Friday said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-civilian-deaths-hit-three-215632327.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-civilian-deaths-hit-three-215632327.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EC25EB3911E0A72EE751B3634CB037BF1EA3D4E2E1CCA17950A23C2DDAA4854E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc9228b3cc362da4a8c897e98e897a1f8" alt="" /></p>A major military operation against criminal gangs in southeastern Venezuela has left a trail of ghost towns and abandoned mines in its wake.Once bustling with businesses, the place is "practically a ghost town, there's hardly anyone left," he said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/venezuelan-mining-towns-devoid-life-213605026.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuelan-mining-towns-devoid-life-213605026.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92D7C25DA995181675DA08396BA80EE8CBD832FA3B6D1F3A830D49F5B7E6B55C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fcb8eb91607088a5aa55cd3f72dea67c5" alt="" /></p>Protests have swelled across Albania since late May 2026 in opposition to the development of a luxury beach resort linked to US President Donald Trump's daughter Ivanka and her husband Jared Kushner. But a video spreading online of a massive gathering crowding a beach is unrelated; the footage captured a celebration of fans backing the Spanish football club Deportivo La Coruña.]]></description>
             <link>https://www.yahoo.com/news/world/articles/football-celebration-clip-mislabeled-albanian-211428074.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/football-celebration-clip-mislabeled-albanian-211428074.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5133CE6381C11FDA8A40E37FD7264163E06A901D79CE3299E6080F35EFB9E166/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnational_examiner_239%2F3aa908c3b1d75b7cd7cb8f3bccca0bb4" alt="" /></p>Andrew Mountbatten Windsor, who was stripped of his royal titles by his brother King Charles III, may have another honor taken away from him. The New Zealand Herald reported on Tuesday, June 9, that documents released under the Official Information Act show that the Antarctic landmark Prince Andrew Plateau could possibly be renamed. According to […]]]></description>
             <link>https://www.yahoo.com/news/world/articles/ex-prince-andrew-may-stripped-210143176.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-prince-andrew-may-stripped-210143176.html</guid>
-            <dc:creator><![CDATA[National Examiner]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +77,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/036E2DA02A01A2C8B4BE0ABBCD1D347ECFB4394167CD6BB727A34BB1C18AE148/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4674f9a7eb04bb47896a498c1917880a" alt="" /></p>Reuters reports UAE agreed to unlock billions for Iran, but Abu Dhabi swiftly issued a categorical denial.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uae-unlock-frozen-iranian-funds-205841135.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uae-unlock-frozen-iranian-funds-205841135.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6231B3CF9857EB63CE2FB07A999F94B61C2755EE69764C07EFF875C2E90197E5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fae314619ba2e43988c53dfb5342dfced" alt="" /></p>Four British pro-Palestinianactivists were sentenced to a total of more than 20 years over a2024 raid on a factory operated by Israeli defence firm Elbitwhich caused more than £1 million of damage, with the judgegiving longer terms after ​determining there was a “terrorismconnection.”]]></description>
             <link>https://www.yahoo.com/news/world/articles/four-uk-pro-palestinian-activists-194409144.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-uk-pro-palestinian-activists-194409144.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Fri, 12 Jun 2026 22:54:28 GMT</pubDate>
         </item>
         <item>
@@ -7023,13 +7021,6 @@ Xi said he had reached "an important consensus with Kim on developing China-DPRK
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7BBEE009B795129898A5C8BF536912188C70BA664B118EB26795087E0B2EA021/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F64a7e670ecdbd38c3f79f437551415ec" alt="" /></p>Currently acting attorney general, Todd Blanche may face an uphill confirmation battle from some wary Republican senators.]]></description>
             <link>https://www.yahoo.com/news/politics/articles/trump-formally-nominates-todd-blanche-195426575.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/politics/articles/trump-formally-nominates-todd-blanche-195426575.html</guid>
-            <pubDate>Mon, 08 Jun 2026 22:07:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flooding could impact more than 88 million as storms threaten multiple states]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40E54F3233606F9DA6D7B8BAB124D3454FF49870DAB3A49C8D72B13E5FFF251F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ffa9d31fac232aeccffaf055880a75c33" alt="" /></p>States across the Midwest and northern Plains could see flooding as severe storms hit, forecasters say.]]></description>
-            <link>https://www.yahoo.com/news/weather-news/articles/flooding-could-impact-more-88-144630601.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/weather-news/articles/flooding-could-impact-more-88-144630601.html</guid>
             <pubDate>Mon, 08 Jun 2026 22:07:55 GMT</pubDate>
         </item>
     </channel>
