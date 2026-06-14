@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 19:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 20:44:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Romanian president picks new nominee Adrian Vestea for prime minister]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78E2A9C2EF58A90AAE9E9ACC7A33891D0DB13AE27D71CD1D3EA96C36E38A27CD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F8d321df46e290f6a9fc85470474b119a" alt="" /></p>Romanian President Nicusor Dan nominated a new candidate, Adrian Vestea, for prime minister Sunday after the resignation of Eugen Tomac.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/romanian-president-picks-nominee-adrian-201132378.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/romanian-president-picks-nominee-adrian-201132378.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six people killed as helicopters collide over Brazil’s Rio de Janeiro]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36DB526D50CF7FC16160FE6E05D0A9C4E3D52500DDB4879BBFA5D68A78CBA32F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0c0ab3999b0a93aeac557806efe805a9" alt="" /></p>Two helicopters collided in midair before crashing into car park of electric vehicle dealership, fire service says.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/six-people-killed-helicopters-collide-201050063.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/six-people-killed-helicopters-collide-201050063.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teen’s Eye Condition Was Misdiagnosed as a Child. Now She Risks Losing Her Vision in Her Second Eye]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21741F8F974E03774DC1A01E382AACE3E933A9887E03BB6594EE90AFF3E33D70/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fdb7e3c3855a3f2b7a42ff6b0683dcdfc" alt="" /></p>Sophie Carruthers was 5 years old when she first lost sight in one of her eyes]]></description>
+            <link>https://www.yahoo.com/news/world/articles/teen-eye-condition-misdiagnosed-child-200000581.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-eye-condition-misdiagnosed-child-200000581.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's Next for Peru After One of the Closest Elections in History]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D03E173C15E6B51C06F4094178380FC7CC13894D8A864591850EB0B2A75FF94/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2Fb43ca1bace6768a869e73437b6e8fd21" alt="" /></p>What's Next for Peru After One of the Closest Elections in History]]></description>
+            <link>https://www.yahoo.com/news/world/articles/whats-next-peru-one-closest-195648472.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/whats-next-peru-one-closest-195648472.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Congo says 782 Ebola cases confirmed, two new health zones affected]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD8E97A1439DC28B7CE153259F25F681FCDAE5A2DADA54E3B31EBD5DED4F4997/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdbf0f028e9045f8e784a963466a0b795" alt="" /></p>KINSHASA, June 14 (Reuters) - The number of confirmed Ebola cases in Democratic Republic of Congo has increased to 782 after 72 new cases were documented in 24 hours, one of the biggest single-day]]></description>
+            <link>https://www.yahoo.com/news/world/articles/congo-says-782-ebola-cases-193644924.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-782-ebola-cases-193644924.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel expands military control in Gaza, Lebanon and Syria by 1,000sq km]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1710E7192041F5163780A6BA0C404996A7117A51DAFEE5DD2F10BC73395240B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5741a46a5a305dc97b96c3a439e31ba2" alt="" /></p>AJ probe: Israel expands military control by 1,000sq km on three fronts, using land grabs to mask strategic failures.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-expands-military-control-gaza-192121093.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-expands-military-control-gaza-192121093.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bitter communion: Cuban priests ordered to ration mass wafers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3558DEFCB8AE4C198DDA6A13C055006BF31CDA300F9D8E2050B92B355FCB5FC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9aace1f1d10d9bd650d3258c2e09725d" alt="" /></p>To the never-ending list of scarcities in Cuba comes a new addition: communion for the Catholic faithful.On exiting the church to find the power out again in the neighborhood, they vowed to keep the faith.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bitter-communion-cuban-priests-ordered-191934644.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bitter-communion-cuban-priests-ordered-191934644.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Helicopters collide over Rio de Janeiro, killing 6]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D1BF9BD6053046FBC8E2DF3492274C5D11B8F238D67767414D68986726158D9D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe7d53aa479277f3e4aaba3b149003fe7" alt="" /></p>Two helicopters collided over Rio de Janeiro on Sunday morning and crashed in the city’s western zone, killing all six people aboard, firefighters said.  Rio de Janeiro’s Military Fire Department said that one of the helicopters crashed on the parking lot of a car dealership, where several electric vehicles were parked, igniting a fire that was extinguished.  Police said that American singer and comedian Oliver Tree was on the list of passengers handed to aviation authorities, but have not been able to identify the bodies of those killed in the crash.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/helicopters-collide-over-rio-janeiro-152237818.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/helicopters-collide-over-rio-janeiro-152237818.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Sun, 14 Jun 2026 20:44:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hezbollah continues attacks on north Israel after Beirut suburbs hit]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E85C3BEFEEC4A83343B897F984C1DA434382464C5E828D57697DE9DBBB6E1C00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4c1bc750d6d4c4126fc9bccfedec6489" alt="" /></p>Lebanon's Iranian-backed Hezbollah militia has continued its attacks on northern Israel even after Israeli strikes hit the suburbs of Beirut, the Israeli military said on Sunday evening. A projectile fired from Lebanon struck near the border town of Kiryat Shmona, the Israeli military said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hezbollah-continues-attacks-north-israel-185617701.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hezbollah-continues-attacks-north-israel-185617701.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/188E267C76B5B721D5392A7F63388FE23F56776EBF6EAA6D5FBC33D65DAD6787/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fdf500be22c14670e1088af06a9c99940" alt="" /></p>Many family members are facing extreme financial hardship to raise the funds requested by scammers in exchange for legal help, some going as far as to sell their houses. Dozens of families of those imprisoned by the Islamic regime for participating in the December demonstrations have been targeted by a series of costly fraud schemes, Dadban, a network of pro-bono lawyers and jurists that provides legal counsel, education, and support to political prisoners, protesters, and rights activists in Ir]]></description>
             <link>https://www.yahoo.com/news/world/articles/families-imprisoned-iranian-protesters-targeted-182044726.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/families-imprisoned-iranian-protesters-targeted-182044726.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/38BCF558772F3AA2DB5B60A0A597EC7C0236421EA9162FE34CC93D19A3E0D558/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F25b7cb2462ef5b1bd66329238df7a3e0" alt="" /></p>Armenia’s polling authority on Sunday confirmed that the party led by Prime Minister Nikol Pashinyan won a general election seen as a vote on its geopolitical future and a test of Russia’s influence in the South Caucasus country.  Pashinyan’s government is seeking closer relations with the European Union and the United States despite longstanding ties with Russia that have been championed by his critics.  Final results issued by the Central Electoral Commission for the ballot held on June 7 showed the ruling Civil Contract party won 49.7% of the vote, and it will be able to form a government.]]></description>
             <link>https://www.yahoo.com/news/world/articles/armenias-elections-regulator-confirms-victory-180614192.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/armenias-elections-regulator-confirms-victory-180614192.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B31CCDCFC4AB9A2CB0EAF8BA7F125C65E33A8B1DAB42A54FF31CDC3080B18F26/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fbb4936c2131a989dda52f82cf992da9b" alt="" /></p>A seven-month-old baby was shot in the head with an armour-piercing bullet by an Israeli soldier “who just wanted to kill”, his father has said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-soldier-just-wanted-kill-173744165.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-soldier-just-wanted-kill-173744165.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4264B5F2E16040DEFFABEC3BA82AB34D4E5EE1D9DC7A2463D7F0B380AC6CC9D9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftmz_articles_672%2F38e44b16e6acfde633573e060093ca85" alt="" /></p>A young woman in Brazil lost her life during a bungee-jumping excursion after authorities say critical safety procedures may have been missed before the jump.  Maria Eduarda Rodrigues de Freitas, 21, died Saturday after plunging from a bridge in Limeira, a city in São Paulo state, according to multiple Brazilian media reports.  🔥🚨LATEST: Footage has released of the moment the 21-year-old woman was accidentally killed when Entre Cordas workers forgot to attach her safety rope and and threw her off the the “Skeleton Bridge” in Limeira, a city in Brazil’s São Paulo state.]]></description>
             <link>https://www.yahoo.com/news/world/articles/woman-dies-falling-bridge-during-125804567.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-dies-falling-bridge-during-125804567.html</guid>
-            <dc:creator><![CDATA[TMZ]]></dc:creator>
             <pubDate>Sun, 14 Jun 2026 19:13:08 GMT</pubDate>
         </item>
         <item>
@@ -6969,62 +7028,6 @@ rh-gw/msp]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EB570DABA93A392D79A7A34A655CB03BA454BA1EBC0E77653A29483B31806A70/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Faccuweather_articles_339%2F75bcc3c18006270cda1d09fca2f2eb37" alt="" /></p>The United Nations World Water Development Report 2026 found that 2.1 billion people still lack safely managed drinking water, and the burden falls disproportionately on women and girls.]]></description>
             <link>https://www.yahoo.com/news/world/articles/blue-aims-expand-clean-water-152913742.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/blue-aims-expand-clean-water-152913742.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France bans Israeli Finance Minister Smotrich from entering country]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/157755885D94B0FFDF5F9E8643AC0C7E51F8CDC9D49497FA32C091417243014D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F33c039bf05f9708209e3f68984fb01c4" alt="" /></p>France has imposed an entry ban on far-right Israeli Finance Minister Bezalel Smotrich over Israel’s settlement policy in the West Bank. French Foreign Minister Jean-Noël Barrot announced on Tuesday that the entry ban was issued in connection with new sanctions that France had imposed together with the United Kingdom, Canada, Australia, New Zealand and Norway over the settlement policy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/france-bans-israeli-finance-minister-152537723.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-israeli-finance-minister-152537723.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Operation Pushkin': six Georgians on trial in France over theft of rare Russian books]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/581E157DA3931A5E97AF4A448E283A6F7594DBF8E1E53367AB36C1406717F434/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F4bfd119b8951b647d0cc6ef1cc2b30c6" alt="" /></p>The trial is the latest case aimed at delivering justice after a series of similar thefts in libraries across Europe, allegedly by an organised network.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/operation-pushkin-six-georgians-trial-152215948.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/operation-pushkin-six-georgians-trial-152215948.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8573D7EBFAB5D1F680AABA9A50DEA5F26E04D0D41D2EAB4F61D2A632490A960/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6db3298675eacd04b7f73086e2e8d3e5" alt="" /></p>Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-air-strikes-hit-lebanese-151534170.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-air-strikes-hit-lebanese-151534170.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A sexual misconduct probe against ICC's chief prosecutor says he engaged in 'serious misconduct']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE97BDBF8FC7BAAE73624F7A0A3A92F3794FCB23203CD33D9CE40C6736A0B7B8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F39cd8b785e0814513e93e19ca89c77d8" alt="" /></p>An investigation into sexual misconduct allegations against the embattled chief prosecutor of the International Criminal Court found he had engaged in “serious misconduct” and “serious breach of duty,” according to documents seen by The Associated Press on Tuesday.  The 21-member executive committee of the court’s oversight body, the Bureau of the Assembly of States Parties, on Monday voted to suspend British barrister Karim Khan and refer him for further disciplinary proceedings.  The 56-year-old faces allegations of sexual misconduct with a female aide, in a scandal that has dragged on for more than two years.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sexual-misconduct-probe-against-iccs-151133002.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sexual-misconduct-probe-against-iccs-151133002.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congo reports more than 100 Ebola deaths]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DB13C1A58A4C838594C9EAE0DB5199389942258D97C3DC5E1A217BE0AFDEE65/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3bac428e91bcbf69a7af923a280ee670" alt="" /></p>The number of confirmed deaths linked to the Ebola outbreak in the Democratic Republic of the Congo has risen to 102, officials said on Tuesday. The Africa Centres for Disease Control and Prevention (Africa CDC) confirmed that Ebola deaths in Congo and Uganda have risen to 102.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/congo-reports-more-100-ebola-151053593.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-reports-more-100-ebola-151053593.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK announces new sanctions on illegal Israeli settlers in West Bank]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/249B7320474BB30DC1DA655AE56CB7C5D6ADB3855FD6CDE55CAE6E43A0BCAEC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2159e474670d8a1d4a8533cba62d9db1" alt="" /></p>Illegal settlers in the Palestinian West Bank will be hit with new sanctions by Britain and its allies, UK Foreign Secretary Yvette Cooper has told the Commons. Cooper said the “most notorious individuals” would be targeted by the measures, including “extremist figures in the Israeli Cabinet.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-announces-sanctions-illegal-israeli-151053413.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-announces-sanctions-illegal-israeli-151053413.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian ministry requests lifting of Roblox ban]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB063DD56BFE2F34BB6A685C787031C040AB119A351ABA9DC4DD8710B10AB8EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F5c8618174a39bcba6e95a8efa0bfffbc" alt="" /></p>Russia's digital ministry said on Tuesday it had asked ‌law enforcement to support lifting a ‌ban on the U.S. gaming platform Roblox RBLX.N, based ​on assurances that the company would provide extra protection for young users and comply with Russian law.  The communications watchdog Roskomnadzor announced the ‌ban last December ⁠on grounds of child safety, annoying some Russian users and even ⁠sparking a rare protest in the Siberian city of Tomsk.  "In connection with the guarantees of ​responsible conduct ​in the Russian ​market provided by ‌Roblox, the Ministry of Digital Development, together with Roskomnadzor, has appealed to the relevant law enforcement authorities with a request to support the lifting of restrictions," the ministry said ‌in a statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-ministry-requests-lifting-roblox-150115667.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-ministry-requests-lifting-roblox-150115667.html</guid>
-            <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France bans Israeli Finance Minister Smotrich from entering country]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/422D36C3DFBA192FB916754CE38208ABBC2F348B7B37E8D1256F879BA220F983/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb1130cebe8a4cb4d2a16b1123e69a288" alt="" /></p>France has imposed an entry ban on far-right Israeli Finance Minister Bezalel Smotrich over Israel’s settlement policy in the West Bank. French Foreign Minister Jean-Noël Barrot announced on Tuesday that the entry ban was issued in connection with new sanctions that France had imposed together with the United Kingdom, Canada, Australia, New Zealand and Norway over the settlement policy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/france-bans-israeli-finance-minister-145523966.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-israeli-finance-minister-145523966.html</guid>
             <pubDate>Tue, 09 Jun 2026 16:16:32 GMT</pubDate>
         </item>
     </channel>
