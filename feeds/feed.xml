@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 22:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 00:09:15 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mangione, accused CEO killer, withdraws mental health defense plans for now]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2CDEBC74BCF0811D6BD8EF043C7FD1AF70DA9C51E98317F1F6086CD21F9A6D6/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fafc42933e2b0dcad79496ec05e0ca50f" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/mangione-accused-ceo-killer-withdraws-235159764.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mangione-accused-ceo-killer-withdraws-235159764.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine hits Moscow with its biggest drone strike yet]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/302437A65D05E117499FF38415D093A70B58E1E3B17E646B3EAD5B7D4266B4A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Ff870c9fdd46a0f0d52addda7e364a5b0" alt="" /></p>The attack’s value is both symbolic and economic, bringing the reality of war home to ordinary Russians]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-hits-moscow-biggest-drone-230449738.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-hits-moscow-biggest-drone-230449738.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan's diplomatic chops on display]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F68CFDF84AB70B9F5E6F02DC444ABD62B9D353993A64852C944DC06C37789504/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F9786ed9c5b1b9c121d7c493b9502251b" alt="" /></p>Pakistan, once cast as a diplomatic pariah by the West, took on a lead role mediating between the US and Iran to produce a deal.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pakistans-diplomatic-chops-display-225924397.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistans-diplomatic-chops-display-225924397.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Teddy bear assassins’ shoot suspected gang leader in Ecuador]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/949716FD070F1C986470715B17ED621C2ED83D9A1C63D33CB975405D59D3DA6C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc5a92c2e2b05e6ee26d2497c0f9709ec" alt="" /></p>The suspected leader of one of Ecuador’s most feared gangs was shot dead in an ambush by gunmen holding teddy bears and flowers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/teddy-bear-assassins-shoot-suspected-223356192.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teddy-bear-assassins-shoot-suspected-223356192.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Extraordinary Footage From Moscow Under Heavy Ukrainian Aerial Attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF4F68D827FF062ED9E89BE8E9BBD591AA8082A06F5A876606C2ECE6ED775DDD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F8dbe2c619c9a81e3290a05e4ddb1b1fb" alt="" /></p>Ukraine's large-scale strike on Moscow, triggering massive explosions and fires, may indicate a new phase in the long-range air war.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/extraordinary-footage-moscow-under-heavy-215525023.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/extraordinary-footage-moscow-under-heavy-215525023.html</guid>
+            <dc:creator><![CDATA[TWZ]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN reports record violations of children in conflict, with government forces the main perpetrators]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6C4F30A1F945ED476B9C0383CD8FB4E8B1FC0437C2FF0CDABCEFBFA61B64D159/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe7e2af3ca16cb898bac3cd3dea94b311" alt="" /></p>Nearly 25,000 children caught in conflict were victims of a record number of violations last year, including killings, rape and recruitment to fight, and for the first time, government forces — not armed groups — were the main perpetrators, a new United Nations report says.  Secretary-General Antonio Guterres’ annual report, released this week, has a blacklist of violators against children: government forces from eight nations and 67 armed groups from 16 countries and territories.  The number of violations — which also include abductions, attacks on schools and hospitals, and denial of humanitarian access to help them — rose for a fourth straight year to 38,558, according to the report that is based on verified U.N. data.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-reports-record-violations-children-212406594.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-reports-record-violations-children-212406594.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shock and Awe in Moscow]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7C0BD129834D063AFB86E3B2DD166D3D38B425E7FA3ED38DC57DA51FBFBD7DD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpuck_news_articles_824%2F942041fe3199c2cc7bdee9660ca0b2c7" alt="" /></p>A new wave of Ukrainian drone strikes in the heart of Russia’s capital city has exposed the weakness of Putin’s air defenses—and the potential fragility of his regime.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/shock-awe-moscow-190525325.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shock-awe-moscow-190525325.html</guid>
+            <dc:creator><![CDATA[Puck News]]></dc:creator>
+            <pubDate>Fri, 19 Jun 2026 00:09:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On the Line: Guatemala Garment Workers Win Historic Payout]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7931396FE264D1485FFAF3F002D4C998226D3328AE2F44AE514229D2E620C8FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2Fdca20b5e38b76f890e3dadf19625a868" alt="" /></p>Also in this edition: South African workers protest the mass firing of their migrant colleagues, a Cambodian plant goes on strike, and contaminated water sickens hundreds of Bangladeshi workers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/line-guatemala-garment-workers-win-222133508.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/line-guatemala-garment-workers-win-222133508.html</guid>
-            <dc:creator><![CDATA[Sourcing Journal]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DCC1013DEB346CC864366D0A2E39EE0D25B2D54911D0D5418D5C9C4AD2A38B25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmsnbc_articles_593%2F6a3c4e39d8a08330aca555e14d5abae1" alt="" /></p>What does it mean for a “ceasefire” to allow 1,000 people to be killed in Gaza?]]></description>
             <link>https://www.yahoo.com/news/world/articles/gaza-still-nightmare-213452567.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaza-still-nightmare-213452567.html</guid>
-            <dc:creator><![CDATA[MS NOW]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F01577E047B4E5687811D7AAE72B4604F74D60DDA1531A8E46658833BE493521/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa5994c5e415b00eef68bbf2b4f8ae0de" alt="" /></p>June 18 () - The number of confirmed Ebola ‌cases in the Democratic ‌Republic of Congo has increased to ​896, including 232 deaths, government data showed late on Thursday. The number represented ‌the total ⁠number of confirmed cases as of Wednesday, ⁠according to a situation report that documented 21 ​new cases ​and six ​new deaths ‌in the previous 24 hours.]]></description>
             <link>https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-205422223.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-205422223.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/141E3F771E5E6C7ED88F393C1B0C5F6BC78D15A4C7D04B2FBEFC2C735D9DB9F6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9675437016f5e0a2d57aa0baf39fd39f" alt="" /></p>June 18 (Reuters) - The International Criminal Court has scheduled a vote for July 24 on whether to remove chief prosecutor Karim Khan from office, the Wall Street Journal reported on Thursday, citing]]></description>
             <link>https://www.yahoo.com/news/world/articles/icc-sets-july-24-vote-203257584.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/icc-sets-july-24-vote-203257584.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BCA86C9CFA0F03B4142CD52921A598E5006ECD2598195A3988376CC1D808CDA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5c6b7169f9833ab984c8fc3bbbffa8ef" alt="" /></p>MEXICO CITY, June 18 (Reuters) - The Commission for Environmental Cooperation (CEC), which oversees environmental issues in the United States, Mexico and Canada, on Thursday said it will review a]]></description>
             <link>https://www.yahoo.com/news/world/articles/regional-environmental-agency-review-complaint-203020693.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/regional-environmental-agency-review-complaint-203020693.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5412679F058397BF9C5E13D45C66C528154815EA177856E842539915842E7E26/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6a3a2f16e8a5e914e208351498f95957" alt="" /></p>Visitors to the Acropolis can now see the Parthenon’s western side looking whole for the first time in about 220 years.  Officially unveiled Thursday, restorers have slotted two new marble blocks into long-empty gaps high on the temple’s western end — the view visitors see when they first enter the ancient monument in Athens.  “They allow the unique proportions and the geometric perfection of the Parthenon’s western face to be seen once again,” she said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/greeces-parthenon-gets-facelift-revealing-202630432.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/greeces-parthenon-gets-facelift-revealing-202630432.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F298E93B7EA1E97007C01A8462D771D81A6C71337237B5C9B89400B72DC7A58/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F0f702685281ad11b6dd86bdb0a22dc6b" alt="" /></p>Police in the UK have arrested a man on suspicion of attempted murder after a 3-year-old boy was found in a critical condition inside a zoo’s crocodile enclosure.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-arrested-uk-toddler-ends-200912756.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-arrested-uk-toddler-ends-200912756.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E0D60B85A592536ADAA74A3D75479B225CDE17D37B63F651B0B349C14681B3B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F8ebbfb6d147ae6d2c432ab872cad2fd9" alt="" /></p>An additional demonstration is being held near Prison 10 in protest of the arrest of a draft dodger earlier this week. Light rail service has been partially suspended between Jerusalem’s central bus station and Mount Herzl station on Thursday evening as haredi (ultra-Orthodox) protesters began protesting the arrest of a draft dodger earlier this week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/jerusalem-light-rail-partially-suspended-200802064.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jerusalem-light-rail-partially-suspended-200802064.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +125,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31EDD498641706439EBCF25D6442AACD24FD373CECDFD436394276611F540A40/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F7cb21935caee6d96f79e33be8c2086a7" alt="" /></p>Hundreds of Ukrainian drones met little resistance as they soared through the Moscow skyline overnight and devastated a major Russian oil refinery.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-found-way-moscow-air-193915103.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-found-way-moscow-air-193915103.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18BA3709A836B62333FA5EDDEDFF216A117E956B9C5106E5EB23184AD3573D8A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpowder_magazine_405%2F3e13aca5b9063c0df3ec75733cca631e" alt="" /></p>A brown bear took a swipe at a mountain biker near Anchorage, last weekend.]]></description>
             <link>https://www.yahoo.com/news/world/articles/brown-bear-attacks-mountain-biker-191408232.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/brown-bear-attacks-mountain-biker-191408232.html</guid>
-            <dc:creator><![CDATA[Powder Magazine]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/423545B58FB1BB88D50D43E87014681087F759C114C914EA927CED589D0B2841/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc59c7bb614ab63ebfadca42503d83a1b" alt="" /></p>A British actress who appeared in EastEnders has been arrested after allegedly trying to smuggle meth into Australia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eastenders-actress-arrested-trying-smuggle-190559115.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eastenders-actress-arrested-trying-smuggle-190559115.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +146,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA65B324EDDF92F98C00D14B748A6661C4D03C779F3CCFC5135ADDC0173C4738/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fbb2b9de91784d84081f9f44ff81a54ee" alt="" /></p>The volunteer search organization spent days combing through a remote area roughly 70 miles from her Tucson home.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mexican-search-group-finds-25-181725917.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexican-search-group-finds-25-181725917.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Thu, 18 Jun 2026 22:28:48 GMT</pubDate>
         </item>
         <item>
@@ -6987,55 +7031,6 @@ Founded in Venezuela, Tren de Aragua has been designated a terrorist organizatio
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBFB87583132596A1020B8D17E6FEEBC0E5D4D330DA3654C493D7994C25A6318/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc6d654c7c5f9b7b7e9914a115d4475f4" alt="" /></p>Pakistan, which has been mediating in the conflict between the United States and Iran, said on Saturday that the finalization of a peace agreement is expected within the next 24 hours, with Prime Minister Shehbaz Sharif saying the two sides are "closer to a peace deal than ever before. " In a post on X, Sharif wrote that Pakistan is preparing for the electronic signing of the agreement, which should take place after the deal is finalized.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pakistan-says-us-iran-deal-115639032.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-says-us-iran-deal-115639032.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: Trooping the Colour marks King's official birthday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/069A7DCFDB817C45403B9931E336F4F9829354E4D069402E66CFFD2A50AAA5F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F834389537e7ce1c5fe8b589d02bbbb96" alt="" /></p>The King and Queen were cheered on as they rode along The Mall towards Horseguard's Parade.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pictures-trooping-colour-marks-kings-115133752.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pictures-trooping-colour-marks-kings-115133752.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Helicopter Tail Failure Sends Pilot and Passenger Tumbling in Wild Changzhou Emergency Landing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6FC2D528B848D10EAED27732907938D8082C9070664BDF3DCEA65AAAB07A829D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F61cd4e4345adda28995922d5e5b7daf9" alt="" /></p>A dramatic piece of cockpit footage out of China is making the rounds this week, and it’s the kind of video that reminds you why test pilots get paid what they do. On June 11, ... Read more]]></description>
-            <link>https://www.yahoo.com/news/world/articles/helicopter-tail-failure-sends-pilot-114643384.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/helicopter-tail-failure-sends-pilot-114643384.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF95A1CCEE871F745E56CE85B7B70EB26EB388D59E3F53633D78AD5FD8977725/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F34eaccaccfa6884eb4e6860e5e698458" alt="" /></p>A Ukrainian drone attack killed one person and injured three in Russia’s southern Krasnodar region, local officials said Saturday, as part of Kyiv's campaign of strikes on military and energy targets deep inside Russia.  Drone debris sparked a fire at a sea terminal, local Gov. Veniamin Kondratyev said.  Ukraine’s General Staff did not comment on the Krasnodar strike Saturday, but said that its forces had hit an oil preparation and pumping station overnight in Russia’s Volgograd region, as well as Russian-occupied areas in Ukraine's Donetsk and Zaporizhzhia regions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukrainian-drone-strike-kills-1-113900552.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-drone-strike-kills-1-113900552.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five Indian air force staff killed as transport plane crashes in Assam]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EAD8265AE364A814062DE6908FBCC79B876071CF2522B585C8ADE439A7D9D473/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc20d4400bfd9de9c1821ea895c03a8c6" alt="" /></p>Antonov An-32 transport plane crashed near Assam’s Jorhat region, air forces says.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/five-indian-air-force-staff-112931340.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-indian-air-force-staff-112931340.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK royals mark king's official birthday with Trooping the Colour event]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/554AB4FB6C3AAC014405C5254E780F23279373E55C1B541755CA85904524645C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4aed5e90c47bbbb02ce9f926dc31ec6b" alt="" /></p>Britain's King Charles has celebrated his official birthday with a ceremony showcasing the British Army’s ceremonial prowess. Charles took part in the famous Trooping the Colour event where military pomp and pageantry were on display in the heart of the capital.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-royals-mark-kings-official-112625428.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-royals-mark-kings-official-112625428.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A top Ukrainian interceptor drone maker learned that faster isn't always better when hunting Russian Shaheds]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30AADD1D7E8ED6A5912AF65D96EC5132DB8439EBE98B2D719E4150AD87C49AA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fe38fe7958d5c9c22944480f6512da4d9" alt="" /></p>Wild Hornets, which is behind the popular Sting interceptor drone, scaled back the speed in favor of loitering time.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/top-ukrainian-interceptor-drone-maker-111401830.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/top-ukrainian-interceptor-drone-maker-111401830.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What we know about a possible deal to end the Iran war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/070E53E3CDFEA00AA9CE3BD5CB7996A1034B525DB052AFE715D5448C15CEC2F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fda1fe90f3a3606062c615b2a60f63eac" alt="" /></p>The United States and Iran appear close to a deal to end the war and open the Strait of Hormuz.  Pakistan’s Prime Minister Shehbaz Sharif said Saturday that a deal aimed at ending the war in the Middle East is closer than “ever before” and expected to be finalized within 24 hours.  The apparent breakthrough in negotiations comes after Iran exchanged fire with the U.S. and Israel over three days this week, threatening to push the region into a full-scale war.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/know-possible-deal-end-iran-110813925.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/know-possible-deal-end-iran-110813925.html</guid>
             <pubDate>Sat, 13 Jun 2026 12:20:45 GMT</pubDate>
         </item>
     </channel>
