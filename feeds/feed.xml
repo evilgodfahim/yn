@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 22:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 00:02:44 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tourist dead after massive fire breaks out at Dominican Republic resort: Officials]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/092DA94AAD0087576CC6C17B18A599E231152CD2FB7E1FF674F95C656FEEC460/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F98e55e04bdc6c2c49be01442d6c805d8" alt="" /></p>A woman from Italy was killed in the blaze, officials said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourist-dead-massive-fire-breaks-230443215.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-dead-massive-fire-breaks-230443215.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands of UK criminals hit with World Cup drinking ban: ‘One slip up could send them to jail’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92A7BC678CD9BD0AA00C7D1BA520C3B9195D59313EE98354C094F6AC1ED7FCE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F994becbd662497d774136070c35f27e7" alt="" /></p>The ban will be enforced through hi-tech ankle tags, the Ministry of Justice has said]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-uk-criminals-hit-world-230100286.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-uk-criminals-hit-world-230100286.html</guid>
+            <dc:creator><![CDATA[The Independent]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two-train crash leaves at least 1 dead, 89 injured as emergency crews rush to chaotic scene]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14938D3B60FBE21EE10BC5D914577816FE36AFAA27D9142F26EE9D7ABF9E7C57/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6be412971282d0785911d6275636361f" alt="" /></p>Two trains crashed into each other near Bedford, England, with an ambulance service confirming at least 1 death and over 80 people injured.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-train-crash-leaves-least-213407138.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-train-crash-leaves-least-213407138.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion - Frontlines with Robert Sherman: Strait of Hormuz feels tense and uncertain]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7DB0140E74BCF0F374B7D09FFD2A16DC37D3545205DB26AA0750468A4565CCF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F272249458b3a0b5e7c982057d4e09ec4" alt="" /></p>As the announcement came the Strait of Hormuz would reopen, my producer and I found ourselves in the middle of the waterway.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/opinion-frontlines-robert-sherman-strait-211925352.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/opinion-frontlines-robert-sherman-strait-211925352.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strait of Hormuz feels tense and uncertain as peace deal takes hold]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8EDB1546220236E4FABF1C5981375F688454A0761C42CFE69D15072BADB41A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F577a1c080c74b76764fcf22168b8e9b5" alt="" /></p>The Strait of Hormuz. A battlefield. A point of leverage. A geographic bend whose name has now found its way to kitchen tables across the globe. Since the early days of this war, few captains have dared cross it ever since the Islamic Revolutionary Guard Corps announced it was closed. There have been steep consequences…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/strait-hormuz-feels-tense-uncertain-210736273.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strait-hormuz-feels-tense-uncertain-210736273.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Passenger trains collide in England, multiple people seriously injured]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F4D75D4C92D9CEA98D51AEF554394B7FCE7B7CB9574467F686F7586CD65D64C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F33396492a825241cbbae59f26bf44e95" alt="" /></p>Two passenger trains collided north of London on Friday, snaring commutes as several train lines were closed while emergency services responded.]]></description>
             <link>https://www.yahoo.com/news/world/articles/passenger-trains-collide-england-multiple-221959781.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/passenger-trains-collide-england-multiple-221959781.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE2C4EF98A757D0A684D44ABFDBD440FAAF4BA68270CE19229D1A135A194942/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fd96cd2cabd50fb53616e779a6d5adf20" alt="" /></p>At least one person was killed and dozens more were injured after two trains collided north of London on Friday, British officials said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/emergency-services-respond-two-trains-190045651.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/emergency-services-respond-two-trains-190045651.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9229F6451A0C0C7F0D93B4280DFCEAAD7A8B55F57B7D33B8AD2349EF62AF94C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_times_968%2F25616b8b9717adbd3353ea04a2309ffc" alt="" /></p>The first ever deployment of U.S. Marine Corps F-35B Lightning IIs to Finland proved to be a memorable one.]]></description>
             <link>https://www.yahoo.com/news/world/articles/highway-patrol-us-marine-f-220221297.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/highway-patrol-us-marine-f-220221297.html</guid>
-            <dc:creator><![CDATA[Military Times]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/709C049E7512A9D6D2261C90354C7B6E237B04992EE2F9A41A83D3E2BD71B34E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd2e9337fd2acab3de0f5df02ca7eae2a" alt="" /></p>The revolution was televised -- but many Cubans missed it because they had no electricity.Mandao has been "in survival mode for several months," she said, with cascading power cuts braking home deliveries by disrupting mobile phone signals and leaving delivery drivers without power for their electric motorbikes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-cubans-welcome-reforms-exiles-220216361.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-cubans-welcome-reforms-exiles-220216361.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB3B1B8EEB5E2F827F2E32857F2700269D89D8088A19D48D758A8E443B86B173/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3784ed6010b78af412aae0d2d1ba6820" alt="" /></p>KINSHASA, June 19 () - The number ‌of confirmed ‌Ebola cases in ​Democratic Republic of Congo has risen to 933, ‌including ⁠245 deaths, the country's ⁠health minister said on ​Friday. Speaking to ​reporters ​in Ituri ‌province, where the first cases of the ongoing outbreak were ‌reported, Samuel ​Roger ​Kamba ​said 80 ‌recovered patients had ​been ​discharged from Ebola treatment ​centres.]]></description>
             <link>https://www.yahoo.com/news/world/articles/congo-says-933-ebola-cases-220214827.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-933-ebola-cases-220214827.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/143542059EECD4884A83FCFD5F59144835A699DAF2789E4E0A2E628401C66C82/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc6fb1b8391b66f536b9bb82e8f58a2d1" alt="" /></p>A full-sized model celebrates Henry Bell's Comet, built more than 200 years ago in Port Glasgow.]]></description>
             <link>https://www.yahoo.com/news/world/articles/replica-unveiled-clydebuilt-ship-changed-220009141.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/replica-unveiled-clydebuilt-ship-changed-220009141.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DA9A9B1C6ED8A8671339F60A7A5B25AD5B4463F0622C9F213B04152EA5EB221/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbd73a83ce2e643afc2a728ee97004159" alt="" /></p>On Friday, officials said Israel and Hezbollah agreed to stop attacking each other, raising fresh hopes that the conflict could ease after repeated ceasefires failed to hold.  In the coastal city of Tyre, after a U.S.-Iran preliminary deal to end the war in the region was signed, residents returned to neighborhoods reduced to rubble by Israeli strikes.  Apartment buildings stand gutted, streets are lined with debris, and families are beginning to assess the damage left behind.]]></description>
             <link>https://www.yahoo.com/news/world/articles/photos-show-lebanons-shattered-south-203119844.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-show-lebanons-shattered-south-203119844.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +102,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1802B012F276AD21CE6E333099B4A49BB31F4961C7AC86E73535862C9B6402D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F74fd9e57f27c44f6ec73f9e6a96b9476" alt="" /></p>The move comes after Zelensky caused outrage by renaming an army unit after the Ukrainian Insurgent Army (UPA), nationalists who massacred Poles in World War Two.]]></description>
             <link>https://www.yahoo.com/news/world/articles/poland-strips-ukraine-zelensky-top-193928337.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-strips-ukraine-zelensky-top-193928337.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
         </item>
         <item>
@@ -6995,41 +7027,6 @@ Among the other programmes sponsored by the government is "New Breath", a realit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8365313AC1F8576F1F1350BE3B8B6EEA78E5CADFE6BA5930DFB31DC379A1F53F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F18caab59b76af3193f1c68e3edab2f37" alt="" /></p>Many settled in Zimbabwe’s fertile Eastern Highlands after drought left their home areas unable to support farming.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zimbabwe-climate-migrants-fear-eviction-005432674.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zimbabwe-climate-migrants-fear-eviction-005432674.html</guid>
-            <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European leaders ready for mission in Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C325E1A968F3669AF72CCCB37AF4EB9A2A9A6A1A6D669D23E683B7ABCC8AC7CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F464ac4da1b09e56f0ff7359e446ddcbd" alt="" /></p>Germany, France, the United Kingdom and Italy have said they are committed to supporting the reopening of the Strait of Hormuz following the announcement of an agreement between the United States and Iran. The urgent reopening of the strait with "unconditional and unrestricted freedom of navigation is essential," German Chancellor Friedrich Merz, French President Emmanuel Macron, British Prime Minister Keir Starmer and Italian Prime Minister Giorgia Meloni said in a joint statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/european-leaders-ready-mission-strait-004128455.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/european-leaders-ready-mission-strait-004128455.html</guid>
-            <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oil and gas supplies could take months to return to normal after Iran deal, energy experts say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/17A0B9A0136D7279DEB16EA1886830CC043F3F097717DD74C291F7F37ABA9104/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd34a18bc4060d408944099568c665552" alt="" /></p>High oil and gasoline prices and energy supply problems won't be solved overnight, despite an agreement to end the Iran war and open the Strait of Hormuz announced Sunday.  The slow pace of the process of shipping and refining crude oil, and doubts about the security of traveling through the strait mean the effect won't be seen immediately, they said.  Ships loaded with crude oil have been stranded in the Persian Gulf for more than three months, unable to safely travel through the waterway, through which about a fifth of the world’s oil and gasoline supplies typically traveled before the war began.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/oil-gas-supplies-could-months-235253125.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oil-gas-supplies-could-months-235253125.html</guid>
-            <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[American singer Oliver Tree listed aboard helicopter involved in fatal midair collision in Brazil]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50AC4F2D26349F6F10B1D25386FA2AFD33221323D5420D050A6A97F5ABFD8EB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fcf6d2bd6ac36fa68d0625eb40c13484e" alt="" /></p>Two helicopters collided over Rio de Janeiro on Sunday morning and crashed in the city’s western zone, killing all six people aboard, firefighters said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/american-singer-oliver-tree-listed-234233049.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/american-singer-oliver-tree-listed-234233049.html</guid>
-            <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Berlin air show ILA closes with record attendance of 110,000 visitors]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36F972173B8596F5156072772E26C94EE7E4FE3DC9293D2CDF3FB10100757A2A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F15464e66dcaa1e74f6994aaf0b52ee15" alt="" /></p>The International Aerospace Exhibition in Berlin (ILA Berlin) has closed with a rise in visitor numbers, with around 110,000 attendees coming to the show at BER airport, organizers said on Sunday. Two years ago, the event attracted 95,000 visitors.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/berlin-air-show-ila-closes-234125867.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-air-show-ila-closes-234125867.html</guid>
-            <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[G7 protest turns from carnival to violent stand-off]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/61D73DDE7640EBDE027219D6D124C61211DDA8E8718596180508AE6160BDB84E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7f09932e32200c3be122ecc3dc206f7c" alt="" /></p>An anti-G7 protest in Geneva began in a carnival atmosphere on Sunday before descending into violence, with building facades smashed in and police firing tear gas at masked youths.As the march returned to the park where it began, tram stops were shattered, and flares were hurled towards the police, who responded with several rounds of tear gas.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/g7-protest-turns-carnival-violent-215606977.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/g7-protest-turns-carnival-violent-215606977.html</guid>
             <pubDate>Mon, 15 Jun 2026 02:55:52 GMT</pubDate>
         </item>
     </channel>
