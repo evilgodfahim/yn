@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 18:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 20:10:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ramiro Valdes, lauded as hero of Cuban revolution, dies at 94]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A9B0E85AB9DB7EEBB419911CCBF39B00B59A580B65A238DC7A832F4F76926D40/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fed5631d2cdcc9704380278440f5e51b1" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/ramiro-valdes-lauded-hero-cuban-184307599.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/ramiro-valdes-lauded-hero-cuban-184307599.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ramiro Valdes, one of Cuba’s last living revolutionary figures, dies at 94]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4263A88EAF222F4F686B0BDC47C2E2F641BCCA0DD4B668FDAC5B91D4B6A1A318/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc074b0ef969205c17cef801f23f70963" alt="" /></p>Valdes was close ally of Castro brothers and helped found Cuba’s notorious intelligence apparatus.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ramiro-valdes-one-cuba-last-195103914.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ramiro-valdes-one-cuba-last-195103914.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hezbollah chief Naim Qassem demands Israel withdraw from Lebanon, says 'no safe zone' for IDF]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4530107069DF7934A1150B91A35FA13190932282F13B80FBE75A4C7C96DDAE77/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff434ba6b1dc2c806ef0f0464cf5a8e86" alt="" /></p>Qassem said Israel was seeking to deceive negotiators and accused the IDF of war crimes. Hezbollah Secretary-General Naim Qassem said on Sunday that Israel "must leave Lebanon," according to Iran's Islamic Revolutionary Guard Corps-affiliated Tasnim News Agency.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hezbollah-chief-naim-qassem-demands-194315975.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hezbollah-chief-naim-qassem-demands-194315975.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia cuts fuel sales to public in Crimea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC5A9652693DACF041267E0D56BE8FE794FCC071367466E514BDFAC26A833E3D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ffc63fc68fd02a09c3b5a9058c343f880" alt="" /></p>The Russian government on Sunday halted fuel sales to civilians and businesses not considered vital to functioning and security in Crimea.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-cuts-fuel-sales-public-190836534.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-cuts-fuel-sales-public-190836534.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[African farmers are paying by the kilo for solar cold rooms to keep harvests from rotting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1439C3ECC41F007C1AC6CFB0A2EE11E50D6070325DCF605B71A51CFC5EEE665D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F267b9f972260a59fe83aabe5ae9e4a79" alt="" /></p>That can keep produce marketable for weeks instead of only days.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/african-farmers-paying-kilo-solar-185400326.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/african-farmers-paying-kilo-solar-185400326.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ubisoft co-founder Claude Guillemot dies in plane crash]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D385AEB6BE664C50414AC4382858D824595C912A313A48227B041243083D6BD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F2d913c128f5d81d508d3ce4797c4864e" alt="" /></p>Claude Guillemot, who founded Ubisoft with his four brothers, has died at the age of 69.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ubisoft-co-founder-claude-guillemot-183431845.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ubisoft-co-founder-claude-guillemot-183431845.html</guid>
+            <dc:creator><![CDATA[TechCrunch]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Skydiver, 21, Died After He Was ‘Hit in the Neck' by Plane Wing Because Pilot Didn’t Know He Was Going to Jump]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B144AFD40564A2BA463DA1498B648B0F28A4ACD23C3A1C5EB346D0EA8B4A8BD7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc4b5e88c720b5d15a22f7ce155b7135a" alt="" /></p>Officials have since suspended the organization that operated the jump through June 30]]></description>
+            <link>https://www.yahoo.com/news/world/articles/skydiver-21-died-hit-neck-182554469.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/skydiver-21-died-hit-neck-182554469.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Serbia deploy a ‘sonic weapon’ against protestors? The truth may be rather more complex]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8EF91EB804E9FA70CCC76E88CEDBAD33CB037AC37BC56001BCE8035024A2B9B8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F37c2830ede1524048614142b28a22394" alt="" /></p>In March last year, the world was presented with a simple morality play.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/did-serbia-deploy-sonic-weapon-180724795.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/did-serbia-deploy-sonic-weapon-180724795.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 21 Jun 2026 20:10:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Three minors arrested for attack on worshippers at Little Western Wall]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31447ACB678214C871D85825FDD44E8B520CCB4CE65E2C0450ADDFFBE8A1497A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd3f94af8d147120f5d9ae7fbee0b7115" alt="" /></p>The incident was observed by nearby surveillance systems, prompting an arrest operation. The suspects were detained and taken in for questioning, according to a police statement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/three-minors-arrested-attack-worshippers-174810227.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-minors-arrested-attack-worshippers-174810227.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92FE453FE18008264BBF74676C6AB3DC364AF78C6410364E9F3EB989A4707E70/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3a38018bb0450d0808c631ab3ebd7295" alt="" /></p>Ethiopia's ruling Prosperity Party (PP) of Prime Minister Abiy Ahmed has come out on top in the country's parliamentary elections held three weeks ago, according to official results published on Sunday. The PP garnered 438 of the 501 seats, the national electoral authority said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ethiopias-ruling-party-secures-landslide-174123378.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ethiopias-ruling-party-secures-landslide-174123378.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7FE48EFA3253CAB1B87AA54FFC02B3A7EAC0B79F2F5C6960CA3678D3DDD93113/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fb2beb70efa58650cab31d452ef9b7ff6" alt="" /></p>The four terrorists, who were then residents of Baka al-Gharbiya, kidnapped Tamam in August 1984 while he was waiting for a ride near Netanya. Israel filed a civil lawsuit on Thursday in Haifa Magistrate’s Court for about NIS 2m.]]></description>
             <link>https://www.yahoo.com/news/world/articles/state-israel-sues-four-terrorists-173538202.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/state-israel-sues-four-terrorists-173538202.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01B7B295C89669C0AEA5B0337F2610E4E2708C1F6BAF48B47559878DA4DFA7A9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7649c08a1da521d8bb67cbf66a2e2478" alt="" /></p>A speech by German Defence Minister Boris Pistorius at a public tribute marking Veterans Day was disrupted by anti-war protesters on Sunday, as the country's rearmament continues to stoke a deep-seated post-war scepticism of the military in parts of the population. Witnesses at the event said police removed around 12 demonstrators, dressed in what looked like blood-stained T-shirts, after they interrupted the ceremony at the Reichstag building in Berlin, chanting slogans like "Never again conscr]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-rearmament-sparks-anti-war-172626380.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-rearmament-sparks-anti-war-172626380.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B55673E451D0BF33C65A5CF13E8B8E87BC5B4E54F0C325925BDECBC7A7547E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fa376b2bd2bb84565010935343d3b025f" alt="" /></p>As Israel expands operations in southern Lebanon, debate is growing inside the defense establishment over whether battlefield gains are translating into any real strategic shift. There is no question that Israel and the IDF had to respond and respond strongly when Hezbollah attacked the Jewish state on March 2, two days after Israel started attacking Iran.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-soldiers-lebanon-now-dying-172327802.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-soldiers-lebanon-now-dying-172327802.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40127B389968D46B2C9E9A976CD1EAA04AD75C95726E1C61F44F6CEE7DA0920B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2Fa7b4af47eac5faf3330ebb1f2c341b7e" alt="" /></p>Two 11-year-old boys in Luskville, Quebec, are being credited with helping stop a patio fire before it spread deeper into a home. Daxton Crête and Philippe Décary had just stepped off the school bus on June 3 when they noticed black smoke rising from behind a row of trees, according to the Pontiac Journal. The …]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-11-old-boys-spotted-171522395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-11-old-boys-spotted-171522395.html</guid>
-            <dc:creator><![CDATA[Backyard Garden Lover]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/47DD3DDF95D1B2795E534D869857B7E8C7D55027B9F1AAEED1250F349E0DBAA0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F806c41a408d5cecaef8a95b749489367" alt="" /></p>French police issued a ban on certain alcoholic drinks Sunday amid unusually high temperatures coinciding with one Paris' largest street parties.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-public-drinking-amid-171317657.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-public-drinking-amid-171317657.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +126,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5BBA6CB7DBEC1522FCE49D74F32FB10A696850829B5A59C14C97F990DC2199D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd6075ed0ba78961f38aafdb103ce277b" alt="" /></p>Nobel Peace Prize winner PM Abiy Ahmed will stay in power, as analysts warn of renewed conflicts in Ethiopia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ethiopian-prime-minister-party-easily-170752653.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ethiopian-prime-minister-party-easily-170752653.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +133,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68BC47FFC4DDB1F2D7B2DD895439788DAF2105ACB114F160A816D2F906765F11/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0826c297ecfba55ca3f7b958a4eacb63" alt="" /></p>The Archbishop of Canterbury has told Palestinians that she will use her role “to seek the peace you desire and the freedom you deserve”.]]></description>
             <link>https://www.yahoo.com/news/world/articles/archbishop-canterbury-pledges-free-palestinians-163502414.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/archbishop-canterbury-pledges-free-palestinians-163502414.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +140,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFAEE3C6FCA0953182B53CC67C109678FD020DA8F05E22FD5171679468F9F161/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fe0c10a3ed2d3122726edf0932d710068" alt="" /></p>Bolivia has begun a military crackdown on Left-wing protesters after weeks of action that have brought the country to its knees.]]></description>
             <link>https://www.yahoo.com/news/world/articles/bolivia-sends-masked-soldiers-put-160653714.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bolivia-sends-masked-soldiers-put-160653714.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +147,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DA8C190B077B2427520641E7C77FFC9F797E545B3DC8B56775DA8478C7ED27D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa5ffea78ae4ace57e7063ee12d4619f5" alt="" /></p>The Hezbollah tunnel that runs under the small hilltop town of Majdal Zoun in southern Lebanon bears little resemblance to the crude, hand-dug passages of the Gaza underground.]]></description>
             <link>https://www.yahoo.com/news/world/articles/inside-hezbollah-tunnels-where-peace-160044643.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-hezbollah-tunnels-where-peace-160044643.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +154,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED4BDA13370ECBF1426A8343B2C0D57258B25135B7E97E475FABE333BFBB0B8C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F0beab00a20331a8b0720e7fac3c61973" alt="" /></p>A Mississippi pastor preached from the Bible for 96 hours, unofficially surpassing the Guinness World Record for individual marathon speaking.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mississippi-pastor-sets-unofficial-world-150051500.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mississippi-pastor-sets-unofficial-world-150051500.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 18:20:59 GMT</pubDate>
         </item>
         <item>
@@ -6973,62 +7025,6 @@ Friday's signing will not be the the first time world issues have been thrashed 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/793428CB62378365C192FCE52DFF066C49698E7CFFE09ABB4776A373EC87DF39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9bc02d2ad49cdfeda79c69ab096888b2" alt="" /></p>Doctors Without Borders (MSF) has dismissed 18 members of staff because of allegations of sexual abuse and exploitation of Sudanese refugees, a spokeswoman for the Paris-based aid group told dpa on Tuesday. The incidents reportedly took place in eastern Chad, MSF said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/msf-fires-18-staff-over-115626499.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/msf-fires-18-staff-over-115626499.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Coach crashes into railway underpass in the Czech Republic]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50696F9E453248E455F3DA698F82654617695C18EE8CD3D4E69CC97D5C5E7516/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F72f73d8254ffe25bf8f8a05fd6fd4d9f" alt="" /></p>A tour bus has crashed into a bridge in the Czech Republic and became stuck underneath it. Four people were treated at the scene for minor injuries, emergency services said on Tuesday in a post on X.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/coach-crashes-railway-underpass-czech-115626480.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/coach-crashes-railway-underpass-czech-115626480.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India Temporarily Blocks Telegram, Claiming It Was Done To Prevent Exam Fraud]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/55CE7AB3BA4BE11B91BC42EF4697B4140C7E930FB50EDE9D0E7BB3527311EA7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fengadget_100%2Fc1edfd66a62da0c0f4106f6ab6387ef9" alt="" /></p>India has temporarily blocked Telegram, claiming it's to prevent cheating on a crucial entrance exam.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/india-temporarily-blocks-telegram-claiming-115502266.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/india-temporarily-blocks-telegram-claiming-115502266.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli satellites photographed Iran over 50,000 times during Operation Roaring Lion]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6516FD4309FDB2FC30869620EBD251EA1EB336E4AA8F55251F64ABEAFF28BCA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fb652c4531351e0dadef7b1dcd5b2fcb1" alt="" /></p>This statistic would mean that Israeli satellites were taking well over 1,000 photos per day of the Islamic Republic during the war. Israeli satellites photographed Iran a jaw-dropping over 50,000 times during the around 40-day Operation Roaring Lion, The Jerusalem Post has learned.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-satellites-photographed-iran-over-114901010.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-satellites-photographed-iran-over-114901010.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mine Threat May Delay Hormuz Reopening Weeks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C4C44635FF422DEC02C039F6D4589BBFC41B7F7F8081E72F54C03C6CB03FDDA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F6f1ea3e68229dd560f32e638c128c7f3" alt="" /></p>Mine Threat May Delay Hormuz Reopening Weeks]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mine-threat-may-delay-hormuz-114724557.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mine-threat-may-delay-hormuz-114724557.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Excellent' water at most European beaches, study says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33C704B61C9AE0861F25D88F021548FDCB08631E93215CA1C83E5F69C58489C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff60db4cf1b3ee3a592e2adf26137c0bd" alt="" /></p>The vast majority of Europe's beaches offer "excellent" water quality for swimming, the EU environment agency said on Tuesday ahead of the summer season, with coastal nations and inland Austria topping the list."This summer we can all reap the benefits of solid implementation of EU bathing water rules, which have made a vast majority of our bathing waters clean enough to swim in," the director of the European Environment Agency (EEA) Leena Yla-Mononen said in a report published Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/excellent-water-most-european-beaches-114359718.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/excellent-water-most-european-beaches-114359718.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German president says Europe is worried over tensions in the disputed South China Sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E4C4C5CF375009242654D610E3E77471F75325371DB7F4535CBC72245509740/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F01e4557ed3d63cc77b0a4fb23ca33476" alt="" /></p>German President Frank-Walter Steinmeier said in the Philippines on Tuesday that Europe is worried over tensions in the disputed South China Sea where a major flare-out could endanger freedom of navigation as has happened in the Strait of Hormuz.  In a joint appearance with Philippine President Ferdinand Marcos Jr. in Manila, where Steinmeier is on a state visit, the German president referenced the blockade of the Hormuz as a result of the Iran war and said European leaders were concerned about continuing territorial confrontations in the South China Sea, particularly between the Philippines and China.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-president-says-europe-worried-114319318.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-president-says-europe-worried-114319318.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[I’m a midwife in Afghanistan. Here’s how I help women access healthcare]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/138D0ED1F5699776830D3413EE11300CC4A83F60C90F5006914727F0FDCB6D04/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F123cb544a21263b72d0165a846caa816" alt="" /></p>For women in Afghanistan, accessing healthcare is extremely challenging. We are often required to be accompanied by a male chaperone to act as a mahram, or guardian when leaving our homes, and we are not permitted to receive care from male doctors, particularly when it comes to sexual and reproductive health.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/m-midwife-afghanistan-help-women-114314465.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/m-midwife-afghanistan-help-women-114314465.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[India orders temporary ban on Telegram over exam fraud concerns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE9A4B37A4671A7C3FD52DA817E2EAA40A0ABE74B100C1500E80FEEA42A27ED0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F9a15a855606a4af63b22c2803e0a7ed7" alt="" /></p>The restrictions include a nationwide ban on Telegram until June 22 and a requirement to disable the app's message editing feature.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/india-orders-temporary-ban-telegram-113335039.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/india-orders-temporary-ban-telegram-113335039.html</guid>
             <pubDate>Tue, 16 Jun 2026 13:24:03 GMT</pubDate>
         </item>
     </channel>
