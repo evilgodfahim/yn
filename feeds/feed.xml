@@ -4,16 +4,87 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 21:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 22:43:54 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[North Korea should build two warships a year in next five years, Kim says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F13EA4412BD0804B2232DFA42469A305A5208D14367D1263EB3CF568CEF84EB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1866decb4e975093919cb4b16cf29602" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/north-korea-build-two-warships-221946387.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/north-korea-build-two-warships-221946387.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Countries grapple with China’s robotics lead]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7370EE86D1645A9EC12C076652ED332467F923FF870BBD987D6D84455F4370CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fa91541037234dd385cc818ac95acba3f" alt="" /></p>China’s lead in the embodied AI race is prompting major economies to adopt starkly different responses.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/countries-grapple-china-robotics-lead-222717202.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/countries-grapple-china-robotics-lead-222717202.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany rail network comes to complete halt nationwide due to IT malfunction]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B9E1CF0593926455770ED92B75699BB8BB9A083187A977FDF81559980EE10FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0f93b5168a6693b848446748708295b4" alt="" /></p>Rail company Deutsche Bahn has paused train services across the country due to a nationwide IT disruption.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-rail-network-comes-complete-221443688.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-rail-network-comes-complete-221443688.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspect in Fatal Montreal Shooting Left Behind Manifesto Linked to Incel Ideology]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B12F5A5AD2239A8F1AEC2F90BEE25561571A40CBAB8CEE68C1F34794CE52194/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffaf2b91a5c32db788b72105440e35836" alt="" /></p>The purported 104-page document allegedly linked the suspect to incel ideology, advocated terror and listed pornography companies among its targets]]></description>
+            <link>https://www.yahoo.com/news/world/articles/suspect-fatal-montreal-shooting-left-213814490.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspect-fatal-montreal-shooting-left-213814490.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trains halted across Germany because of communication system problem]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0744113821175B9BDD32190CB3805CAA85B6998799DBB8E7F6FEF01AFAA83C33/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffd541bfff4de239a26245f75f1883374" alt="" /></p>A problem with a communications system forced Germany’s railway system to halt all trains late Tuesday, leaving passengers stranded across the country.  The main national railway operator, Deutsche Bahn, said all trains were being held at stations because of a nationwide problem with the GSM-R digital communication system, which is used for internal communication on the railway network.  Deutsche Bahn said in a statement at midnight, 1 1/2 hours after it first announced the problem, that the cause had been identified, but didn't specify what it was.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/trains-halted-across-germany-because-212014706.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trains-halted-across-germany-because-212014706.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch court keeps Greenpeace case alive after Energy Transfer bid to toss it fails]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B76686F2C74E79707461C7F0809D6118AF2D55D88548863D9E763679B4BD08FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ffb650f591e79a0c474e81e444f92b3eb" alt="" /></p>"There may be an outright conflict between the two courts in the two cases, or there may not."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dutch-court-keeps-greenpeace-case-210800961.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dutch-court-keeps-greenpeace-case-210800961.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN starts evacuating 11,000 stranded sailors from Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F78507CF6718F0570912E616E3B60706E08C271562C7FA896DA99B97B88F577/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdcf9c0b509836f3c736b114a56ed944f" alt="" /></p>Following the start of the US-Israel war on Iran on February 28, Tehran had effectively closed off the vital waterway.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-starts-evacuating-11-000-210032657.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-starts-evacuating-11-000-210032657.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cubans bid farewell to revolution hero Valdes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B89C8BA89AA8960F44F1FBD9506B2F59A6708A5F948C570F81A0E31FA2951AA5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8866ac80742b631ea5005114f37d016f" alt="" /></p>Ex-president Raul Castro on Tuesday led tributes to one of the last leaders of Cuba's 1959 revolution, former spy chief Ramiro Valdes, who died at the weekend.Raul Castro, 95, who was recently indicted by the United States over the 1996 downing of two civilian planes, led an honor guard at a memorial service for Valdes at the ministry of the armed forces in Havana.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cubans-bid-farewell-revolution-hero-205625616.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cubans-bid-farewell-revolution-hero-205625616.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel ‘behind cyber attack on Iranian banks’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68BC1D38AEEBD43489D0377EBBB454ED59A0AFDDFCBE4D37F48A69EB8CC19BD9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0cada3320739e38fd8a819fc0b7e6184" alt="" /></p>Four Iranian banks have been targeted in a cyber attack suspected to have been launched by Israel, after the US granted Tehran access to billions in frozen funds.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-behind-cyber-attack-iranian-202324000.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-behind-cyber-attack-iranian-202324000.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 23 Jun 2026 22:43:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Authorities Seize Over 300 Snakes from Man's Home After His Electricity Use Raises Suspicion]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B2021A1530ECF70D58D91AC46904F89E1C4F7F2F8DD4745C84289C8471A7803/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F908fc06ac0e63f2fdc92a03f8625049b" alt="" /></p>Police said the reptiles were found stacked in plastic containers in the man's apartment following an investigation into unusually high power consumption]]></description>
             <link>https://www.yahoo.com/news/world/articles/authorities-seize-over-300-snakes-210500916.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/authorities-seize-over-300-snakes-210500916.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +92,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C13F88BBFF72B3692E969E925A8B3F8773F63D1034727999FE69CDC61AB6503E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fceee081c8c44f29ca48c660abb408186" alt="" /></p>All of this was taking place just as Jerusalem and Beirut kicked off another round of direct talks in Washington addressing a wide range of issues. In two separate incidents on Tuesday afternoon, the IDF said that it had killed armed Hezbollah operatives approaching its positions in the Ali Taher Ridge, which is at the edge of Israel’s security zone.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-kills-hezbollah-operatives-two-205153028.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-kills-hezbollah-operatives-two-205153028.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +99,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/76A4656DB453A31982B18B3BEA65E53899149E359B598DDE9E1B30099A0A1121/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F06c7599b9c2702cb924552905ddd8d97" alt="" /></p>"Most heat action plans in India barely have a gender component."]]></description>
             <link>https://www.yahoo.com/news/world/articles/105-degree-heat-shuts-schools-204700266.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/105-degree-heat-shuts-schools-204700266.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/644ACA125FA5CEC7493B0783DEC9B3456695899BEF7E60BD8FB25B96427B24F9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fout_articles_481%2Fac53916427f8d6d324fb013f58449a7b" alt="" /></p>A manifesto written by the suspect lists adult film companies and actors as potential targets.]]></description>
             <link>https://www.yahoo.com/news/world/articles/3-dead-fatal-shooting-near-204051293.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/3-dead-fatal-shooting-near-204051293.html</guid>
-            <dc:creator><![CDATA[Out]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +113,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96088DD63B434BB08DD3A6B29AF6402BF4F94ABAE6BF75D0BC19D433FACC1805/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F9b7a13f3fa1c0a8d597b4e6c739e9aca" alt="" /></p>From families in Vietnam ordered to dig up ancestral graves for a Trump-branded golf resort, to France breeding millions of sterilized mosquitoes, to the week Washington abruptly locked the rest of the world out of America's most powerful AI, here's what the rest of the world has been watching while it barely registered in US headlines.]]></description>
             <link>https://www.yahoo.com/news/world/articles/people-talking-15-global-stories-202510318.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/people-talking-15-global-stories-202510318.html</guid>
-            <dc:creator><![CDATA[BuzzFeed]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +120,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BFEA0A0705047DC8198A6DAE9227D1358F8334B03829ABDE0CEBD2E44DE6DDC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F19a9429fd46e74a3b3f7d9a7f374bfd5" alt="" /></p>The Quebec coroner identified the alleged shooter as 25-year-old Seth Scott Hatfield, 25, of Lethbridge, Alberta]]></description>
             <link>https://www.yahoo.com/news/world/articles/video-shows-terrifying-moments-montreal-201344234.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-shows-terrifying-moments-montreal-201344234.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +127,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7849541CB2B209A14C98F0E7BDCACF6D1D0959C4659F04793B9B3BC801507E8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff453f32b2a87474a47cefdffe7e426ab" alt="" /></p>Local support appeared to matter. Some 69% of all respondents said they had a person or organization to turn to in an emergency, but the level varied significantly between groups.]]></description>
             <link>https://www.yahoo.com/news/world/articles/report-shows-many-migrant-workers-201340880.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/report-shows-many-migrant-workers-201340880.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +134,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B3E1BE15E9AF2BE0C355E2920B6867D65F2E303AF4064D3EBE9FB927E23E6793/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb52724ab935d4aca3933cb7d51dd0e51" alt="" /></p>The central German city of Halle has ordered the operator of a lido to withdraw a controversial entry rule that bars visitors who cannot demonstrate sufficient German-language comprehension, city spokesman Drago Bock said on Tuesday. Bock said the city had contacted the operator by phone and in writing, with the aim of reaching an agreed solution as quickly as possible.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-city-tells-lido-scrap-201134702.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-city-tells-lido-scrap-201134702.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +141,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B0AEA8AEB03ABEFBF092383D41BEB6184497EF93C5EDE4F8D730965B9D2F1E6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F00dd66625c45450b39b515f5a23dc0fe" alt="" /></p>The European Union and the Taliban met in Brussels on Tuesday to discuss the return of Afghans.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eu-meets-taliban-deportation-201120819.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-meets-taliban-deportation-201120819.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +148,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3AB378337218016D659819C2049BBE0D6C951451F0D7FB9C944DA66B14FBB13/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F703c69a4d9c7dc61380a458d68f4c643" alt="" /></p>Israel is targeting Palestinian children in its “ongoing genocide” in Gaza, United Nations investigators have claimed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/palestinian-children-targeted-continuing-genocide-200145835.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-children-targeted-continuing-genocide-200145835.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +155,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C02912D6D990D88C581EAB95752021A72FBBDB454EC7D31B8F1EBC9F7389133A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1be2f48247373d747eaec41528a163f0" alt="" /></p>The families of Anamika Samanta and Neelesh Kumar met for the first time last week ahead of their fall wedding]]></description>
             <link>https://www.yahoo.com/news/world/articles/bride-groom-were-planning-wedding-200132691.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bride-groom-were-planning-wedding-200132691.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +162,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8C719F1332C86B9D7690989E81A5507E74B77ED6F08F5948240C8EE9F774E2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7f9d777ba93211a9bca8a45398c81e26" alt="" /></p>A fire broke out at a warehouse belonging to Lebanon's Ministry of Telecommunications in Beirut on Tuesday, sending flames and thick plumes of black smoke into the air, witnesses said. The smell of burning plastic hung over the area as firefighters battled the blaze.]]></description>
             <link>https://www.yahoo.com/news/world/articles/major-fire-hits-telecom-ministry-195641990.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-fire-hits-telecom-ministry-195641990.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +169,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31E121AD15BEED00979F6AFC7250ED8CA3C0CE517BD3820551462875610F3932/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F43cf9853de75c5ad66385d43dcea23ed" alt="" /></p>No protest roadblocks remained standing in Bolivia on Tuesday, the government said, as it deployed the army to quell weeks-long demonstrations that had throttled roads nationwide.The embattled leader has held on so far, however, and on Saturday declared a state of emergency that allows him to deploy the army and outlaw demonstrations.]]></description>
             <link>https://www.yahoo.com/news/world/articles/bolivian-government-says-cleared-protest-194653178.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bolivian-government-says-cleared-protest-194653178.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +176,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C400E604A80FCE6612DE94A05EF273802782E3E3B8E98C6BE08BD325E2A7B744/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F939b55192991f830af3b2670da222118" alt="" /></p>A new challenge offers a reward to anyone who can develop a system to deny Russia use of its airfields.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nato-ukraine-turning-private-sector-194307700.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nato-ukraine-turning-private-sector-194307700.html</guid>
-            <dc:creator><![CDATA[TWZ]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +183,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5B62262D57A95AE08A2C2AF544D6DC896AD8E102B8883FD08489A1513AEE66FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fce8a8e6a53fb3aa92102b6a9262a4ca6" alt="" /></p>The central German city of Halle has ordered the operator of a lido to withdraw a controversial entry rule that bars visitors who cannot demonstrate sufficient German-language comprehension, city spokesman Drago Bock said on Tuesday. Bock said the city had contacted the operator by phone and in writing, with the aim of reaching an agreed solution as quickly as possible.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-city-tells-lido-scrap-194150326.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-city-tells-lido-scrap-194150326.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +190,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B63E995C7875665B9E588F3CBC56E9E88D2377B13A9017F0CA775AD1F93A813/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fblockspace_702%2F4f5fb2f1fdc0c1b2ccba5341e4645a3e" alt="" /></p>C40 Cities said 41 mayors launched a voluntary Global Urban Data Centres Pact at London Climate Action Week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/c40-cities-sign-onto-global-193748284.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/c40-cities-sign-onto-global-193748284.html</guid>
-            <dc:creator><![CDATA[Blockspace]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +197,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ECC0D2392F9EA34F1722CB64ECBC356E1A930775B86298F583F4ACC9E1B8D9BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F3132298117afe705e7181fa16a972bec" alt="" /></p>Japanese Emperor Naruhito and Empress Masako received a ceremonial welcome at the Royal Palace of Brussels as they began a state visit to Belgium.]]></description>
             <link>https://www.yahoo.com/news/world/articles/belgian-royals-roll-red-carpet-193208049.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/belgian-royals-roll-red-carpet-193208049.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +204,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C92CDFCE13C6F8D89320EB8AFBC5BF61A50931DFD287DB561C164C143A05EE68/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_opinion_764%2F9da88b2500827c020cbb0edc5933a86e" alt="" /></p>People of Biafra are Entitled to Self-Determination]]></description>
             <link>https://www.yahoo.com/news/world/articles/people-biafra-entitled-self-determination-191816310.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/people-biafra-entitled-self-determination-191816310.html</guid>
-            <dc:creator><![CDATA[Newsmax]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +211,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A82E0A8BCAFABE6031F54C09C7DDF4D2D6CBD3A2249A815BB8ABB7FD19A65A14/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fglobe_458%2Fd3ad90aea8ef283e14d30024a19cd0ca" alt="" /></p>Iranian singer Parastoo Ahmadi has been sentenced to 74 lashes for performing in a YouTube concert without a hijab — and social media users around the world are responding with outrage. Ahmadi streamed the virtual concert on her YouTube channel back in December 2024, but the Qom Provincial Criminal Court in Iran has now charged […]]]></description>
             <link>https://www.yahoo.com/news/world/articles/iranian-musicians-social-media-users-190913583.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-musicians-social-media-users-190913583.html</guid>
-            <dc:creator><![CDATA[Globe]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +218,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9A899C0ED6D11B54310EBBE6ED7F7C3C847315DDA686F9A1EC7C8279C6B40488/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fe42fd1dc8b7079b8c044ac148b6d1284" alt="" /></p>Italian police divers have discovered a stash of drugs hidden inside a sea cave accessible by a submerged tunnel on one of Italy’s popular summer island getaways.]]></description>
             <link>https://www.yahoo.com/news/world/articles/police-divers-discover-430k-cannabis-190258857.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-divers-discover-430k-cannabis-190258857.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +225,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1DB41006DD9DE381785BF67D14EAC75EE998884DFB4090F9F65FF9665A07320/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F598d4293d7f3e9fba09403ddccbe3617" alt="" /></p>One source described the Strike Eagle pilot seeing a “minefield of drones” in the skies over Iran, before their jet went down.]]></description>
             <link>https://www.yahoo.com/news/world/articles/jellyfish-drone-swarm-downed-f-190223895.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jellyfish-drone-swarm-downed-f-190223895.html</guid>
-            <dc:creator><![CDATA[TWZ]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +232,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BD573E9E9CB50109CDD8AD0B39CED3510B756FF4D8C4B36F948D3897A6FD7809/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F58486a3b7e81d322ae63882a8b947df1" alt="" /></p>Dozens of tourists were trapped Tuesday at a popular sunrise viewpoint in Rio de Janeiro as a gun battle broke out between police and drug traffickers in the neighborhood below them, the second such incident affecting visitors this year.Above the favela, tourists who had gone to watch the sunrise from the Dona Marta lookout -- which offers a panoramic view of the city -- were terrified by the gun battle.]]></description>
             <link>https://www.yahoo.com/news/world/articles/shootout-traps-tourists-rio-sunrise-181315545.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shootout-traps-tourists-rio-sunrise-181315545.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +239,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22F13E1946E5B827547536A3A80A38594281A14ABF57CBA53E37312641F2E7A3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fb6223af9d80046f8df187da2ac6c58c2" alt="" /></p>ROME, June 23 (Reuters) - Italy's Foreign Minister Antonio Tajani said on Tuesday two Italian pro-Palestinian campaigners detained in Libya had been released after spending about a month in custody.]]></description>
             <link>https://www.yahoo.com/news/world/articles/italy-announces-release-flotilla-activists-175808349.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/italy-announces-release-flotilla-activists-175808349.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +246,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6915DD10494846C71614FD06EB909A9185C26B4699F82488F9C9C07B4C10944A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8f8ce0b28d4dbd75cb1b6996069ba62e" alt="" /></p>BOGOTA, June 23 (Reuters) - Colombia's national registrar on Tuesday said a final count of votes in this weekend's presidential race differed in just 0.003% of ballots from an initial count that gave]]></description>
             <link>https://www.yahoo.com/news/world/articles/colombia-national-registrar-says-final-173538534.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-national-registrar-says-final-173538534.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +253,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F8151B55519A314D73AB255231B0B938C03FD9FB0F26C79ECBAF67E4968BF62/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F74878c064c0fb6a39021ec68fc2c14c1" alt="" /></p>The arrival of Japan's emperor and empress in Belgium marks a symbolic moment for two countries whose partnership stretches back more than a century and a half.]]></description>
             <link>https://www.yahoo.com/news/world/articles/japans-emperor-empress-arrive-belgium-173308108.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japans-emperor-empress-arrive-belgium-173308108.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -213,7 +260,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C91841F322DC71728B5B60309A09DD7DAB72D182D5DF04BB39E7071AFFB95724/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fea524176ddb362c244fdafb11f5b809f" alt="" /></p>That is in the noise range of a chain saw, a jet aircraft taking off and an ambulance siren at close range.]]></description>
             <link>https://www.yahoo.com/news/world/articles/guinness-crowns-world-loudest-person-173145643.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guinness-crowns-world-loudest-person-173145643.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Tue, 23 Jun 2026 21:11:37 GMT</pubDate>
         </item>
         <item>
@@ -6976,69 +7022,6 @@ And it signed partnerships in May with Spanish firms Indra, a defence specialist
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D4D54F7617F9B0B3250DAE7C8D64877F44C732447657BA5B47332465B807C5D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2aef19dc5b01d661e7bbd839a4750b2c" alt="" /></p>A Germany fan is taking legal action after a fake AI-generated photo of him resembling Adolf Hitler in the crowd at a World Cup game went viral on social media. "I just can't believe it," Jan Weitzel told German public broadcaster hr3 on Thursday, days after the German side's 7-1 victory over Curaçao in Houston.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germany-fan-takes-legal-action-135650507.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-fan-takes-legal-action-135650507.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shipping traffic through the Strait of Hormuz remains subdued]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AB27C6DA8FF6C40081CCDD33C18744262ADB02E4CE004D0D6E604A363A78E17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7f8f2a71c72d3a5054fa1d952a9838f2" alt="" /></p>Following the signing of the framework agreement between the United States and Iran, shipping traffic through the Strait of Hormuz remains subdued for the moment. A spokesman for the Association of German Shipowners (VDR) told dpa that the association could not currently detect any significant increase in traffic.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/shipping-traffic-strait-hormuz-remains-135650501.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shipping-traffic-strait-hormuz-remains-135650501.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strikes to hit over half of IKEA stores in Germany amid labour dispute]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5EE2C21D3C91E31B582C75D8022AA0C8005BF8F99FEFCBE0DFFF860DB02B277/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2d7c04b52bd0c9a8a385a04e2d439bf9" alt="" /></p>IKEA outlets in Germany are facing widespread strikes, the Verdi trade union said on Thursday. The walkouts on Friday are likely to affect over half of the Swedish furniture giant's stores in the country, Verdi said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/strikes-hit-over-half-ikea-135649103.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strikes-hit-over-half-ikea-135649103.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany fan takes legal action over viral AI Hitler image at World Cup]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB1AF964A07F5CB2BC24F885B3D58AC69BB50BAA04291745459C2EC5E1E8B803/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4174712d9d826c9adc699d0b6337df32" alt="" /></p>A Germany fan is taking legal action after a fake AI-generated photo of him resembling Adolf Hitler in the crowd at a World Cup game went viral on social media. "I just can't believe it," Jan Weitzel told German public broadcaster hr3 on Thursday, days after the German side's 7-1 victory over Curaçao in Houston.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-fan-takes-legal-action-135643537.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-fan-takes-legal-action-135643537.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three charged after record-breaking £139m cannabis seizure]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4DE902F20A4C998334B6E2708214FA2C907DC8B17BBBA00C7C9ED12C09CA5AC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fefb5819385971f51fc02f3599d79c805" alt="" /></p>Three people from south Wales are charged after £139m of cannabis shipped from Canada to UK seized.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-charged-record-breaking-139m-134708166.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-charged-record-breaking-139m-134708166.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Body found in search for missing California woman Ashley Phillips who vanished in Costa Rica]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E728BF1DE17072C70DDE688454F5996758A1C83EE54E8EC48105FF425F4A90FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F87c66ea508077859156071d0bc62541e" alt="" /></p>A body has been found in the area where a California woman went missing in Costa Rica.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/body-found-search-missing-california-134157286.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/body-found-search-missing-california-134157286.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Acropolis façade visible again after a 200-year restoration job]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B527F3A3AA36F56A3F5FC90B9D0FFD0BE3D43928413C16BA9635C51D8612828/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2f7724dc41b8bb8716f3d004419d1521" alt="" /></p>The restoration of the western gable of the Parthenon on the Acropolis in Athens has been completed after around 200 years, with the outer scaffolding on the west side of the ancient temple also removed for good. Repairs to the Acropolis first began in the mid-19th century and the west facade is now fully visible for the first time since restoration work began two centuries ago, Greek Culture Minister Lina Mendoni announced on Thursday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/acropolis-fa-ade-visible-again-134155040.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/acropolis-fa-ade-visible-again-134155040.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuban economy needs 'urgent changes' to overcome crisis: president]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BBCF3587C3DAC0D0BF561F78ABD38599E27535EF7F06C5B50F1FA4FEE7E031A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc1f4a50633b887ad942f22534edee556" alt="" /></p>Cuba's economy needs "urgent changes" to overcome a major crisis intensified by a US oil blockade, President Miguel Diaz-Canel said in a speech to Communist Party leaders broadcast on Thursday.The oil blockade imposed by President Donald Trump in January has brought Cuba's already moribund economy to the brink of collapse, marked by power cuts sometimes lasting over 30 hours and shortages of food, fuel, drinking water and medicine.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cuban-economy-needs-urgent-changes-133500753.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cuban-economy-needs-urgent-changes-133500753.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US-Iran deal leaves the future of Lebanon uncertain – and subject to Israel playing the spoiler]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E100D4000DFD8CA52DB1690825C2AAAA77CF236C7E0D9BFEF017232629CABD0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_conversation_us_articles_815%2F390f83ff2cecd311db1dc439af283675" alt="" /></p>President Donald Trump has talked of a potential role for Syrian forces in fighting Hezbollah – a move that would raise alarm in Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/us-iran-deal-leaves-future-133209169.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-iran-deal-leaves-future-133209169.html</guid>
-            <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Cai Qi cements spot as Xi confidant as head of Communist Party school]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1947FA1666864475EFD8497F12726ABE84908F768CB29FE35262A7795864132A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fff32b3526a243281bb42886f6cf4a143" alt="" /></p>BEIJING, June 18 (Reuters) - China officially appointed its fifth-ranked leader Cai Qi as head of the Communist Party's central ideology school, cementing his position as one of President Xi Jinping's]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-appoints-senior-official-cai-111146971.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-appoints-senior-official-cai-111146971.html</guid>
             <pubDate>Thu, 18 Jun 2026 14:27:42 GMT</pubDate>
         </item>
     </channel>
