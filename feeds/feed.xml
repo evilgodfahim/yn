@@ -4,16 +4,335 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 08:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 11:12:21 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[One dead and child injured as train hits car]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DBC4DD6A5609D5A6BA4A4F0A62F2E9BF501576076B6F2A4C36F0ED6232DB860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0947295d90a3613c6a2891823358cefb" alt="" /></p>A child is in hospital with life-threatening injuries following the incident in Hoghton.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/car-hit-train-kills-driver-101713953.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/car-hit-train-kills-driver-101713953.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU releases 3 billion-euro loan package for Ukraine's recovery as part of 2-year commitment]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4D1BF0B8C581037F0CF96DDDE26B0431AA0EB0A46EEBA0E54C5704B1B411EF21/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F034472040009d0462d4b803b88923874" alt="" /></p>The European Union has disbursed the first 3 billion-euro ($3.4 billion) tranche of a 90 billion-euro ($101 billion) loan to Ukraine, the country’s prime minister announced Thursday at the opening of a conference on Ukraine's post-war recovery in Poland.  The conference, attended by key European leaders including German Chancellor Friedrich Merz and European Commission President Ursula von der Leyen, is both a fundraising forum and a message to Russia that Ukraine’s Western supporters are in it for a long haul.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eu-releases-3-billion-euro-105941012.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-releases-3-billion-euro-105941012.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela president: Death toll from earthquakes rises to at least 164]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC4D1C25D6985D74EEDF2AC558C8D2D9A41EA81F70036DBD6FAC14CB9252A107/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3f11616d30743b28d40550ba655d5654" alt="" /></p>The death toll from the two severe earthquakes that hit Venezuela has climbed to at least 164, with at least another 971 injured, acting President Delcy Rodríguez told the VTV broadcaster on Thursday. Venezuela was hit by two earthquakes with magnitudes of 7.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-president-death-toll-earthquakes-105748301.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-president-death-toll-earthquakes-105748301.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[164 killed in Venezuela after back-to-back earthquakes. What to know]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8557E02A0A6D29BFAC8E3460CA3E63DF15F06D43D533BFB63F3FAFF06A46CC8A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F535e0378649819b5207120479198a33e" alt="" /></p>Back-to-back major earthquakes struck Venezuela's northern coast on June 24, raising fears of widespread deaths across the region.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/164-killed-venezuela-back-back-105059878.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/164-killed-venezuela-back-back-105059878.html</guid>
+            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK moves to criminalise gender and sexuality conversion therapies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9CC83706ADA4D8DF8EDC9335E021A19DF83CC0F1F0CA6A8450576AB9D92F0FC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e34be43aa02334025fef6d4da62a2fe" alt="" /></p>LONDON, June 25 (Reuters) - Britain on Thursday set out plans to criminalise abusive and harmful therapies intended to change a person's sexual orientation or gender identity.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uk-moves-criminalise-gender-sexuality-104650018.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-moves-criminalise-gender-sexuality-104650018.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela's 7.5-magnitude quake strongest in more than a century]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0DD8E0F6AC98FF5BC656E7FAD4DFA6DAF0AFD26C3B38875384174CFF0CF67187/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F61081b9f81ae7114b75c2bbd649f77b9" alt="" /></p>The 7. 5-magnitude earthquake that struck Venezuela on Wednesday evening was the strongest to hit the South American country since 1900, according to data from the US Geological Survey (USGS).]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuelas-7-5-magnitude-quake-104243827.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuelas-7-5-magnitude-quake-104243827.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany offers support to Venezuela after devastating earthquakes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC48991645862A75F408DB8024736038B414F6AF606D31677ECDB7FAFBCBE60C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F55df25d4e170c6f1fab6e931e631e59b" alt="" /></p>The German government on Thursday offered to supply support to Venezuela after the South American country was hit by two major earthquakes, leaving scores of people dead. "The news of the terrible earthquake in Venezuela has left us deeply saddened.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-offers-support-venezuela-devastating-104241366.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-offers-support-venezuela-devastating-104241366.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela earthquakes: Why is Central America so vulnerable to tremors?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9A2D9819C851E6494247D78A2B438D6788D9A0191BF6073584F75F5F3B0B5D5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7471d3944539ea78f6fc3ffbd93dab5a" alt="" /></p>Venezuela and Japan are both hit by strong quakes, but Venezuela faces higher risks due to weaker building standards.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-earthquakes-why-central-america-103958040.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-earthquakes-why-central-america-103958040.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Riyadh’s RCRC begins fourth phase of road development at $2.6bn]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E999B3D44DE4A1163643A73A26E31D3097A3B288C4C20E87B7A156C857C1ED9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2F770f3dcafda1dc6dd74700b2f3543f45" alt="" /></p>Planned works target four major Riyadh corridors, aiming to ease congestion and boost daily road network capacity.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/riyadh-rcrc-begins-fourth-phase-103000911.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/riyadh-rcrc-begins-fourth-phase-103000911.html</guid>
+            <dc:creator><![CDATA[World Construction Network]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela earthquakes live updates: Dozens dead, hundreds injured after 2 quakes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E788782B303E6A2D0DF60052BAA5FF74B777E518B0CADF647CCC45656AA8CE3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F494f64c2cac3ddaf26194b27b855d522" alt="" /></p>Two powerful earthquakes struck Venezuela on Wednesday evening.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-earthquakes-live-updates-dozens-095200357.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-earthquakes-live-updates-dozens-095200357.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICJ lawyer Philippe Sands to receive Peace Prize of German Book Trade]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C68E41EE8AAB04D22A09E8B619412B4275585B548E82B77D0CECB6F7258DE92B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3b593e96fed6d01cf114ddff9d8c1153" alt="" /></p>French-British author and human rights lawyer Philippe Sands will be awarded the Peace Prize of the German Book Trade for his "unwavering defence of international law," the German Publishers and Booksellers Association announced on Thursday. Sands, 65, regularly serves as counsel at the International Court of Justice (ICJ) in The Hague.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/icj-lawyer-philippe-sands-receive-102734253.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/icj-lawyer-philippe-sands-receive-102734253.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy says Russia is shifting air defenses to Moscow and other key sites after drone strikes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48252E069146D4B4EC2EE6F391B4DFA7138456F00CBBCB53FD7D629B4DAFA5AD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F706243d84eb119c515facc99e41f78d1" alt="" /></p>Russia is moving a significant part of its air defenses to protect a handful of prime targets, including Moscow, as Ukraine’s long-range drones continue to hammer sites deep inside the country, Ukrainian President Volodymyr Zelenskyy says.  Ukraine has in recent months stepped up its aerial campaign against Russian military installations and energy facilities.  Its success has caused fuel shortages and disrupted army supply lines, stalling Moscow’s invasion of its neighbor after more than four years of fighting and rattling Russian officials.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelenskyy-says-russia-shifting-air-101110145.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-says-russia-shifting-air-101110145.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canadian workers have few protections against workplace surveillance as TD starts monitoring]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2BBA360928074015A1A5B7E5008FDAFDCEB929FAAEE8E94388F0DFA2AB33689/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F78bb5a3ea9ddba0d6dc807ae2fc0dead" alt="" /></p>Canadian employees have few legal protections against workplace monitoring, experts said, after TD Bank told some staff it would use software to track their work activity, raising concerns about consent and privacy.  There are limits, however, to ‌the reasons employers monitor their workers and how they use the data they collect.  Canada's privacy laws are weaker than those in the ‌European Union, where privacy is a fundamental right and companies must justify the use of monitoring tools under privacy and labor laws, according to six Canadian legal experts.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/canadian-workers-few-protections-against-100643087.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canadian-workers-few-protections-against-100643087.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old clip falsely shared as recent rival party clash at Pakistan's National Assembly]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D336EBA484BCE0D4644D7571A0224DCC82A2B92DAAA9B160CF59778E2C4E313A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F89a82abdd2e4f3535ce2268fa63a063b" alt="" /></p>Oppos ition legislator Shahid Khattak was reportedly involved in an altercation with a lawmaker from Pakistan's ruling party in June 2026, but a video falsely claiming he slapped a member of Pakistan Muslim League Nawaz (PML-N) during parliament deliberations is unrelated. The video is from 2025 and shows Khattak's partymate, Khalid Nisar Dogar, striking a member of the Punjab provincial assembly.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/old-clip-falsely-shared-recent-100638812.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/old-clip-falsely-shared-recent-100638812.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back-to-Back Quakes Rattle Venezuela: What to Know]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/795F649D47D0E2ACE2851F92E5AF8E33DA9F2CFDAF48F3CEB894925328DC40DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F0dc95c03ae9caa57a2e31e799ad58648" alt="" /></p>High casualties are expected after an ‘earthquake doublet’ with magnitudes above 7.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/back-back-quakes-rattle-venezuela-100054212.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/back-back-quakes-rattle-venezuela-100054212.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia’s War On Faith: The Toll On Ukraine’s Religious Communities]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/807F0AB4EB4B7EE4530FDD31947B52BB88C2F6CEC92DE3F02657F34AB2ED18F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F79708b68407f276e9b4404e105cb52b0" alt="" /></p>Since February 2022, Russia’s full-scale invasion has devastated Ukraine’s religious communities. Sacred sites have been destroyed, and clergy members have been killed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-war-faith-toll-ukraine-100000773.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-war-faith-toll-ukraine-100000773.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two years after Gen Z uprising, Kenyan protesters return to Nairobi streets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D22EE1CCE6811CE182C0A1E2886A321DC82A9CFE3B35FA2FA1266C9238AC5389/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fbfc2f902c012a520a015d3346e1ca216" alt="" /></p>Two years after Kenya's 2024 Gen Z tax revolt shook the nation, protesters gathered in Nairobi on 25 June to seek justice for victims and press for greater government accountability.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-years-gen-z-uprising-095740074.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-years-gen-z-uprising-095740074.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At Least 32 Dead, Over 700 Injured as 2 Earthquakes with Magnitudes of More Than 7 Hit Venezuela: 'Disaster Zone’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B938C5F01EF8DF25053D15FD70DCE53CD810585FE416060B2B643E17941F92EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc99d8f31199372ad9448422f3f004377" alt="" /></p>The US Geological Survey (USGS) said the initial earthquake had a magnitude of 7.1, followed by an even larger tremor of 7.5 which hit moments later]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-32-dead-over-700-095451992.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-32-dead-over-700-095451992.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Island prison to be investigated by UK inspector]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DF84D243AB1A4E63789D8065D71C8F5FA9265B63B9BA05144D9B697B99EC2B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd8249c702db38ed4ea5619223405cb24" alt="" /></p>Home Affairs vice-president John Gollop says "we actually need to know what the issues are".]]></description>
+            <link>https://www.yahoo.com/news/world/articles/island-prison-investigated-uk-inspector-095345212.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/island-prison-investigated-uk-inspector-095345212.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police arrest two suspected of pulling gun, threatening haredi protesters blocking Highway 1]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/967431CE4185C446AF9A39316159CB221E660763A2990EB122A9F7BFB0CC7E17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F624ef56ba07d3a5e0c3d55b983927c3f" alt="" /></p>Jerusalem police arrested two suspects after a video surfaced showing an alleged firearm threat toward Haredi protesters blocking Highway 1. Officers from Israel Police's Jerusalem District arrested two suspects during the overnight between Wednesday and Thursday, due to suspecting that they drew a gun and threatened haredi (ultra-Orthodox) protesters blocking Highway 1 during Wednesday's protests.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/police-arrest-two-suspected-pulling-095342450.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-arrest-two-suspected-pulling-095342450.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China defends patrols east of Taiwan after 3 European nations raise alarm]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7273DB016099E11D919B14CC32EEA90B5CE419F1243CBD08E8DADEA3E1DF048/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9f873d9a27c8d773a7f7370fd772fd5e" alt="" /></p>China on Thursday defended its recent patrols in waters east of Taiwan, one day after Britain, France and Germany expressed alarm about what they described as “novel Chinese activity."  While the three European countries said the activity, which they did not specifically identify, endangered regional stability, a Chinese Foreign Ministry spokesperson said China's law-enforcement and patrol activities were aimed at maintaining regional stability and maritime order.  China deployed coast guard ships in response to an announcement by Japan and the Philippines that they would discuss their maritime boundaries in waters that Beijing views as its own.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/china-defends-patrols-east-taiwan-095333314.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-defends-patrols-east-taiwan-095333314.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three men charged with murder after stabbing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92E2FA0BBF83422C6E852A711FFC710C56CFE0BCE0F3B0CA1591F063A1FCAC84/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6f1813b0a692784c8703843813bb74ad" alt="" /></p>Kamahl Cameron-Williams, 31, was stabbed in Westow Road during the early hours of Sunday 21 June.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/three-men-charged-murder-stabbing-094817462.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-men-charged-murder-stabbing-094817462.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mossad rehearsed 2018 Iran nuclear archives raid in Africa, former chief Yossi Cohen reveals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EB7332B1DECB26EDB3EF7E8F456A7F003F8595BE588882D1897C8E912285F3F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fe21e0e3deed0fe5bc19412fbb3b44e45" alt="" /></p>The operation changed the course of history as it was the impetus for US President Donald Trump to pull out of the 2015 Iran nuclear deal shortly after the operation's results were revealed. Former Mossad chief Yossi Cohen has revealed for the first time that Africa was the geographic area where spies from his agency carried out their "dress rehearsal" for the now famous operation in which they broke into Iran's secret nuclear archives in January 2018.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mossad-rehearsed-2018-iran-nuclear-094043102.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mossad-rehearsed-2018-iran-nuclear-094043102.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany offers to send military planes to Venezuela after quakes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D34E1A7BEFE5DFB70C49C863AF2A6BD7CA2C36C59D07FF363F6FF1C44E5EA2D9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff4b6234dc04aa3e969e98268dbc9b55b" alt="" /></p>German Defence Minister Boris Pistorius has offered military assistance to Venezuela after the South American country was hit by two major earthquakes, which are feared to have left scores of people dead. "The Bundeswehr is on standby and can make up to six A400M transport aircraft available at short notice as soon as a request for support is received," Pistorius said in his ministry’s WhatsApp channel on Thursday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-offers-send-military-planes-092743740.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-offers-send-military-planes-092743740.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU limits visas for Somalis over lack of cooperation on deportations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5A4F1549B85C9A4B2B1E383F9389FA032D7CCB3888A8A6C6FEF0614BED7C42F6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9d16a86b2707beb06507fafe2be55289" alt="" /></p>The European Union has decided to restrict visa provisions for Somali nationals after an EU report concluded that Somalia is not cooperating sufficiently on deportations of its nationals. The temporary restrictions mean that Somali nationals will no longer receive multiple entry visas and that the standard processing period for visa applications is extended from 15 to 45 days, a press release published on Thursday said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eu-limits-visas-somalis-over-092739071.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-limits-visas-somalis-over-092739071.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel, Lebanon deny that Israel has withdrawn from part of southern Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/655E1F7C0367093163D83F6F0605B5B3A6442B187846667E26D96FE41902C9D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fafd0068bd77542b553037f646037bba8" alt="" /></p>BEIRUT, June 25 (Reuters) - Senior Israeli and Lebanese officials denied on Thursday that there had been any Israeli withdrawal from occupied southern Lebanon, after a U.S. official said Israel had]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-withdraws-part-southern-lebanon-091325240.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-withdraws-part-southern-lebanon-091325240.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beaten and starved: Shock in India as police rescue men from bonded labour]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B049596A13077CC0C1CC95CAF51409A08A6B06C6037666145E7C996D89F5442/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29081d1001e034c952d0099322a7cf0d" alt="" /></p>Bonded labour was outlawed in India in 1975, but it still continues in villages and small towns.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/beaten-starved-shock-india-police-083220864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/beaten-starved-shock-india-police-083220864.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia reports deaths after Ukrainian strikes on occupied Crimea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34352C5DF9A936771C0D74F16666848A3EAFC4C7523FFA3F2BACD3087A718398/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1a475b54740f8299cf335a1d840b1ac5" alt="" /></p>Ukraine has launched fresh attacks on the Russian-annexed Crimean Peninsula, killing at least two people, according to the Moscow-appointed authorities in the region. Sergey Aksyonov, the Moscow-appointed head of Crimea, said one of the victims was a minor.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-reports-deaths-ukrainian-strikes-091237045.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-reports-deaths-ukrainian-strikes-091237045.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British TikTok influencer charged with murder in Dubai]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/19241A737ECEE79A8F442A7A716AB6078449239A647544E969D679DF5521DD05/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fdba02e647496e1719589a96c62c37652" alt="" /></p>A British TikTok influencer has been charged with murdering her lover in Dubai.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/british-tiktok-influencer-charged-murder-091036480.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-tiktok-influencer-charged-murder-091036480.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF soldier dies, additional soldier injured, after vehicle overturns during operation in Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B67B77DB6CF932E3160386A631D58871B4FF69486FF7681F995A51208BE77002/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F22d05bed170f457beff6b6cb6a1de8b2" alt="" /></p>Chief Sgt. First Class (res. ) Basil Sweid, 32, from Peki’in, was a driver in the 75th Battalion of the 7th Armored Brigade.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/idf-soldier-dies-additional-soldier-090716768.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-soldier-dies-additional-soldier-090716768.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World reacts as devastating Venezuela earthquakes kill at least 32]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9A2D9819C851E6494247D78A2B438D6788D9A0191BF6073584F75F5F3B0B5D5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7471d3944539ea78f6fc3ffbd93dab5a" alt="" /></p>Global leaders express solidarity with Venezuela as dual earthquakes kill at least 32 and leave widespread devastation.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/world-reacts-devastating-venezuela-earthquakes-090640605.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-reacts-devastating-venezuela-earthquakes-090640605.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns against Hormuz crossings without authorisation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14805FE7A21598CFDE3FDE00EAEA7D4B137FB38B503008FDFA8FF363D6531370/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F400cc98b1039e1230b51077234c91136" alt="" /></p>An oil tanker navigates the strait, reportedly hugging the western coast, despite threats from Revolutionary Guards.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-warns-against-hormuz-crossings-084936502.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-warns-against-hormuz-crossings-084936502.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fabricated quotes targeting Rohingyas in Malaysia circulate online]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2450B30032B66081DB090855CBC16F84980C6B324C2FB76CA97DBD69943C37B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fdfa17d604b0da9cbcf50ef01b073e01c" alt="" /></p>A controversial cattle slaughter incident has reignited anti-Rohingya sentiment in Malaysia, with posts sharing fabricated statements online claiming Rohingyas are demanding their own territory in the Southeast Asian nation. AFP found one of the quotes was attributed to a non-existent Rohingya leader whose purported picture was likely AI-generated, while the other is from a bogus Instagram post of a US-based Rohingya man who denied making the remarks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fabricated-quotes-targeting-rohingyas-malaysia-083521205.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fabricated-quotes-targeting-rohingyas-malaysia-083521205.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong bookshop owners arrested in free-speech crackdown]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE79561BC4676B94352ACBC695780839A0C964DE62AA377D797C1576E756176A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6db28d7233719760ea2511dde536978a" alt="" /></p>Two owners of one of Hong Kong’s last independent bookshops were arrested on Wednesday in the latest attack on freedom of speech in the city.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hong-kong-bookshop-owners-arrested-083045007.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kong-bookshop-owners-arrested-083045007.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/396E3F7D73F942154C122788103F9D696C27F7E8F2217F727267A45DFD1D7D90/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F854a825108408f16d2b9f9926bb9b1a4" alt="" /></p>Iran’s Revolutionary Guard warns against alternative route in Strait of Hormuz as top US diplomat to meet Gulf leaders.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-war-day-118-irgc-082835539.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-day-118-irgc-082835539.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naples area jolted by 3.6-magnitude earthquake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2FB3096217CE4B07CAD4A41EC6FC14AEC84A7A7A6D9B69176EE964777EF932D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbece5389fef95d5e114817c927187d9d" alt="" /></p>A 3. 6-magnitude earthquake rocked the region near the southern Italian city of Naples in the early hours of the morning on Thursday, the National Institute of Geophysics and Volcanology (INGV) reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/naples-area-jolted-3-6-082728147.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/naples-area-jolted-3-6-082728147.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland buys V-BAT drones to boost Baltic Sea naval operations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F3C9A2A7CB66E6859C43EB8FBF63D4E429378C92E3E83A4A9D5DA7B644F2FCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdefense_news_499%2F32ddc68ec44ec6fe617d9fb03f0abee5" alt="" /></p>The deal puts Poland in line to become the first country on NATO’s eastern flank to acquire the Shield AI-made drone.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/poland-buys-v-bat-drones-082043261.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-buys-v-bat-drones-082043261.html</guid>
+            <dc:creator><![CDATA[Defense News]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos of Muharram: a sacred Islamic month for spiritual reflection and resolutions]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85B6FDBA855CEFF82572C15BB0EC9C9D72DC05893F3E7698286B3B4781BBF6F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd20c32d2021453eebd64ca78326b3eb7" alt="" /></p>Muharram is the first month of the Islamic calendar and one of four sacred months during which Islam forbids warfare and encourages increased prayer, charity and reflection.  Muslims welcomed a new lunar year in what’s known as the Hijri calendar.  The Hijri New Year, beginning on the first day of the month of Muharram, signals a chance for spiritual reflection and religious resolutions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/photos-muharram-sacred-islamic-month-081422749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-muharram-sacred-islamic-month-081422749.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Residents describe terrifying moment twin quakes hit Venezuela]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5AD0560FD19EA3200D9D0996645FD6FB48C7E2474420429F3BFAD516A0E5D5E5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe23bed66d786d51bc9f23111dd54299e" alt="" /></p>Venezuelans have described panic, destruction and desperate escapes after two violent earthquakes hit the country within a minute on Wednesday evening. "I've never been so scared in my life; it was terrifying," a 57-year-old woman told dpa from the eastern part of the Venezuelan capital Caracas, which is just under 200 kilometres from the epicentre of the quakes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/residents-describe-terrifying-moment-twin-081236218.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/residents-describe-terrifying-moment-twin-081236218.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya police in massive show of force on protest anniversary]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD17B6B5141F3982FD757EBFFB9FB74BC33D16634D7E4358F9C18B2BB6D91206/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0c7f4491bf6cea9c421defd25bfa3734" alt="" /></p>Kenyan police put on a massive show of force Thursday in a bid to prevent protests marking two years since a landmark Gen Z uprising.But they paid a heavy price, with at least 127 people killed across the two years of protests, according to a police watchdog, as security forces shot people with near-total impunity.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/violence-feared-kenya-marks-protest-055207058.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/violence-feared-kenya-marks-protest-055207058.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 11:12:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trump offers to help ‘great friends’ in Venezuela after devastating earthquakes leave dozens dead]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AFC10E7905792B3A9C8B74B2993A65B02E5AC21BC23B1A8F9D97C05D7D46F511/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F139cfb41a686570df1942dc7a4e1dee3" alt="" /></p>Addressing the situation in Venezuela, President Trump claimed that ‘early reports are not good’ amid estimates thousands may have been killed]]></description>
             <link>https://www.yahoo.com/news/world/articles/trump-offers-help-great-friends-080832023.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-offers-help-great-friends-080832023.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +340,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B6E17D8A9A2524EDABF64D3D549E2428DE1CB78FDC78355FD54872B7F194CBB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Ffd77bac97c04f8970b7864125ed1a6a5" alt="" /></p>New rules greenlighted this week will cover the use of AI in child abuse cases and considerably extend the limitation period to a minimum of 32 years.]]></description>
             <link>https://www.yahoo.com/news/world/articles/higher-penalties-more-time-prosecute-080416348.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/higher-penalties-more-time-prosecute-080416348.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +347,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E77E8F78854875134424448E261EF6E0D2150AB91C4CB314A11373D5D574A98/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F80660bd1980c165523d88ba3ba82fecd" alt="" /></p>Survivors describe panic and collapsing buildings during two strong quakes as thousands of people feared dead.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hugged-other-ran-venezuelans-recount-074643259.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hugged-other-ran-venezuelans-recount-074643259.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +354,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE8C1F9F8D7D601340D089E96C8A1816B68FE3517F0BF9FCE629C07EC8D6AFB3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F220ab2819a5f7c5e30234912d14b7abf" alt="" /></p>Popular Ibiza DJ Hugo Bianco has been named in a major Spain-US drug trafficking case. He is the alleged “mastermind” of an international drug trafficking network, and faces a nine-and-a-half prison sentence.View on euronews]]></description>
             <link>https://www.yahoo.com/news/world/articles/popular-ibiza-dj-named-alleged-061732188.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/popular-ibiza-dj-named-alleged-061732188.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +361,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA13028AFDCA09D51B1A203110DEECB6A820F30CA1DC78DB71743C3FFE212AAC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F79dee9072b85c79faf080f6b2d8de9fd" alt="" /></p>Protesters demand justice for more than 80 people killed during the 2024 demonstrations and last year's anniversary protests.]]></description>
             <link>https://www.yahoo.com/news/world/articles/police-seal-off-key-roads-063213876.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-seal-off-key-roads-063213876.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +368,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DC806D629311B4D7D2761924C214024A836E0513025EBB82581D234507D41FC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1220a2c785435dc49f716706de03796c" alt="" /></p>A recent shark mauling off Sydney's famous Coogee Beach left a 35-year-old mother with life-threatening injuries and an amputated arm, renewing the greatest fear of many people who swim in open water. Although fatal shark attacks are rare, when they do occur they often make headlines - such as the death of a woman in California in December 2025 and a 12-year-old boy in Sydney in January 2026.]]></description>
             <link>https://www.yahoo.com/news/world/articles/know-five-ways-reduce-risk-072843460.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/know-five-ways-reduce-risk-072843460.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +375,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8642BC89A3FEFF3FCD3F89C77C71C075D70B5558BB138D0713B2D9EFF9D9314/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Faab4bc259c91883db294e6b7be75af0b" alt="" /></p>To avoid hurting the animal, he said, he tried to draw it out with water and smoke.]]></description>
             <link>https://www.yahoo.com/news/world/articles/king-cobra-hides-under-bedroom-072400934.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-cobra-hides-under-bedroom-072400934.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +382,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/55B55BDEBA79A692FB5A8A27183781A54C96C6B5D9E0F64B13DC5050D3CA40CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2Fec1b5e48-a8b5-4f1d-9fcc-25614cc6425f" alt="" /></p>The U.S. Geological Survey (USGS)  said the death toll would most likely run into the thousands.]]></description>
             <link>https://www.yahoo.com/news/world/live/venezuela-earthquakes-live-updates-at-least-32-dead-and-700-injured-after-powerful-twin-tremors-065127841.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/live/venezuela-earthquakes-live-updates-at-least-32-dead-and-700-injured-after-powerful-twin-tremors-065127841.html</guid>
-            <dc:creator><![CDATA[Yahoo News]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +389,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/283673F55F9F68C3BD13407A91AD894B6A675EB2C01E0FCB1345690C8A03A626/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F751a12e9e9ebff49d4720678743d8101" alt="" /></p>Russia and Ukraine are still in the "first stages of combat testing" drone AI that can decide to attack a target on its own, said Beskrestnov.]]></description>
             <link>https://www.yahoo.com/news/world/articles/next-evolution-attack-drones-shaheds-065056411.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/next-evolution-attack-drones-shaheds-065056411.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +396,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/214564B6D00054212F705423960BF189EFFD7A67D119DE5292C561FDA05B409D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F44480d00d6c2291a1f61b4e56d19c3d9" alt="" /></p>At least 32 people were killed and around 700 others injured after two powerful earthquakes struck Venezuela, acting President Delcy Rodríguez said early on Thursday, with casualty numbers set to rise further. No casualty figures were yet available from the particularly badly affected state of La Guaira on the Caribbean coast, which Rodríguez described as a "disaster area.]]></description>
             <link>https://www.yahoo.com/news/world/articles/powerful-back-back-earthquakes-strike-064730477.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-back-back-earthquakes-strike-064730477.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +403,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CF2267574C8FEA97B98B419F0B98491BD7D942CC157DAB55F767C89825328E63/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fe35ee57a9e3d1e4117b314ae66ba4877" alt="" /></p>Residents of the capital Caracas were forced to evacuate their residences and seek shelter outdoors as the quakes, which struck less than 200 km from the capital, caused widespread damage.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-32-killed-700-injured-064617740.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-32-killed-700-injured-064617740.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +410,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2331897639676CB091AD74049BCFDB84F055084FE7CC028BB12172E7723EF55/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F69fc23ce1b389b394bb8e6bb53dc025b" alt="" /></p>As Europe's heatwave leaves millions sweltering in poorly insulated apartments, schools and retirement homes, more French people are breaking with tradition to turn to air conditioning.These included modern buildings with large glass windows, or relatively new homes with insulation that worked in winter but not in summer, he said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/french-aversion-air-conditioning-melts-053103825.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-aversion-air-conditioning-melts-053103825.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +417,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A9F1694CB6110279AAB2B3094AD82D2729024EA863D85E63F952C988FBF84B01/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F484c9178c16f199399f4d2213d15501c" alt="" /></p>The strongest quakes to hit Venezuela in more than a century, measuring up to magnitude 7.5, could not have come at a worse time for the country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/deadly-twin-quakes-gut-punch-063042957.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deadly-twin-quakes-gut-punch-063042957.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +424,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7753142E2FB6074213E5A75BF5151B9F672CFC01BC47B4E473269078E02C33F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1975ef898b21f982359a2bd371ab1044" alt="" /></p>Acres of land that Albanian Minella Balliu has fought for decades to reclaim has been thrust into the global spotlight by the Trump family's plans to build a luxury hotel complex on it.While thousands take to the streets chanting the slogan "Albanian is not for sale", Balliu has taken to the courts in hopes of recovering his ancestor's land.]]></description>
             <link>https://www.yahoo.com/news/world/articles/trump-linked-resort-shines-light-062747603.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-linked-resort-shines-light-062747603.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +431,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9C5E4450FFF9BE9A7084B4056371EE3B06199C1ECC6136F23DE59D31F3EF9C24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F100e1db84a95c2a1410793e642118a20" alt="" /></p>A Liberian oil tanker made its way out of the Strait of Hormuz on Thursday despite threats to shipping from Iran’s paramilitary Revolutionary Guard and using a new route close to Oman’s shore that has been promoted by a U.N. maritime agency.  From getting ships through the narrow mouth of the Persian Gulf to the future of Iran's stockpile of highly enriched uranium, the two nations are increasingly debating the terms of the deal signed last week.  Through the signing of the memorandum of understanding, the U.S. and Iran agreed to a 60-day period to iron out these and other details.]]></description>
             <link>https://www.yahoo.com/news/world/articles/oil-tanker-navigates-strait-hormuz-061149587.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oil-tanker-navigates-strait-hormuz-061149587.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +438,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34445E5ACB8ADF2B822343142C78F5D0941EC3B38AEDA478A405EA6EB43242CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0d641f7af00ffc16a7ba12ef936e7d71" alt="" /></p>Once a fringe idea, euthanasia is having its moment internationally and in the United Kingdom. Lauren Edwards is reintroducing the Leadbeater bill with every intention of ramming it through Parliament by using the threat of the Parliament Acts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dutch-now-killing-children-nobody-060000694.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dutch-now-killing-children-nobody-060000694.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +445,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6A1A78A3ED78EE713561D0C75018B98ACDD038B67D29089DBEE1D6C7A7C48D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F9361ce839663656b9162dd0f8613d9c9" alt="" /></p>Heavy monsoon rains flood Mumbai, submerging roads, disrupting traffic and forcing residents to wade through waterlogged streets in India’s financial hub.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mumbai-monsoon-floods-streets-disrupts-054302851.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mumbai-monsoon-floods-streets-disrupts-054302851.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +452,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C141A540E161C72693144BE2D587ADF1E3EC07E9B201077AD1A68EC4E1109A1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fdad3e9842a90f1603d5f6e9e80fa6093" alt="" /></p>In a span of just a few weeks, China’s ships have carried out “law enforcement” activities farther from its mainland than ever before, mapped a highly sensitive seabed and conducted “research” inside a highly contested lagoon more than 500 miles from its shores.]]></description>
             <link>https://www.yahoo.com/news/world/articles/salami-slicing-china-trying-increase-040125201.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/salami-slicing-china-trying-increase-040125201.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +459,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C4A774BC58B7379B7F015F7FAC4B58BA777FDBEE86CE15203FC32FE6D0EBB41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff330fad854df731e02111ae92c0c5c2d" alt="" /></p>Police in Kenya set up roadblocks on Thursday to prevent access to the capital, Nairobi, ahead of a planned demonstration marking two years since at least 60 people died in anti-government protests that also saw protesters storming the parliament.  Families whose loved ones died in the 2024 protests have said they would protest the delay in justice for the victims.  The government has been accused of a lack of transparency in an ongoing process to compensate those who suffered human rights abuses during the protests.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kenyan-police-block-roads-around-053136540.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenyan-police-block-roads-around-053136540.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -166,7 +467,6 @@
 This has led to repeated influxes of wounded patients arriving at Tine hospital in Chad.]]></description>
             <link>https://www.yahoo.com/news/world/articles/chad-sees-influx-drone-victims-052748334.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chad-sees-influx-drone-victims-052748334.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -174,7 +474,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/230B7E75FE7CDB22AFD72EEBB4D8487E170DF2B7116B36EDA51FFFFE81BEAD7A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1a47d6cf6266f4311d49d5cff4e7a621" alt="" /></p>Rescue efforts under way as Venezuela declares a state of emergency after powerful twin quakes cause widespread damage.]]></description>
             <link>https://www.yahoo.com/news/world/articles/venezuela-rocked-7-5-7-052710388.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-rocked-7-5-7-052710388.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -182,7 +481,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35CE358EA49FEDB0A2A11654EBB6D205DC1D296EB0E7DF3AA7A8752A01832BF3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fcc9eb7e8e72e810024904789459e680a" alt="" /></p>Robert Thurman, who has died aged 84, was regarded as the first Westerner to be ordained a Tibetan Buddhist monk; he subsequently became a leading scholar of Buddhism in America, helping to popularise practices such as meditation and yoga, as well as advocating for the Tibetan cause, one lent glamour by the Hollywood sheen of his actress daughter, Uma.]]></description>
             <link>https://www.yahoo.com/news/world/articles/robert-thurman-buddhist-monk-finding-052400908.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/robert-thurman-buddhist-monk-finding-052400908.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -190,7 +488,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9DA354BD556CF99CE3FCFC9A820BE55E44D6CB1EE67FFD1FF8AA7EEE2F1BEF0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F60e7feb0a5b730785e697d75a3fa1b82" alt="" /></p>“Organ donation gives life, literally. Whoever saves one life, saves an entire world,” said the doctor in charge of the transplant.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kafr-qasim-girls-organ-saves-052308710.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kafr-qasim-girls-organ-saves-052308710.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -198,7 +495,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD009945B596279268BD68182136A91EAF0FECA604AEC44EA2CCDD323A3004F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F81a588e5e6f100dab4c41631f34e25c9" alt="" /></p>T﻿he Covent Garden attraction, which welcomed 450,000 visitors last year, will remain open throughout.]]></description>
             <link>https://www.yahoo.com/news/world/articles/london-transport-museum-makeover-051806507.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-transport-museum-makeover-051806507.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -206,7 +502,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18B0949CBF736CD4CB258C16A36316504FC9C11B014D4167AFE884A00E29DB35/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4413b2eaa6af6b4b6031377c0ef35879" alt="" /></p>Raju Rathore’s Hindu faith and devotion to Imam Hussein converge in Pakistan’s port city of Karachi during Muharram, one of Islam’s sacred months.  Religious observances during this period are primarily associated with Shiite Muslims.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pakistani-hindus-join-shiite-muslims-045532466.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistani-hindus-join-shiite-muslims-045532466.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -214,7 +509,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1930CB52D730F97D3423ACA9657BD6366B57ECF898B44A7F028D689E1619249D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7428958e01bed8557054932237474485" alt="" /></p>Powerful earthquakes that struck Venezuela in quick succession Wednesday evening killed at least 32 people and injured 700, the nation's acting president said, as communities across the South American country sustained damage.  Acting President Delcy Rodríguez warned the toll was expected to rise as rescuers search collapsed buildings and emergency crews reach devastated areas after the 7.2 and 7.5 magnitude earthquakes that struck shortly after 6 p.m.  Rodríguez declared a state of emergency in an address to the nation late Wednesday and said the quakes caused damage in several states.]]></description>
             <link>https://www.yahoo.com/news/world/articles/venezuela-reeling-powerful-twin-earthquakes-044611906.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-reeling-powerful-twin-earthquakes-044611906.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -222,7 +516,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35F09C4DFD46DA46AF20ADF61247A1C2BA6B85A6099E547F8DF61DEB199462D3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F06ea736e179bfd4d0f388fc07a2760ce" alt="" /></p>Shiite Muslims have been observing a solemn period of communal mourning leading to the day of Ashoura, which marks the seventh century killing of Hussein, a revered leader and a grandson of Prophet Muhammad.  Annual day of Ashoura commemorations are observed on the 10th day of the month of Muharram in the lunar-based Islamic calendar.  In Shiite communities, Ashoura is viewed as a symbol of struggle against injustice and tyranny.]]></description>
             <link>https://www.yahoo.com/news/world/articles/shiite-muslims-collectively-mourn-mark-044530725.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shiite-muslims-collectively-mourn-mark-044530725.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -230,7 +523,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B37D07B0604B521B04E448E28B4E416C1AB52FC454693989C0886EDE75E66EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F84597fb4164269af670f836b3d1eb261" alt="" /></p>US President Donald Trump has promised swift assistance to Venezuela after two powerful earthquakes struck the South American country on Wednesday. Trump wrote on his Truth Social platform that the two major earthquakes were "massive in scale" and had left "a devastating number of deaths.]]></description>
             <link>https://www.yahoo.com/news/world/articles/trump-says-us-ready-help-044420533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-says-us-ready-help-044420533.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -238,7 +530,6 @@ This has led to repeated influxes of wounded patients arriving at Tine hospital 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E86E1EAC7030BF028AE20F6817546BFD122F0069AF206249B12E9B81B4140FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7b6a24f19fe8178078026abdb51d8046" alt="" /></p>Shiite Muslims around the world on Thursday marked Ashoura, a holy day symbolizing sacrifice and martyrdom that holds special significance for many this year after months of war in Iran and Lebanon.  Ashoura commemorates the martyrdom of Imam Hussein, grandson of the Prophet Muhammad, at the Battle of Karbala in 680 A.D. Imam Hussein was killed with his family and companions after refusing to pledge allegiance to the Umayyad caliphate.  The event cemented the schism between Sunni and Shiite Islam and remains a powerful symbol of resistance against oppression and injustice.]]></description>
             <link>https://www.yahoo.com/news/world/articles/shiite-muslims-mark-holy-day-040413500.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shiite-muslims-mark-holy-day-040413500.html</guid>
-            <dc:creator><![CDATA[AP]]></dc:creator>
             <pubDate>Thu, 25 Jun 2026 08:18:00 GMT</pubDate>
         </item>
         <item>
@@ -6764,286 +7055,6 @@ On Friday, hard-right Polish President Karol Nawrocki stripped Zelensky of the O
             <link>https://www.yahoo.com/news/world/articles/poland-demands-shared-lead-ukraine-072624474.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-demands-shared-lead-ukraine-072624474.html</guid>
             <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With World Cup in Guadalajara, families of Mexico's disappeared turn loved ones into soccer stickers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B1C75B84BCB75E1C069E75CB283AFA65CFC31528137B7C257C24F0BCAAD864A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3919046edb8dc07747568da017739358" alt="" /></p>The design mimics the collectible World Cup Panini stickers millions of soccer fans trade during the tournament.  Another is Jaime Adrián Ramírez, missing since September 2020.  As Guadalajara hosts matches during the 2026 World Cup, families searching for missing relatives have transformed one of soccer’s most familiar images into a campaign to make Mexico's 135,000 missing people visible to the tens of thousands of visitors.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/world-cup-guadalajara-families-mexicos-070217920.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-cup-guadalajara-families-mexicos-070217920.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tanks of tomorrow will be network nodes, electronic warfare platforms and drone bases]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1092539B405BF83FB2D0F4737C0F486F8D7525D4C72E7014E9A2085D5187F63/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fae769641e997b77b051ecc6e8431a97a" alt="" /></p>The war in Ukraine has now lasted longer than the First World War. As Britain struggles to build a modern fighting force against a backdrop of constrained resources and competing priorities, it is vital that we learn the right lessons from Ukraine. Equally importantly, however, we must not discard the hard-learnt lessons of the last century, from the Somme and Passchendaele to the Donbas front line.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tanks-tomorrow-network-nodes-electronic-070000999.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tanks-tomorrow-network-nodes-electronic-070000999.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain’s horse racing capital in revolt over Lord Derby development plans]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B09DD8F1293F2084F6F3E49D12510957AEB1F801260B1865346614CC24EF0AD9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F14ff648576742b45db61aa8bb236eadc" alt="" /></p>Every morning, thousands of racehorses are put through their paces on Newmarket’s gallops.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/britain-horse-racing-capital-revolt-070000342.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-horse-racing-capital-revolt-070000342.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anti-poaching team reveals staggering one-month totals from their efforts]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86200E788CAE9FA9D8CD140EA127F351061B5A3A0919C0467A11BC051CC40838/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fea92a7458e5381a62c5126eac0d2bd1e" alt="" /></p>"Human-wildlife conflict mitigation, veterinary treatments, and the medivac of an injured ranger."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/anti-poaching-team-reveals-staggering-064100734.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anti-poaching-team-reveals-staggering-064100734.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Special' door to Lawrence of Arabia's childhood]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C30772527C41F610BAB46C2FA0620A9E51AC5D94A3E74E9FB8BC7F64C230D10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc9bdedcb042c17aa977738a70d3bcd48" alt="" /></p>The unique item from TE Lawrence's childhood home in Oxford goes on display in Dorset.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/special-door-lawrence-arabias-childhood-062143717.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/special-door-lawrence-arabias-childhood-062143717.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exhibition highlights life of Victorian hangman]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7ED76C2A3BF7165DB4E52758C40F4E040DF1910BEF651B30FBD5E1A92F75BBF0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fae86c80838d0b3b59a5ef32cb1f1b6b8" alt="" /></p>William Marwood form Horncastle became famous in Victorian England as a public executioner.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/exhibition-highlights-life-victorian-hangman-060215309.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/exhibition-highlights-life-victorian-hangman-060215309.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war day 113: Tehran presses US over Lebanon ceasefire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9E77C35F0E2460BEB59BA3554E096BD0FC9EEB51F79F335B4F6B4B93413CF87/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe7daaf740e787a097850b1b90480158d" alt="" /></p>Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-war-day-113-tehran-055849626.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-day-113-tehran-055849626.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian guru urges broader view of yoga]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA93BD342E2D8F65AE4202814C7A603E3C163F1397CE8FA7A927DC455F1FA869/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0aaea3e59fd2a05d525477d6fa069915" alt="" /></p>Indian yoga expert and teacher Varun Veer said ahead of International Yoga Day on Sunday that its Western form is often reduced to the physical dimension, but the millennia-old practice is also mental and spiritual.Initially, hatha yoga, the most traditional practice, was the "most widespread form in the West", Veer said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/indian-guru-urges-broader-view-052308747.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indian-guru-urges-broader-view-052308747.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least five killed in Israeli strikes on south Lebanon despite ceasefire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1BA4E063EFB2068DBBC83F12E4F94FAECFBECB13495D474CA298CE18A9E9792C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F878bf3c6d7b85aa1343aebb1d8d5bea8" alt="" /></p>DUBAI, June 20 (Reuters) - At least five people were killed in Israeli air strikes and drone attacks in southern Lebanon on Saturday, Lebanese state media reported, just hours after a ceasefire]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-five-killed-israeli-strikes-052232163.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-five-killed-israeli-strikes-052232163.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portugal's unofficial exorcism fever worries Church]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D1C761EC84B6C5229B3EB18F5823E11A537B4FB55155333B03F74989CB7F1D10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F40fc67c181fa66ed5ff71e1db223652a" alt="" /></p>A woman closes her eyes as a young man dressed as a priest places both hands on her forehead.Marques placed both hands on their foreheads, concentrating silently.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/portugals-unofficial-exorcism-fever-worries-052033907.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/portugals-unofficial-exorcism-fever-worries-052033907.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['It belongs to all of us': How the High Seas Treaty is shaping global waters]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F985497CCDFDB29649FA3D6CA4C92614976E3988CE5F8F7FB05E6A3F462DAF0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F497721863a65fe44f3a9c0345c2b8fc2" alt="" /></p>The High Seas Treaty entered into force in January 2026. Euronews Earth spoke to the High Seas Alliance's Nathalie Rey about what it means.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/belongs-us-high-seas-treaty-050331445.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/belongs-us-high-seas-treaty-050331445.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At Least 1 Tourist Dead After Fire Erupts at Popular Resort]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01018455EE68D07F7E82672BBB5F8D72C0B28F23D22FA8BA8F262D15BB85DCC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F461da1c21f21626671d87b5805fb3144" alt="" /></p>A horrific scene unfolded Friday at a popular resort, where one tourist died after a fire engulfed nearly an entire resort. According to multiple reports, Viva Dominicus Beach by Wyndham nearly burned to the ground. The deadly fire prompted nearly 1,700 tourists to evacuate from the property in the ...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-1-tourist-dead-fire-050321682.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-1-tourist-dead-fire-050321682.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain tests long-range missiles to help Ukraine bomb Moscow]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/61159000679DCABCB67E5EB142C3E9782E057F30670B4A232F649E5F792D6075/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F79218a43b8701bf6085bda796606bbaf" alt="" /></p>Britain has tested new long-range weapons that could soon be delivered to Ukraine to allow Kyiv to strike Moscow.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/britain-tests-long-range-missiles-050000156.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-tests-long-range-missiles-050000156.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freight train plunges from bridge in Germany]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F2FA1E1C709156C4708E71CF7247AD697C0C405BA822D60E7EBD97A32D53485/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5c239e83523ce9d491ab8234306c816f" alt="" /></p>A person was seriously injured after a freight train plunged from a bridge in Munich overnight, police said on Saturday. Two train cars fell about 5 metres from a bridge and came to rest on the road.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/freight-train-plunges-bridge-germany-045630466.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/freight-train-plunges-bridge-germany-045630466.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AE02A07BD56CFCEB84D9384DC7C183B686ABB52145EA35E131004AD03A91DE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F84a8c10ab0ebae1111d54e9513e875c9" alt="" /></p>A woman was killed and nearly 1,700 tourists were evacuated due to a large fire at a hotel in the Dominican beach resort of Bayahibe, local authorities said on Friday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/woman-killed-1-700-evacuated-031138371.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-killed-1-700-evacuated-031138371.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stateless and forced into exile, Bahraini families stuck in limbo]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C4E115CB0596E73BF4116D5ECD3A8124C01489B023AB36789925044F71E5C668/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F561642d804ad52a377869c82d1a5dc16" alt="" /></p>When Ali saw his name and that of his three-month-old daughter in the news on April 27, he fainted: they were among 69 people stripped of Bahraini citizenship in the aftermath of the Iran war."She is just an infant," Ali said of his daughter.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/stateless-forced-exile-bahraini-families-014159357.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/stateless-forced-exile-bahraini-families-014159357.html</guid>
-            <pubDate>Sat, 20 Jun 2026 08:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico City looks to rein in street drinking after massive World Cup party]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C73990B98F08A4E6339397A6CE4CE4FCCE2BA7D97813AD945036CB1871243AD/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F754539096b7670e18646193a70051580" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/mexico-city-looks-rein-street-024629045.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/mexico-city-looks-rein-street-024629045.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel fetes Somaliland’s leader as it seeks to expand Red Sea influence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD1C2BD6D44AAC9D403CF71C38A54D056ECD65BF9BD0BEBBC451EDD43C91F9D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fac8002b71c7f42cf0668b3aaeb1340d2" alt="" /></p>Six months after recognition, Israel and Somaliland say they are moving from symbolism to strategic cooperation.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-fetes-somaliland-leader-seeks-043040563.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-fetes-somaliland-leader-seeks-043040563.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[African and Caribbean nations call for formal apology for transatlantic slavery]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07559A75297AEF6DE5511B686CDAB11D340C78C44FDCBC13ADDDDE00EF019364/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2a5db84cf09d6598eb639bccf0353dbb" alt="" /></p>The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/african-caribbean-nations-call-formal-023334212.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/african-caribbean-nations-call-formal-023334212.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 killed in large fire at luxury resort, several others injured]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04890A20E7FFE28CA7940E7789290D8F7D5BCCC68CFDB0D6F8865F64A5965C3E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F8cc43763371dd7b7d674b561546715d9" alt="" /></p>One person was killed and several others were hurt when a fire broke out at a luxury beach resort in the Dominican Republic on Friday, local officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/1-killed-large-fire-luxury-002700373.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/1-killed-large-fire-luxury-002700373.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1508213E863E516C881FF9DE43402BE8D7FED441307F01B280EC97B8B6F52A00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F366336ce62699440db79d791c70515bc" alt="" /></p>SANTO DOMINGO, June 19 (Reuters) - A woman was killed and nearly 1,700 tourists were evacuated due to a large fire at a hotel in the Dominican beach resort of Bayahibe, local authorities said on]]></description>
-            <link>https://www.yahoo.com/news/world/articles/woman-killed-1-700-evacuated-005434828.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-killed-1-700-evacuated-005434828.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['All we've got left is the legend': Why the death of the famous Major Oak matters]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2ADB2F03BAE4FE48C766B009EF9A5A94D9CB8D446A408BF0FD013D5BB7835160/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2b2ca147c034d4fac26acd54a2cec8dd" alt="" /></p>The Major Oak is a source of pride, and was a living link to the legends of Robin Hood for generations.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/weve-got-left-legend-why-005128102.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/weve-got-left-legend-why-005128102.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain's power bills fell as the Iran war rattled markets, and households saved €10 a month]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBF58A3F96C6724C67BD8AF894705D6A839794FEE8221A273C9B41BB169DEA8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6b1079c6cfa12e1a35d879a59a6bb2fc" alt="" /></p>Gas has set Spain's power price only about 9% of the time so far in 2026.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spains-power-bills-fell-iran-001100553.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spains-power-bills-fell-iran-001100553.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Frank Stronach Found Guilty Of Sexual Assault, Indecent Assault]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FB59FCEA3489DA5EA20EB419A2998F804B7B9DF1559F10952860D9148408DE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpaulick_report_articles_879%2F2459d279d9bfd1ba3afc3aae46f7c467" alt="" /></p>Frank Stronach, who built a multiple Eclipse Award-winning racing and breeding operation and owned some of horse racing's most important racetracks, was found guilty in a Toronto, Canada, courtroom on June 19 on one count each of sexual assault and indecent assault in in cases dating back several ...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/frank-stronach-found-guilty-sexual-213726064.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/frank-stronach-found-guilty-sexual-213726064.html</guid>
-            <pubDate>Sat, 20 Jun 2026 04:48:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourist dead after massive fire breaks out at Dominican Republic resort: Officials]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/092DA94AAD0087576CC6C17B18A599E231152CD2FB7E1FF674F95C656FEEC460/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F98e55e04bdc6c2c49be01442d6c805d8" alt="" /></p>A woman from Italy was killed in the blaze, officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tourist-dead-massive-fire-breaks-230443215.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-dead-massive-fire-breaks-230443215.html</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands of UK criminals hit with World Cup drinking ban: ‘One slip up could send them to jail’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92A7BC678CD9BD0AA00C7D1BA520C3B9195D59313EE98354C094F6AC1ED7FCE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_us_sports_articles_270%2F994becbd662497d774136070c35f27e7" alt="" /></p>The ban will be enforced through hi-tech ankle tags, the Ministry of Justice has said]]></description>
-            <link>https://www.yahoo.com/news/world/articles/thousands-uk-criminals-hit-world-230100286.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-uk-criminals-hit-world-230100286.html</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two-train crash leaves at least 1 dead, 89 injured as emergency crews rush to chaotic scene]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14938D3B60FBE21EE10BC5D914577816FE36AFAA27D9142F26EE9D7ABF9E7C57/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6be412971282d0785911d6275636361f" alt="" /></p>Two trains crashed into each other near Bedford, England, with an ambulance service confirming at least 1 death and over 80 people injured.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-train-crash-leaves-least-213407138.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-train-crash-leaves-least-213407138.html</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Opinion - Frontlines with Robert Sherman: Strait of Hormuz feels tense and uncertain]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7DB0140E74BCF0F374B7D09FFD2A16DC37D3545205DB26AA0750468A4565CCF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F272249458b3a0b5e7c982057d4e09ec4" alt="" /></p>As the announcement came the Strait of Hormuz would reopen, my producer and I found ourselves in the middle of the waterway.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/opinion-frontlines-robert-sherman-strait-211925352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/opinion-frontlines-robert-sherman-strait-211925352.html</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Strait of Hormuz feels tense and uncertain as peace deal takes hold]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8EDB1546220236E4FABF1C5981375F688454A0761C42CFE69D15072BADB41A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F577a1c080c74b76764fcf22168b8e9b5" alt="" /></p>The Strait of Hormuz. A battlefield. A point of leverage. A geographic bend whose name has now found its way to kitchen tables across the globe. Since the early days of this war, few captains have dared cross it ever since the Islamic Revolutionary Guard Corps announced it was closed. There have been steep consequences…]]></description>
-            <link>https://www.yahoo.com/news/world/articles/strait-hormuz-feels-tense-uncertain-210736273.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strait-hormuz-feels-tense-uncertain-210736273.html</guid>
-            <pubDate>Sat, 20 Jun 2026 00:02:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Passenger trains collide in England, multiple people seriously injured]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F4D75D4C92D9CEA98D51AEF554394B7FCE7B7CB9574467F686F7586CD65D64C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F33396492a825241cbbae59f26bf44e95" alt="" /></p>Two passenger trains collided north of London on Friday, snaring commutes as several train lines were closed while emergency services responded.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/passenger-trains-collide-england-multiple-221959781.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/passenger-trains-collide-england-multiple-221959781.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1 killed, dozens injured after trains collide in England, British officials say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE2C4EF98A757D0A684D44ABFDBD440FAAF4BA68270CE19229D1A135A194942/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fd96cd2cabd50fb53616e779a6d5adf20" alt="" /></p>At least one person was killed and dozens more were injured after two trains collided north of London on Friday, British officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/emergency-services-respond-two-trains-190045651.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/emergency-services-respond-two-trains-190045651.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Highway patrol: US Marine F-35s conduct flight operations on Finnish roads]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9229F6451A0C0C7F0D93B4280DFCEAAD7A8B55F57B7D33B8AD2349EF62AF94C6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_times_968%2F25616b8b9717adbd3353ea04a2309ffc" alt="" /></p>The first ever deployment of U.S. Marine Corps F-35B Lightning IIs to Finland proved to be a memorable one.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/highway-patrol-us-marine-f-220221297.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/highway-patrol-us-marine-f-220221297.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Like China': Cubans welcome reforms but exiles remain skeptical]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/709C049E7512A9D6D2261C90354C7B6E237B04992EE2F9A41A83D3E2BD71B34E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd2e9337fd2acab3de0f5df02ca7eae2a" alt="" /></p>The revolution was televised -- but many Cubans missed it because they had no electricity.Mandao has been "in survival mode for several months," she said, with cascading power cuts braking home deliveries by disrupting mobile phone signals and leaving delivery drivers without power for their electric motorbikes.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-cubans-welcome-reforms-exiles-220216361.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-cubans-welcome-reforms-exiles-220216361.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congo says 933 Ebola cases confirmed, including 245 deaths]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB3B1B8EEB5E2F827F2E32857F2700269D89D8088A19D48D758A8E443B86B173/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3784ed6010b78af412aae0d2d1ba6820" alt="" /></p>KINSHASA, June 19 () - The number ‌of confirmed ‌Ebola cases in ​Democratic Republic of Congo has risen to 933, ‌including ⁠245 deaths, the country's ⁠health minister said on ​Friday. Speaking to ​reporters ​in Ituri ‌province, where the first cases of the ongoing outbreak were ‌reported, Samuel ​Roger ​Kamba ​said 80 ‌recovered patients had ​been ​discharged from Ebola treatment ​centres.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/congo-says-933-ebola-cases-220214827.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-933-ebola-cases-220214827.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New replica unveiled of Clydebuilt ship that changed the world]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/143542059EECD4884A83FCFD5F59144835A699DAF2789E4E0A2E628401C66C82/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc6fb1b8391b66f536b9bb82e8f58a2d1" alt="" /></p>A full-sized model celebrates Henry Bell's Comet, built more than 200 years ago in Port Glasgow.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/replica-unveiled-clydebuilt-ship-changed-220009141.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/replica-unveiled-clydebuilt-ship-changed-220009141.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos show Lebanon's shattered south as towns and villages await peace]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DA9A9B1C6ED8A8671339F60A7A5B25AD5B4463F0622C9F213B04152EA5EB221/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbd73a83ce2e643afc2a728ee97004159" alt="" /></p>On Friday, officials said Israel and Hezbollah agreed to stop attacking each other, raising fresh hopes that the conflict could ease after repeated ceasefires failed to hold.  In the coastal city of Tyre, after a U.S.-Iran preliminary deal to end the war in the region was signed, residents returned to neighborhoods reduced to rubble by Israeli strikes.  Apartment buildings stand gutted, streets are lined with debris, and families are beginning to assess the damage left behind.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/photos-show-lebanons-shattered-south-203119844.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-show-lebanons-shattered-south-203119844.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poland strips Ukraine’s Zelensky of top honor in WW II dispute]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1802B012F276AD21CE6E333099B4A49BB31F4961C7AC86E73535862C9B6402D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F74fd9e57f27c44f6ec73f9e6a96b9476" alt="" /></p>The move comes after Zelensky caused outrage by renaming an army unit after the Ukrainian Insurgent Army (UPA), nationalists who massacred Poles in World War Two.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/poland-strips-ukraine-zelensky-top-193928337.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-strips-ukraine-zelensky-top-193928337.html</guid>
-            <pubDate>Fri, 19 Jun 2026 22:46:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[51 Dead or Missing but 10 Survive After Boat Capsizes in the Sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E3490B087340CE20CAD53509ED92F80DC0711B694AEC9FA8EAFB7C3E07E8775/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2c7309776cbe72f757d29e8541e0cee3" alt="" /></p>Bodies reportedly were being retrieved after washing ashore in Libya]]></description>
-            <link>https://www.yahoo.com/news/world/articles/51-dead-missing-10-survive-212724404.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/51-dead-missing-10-survive-212724404.html</guid>
-            <pubDate>Fri, 19 Jun 2026 21:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One dead, several hurt after trains collide north of London]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/45DFFA090C5175316B5ABD9EDB300183510AFBA2B362E1439D9E4AC418165C4E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F61ab6a36e8958e4f07ba2df053a383fb" alt="" /></p>One person has died and a number of others are injured after two passenger trains collided in the Bedford area north of London on Friday evening, British Transport Police have said as they declared a major incident. BTP said their officers responded to reports of the crash at around 5:15 pm (1615 GMT) on Friday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/one-dead-several-hurt-trains-205639550.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/one-dead-several-hurt-trains-205639550.html</guid>
-            <pubDate>Fri, 19 Jun 2026 21:41:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tyre in southern Lebanon marks Muharram holy month after destruction from Israel-Hezbollah war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC343905837F0A9F46D6CC51FAEB1F7C67E5CBA2CE49D71F363B37E2299FA674/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F35b853def24291a0019c91aaefc39be1" alt="" /></p>Wearing a yellow scarf showing her son killed fighting for Hezbollah in southern Lebanon, Iman Dilbani wept during a religious sermon Friday in the battered southern city of Tyre during the Islamic holy month of Muharram.  Tyre, Lebanon’s fourth largest city, has been devastated by the Israel-Hezbollah war that reached a reported ceasefire Friday, with damaged buildings and structures reduced to rubble seen on almost every street following intense Israeli airstrikes.  Muharram is among the holiest months for Shiite Muslims and marks the martyrdom of the Prophet Muhammad’s grandson, Imam Hussein, and his 72 companions in the battle of Karbala in the seventh century in present-day Iraq.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tyre-southern-lebanon-marks-muharram-205628019.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tyre-southern-lebanon-marks-muharram-205628019.html</guid>
-            <pubDate>Fri, 19 Jun 2026 21:41:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
