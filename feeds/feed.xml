@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 22:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jun 2026 00:01:04 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
+        <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Buildings collapse as quakes rock Venezuela, 'high casualties' likely]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51363FA05C279E62B2CDEAB6F4A4D1A49B32615DA1AC3BB069DC1041E7C0B2A3/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5d95ad13b6994707f095c8509b6c5d2e" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/earthquakes-shake-venezuela-capital-221336869.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/earthquakes-shake-venezuela-capital-221336869.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powerful back-to-back earthquakes strike Venezuela, collapsing buildings in Caracas]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8D3DF67A86BBED7F455B50A7C98C42E07C70A6E71580E8ACD0319A8ED72F8C36/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe8bc57e104c12e13c95b6a9d4970352a" alt="" /></p>A magnitude 7.2 quake was followed second later by a stronger one of 7.5, causing panic in the capital.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/strong-earthquake-hits-venezuela-buildings-233141540.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strong-earthquake-hits-venezuela-buildings-233141540.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7.1 magnitude earthquake rattles Venezuelan capital, damage and injuries reported]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91690EC95D8820990DC8175D4E8042CD9387ABA201C9665EB694369D6AF12E78/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F0c8a79768bb427c27570147442b5ca89" alt="" /></p>The quake triggered a tsunami advisory.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/strong-7-1-magnitude-earthquake-225438281.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strong-7-1-magnitude-earthquake-225438281.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The legal fight to get equal pay for Germany's disabled workers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/270B33717497B1B05FD38251EB8E8901519EDF0E928F5C266A16375F3EFA5E10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F25f96531f33e64c42e2e06082e5203e7" alt="" /></p>A test case is seeking the minimum wage for 300,000 disabled people who currently get paid less.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/legal-fight-equal-pay-germanys-231033867.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/legal-fight-equal-pay-germanys-231033867.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back-to-back powerful earthquakes slam Venezuela, collapsing buildings in the capital of Caracas]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FE29A8D0A275CE78A33DC729863180352A2475354886A90DE7DDC4BBE7141F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2eea75ba4790543744a9d83530051a21" alt="" /></p>Back-to-back powerful earthquakes slammed Venezuela on Wednesday evening, collapsing buildings in the capital of Caracas.  The U.S. Geological Survey said the first earthquake had a magnitude of 7.1 and its epicenter was west of the community of Morón, located along the country’s Caribbean coast, about 168 kilometers (104 miles) west of Caracas.  The quake had a depth of 13 kilometers (8 miles).]]></description>
+            <link>https://www.yahoo.com/news/world/articles/lt-venezuela-earthquake-223817847.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lt-venezuela-earthquake-223817847.html</guid>
+            <dc:creator><![CDATA[AP]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2026 00:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Australia teen social media ban has little impact: research]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A67EDB834391EDF2F2873211E6B19B683D238382CBA607F50876965C8F461837/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb8197ee12079f6aa288ccf543c011fb5" alt="" /></p>Australia's social media ban for under 16s has had little impact on teenagers' scrolling habits, researchers said Thursday in one of the first evaluations of the world-leading measures."Australia's world-leading social media laws are not failing.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australia-teen-social-media-ban-223919361.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-teen-social-media-ban-223919361.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8D6FC13E005F21EE894B04D4C263E0C7BC10E2BAE0B92E9EB74F35A1F846AA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fe4d00b7af6d5618d6b6dd7927e6685a8" alt="" /></p>Fuel prices at Russia’s airports have spiked 17% in June.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-fuel-crisis-worsens-222049407.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-fuel-crisis-worsens-222049407.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FAB2C75896B984A61733B654B1D666D93DE246FC3B6CA85479E699C4D15E5B38/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff55dd5d92dddfc146d2bf76b84124d70" alt="" /></p>The Nobel Peace Prize nominee has spent years demanding answers about the missing in Balochistan province.]]></description>
             <link>https://www.yahoo.com/news/world/articles/woman-fought-her-disappeared-father-221436195.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-fought-her-disappeared-father-221436195.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE830C940419FE60C9888859359CC8F3007114E9FA747851E54C46D55E515217/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F0ec7b3f2b1717a85f55865851f8c3a25" alt="" /></p>Hura resident Raed Abu Al-Qian had been working on engineering projects in Gaza on behalf of the Defense Ministry. Raed Abu Al-Qian, a civilian contractor with the IDF, was killed by a building collapse in the Gaza Strip on Wednesday, the military announced.]]></description>
             <link>https://www.yahoo.com/news/world/articles/civilian-contractor-idf-unit-killed-220647371.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/civilian-contractor-idf-unit-killed-220647371.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2CC03D5D3599DE5E1B81352202B7BF601D17FE9F7F74488FCF342623993202BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F344e022af70e74c5e75be964b889caed" alt="" /></p>DAKAR, June 24 () - The ‌number of ‌confirmed Ebola cases ​in the Democratic Republic of Congo has ‌increased ⁠to 1,118, including 291 ⁠deaths, government data showed ​on ​Wednesday. The ​number represented ‌the total number of confirmed cases as of Tuesday, ‌according ​to ​a ​situation report ‌shared by the ​communications ​ministry.]]></description>
             <link>https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215400516.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-215400516.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71C9AD40D158159E26B66535F2744C2E0E458E146BEF66769E62CE8CF015FED3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F55f180fce0e1c837eebe2c1ab3b74ff1" alt="" /></p>The boy was treated for his injuries and was listed in stable condition, authorities said]]></description>
             <link>https://www.yahoo.com/news/world/articles/12-old-american-boy-attacked-211950048.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/12-old-american-boy-attacked-211950048.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88EE15549B926C009DD10068F79FBBE2A08C5E90E4E378249C4F664191B7F830/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F97ccb27374374a7e79f9756b8f06ac9e" alt="" /></p>Staff raced to save a 3-year-old from a crocodile enclosure. Now, detectives, a shaken family and a small English zoo are left searching for answers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/british-man-arrested-toddler-ends-205054821.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-man-arrested-toddler-ends-205054821.html</guid>
-            <dc:creator><![CDATA[Complex]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +102,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C36F8595ECA0C457A8BABA9339B17059206D3748A6EE4CD2172554F65E597F1C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdf3c16ccbc41e2c3dd9321d48fe1881f" alt="" /></p>The epicentre of global jihadism is today firmly planted in Africa's Sahel, where extremists are steadily expanding beyond the rural areas where they first sprang roots, killing thousands, roiling governments and sowing terror.  "The epicentre of global terrorism is in Africa," General Dagvin Anderson, of US Africom, said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rules-life-world-epicentre-jihadist-204915980.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rules-life-world-epicentre-jihadist-204915980.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +109,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F8DF69F2F095EA445CD69841ED9DD57D74A5C0722ABB21141D04724D3D7ED2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fslash_gear_112%2Fca3e9bc7bb195fffd29684dc7ee15a27" alt="" /></p>Tires on the wings of a jet may seem like an odd choice, but Russia is putting wheels on top of their fighters for a very smart defensive reason.]]></description>
             <link>https://www.yahoo.com/news/world/articles/why-russian-fighter-jets-tires-204500358.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-russian-fighter-jets-tires-204500358.html</guid>
-            <dc:creator><![CDATA[SlashGear]]></dc:creator>
             <pubDate>Wed, 24 Jun 2026 22:44:29 GMT</pubDate>
         </item>
         <item>
@@ -6987,41 +7018,6 @@ On Friday, hard-right Polish President Karol Nawrocki stripped Zelensky of the O
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The alarms were distributed to international nurses based at Altnagelvin Hospital in Londonderry.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hundreds-nurses-given-safety-alarms-151339105.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-nurses-given-safety-alarms-151339105.html</guid>
-            <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Hezbollah agree truce, US says, as fighting derails Iran talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/19DCC2F52316B9C55E3DB78E5EFF9F77AA60C080A55C4C8700B7A4AF88E0F860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3d5825ddd2faf9b974c7dd295a29d118" alt="" /></p>Israel and the Iranian-backed Hezbollah militia in Lebanon have agreed a new ceasefire, US government sources said on Friday, after a major escalation in fighting threatened to derail diplomatic efforts to end the conflict in the region. The agreement, brokered by the United States and Qatar, came into effect at 1300 GMT, the sources said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/us-sources-israel-hezbollah-agree-151155374.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-sources-israel-hezbollah-agree-151155374.html</guid>
-            <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Hideous’: Left and Right Slam Israeli Minister Declaring ‘All of Lebanon Must Burn’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB497DEE7CF21591074B4544C57967E294B2D38C8030D8252A1B1D4BB82B9FD0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2Fc5ae406be2364d0c272e9056e0a4b384" alt="" /></p>Jake Tapper replied, “Ben Gvir, an anti-Arab racist zealot, says ‘all of Lebanon must burn.’ That’s almost 6 million people. Hideous.”]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hideous-left-slam-israeli-minister-150939548.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hideous-left-slam-israeli-minister-150939548.html</guid>
-            <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos show Nagas protesting against rising cases of sexual violence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA21E71070D1EF5042C9AD747829E943C2B37DC404C23C6412BA342BA43C18AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6e0cdea73969500de6c1c5ab3275577f" alt="" /></p>Thousand of people from the Naga community marched in pouring rain on Friday to demand justice for victims of sexual violence after a spate of cases reported in the state.  In Kohima, the capital of Nagaland, the protesters said it was time to break the silence around sexual violence for fear of societal recrimination and discrimination.  The small mountain state, that has consistently ranked as one of the safest places for women in India, has been shaken by a chain of sexual assaults in the past few months.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/photos-show-nagas-protesting-against-150621590.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-show-nagas-protesting-against-150621590.html</guid>
-            <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fisherman Missing at Sea for 7 Days Found Alive Wearing T-Shirt and Shorts in Tiny 13-Foot Boat]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35C3392581D7560311C1A939FDD42EBD633E04C98D0DB3AEC99261015295ED1C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fce4e7ddc8eb9d9245a5ffb59aee8397e" alt="" /></p>The man was found on Friday, June 19, in an aluminum rowboat in the northern Cook Islands, which is around 2,100 miles north of New Zealand]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fisherman-missing-sea-7-days-150437124.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fisherman-missing-sea-7-days-150437124.html</guid>
-            <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine is putting weapons stations on ground robots to make 'small tanks' that hunt Russia's infiltration teams]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/789C578B974F0CEA4697ADFB94433951B05E4039F93C8FBB2CAFC581428CE3CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fb1e5c3fa14f308812c43192f71bcba0e" alt="" /></p>Ukraine's Frontline Robotics makes a remote weapons station that used to be stationary but can now be put on a robot to make a "small tank."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-putting-weapons-stations-ground-150201007.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-putting-weapons-stations-ground-150201007.html</guid>
             <pubDate>Fri, 19 Jun 2026 16:28:43 GMT</pubDate>
         </item>
     </channel>
