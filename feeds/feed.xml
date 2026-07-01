@@ -4,16 +4,103 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 22:48:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 00:00:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A plane crashed into a tower in Beijing but China is not saying what happened]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8DC29F3EC693BEA2AB830E680B2602AD705F8E7803E1194CEF4E86DFD83E5FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F99da5c0f55a92c2371506e94c4ededec" alt="" /></p>The collision left holes on the side of the tower, but Beijing has scrubbed other visible traces of the incident.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/plane-crashed-tower-beijing-china-232414609.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/plane-crashed-tower-beijing-china-232414609.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[E-scooters being advertised for commuting despite UK road ban]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8F6E41CFFA4DBD35E34045AF6691F4C01AD71488C3F3FA63A881CADB53CE57F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F652922281bd64e66b4880dedce09fb63" alt="" /></p>A Press Association investigation found major retailers advertising e-scooters for "commuting" and "urban riding".]]></description>
+            <link>https://www.yahoo.com/news/world/articles/e-scooters-being-advertised-commuting-230513981.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/e-scooters-being-advertised-commuting-230513981.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK charities launch Venezuela earthquakes appeal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F97B2C4CECF533FA6E4B9D3B52269CB4881391471100C499DEA7DC74087972F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffb43000e756ec4c1f9e98489321a9f85" alt="" /></p>At least 1,700 people have died and tens of thousands are feared missing after the twin quakes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uk-charities-launch-venezuela-earthquakes-230449741.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-charities-launch-venezuela-earthquakes-230449741.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Investigators searching for suspect after package bomb in Monaco injures 3]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/563511F5D7553CD0B8ACDCE5B9DFC1CE623AAD1958296F803BDABB6DD5CC9396/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F8bf09590c5cb433ccc5819d4f4501ed8" alt="" /></p>A Ukrainian businessman was among the wounded, officials said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/investigators-searching-suspect-package-bomb-225755314.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/investigators-searching-suspect-package-bomb-225755314.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Almost 70% of Israel's public services are digitalized, National Digital Network report reveals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE10588F11B4AA63490BCAD4EFF7B8769FCDCB31D0E9A029733D5E8F94698935/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3f3a606f0a1d338e0abd89e3fb85a436" alt="" /></p>The report, submitted to the Knesset, mapped the 4,562 public services in Israel that are provided by government ministries, support units, corporations, and authorities. Almost 65% of all public services provided by Israel's state agencies are digitized, while 116 that should have been digitized by law are still pending implementation, a new report by the National Digital Network revealed on Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/almost-70-israels-public-services-224919323.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/almost-70-israels-public-services-224919323.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia toughens social media ban]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BB2C41914A59F41842D20640E7395E7F0B30CCD81714BF3D8B2EA0F1508788E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F6d45cdb58b91b4d32e51fd28b61aace7" alt="" /></p>The country doubled the maximum penalty imposed on social media companies that fail to comply with the ban on under-16 users, as evidence grew that children are circumventing restrictions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-toughens-social-media-ban-224850481.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-toughens-social-media-ban-224850481.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF unveils upgraded Hummer, featuring 'first of its kind' turbo system]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6942B5196303C4A4F5FB38E9F411B82F646CFCFAD6EE1A0C30D2D5C5B1363F05/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F5c0c820f4651ab135dc8e6c42b0ff33b" alt="" /></p>“There are some minor differences in appearance, but the real change is on the inside,” unit commander, Maj. A.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/idf-unveils-upgraded-hummer-featuring-224651056.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-unveils-upgraded-hummer-featuring-224651056.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former US Navy ship sunk by torpedo during strike drills]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/910B2BF920B6CCDE939C65CCBE403F5EA90EA9BE03D871B9D9FAF52AB97BF59B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fa15848e6e9cf47ff7167ea7ed62387d6" alt="" /></p>The decommissioned USS Juneau was struck more than 200 nautical miles off the coast in the Mariana Islands Range Complex]]></description>
+            <link>https://www.yahoo.com/news/world/articles/former-us-navy-ship-sunk-213422431.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-us-navy-ship-sunk-213422431.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wave of attacks on Iran's IRGC raises questions about renewed Kurdish insurgency]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C3D57084E9FC1F86C3F340783D0C0A5B073853FF1AB50B7DBCF47524572A910/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fe2de6ad6a611c861b5a949ebfb4781e0" alt="" /></p>Islamic Revolutionary Guard Corps forces face deadly attacks across western Iran as clashes spread, raising questions about an escalating Kurdish insurgency amid U.S.–Iran talks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/wave-attacks-irans-irgc-raises-203833742.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wave-attacks-irans-irgc-raises-203833742.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fourteen children killed in Pakistan when tutoring centre roof collapses]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A95563CF6FFF93C7F4ECE3DB87A99CEF3A724414E0917DFB5DFF38B3A55E7DD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F723d2bfad29ae6743bc4529101a3ef24" alt="" /></p>By Mubasher Bukhari LAHORE, June 30 (Reuters) - Fourteen children died after the roof of a tutoring centre collapsed in Pakistan's eastern city of Lahore on Tuesday, rescue officials said, as]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fourteen-children-killed-pakistan-tutoring-202327593.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fourteen-children-killed-pakistan-tutoring-202327593.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Les Mills, the Fitness Pioneer Who Changed Millions of Workouts, Has Died at 91]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F4FC1EB2EABE8D3A219EEACF7D861C4A5877B707521FB3797C93AA9EE66E37FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F55314d9ef93b2b7510e110d494e0aa14" alt="" /></p>If you've ever loaded a barbell for a BodyPump class, you've felt the impact of Les Mills Sr.—whether you realized it or not. The New Zealand Olympian and fitness pioneer, whose family helped transform group exercise into a global phenomenon, has died at 91. Mills passed away peacefully surrounded ...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/les-mills-fitness-pioneer-changed-202226995.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/les-mills-fitness-pioneer-changed-202226995.html</guid>
+            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
+            <pubDate>Wed, 01 Jul 2026 00:00:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Indonesian tech tycoon sentenced]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B7E03BEB81207041CFBB93FD055590655B6F4B197453F03B3661DA96E398E261/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fa064f076cb2e10c815890ac76e67f909" alt="" /></p>An Indonesian court on Tuesday sentenced a tech tycoon to 10 years in prison in a closely watched graft case.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indonesian-tech-tycoon-sentenced-223557553.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesian-tech-tycoon-sentenced-223557553.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.]]></description>
             <link>https://www.yahoo.com/news/world/articles/three-old-rescued-taken-hospital-213603432.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-old-rescued-taken-hospital-213603432.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91FF77609EDD14714C5A5824884B41AF8225495B431C9D9D3CAF95BB9A30D0BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F89783878268dbdf7846dd22b3ef620ca" alt="" /></p>Precautionary measures were taken after the patient was admitted to the Queen Elizabeth University Hospital early on Tuesday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/patient-tests-negative-ebola-alert-211853628.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/patient-tests-negative-ebola-alert-211853628.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CAB1ADA9233C0D95E490E67052B05B5C63BFF4B262CC54425C4FCB16F10774C8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F13b68880416d4390709dcf374593cd15" alt="" /></p>Israeli Prime Minister Benjamin Netanyahu has instructed the army to destroy the infrastructure of the Iran-backed Shiite Hezbollah militia in southern Lebanon, according to the government press office on Tuesday. During a troop visit, Netanyahu referred to all above-ground and underground facilities that the militia had used for attacks on Israel, such as tunnels.]]></description>
             <link>https://www.yahoo.com/news/world/articles/netanyahu-orders-complete-destruction-hezbollah-214931314.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/netanyahu-orders-complete-destruction-hezbollah-214931314.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CDE6F48849F53FCC59378BDE0DEB3DC7178AB99598554754009BF36DBE14794B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F21e4a40be41f0eab7b3394c739ac4c40" alt="" /></p>Videos capture some of the harrowing recoveries and frantic, ongoing rescue attempts, as international response efforts near one week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/see-babies-pets-pulled-alive-212521298.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/see-babies-pets-pulled-alive-212521298.html</guid>
-            <dc:creator><![CDATA[HuffPost]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +136,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B2429DE14E67F5FCC20B6A36816911FE7FB200C67B24FE347F409EB25059482E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F6eac15f0a5fb134b6db60b90d61b01c9" alt="" /></p>As the U.S. wavers over defending its NATO allies, a new rising power, Ukraine, may take the lead in protecting EU nations facing Russia’s drone and nuclear war threats.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eu-nations-scramble-ally-ukraine-211420867.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-nations-scramble-ally-ukraine-211420867.html</guid>
-            <dc:creator><![CDATA[Forbes]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +143,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8EE1BD15D416AC7374EF9AE253CC57F9631CC4B4F899780D07BD8257C2F0B1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F215e87e5f03dbb27408cf45508b192be" alt="" /></p>The ex-USS Mobile Bay is scheduled to be sent to the bottom of the sea by friendly forces in the next few weeks.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ticonderoga-class-cruiser-set-sunk-205613110.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ticonderoga-class-cruiser-set-sunk-205613110.html</guid>
-            <dc:creator><![CDATA[TWZ]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +150,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/975D49F409AE1E134294990C4B5F0400D860E695FDCEDBFE5EFE0649C79FF21B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6b0b106a8f6c00bee0763c2354144cf6" alt="" /></p>A breakaway faction of rebel Catholics is poised to consecrate four of its bishops in a dramatic break from the Vatican.]]></description>
             <link>https://www.yahoo.com/news/world/articles/breakaway-catholic-bishops-mounting-rebellion-204415877.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/breakaway-catholic-bishops-mounting-rebellion-204415877.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +157,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0CB3CE2E730F2DE76FC2C17669EC966F592892C9CCFAC538581C30BDCE894197/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F5b55d17f256997dff40c965844312361" alt="" /></p>Harry's request for police protection was denied just as he planned his U.K visit.]]></description>
             <link>https://www.yahoo.com/news/world/articles/harry-exploring-every-option-bring-201150074.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/harry-exploring-every-option-bring-201150074.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +164,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9943B4171FF05E96C386A6237706F88E0BD3DEA7874A874F40429A02A9475D2A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F96b36e712640c3a606ecba9c35e97ac4" alt="" /></p>Nearly 100 macaques escaped a government enclosure in Lopburi, Thailand, prompting officials to use tranquilizer darts and baited cages to recapture them.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nearly-100-monkeys-escape-enclosure-195837003.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nearly-100-monkeys-escape-enclosure-195837003.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +171,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C04820A9A767797476254C2C40D759DF1777A0F19781BB1EC99E93DE48A1EDDD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2Fc7ca0dae5c6cd3629ac6cc0317ff3b91" alt="" /></p>A man died, and a woman was injured when a natural arch rockway collapsed onto a jetski where the pair was sitting in Malta.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-dies-rock-archway-collapses-195159225.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dies-rock-archway-collapses-195159225.html</guid>
-            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
             <pubDate>Tue, 30 Jun 2026 22:48:30 GMT</pubDate>
         </item>
         <item>
@@ -6950,83 +7027,6 @@ The Ultimate Fighters Donald Trump invited to his cage fight on the White House 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23344733F4FF00E47833D614D8F82F28E57EB646D533201C3C5A0F9C4773B7E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F05ba0f53ad228ee6c2a16609d06b9514" alt="" /></p>NEW DELHI, June 26 (Reuters) - Japanese Prime Minister Sanae Takaichi will visit India from July 1 to 3 for an annual bilateral summit between the countries, India's foreign ministry said on Friday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/japan-pm-takaichi-visit-india-083050607.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-pm-takaichi-visit-india-083050607.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea to train 500,000 'drone warriors' in new military strategy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/999885468F96C013279BC3CD7FF141E96BA75C24EA06B18CB218AD5365CBB5E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fac935d152d27ab070c5f407233e29073" alt="" /></p>South Korea unveiled a sweeping plan Friday to rapidly expand the military's drone and counter-drone capabilities, citing lessons from modern conflicts and North Korean threats.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/south-korea-train-500-000-082942396.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korea-train-500-000-082942396.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magdeburg Christmas market attacker receives maximum life sentence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/099AB87E6A9008ED0D6E0CBBB01CAC6F6AE63D8AD53F763FBCFD4C901FE23AE8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F10f61eb436d2a52180c88cf6fd931aae" alt="" /></p>A German court has handed down the maximum sentence to the man who drove into a Christmas market in Magdeburg in 2024, killing six people, convicting the Saudi defendant of murder and sentencing him to life imprisonment, while also finding exceptional gravity of guilt. The Magdeburg Regional Court reserved the right to order preventive detention at a later stage.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/magdeburg-christmas-market-attacker-receives-082747133.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/magdeburg-christmas-market-attacker-receives-082747133.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela earthquakes: bodies recovered as rescue efforts continue in La Guaira]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C96EBC7831C4323D3D8D6478E4AF69927FFCB3C3236B30BF2DC3DCDF2F50F427/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F83464d9c632cb90a14e0cc06e3a9d886" alt="" /></p>Rescue teams worked through the ruins of collapsed buildings in La Guaira on 25 June after twin earthquakes devastated northern Venezuela, killing at least 188 people and injuring around 1,500.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/venezuela-earthquakes-bodies-recovered-rescue-082327707.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-earthquakes-bodies-recovered-rescue-082327707.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video of synchronised yoga record attempt in India's West Bengal state is AI-generated]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8CC780EC6C83C021EE54110CF5A2FBE99CF678087BD61F46F4C7C83D7E2124A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fb256612e7bd34f56924b55b67d8fbb44" alt="" /></p>After the West Bengal government announced plans to set a new world record by having yoga practitioners do synchronised poses on 500 boats on the Hooghly River, an AI-generated video was shared in posts falsely claiming it showed the attempt. The video does not match photos of the event on the river, and contains visual errors indicative of synthetic content. The person who created the video told AFP it was made using ChatGPT, Gemini, and Kling 3.0.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/video-synchronised-yoga-record-attempt-082253087.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-synchronised-yoga-record-attempt-082253087.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Worst nightmare': Missing pet python found slithering by parking lot stairs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A36856CDCAAF6B8AE9272E306DD8A1272E042BCF556D4B22766AB5C698F2D16E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F4d7b7c377efa634aabc97c7dd19ba36a" alt="" /></p>This species is usually considered timid and typically grows to around three to five feet long.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/worst-nightmare-missing-pet-python-082100065.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/worst-nightmare-missing-pet-python-082100065.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU releases €3 billion loan for Ukraine as US-Iran talks remain fragile]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26B09E21A8CA043F2F637A29EBD189E3EC466EBBCB7F7FD76DD9F6CDC84435B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fadaaafd4729a8a68031f842e98dfae43" alt="" /></p>Ukraine has received 3.2 billion euros as the first disbursement under the European Union's 90 billion euro support loan. Meanwhile, an Iranian diplomat rejects UN inspections of Iran's nuclear sites, saying such visits can only come after a final deal.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/eu-releases-3-billion-loan-062304909.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-releases-3-billion-loan-062304909.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home of spy in Novichok attack for sale]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1ACE7B9B1C55239723E6E11163EB6108AA7AD3629B2829CD9B6E7C822F34A88/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F32d23328ba55e00a3829da7974cb7cbd" alt="" /></p>The house is for sale as 30% shared ownership with Wiltshire Council.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/home-spy-novichok-attack-sale-080702945.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/home-spy-novichok-attack-sale-080702945.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World aids rescue effort as Venezuela quake death toll hits 235]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48EF21A1B48E12B02D4D2B43A88AAF6104BF82A7361042A113FAA517BFA15CA6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F77c3aeec08422660afbeef7ba9a7d15e" alt="" /></p>Rescuers and humanitarian aid are flooding in from across the Americas as hospitals fill up with patients.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/neighbours-aid-rescue-effort-venezuela-080228853.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/neighbours-aid-rescue-effort-venezuela-080228853.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Xi pledges to establish security partnership with Cambodia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99E38676C87188C704D7C1040E0DEC99464244787B1289A8EB764E1B5F01E3D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa03935cbf4ee633a48333cd2a0a8f216" alt="" /></p>BEIJING, June 26 (Reuters) - China is willing to establish a security partnership with Cambodia, President Xi Jinping said on Friday as he met with Hun Sen, president of Cambodia's Senate, in Beijing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/chinas-xi-pledges-establish-security-075522416.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chinas-xi-pledges-establish-security-075522416.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Years-old building collapse video from Turkey falsely linked to 2026 Venezuela quakes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/236C31490379C1F7F504FD5EE6BD6702845A17AF26C6C073E56A35C6A17EC232/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F2b169b5acc01349cde26500354a49c58" alt="" /></p>An old video of a block of flats crumpling to the ground after an earthquake was filmed in Turkey, contrary to posts claiming it shows a building collapsing after Venezuela's major back-to-back tremors in June 2026. The clip, which AFP geolocated to Sanliurfa province in southeast Turkey, was widely distributed by international news agencies in February 2023.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/years-old-building-collapse-video-074905513.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/years-old-building-collapse-video-074905513.html</guid>
-            <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany becomes key European hub for ketamine trade, UN says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22A9159127B9636FE323D16C6E473C491DA69A6E6D8F879056833F4EA7C44C03/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4be739b74ed845bd7ad64f133c13754f" alt="" /></p>Germany has become one of Europe's main transit hubs for illegal ketamine, second only to the Netherlands, according to a United Nations report that highlighted rising use of the drug across the region. The World Drug Report, published on Friday by the UN Office on Drugs and Crime (UNODC), was based on data from 2020 to 2024.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-becomes-key-european-hub-074323104.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-becomes-key-european-hub-074323104.html</guid>
             <pubDate>Fri, 26 Jun 2026 10:16:41 GMT</pubDate>
         </item>
     </channel>
