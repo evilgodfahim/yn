@@ -4,16 +4,95 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 22:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 23:57:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel marks 1,000 days since Hamas attacks with vigils and protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B59C33FA39EA4A844621D57E73CBC267CCE72F8DDF2A4D899B81247A8AC8EE3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fba11e6b530f75125a27f51f85414b0cc" alt="" /></p>Israel marked 1,000 days since the October 7, 2023, attacks with nationwide protests on Thursday, commemorating the victims of the unprecedented Hamas massacre. The first memorial ceremony began early in the morning at a crossroads in Galilee in northern Israel.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-marks-1-000-days-231935916.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-marks-1-000-days-231935916.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Massive hawk miraculously survives 200 miles trapped in car grille before driver realized]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C0F2643CF140AC4FE83217C14ABD6C13894631F529652A2AF5F8E9EDB11F7BF4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F6d6eb6ffdc6cc2d6d6d59503d6d306df" alt="" /></p>The hawk is now undergoing treatment at a wildlife rehabilitation facility with a good prognosis.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/massive-hawk-miraculously-survives-200-231539864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/massive-hawk-miraculously-survives-200-231539864.html</guid>
+            <dc:creator><![CDATA[California Post]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D777D076FED7DE77A758B9FE780039EDA3216467CF30B6E0F1EB361EF9C23E77/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9956c8337e1ba73c84ab47258ed42432" alt="" /></p>The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/strait-hormuz-bbc-finds-seized-231527410.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/strait-hormuz-bbc-finds-seized-231527410.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare copy of Declaration of Independence found by UK National Archives in papers of captured US ship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F0E1E06482F4A6E5FC2E0A25D997B27FB38F70712235227F0CBEB3AB69F128C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe4f395d3d93b295acb06f8290a6c5ed7" alt="" /></p>Michael Scurr has been volunteering at Britain’s National Archives for the last 11 years, spending his Thursday mornings painstakingly cataloging documents for the benefit of future researchers.  Then one day last May the retired insurance executive made a discovery of his own while sifting through the letters of an 18th century Royal Navy captain.  Carefully unfolding the document, Scurr stopped when he saw the word “Declaration” printed across the top.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rare-copy-declaration-independence-found-230355634.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rare-copy-declaration-independence-found-230355634.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pope cuts off conservative group]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F67820E0A1DA410A189B5356D1830BE7B5432BC4DC0C74C772FE41324E63B232/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Ff060c55ce879f00f5052de079cdc58ac" alt="" /></p>Pope Leo XIV excommunicated at least 750 priests belonging to the ultraconservative Society of St. Pius X on Thursday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pope-cuts-off-conservative-group-225937924.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-cuts-off-conservative-group-225937924.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bystanders rescue 11-year-old girl from kidnapping attempt in central Israel]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/76A3592EA7F4E80F1BDD962CA42456B5115C5E146C5909E42A7EE75485E98855/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff42eccd453d634ca44a3423fc725ff54" alt="" /></p>The girl's screams, clearly audible in the final seconds of a video documenting the drama, are heard by passing drivers, who realize something bad is unfolding and jump into action. An 11-year-old girl, called M.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bystanders-rescue-11-old-girl-223523861.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bystanders-rescue-11-old-girl-223523861.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defense Minister Katz, IDF chief Zamir mark 1,000 days since Oct. 7 with warnings to Iranian regime]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77DEEE2DFE7589EE7CD175A027A45F9C46A408B987B03726E3649D3B2C57EB4E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3bf0a5e5831aa76d19b264ef9567921e" alt="" /></p>Defense Minister Israel Katz said that Israel had “changed the face of the Middle East” after October 7 and that Israel "emerged a more united people and a stronger, more determined state. " IDF Chief of Staff Eyal Zamir marked 1,000 days since October 7 at Thursday’s General Staff situational assessment.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/defense-minister-katz-idf-chief-222643852.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/defense-minister-katz-idf-chief-222643852.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia “Highly Likely” Behind Drone Incursions Over U.S. Bases In England Report Concludes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3CEA255C7982496F41F38BE6EEAC9FC4D159852C03398B00CFA1154E8F25C34/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2Fc14f15941ed1352d0548ebe436eeba96" alt="" /></p>The findings by the IISS research organization are part of a larger look into Russia's role in drone incursions sweeping Europe since 2024.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-highly-likely-behind-drone-221022972.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-highly-likely-behind-drone-221022972.html</guid>
+            <dc:creator><![CDATA[TWZ]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Kurdish fighters killed in IRGC ambush as clashes spread across western Iran]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A26F2513A150FA70DDD9E2EC4356676E2AA70E50BF12C14DF34FB4D5DFB73D3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F0c4f2bbdb46211ad9e16dc72816c568f" alt="" /></p>The PDKI says six Kurdish fighters were killed in an Islamic Revolutionary Guard Corp ambush near Piranshahr, while the Revolutionary Guards claim five Kurdish militants are dead.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/six-kurdish-fighters-killed-irgc-205350994.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/six-kurdish-fighters-killed-irgc-205350994.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WWII pilot missing after secret spy mission finally accounted for more than 80 years later]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E65A0A4F0BB70634458BB54C017F70251961DA102C80B02EF3FDD8C570FD94E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb536237078b5e4152c4d207684183a19" alt="" /></p>A Rhode Island airman missing since a secret World War II reconnaissance mission in 1944 has been identified through modern forensic testing.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/wwii-pilot-missing-secret-spy-202446038.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wwii-pilot-missing-secret-spy-202446038.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Thu, 02 Jul 2026 23:57:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[4-Year-Old Dies After Being Rescued from 220-Foot Deep Hole Where He Fell While Playing Outside]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6547C0059B33F518573AE777D4EF4E79B6C4DF97757B177283EE1CC70456178B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fde1aabdabf61c473f7b13c857c9c1a80" alt="" /></p>The incident occurred on June 30 in the Indian state of Haryana]]></description>
             <link>https://www.yahoo.com/news/world/articles/4-old-dies-being-rescued-215236519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-old-dies-being-rescued-215236519.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +100,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11ABCB3FEA7CA35F89E9DED1F08D426FD641C1C500A189D2D11BC60D1D57F2EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F6cbce3ea599cd8ce110d0f7b09315dd2" alt="" /></p>For now, there appears to be little appetite to withdraw from the buffer zone, largely because of lingering questions over whether Syria’s new president is truly capable of controlling the country. One thousand days after the October 7 massacre, the buffer zones in Gaza and Lebanon have become well-known to the Israeli public, but the story of the buffer zone in Syria is entirely different.]]></description>
             <link>https://www.yahoo.com/news/world/articles/reporter-notebook-threat-along-syrian-213719719.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/reporter-notebook-threat-along-syrian-213719719.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +107,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6A98A18AAE3ECC7F47F2B88C904C7A3B948CCFAB3DD37DB8EDC15CEFEABFED81/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmsnbc_articles_593%2Faf19002a5c4d82a846ad8677ebea81a7" alt="" /></p>Today’s edition of quick hits.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thursday-mini-report-7-2-213007472.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thursday-mini-report-7-2-213007472.html</guid>
-            <dc:creator><![CDATA[MS NOW]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +114,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BEBBC96B49436710FB1D786166A5E89421CDAC2E6A3B83F050951F272DF33FCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F397579890d7fe5b669698fd6f9b63310" alt="" /></p>Miss Grand Orlando 2025 Skarlent Rodriguez and her boyfriend José Castro were found dead on June 29, after two earthquakes rocked the country last week]]></description>
             <link>https://www.yahoo.com/news/world/articles/beauty-queen-boyfriend-found-dead-211922524.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/beauty-queen-boyfriend-found-dead-211922524.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +121,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DDB200683B553CA48A96A62756DADE241880EFB1DC52468FB631F4BC798B4EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Faea4524c5d60952f5bcca3c709c797eb" alt="" /></p>A young World War II pilot who disappeared during a flight in 1944 has been accounted for, the Defense POW/MIA Accounting Agency announced Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/remains-world-war-ii-pilot-210813016.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/remains-world-war-ii-pilot-210813016.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +128,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1986413D1B9DC9782F6FA591FDB5877FD9105F108C07B33A2E7E1C90BE0F3AEC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Faad64eebc178cc5907776a46e8fdbaca" alt="" /></p>Two mountain dogs have been rescued from a mountain range after they became stuck.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mountain-dogs-rescued-mountain-range-210018856.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mountain-dogs-rescued-mountain-range-210018856.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +135,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/187FDDAF6FC03E1616DCEF8E3305B8D1D555E9265925315FD2ED6E8EE6A359F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fa5b24e07bcc2e92e75b6c888c176c44e" alt="" /></p>Turkish authorities have banned a cruise ship catering to American LGBTQ+ travelers from docking in the country’s ports, citing moral standards and “family values.”]]></description>
             <link>https://www.yahoo.com/news/world/articles/turkey-blocks-american-lgbtq-cruise-205942802.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/turkey-blocks-american-lgbtq-cruise-205942802.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +142,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5430086005F08F8BFC3958239F3ACEBFB67F678F522596ABEAAEBC14CCA8409/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforeign_policy_752%2Ffe215d66028d4602c3f0fc2e2a223d56" alt="" /></p>The deadly missile and drone bombardment was retaliation for recent Ukrainian attacks on critical Russian infrastructure.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-11-hour-assault-kyiv-204919314.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-11-hour-assault-kyiv-204919314.html</guid>
-            <dc:creator><![CDATA[Foreign Policy]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +149,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF00DEE633A630C3D3DF2E6E17085FF3526B52D578FCA44B0B39B9FD32A3CB2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa62f508c6931bf361a3fc44c17f53d4b" alt="" /></p>"Our plan here is to reduce the risk for swimmers and surfers in NSW beaches by using the latest technology."]]></description>
             <link>https://www.yahoo.com/news/world/articles/australia-deploys-fleet-surveillance-drones-204800053.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-deploys-fleet-surveillance-drones-204800053.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +156,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C90A486C231E318D85C368A121F3535FE221891191A893D95AE302E57A6F7010/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2Fe817902be7fcf1e1fc81a09865c32ebb" alt="" /></p>Venezuela is continuing recovery efforts after two major earthquakes struck the country last week. A magnitude 7.2 foreshock was followed less than a minute later by a magnitude 7.5 earthquake, leaving widespread destruction. According to reports, more than 2,290 people were killed and over 11,200 were injured. As search-and-rescue and recovery operations continue, a video…]]></description>
             <link>https://www.yahoo.com/news/world/articles/residents-accuse-venezuelan-officers-theft-203950609.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/residents-accuse-venezuelan-officers-theft-203950609.html</guid>
-            <dc:creator><![CDATA[The Daily Dot]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +163,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C154EB12A85FDFBF21E982D7E997D6E7998CE704126708B804120698FBD4E421/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F612370036767edb35eb389fa743ab81b" alt="" /></p>Eight men have been arrested in the UK as part of an international investigation into the organised drugging and raping of women by their partners.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eight-men-arrested-uk-over-200430498.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eight-men-arrested-uk-over-200430498.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 02 Jul 2026 22:34:48 GMT</pubDate>
         </item>
         <item>
@@ -6958,76 +7027,6 @@ Doctors and forensic experts in the port examined bodies under tarpaulins held u
             <link>https://www.yahoo.com/news/world/articles/searching-cambodias-stolen-crown-jewels-230020185.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/searching-cambodias-stolen-crown-jewels-230020185.html</guid>
             <pubDate>Mon, 29 Jun 2026 00:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video shows crocodile that killed Puerto Vallarta man in front of California couple — as new details emerge]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71919032A67429ADAA57D2B5115077AA023A5834B3D2D65233FD0525C0B2BA6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F33b7c25cca2fb2f4acb5b743697202ba" alt="" /></p>Horrific new video shows the massive crocodile that killed a 28-year-old man in Puerto Vallarta in front of a California couple. Grainy nighttime footage captured the huge reptile with its...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/video-shows-crocodile-killed-puerto-223951686.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-shows-crocodile-killed-puerto-223951686.html</guid>
-            <pubDate>Mon, 29 Jun 2026 00:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan says its security forces killed 29 militants along Afghan border]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B1C9E6924D12E38A622D1FFD5970951D96994EFBD7FE41D61CDEA99D9EEA19B4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F993dcd404fc4854b44474b40d32c1542" alt="" /></p>Pakistani security forces Sunday carried out an intelligence-based ground operation along the Pakistan-Afghanistan​ border, followed by "calibrated strikes."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pakistan-says-security-forces-killed-210038181.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-says-security-forces-killed-210038181.html</guid>
-            <pubDate>Mon, 29 Jun 2026 00:03:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More Than $24 Million Worth of Cocaine Found Hidden Inside Frozen Berry Shipment]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F232B60245822C6B2DE066ADCBDB2C59A9342DCAEBCED2044D3EE3F3AEC8FAD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb6ddc36a720d5c97e8ad94a1d70f1596" alt="" /></p>The drugs weighed more than 240 lbs.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/more-24-million-worth-cocaine-224457985.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-24-million-worth-cocaine-224457985.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bear attacks woman after her off-leash dog chases its cub in British Columbia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E713B9342B4BC8104211195A758D32DB05D3D3BF86FFB125AAE8F8837E6112D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5cc986b77b1788b88a86eb6d757d9f81" alt="" /></p>Authorities said the bear was reacting defensively rather than attacking without cause.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bear-attacks-woman-her-off-222400684.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bear-attacks-woman-her-off-222400684.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin acknowledges ‘difficult period’ as Ukraine ramps up attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B83ACCA8E3E831C0F1A9551BD516F98FD101E82C645C04A9477CC35C07E3F832/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F10170664a729073aade6b12129dcaba4" alt="" /></p>Kyiv struck a Russian defense plant and set fire to a major oil refinery as part of its efforts to weaken Moscow’s wartime economy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-acknowledges-difficult-period-ukraine-222214988.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-acknowledges-difficult-period-ukraine-222214988.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa braces for wave of anti-migrant violence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93AF0515DDD6E1ED5582481E6F7359B521260182DBBCD857DC1AF6249CB5F33F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F9c989b71d36a865846f9d668655542d1" alt="" /></p>Thousands of migrants are fleeing South Africa as the country braces for violence after an anti-immigrant group set a Tuesday deadline for all undocumented migrants to leave.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/south-africa-braces-wave-anti-221642807.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-africa-braces-wave-anti-221642807.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heat wave grips Europe, reigniting debate over AC]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0EBA130D8A86A51CCFEECCABB6A141244CFA2DBA51EED91FFDF8249787D96A3C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fe431771fa032da877761c8402e23ffad" alt="" /></p>Austria, the Czech ​Republic, Germany, and Poland sweat through record temperatures on Sunday, as a European heat wave reignited a political debate over the continent’s preparedness for hotter summers.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/heat-wave-grips-europe-reigniting-221029982.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/heat-wave-grips-europe-reigniting-221029982.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plane crash in Beijing reveals airspace security gaps]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC8BD8FFED3F05126EDA6723B7025739591D52CC768395C3E39A768DAFCEB042/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fb3e9d60696d3e3ac9eeeb719e7f09afc" alt="" /></p>A small plane crash in China’s capital exposed major gaps in the country’s airspace controls, analysts said, as the government tried to limit public discussion of the incident.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/plane-crash-beijing-reveals-airspace-220928512.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/plane-crash-beijing-reveals-airspace-220928512.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US and Iran test truce with fresh strikes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B7BB0F15CF63E05EA3D30B69D5FB057017B592C8F27EAFD101AEAEA17399D74/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fccdf1c318f5fd7d1411452fce2d21c70" alt="" /></p>Tehran attacked American military sites in Kuwait and Bahrain after the US accused Iran of attacking a cargo ship in the Strait of Hormuz and targeted Iranian infrastructure in response.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/us-iran-test-truce-fresh-220833389.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-iran-test-truce-fresh-220833389.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin acknowledges fuel shortages after Ukraine strikes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0B31FBA68680C66D9243E779DFE08E53CE698D9EACC5812473EB24450631EDD8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb7916450758101ca58315694773e1162" alt="" /></p>Russian President Vladimir Putin acknowledged that the country was suffering from "a certain shortage" of fuel in an interview published by the Kremlin Sunday, after repeated Ukrainian strikes in their four-year war.This part of his interview with Russian journalist Pavel Zarubin was not published by the Kremlin but cited by Russian news agencies.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-acknowledges-fuel-shortages-ukraine-212709869.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-acknowledges-fuel-shortages-ukraine-212709869.html</guid>
-            <pubDate>Sun, 28 Jun 2026 22:56:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
