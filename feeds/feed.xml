@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 20:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 21:27:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 21:27:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Berlin honours US 250th with red, white and blue Brandenburg Gate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8130B20602D725C8FE8222897CC6CD3CA39E89FAF96791201C8B5C8967B496B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc3b0fcba6e5c91982973b162eeacf3c7" alt="" /></p>The Brandenburg Gate, Berlin's most famous landmark, was illuminated in the red, white and blue of the US flag on Saturday evening to mark the 250th anniversary of American independence. The lighting display began at sunset and was to continue until midnight.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/berlin-honours-us-250th-red-204930420.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-honours-us-250th-red-204930420.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 04 Jul 2026 21:27:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lebanon’s Aoun calls on US to keep ‘always standing beside’ his country]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FF4B166519DA62BF8B06736F9579177265956CA547BE093C67A275C79DAC1D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff9ef4074697b34e7a75f686620ec4454" alt="" /></p>In a congratulatory message on US Independence Day, Aoun says he hopes Lebanon can ‘open a new page of hope’.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanon-aoun-calls-us-keep-200641521.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-aoun-calls-us-keep-200641521.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D06B4E71BE2BF14BE1A808513F7F6B23FB525367F0F0D7D634449ED6A7EBBDC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fccfec4ee96b171b03914d8c19954c30f" alt="" /></p>Witnesses say the boat may have been carrying more than 200 passengers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-20-drown-boat-carrying-191617318.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-20-drown-boat-carrying-191617318.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B12812521B440886BB66D8A43B3FBBB2DCB244A545D79B27BC1C66660E00B85/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd02c7b3782eee91c25d8db0e03510fca" alt="" /></p>Just when Pedro Cordido thought all was lost, he heard Erick Roa's voice.There aren't any," he says in a WhatsApp voice message.]]></description>
             <link>https://www.yahoo.com/news/world/articles/angel-darkness-venezuelas-deadly-quakes-183315152.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/angel-darkness-venezuelas-deadly-quakes-183315152.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A396932C3639BDE4021223FBFAC7D703F561983E0386166C24177F428E720F56/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fc1ed8025bf29bddf412d33189ec34149" alt="" /></p>Tragedy struck Venezuela on June 24 when the country was hit by consecutive earthquakes measuring magnitudes of 7.2 and 7.5 within seconds of each other. According to PBS News, as of July 2, the Venezuelan government estimates that 2,295 people have died, while another 11,000 have been injured. In ...]]></description>
             <link>https://www.yahoo.com/news/world/articles/lionel-messi-sends-message-support-170245670.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lionel-messi-sends-message-support-170245670.html</guid>
-            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C3947B0D94BE16AC78FB3CC0E234DE00D4A2339E7497B1548782F14BCE5752D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6508040316dfc7666a9a10af03823abe" alt="" /></p>By Mahmoud Issa and Rami Ayyub GAZA/JERUSALEM, July 4 (Reuters) - The photo depicts a blindfolded Gaza man stripped to his underwear and restrained face down on a cot while in Israeli custody.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-hasnt-said-soldiers-abused-153724240.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-hasnt-said-soldiers-abused-153724240.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 04 Jul 2026 20:27:48 GMT</pubDate>
         </item>
         <item>
@@ -7015,13 +7018,6 @@ Doctors and vets have also arrived in La Guaira to help.]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16CD660576654C55166689AF49871CA3F410D281AB7116E26F97687F676D6F03/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2F31660decabfa7b5aad0bec913db4065b" alt="" /></p>Russia claimed to have downed at least 419 Ukrainian drones overnight.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-hits-moscow-satellite-center-110233345.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-hits-moscow-satellite-center-110233345.html</guid>
-            <pubDate>Tue, 30 Jun 2026 12:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is the Indus Water Treaty and why are India and Pakistan willing to ‘go to war’ over it?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/411BB04F05BB65C2B65748E1EFA62F4E75CEFB24B1EC0257B3F84B4551910140/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fc0906a452527fc0f2bfef66aaa3de11b" alt="" /></p>Future of river-sharing treaty that has survived wars, border conflicts and prolonged diplomatic freezes in the past is now under threat]]></description>
-            <link>https://www.yahoo.com/news/world/articles/indus-water-treaty-why-india-110054505.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indus-water-treaty-why-india-110054505.html</guid>
             <pubDate>Tue, 30 Jun 2026 12:29:16 GMT</pubDate>
         </item>
     </channel>
