@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 22:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 23:12:42 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Taiwan’s Skyguard Anti-Aircraft Guns Now Equipped With Anti-Drone Nets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0D4D8C5A3B868D070732080FAA51954A15B2D2F67888031B55BB7B8BE9F631F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F9646921f34aa89b43bb72841487601d3" alt="" /></p>The protection reflects the growing threat Chinese drones pose to the very air-defense systems meant to shoot them down.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/taiwan-skyguard-anti-aircraft-guns-221700300.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-skyguard-anti-aircraft-guns-221700300.html</guid>
+            <dc:creator><![CDATA[TWZ]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran has shot down 30 US Reaper drones, US official says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE40E1BFED6ECE6624A1C206E20F180A063EDA6A71053750BFFF10CA05826CFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F65820fa479810f88ba38a671057b3293" alt="" /></p>Iran claimed to have shot one Reaper down during U.S. strikes on Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-shot-down-30-us-221553002.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-shot-down-30-us-221553002.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new tourism push could mean a death sentence for popular Neil the Seal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DFE95F20483332DE38EE804513C406FD434BACF69D9C00FAA414F67DB18C8BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Faa49195996720736b52184aab50984c9" alt="" /></p>A startled or stressed seal the size of a small car can hurt people without meaning to.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourism-push-could-mean-death-221000342.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourism-push-could-mean-death-221000342.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children keep dying in a country that made huge progress on measles]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC38A111F26E1DDA3617232D79FA7EB6F010E814421A0B3CFA57AF222B8B29DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F58346b9e15803bea5f38cefb9c9a8cf1" alt="" /></p>More than 120,000 suspected and confirmed measles cases have been reported in Bangladesh, where hospitals are overwhelmed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/children-keep-dying-country-made-220313624.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/children-keep-dying-country-made-220313624.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As France heats up, Paris renters without AC turn to spray bottles, fans, and canals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/856D76118D3D1BA7F80EF951923DD09337A45156AB17FF898F63DF6A9A428D36/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F903794db0538786b706d199cd9bc0951" alt="" /></p>"We are not all equally exposed, just as we are not all equally responsible."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/france-heats-paris-renters-without-212800047.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-heats-paris-renters-without-212800047.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After quakes, Venezuelans fear losing damaged homes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE83E6951A4D5A6496E822B5E939D72FF4602B34E367DD80484E4A2DF29EB4C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F159ccbb55b73e386c78cf91aac043e30" alt="" /></p>Morela Luna anxiously awaits the arrival of a team of experts to inspect her partially collapsed home, where her neighbors had to rescue her after Venezuela's double earthquake on June 24 that has claimed more than 3,600 lives.The June 24 quakes left nearly 18,000 homeless, according to officials.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/quakes-venezuelans-fear-losing-damaged-205326043.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/quakes-venezuelans-fear-losing-damaged-205326043.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Non! Ex-paratrooper’s march around the world halted by French coastguard]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B7C328BE1ABA3F38164F9B3A975E6622DB3D87DBEF475DEA6794023676F4B236/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F7d3f3d6b71823b36f0e8add90f3beb0a" alt="" /></p>He endured captivity in Russia and Panama during an epic 28-year journey across the world.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/non-ex-paratrooper-march-around-205205826.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/non-ex-paratrooper-march-around-205205826.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Wed, 08 Jul 2026 23:12:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[English boy, 3, faces more surgeries after zoo crocodile ordeal, and donors raise £25,000]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D0DC49A825BCD298F3B52577C7C13584E52B9B81F236B7BFDD7183FB4EF7ED0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F0e9bad597204a125b8d0d05c544f66d8" alt="" /></p>"We still don’t know the extent of his feeling, movement and function."]]></description>
             <link>https://www.yahoo.com/news/world/articles/english-boy-3-faces-more-211400129.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/english-boy-3-faces-more-211400129.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CF587C15C50334C3F52AC942CFC103280EDCC3105CBF784CF159047167562ACC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F364f0f8a420cc4e511c3d81ffd1519c5" alt="" /></p>The couple lived off the land until they were found]]></description>
             <link>https://www.yahoo.com/news/world/articles/couple-stranded-mountains-5-days-210123074.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/couple-stranded-mountains-5-days-210123074.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/150A5A48FF9B77464E6965CEF5428A8DFCAAA14A81A5A3F1C0F78A95D393916E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Fae48f1e0102df6a52d8a2728fcab3d25" alt="" /></p>Thousands more were injured when the pair of earthquakes struck on June 24.]]></description>
             <link>https://www.yahoo.com/news/world/articles/death-toll-venezuela-earthquakes-climbs-205057475.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-venezuela-earthquakes-climbs-205057475.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B65DAB5B2B60D4C4B12A816685047FF76A3F7EA37D65E525B310BE6B0E17E24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F866a94835a46b2c5163ae04232613c9a" alt="" /></p>Malik Agar Ayyir has proposed a national dialogue to end the civil war and steer Sudan towards democratic civilian rule.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-rebel-turned-government-ally-204915930.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-rebel-turned-government-ally-204915930.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/400F9C248A9D81BF8F3F899A81F0D9C1EA665797033127C14AFA51FE5EB1C5A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fcfbaabd713b3f5d1b02ddf224c614638" alt="" /></p>Boars are often spotted around apartment buildings because rubbish bins left outside attract them.]]></description>
             <link>https://www.yahoo.com/news/world/articles/cyclist-flees-wild-boar-france-203200339.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cyclist-flees-wild-boar-france-203200339.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Wed, 08 Jul 2026 22:00:47 GMT</pubDate>
         </item>
         <item>
@@ -6970,55 +7021,6 @@ Now the hard-partying Scots have been sent home with their kilts between their l
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5375A0EA2AC4376731B7163EEBA6FA1D9D4F6C4566923170DEEADC90BD50ED98/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdf524fe2bb0632da8962908917de78e7" alt="" /></p>A former Syrian air force colonel is unfit to stand trial in a landmark British case charging him with three counts of murder as crimes against humanity for attacks on civilians in 2011, a judge said Friday.  Not guilty pleas were entered on behalf of Salem al-Salem, 58, in the Central Criminal Court after prosecutors accepted medical findings that his rare neurological condition was too advanced for him to enter a plea or face trial.  Justice Bobbie Cheema-Grubb said al-Salem will face a trial of facts next year on murder and torture allegations but he won't be required to appear in court.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-syrian-colonel-unfit-trial-144808551.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-syrian-colonel-unfit-trial-144808551.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[As her 180-day mandate expires, Venezuela's acting leader defends quake response]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E02782E309C9FFCBA4835E42DE7495F6CFF1B91816C22E2DDA8EE8CE7BC3B973/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9d06246a3860182ff55a9094f01d91c9" alt="" /></p>As public criticism mounted over the pace and efficiency of Venezuela’s earthquake response, the government of acting President Delcy Rodríguez issued its first public defense of the operation with her 180-day mandate as interim leader expiring on Friday.  The powerful twin quakes struck the northern state of La Guaira on June 24, and killed more than 2,295 people, according to the latest government figures.  Rodríguez, who served as deputy to former President Nicolás Maduro until his January capture by the Trump administration, waited more than an hour after the quakes initially hit before making her first public statement, and held her first news conference on the government response late Thursday — eight days after the quakes.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/her-180-day-mandate-expires-144705926.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/her-180-day-mandate-expires-144705926.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syrian ex-colonel accused of crimes against humanity deemed 'unfit to plead']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE2FECB801AB34839BF2090323FC76DE0828826D93DD78508D5E2496657D59AC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F022b44e93d3fa2140444bb1a2f156495" alt="" /></p>Salem Al-Salem, 58, is charged with three counts of murder as a crime against humanity, three counts of torture and one charge of conduct ancillary to murder.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syrian-ex-colonel-accused-crimes-143458077.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syrian-ex-colonel-accused-crimes-143458077.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German officials commemorate Jews deported to Latvia during Holocaust]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B9FE81B64EB199D57EAA3956391EC9069522F407E32A3AB471EE8167353B5F3A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F689be3469e7130191e93a8968445f6ee" alt="" /></p>Representatives from more than 30 German cities attended a memorial ceremony in Latvia on Friday to commemorate the deportation and murder of European Jews 85 years ago. Delegates from the German Riga Committee paid tribute to the victims of Nazi atrocities committed during World War II at the Bikernieki Cemetery and Memorial in Riga.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-officials-commemorate-jews-deported-143438007.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-officials-commemorate-jews-deported-143438007.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Patti LuPone 'furious' after Turkish authorities ban American LGBTQ+ cruise from docking]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/954D6875DD358CF8000BD6702B1B849EAC9477044EB6A256FC2EE5A2E24E4478/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcover_media_us_articles_275%2Fd94c68923382bc554b8f2f4cd946bf65" alt="" /></p>Patti LuPone declared that the travellers on her cruise "deserve so much better than this".]]></description>
-            <link>https://www.yahoo.com/news/world/articles/patti-lupone-furious-turkish-authorities-143121207.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/patti-lupone-furious-turkish-authorities-143121207.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourners bury victims of Damascus cafe bombing with six lawyers among dead]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A49704B1D39D3C6D9BFD56C5D050A27C2F3BEDA9D2A34191F6B6AAF4FBBE1EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fbe985a5df97be5661381fb7a6ffbcb40" alt="" /></p>Syrian Bar Association mourns six lawyers amid international condemnation of Thursday’s attack in Damascus.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mourners-bury-victims-damascus-cafe-142845196.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mourners-bury-victims-damascus-cafe-142845196.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia equipped its submarines with anti-drone cages to protect against Ukraine's deep strikes, Western intel says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3586291AD6537F9324952FF72ED867C7F2BDA4C403ECBB97F9F48FA4A39B49C2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F40636d13a6fb34d138d3e18ae4950796" alt="" /></p>Cages are common on the battlefield to give armored vehicles more protection against drones. They are increasingly used to shield infrastructure.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-equipped-submarines-anti-drone-142518560.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-equipped-submarines-anti-drone-142518560.html</guid>
-            <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin is being forced to consider a perilous escalation with Nato]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B608F489583E79D55557387B9EEA0047D3E14365409BC3AD4EB840E622C63D6B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ff1acdd4d8e95f8bc903d33ea9db6d780" alt="" /></p>Experts call it “horizontal escalation”, meaning the calculated decision of an aggressor to embroil another country in a long-running conflict. As Vladimir Putin casts around for ways of breaking the bloodsoaked deadlock in Ukraine, it is plausible to suppose that he might consider attacking an “unfriendly” state like Poland.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-being-forced-consider-perilous-142319924.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-being-forced-consider-perilous-142319924.html</guid>
             <pubDate>Fri, 03 Jul 2026 16:20:08 GMT</pubDate>
         </item>
     </channel>
