@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 17:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 18:26:14 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 17:28:36 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 18:26:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuela quakes have killed 4,333, injured 16,740, National Assembly president says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5B911628902A658B3F9E67890538DFBBA538035C8B7E7F3A1087B632DA710AD0/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2aee8dd9c34dcf4cbd93a012b37e4fec" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/venezuela-quakes-killed-4-333-174759459.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuela-quakes-killed-4-333-174759459.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 18:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Runner gored in face and at least 12 others injured during Spain’s historic bull run festival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/89EBB5C058B16E0DCE59CD43AEFAB7C493A3971DF1052F2F0551F445B729E362/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F40bee785a1cb6f0961627d49e4a5ac88" alt="" /></p>Americans are the biggest group of foreign bull runners]]></description>
+            <link>https://www.yahoo.com/news/world/articles/runner-gored-face-least-12-174437220.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/runner-gored-face-least-12-174437220.html</guid>
+            <dc:creator><![CDATA[The Independent]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 18:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters gain upper hand on deadly Spain wildfire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31DC886D7AF7CF982A017D0456DE2B806188F58279DC75D6F76536EAC2841009/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F05efc1d19e48d571c36b937e2243c0db" alt="" /></p>Firefighters battling a wildfire in southern Spain that killed 12 people started to contain the blaze on Saturday as the hardest-hit village remained deserted, with charred vegetation and blackened homes bearing witness to the fire's destruction.The hillside village bore the scars of the fire: vegetation had been reduced to ash, while some homes had blackened walls.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/firefighters-gain-upper-hand-deadly-153708501.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighters-gain-upper-hand-deadly-153708501.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 18:26:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four settlers arrested in attack on journalists, including CNN, in West Bank]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/307766D6C30772ACD77282A5F1BF881CE1B0E259B8209AD36F80BAC70B576439/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F5b1eb5e2c9669ab78af7d070e0b53739" alt="" /></p>Four settlers were arrested after an attack on CNN and other journalists in the occupied West Bank on Saturday, according to Israel Police.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/four-settlers-arrested-attack-journalists-144129701.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-settlers-arrested-attack-journalists-144129701.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 18:26:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suspect in Widdecombe killing released, search continues]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A252FAC5C94AEE8E7B51CA8DBB195F827F3623E346E361EDCFBBAA1CBED9A70C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fb121635b8a3e1ad156211aeccf34ec47" alt="" /></p>A man arrested in the attack and killing of British former Member of Parliament Ann Widdecombe has been released and is no longer a suspect.]]></description>
             <link>https://www.yahoo.com/news/world/articles/suspect-widdecombe-killing-released-search-170816675.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspect-widdecombe-killing-released-search-170816675.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 17:28:36 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2604F2B34207CD8E305DAE83EDA8D99C5EE5EC0ED8B0261590F76B0E414672EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F62d80a8a012b36efbe71d215279fb7fa" alt="" /></p>A Pride parade was under way in the eastern German city of Cottbus on Saturday without major disruptions, after a number of suspected far-right attacks rocked the city in recent months. A police spokesman said no disruptions had been registered so far, with the event due to continue until the evening.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pride-parade-held-germanys-cottbus-164820809.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pride-parade-held-germanys-cottbus-164820809.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 17:28:36 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C2711E62A0E1E3DCA99B470591D7466DF9AA9A201D4C32E4C03C93E4DB42EC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe1f7a69cb7d77403d4ea46ff3a2cabc4" alt="" /></p>Climate change, poor rainfall, deforestation, overgrazing and crop pests are to blame, say experts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/sixteen-starve-death-uganda-drought-163633411.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sixteen-starve-death-uganda-drought-163633411.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 17:28:36 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA57257FCFA9780DD26096BE0CD74EF1835C5AB0E9A399E87ACE372CDED2A268/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3e0867f8514b9df7af21f48849b7b97b" alt="" /></p>Victims of Spain’s deadliest wildfires in four decades “ignored the order to evacuate”, the Andalusian emergencies minister has claimed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spanish-wildfire-victims-ignored-evacuation-161140547.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spanish-wildfire-victims-ignored-evacuation-161140547.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 17:28:36 GMT</pubDate>
         </item>
         <item>
@@ -6990,34 +7018,6 @@ The C]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8078D771386775C792E952E9C882AB2E7FF2A71026B113DD9939003A9C2A73C2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8adae01cac57aac90dac59661353b32c" alt="" /></p>Makers of Chauhaan accused of mocking more than 1,000 Kashmiris partially or completely blinded by pellet shotguns.]]></description>
             <link>https://www.yahoo.com/news/world/articles/limited-damage-upcoming-bollywood-film-051153504.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/limited-damage-upcoming-bollywood-film-051153504.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four historic London theatres on at risk register]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Theatres Trust warns that the four London venues need urgent support to secure their future.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/four-historic-london-theatres-risk-050056219.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-historic-london-theatres-risk-050056219.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abdul Ahad Mohmand, cosmonaut who became the first Afghan in space]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E649C50F62C565CACAC203BF2EC8CA29DAB07AC9E1C14D3A0FE42BEEC88A4589/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2f3a260a7b4883eb73da82ba466ef341" alt="" /></p>Abdul Ahad Mohmand, who has died of cancer aged 66 or 67, was the only citizen of Afghanistan to travel into space; three years before Britain’s first astronaut, Helen Sharman, he orbited the Earth in 1988 courtesy of an international space-flight guest programme to carry pilots from nations allied to the former Soviet Union.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/abdul-ahad-mohmand-cosmonaut-became-050000954.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/abdul-ahad-mohmand-cosmonaut-became-050000954.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada picks Germany’s TKMS for historic submarine buy, in nod to Europe]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3EEFD9D7A9A31E943297C87D48424B2C2FC3717DA96CF4C69F8EDB76463DCE77/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdefense_news_499%2Fd6c2bcf9043c28ef47e747a5f1c5d2bc" alt="" /></p>The firm had offered its Type 212CD submarine which is being built for both Germany and Norway, beating a competing bid from South Korea's Hanwha Ocean.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/canada-picks-germany-tkms-historic-045944511.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-picks-germany-tkms-historic-045944511.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London osteoporosis care hit by postcode lottery]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A1DB028CD26CDE55A577A7E743B49C015EFB7DBBFDAA5C380B5DE69B13B0C564/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F02ab5783a0c0c7d31dbfbdaeeda3cbbf" alt="" /></p>Delays in rolling out fracture liaison services (FLS) have created a "postcode lottery" in London, leaving many osteoporosis patients without access to fracture prevention care.  Three of London's 16 NHS trusts do not have one, while the Royal Osteoporosis Society (ROS) says no clinics have opened since a national rollout was pledged two years ago.  About 382,000 Londoners have osteoporosis.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/london-osteoporosis-care-hit-postcode-045910436.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-osteoporosis-care-hit-postcode-045910436.html</guid>
             <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
         </item>
     </channel>
