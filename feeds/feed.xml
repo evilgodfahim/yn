@@ -4,16 +4,87 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 15:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 16:25:30 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[German woman dies in paragliding accident in Austrian Alps]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E15BDDC41C04BA00BC643D34082579EAE360D00F3FAE86C54E2456FDB485E796/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2cd9afb3f04ec184eac1c955551555bf" alt="" /></p>A German woman has died in a paragliding accident in the Austrian Alps, police said on Saturday. The 28-year-old crashed into a forest near Neustift im Stubaital on Friday and struck a tree, sustaining fatal injuries.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-woman-dies-paragliding-accident-160332960.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-woman-dies-paragliding-accident-160332960.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland commemorates victims of WWII Ukrainian massacres amid major row]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3FFCB0CCC7F12333DBF4C95475095FE9DAD20DC7F7A05E1412ABEA81F6D4ED67/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc1466f6b2539adb74aea916df24a1326" alt="" /></p>Poland on Saturday commemorated the Polish victims of massacres carried out by Ukrainian fighters during World War II, amid an ongoing row that has severely strained ties between the neighbouring countries. "We refuse to let the 120,000 Poles – civilians, women and children who were brutally murdered by Ukrainian nationalists – be forgotten," Polish President Karol Nawrocki said at a memorial ceremony in the village of Radruz near the border with Ukraine.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/poland-commemorates-victims-wwii-ukrainian-160332213.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-commemorates-victims-wwii-ukrainian-160332213.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Artwork marks 100th anniversary of general strike]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB65D06F6DC820AC9FAAB4391352A41EA6A0AAFAB117570502EC9BE697F2B1E6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe555329edd28ea4f286798e77005da46" alt="" /></p>Art by North Tyneside Art Studio depicts the North East's connection to the 1926 strike.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/artwork-marks-100th-anniversary-general-153417827.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/artwork-marks-100th-anniversary-general-153417827.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[King Charles Reunites With Archie and Lilibet for First Time Since 2022]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/75E1A1C194D4E7261AE5D85368F211DD3816FCC0C7E8DAF306A075AD3BB3317B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Fd712a432fdb3fdfc0e1ec53bac9e6700" alt="" /></p>Reuters reported that Charles and Queen Camilla met Prince Harry, Meghan Markle and their two children on Friday, July 10, at the King’s Highgrove estate ... Read More]]></description>
+            <link>https://www.yahoo.com/news/world/articles/king-charles-reunites-archie-lilibet-153037309.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-charles-reunites-archie-lilibet-153037309.html</guid>
+            <dc:creator><![CDATA[Wealth of Geeks]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Algeria and Mali restore diplomatic ties following yearlong rift]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C77B985B8D537E51835250C33EE63A9E01C33A7BDEC3BA15D36BF737ABE9116/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff7319fce938e6dc3194fb0b20b264750" alt="" /></p>Relations begin to thaw as both countries reinstate ambassadors, reopen airspace closed to each other since April 2025.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/algeria-mali-restore-diplomatic-ties-152932568.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/algeria-mali-restore-diplomatic-ties-152932568.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Nations Where the Internet Remains a Luxury Only the Wealthy Can Afford]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43B833B23C474B797CE790A9D3C84E7F7A8834EC54F5379D6E101B50EF46504B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2F28a9bd9c4ce37d14ed9397460f4dd868" alt="" /></p>Image credits: Unsplash For most people in wealthy nations, a monthly internet bill is barely a passing thought. It slides out of a checking account automatically, and streaming, remote work, and video calls happen without a second glance at the cost. Yet in a surprising number of countries, getting online is treated more like a ...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/7-nations-where-internet-remains-152014445.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/7-nations-where-internet-remains-152014445.html</guid>
+            <dc:creator><![CDATA[Travelbinger]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diplomatic bags get a net-zero overhaul]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3C676350B8AFCF7B2D9AFA598AB4D72EA5631BB64ED627F5D2086324F7FBBC2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F653821096eb829bd4941b00273ab7686" alt="" /></p>As one of the oldest and most prestigious postal services in the world, the King’s Messengers are used to changing with the times.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/diplomatic-bags-net-zero-overhaul-150000116.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/diplomatic-bags-net-zero-overhaul-150000116.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marriage Traditions: The 5 Nations Where Arranged Marriage Is Making a Comeback]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC90D5C9AD94A1AEBB10BDC722F416C886A9E1BAD9DE79F8167E0585696968DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2Feb563825e9b38cd99af31b1faafbf4f8" alt="" /></p>Image credits: Unsplash For decades, the story of modern romance seemed settled. Swipe, match, meet, repeat, with parents and matchmakers pushed to the sidelines as relics of a slower world. That story is now being rewritten in unexpected places. Across several countries, a mix of dating app burnout, economic anxiety, and demographic pressure is nudging ...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/marriage-traditions-5-nations-where-143135128.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/marriage-traditions-5-nations-where-143135128.html</guid>
+            <dc:creator><![CDATA[Travelbinger]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After Great White Shark attack, Australia's most populated state doubles down on drone shark patrols]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4D2D1A36002ED7811472E23BBFED789E2C02865D9A884D68B0CB72DF1904AF2E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F2107490bda765274c9eba81c8d4119e5" alt="" /></p>Following a series of shark attacks, New South Wales is investing more than A$120 million to expand shark detection, drone surveillance and beach safety along Australia's busiest coastline.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/great-white-shark-attack-australias-140019774.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/great-white-shark-attack-australias-140019774.html</guid>
+            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 16:25:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[More than 40 kidnapped children and teachers freed after Nigerian army operation]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EB505EF57AF47C3D5A1AD7B0ACE047F1EE8B6AB4297D96A3B325B069EBB21025/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fefffd932d9f9a46bc1628dad5317bda2" alt="" /></p>"I feel happy and elated… I feel joy," the head of the local teachers' union tells the BBC.]]></description>
             <link>https://www.yahoo.com/news/world/articles/more-40-kidnapped-children-teachers-141938994.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-40-kidnapped-children-teachers-141938994.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +92,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C4CE3180D02B57E4EA9A3271F2D2AE2D9D16298926B4B342ECDE635535E252A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7b9daa779ba8c41e1c4f3a07528aece8" alt="" /></p>Russia struck Ukraine with missiles, drones and guided bombs on Saturday, killing six people and wounding dozens of others, officials said.In the northern Ukrainian city of Sumy, "a guided aerial bomb" killed four people including a young girl, the city's mayor Artem Kobzar said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-strikes-kill-six-ukraine-145554059.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-strikes-kill-six-ukraine-145554059.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +99,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/541AE0FA8735621D39A5699EB37C96527B0EA77E75DA1F7AC92B36DFE7C0DD17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9f951a19a38a228709329671868bf547" alt="" /></p>Local and long-distance passenger trains were running again on Saturday between the northern German cities of Hamburg and Hanover after major renovation works. The entire route between the two cities had been closed to train traffic since May 1 during the work.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germanys-busy-hamburg-hanover-rail-144834426.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germanys-busy-hamburg-hanover-rail-144834426.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C033CE951FC1B9520DA9128710BC245DAFA3F2AB28FFA6998C91B0F69F3BC614/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F09f0f955a48655db77b44dcb36cf6220" alt="" /></p>German authorities suspect sabotage after a fire on a major railway line disrupted services in western Germany, security sources said on Saturday. The sources said it was unlikely that a technical fault caused the blaze, which broke out beside the tracks on the busy route between the cities of Dusseldorf and Cologne on Friday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-authorities-suspect-sabotage-railway-144833528.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-authorities-suspect-sabotage-railway-144833528.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +113,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E9D4661A032F71562D3E3A4CA5AEC68F6F254DF534099F995A9A71E25592CC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe145efb4efd4349a6631d6214656ceeb" alt="" /></p>There were 32 tourists and four crew members on board the boat at the time of the tragic incident]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-15-tourists-killed-boat-142824009.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-15-tourists-killed-boat-142824009.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +120,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4F8FCEB0634BCA8077A95BE00049B71A87313764EAD3A59AD06BD9BC9D02E7D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Feea16d10d7843821bf97365c99ebf131" alt="" /></p>The Africa Centres for Disease Control and Prevention said the outbreak is the fastest-growing Ebola outbreak recorded on the continent.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-citizen-working-congo-tests-142143742.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-citizen-working-congo-tests-142143742.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +127,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE86F5514DB86BA034313ED5730C576CCCB29EE23F3CC057D56C6B63016F28A3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F01e12a62c2f241e60aeb8f4be31c01d9" alt="" /></p>The AI industry has blood on its hands.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ai-industry-finally-found-perfect-140100567.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ai-industry-finally-found-perfect-140100567.html</guid>
-            <dc:creator><![CDATA[Futurism]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +134,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93F86F9C0446F5DEB74A03CDCD77D51ACEF1F01FCC138CEC83E17932BA335274/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9e8fc02c69ba8c0f4371d27478bbf0b7" alt="" /></p>DHAKA, July 11 (Reuters) - Floods and landslides triggered by days of torrential monsoon rain have killed at least 44 people in southeastern Bangladesh and left over a million stranded as authorities]]></description>
             <link>https://www.yahoo.com/news/world/articles/floods-bangladesh-kill-44-leave-135045175.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/floods-bangladesh-kill-44-leave-135045175.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +141,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1CCCC37FCA7142C00DBFDAF3E64EE938A55A6FE9ADBD20209FD6A1B31E812476/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fab03740a0999a373f6a9816e54961464" alt="" /></p>As brightly coloured kites climb above Burin, a Palestinian village in the Israeli-occupied West Bank, children race across a sun-baked hillside, watching their creations soar into the sky.Kites in the black, white, green and red of the Palestinian flag soar overhead, joined by another in the colours of Egypt, flown in tribute to the Egyptian national football team.]]></description>
             <link>https://www.yahoo.com/news/world/articles/land-sky-west-bank-palestinians-133147426.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/land-sky-west-bank-palestinians-133147426.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +148,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11AF6866D4721C6E700C24F4C59DA7228C512A06D417528EBD9417D46360F20E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsnopes_632%2Fae55467306d4b4f1035008a1ab9fc129" alt="" /></p>Driver monitoring systems in cars have used cameras to detect distracted driving since at least 2006.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fact-check-eu-road-safety-130000587.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-eu-road-safety-130000587.html</guid>
-            <dc:creator><![CDATA[Snopes]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 15:29:03 GMT</pubDate>
         </item>
         <item>
@@ -6962,69 +7024,6 @@ The C]]></description>
             <link>https://www.yahoo.com/news/world/articles/too-ugly-too-noisy-too-040127304.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/too-ugly-too-noisy-too-040127304.html</guid>
             <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oil tanker hit by 'unknown projectile' in Strait of Hormuz, British military says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C5D7214713F872CC4741E812ABB09AEBC982C4C1F9FDAD58A5BADB7972F492C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F1818ab5091219c7e1cca540a86030b8e" alt="" /></p>Iranian state television said a liquified natural gas tanker came under attack Tuesday in the Strait of Hormuz off Oman after ignoring warnings, implying Tehran carried out the assault on a tanker it said was carrying natural gas from Qatar.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/oil-tanker-hit-unknown-projectile-034348464.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oil-tanker-hit-unknown-projectile-034348464.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stay six Neils away: Giant elephant seal causes traffic delays in Australia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5DA6FAE11708ED267B60E0F96E9B8CB057176E42C0C0F564CA3879F8EB56334F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F9421889bd8836d99bb53a114848502cb" alt="" /></p>Residents in Tasmania, Australia, are being warned to stay "about six Neils away" after a massive southern elephant seal named Neil has been causing unusual traffic delays in the area.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/stay-six-neils-away-giant-033438840.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/stay-six-neils-away-giant-033438840.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China conducts rare submarine-launched ballistic missile test, angering Pacific neighbors]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/383406754B91E86775DD94806B764B33A828E06988416D9473260607A8ED399A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Ff8ee1341db775ea12041b50335b091e5" alt="" /></p>China on Monday conducted a rare test of a submarine-launched ballistic missile in the Pacific Ocean, sparking criticism from New Zealand and Australia for actions that they said threatened peace and stability in the region.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-conducts-rare-submarine-launched-073517649.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-conducts-rare-submarine-launched-073517649.html</guid>
-            <pubDate>Tue, 07 Jul 2026 08:16:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia, Solomon Islands vows stronger ties, criticise China's Pacific missile test]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5927FCC9C541031B1911093E4F0845C99DB09D1F7ED915CE3CC4FCBF6C529C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F9de649fbf81204e0c104cba908fb96f9" alt="" /></p>By Renju Jose SYDNEY, July 7 (Reuters) - Australia and the Solomon Islands pledged on Tuesday to deepen bilateral ties and criticised China's test of a ballistic missile fired from a nuclear-powered]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-vows-stronger-ties-solomon-023137339.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-vows-stronger-ties-solomon-023137339.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tanker on fire off coast of Oman after being hit by projectile]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F6ED634E1165CCC02B0D1870B4AF5FC1F5C351C375F47FDA862B9051E901236/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4887375007e49223a6b29bf590736a8d" alt="" /></p>Iran’s state TV claims the tanker ignored warnings, but no direct responsibility for the attack has been declared.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tanker-fire-off-coast-oman-040603364.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tanker-fire-off-coast-oman-040603364.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China sentences official to death for taking $325m in bribes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The 69-year-old helped companies secure valuable contracts in exchange for money, a court heard.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-sentences-official-death-taking-033701330.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-sentences-official-death-taking-033701330.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba sees nationwide power blackout for third time in six months]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A87FCDDDD0C4A3D3370B0DC6C0CDC7E89671A11026148FDE2C0FCF669567CE44/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0dfe91832ee637cdbd2e6fff34db4c3e" alt="" /></p>People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cuba-sees-nationwide-power-blackout-022945304.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cuba-sees-nationwide-power-blackout-022945304.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela earthquakes death toll jumps to more than 3,500]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6B16A3356E29263D0FDE4C8A0EE264430E16C6F29A5EE381C832F67035C5EFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe3d53aa6c5c011e1971a2a71d8aecf4c" alt="" /></p>Experts warn of an impending health crisis, with thousands sleeping in crowded temporary shelters.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/venezuela-earthquakes-death-toll-jumps-015044740.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-earthquakes-death-toll-jumps-015044740.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan marine mystery solved: A crab lived in a plastic bottle until it grew too large to escape]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B8D002B7A0C81D6C7037BA851D58A428208F198F9E1E03211F69F95C5EF6AE46/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5514dec7f795b5b64e23c3442fb094c3" alt="" /></p>It had eaten algae and young fish that happened to swim in while inside the bottle.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/japan-marine-mystery-solved-crab-015000981.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-marine-mystery-solved-crab-015000981.html</guid>
-            <pubDate>Tue, 07 Jul 2026 04:30:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
