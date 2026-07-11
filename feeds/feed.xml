@@ -4,16 +4,103 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jul 2026 11:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jul 2026 13:00:09 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
+        <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran's supreme leader pledges revenge for slain father and predecessor]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8BC610270F824D02E0558D45618A8D01A9810DDD7BBB05EF5D7EFFC4FF2B48C/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F51a23a49ced7c853d2b3dc6ca530610a" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/irans-supreme-leader-pledges-revenge-104859747.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/irans-supreme-leader-pledges-revenge-104859747.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian tourists among 15 killed as speedboat capsizes in Vietnam]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B67DC7437983EFEE8A450A4B217BF882F297A9B4279B137BE1FA7EBAE4E7A479/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff668fd393ab879d6603157e297a65a04" alt="" /></p>Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourist-speedboat-capsizes-vietnam-killing-120602385.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-speedboat-capsizes-vietnam-killing-120602385.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands attending Orange Order parade in Rossnowlagh]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The Rossnowlagh demonstration takes place each year on the Saturday before the main Twelfth of July.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-attending-orange-order-parade-123727169.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-attending-orange-order-parade-123727169.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilot killed in paragliding crash in northern Italy]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5B9AF18F4015D5AA7A87D733CCE9C866C7F23BD9397D2DAACFB721918DC7F95/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff25c60e235a8578a6b811d60ea4305af" alt="" /></p>A 58-year-old pilot has died following a tandem paragliding crash in South Tyrol, the emergency services in the northern Italian tourist region said on Saturday. A 29-year-old German female holidaymaker who was attached to the Italian pilot's back for the flight was uninjured in the accident.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pilot-killed-paragliding-crash-northern-123340914.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pilot-killed-paragliding-crash-northern-123340914.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran vows revenge for killing of former supreme leader Ali Khamenei]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9FD22A4E4745ADE7361D231F4F82C38F205F9F0A9B5F63551BD28F7DC8525284/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9debcc9868b91a2d5955ddfd5c88108a" alt="" /></p>Iran's leadership has vowed revenge for the killing of ayatollah Ali Khamenei, two days after the country's former supreme leader was buried following his assassination earlier this year. "Revenge is the demand of our people and must certainly be carried out," said a statement attributed to Khamenei's son and successor, Mojtaba Khamenei, which was read out on state television on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-vows-revenge-killing-former-123340831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-vows-revenge-killing-former-123340831.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where Is Costa Concordia Captain Francesco Schettino Now? Inside His Life After Abandoning the Sinking Ship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/825263DAF808A5EA657010B51BFCF86C1033164CAA22B06EA00A8BF9B49F1BA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F908be650d3b027506b97dbd30d076d49" alt="" /></p>Netflix’s ‘Shipwrecked: Nightmare at Sea’ takes a closer look at the sea emergency]]></description>
+            <link>https://www.yahoo.com/news/world/articles/where-costa-concordia-captain-francesco-123000305.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/where-costa-concordia-captain-francesco-123000305.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic Austrian villa at center of Porsche tunnel fight goes up for sale]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D990985A2EFEE82CB722A361475924C77B395CEBFFFC937DD06D61980CCE8841/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F4f3c15ea3e4529b28d02850a9cdea657" alt="" /></p>That decision sparked protests from residents, who called it evidence of corruption.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/historic-austrian-villa-center-porsche-120700343.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/historic-austrian-villa-center-porsche-120700343.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire crew tell of Venezuela earthquake 'carnage']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDEA0E6672FFB7E7E1CD8615D63A78E00234C79A878EBF1BA212D11E28971414/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F08eddd28bfaecb1cd6394c68ceddc66c" alt="" /></p>The returning Lincolnshire firefighters say the search and rescue conditions were challenging.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fire-crew-tell-venezuela-earthquake-120622316.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-crew-tell-venezuela-earthquake-120622316.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of firefighters battle wildfire in southern Spain that killed at least 12]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/178B2C75B9A917E98A795BA034759E46C468C6CC644BF9E750DC796888E4F230/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1d680c5e5b443069c0df738730e7977c" alt="" /></p>Hundreds of firefighters backed by helicopters and fixed-wing aircraft struggled Saturday to contain one of Spain's deadliest wildfires that killed a least 12 people.  A combination of light winds and high humidity are helping crews but the sheer size of the fire still poses challenges, Antonio Sanz, head of Andalusia’s emergency services, said.  The fire has scorched some 66 square kilometers (25 square miles) of forest and farmland, about the size of Manhattan.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hundreds-firefighters-battle-wildfire-southern-120327074.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-firefighters-battle-wildfire-southern-120327074.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia exploits Ukraine’s air-defence shortage with missile barrage]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5DE93C820F7E3CC53B5226B6DF54EDB98C116B731635D0D60C90BD65644FAA7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fd587d434aac28e46c6843c67b54dfd44" alt="" /></p>Russia has exploited Ukraine’s air-defence weaknesses with a heavy ballistic missile attack early on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-exploits-ukraine-air-defence-114720186.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-exploits-ukraine-air-defence-114720186.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish firefighters turn to the offensive against deadly Almeria blaze]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B41B9C99ABFD0180BE7236BE4CF89AB68F91FF16895E4544063476752865D48C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F423fb4137224b0c8cf4cda1bc5fee38f" alt="" /></p>LOS GALLARDOS, July 11 (Reuters) - Firefighters in Spain's southeastern Almería province would start to beat back one of the country's deadliest wildfires on Saturday, an emergency services chief said]]></description>
+            <link>https://www.yahoo.com/news/world/articles/spanish-firefighters-turn-offensive-against-113238438.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spanish-firefighters-turn-offensive-against-113238438.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 11 Jul 2026 13:00:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US Democrat Ro Khanna detained by Israeli settlers during West Bank visit]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E3653FC0A7EDA643954630286D5973ECB0EF91326E2A49C57E536046E95FF34/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F876dd2f409c21d02147dcbb90c573848" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-democrat-ro-khanna-detained-111415527.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-democrat-ro-khanna-detained-111415527.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3473D244510890DD30614BA9FC12B5B27DFA50187611E47800FF70A9445575A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F06d3d864cea751bbf794cf53a4ee08b9" alt="" /></p>The Indian embassy says it has set up control rooms to respond to victims’ families.]]></description>
             <link>https://www.yahoo.com/news/world/articles/speedboat-accident-southern-vietnam-kills-113445288.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/speedboat-accident-southern-vietnam-kills-113445288.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The Scottish Fire and Rescue Service and Police Scotland were called to the Falls of Falloch near Crainlarich on Friday evening.]]></description>
             <link>https://www.yahoo.com/news/world/articles/major-search-woman-water-beauty-112807591.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-search-woman-water-beauty-112807591.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FBB97B778FA5B667760B6C03535C96C65069D4D8C5A01A7FF477CDA02730E02A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F76948540289980be0a3aa1524158782d" alt="" /></p>Police launched an investigation after a woman accused two fellow MDA volunteers of drugging her drinks and raping her following a social event in Beit Shemesh. Content warning: This article contains disturbing references and descriptions of sexual assault.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mda-volunteers-arrested-following-allegations-112322804.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mda-volunteers-arrested-following-allegations-112322804.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48CC8694CC0A16D7ACC57795A0BF5924D6949F6A4AA28B003D37D4408E438459/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F12c90de9037c44a68b0a0406777ab47b" alt="" /></p>The collision on the Coolmillish Road in County Armagh was reported to police on Friday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-dead-crash-between-motorcycle-104549455.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dead-crash-between-motorcycle-104549455.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +136,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/282812398EDB5885EC5A8EFEB8A2E207C36E2CF043260EA3961D45888D01AF25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa930745cd5651fe158c93d6a9fba330c" alt="" /></p>German authorities suspect sabotage after a fire on a major railway line disrupted services in western Germany, security sources said on Saturday. The sources said it was unlikely that a technical fault caused the blaze, which broke out beside the tracks on the busy route between the cities of Dusseldorf and Cologne on Friday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-authorities-suspect-sabotage-railway-104833572.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-authorities-suspect-sabotage-railway-104833572.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +143,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F1812DF93E12834F330DD729708E431E38D9BCAB811DA7056F3083FE8C1F4B0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fba17751c5a985a8442015b10bbe1061b" alt="" /></p>Nigerian security forces suffered "casualties" during the rescue of over 40 kidnapped schoolchildren, the army said Saturday, in an operation that put an end to a major security crisis in the country's relatively safe southwest."However, there were some casualties on the part of the security forces," it said, without elaborating.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerian-forces-suffered-casualties-kidnap-092155223.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-forces-suffered-casualties-kidnap-092155223.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +150,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BD436FCCEFE893321ABD6B20D0641C85CBB4C5C3D107D22C25198DDF8BE00A21/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F799ea6e3ddc8168db4f67d957138a39f" alt="" /></p>Vladimir Putin once claimed Crimea was as sacred to Russia as the Temple Mount was to Jewish people and Muslims.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-campaign-cut-off-crimea-050000416.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-campaign-cut-off-crimea-050000416.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 11 Jul 2026 11:45:29 GMT</pubDate>
         </item>
         <item>
@@ -6946,83 +7026,6 @@ The C]]></description>
             <link>https://www.yahoo.com/news/world/articles/risks-growing-resources-shrinking-experts-214114534.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/risks-growing-resources-shrinking-experts-214114534.html</guid>
             <pubDate>Tue, 07 Jul 2026 00:11:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Paraguay govt slams lawmaker for racially abusing France's Mbappe]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91DB19181725FD7F145A21D2DFA270CE97169997D9247B7460BF26BE6141AB65/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F151dfc81bfcb8f0fea41a094b06a347a" alt="" /></p>Paraguay's government on Monday condemned remarks made by a senator who racially abused France star Kylian Mbappe after Paraguay was eliminated from the World Cup over the weekend."The remarks made by Senator Celeste Amarilla, directed at the captain of the French national team, Kylian Mbappe, are contrary to the values and principles that inspire peaceful coexistence and respect for human dignity, which our country promotes," the foreign ministry said in a statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/paraguay-govt-slams-lawmaker-racially-224317024.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/paraguay-govt-slams-lawmaker-racially-224317024.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Egypt coach Hassan says Palestinian suffering 'a shame on the world']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5F4AECA808936DE355A778E35805CA0AB647BAD9E8FB13D5B3F017B885F62D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fafc147036b6a1db2ab0b27a2a7d6c52f" alt="" /></p>Egypt coach Hossam Hassan said at the World Cup on Monday that the suffering of the Palestinian people was a "shame on the world" as he called on football to do more to come to their aid."If there is someone who has not felt the suffering of the Palestinian people then he or she has no humanity," Hassan said in a lengthy address to a question on the subject at his pre-match press conference in Atlanta.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/egypt-coach-hassan-says-palestinian-224312994.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/egypt-coach-hassan-says-palestinian-224312994.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[🚨 Breaking: Paraguay government condemns racism against Mbappé]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/89C00E4D5CEDE42102CBF3F8B100C8588D641237463484E0A09D976BE9F383FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fonefootball_articles_802%2Fe08193bc51b1e494e6c09a66ce8a31d6" alt="" /></p>The government of Paraguay issued a statement condemning the racist remarks made by Senator Celeste Amarilla against Kylian Mbappé. The Government of the Republic of Paraguay deplores and rejects th...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/breaking-paraguay-government-condemns-racism-224300364.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/breaking-paraguay-government-condemns-racism-224300364.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a Diljit Dosanjh film vanished from streaming after two days]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF1482A482354FB5294090454F4D97706C4DDCF9CE6BF658492BCD61102E346C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa1ec0d660a34ec4243bba1e1dcd1747f" alt="" /></p>The film's troubled journey spans years of censorship disputes, court battles and an unexpected release on a streaming platform.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/why-diljit-dosanjh-film-vanished-220634389.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-diljit-dosanjh-film-vanished-220634389.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China Purges Over 14,000 AI Products Amid “Qinglang” Cleanup Campaign]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88B7E72FC850A2AE2E6A09F9C4EE25B0E25692FF3A6E08BFA1B9C0DAA1C629F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fea7c886bc649a4fbe9440c0241c0618d" alt="" /></p>China removed over 14,000 AI products in the first phase of its Qinglang campaign to tighten AI sector control.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-purges-over-14-000-220000431.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-purges-over-14-000-220000431.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Morocco says it has dismantled ISIL-linked cell planning attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF65853DFC538664F9B837F54BA8830354CA3B12DDF5AC62E90FC3149E5EA71A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff40f08197562a944e7a9caa5d4566d08" alt="" /></p>Police arrest 10 suspects, seizing bladed weapons, military-style clothes and bomb‑making instructions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/morocco-says-dismantled-isil-linked-215123391.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/morocco-says-dismantled-isil-linked-215123391.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Girl Trapped Under Earthquake Rubble for 32 Hours Recalls Eating Ketchup to Stay ‘Conscious’ Until Rescue]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5478EEF2981A8145C9DB3ABD5BA305879E1DBD7C3DB95E1FF32888C7761D97BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe29baee157925572cd2067efc3f8e1c0" alt="" /></p>The 12-year-old became trapped after rare back-to-back earthquakes struck Venezuela earlier this month]]></description>
-            <link>https://www.yahoo.com/news/world/articles/girl-trapped-under-earthquake-rubble-213909623.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/girl-trapped-under-earthquake-rubble-213909623.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China's Long-Range Missile Test Spooks US Allies]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B87B47BDC6159D23AD88207179E8A14A585F601D94439C565D3F37E3DBEE595E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F1df8c41f224953062912a2ab0d09057a" alt="" /></p>China's Long-Range Missile Test Spooks US Allies]]></description>
-            <link>https://www.yahoo.com/news/world/articles/chinas-long-range-missile-test-204937126.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chinas-long-range-missile-test-204937126.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China launches rare submarine ballistic missile as Pacific allies strengthen defense ties before NATO summit]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3A8643159D5AD148CD2EB02CFCC9EEF57D112F8BAB3FA56EB495C2ED3EE6571/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F16d31b5be249fc69b2cf74abf4bd856a" alt="" /></p>China's rare submarine-launched ballistic missile test into the Pacific Ocean drew sharp rebukes from Australia and Japan ahead of NATO's Ankara summit.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-launches-rare-submarine-ballistic-203519860.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-launches-rare-submarine-ballistic-203519860.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Elaborate Pageant of Khamenei’s Funeral, in Photos]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97661E617A27797516EE28412142AEF77DB68BAB2E2117A5EC2339C1FF4D008E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F9264ff0b0fa5e95520083387f3cd635c" alt="" /></p>Hundreds of thousands gathered in Tehran on Monday for the funeral procession of Supreme Leader Ayatollah Ali Khamenei.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/elaborate-pageant-khamenei-funeral-photos-201803185.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/elaborate-pageant-khamenei-funeral-photos-201803185.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Unwelcome and Concerning': China's Missile Test Is Putting the Pacific on Edge]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A5E407454ABE9BD0BA1021F61F5D0A4FB8A76D4BF7767B85F84792E66E1B6E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F4c35c896d78173de6a4c3b858654a06f" alt="" /></p>China launched a missile test on Monday, attracting criticism from across the Pacific.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/unwelcome-concerning-chinas-missile-test-200243627.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/unwelcome-concerning-chinas-missile-test-200243627.html</guid>
-            <pubDate>Mon, 06 Jul 2026 22:59:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
