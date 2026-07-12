@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jul 2026 21:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jul 2026 22:13:02 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
+        <pubDate>Sun, 12 Jul 2026 22:13:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Venezuela quake death toll rises to 4,490]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1709CC8E590FE0DD6C705788DD585E6323A3574C73140980E6AB1771602BA859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2a660e7a63f0596e0cbc48a6c86f30bd" alt="" /></p>At least 4,490 people are dead following two devastating earthquakes in Venezuela, National Assembly President Jorge Rodríguez said on Sunday, as the death toll continues to rise more than two weeks since the powerful twin tremors struck. The official toll had stood at 4,333 on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-quake-death-toll-rises-213325625.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-quake-death-toll-rises-213325625.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 22:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 27 killed in Bangkok pub inferno]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/095202B32B11BD03AD113AC3C0BDB7F8AC03CE3F660F50628E1CF6CFE9EB50C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb2f9bb297326c598ea117b940e8b74b9" alt="" /></p>At least 27 people died as fire engulfed a pub in Bangkok on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-27-killed-bangkok-pub-205724441.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-27-killed-bangkok-pub-205724441.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 22:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela quake death toll rises to 4,490]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC6E728186612595D3A32699BDE7A0A6563EB449AC1613ACDD7BBF9BCAB65CE8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6a2b47718013f4ec1420beb0d13a8f6c" alt="" /></p>The official death toll from Venezuela's devastating twin earthquakes rose to nearly 4,500 on Sunday, as the government reported more than 19,500 people were now living in camps due to the destruction.The government update on Sunday said 19,583 people were living in the camps.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-quake-death-toll-rises-204529688.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-quake-death-toll-rises-204529688.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 22:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Several people killed in Chile after car driven by navy officer crashes into an open-air market]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/866B80066A5F549393F667C96F28E38EE89840CD4B3C8609308BA5CBE7D793E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Feb5545eab93e6d9f342295793255f124" alt="" /></p>Footage circulating on social media from a residential security camera appears to capture the moment the car plunges into the stalls, while other videos show the driver being rushed to a nearby police car, as angry bystanders run after him shouting.  Officials at Gustavo Fricke Hospital said five injured people — including two babies — were admitted with various traumatic injuries that were not in life-threatening.  “At this stage of the evaluation, they are stable and out of life-threatening danger, but of course they are still awaiting the completion of all the examinations required in these cases,” Denise Cataldo, the hospital’s deputy director, said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/several-people-killed-chile-car-203335532.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/several-people-killed-chile-car-203335532.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 12 Jul 2026 22:13:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bangkok pub fire kills at least 27 people, officials say]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8B31FD03F05D4B255322B56BFB8D950BFCA9E66A4C919E1B1DB056C8AF97FF9/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2a28acbc9bd389778e6cc779f9101072" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/bangkok-pub-fire-kills-least-192411028.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/bangkok-pub-fire-kills-least-192411028.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A1A532300067E0911C83E1B4EC70EF97277720F6D7877F593C6E912E17DD564/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3f7dfefd3d3b4c47c1dcb5fb8dc66e18" alt="" /></p>On Saturday, the IDF killed two Hamas terrorists in the northern Gaza Strip in separate strikes following attempted terror attacks on Israeli soldiers in the area of the Yellow Line. The IDF killed several Hamas terrorists in the northern Gaza Strip on Sunday as they planned attacks against Israeli soldiers, the military announced.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-kills-hamas-terrorists-northern-205508568.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-kills-hamas-terrorists-northern-205508568.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B93FAB9BC4D59434F6104B69F340EFC1BA2D97EF626595329C10DA82BF111AAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F841c81e5173b9f503dfd9701f4d68daf" alt="" /></p>German authorities have issued an arrest warrant for a 29-year-old man who is accused of holding a woman hostage in a Berlin supermarket for more than 11 hours over the weekend. The man was charged on Sunday with kidnapping for ransom, in conjunction with attempted aggravated extortion and dangerous bodily harm.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-man-charged-kidnapping-supermarket-201818984.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-man-charged-kidnapping-supermarket-201818984.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A53ED6E70D185410933150D94C5CB992B19E6945CE9821F57807CAAB2E2E2569/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F785f07ecbae4d579f131064075d0e52d" alt="" /></p>Many of the victims were discovered in the restrooms, situated at the rear of the pub, the Prime Minister noted]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-27-killed-fire-broke-201425387.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-27-killed-fire-broke-201425387.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80CC79701141131B844352237F7DBA1CD426F20C28D3F308A5014D3E2E3D7BE0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F7b56af4dd8436214473b17d2ecaf3fd6" alt="" /></p>Firefighters gained the upper hand on the deadly Almería wildfire after days of battling the flames, as the blaze that killed 12 people and burned 66 square kilometres began to ease, allowing some of the nearly 1,500 evacuees to return home.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spain-wildfire-firefighters-gain-ground-201107679.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-wildfire-firefighters-gain-ground-201107679.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7F4674A9B0FA486B1CF8D891E1FDD0A46DE264AA1E271002518382871523AEE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F2e3d7afb14eda23084f62cc5a2dd5bbc" alt="" /></p>"During this operation, special care was taken to ensure that the crocodile did not suffer any harm."]]></description>
             <link>https://www.yahoo.com/news/world/articles/india-monsoon-drives-crocodiles-ashore-194700967.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/india-monsoon-drives-crocodiles-ashore-194700967.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06D75D35D916C04619A9C77B500196F32C5F3F392CF9DAF57AA352F2706C01EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F391ae07d32ce593eaebfbec7a6e53ceb" alt="" /></p>A huge fire engulfed a pub in Bangkok early on Monday morning, killing at least 27 people before firefighters brought the blaze under control, officials said.  Footage shared online by first responders shows a huge blaze raging and plumes coming out of the front door of the Na Ladprao pub in the northern part of the Thai capital.  Thailand Prime Minister Anutin Charnvirakul told reporters at the scene that 27 people died and that several of the injured have been taken to the hospital.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fire-breaks-pub-bangkok-killing-190859489.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-breaks-pub-bangkok-killing-190859489.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 12 Jul 2026 21:12:58 GMT</pubDate>
         </item>
         <item>
@@ -6994,34 +7019,6 @@ The C]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C20A145AE149ADCC63304C864000A8AACAD968C70441277277B801751F52C22C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe370b4f621bcc6d8dd2585b4097a2ee7" alt="" /></p>Mexico said it is investigating whether its sovereignty was violated by the United States in the 2024 capture of drug lord Ismael "El Mayo" Zambada.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mexico-probing-possible-u-violation-175951469.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexico-probing-possible-u-violation-175951469.html</guid>
-            <pubDate>Tue, 07 Jul 2026 18:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tibetan activists detained outside Chinese Embassy in New Delhi]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AA29CAF14C3671590812A8AA86EA2ED80768A2FD69DC932C02DCA4239E1D652/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F1d39324556c28cd050135aee0913e09f" alt="" /></p>Tibetan Youth Congress activists are detained by police during a 'Free Tibet' protest outside the Chinese Embassy in New Delhi on 7 July 2026.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tibetan-activists-detained-outside-chinese-175701172.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tibetan-activists-detained-outside-chinese-175701172.html</guid>
-            <pubDate>Tue, 07 Jul 2026 18:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Russia Learned To Adapt To Drone Warfare]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9DB08E1ADAEF3110434C4943067129574124F4D7DCCF4F913AD02B59098F486B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Ffefcc31c048bcacb3f49d2f9f91b727b" alt="" /></p>The Russia-Ukraine war is increasingly defined by institutional learning, as organizations like Rubicon seek to spread battlefield innovations across the force.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-learned-adapt-drone-warfare-175452299.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-learned-adapt-drone-warfare-175452299.html</guid>
-            <pubDate>Tue, 07 Jul 2026 18:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Millions Worth of Jewels Stolen from French Museum in Daring Heist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11DD191B30904759ED79B7D76DEFDE9E65C7C5F5CA29737A35CBF9C61B0197A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa63ce93ccd6da0ce543fd01429482fb4" alt="" /></p>The break-in at Musée Lalique in Wingen-sur-Moder in northeastern France occurred at 5:30 a.m. on Sunday, July 7]]></description>
-            <link>https://www.yahoo.com/news/world/articles/millions-worth-jewels-stolen-french-174430022.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/millions-worth-jewels-stolen-french-174430022.html</guid>
-            <pubDate>Tue, 07 Jul 2026 18:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran executes more than 100 people in June alone, human rights group claims]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/562F3F1BE03B9626B2CFD6C38DE01BFDABC56A0A345758FBC619667B139EF87D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F94423b5bc9192fa4ec7ac3cf0e24fdcd" alt="" /></p>Iran’s execution toll has reached at least 370 this year, with more than 100 killings reported in June alone, according to a Iranian human rights watchdog. The Islamic Republic executed at least 101 people in June alone, bringing the known number of state-sanctioned killings to at least 370 in the first six months of the year, the nonprofit organization Iran Human Rights (IHRNGO) reported on Monday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-executes-more-100-people-173343592.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-more-100-people-173343592.html</guid>
             <pubDate>Tue, 07 Jul 2026 18:26:23 GMT</pubDate>
         </item>
     </channel>
