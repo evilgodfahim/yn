@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 22:47:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 23:44:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 23:44:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russia launches fresh ballistic missile attack on Kiev]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/792932A052CC21802B77C6A76B4F5AAB8D2BF9D51D59EA685E6399597608B4C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F485aed968529ad73af1062ce9db3e5b5" alt="" /></p>Russia launched another overnight ballistic missile attack on the Ukrainian capital Kiev, authorities said early on Tuesday, with several explosions heard across the city centre. Ballistic missiles are particularly difficult to intercept because of their high speed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-launches-fresh-ballistic-missile-231847344.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-launches-fresh-ballistic-missile-231847344.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 23:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe steps up commitments to Kyiv]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60290218F21A3662EDB09B751273826058DD782CB5CA17A6A22AB11776E6154C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F8655b301e9b07fa49fe60ff21a6b998e" alt="" /></p>Ukraine and its European allies on Monday announced a coalition to develop an anti-ballistic missile system to protect against Russian attacks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/europe-steps-commitments-kyiv-230654831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europe-steps-commitments-kyiv-230654831.html</guid>
+            <dc:creator><![CDATA[Semafor]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 23:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Iran war back on for real?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80414E2ED2A0748CB1A0B9CC20FFD5C96004B03661B43E7E606049EF4CEB9CDF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fvox_politics_486%2Fc5477da9064d1989959ac76abdf20031" alt="" /></p>After days of newly intense fighting, Trump asserted he’ll take control of the Hormuz Strait — and charge for access.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-war-back-real-212000887.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-back-real-212000887.html</guid>
+            <dc:creator><![CDATA[Vox]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 23:44:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN says Hamas obstructing aid in Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D5F7DF9D205F5F8EBD0C67AB512D162B69B7241BFDD5D085A72FCF99FEB6B321/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F4d422ea6892ee131569b21c9bd5ea596" alt="" /></p>The U.N.'s humanitarian coordinator for the Palestinian territories said armed men entered a food distribution point in northern Gaza and assaulted two truck drivers in a World Food Program warehouse.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-says-hamas-obstructing-aid-204545794.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-says-hamas-obstructing-aid-204545794.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Mon, 13 Jul 2026 23:44:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Americans expect prolonged US-Iran war as ceasefire falters, Reuters/Ipsos poll finds]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2C3C33269486A6C3C91830B03115524F3960BF529061241584812C93456FC73C/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdd1499580ca942d2dbae0741ef716def" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/americans-expect-prolonged-us-iran-221540669.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/americans-expect-prolonged-us-iran-221540669.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F410CBE8EEB9F14F00CA808D8554DCF6B757B50C68AA6DE6300DA59EC50EC10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F4ad1543babb1fb060af2029b3ea932c9" alt="" /></p>On July 5, about 100 such activists crossed into the Syrian side of Mount Hermon and were subsequently detained by the IDF. The IDF detained several Israeli civilians in the Golan Heights on Monday after they attempted to cross into Syrian terrority, the military said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-detains-israeli-civilians-golan-223427997.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-detains-israeli-civilians-golan-223427997.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5C00AB0592DED7B93B369B304A080D3DB6992253202047E7353370F4D9C2659/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F12b082d5cf2a7afa74c47891f98afdb9" alt="" /></p>Canadian fashion mogul Peter Nygard pleaded guilty Monday to sexual assault and forcible confinement in Quebec, the latest conviction in the downfall of the founder of the once-global Nygard International clothing company.  Nygard also faces U.S. racketeering and sex trafficking charges.  The 84-year-old appeared by video from an Ontario prison, where he is serving an 11-year sentence after a Toronto jury convicted him in 2023 of sexually assaulting four women.]]></description>
             <link>https://www.yahoo.com/news/world/articles/canadian-fashion-mogul-peter-nygard-221518102.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canadian-fashion-mogul-peter-nygard-221518102.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The 78-year-old is charged with a dozen offences. Police also said they found C$300,000 at his home.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ex-canada-mp-arrested-police-220822554.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-canada-mp-arrested-police-220822554.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D3EBC3D0B8222F083E2CF15A69F09AB1CB9D0FA50AE6CB14100EAEA0332C463/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4b52a51c5eff1c4722a5cd72e1945000" alt="" /></p>It is hoped the new look Glencoe Folk Museum can open to the public by Easter next year.]]></description>
             <link>https://www.yahoo.com/news/world/articles/groundworks-begin-folk-museums-3m-220020251.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/groundworks-begin-folk-museums-3m-220020251.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C10EE3FFF4FC94E0BDFC335289AF579B1E8DF805A54B8D3015868A77258BF41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F7b6b40edc0a7723a0d097164470b9ddf" alt="" /></p>Venezuelans are in need of primary care and psychosocial support, workers said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/aid-workers-reveal-health-needs-215311105.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/aid-workers-reveal-health-needs-215311105.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1A451C6B7583512DBE74780634C107F5006149E23280F5CAC2B2513F658024F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fd4edb80fe7f006b55f2d22a16864c842" alt="" /></p>Surviving members of the beloved Bahamian musical group Da Pond Band are speaking out about their friends who were killed when a small plane crashed in the Bahamas on Friday, killing 10 people.]]></description>
             <link>https://www.yahoo.com/news/world/articles/music-group-still-shocked-bandmates-213547385.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/music-group-still-shocked-bandmates-213547385.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +94,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A4FCB8B30EFA18741EED6E014C9407B99BB33B2E900050797B2C8C33674F5CF7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1c4311e82f02c710e791aed7bcbe9ffa" alt="" /></p>Peter Nygard, the founder of one of Canada's largest clothing brands, was found guilty on Monday of sexual assault, an additional conviction for the disgraced ex-mogul who victimized women and girls over decades.He was found guilty of a separate crime in a Montreal court on Monday after his lawyers did not contest allegations of sexual assault and forcible confinement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/disgraced-canadian-mogul-guilty-additional-212608989.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/disgraced-canadian-mogul-guilty-additional-212608989.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +101,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C28D99276715D74A23F73F4138C6CB86C6FC12D17CEF1F86F2E9940E88B1ABED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F5e77c91326efd7d1edd8a7327f2ae156" alt="" /></p>Attacks on humans are rare, but they can happen.]]></description>
             <link>https://www.yahoo.com/news/world/articles/wildlife-influencer-wrangles-python-indonesia-211700037.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildlife-influencer-wrangles-python-indonesia-211700037.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F3030FD38CF1C7262F43339E6A6EC90FE12CF07DE6BF1604903207F1232F73B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F659f97916c5b75095e9041a1dc62ccd2" alt="" /></p>Two fish named Fede and Magui have been recognized by an Argentine court as sentient beings with rights and moved out of a restaurant’s glass display case]]></description>
             <link>https://www.yahoo.com/news/world/articles/argentina-court-recognizes-two-goldfish-204727324.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/argentina-court-recognizes-two-goldfish-204727324.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 13 Jul 2026 22:47:58 GMT</pubDate>
         </item>
         <item>
@@ -6997,34 +7019,6 @@ Even Pacific nations indebted to Beijing joined criticism of Monday's submarine-
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00356F7C6FF9358AF8552CEFE29137FF69E1C947BBA6C04836843AAEB4181148/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa7cdb36e271f3d9d4ec359b8e4018060" alt="" /></p>The suspect was reportedly seen shouting racist and Islamophobic abuse outside prior to the attack.]]></description>
             <link>https://www.yahoo.com/news/world/articles/worshipper-hurt-alleged-race-attack-173022023.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/worshipper-hurt-alleged-race-attack-173022023.html</guid>
-            <pubDate>Wed, 08 Jul 2026 17:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Associating Islam with violence contradicts its true nature': Global Forum debates Islamic heritage]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CED43FF5A591BA378A574F8A59F8D979E2BEFDCB527C38F5A06F0E203E3E0F47/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F27b23a6da4ed123180e9bdb9baacfac6" alt="" /></p>More than 70 international projects were launched at Uzbekistan's first Islamic Civilisation Forum, where delegates called for greater scientific cooperation, education and preservation of Islamic heritage.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/associating-islam-violence-contradicts-true-172908889.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/associating-islam-violence-contradicts-true-172908889.html</guid>
-            <pubDate>Wed, 08 Jul 2026 17:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN says pledges for global connectivity project pass $100 bn]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97D590CB4B8C8B756FFC8883E49F1E9D0BDA15DE726782D7A92D2E20825AAC45/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe3c3bf9c80ea56dcaa1cd8d6c21d9480" alt="" /></p>The United Nations said Wednesday that pledges towards closing the global digital divide had in just five years surpassed $100 billion, in what it hailed as a "landmark achievement".On Wednesday, it celebrated surpassing that target, with $121 billion in pledges so far.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-says-pledges-global-connectivity-172718878.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-says-pledges-global-connectivity-172718878.html</guid>
-            <pubDate>Wed, 08 Jul 2026 17:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK And Dutch Partner On Next-Gen Amphibious Assault Ships]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3513FFE4DC9C9BC1825A2B5859B226273C6E5B65603F6E9B13CE0280DDDFD67A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F540da1545cebc054c6932ac5babc8a70" alt="" /></p>A shared fleet of eight assault ships will improve interoperability, replace aging platforms, and prepare both navies for drone-enabled warfare.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-dutch-partner-next-gen-172053492.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-dutch-partner-next-gen-172053492.html</guid>
-            <pubDate>Wed, 08 Jul 2026 17:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doctors seek to prevent health crisis after Venezuela earthquakes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/47E57CD6C4AA63E91FDC8EA2E92B41EB350A7BBCF4D7518C4E1D6EF5D03455E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fa9d9d979f7f812c84eeb28dff7dfefa5" alt="" /></p>Two weeks after earthquakes devastated Caracas and La Guaira, Venezuela's emergency entered a new phase -- one that focuses on public health.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/doctors-seek-prevent-health-crisis-171339079.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/doctors-seek-prevent-health-crisis-171339079.html</guid>
             <pubDate>Wed, 08 Jul 2026 17:57:00 GMT</pubDate>
         </item>
     </channel>
