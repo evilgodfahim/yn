@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 22:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 23:44:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran fires ballistic missiles, drones at Kuwait, several wounded, Kuwaiti military says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/369932A982EE8E36AAE7A2144BA11A783D54288830C760F6519DBE344DB772E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F7327f62fe32292e84109c38b40d01a6a" alt="" /></p>Those wounded included several Kuwaiti soldiers who were hit by falling shrapnel, according to a statement released by Kuwait's military. Iran fired several ballistic missiles and drones towards Kuwait on Friday, Kuwait's military stated in an X/Twitter post citing Kuwaiti Defense Ministry Spokesperson Maj.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-fires-ballistic-missiles-drones-232844099.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-fires-ballistic-missiles-drones-232844099.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela earthquake death toll rises above 5,000]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F345600687C4BD9AC4338BF9C392DA5C5F0EA01A755A71EBD546B190DCCC9047/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7337108c341630062da7e7db686e7e4c" alt="" /></p>The death toll from the twin earthquakes in Venezuela more than three weeks ago has risen above 5,000. The number of confirmed fatalities now stands at 5,069, according to the latest figures from authorities in the South American country released on Friday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/venezuela-earthquake-death-toll-rises-231828366.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/venezuela-earthquake-death-toll-rises-231828366.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Distillery Owner Charged After 6 Tourists Die From Methanol Poisoning]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/083F98BDC18D60C6ED1F6225B8DB5FD5707ADA49388FA695A099C311D2F21B6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_daily_pour_articles_808%2Ff5dc5a01d1558a12bdcda17c0829c5de" alt="" /></p>Lao authorities have filed criminal charges against the owner of a distillery linked to the methanol poisoning that killed six tourists, including two Australian teenagers, though victims’ families say the allegations fall far short of delivering justice. According to the Australian Broadcasting Corporation, Danish officials confirmed that Lao prosecutors have charged the distillery owner with […]]]></description>
+            <link>https://www.yahoo.com/news/world/articles/distillery-owner-charged-6-tourists-231717180.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/distillery-owner-charged-6-tourists-231717180.html</guid>
+            <dc:creator><![CDATA[The Daily Pour]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU urges Israel to halt settlement expansion as settlers attack children]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1617E74EE051BE421A32B017A2E0E9E945C3F2A25D1D1DF824BE4BA6D5FFBA77/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd0c27074ea51271ea460f8afad1f6630" alt="" /></p>Pressure is growing within the EU to sanction Israel for its illegal settlements and violence against Palestinians.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eu-urges-israel-halt-settlement-225404018.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-urges-israel-halt-settlement-225404018.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snake in washing machine bites 2 in India, then sparks hospital panic when family brings it in]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/326CD9F77BD5EF40863C8F23F76273BBFF68F858BA0C19128A177A0B135775A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F1f754b900bcb8aff1390bbec7e82533b" alt="" /></p>Carrying a dead reptile into an emergency ward created another moment of panic.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/snake-washing-machine-bites-2-225000576.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/snake-washing-machine-bites-2-225000576.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cargo ship damaged in Russian missile strike on Odessa]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04CA4702ED1480627141F63AF7AD7489B6FC39D1029715EB9FF182A40B4680B4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd3edf0a9806a08fe0d45a7886ac892ca" alt="" /></p>A cargo ship was damaged in Russian missile attacks on Ukraine's southern Odessa region, local authorities said late on Friday. Four of the vessel's 17 crew members were injured, the military governor of the Odessa region, Oleh Kiper, wrote on Telegram, adding that the ship was sailing under the flag of the Marshall Islands.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cargo-ship-damaged-russian-missile-224832300.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cargo-ship-damaged-russian-missile-224832300.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GoodLife Fitness Member Says He Was Asked to Leave Gym Over Kirpan: “You’re Kicking Me Out Right Now?”]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B7D371C80586FF11CE36EC5E30EFB466D490F6E3D8459D38BC56B84351861BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F87c113e39892dd9cf9a279a5ee442152" alt="" /></p>A GoodLife Fitness member’s video has sparked debate online after he claimed he was asked to leave the gym because he was wearing a kirpan, a ceremonial article of faith carried by initiated Sikhs. In the video, an employee tells him the issue had been brought to staff’s attention and that he would need to…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/goodlife-fitness-member-says-asked-224500814.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/goodlife-fitness-member-says-asked-224500814.html</guid>
+            <dc:creator><![CDATA[The Daily Dot]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 23:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE0070B7F5A465A2658691AF1C744DE32757FD903F73934DA4B6D6938D78C5EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc68133906c9e6d01ad3bb6e56f0660a2" alt="" /></p>Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kim-jong-un-meant-only-221421678.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kim-jong-un-meant-only-221421678.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD40BC4A4AB0D13B3020BBE093C87A0979DDAE7C4E14D6F502E0FB7941F92CE1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F129a1fcf6d0e48987de8ff420afe768c" alt="" /></p>Shipping through the Strait of Hormuz has almost ground to a halt again following the renewed exchange of attacks between the United States and Iran, data provider Kpler said on Friday. Only eight ships passed through the strait on Thursday, the lowest figure in three weeks, Kpler said in a post on X.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ship-traffic-slows-trickle-strait-220540569.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ship-traffic-slows-trickle-strait-220540569.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
         </item>
         <item>
@@ -6974,55 +7028,6 @@ bur-aya/smw]]></description>
             <link>https://www.yahoo.com/news/world/articles/viral-joker-pamplona-bull-runs-113623303.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/viral-joker-pamplona-bull-runs-113623303.html</guid>
             <pubDate>Mon, 13 Jul 2026 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German court convicts Iraqi couple of enslaving Yazidi girls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80E52E7E4014865213B27CE2A8C76F37F2148630798B272B5AC32DF4AAF12B38/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F628a5e0b0ecfb7a611c5621d6557e2c7" alt="" /></p>The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-court-convicts-iraqi-couple-113622328.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-court-convicts-iraqi-couple-113622328.html</guid>
-            <pubDate>Mon, 13 Jul 2026 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Almost like gold’: water debate rages on Italy’s Aeolian Islands]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40D91EA0DFA3F0F1DDC4860A8F0BA2158F742AD16C90A17E06A05D839BB1136B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fece28e62bd48d442e743907b9789fdd0" alt="" /></p>Without natural drinking water, residents of Italy's Aeolian Islands are mulling whether to build more desalination plants that will also cater to the large number of tourists, or continue bringing in water by ship.An existing desalination plant with large white silos on Vulcano, one of the archipelago's eight islands, has made it autonomous for drinking water.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/almost-gold-water-debate-rages-113006758.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/almost-gold-water-debate-rages-113006758.html</guid>
-            <pubDate>Mon, 13 Jul 2026 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK says an Iran-backed group was behind attacks on Jewish community, bans Revolutionary Guard]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E872BC4DD0BC902BDB365409111BF1E17CA7BA1CC5E99686AF84A245C1D5C9CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F02e8f17c6521c96a3bc531bbb4d0388f" alt="" /></p>A series of arson and vandalism attacks on Jewish sites in Britain were the work of a proxy group backed by Iran, the U.K. government said Monday.  The government said it is banning the Islamic Movement of the Companions of the Right, or IMCR, also known as Harakat Ashab al-Yamin al-Islamia.  It also banned Iran’s powerful paramilitary Revolutionary Guard as a threat to national security.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-says-iran-backed-group-113002617.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-says-iran-backed-group-113002617.html</guid>
-            <pubDate>Mon, 13 Jul 2026 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran-backed Houthi rebels in Yemen say Saudi airstrikes hit Sanaa International Airport]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F839E5668B3CFEC9BE77A1B6DADD049A717850A702E8840C3226151FAD57CE0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2dbf4820cb026c44157ee9f4929c2db6" alt="" /></p>Iranian-backed Houthi rebels in Yemen said Saudi airstrikes hit Sanaa International Airport on Monday, while the internationally recognized government in Yemen said they were meant to prevent an Iranian plane from landing.  For years, a Saudi-led coalition based in Yemen’s south, including the internationally recognized government, has been fighting the Houthis in the north.  Saudi Arabia did not immediately acknowledge carrying out airstrikes in Yemen, and its officials did not immediately respond to a request for comment.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/houthi-rebels-yemen-sanaa-international-112921567.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthi-rebels-yemen-sanaa-international-112921567.html</guid>
-            <pubDate>Mon, 13 Jul 2026 14:12:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK murder suspect bought gun in South Africa, possibly to kill himself, police say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F3D1DBA53C8B081B63F1F914B5CB27E0A49844C54C5977CD562941BF8EB607F5/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fadf8ff1d206d40c8d591ee0c866ae683" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/uk-murder-suspect-bought-gun-110210653.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/uk-murder-suspect-bought-gun-110210653.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Container ship attacked in Strait of Hormuz as Iran widens war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF6F74A11A8FA5AF708921CA9ED4A28167E68E660630384104EA778062135CA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F3c4103fc102a57172e2e0f2caa252634" alt="" /></p>Iran closed the Strait of Hormuz and attacked U.S. installations and regional energy production in a widening Gulf war. The post Container ship attacked in Strait of Hormuz as Iran widens war appeared first on FreightWaves.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/container-ship-attacked-strait-hormuz-110000355.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/container-ship-attacked-strait-hormuz-110000355.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contracts awarded for Goldfields Pipeline upgrade in Western Australia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D60750AFBEE87EEC29E2895B8BAAB3893F56EFFB96BEAF1CB22BDAEB93D8E9BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2F16de5341c334a517488d80820ad5d9f2" alt="" /></p>The works will include renewal of pipeline infrastructure, upgrades to valves, and the construction of a duplicated Binduli Reservoir.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/contracts-awarded-goldfields-pipeline-upgrade-105902503.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/contracts-awarded-goldfields-pipeline-upgrade-105902503.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
