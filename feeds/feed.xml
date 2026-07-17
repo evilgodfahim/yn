@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 21:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 22:43:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE0070B7F5A465A2658691AF1C744DE32757FD903F73934DA4B6D6938D78C5EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc68133906c9e6d01ad3bb6e56f0660a2" alt="" /></p>Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kim-jong-un-meant-only-221421678.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kim-jong-un-meant-only-221421678.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ship traffic slows to a trickle in Strait of Hormuz, data service says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD40BC4A4AB0D13B3020BBE093C87A0979DDAE7C4E14D6F502E0FB7941F92CE1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F129a1fcf6d0e48987de8ff420afe768c" alt="" /></p>Shipping through the Strait of Hormuz has almost ground to a halt again following the renewed exchange of attacks between the United States and Iran, data provider Kpler said on Friday. Only eight ships passed through the strait on Thursday, the lowest figure in three weeks, Kpler said in a post on X.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ship-traffic-slows-trickle-strait-220540569.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ship-traffic-slows-trickle-strait-220540569.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 22:43:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iranian drones hit targets in Iraqi Kurdistan region]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B481B7828A8874ED35FDE18D79D276519BD6757A9127BE88F6651E4A50FFC56/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F13c0cf594034bb34a07888659c0b6d3f" alt="" /></p>Various locations in the cities of Sulaymaniyah and Erbil in Iraq's Kurdistan Region came under Iranian drone attacks on Friday, causing injuries and extensive material damage, a security source told dpa. Iranian drones struck the city on Friday evening, causing casualties and damaging weapons depots belonging to the Kurdistan Region's Peshmerga forces, a security source in Sulaymaniyah said, speaking to dpa on condition of anonymity.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iranian-drones-hit-targets-iraqi-210758279.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-drones-hit-targets-iraqi-210758279.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2853D051C3C8F997B98C528BF628D56292D3418703C95D5C53A2326BD967D863/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F5cd6c47a26a1449ab8b4b575b4774ad0" alt="" /></p>Nikola Golem was sentenced to nine years in prison for keeping his stepfather’s decomposing body in his house for over a year, but he may not serve the full sentence]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-let-mother-sleep-beside-210037418.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-let-mother-sleep-beside-210037418.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35C6E3492ED361C9F0F4BC717CB1C1A68F307CC8BF8A21A0A070D425FA7773BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fba85e5a7d3eda6574f8dffa7729a3046" alt="" /></p>The seizure of the Astana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.]]></description>
             <link>https://www.yahoo.com/news/world/articles/suspected-somali-pirates-seize-tanker-205727110.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspected-somali-pirates-seize-tanker-205727110.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E42BD6518BB25985B07C8B46FDFE21AE56662C00F05BC9026917C1E6EADF8F92/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa3b2c7f9f499df0a5b1f0e64ee00d6b7" alt="" /></p>“It’s like their lives didn’t even matter,” said Bianca Jones’ mother, Michelle]]></description>
             <link>https://www.yahoo.com/news/world/articles/2-teen-backpackers-were-among-205226296.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/2-teen-backpackers-were-among-205226296.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4135EE7BAD02EE4E6825A592CB85C50A628973925162646C41E3BE5EE0D5F2FC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5a8528442e15bcbed31666588eb088a1" alt="" /></p>TAPACHULA, México (AP) — A strong earthquake struck the southern Mexican Pacific coast on Friday, right on the border with Guatemala, and was felt from Mexico City to El Salvador. Authorities did not report any severe damage or casualties in any country.  Two people were reported injured in southern Mexico.  The U.S. Geological Survey (USGS) reported that the earthquake had a magnitude of 7.3 with the epicenter 48 kilometers (30 miles) southwest of Aquiles Serdan, near the coast of Chiapas and at a depth of 15 kilometers (9 miles).]]></description>
             <link>https://www.yahoo.com/news/world/articles/7-3-earthquake-hits-mexico-161025445.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/7-3-earthquake-hits-mexico-161025445.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 21:56:31 GMT</pubDate>
         </item>
         <item>
@@ -7011,20 +7022,6 @@ bur-aya/smw]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D60750AFBEE87EEC29E2895B8BAAB3893F56EFFB96BEAF1CB22BDAEB93D8E9BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2F16de5341c334a517488d80820ad5d9f2" alt="" /></p>The works will include renewal of pipeline infrastructure, upgrades to valves, and the construction of a duplicated Binduli Reservoir.]]></description>
             <link>https://www.yahoo.com/news/world/articles/contracts-awarded-goldfields-pipeline-upgrade-105902503.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/contracts-awarded-goldfields-pipeline-upgrade-105902503.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drone footage shows devastation after deadly Spain wildfire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7E09A31F44885CA5411CD834E3225C8D5413CA1139B834C8B4AEBE9619A1AA44/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F72e082001fd2dd97314422f85d5194f6" alt="" /></p>Drone footage shows the devastation left by a deadly wildfire in southern Spain that killed at least 12 people and burned around 7,000 hectares. Authorities say the blaze has now been brought under control.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/drone-footage-shows-devastation-deadly-105528961.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drone-footage-shows-devastation-deadly-105528961.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[European Parliament approves free cabin luggage and new delay compensation rules for air passengers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3275C0E0050929EBDC8D3B45B5546CC089A6DE0CD3C3DF94E2F35E0D9658B437/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F6786f49534334bca6fc28d62c2c241cc" alt="" /></p>Lawmakers gave the final green light to the revised regulation after a decade of talks with EU countries. Airlines argue the new rules will inevitably lead to higher ticket prices. Passenger associations say rights have been upheld.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/european-parliament-approves-free-cabin-113048482.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/european-parliament-approves-free-cabin-113048482.html</guid>
             <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
         </item>
     </channel>
