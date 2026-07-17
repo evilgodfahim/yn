@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 19:59:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 20:59:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 20:59:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why is Canada's wildfire smoke blanketing parts of North America?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F4337CB180D37FA0E94E74C68C6FF58A29BA39E1BACF6D6CAB056D04F33CC55/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5d4be544f11248112be1f04c95938436" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/explainer-why-canadas-wildfire-smoke-200909747.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/explainer-why-canadas-wildfire-smoke-200909747.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 20:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Line: Bangladesh’s Garment Sector Faces Growing Human Rights Crisis]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/55A7A0B3A59E6B2733799A111AFA3388151847C6B62C6C3189A3F3FB569FB8B3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2F484b985ec4427380baf28c45ce8ff6eb" alt="" /></p>Also in this edition: Two Cambodian factories were fined for burning fabric scraps as fuel, a study found that shareholders penalized Covid cancellations, and three Bangladeshi manufacturers halted work over safety issues.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/line-bangladesh-garment-sector-faces-201250806.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/line-bangladesh-garment-sector-faces-201250806.html</guid>
+            <dc:creator><![CDATA[Sourcing Journal]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 20:59:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After years of drone warfare, Ukraine is selling its ‘blood experience’ to allies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA63F3749C4992DEC40107F2ED95DD16B91B87702CB0A054E93756236D26F3F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwashington_post_articles_265%2F54bdccbbed541f403072e4938443681d" alt="" /></p>KYIV - More than four years into Moscow’s full-scale war, Russian drones have emerged as the deadliest weapon in Ukraine, killing thousands of soldiers and civilians. But for each Russian innovation - first-person-view vehicles, jet power, fiber-optic tethers - Ukraine has developed countermeasures.Subscribe to The Post Most newsletter for the most important and interesting stories from The Washington Post. Now, as drones target Israel, Persian Gulf states and U.S. forces in the Middle East, the]]></description>
+            <link>https://www.yahoo.com/news/world/articles/years-drone-warfare-ukraine-selling-090000368.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/years-drone-warfare-ukraine-selling-090000368.html</guid>
+            <dc:creator><![CDATA[The Washington Post News]]></dc:creator>
+            <pubDate>Fri, 17 Jul 2026 20:59:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine's Zelenskiy aims to improve ties with Poland after row over military honour]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE2E692EA36A188CBB7902D53B18A2AC759AC54D3C1E24315915E95C32C7BC2A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1c5efbb80ca6178dd9b0bfc727a3d00c" alt="" /></p>July 17 (Reuters) - President Volodymyr Zelenskiy on Friday took steps to repair a rift with key ally Poland over his decision in May to name a Ukrainian army unit in honour of World War Two fighters]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraines-zelenskiy-aims-improve-ties-195031784.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraines-zelenskiy-aims-improve-ties-195031784.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9BDF07EFCAD4437A4DB6A1E70AA89B4959F6E81E1F8F997B5643ECC4FE1F8ACD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7d9c52328f44bfd95a93d1d365ff6c7a" alt="" /></p>Thousands of people turned out in Kyiv on Friday to protest Ukraine President Volodymyr Zelensky's sacking of his popular defence minister Mykhailo Fedorov as part of a controversial reshuffle.Already on Thursday, around a thousand people protested Fedorov's removal in Kyiv and there were protests too in other cities.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thousands-protest-sacking-ukraine-defence-193442192.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-protest-sacking-ukraine-defence-193442192.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +52,6 @@
 imm/rmb]]></description>
             <link>https://www.yahoo.com/news/world/articles/fickle-winds-whip-huge-spanish-193035519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fickle-winds-whip-huge-spanish-193035519.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +59,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/134B16DE20133D407E8847B8130448627CCFCC48AB20FCAF1C496F2844AF9185/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2Fefd27b73bdec05b72db47b2613826c32" alt="" /></p>An attorney for Gérald Marie said he "firmly denies these allegations, as he has consistently done."]]></description>
             <link>https://www.yahoo.com/news/world/articles/six-women-allege-rape-against-191932457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/six-women-allege-rape-against-191932457.html</guid>
-            <dc:creator><![CDATA[WWD]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +66,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/72903D6841A59DF82727212E9CBCEEB0EF09A4FC49451896A089B95EF9F7BA80/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F067ef5187d0541b4d6848aa267212c5d" alt="" /></p>A video showing a traffic stop in Quebec has sparked debate on X after a police officer told a driver, “If you’re not happy to be in Canada, you’re free to leave.” The driver, who is also the creator of the video, believes the traffic stop was an act of racial discrimination, and expressed his…]]></description>
             <link>https://www.yahoo.com/news/world/articles/free-leave-statement-canadian-police-191500662.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/free-leave-statement-canadian-police-191500662.html</guid>
-            <dc:creator><![CDATA[The Daily Dot]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +73,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/91F451917232B9BE2DEA982CBBB9B8AD5177648265BB502C0395815A317F66A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fce59fe73caf5f67d185f0aa0099060c7" alt="" /></p>The British Museum on Friday revealed some sections of the Bayeux Tapestry a week after its arrival, as the curator of the forthcoming exhibition told AFP he was "relieved" the fragile embroidery appeared to have "travelled well".Michael Lewis, the curator of the landmark exhibition opening in September, said: "I'm relieved that the tapestry has travelled well" with "no obvious signs of damage".]]></description>
             <link>https://www.yahoo.com/news/world/articles/british-museum-shows-bayeux-tapestry-184607974.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-museum-shows-bayeux-tapestry-184607974.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +80,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40F3C91DA8034B94E650F96EB3C2C44256A562BA424E11A55F3746F608B5F6B7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Ff5aef76edf312eadb776f07c4c1ed2dd" alt="" /></p>A man in Perth, Australia, was out shopping when he suddenly noticed an individual attempting to allegedly flee with stolen drinks in a carjacked car. However, the man managed to capture the suspect’s failed attempt ... Read more]]></description>
             <link>https://www.yahoo.com/news/world/articles/carjacker-forgets-release-handbrake-bystander-184523141.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/carjacker-forgets-release-handbrake-bystander-184523141.html</guid>
-            <dc:creator><![CDATA[Guessing Headlights]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +87,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD2CF95B63734767151EC8258946458CA5A288EF0E7ACE3C2BC846F856145000/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fslash_gear_112%2Fdf506b5a5e67822921f38eaaedab2615" alt="" /></p>The Harrier II jump jet was a legendary military aircraft heavily utilized by the RAF. However, the U.K. government pulled the plug on it over a decade ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/why-raf-no-longer-flies-184500872.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-raf-no-longer-flies-184500872.html</guid>
-            <dc:creator><![CDATA[SlashGear]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -78,7 +94,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C296A962A399FCB3363B1A78A329D24834FEA32DB4E29994BBA666EBC3DC81DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe913f92c25ae7c73f850e2ce5a564969" alt="" /></p>Jamaica’s government said two of its three citizens recently deported by the United States to the African kingdom of Eswatini have formally declined offers to be repatriated to the Caribbean nation.  The Ministry of Foreign Affairs said late Thursday that Jamaican officials were still attempting to contact the third citizen.  “During the discussion, the men were advised of the consular assistance available to them and of the government’s readiness to facilitate their return to Jamaica,” the Foreign Ministry said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/jamaica-says-2-citizens-deported-183521064.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jamaica-says-2-citizens-deported-183521064.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -86,7 +101,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A3C33161483D0B3CC28A0A25C8C05FEA98D587A0A1DCA42022A0CC8296B90061/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgzero_551%2F55b2dc4b14ce76167888b6f3fc2f632e" alt="" /></p>For years, Russia has counted on one advantage above all else: time. Ian Bremmer explains why Ukraine's expanding campaign inside Russia is challenging that assumption, and what it could mean for the future of the war.For more than four years, the war in Ukraine has been driven by a simple calculation: that Russia can outlast Ukraine and its Western allies. But that assumption is beginning to face its biggest test yet.Ian Bremmer examines how Ukraine's increasingly sophisticated drone campaign i]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-still-outlast-ukraine-182216154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-still-outlast-ukraine-182216154.html</guid>
-            <dc:creator><![CDATA[GZERO]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -94,7 +108,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/294DA232E6C7E62C559DE24C39EDFBFD9A3A9A10479ED576B42A8BECC5098F6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F97ecad5a1cc4e1cfdad5c6f8938b6a56" alt="" /></p>"This refinery also risks becoming a stranded asset as the world moves toward cleaner energy."]]></description>
             <link>https://www.yahoo.com/news/world/articles/dangote-backed-refinery-kenya-faces-180200724.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dangote-backed-refinery-kenya-faces-180200724.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -102,7 +115,6 @@ imm/rmb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9236F84F26881399244F79457C05A61A5FB0A74E3E19CF59B10BCC691E062CC7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F96298dc74f760567b9414c7f095e3a9c" alt="" /></p>The PLA-inspired vehicle adds visual realism to exercises as Australia’s military trains for conflict against its primary adversary.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australian-army-unveils-abrams-disguised-172715052.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-army-unveils-abrams-disguised-172715052.html</guid>
-            <dc:creator><![CDATA[TWZ]]></dc:creator>
             <pubDate>Fri, 17 Jul 2026 19:59:55 GMT</pubDate>
         </item>
         <item>
@@ -7011,27 +7023,6 @@ bur-aya/smw]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/66D897DD9D9A94CFD7D4780DE1F791020D02E56F607B17D252C3500E91EA8DCC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2F4f35ab00be70b398252e02b2bb9b3cab" alt="" /></p>Image credits: Unsplash Ask anyone who has recently had a baby and moved between countries, and they’ll tell you the gap in support can be jarring. In one nation, a new parent might spend more than a year at home with most of their salary intact. In another, the very idea of paid time off ...]]></description>
             <link>https://www.yahoo.com/news/world/articles/3-countries-best-parental-leave-103530430.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/3-countries-best-parental-leave-103530430.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Speedboat capsizes off southern Vietnam, killing 15 tourists]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5F142A5A0DF18B0E09517C92902C7DD4EEE6082EF051EBE159E2393F03F491D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F6c5949b0217310c44b0e81aa7d0b19c9" alt="" /></p>"They were being submerged by the waves but still waving their hands for help," a witness said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/speedboat-capsizes-off-southern-vietnam-103451718.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/speedboat-capsizes-off-southern-vietnam-103451718.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[11 Places Where Online Political Opinions Can Still Get You Arrested]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC5BF253E6368DA3807F6CCCC18CF0EA5FB23F3CD6C258F82C8024EE2E5DA268/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2F92363c4a380cbf8578f1987344c93a3c" alt="" /></p>A tweet, a WhatsApp message, a shared article: in most of the world these are ordinary parts of daily life. In a surprising number of places, though, they are also the exact kind of evidence that ends up in a police report. The line between free expression and a criminal charge has gotten blurrier almost ...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/11-places-where-online-political-103244209.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/11-places-where-online-political-103244209.html</guid>
-            <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire at pub on outskirts of Bangkok kills at least 27 people and injures dozens]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AAEF45F52BFE5E2F996641DA802F3BC4B9D69F8F07FB073DD3D08044B8EF814D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Ff5139577213f3acc1022f223d2ae2367" alt="" /></p>The venue has a stage, two bars and a kitchen, with a total capacity of more than 300 people, as well as four fire exits, according to a Facebook post promoting a live show this month.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fire-pub-outskirts-bangkok-kills-082235204.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-pub-outskirts-bangkok-kills-082235204.html</guid>
             <pubDate>Mon, 13 Jul 2026 11:35:39 GMT</pubDate>
         </item>
     </channel>
