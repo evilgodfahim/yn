@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 22:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 23:44:21 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 22:40:14 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 23:44:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US renews strikes on Iran after two military personnel were killed by Iranian attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/87F405138C1C905D59DE19355DA8E62BB306C1F5DE9189827CD693C0856B81F5/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F2bd565eb8daa07047cce01f6dcb4c13a" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-renews-strikes-iran-two-232139930.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-renews-strikes-iran-two-232139930.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 23:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine reports dead and wounded in latest Russian attack on Odessa]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/69577235E03241DD997C5482A557DD42B7BABDC70B670778601AE3D0A937B94B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7946da963aa1c565ab06aa7eb2ae2139" alt="" /></p>Russian missile strikes against the southern Ukrainian port city of Odessa killed at least two people and injured four, the military governor of the Odessa region, Oleh Kiper, said on Telegram on Saturday. A missile hit an amusement park.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-reports-dead-wounded-latest-231829778.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-reports-dead-wounded-latest-231829778.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 23:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2 US service members die in Iranian attack on Jordan base, 1 missing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A14F8721F25A622FB0DF6CA071D61F2C58122C9270E452A48AE738574828A6EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flivenow_fox_840%2F7c152366dbf4a9fac9c33c42130c6552" alt="" /></p>Two U.S. service members died Friday in an Iranian assault on a Jordanian base and one is still missing.  CENTCOM explained they were defending the base from ballistic missiles and drones launched by Iran.  The service members’ deaths are the first since the opening days of the conflict with Iran.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/2-us-members-die-iranian-185224913.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/2-us-members-die-iranian-185224913.html</guid>
+            <dc:creator><![CDATA[LiveNOW from FOX]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 23:44:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Body Found in Search for Missing 5-Year-Old Boy Who Disappeared Near Hot Spring Resort in June]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BBE930DEF33DDCD7319DA0C40CF960E5466EDBFDEF21F4F1643B027149346456/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F04068899df7429f2b12dec724e1d1554" alt="" /></p>Investigators said 5-year-old Reo Tanaka may have climbed out of a window while his parents were in a changing room and fallen into a nearby river]]></description>
             <link>https://www.yahoo.com/news/world/articles/body-found-search-missing-5-221116132.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/body-found-search-missing-5-221116132.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 22:40:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E7EE9FBC1082C6D108C661FCCAEC5B1F038BFDA41CAB0FAB67927FA51EAABF7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2Fe84e7236c9a729df7e1cb0f08dd32c98" alt="" /></p>The death toll from two powerful earthquakes in Venezuela rose to 5,069 following ongoing recovery efforts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/death-toll-venezuela-earthquakes-rises-211539749.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-venezuela-earthquakes-rises-211539749.html</guid>
-            <dc:creator><![CDATA[WISH-TV]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 22:40:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE4137FA241F49387AC74556F5BAA5217D6374B1E59F7E714C3503AA4BA1B3B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fparade_250%2F93e95f0e425163c865801b7608a7c30d" alt="" /></p>He was found exhausted, a half mile from his car, after trying to cut his own way out.]]></description>
             <link>https://www.yahoo.com/news/world/articles/routine-fishing-trip-turns-9-185229605.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/routine-fishing-trip-turns-9-185229605.html</guid>
-            <dc:creator><![CDATA[Parade]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 22:40:14 GMT</pubDate>
         </item>
         <item>
@@ -7003,27 +7024,6 @@ eSafety Commissioner Julie Inman Grant said the report showed there were "signif
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4568BC49E7B48C79136DABE76A8632BE886AC634D1841EC6256ACE7118EF7E2B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7c301a8020dbb24bea2e9a28387cd06c" alt="" /></p>Thousands of workers crossing daily between Spain and Gibraltar will enter a new era of easier travel on Wednesday, as border checks that have long been a source of tension are lifted.During rush hours, long lines can form at the land border and documents are checked -- especially during periods of tension between Britain and Spain, which claims sovereignty over Gibraltar.]]></description>
             <link>https://www.yahoo.com/news/world/articles/era-gibraltar-border-controls-spain-013332185.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/era-gibraltar-border-controls-spain-013332185.html</guid>
-            <pubDate>Tue, 14 Jul 2026 01:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bahrain sounds air raid sirens after fresh US strikes on Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C9A7626B1EC22692C79B39C7659D08332E406312B3C5DCAE0D835805AC32A99/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1b1ab9757659b6a4b4ee4242a0d19c0e" alt="" /></p>Air raid sirens sounded again in Bahrain early on Tuesday after the US military launched a fresh wave of strikes on targets in Iran. Bahrain's Interior Ministry urged residents in a post on social media platform X to remain calm and seek shelter.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bahrain-sounds-air-raid-sirens-004847242.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bahrain-sounds-air-raid-sirens-004847242.html</guid>
-            <pubDate>Tue, 14 Jul 2026 01:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UAE says Iran attacked two tankers in Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DBEF3E09381BCCB969B197432ACFAE29B72224F0408A33A3B95DE126AA78DCFC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe103a63bf28eb90ee536e617ced049b3" alt="" /></p>Iran attacked two oil tankers from the United Arab Emirates (UAE) in the Strait of Hormuz, the Gulf state's Defence Ministry said early on Tuesday. "The national tankers Mombasa and Al Bahiyah were targeted by two Iranian cruise missiles while transiting the southern shipping lane of the Strait of Hormuz, within Omani territorial waters," the ministry said on X.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uae-says-iran-attacked-two-004847118.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uae-says-iran-attacked-two-004847118.html</guid>
-            <pubDate>Tue, 14 Jul 2026 01:46:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Kenyan volunteers hunt polio’s hidden trail]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A1C62D1D62A3EE1488303C49E71214FD4D91C25FBDDB6CA670E46B96E288A1BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fca9b2db11f58bb3a8d22423800b3328e" alt="" /></p>Community health volunteers travel across remote northern Kenya to detect poliovirus before it can spread.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kenyan-volunteers-hunt-polio-hidden-003507798.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenyan-volunteers-hunt-polio-hidden-003507798.html</guid>
             <pubDate>Tue, 14 Jul 2026 01:46:40 GMT</pubDate>
         </item>
     </channel>
