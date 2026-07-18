@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jul 2026 11:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jul 2026 12:12:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
+        <pubDate>Sat, 18 Jul 2026 12:12:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Senior Merz ally Spahn resigns after coming under pressure in Germany over surrogate baby]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FEEA28BB97A6B13638E45708F0528732C89EA5D7B215F025016B800916233D46/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd31f2754d5eb3de701ac0204d9cf38a4" alt="" /></p>BERLIN, July 18 (Reuters) - Jens Spahn, a senior member of German Chancellor Friedrich Merz's ruling conservatives, resigned on Saturday after having a baby born through a surrogate mother in the]]></description>
+            <link>https://www.yahoo.com/news/world/articles/senior-merz-ally-spahn-resigns-114405987.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/senior-merz-ally-spahn-resigns-114405987.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 12:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranian attack hits Kuwaiti power plant, Bahrain intercepts missiles]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1670F694ED60E67220B7DE3E832DF41625196EF5D9116D7CB41200B26B62BE6C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4a6a54b821361138f1db07e0ae2e2037" alt="" /></p>Kuwait accused Iran on Saturday of attacking another power and water desalination plant, after the United States launched a seventh consecutive night of strikes on Iran. Kuwait's Ministry of Electricity said the facility had been targeted in a "hostile" attack, causing a fire in part of the plant.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iranian-attack-hits-kuwaiti-power-113332751.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-attack-hits-kuwaiti-power-113332751.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 12:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukrainian special operators are changing how they assault enemy trenches. Someone always has to 'watch the sky.']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/945CD74881C5FE0CA0E96513B014373DA9018648B7052F7933E1B4C7FE2B54AC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fe70fca89baf9515cb01d03f907bdddf1" alt="" /></p>The continuous rise of drones on the battlefield has forced soldiers to adopt new training and tactics. They need to keep an eye on the sky.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukrainian-special-operators-changing-assault-111702140.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-special-operators-changing-assault-111702140.html</guid>
+            <dc:creator><![CDATA[Business Insider]]></dc:creator>
+            <pubDate>Sat, 18 Jul 2026 12:12:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/276ED0E12F94214874AA3D7B8FC82520C4CD42B9092B51F0B5D882C0C6702B34/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd920f48f11737fad85baf5141982ba43" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/delayed-orders-confusion-slowed-venezuelan-110803310.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/delayed-orders-confusion-slowed-venezuelan-110803310.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EBC772CC7A044113CEC60B660E78CB05AAE238828DD6716E3AA9058D0068781A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9dafbdbd5bdaaca90412ba8128f4d171" alt="" /></p>ShelterBox says the move marks "an exciting new phase" for the charity.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hq-move-better-suits-charity-110509749.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hq-move-better-suits-charity-110509749.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them "major logistics facilities" supplying "sanctioned components".]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-online-retail-warehouses-hit-102901388.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-online-retail-warehouses-hit-102901388.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C507AEE0AAB0115F8B04BE1BC5C7A0AF3C9C80647751227D6554AD6EAE5FEAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fae2ec916f0d638739ffc4de184825bc7" alt="" /></p>A hundred years ago, Paris erected a monumental mosque to honor Muslim soldiers from French colonies who fought in World War I. It's now an integral part of the capital’s bustling Latin Quarter, and as it celebrates its centenary, worshippers are reflecting on being Muslim in today’s France.  The rector of the Grand Mosque of Paris sees it as a symbol of interfaith dialogue and France’s diversity, but worries about religious tensions in the country linked to conflicts in the Middle East and the polarizing campaign for next year’s presidential election.  Visitors arriving for 100th anniversary prayers Friday included people from different regions around Paris, those born in France or those who came over the decades from Algeria, Senegal and beyond.]]></description>
             <link>https://www.yahoo.com/news/world/articles/paris-grand-mosque-celebrates-100th-104425005.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/paris-grand-mosque-celebrates-100th-104425005.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/590435D981C475D949C43773D34A04C3BB6F0B7A4A67A77ACA5DE68CBAFB009B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F38b592cefa30a06725eae56e56ce3239" alt="" /></p>Iran's Islamic Revolutionary Guard Corps have called on residents in Jordan to fight against the United States, Iranian media reported on Saturday, as the conflict between Iran and the US escalated over the past week. "It is your religious and human duty to neutralize them by all means and to cleanse the holy land of Jordan of the murderers of oppressed Muslims," the powerful military organization said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/irans-revolutionary-guards-call-jordanians-101824637.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/irans-revolutionary-guards-call-jordanians-101824637.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A3D86C1E643BF65BD2DB830396A89D8A6F1750790D08980DDEFD44A59BDAAC9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fcd7c157e44bc425efbdbc7610eefbdd9" alt="" /></p>This comes after seven nights of U.S. strikes on Iran.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-irgc-claims-attacks-us-091701090.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-irgc-claims-attacks-us-091701090.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/209406CA251DB9B437EB354DE1435EBAF6E8F6F47A7E289F98EC0DF617C82797/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa5ceed23162628a548870db884b48586" alt="" /></p>A major fire in southern Norway destroyed more than 100 homes Friday and forced hundreds of people to evacuate the area, according to police and the country's public broadcaster.  The blaze started in a townhouse in the city of Drammen around 3:30 p.m. Friday, police said.  Firefighters continued their efforts Saturday morning to bring the blaze under control.]]></description>
             <link>https://www.yahoo.com/news/world/articles/massive-fire-destroys-100-homes-090015881.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/massive-fire-destroys-100-homes-090015881.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4EBBB17D2E71291FB12B32ED8DAFAE9BEB08094D55C2A159924B7222E097EC8F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0b77bd3fb263a2a6bcad324d40b18a53" alt="" /></p>Eight people were killed and more than 60 others were wounded in Russia by overnight Ukrainian drone attacks, Russian officials said Saturday.  Kyiv's forces are continuing their relentless aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow’s war effort and make Russians feel the consequences of the Kremlin's all-out invasion of Ukraine that is well into its fifth year.  Two sprawling warehouses of Russia's major online retailer, Wildberries, were hit by Ukrainian drones overnight, according to Russian officials: one in the town of Kotovsk in the Tambov region, some 360 kilometers (roughly 220 miles) from the border with Ukraine, and another one in the city of Elektrostal, about 50 kilometers (some 30 miles) east of Moscow.]]></description>
             <link>https://www.yahoo.com/news/world/articles/7-killed-more-50-wounded-085617346.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/7-killed-more-50-wounded-085617346.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 18 Jul 2026 11:28:08 GMT</pubDate>
         </item>
         <item>
@@ -7009,27 +7025,6 @@ eSafety Commissioner Julie Inman Grant said the report showed there were "signif
 bur-aya/smw]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemen-government-says-attacked-sanaa-143230102.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-government-says-attacked-sanaa-143230102.html</guid>
-            <pubDate>Mon, 13 Jul 2026 16:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Foreign Ministry summons German ambassador]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5489A6BE245A67AF9716CC33675D79259570FDC1CF0ECF3600C31AD039820923/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F49b78559c3c6284d873277a3e95a6617" alt="" /></p>The German ambassador to Moscow, Alexander Graf Lambsdorff, has been summoned to the Russian Foreign Ministry. The ministry announced the summons on social media on Monday, but did not give a reason.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-foreign-ministry-summons-german-154846474.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-foreign-ministry-summons-german-154846474.html</guid>
-            <pubDate>Mon, 13 Jul 2026 16:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian officials spend Khamenei funeral week meeting with Hezbollah, Hamas officials]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3FB6831546E6527BAB4FED281C5F8D4AF19105A0CDBFD78566DA69190EC493F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F2b80d6ae702f54dc72af1d3bc9a017e8" alt="" /></p>Muhammad Fneish, a US-sanctioned politician for Hezbollah, met with Iran’s foreign minister Abbas Araghchi in Tehran on July 4 and Iranian Parliament Speaker Mohammad Bagher Ghalibaf on July 5. Iranian officials spent the week of Ayatollah Ali Khamenei’s multi-day funeral reaffirming their commitment to the “Axis of Resistance,” according to a series of photos and statements released by Iran’s Foreign Ministry and state media throughout the week.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iranian-officials-spend-khamenei-funeral-153727117.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-officials-spend-khamenei-funeral-153727117.html</guid>
-            <pubDate>Mon, 13 Jul 2026 16:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing Woman Found Dead by Pig Hunters. Now, Ex-Partner Who Was Watching Their Baby Is Charged with Murder]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD0C98B8DE51E7D11978C1DB611E738DF71105BA10EDADA2E45602EC072377D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3ec3952a875d5780d9fa38d512257372" alt="" /></p>“She always wanted to be a mum, that was her dream,” Jana Armstrong’s sister said]]></description>
-            <link>https://www.yahoo.com/news/world/articles/missing-woman-found-dead-pig-152254773.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/missing-woman-found-dead-pig-152254773.html</guid>
             <pubDate>Mon, 13 Jul 2026 16:53:26 GMT</pubDate>
         </item>
     </channel>
