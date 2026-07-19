@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 17:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 18:54:14 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 18:54:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Father sentenced to over 20 years for rape, sexual assault against toddler daughter, then-wife]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8051D3E3270272EFE2942BBABA80E3693D735559FB12BF0FFCC3BC41E5C1879/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff54c7050c039b49bfc4db727862a4825" alt="" /></p>The Central District Court in Lod sentenced the defendant to 20 years and three months in prison and ordered him to pay a total of NIS 150,000 in compensation to his former wife and their daughter. Warning: This article contains content that may be disturbing to some readers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/father-sentenced-over-20-years-181056292.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/father-sentenced-over-20-years-181056292.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 18:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E57D35E5C8C396B311CFA5403F188E5B11C46CE85E55FA46B08624EEFC455EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F4d5557de38615f302e0f649f69cabc8e" alt="" /></p>Record heat has fueled Europe's devastating wildfires, but experts say human error, suspected arson and land management have also played a major role in this summer's destruction.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/europes-fires-reveal-deadly-mix-161142511.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europes-fires-reveal-deadly-mix-161142511.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 18:54:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A ferry carrying 133 people capsizes off Guyana's coast, leaving dozens missing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D77968ACF96BD206AA50A04EAAA436CD51B9CD8E9E7CC3E8E6C0B073565EFE9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbe0bf2505dbec75f0e3703d956d167ad" alt="" /></p>A government ferry carrying 133 passengers and crew capsized in Guyana with 67 people rescued so far, authorities said Sunday, as a massive search and rescue operation tried to find the dozens of people still missing.  The MV Barima was sailing from the capital, Georgetown, along the North Atlantic coast to Port Kaituma, said Guyanese Prime Minister Mark Phillips, who is leading the government’s response.  Helicopters, planes and fishing vessels are scanning a 1,000-square-mile area in search efforts.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ferry-carrying-116-people-capsizes-115311577.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ferry-carrying-116-people-capsizes-115311577.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 18:54:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At least six killed as Russia launches overnight missile and drone attack on Ukraine]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/114132F3458CE904E96E21C9026A9063559387A1DCF66521B6BCB254150153CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb94e7d9b27bedf01bd538c3ab626ab4c" alt="" /></p>Russia launched 41 missiles and 125 drones at Ukraine overnight, a day after Kyiv sent drones across the border into Russia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-one-killed-russia-launches-120638173.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-one-killed-russia-launches-120638173.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53140FD8E0399ADFCFF25727B15AFD6F1424414B38D009A78AEB148335548F41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2fea0a9c6eb6219fd9cb215f76a55e5a" alt="" /></p>A Lebanese soldier died in southern Lebanon when an explosive device detonated in a military vehicle, the Lebanese military reported on Sunday. It referred to a "suspicious object" inside a military vehicle.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanese-soldier-killed-explosion-attributed-164831858.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-soldier-killed-explosion-attributed-164831858.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DD23D676725C294029D6A870AA9DACD495BACA026D910BE3D19F44EE0CA5D54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0958a2f616c21982ce75dece9002e749" alt="" /></p>A church known as the “Pisa of the Fens” is set to lose its leaning spire because of “serious structural issues”.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pisa-fens-church-lose-leaning-161536294.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pisa-fens-church-lose-leaning-161536294.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
         </item>
         <item>
@@ -7004,27 +7025,6 @@ Australian creative content was not "up for grabs", and the new laws will provid
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF0EA0D3310270AE442E7859035897829AD0DF592AB6BED5B4601208B29C975D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F418fd6274f6d7e0f8e6ef694269b8a82" alt="" /></p>Expensive interceptor missiles are facing mounting pressure from Iran’s cheaply produced drones.]]></description>
             <link>https://www.yahoo.com/news/world/articles/gulf-countries-defend-themselves-against-105902424.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gulf-countries-defend-themselves-against-105902424.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[British troops march down Champs-Elysees in Bastille Day parade]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C59E7F6BBA17C01706139CC29F07E97A9F4E251DD1662636C6F553CC41048F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F61773870d6ca999b2bce51bf17b072e5" alt="" /></p>British troops marched down the Champs-Élysées as part of the largest Bastille Day parade since the Second World War.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/british-troops-march-down-champs-104210863.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-troops-march-down-champs-104210863.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our children are fat and addicted to beige food. This surgeon is trying to save them]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A2E920096F0A30D3A14782690BFB9FD233326BF5E94075836C11E695F79390B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fe12d52ddba06f250d8f6def763065f43" alt="" /></p>In wellness circles today, there’s much chatter about longevity and the lifestyle hacks to help you live to 100 and beyond. But according to childhood obesity expert Prof Simon Kenny, while around 15 per cent of children in England are obese, it is the 2.6 per cent who are severely obese who face the gravest consequences. Some 288,600 of today’s under-18s are not even on track to celebrate their 40th birthdays.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/children-fat-addicted-beige-food-104041508.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/children-fat-addicted-beige-food-104041508.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU population to peak in 2029 before long-term decline]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/214128A475CC83890E17AE536316760953CAAC7BB8EA50F40E8A595FBA0F7C8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F55ef5dfb495bc6741bb1766972951945" alt="" /></p>The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that puts a spotlight on the major challenges of an ageing citizenry.But an ageing population poses challenges for society and the EU economy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/eu-population-peak-2029-long-103651952.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-population-peak-2029-long-103651952.html</guid>
             <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
         </item>
     </channel>
