@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 16:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 17:55:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At least six killed as Russia launches overnight missile and drone attack on Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/114132F3458CE904E96E21C9026A9063559387A1DCF66521B6BCB254150153CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb94e7d9b27bedf01bd538c3ab626ab4c" alt="" /></p>Russia launched 41 missiles and 125 drones at Ukraine overnight, a day after Kyiv sent drones across the border into Russia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-one-killed-russia-launches-120638173.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-one-killed-russia-launches-120638173.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanese soldier killed by explosion attributed to Hezbollah]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53140FD8E0399ADFCFF25727B15AFD6F1424414B38D009A78AEB148335548F41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2fea0a9c6eb6219fd9cb215f76a55e5a" alt="" /></p>A Lebanese soldier died in southern Lebanon when an explosive device detonated in a military vehicle, the Lebanese military reported on Sunday. It referred to a "suspicious object" inside a military vehicle.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/lebanese-soldier-killed-explosion-attributed-164831858.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-soldier-killed-explosion-attributed-164831858.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Pisa of the Fens’ church to lose leaning spire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DD23D676725C294029D6A870AA9DACD495BACA026D910BE3D19F44EE0CA5D54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0958a2f616c21982ce75dece9002e749" alt="" /></p>A church known as the “Pisa of the Fens” is set to lose its leaning spire because of “serious structural issues”.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pisa-fens-church-lose-leaning-161536294.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pisa-fens-church-lose-leaning-161536294.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 17:55:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At least five dead and 21 injured after 2 earthquakes in Peru]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/cv/apiv2/default/hp/nebula-placeholder.jpg" alt="" /></p>By Marco Aquino LIMA July 19 (Reuters) - At least five people were killed and 21 injured after two earthquakes struck a mountainous region of Peru, the country's civil defense chief said on Sunday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/earthquake-magnitude-5-6-strikes-024654707.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/earthquake-magnitude-5-6-strikes-024654707.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7CDC4E438A87EC657131C7E82A3296F9AF17A17F028AC5396BD1375D7115586F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4e40736a2993124e1b66772ddcee1ff9" alt="" /></p>Government says the shake-up will strengthen security and clear the way for reconstruction.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-al-sharaa-reshuffles-security-164355049.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-al-sharaa-reshuffles-security-164355049.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DCB56261DB7889F75FCE473541CE73829701206701E4AF8F15E88F5B3BE3E5F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F0d8128659465ea8cd5c6de112eab5462" alt="" /></p>Several buildings have collapsed or suffered structural damage, including the local church and convent]]></description>
             <link>https://www.yahoo.com/news/world/articles/5-5-magnitude-earthquake-peru-155202464.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/5-5-magnitude-earthquake-peru-155202464.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/36626240FDE8774D2AB0748FAAF38CDC84EE7BDAACC6CB5DE2DD358EB61AA8B4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4421295a60333f73c32d0bd89bbcbe69" alt="" /></p>The United States is deploying additional fighter aircraft to the Middle East as the conflict with Iran escalates, US media reported on Sunday. The Wall Street Journal reported that the deployment includes F-16 fighter jets from the US air base at Spangdahlem in western Germany, as well as F-35s from RAF Lakenheath, a British air base used by the US military.]]></description>
             <link>https://www.yahoo.com/news/world/articles/reports-us-deploys-more-fighter-161825588.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/reports-us-deploys-more-fighter-161825588.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D837E37ADA90DE63EF5034641B1958D0BBEB31C13295F4AA7E1635E7204336C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F0c38d15d3db344cafe6b4660429d8af1" alt="" /></p>"Several individuals hearing what they believed to be a rattling sound in long grass."]]></description>
             <link>https://www.yahoo.com/news/world/articles/bermuda-brings-snake-sniffing-dogs-160400480.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bermuda-brings-snake-sniffing-dogs-160400480.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/170512BABDD00589E9881512696CD8DCE158FDD616B1F35869FBC85657307792/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F867f1e1bb9acb97bae9d707fb75cc17a" alt="" /></p>For decades, the village of Ravello, known as the jewel of the Amalfi Coast, in southern Italy, was coveted as a secluded refuge for European and American VIPs, some of whom came up steep paths by mule to visit the enchanting villas overlooking the Mediterranean.]]></description>
             <link>https://www.yahoo.com/news/world/articles/amalfi-coast-villagers-unhappy-tourist-153718059.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/amalfi-coast-villagers-unhappy-tourist-153718059.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DBF53F0DD93593134894E91A06F1391736B926EA7BDBF6714D2B9B2B2A730EAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5323f01fe454657f00d8529b4fbee274" alt="" /></p>A 5.5 magnitude earthquake shook the Andes region of Peru, killing at least five people, authorities said Sunday.  The U.S. Geological Survey reported the quake struck on Saturday at 9:24 p.m., with its epicenter located 2 kilometers (1.24 miles) west-southwest of the city of Sicaya in Huancayo province.  It was 10 kilometers (6.21 miles) deep.]]></description>
             <link>https://www.yahoo.com/news/world/articles/5-5-magnitude-earthquake-hits-142645119.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/5-5-magnitude-earthquake-hits-142645119.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7AE0ADF6575C333A80D233B16D76B78DF54154F07CD3DFD758C775B87A52A275/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fdcca770e79947ce4344ab0635d80f27d" alt="" /></p>On a farm near Big Beaver, Saskatchewan, an ordinary afternoon of equipment maintenance turned into a fight for survival, and the family's youngest members became the difference between life and death. According to archival footage from CTV News, originally broadcast July 15, 2005, Don Hope was ...]]></description>
             <link>https://www.yahoo.com/news/world/articles/pinned-bleeding-no-cell-8-130200516.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pinned-bleeding-no-cell-8-130200516.html</guid>
-            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 16:56:56 GMT</pubDate>
         </item>
         <item>
@@ -7009,27 +7025,6 @@ Australian creative content was not "up for grabs", and the new laws will provid
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/214128A475CC83890E17AE536316760953CAAC7BB8EA50F40E8A595FBA0F7C8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F55ef5dfb495bc6741bb1766972951945" alt="" /></p>The population of the 27-nation European Union will peak in 2029 before falling in the coming decades, according to a report published Tuesday that puts a spotlight on the major challenges of an ageing citizenry.But an ageing population poses challenges for society and the EU economy.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eu-population-peak-2029-long-103651952.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-population-peak-2029-long-103651952.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Climbers found dead in Italian Alps week after going missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DAE8CA4517201E072DACA376A1E6BCE7BC0501C8299A68DB6EFBEEC02D3EBEBE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F6dac8556dac18d493ddfec17b133d60f" alt="" /></p>The two climbers had not made contact since leaving a mountain refuge on July 9, according to authorities.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/climbers-found-dead-italian-alps-102838481.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/climbers-found-dead-italian-alps-102838481.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfire of ‘exceptional magnitude’ threatens palace near Paris]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/373715D3777F3141FC448737201C7169136F07326F133CD835A9C9A4B3557C41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc89c8a42a1db919c37ad9ec9e57318f1" alt="" /></p>A wildfire of an “exceptional magnitude” is raging out of control near Paris, threatening one of France’s best-known palaces.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildfire-of-exceptional-magnitude-threatens-palace-near-paris-100810614.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfire-of-exceptional-magnitude-threatens-palace-near-paris-100810614.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spectacular drones and fireworks illuminate Eiffel Tower ahead of Bastille Day]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DBDC4A4EB854455E82EFCA720BB9951208F74ED76D73992D21C62A63ECCB2AB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F30c2a27cc6a7b65d0af21396875deffc" alt="" /></p>Paris staged an early Eiffel Tower fireworks and drone show, reserving Bastille Day to commemorate the 2016 Nice attack and its 86 victims.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spectacular-drones-fireworks-illuminate-eiffel-095624227.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spectacular-drones-fireworks-illuminate-eiffel-095624227.html</guid>
             <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
         </item>
     </channel>
