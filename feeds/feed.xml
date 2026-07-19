@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 13:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 14:58:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Military convoy ambushed in northern Mali by rebel coalition]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77F473FCF45C1C474987C67DD4D6C208BDCB567C9FDF13865004221CDCE46B8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1402a871b7fcc787910607f3f52c9a08" alt="" /></p>A military convoy in northern Mali has come under a major ambush, the country's armed forces confirmed, as rebel forces said dozens of Malian soldiers were killed and taken as prisoners. In a statement issued on Saturday evening, the Malian military said a convoy of Malian troops and allied Russian fighters from the Africa Corps had been ambushed earlier in the day near Tabrichat by a coalition of Tuareg rebels from the separatist Azawad Liberation Front (FLA) and an al-Qaeda-linked militant gro]]></description>
+            <link>https://www.yahoo.com/news/world/articles/military-convoy-ambushed-northern-mali-143327719.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/military-convoy-ambushed-northern-mali-143327719.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran attacks US Gulf allies, causing a fire at Kuwait power plant]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C8862BD9DD78A7ADC6295048C2A3B0F79794CA564078A6D9B7A805B40E32B0B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcf7beac90310ed66347cef9a45371adc" alt="" /></p>Kuwait and Bahrain report several rounds of Iranian missile, drone attacks; sirens reportedly sound in Jordan.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-attacks-us-gulf-allies-142753653.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-attacks-us-gulf-allies-142753653.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran says U.S. strikes hit nuclear power plant; U.N. investigates]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8140516E7F346BE70F4AF71CFAA4F38A8C0609D0D55C34A11F491CEA833112BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F6dcac14a7a3ecf0864d19a6b7a0338c6" alt="" /></p>The United Nations' nuclear energy agency said Sunday it's investigating Iran's allegation that the U.S. military struck a nuclear power plant.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-says-u-strikes-hit-141550382.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-says-u-strikes-hit-141550382.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kuwait reports fresh Iranian strikes, power and desalination plant hit]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/890CB4CEF9960C44DB89C0E89DBA1A286642349E3A2B447B03424207FEAA3812/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9ab27d0af7fd4608394a9248da42926d" alt="" /></p>Kuwait has been intercepting "hostile missiles and drones" fired from Iran as the conflict between Tehran and Washington continues to escalate, the Kuwaiti military reported on Sunday. The Energy Ministry said that a power generation and seawater desalination facility had been attacked twice within two days.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kuwait-reports-fresh-iranian-strikes-140328080.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kuwait-reports-fresh-iranian-strikes-140328080.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian drones spotted using screwed-on magnetic compasses as navigation aids — the on-board camera can occ...]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DF74B7B64DE9A5318D50C16D325655DDCACF7F08437483CC58699D8087017EAF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2Fbae7813c2de02f6b9eb1ae2f968b294a" alt="" /></p>Russian drone troops are adding cheap magnetic compasses to help find their bearings. Crude add-on helps them find their bearings and locate their targets even without GPS.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-drones-spotted-using-screwed-120534249.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-drones-spotted-using-screwed-120534249.html</guid>
+            <dc:creator><![CDATA[Tom's Hardware]]></dc:creator>
+            <pubDate>Sun, 19 Jul 2026 14:58:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At Least 9 People Dead, 15 Others Injured After Huge Blast at Illegal Fireworks Factory]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A264EE613558BCE8C6B909423B4B8BEA9F0A7F2196E566C4479AB591DCE3FB7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3de088ee107dd87c0cbc49dca44c616b" alt="" /></p>The impact of the explosion reached as far as five kilometers on Saturday, July 18]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-9-people-dead-15-134412934.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-9-people-dead-15-134412934.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59A7129915ECB2FE3788C16218A0AB98B7360A5E45186956465C548331922C57/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fa_z_animals_articles_598%2F71bfb631361ea562169b6a7e7f0ac0ed" alt="" /></p>Pangolins curl into a ball to survive predators, but that same instinct makes them shockingly easy for poachers to grab by hand. Now, some of the world's biggest tech companies are trying to stop traffickers not in the jungle, but in their digital bank accounts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/wildlife-crime-23-billion-industry-133200110.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildlife-crime-23-billion-industry-133200110.html</guid>
-            <dc:creator><![CDATA[A-Z Animals]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/67994069B0E2C5010B5A774D2E2D2CE506BF8C614E01C0EA54AD674B7E900FAA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2Fcbbd21ce503ff96882d2268a58269308" alt="" /></p>“Children are paying the price for the escalating conflict in the Middle East, including children far beyond the region,” UNICEF's Catherine Russell said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerian-children-pay-price-iran-130956431.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-children-pay-price-iran-130956431.html</guid>
-            <dc:creator><![CDATA[Politico]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E91A9FE5F9A3BA3A560BF01F00B3E650AC399A12BB5E5764D0F725BA3B87F9FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2F91b0df954f7f51a8f55edcf9f8db07f0" alt="" /></p>A video shared on X appears to show the aftermath of a crash involving a driver whom bystanders accuse of drinking before getting behind the wheel. In Kingston upon Hull, or simply shortened as Hull, a video emerged of a furious woman outside of a car that had crashed into a lamppost, with the driver,…]]></description>
             <link>https://www.yahoo.com/news/world/articles/look-ve-done-family-woman-130000233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/look-ve-done-family-woman-130000233.html</guid>
-            <dc:creator><![CDATA[The Daily Dot]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E20AFDF05BEC9C4331C7A5B581E22855889EED84AC383870BA9C32476309030A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9d4b99dbe9bf96efdd8b460c9bdb8262" alt="" /></p>The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is ‘illegal detention’.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indian-court-rejects-bid-release-123824023.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indian-court-rejects-bid-release-123824023.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E88AD5B700CBF7653CE281EB84A62C52D2AD93DE80827FC992D8A1669612CFB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3145bd2f425fc80b8a798320da28c1ce" alt="" /></p>Ukrainian drone attacks targeting Russia's oil industry have triggered several major fires in the south of the country, Russian authorities reported on Sunday. Three oil depots had caught fire in the Stavropol region, local media reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-targets-oil-sites-southern-123334147.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-targets-oil-sites-southern-123334147.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/72D746726698847FED4B35432F86F8965147F8FDC35C890C99730019413FAC42/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F7b8a16a4ada1f473f26a0ae4de52c43d" alt="" /></p>This comes after CENTCOM said that it had completed its eighth consecutive night of strikes against Iran overnight on Saturday. US warplanes reportedly struck near the city of Shadagan in southern Iran on Sunday, state TV reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-warplanes-strike-southern-iran-122740038.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-warplanes-strike-southern-iran-122740038.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +102,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/76C27A269F21569567ED7F571368A5EE605690595FCEC07B0FB6917DC724967A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F79d3223224bb445240073c3124ceb724" alt="" /></p>Ukraine reveals massive drone production leap after securing a billion-dollar European deal to reshape modern warfare capabilities worldwide]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-wants-dominate-drone-manufacturing-110500764.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-wants-dominate-drone-manufacturing-110500764.html</guid>
-            <dc:creator><![CDATA[TechRadar]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +109,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF876CC6DDA25D36F36BBEC43B4641B48E6F6044842762F34C8F60AF39904A19/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8f8c78ff8c0ef2a20e3824df0a083025" alt="" /></p>France on Sunday commemorated the Vel d’Hiv roundup, a mass arrest of Jews by French police in 1942, one of the most shameful acts undertaken by the country’s wartime government.  At a time of rising antisemitism, France honors those victims every year as it tries to keep their memory alive.  France is home to Europe’s largest Jewish population and has seen a surge in antisemitic acts, including threats, vandalism and physical violence, following the Oct. 7, 2023, Hamas attacks on Israel and the ensuing war in Gaza.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-commemorates-vel-d-hiv-102303314.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-commemorates-vel-d-hiv-102303314.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 13:59:22 GMT</pubDate>
         </item>
         <item>
@@ -6996,41 +7027,6 @@ Australian creative content was not "up for grabs", and the new laws will provid
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/05594129EEB5DE0F67913248787EB58C505B5C84914B8746F92CD779A025AB1F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2aaf7992fbb66589b7d130719c3e2cdd" alt="" /></p>Ukrainian air defenses intercepted five ballistic missiles launched by Russia in a raft of overnight attacks, Ukraine’s air force said Tuesday, though other missiles and drones got through and hit the capital Kyiv.  It was the first time in almost two weeks that Ukraine claimed to have downed Russian ballistic missiles, which are harder to stop than drones or cruise missiles.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-downs-5-russian-ballistic-095143082.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-downs-5-russian-ballistic-095143082.html</guid>
-            <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Murder charge made after woman dies in stabbing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BAE6815287D78A7E7AB57DED99968DD144605F40275EC428898B4B52325A5FC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffc2c3a2e8cc434cd53267ec5c7b98d29" alt="" /></p>Daniel Sean James, 44, is charged with murder over the fatal stabbing of 24-year-old Kirandeep Kaur.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/murder-charge-made-woman-dies-095136984.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/murder-charge-made-woman-dies-095136984.html</guid>
-            <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN agency investigating reports of 2 boats capsizing with Rohingya refugees]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A946FC1A8A03968C4A5DC65202F68673901AA7E83D99F0E460013973681F41C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdcc3a6336636ed6a0e98c9d01e40828e" alt="" /></p>The United Nations refugee agency is investigating reports that two boats carrying members of Myanmar’s persecuted Rohingya minority have capsized in the Bay of Bengal.  The U.N. High Commissioner for Refugees said in a statement Tuesday that the boats reportedly departed Myanmar’s western state of Rakhine in late June before sinking.  “We are deeply concerned by the potential loss of life and are working to verify further details,” the UNHCR said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-agency-investigating-reports-2-094708217.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-agency-investigating-reports-2-094708217.html</guid>
-            <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Emir of Qatar receives condolences on the death of the Father Emir]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2A185E275B0F81EDC15142ABC1E16017A16B16C4042CA5706369A40B34BD4623/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F110db4cf0a873e1ccac57e48b2177e31" alt="" /></p>Condolences from several government leaders, who expressed their sincere sympathy to Qatar, its leadership and people.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/emir-qatar-receives-condolences-death-092056321.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/emir-qatar-receives-condolences-death-092056321.html</guid>
-            <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wife recounts horror as husband was nearly sucked from Ryanair jet]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D273FEAA3ED7630453E7ED0BCC58D20FC68442725FB5959AF1B6601044ADDE5F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F08ba88bd3bef4b62456eea1bf0b3f061" alt="" /></p>The wife of a passenger seriously injured during a dramatic incident aboard a Ryanair flight from Greece to Germany has described for the first time how her husband was sucked head-first out of the aircraft after a window was torn away. The 61-year-old remains in hospital suffering from serious physical injuries and psychological trauma from Friday's flight from Thessaloniki to the Bavarian town of Memmingen, his wife told Greek public broadcaster ERT.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wife-recounts-horror-husband-nearly-091848872.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wife-recounts-horror-husband-nearly-091848872.html</guid>
-            <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five arrested after 100 Hasidim enter Palestinian village of Kifl Haris to visit graves]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBE788E937A4550B2B2A23D05D9EA6AC8201F62645F781D39FF49F977335D965/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F7e788eef9ce084f9d7580bd7926c9f77" alt="" /></p>The Hasidim, followers of convicted sex offender Eliezer Berland, claim that Palestinian residents threw stones at them, injuring two. Some 100 Breslov Hasidim entered the Palestinian village of Kifl Haris on Monday night to protest the lack of access to the graves of Yehoshua Ben Nun and Caleb Ben Yefuna, according to Israel Police.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/five-arrested-100-hasidim-enter-091233749.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-arrested-100-hasidim-enter-091233749.html</guid>
             <pubDate>Tue, 14 Jul 2026 11:02:56 GMT</pubDate>
         </item>
     </channel>
