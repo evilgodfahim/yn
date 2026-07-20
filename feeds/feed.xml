@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 23:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 01:01:08 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 23:25:30 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Major search, rescue operations launched in Peru after deadly quake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EC521108A747F4694A52FAD8F89E44C11A9BFF626292A752B251CD5FF594A666/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ff3ffe5250de824a79e029823a7c7d2a2" alt="" /></p>The government of Peru launched extensive search and rescue operations in the mountainous Junin region Sunday following a 5.1 magnitude earthquake.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/major-search-rescue-operations-launched-003210709.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-search-rescue-operations-launched-003210709.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4374FC15E83F3FB122A1FB89E3AE0990DC538790BCE65D3739F19A17F421E461/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F272487ba1b2664a1bec1bc60d48c5d8d" alt="" /></p>Aggression against recruitment officers has become increasingly threatening, police say.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/everyones-afraid-die-struggle-recruit-001917417.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/everyones-afraid-die-struggle-recruit-001917417.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian attack kills two and wounds 42 in Zaporizhzhya]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5F32B26587B7DB305580784934C02791373AD3DF8261ADC4E3515A792B48765/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F96aa6b1956cc4f68ea38cb2dec5ce16a" alt="" /></p>At least two people were killed in a Russian airstrike on the south-eastern Ukrainian city of Zaporizhzhya, the Ukrainian emergency services said late on Sunday. At least 42 others were injured, including eight children, the emergency services said on Telegram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-attack-kills-two-wounds-000334061.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-attack-kills-two-wounds-000334061.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37F8FE5F59C20C4994EBE59CA9EB9A3BC4A8BADB5465CB297E4E20B1E19BCC71/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa7b44a846073e88198e3f3bd378f53ac" alt="" /></p>The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/us-soldier-killed-iraq-during-234930035.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-soldier-killed-iraq-during-234930035.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kuwait intercepts Iranian drones as sirens sound in Bahrain]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/893265C10F8AB20CCD85333DD85D21AAE2A44AD5F56E2C629230B3857212DCA8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc4eb21f49ac5c764cca79932b37388f5" alt="" /></p>Kuwait said its air defences intercepted hostile drones launched from Iran, as Tehran continued retaliatory attacks on countries hosting US military bases amid the escalating conflict with Washington. The Kuwaiti military announced the interception on X early on Monday but gave no further details.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kuwait-intercepts-iranian-drones-sirens-234836876.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kuwait-intercepts-iranian-drones-sirens-234836876.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State Department issues warning to Americans living and traveling abroad]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4761DD32168813A3DBE6BA8E17DACDA27803B388FBC81BDB5AAE0D85D12C56B7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Ff3baf1036884c710a731d53e7e466469" alt="" /></p>On Saturday, the State Department issued a warning to Americans living and traveling abroad, urging them to remain cautious in the face of increased threats on U.S. diplomatic facilities. “Due to heightened tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation,” the State Department wrote in a statement…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/state-department-issues-warning-americans-212921791.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/state-department-issues-warning-americans-212921791.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Mon, 20 Jul 2026 01:01:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This farmer wanted to quit the cocaine industry - he couldn't]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ECE9C38D42925A2A42798D32334FE0C1B3D4BAA299FCFA46014D98E87785C5B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F639afef51d1a4d332d5d830da1cd74c6" alt="" /></p>Colombians who grow cocaine's raw material bemoan a lack of support to help them switch crops.]]></description>
             <link>https://www.yahoo.com/news/world/articles/farmer-wanted-quit-cocaine-industry-231808069.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/farmer-wanted-quit-cocaine-industry-231808069.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 23:25:30 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/10D021C915C959E3972829C01517F4ABB6343D3C8C314636036B03C8F701673C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F5b846e43fb55056202175e5d3477e139" alt="" /></p>China’s Jingye Steel is seeking compensation from the British government over the nationalization of its former steel production complex in England, further straining relations between London and Beijing.]]></description>
             <link>https://www.yahoo.com/news/world/articles/british-steel-saga-dents-uk-222731302.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-steel-saga-dents-uk-222731302.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 23:25:30 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A32E126B89D9B6B407A3285322A3FEEA3407B7F2C846E40D7CC1398CEF40306/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F3d7470f8ed7bb5d4bc20ce156c22e6f2" alt="" /></p>In the Middle East, the deterioration of the US-Iran ceasefire has reignited fears of a prolonged regional war. In Europe, Moscow launched one of its largest ballistic missile attacks against Ukraine while Kyiv ramped up its bombing campaign.]]></description>
             <link>https://www.yahoo.com/news/world/articles/escalations-iran-ukraine-compound-global-222402855.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/escalations-iran-ukraine-compound-global-222402855.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 23:25:30 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +82,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F73BF35C69DB87D6F4A9FA56EF7525DF029813DCCC799421A4CB5B6DC87D17F4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F9663a25832cc4b7d9c74997fe6b7461e" alt="" /></p>A U.S. service member was killed in northern Iraq on Saturday during a “controlled detonation” of unexploded ordnance from a downed Iranian one-way attack drone, the U.S. Central Command (Centcom) said on Sunday. Another service member was injured and continues to receive medical treatment for a “minor” injury, according to Centcom. The announcement marks the…]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-member-killed-iraq-during-200245746.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-member-killed-iraq-during-200245746.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Sun, 19 Jul 2026 23:25:30 GMT</pubDate>
         </item>
         <item>
@@ -6984,48 +7028,6 @@ Australian creative content was not "up for grabs", and the new laws will provid
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FDD0324468D15EF242EB4E9306C7028F4F2D8DB2485C0B1E6DF8FA9B59BC088E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6b0c9db97184494464da8cdcca8108b1" alt="" /></p>The true number of Ebola virus infections in the Democratic Republic of the Congo could be twice to four times the number officially recorded, World Health Organization (WHO) official Chikwe Ihekweazu said in Geneva on Tuesday. More than 1,900 cases have thus far been confirmed by laboratory tests, and more than 700 patients have died.]]></description>
             <link>https://www.yahoo.com/news/world/articles/many-ebola-infections-fatalities-congo-123431418.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/many-ebola-infections-fatalities-congo-123431418.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia to establish government AI office to coordinate regulation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D6648856494E528FF809F37453EFA0245E313A7A1846C1B620F9EFACB3843D2A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fbf470e436e6ff413632b718503fe7e01" alt="" /></p>SYDNEY, July 14 () - Australia will create an office at the heart of government to manage the development of ‌AI standards, seeking to balance the need to attract ‌investment with effective regulation of the disruptive technology. The "Office of AI" will be established within ​the Department of the Prime Minister and Cabinet and ensure a whole-of-government approach across different ministries.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-establish-government-ai-office-123340111.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-establish-government-ai-office-123340111.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia to establish government AI office to coordinate regulation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BFDEF4543C267576AB776FA2AEC9F36932244FC943DCBA6D6C3D53BAA429642B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F32c5ee8447a667f42bc8cec2e0932feb" alt="" /></p>Australia will create an office at the heart of government to manage the development of ‌AI standards, seeking to balance the need to attract ‌investment with effective regulation of the disruptive technology.  Prime Minister Anthony Albanese is expected to announce the initiative in a major address on Wednesday in Sydney.  "Up ‌until now, our response ⁠has been issue-by-issue, sector by sector," Albanese is expected to say.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-establish-government-ai-office-123340574.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-establish-government-ai-office-123340574.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[International net migration at lowest level in five years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA1E1C7A25C36275CCFFAEA2145CD0F22FBF8467C5CE0DDBCA3DE2C190843B7C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc0d4e1252e2c572bc7b2ceed422d0fa9" alt="" /></p>Scotland's population grew by less than 0.1% in the year to mid-2025, official statistics reveal.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/international-net-migration-lowest-level-122420021.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/international-net-migration-lowest-level-122420021.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Norway's Crown Princess Mette-Marit leaves hospital after transplant]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/33A3385C9C1D7F6DA001459929D952B8C2178FD577D5C6C193F76448C1839400/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc6cc61b8ceaaf53aec1f0d5544735889" alt="" /></p>Norway's Crown Princess Mette-Marit has been discharged from hospital about four weeks after undergoing a lung transplant, the royal household said on Tuesday. The 52-year-old's condition is "as good as can be expected under the circumstances," the palace said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/norways-crown-princess-mette-marit-121854919.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/norways-crown-princess-mette-marit-121854919.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family 'heartbroken' over parents' wildfire deaths]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Pete and Fran Gillam are confirmed dead by their family, who live in Sheffield.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/family-heartbroken-over-parents-wildfire-121844102.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/family-heartbroken-over-parents-wildfire-121844102.html</guid>
-            <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sudan sentences RSF chief Hemedti to death: Who’s he, what’s he accused of?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/514AEE745DDEC407BD4998C406EECD3B5A71AC02C884462511CCB74970D6E5E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7e85afd1b18174b908feea0722bc3eed" alt="" /></p>Port Sudan trial of paramilitary leaders centres on atrocities in West Darfur.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sudan-sentences-rsf-chief-hemedti-120237603.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sudan-sentences-rsf-chief-hemedti-120237603.html</guid>
             <pubDate>Tue, 14 Jul 2026 12:45:09 GMT</pubDate>
         </item>
     </channel>
