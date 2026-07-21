@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 20:41:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 21:57:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US war in Iran has cost $37.5 billion so far, Pentagon says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D6FC2ADF26D6ECCCECE3722B778BD0BF9FDBC785EA5E03C51A147AD48100E20/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F79d6a30701d0f98e3da519cc1e525ad4" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-war-iran-cost-37-205907042.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-war-iran-cost-37-205907042.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands protest across Italy after Moroccan man dies in police op]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED7F7AE91F46E0B3DFD3F5E6A025D3267205B0FADA33A82939E1457E1910816A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6898fc3038c129f1e8d6db38caa8b29f" alt="" /></p>Thousands of people took to the streets in several Italian cities for a second night of protests on Tuesday following the death of a migrant during a police operation, with demonstrations reported in Milan, Naples and Florence. Initial reports said the protests concluded peacefully.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-protest-across-italy-moroccan-213322386.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-protest-across-italy-moroccan-213322386.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The new commander-in-chief of Ukraine’s armed forces forged his reputation fighting Russia in 2014]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F90651D294C3D9C794104094B6660897A685075A14300B81ED73C85FF34581E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd6f0054f35f632952d9ec35815e0a6e8" alt="" /></p>The new commander-in-chief of the Ukrainian military forged his reputation as a daring and determined fighter in the early days of the country's battle against Russia, then spent a decade in combat assignments while steadily rising through the ranks.  Maj. Gen. Mykhailo Drapatyi was named to the post Tuesday after President Volodymyr Zelenskyy fired Gen. Oleksandr Syrskyi following days of mass protests in Kyiv and other cities demanding his removal.  In a Facebook post, he thanked Syrskyi for his work strengthening the military.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/commander-chief-ukraine-armed-forces-212123645.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/commander-chief-ukraine-armed-forces-212123645.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guyana reports ferry disaster death toll rises to 41]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B3537C24F1E3C3D56288B630D519C8AACA892D363EB599144F32BACEB9F7B5F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3ad70503762e29118ff384800b8c7405" alt="" /></p>Search continues for dozens more people unaccounted for after the MV Barima capsized on Saturday night.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/guyana-reports-ferry-disaster-death-205441413.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guyana-reports-ferry-disaster-death-205441413.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flights suspended at Erbil airport after drone attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B296DD51D10957F43289240BC69F696183C46CE8C04EC48EBA8EEFCD3F57D8CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd512abe1de507cd1ffd68c5b70282fd4" alt="" /></p>Erbil International Airport temporarily suspended all arriving and departing flights on Tuesday evening following drone attacks targeting the city and its airspace, airport authorities said. Airport director Ahmed Hoshyar told dpa that flights had been halted due to "a wave of attacks targeting the city of Erbil and its skies.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/flights-suspended-erbil-airport-drone-204835740.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flights-suspended-erbil-airport-drone-204835740.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine's Zelenskyy fires his military chief after protests and names a replacement]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC557AFB7D7E3BE1520606DEAE8E9A3C47F09507E506724E31F53FA32BFB4853/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F94f244cd03953da181e2300af4064a57" alt="" /></p>President Volodymyr Zelenskyy on Tuesday fired Gen. Oleksandr Syrskyi as commander-in-chief of Ukraine’s armed forces following days of mass protests in Kyiv, the country's capital, and other cities nationwide demanding his removal.  Zelenskyy appointed Mykhailo Drapatyi as the new army chief, according to a statement on social media.  “Our shared wish is one — victory over the enemy and conditions at the front and in pressure on Russia that would force Russia toward peace,” Zelenskyy said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraines-zelenskyy-fires-military-chief-195516082.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraines-zelenskyy-fires-military-chief-195516082.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French Parliament passes bill banning social media use for children under 15]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/95AD15BBF8E8B222CBA287FC1BDEC2ED827FD30A1F99F0555AA588CA76890B4C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2F53e31db0efb3883205d11f7aa82aceb9" alt="" /></p>French lawmakers approved a bill banning children under 15 from using social media and prohibiting mobile phone use in high schools, making France the first European Union nation to adopt such a blanket measure.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/french-parliament-passes-bill-banning-190712977.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-parliament-passes-bill-banning-190712977.html</guid>
+            <dc:creator><![CDATA[WISH-TV]]></dc:creator>
+            <pubDate>Tue, 21 Jul 2026 21:57:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Commander Mykhailo Drapatyi becomes Ukraine's commander-in-chief]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DFA9959EA23DC6A3789E9DF086918B60808A3F658EB6F9263F8626C5E4BE6909/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F49aa3a9d15ccb21064567b709978f922" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/commander-mykhailo-drapatyi-becomes-ukraines-200000877.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/commander-mykhailo-drapatyi-becomes-ukraines-200000877.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/839CB6ED9054B1B73B9F33CCED334C7D6FC758A56C85D5EB4416D801058B43A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64502d6c3996da9b0d3a16a5d9fa1859" alt="" /></p>The 2026 event includes actors and historians such as Caroline Quentin and David Olusoga.]]></description>
             <link>https://www.yahoo.com/news/world/articles/time-team-star-headline-history-203001967.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/time-team-star-headline-history-203001967.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1D018A280E5762660D16D981AC1F5538DF25E80224BFA8F53B4D6A96CD39D24/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F13207c07d6f61fb3e2c947b30f36a6b2" alt="" /></p>Oleksandr Syrskyi is dismissed after days of unrest over the removal of popular Defence Minister Mykhailo Fedorov.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-sacks-ukraines-top-army-194358562.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-sacks-ukraines-top-army-194358562.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E5D7349F27C4E991B42C280B54FB25663AACA269BD51F68F959BFEB3CA9FE079/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F200a96836e6d3a200b7fcc9104ea764b" alt="" /></p>Mohammed Tahir has yet to comment on allegations he led a multi-million-dollar ring using torture to get money.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ethiopian-police-arrest-alleged-leader-202029446.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ethiopian-police-arrest-alleged-leader-202029446.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78B2EA87B24B41D17659B6AF85008518C779B539340C2389C954357E2477C724/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff73efc551d2dd72b9f99b4baa8613fa3" alt="" /></p>Experienced boardrider Dave Seymour said he didn’t have a scratch on him following the July 19 incident in Australia]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-speaks-surviving-encounter-massive-200843202.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-speaks-surviving-encounter-massive-200843202.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86AEBEB38112A4EFBA42632DF5304C9DA9041F1D1DA62EB97ADA23EE21B6EC19/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnavy_times_351%2F3059905901c1fe747ccd11de989fc19a" alt="" /></p>The crew of the Los Angeles-class submarine USS Charlotte, which reportedly participated in Operation Epic Fury, received the Navy Unit Commendation award.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uss-charlotte-crew-reportedly-sank-195738785.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uss-charlotte-crew-reportedly-sank-195738785.html</guid>
-            <dc:creator><![CDATA[Navy Times]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96E32E3ED4C514DCA2D8A293AE5F4CE32A770548741C38560F42EFC0B58DE354/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1e0a81cef11e388d4a494a70ed51e047" alt="" /></p>Moldova's parliament has elected finance expert Vasile Tofan as the country's new prime minister, the news agency Moldpress reported on Tuesday. The 44-year-old was voted in by members of parliament from President Maia Sandu's pro-Western ruling Party of Action and Solidarity.]]></description>
             <link>https://www.yahoo.com/news/world/articles/moldovan-parliament-elects-finance-expert-194825719.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moldovan-parliament-elects-finance-expert-194825719.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6ACBCDFE093F07507B4F767A42C9F86156003E482311FC8BA8F3940DA71BC175/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F630249215ccc9773beaabdf75160a039" alt="" /></p>The U.N. refugee agency said Tuesday that 144 refugees and migrants have died or were missing after incidents off the coast of Mauritania last week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-n-refugee-agency-144-194605939.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-n-refugee-agency-144-194605939.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +125,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/258D082DF494F2D316D017028420B13EFF8E24780CD5F57C45EB2115C297D851/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3b3cb27160ee71a4529a5371f7f618eb" alt="" /></p>France has become the first EU country to introduce a ban on social media for children under the age of 15, as the French parliament in Paris passed a law by a large majority on Tuesday evening. The law, championed by President Emmanuel Macron, is set to take effect after the French summer holidays.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-social-media-under-193335576.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-social-media-under-193335576.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CE444ECC291DD0E8B772673598C3A8BAA1A6891027F85AC2607564252E3D1BC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fgood_279%2F6d4789cefeb71941eace39e6df80a304" alt="" /></p>The European Union is enforcing a ban that prohibits companies from throwing away unsold clothing, accessories, and shoes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/european-union-enforces-ban-destroying-192937566.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/european-union-enforces-ban-destroying-192937566.html</guid>
-            <dc:creator><![CDATA[GOOD]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83E5C864DEEE4657931DB54E47BE2E707B50C335BDF8B7516BCC2C5FB880A925/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fd516bd5bf198d5d3e59d43815179566d" alt="" /></p>A Carnival cruise guest allegedly suffered a severe injury during a Honduras excursion and required a $50,000 emergency air evacuation to the United States.]]></description>
             <link>https://www.yahoo.com/news/world/articles/carnival-cruise-guest-hospitalized-rope-192820755.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/carnival-cruise-guest-hospitalized-rope-192820755.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +146,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BD7B1A4AD782AB336F5581D2F7E35EC817B5D102BBE54AA02FFE7B44758348A0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F218f3b7e8b3cfaaec0503076e5e82b8e" alt="" /></p>Israel, US repeatedly failed to kill Iran's Alireza Tangsiri before successful strike • New details reveal Israeli naval attacks on Hezbollah commanders at Beirut's Ramada Hotel and a mobile HQ On March 26, the IDF said that naval intelligence had assisted with assassinating Iranian Naval Chief Alireza Tangsiri in the port city of Bandar Abbas, with eliminating key Iranian naval cruise missile production sites, and Iranian sites related to submarines and other underwater threats. At the time, so]]></description>
             <link>https://www.yahoo.com/news/world/articles/inside-idfs-naval-operations-israel-191718991.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-idfs-naval-operations-israel-191718991.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +153,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F80E2155B5614A2DBBDC5E4C5A3040D0C4A422F667544B2B79B7A33EC9115A77/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd6ed25c4f8b0894851b3a8dd5b3f486f" alt="" /></p>French lawmakers voted Tuesday to ban social media use for children under the age of 15, making it the first country in the European Union to introduce an age limit.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-becomes-first-eu-country-182454489.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-becomes-first-eu-country-182454489.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +160,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3D87B96BC79F025CB72238C86C7AFE35DC124479B0E40B44A57F6BEDCCE7AE8A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F847b16f836f51dceaa2b9d0f9e9396db" alt="" /></p>A declared blockade of Saudi Arabia by Yemen's Houthi rebels has the potential to widen the Iran war and further disrupt global oil supplies and international trade.  The rebels say they have closed the Bab el-Mandeb Strait to Saudi-linked shipping in retaliation for the kingdom’s blockade on Yemen and a recent attack on the international airport in Yemen's rebel-held capital, Sanaa.  Bab el-Mandeb, at the southern tip of the Arabian Peninsula, is a vital shipping chokepoint, connecting the Red Sea to the Gulf of Arabia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/threat-yemens-houthis-could-widen-190330330.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/threat-yemens-houthis-could-widen-190330330.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +167,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FAAEA511D29115B3039ED98B888E0B5B158B93BC6CACCA2A1B1A2351484F6A09/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4e053b9885d2ac6500cd8c487dd30940" alt="" /></p>France has become the first EU country to introduce a ban on social media for children under the age of 15, as the French parliament in Paris passed a law by a large majority on Tuesday evening. The law, championed by President Emmanuel Macron, is set to take effect after the French summer holidays.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-social-media-under-190327408.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-social-media-under-190327408.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +174,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73BCEC744A60C564873797EFD20EF2DA5C9BA3E3059C11826F32E2435E9BCC7F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd602ddecb2b2adcbd889b07f58d37686" alt="" /></p>At least 41 people died after a ferry capsized off the coast of Guyana over the weekend, the government said Tuesday.A government report released Tuesday revised the death toll from 27 to 41.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-41-dead-guyana-capsized-185830865.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-41-dead-guyana-capsized-185830865.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +181,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28EADC8F4A05A0CC4ACB8AEDFAE92F010B7BC511DC3E9E24FC647F4E6007EBA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F396fa186a7a4637fedefcbe103c5065a" alt="" /></p>Moroccan man’s death in Italian police custody sparks some violent protests and calls for justice]]></description>
             <link>https://www.yahoo.com/news/world/articles/moroccan-man-death-italian-police-183658565.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moroccan-man-death-italian-police-183658565.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +188,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3BB7E05311A0BB73EE3AC6560AE88B743A0A446A5B4B1220D0CB87E3BDF6E5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fb740d0818472472c6d6bb8713c2e9276" alt="" /></p>A 60-year-old Greek man allegedly suffering from psychological problems stabbed two American visitors near the Acropolis Museum in Athens, officials said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/americans-tourists-stabbed-outside-athens-182727366.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/americans-tourists-stabbed-outside-athens-182727366.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +195,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/355356ACEB5EDF92037B9D6BB192200B8D0A64D3003B0DA197A1EC3050D1AAD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F63ad19b05880fe670f951855680c0007" alt="" /></p>Protesters in Italy clashed with police after a Moroccan immigrant died while being forcibly restrained by two officers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/riots-italy-death-immigrant-forcibly-175147496.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/riots-italy-death-immigrant-forcibly-175147496.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +202,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96D2107A56FFE836FB4E24AA77E94D4BECB6BCD05BE160C1CCD443F2BB57EF5A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fc32a2bab29be40c0026f8dc052295df8" alt="" /></p>Mexico's health minister said there would still be precautions taken despite the lack of evidence.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mexico-says-no-evidence-lettuce-173525562.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexico-says-no-evidence-lettuce-173525562.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +209,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C17B657A23172FD484FDA6052CEE035D9D4C8D3D45108DEF833C1946FDA33DBD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F68b3711aaf26eef81ead43393451080d" alt="" /></p>Finnish lawmaker Päivi Räsänen says her U.K. travel authorization was canceled after disclosing her hate speech conviction over biblical views.]]></description>
             <link>https://www.yahoo.com/news/world/articles/christian-lawmaker-says-uk-barred-172638303.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/christian-lawmaker-says-uk-barred-172638303.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 21 Jul 2026 20:41:26 GMT</pubDate>
         </item>
         <item>
@@ -6994,55 +7029,6 @@ A tanker was hit overnight by an "unknown projectile" off the coast of Oman, the
             <link>https://www.yahoo.com/news/world/articles/ai-generated-video-falsely-linked-085200230.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ai-generated-video-falsely-linked-085200230.html</guid>
             <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine targets Moscow with 200 drones in large-scale attack, mayor says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/414A3BCA62C6D46B690C5785F51F038D750907331FC73B2D7D6DEF48EE70AE81/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2Fa2f6e6b4caf47af1beada8558914cf4c" alt="" /></p>The mayor reported more than 1,200 drones launched toward Moscow in one week.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-200-drones-084922962.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-200-drones-084922962.html</guid>
-            <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Baby boomers taking early retirement in Germany continues to rise]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80491774FCCF1EC111614388A4B710FF6A259AD7B936FBAEA68C9F028C2B913B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3d084e1ff749cec6356b415e96d524bf" alt="" /></p>The number of German baby boomers receiving pensions has risen to around 6 million, including 1. 1 million who retired before reaching the statutory retirement age, according to a new study by the German Economic Institute (IW).]]></description>
-            <link>https://www.yahoo.com/news/world/articles/baby-boomers-taking-early-retirement-083344740.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/baby-boomers-taking-early-retirement-083344740.html</guid>
-            <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds feared dead after Rohingya migrant boats lost off Myanmar]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F74865CB109A9091BAD76A88E174199D419FC70E427E361ACE0B16ED2FC9A8E0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F001523d55c83f0d2a651a024173c7a0a" alt="" /></p>Two UN organizations have raised the alarm over a possible boat disaster in South-East Asia involving more than 500 refugees. Two boats full of migrants set off from Myanmar's coast in recent days, the International Organization for Migration (IOM) and the UN's refugee agency UNHCR said on Thursday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hundreds-feared-dead-rohingya-migrant-083344251.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-feared-dead-rohingya-migrant-083344251.html</guid>
-            <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain wildfires: with 13 dead, we need to start measuring fire damage in lives – not just hectares]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2ABBFA0C4D7A945BC2A8296166B0A6F98D71C2A9EC7089E53259FE0F7D4DCCC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_conversation_en_espa_ol%2F295e5e40506377d78c7132433163b922" alt="" /></p>Carefully designed alert systems, evacuation, and a prepared population can save lives.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spain-wildfires-13-dead-start-081655406.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-wildfires-13-dead-start-081655406.html</guid>
-            <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Ukraine's secret mission to devastate Russian energy facilities]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00C49DB2E9CA3BD0A626265770C8C2D1C177374456534CD7FA2D55FB633105B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F5b6081b1c3e0955f0e311f68161c7de5" alt="" /></p>In eastern Ukraine, soldiers furtively readied Fire Point drones to fly attack runs deep into Russia. Their biggest fear is being discovered.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/inside-ukraines-secret-mission-devastate-080101462.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-ukraines-secret-mission-devastate-080101462.html</guid>
-            <pubDate>Thu, 16 Jul 2026 10:50:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ofcom launches investigation into TikTok child safety concerns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B15AB6663592A646E18A125B33177C7B1C5C0E00B01C37D30AAB4668BCACE4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6bb9e02d44f033b093ae01c0265335aa" alt="" /></p>It follows a review by the regulator in May that criticised the platform for not being "safe enough" for children.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ofcom-launches-investigation-tiktok-child-071446433.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ofcom-launches-investigation-tiktok-child-071446433.html</guid>
-            <pubDate>Thu, 16 Jul 2026 08:39:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Firefighters battle major wildfire across Cairngorms National Park]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Villagers and campsites have been evacuated as fire crews tackle the two-mile-wide blaze in the Highlands]]></description>
-            <link>https://www.yahoo.com/news/world/articles/firefighters-battle-major-wildfire-across-081030013.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighters-battle-major-wildfire-across-081030013.html</guid>
-            <pubDate>Thu, 16 Jul 2026 08:39:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
