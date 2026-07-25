@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 21:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 22:23:51 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Police: One dead, 14 people injured at Berlin Pride]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7C29C09F3992D0143A78649810C3FFE1CC359B329BB82C120E3BDE8EB99DF62C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F518ca498381c25a8dc718710dce231ea" alt="" /></p>At least one person was killed and 14 others were injured in an incident on the fringes of Berlin's Christopher Street Day Pride march, police said late on Saturday. Police shut down the event after a car was believed to have driven into a crowd near the Tiergarten district.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/police-one-dead-14-people-220322763.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-one-dead-14-people-220322763.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What’s next for Venezuela’s path to recovery from devastating earthquakes?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/29E7BFDAFAD16AE5F9E55DEFFEFA987EC78B36F3ED374864615BE67A3BA5AE89/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc403995bb2bf9ee35218e304988e8969" alt="" /></p>The cost of reconstruction is expected to run into the tens of billions, even as the country faces numerous obstacles.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/next-venezuela-path-recovery-devastating-215939529.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/next-venezuela-path-recovery-devastating-215939529.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin Pride shut down after several injured in suspected car incident]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3963F51A577F6DCD1A082EDFF3096222BB0C1662FA910CB13BBF70258A5FB562/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fee46d5e6334669730e17b10ab0b8a98a" alt="" /></p>Berlin's Christopher Street Day pride march has been shut down due to a police operation after a car is believed to have driven into a crowd near the Tiergarten district, police said late Saturday. Several people were injured, causing police to shut down the street party.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/berlin-pride-shut-down-several-214921091.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-pride-shut-down-several-214921091.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Several injured at Berlin Pride after reports vehicle drove into crowd, police say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D9EA6B3DD140C88348BD6D8EF774F2F662678C3A258F3171AA6BA67B26A63D1C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F851eb73b3794ff6b3048dcb4feb29fbb" alt="" /></p>Police say an intensive manhunt is under way after the incident in Berlin's city centre.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/several-injured-incident-berlin-pride-212041555.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/several-injured-incident-berlin-pride-212041555.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Canada's tourist areas, elk attack far more people than grizzly bears do, study finds]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1BDB4723972634416D8F8797E70324FD1CF190C747C28C2AE19932E30022CC81/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F71233a6e9170b9fc835eb1529dbf44df" alt="" /></p>"Especially those bull elk, during the rut, they were mean."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/canadas-tourist-areas-elk-attack-212700592.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canadas-tourist-areas-elk-attack-212700592.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 260K forced to flee amid European wildfires: What to know]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DECA318A3679B523181FD3B47BDD828DAE754A20ED54C6901A7D74E5ABA4624/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fdb78c8cff780e28bdca1b521719b738d" alt="" /></p>Hundreds of thousands of people have been forced to leave their homes due to raging wildfires across southwest Europe. Over 250,000 people have been evacuated in France and Spain, according to authorities from both countries. No deaths have been tied to these fires, but strong winds and extreme heat have propelled the flames through thousands…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-260k-forced-flee-amid-194312783.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-260k-forced-flee-amid-194312783.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 22:23:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35936E822DB03D6336E61A98023B2E900C4BDD80CBD1FA256D586662D958CC7D/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F23e8a196fa195da453ecd39abeb60f28" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/speaking-alongside-putin-kazakh-president-161720764.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/speaking-alongside-putin-kazakh-president-161720764.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1CDEC42CD8F6E31630DFC81D4C1A8F1E8CF58D8007ADB3EEB5A859D7D2FB02A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fdab0d2c1f7c70489449d411db2de9c1f" alt="" /></p>Stan Drew's cigarette case was discovered in a Dutch field, hundreds of miles from where he died.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ww2-soldiers-cigarette-case-returned-204940491.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ww2-soldiers-cigarette-case-returned-204940491.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F32576D7E3F5C4B42ACB2EA1C8BDF84901C237568FD175695787825198FD8F29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc5e72e493b25d2fa425380b63635a82d" alt="" /></p>Hundreds of thousands of people took to the streets of the German capital on Saturday for the 2026 Berlin Pride parade, known locally as Christopher Street Day (CSD), marching for tolerance and diversity. Rainbow flags, colourful costumes and glitter filled the streets as participants made their way through Berlin.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hundreds-thousands-part-berlins-pride-203331365.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-thousands-part-berlins-pride-203331365.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +82,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/13A224F3576EC3BCD0D65FFFA662C257C7C96CB7FBAEB55131FFBDAE0BF6815A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F0d28f5b036d9e3b81f26bb670175556a" alt="" /></p>The transplant linked two families whose lives first crossed during the Second Intifada, when an emergency squad commander stopped the Atzmona massacre. An altruistic kidney donation brought together a survivor of a deadly terrorist attack and the brother of the man who saved his life, in a coincidence discovered shortly before the transplant, Clalit Health Services announced on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/unbelievable-full-circle-terror-attack-203014983.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/unbelievable-full-circle-terror-attack-203014983.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +89,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F0AFB40E335CA9A45AF6B04B1EC0A4C7F847EA148D8F346FEF797DA8348C4F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F8dbd4b05020fb79401cb0e7280dd0cc4" alt="" /></p>Vladimir Putin has ventured out of his safety net for the first time in months and walked smack dab into an ambush during a televised meeting that went off the rails. Fresh off a tightly controlled publicity stunt in Irkutsk on Friday—where the Russian leader, flanked by bodyguards, made a show of inspecting aircraft—Putin sat down with Kazakhstan’s president in the Russian city of Omsk on Saturday. The 73-year-old Russian president could barely conceal his nervous grimace as Kazakh President Ka]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-gets-spectacularly-ambushed-live-161309458.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-gets-spectacularly-ambushed-live-161309458.html</guid>
-            <dc:creator><![CDATA[The Daily Beast]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 21:22:50 GMT</pubDate>
         </item>
         <item>
@@ -6987,48 +7030,6 @@ Following the deaths of at least three US soldiers in the past several days, the
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F0ABB8B58CB9373D42654D35B2E5FE329F13ED80D638E9D020374C1325B1BA7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1e4e40e7256b530853930e358e4dd0f6" alt="" /></p>A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanese-army-says-troops-deploying-094116991.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-army-says-troops-deploying-094116991.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Oleksandr Syrsky, Ukraine's under-fire commander-in-chief]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7BBA3E6C24F27EC9EB454D06810FA24897D8D08DC34743B7F24515804809D08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6f05d083248510db51c22fe79f8c2e4e" alt="" /></p>Ukraine's Soviet-trained top commander Oleksandr Syrsky -- who could be sacked this week -- led some of Kyiv's most decisive military campaigns, but clashed with reformers as drones and technology changed the face of war.The command-and-control system has changed, and we have to change."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/oleksandr-syrsky-ukraines-under-fire-093627715.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oleksandr-syrsky-ukraines-under-fire-093627715.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany records over 17,000 cases of child sex abuse in 2025]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06ED404A71C869725139B1C85754B8DD03EE46BF8F1AC3E811C1D7742481FBF9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa28a9efd1c31af6fd93181c7f9694a6f" alt="" /></p>The number of registered cases of child sexual abuse in Germany has risen significantly over the past five years, with police recording 17,126 instances in 2025, authorities said on Tuesday. A report by the Federal Criminal Police Office (BKA) said the figure was around 1,600 more than in 2021, and represented a rise of 772 cases compared to 2024.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-records-over-17-000-093335275.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-records-over-17-000-093335275.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jordan and Bahrain report fresh Iranian attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD46CDB6B2602E1C2683CB6C537D25639357C8DBE726EB83CC4888D3AFCD03E5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa89eaeec9419c6267fbb1d31e45a4ab6" alt="" /></p>Jordan and Bahrain said on Tuesday that they had again repelled Iranian attacks. Jordan's armed forces said they had intercepted five drones launched from Iran overnight and into the morning, the latest in a series of attempted attacks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/jordan-says-intercepted-another-five-091844074.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jordan-says-intercepted-another-five-091844074.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rescue crews in Afghanistan search for missing, dead in rubble left by flash flooding]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22FF0D52B703F2CFC4A302E99630AB258226E7067D3A9ECE441A379C0064CA3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1bd018a1c09a1e0e85bf82e0e4f3d897" alt="" /></p>Rescue crews in Afghanistan searched Tuesday for survivors and bodies among the rubble of houses destroyed by devastating flash floods that authorities say have killed nearly two dozen people and left more than 100 people missing.  The Afghanistan National Disaster Management Authority said Tuesday that 23 people had died, 80 had been injured and more than 100 were missing after floods struck the eastern province of Nuristan on Monday, causing an undetermined number of buildings to collapse.  More extreme weather has been forecast, with heavy rain; thunderstorms; strong winds accompanied by dust and sand; and flash floods predicted in 10 of the country’s 34 provinces, the Ministry of Transport and Civil Aviation’s meteorology department said Monday evening.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rescue-crews-afghanistan-search-missing-091531555.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescue-crews-afghanistan-search-missing-091531555.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Always think you will make it, says graduate who fled civil war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Makagbeh Princess Sesay has earned a degree in public health from the University of Manchester.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/always-think-says-graduate-fled-091423643.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/always-think-says-graduate-fled-091423643.html</guid>
-            <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF, Shin Bet kill senior Hamas Oct. 7 commander who held several Gaza hostages captive]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3905D1DFF62C3598DC9ADD0CF4C0479DBAE11C2CBFDBB0E2658B364ABC9F602C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F5e51a1a1b96754637aedc4f3842dfebe" alt="" /></p>Nasman held several former hostages, including Romi Gonen, Emily Damari, Ziv and Gali Berman, Eitan Mor, Matan Angrest, and Omri Miran. The IDF and Shin Bet (Israel Security Agency) killed Adham Ibrahim Sha'aban Nasman, Hamas's Gaza City Brigade Operations Head, over the weekend, the two announced in a joint statement on Tuesday morning.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/idf-shin-bet-kill-senior-091407409.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-shin-bet-kill-senior-091407409.html</guid>
             <pubDate>Tue, 21 Jul 2026 10:17:44 GMT</pubDate>
         </item>
     </channel>
