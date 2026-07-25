@@ -4,16 +4,162 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 12:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 14:07:55 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[What the world can learn from Uruguay as the global housing crisis deepens]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6ADF87934EFF572B737AE8100A9B66F0E1A4D7EC9817988599EB5F4763A5F9BC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_conversation_us_articles_815%2Fc753f28284fa143a91377d7b231fd749" alt="" /></p>One of Latin America’s smallest nations has a robust network of housing cooperatives, which give access to permanent, affordable housing to citizens at a range of income levels.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/world-learn-uruguay-global-housing-140117366.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-learn-uruguay-global-housing-140117366.html</guid>
+            <dc:creator><![CDATA[The Conversation]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's Houthis claim attacking Saudi oil facilities amid escalation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/202B3B17091047368EE76385AD4ED0CB03D4439CCED89A0F99485A6F13E10C39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7a584551cd5d9f7c32c053fa9cb6bddb" alt="" /></p>Yemen's Iranian-aligned Houthis on Saturday claimed they had attacked oil facilities in Saudi Arabia as tensions between both sides are escalating. A Houthi military spokesman said the group had fired dozens of missiles and drones at installations affiliated to the Saudi oil giant Aramco in the cities of Jazan and Yanbu.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/yemens-houthis-claim-attacking-saudi-134839780.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemens-houthis-claim-attacking-saudi-134839780.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian attack causes deaths and injuries in Zaporizhzhya]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E925A8A803AAC05989E9683D4D58841A91668BF2EFA5CC338EBEF5AFB73F94B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F085e0ceffe416d1394b3d9d60e9a88e1" alt="" /></p>At least one woman was killed in a Russian attack on the city of Zaporizhzhya on Saturday. At least 11 other people were injured, according to Governor Ivan Fedorov.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-attack-causes-deaths-injuries-131843695.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-attack-causes-deaths-injuries-131843695.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More than 70,000 people evacuated due to wildfires in Spain]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7980EB7E64145AE279A89FCB3DEBADCB3154A468BFBB2C7525E35106341813ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa9cfa3a1b44f6eee3b35c96ad685b1ee" alt="" /></p>More than 70,000 people were forced to flee to safety on Saturday due to the severe forest fires near the Spanish capital, Madrid. In the province of Ávila, north-west of Madrid, 38,000 residents have been evacuated, Francisco Martín Aguirre, the Spanish government's prefect for Madrid, told journalists.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-70-000-people-evacuated-131842942.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-70-000-people-evacuated-131842942.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine launches large drone attack on Russia, hitting several targets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5375A63969BE31F57C87CDDC059945352ABC1A39E136E4C318D026C98B1111E7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F49d090f0dad62c2ee8ffd8f2da09cecc" alt="" /></p>Ukraine has once again attacked Russia with hundreds of drones, prompting Russian online retailer Wildberries to evacuate employees from a logistics centre in the city of Yekaterinburg. Wildberries facilities have been targeted repeatedly in Ukrainian drone attacks recently.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-large-drone-attack-130335571.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-large-drone-attack-130335571.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Small plane crashes into a home in northern Germany, leaving 1 dead and 1 missing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/661CC94EB98EDAEE3B4BA7D66D6C079EF691D221111C481BDCD2F7FEAAB2F837/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F28b77ed2d73e0de1614b3c68ccf9cca4" alt="" /></p>At least one person died and a second one appeared to be missing after a small plane crashed into a home in northern Germany on Saturday, police said.  For reasons that are still being investigated, the small plane lost altitude and crashed into the roof of a single-family home in a residential neighborhood in Ganderkesee in Lower Saxony, police in the nearby city of Oldenburg said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/small-plane-crashes-home-northern-130315703.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/small-plane-crashes-home-northern-130315703.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Evacuations ordered in Bordeaux suburbs as wildfires continue to ravage southern Europe]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B074B198A5334FA9ED4D10641DFA790694FCB9634519CB63299F7C1D2E6BD3D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F21a1cea0ed7a028734e77f34f449c28d" alt="" /></p>In Spain, fires are continuing to rage in the Madrid area and in the province of Ávila, with tens of thousands forced to flee their homes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/evacuations-ordered-bordeaux-suburbs-wildfires-122740184.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/evacuations-ordered-bordeaux-suburbs-wildfires-122740184.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Dashes Across Multiple Lanes of Traffic to Kick in a Woman’s Car Window]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F76129B505513B171A722E0F0E5D343C87080395D69E16789410E8D1FA49E732/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Ff012bee5b12dd54af2b7da311e43db5f" alt="" /></p>How mad has a driver made you in the past? Did you run out of your car to kick their car? We’re willing to bet you didn’t, and honestly, it’s good if you skipped out ... Read more]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-dashes-across-multiple-lanes-125529060.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dashes-across-multiple-lanes-125529060.html</guid>
+            <dc:creator><![CDATA[Guessing Headlights]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN chief urges global support for Syria during first Damascus visit since 2009]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6EE9A1E651B59CDAA406228391E53E2F43CFCA796E377B220D68C9E0EDA0AB6C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F95b0b731dca82905eb068b5d9d0ed39d" alt="" /></p>United Nations Secretary-General António Guterres is the first UN chief to visit Syria since his predecessor Ban Ki-moon in 2009, two years before the start of Syria's civil war.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-chief-urges-global-support-124035964.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-chief-urges-global-support-124035964.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1-Year-Old Boy Dies After His Head Got Trapped Behind a Mirror at Daycare Center as Staff Allegedly Left Children Unsupervised]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C7BEB97D391BD592D079039D6D40F0012E2E06A84BAAC5509014F28A09C5E32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffb6f738d09d9045755e0cdb74182750a" alt="" /></p>Abdoulaye Dieng remained trapped for at least six minutes before staff removed him from the space on Wednesday, July 22]]></description>
+            <link>https://www.yahoo.com/news/world/articles/1-old-boy-dies-head-123934186.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/1-old-boy-dies-head-123934186.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran calls for dialogue in the Yemen conflict]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B8940FA68AADCCCC47C029CDBA957586CF00A45602751E78EDE428D8E55C7A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F55790ccbca5e1969de7021fb0d0c2f4c" alt="" /></p>Iranian Foreign Minister Abbas Araghchi called for dialogue on Saturday following the escalation between Saudi Arabia and the Tehran-backed Houthi militia in Yemen. There is no military solution to the conflict, Araghchi said in an interview with the state-run daily newspaper Iran.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-calls-dialogue-yemen-conflict-123331498.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-calls-dialogue-yemen-conflict-123331498.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two buses collide in Syria, killing 35]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7369F29C22FF5C766DBF574FC0CA96946CE6FFADA1C03E3368E7179688662319/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F54e8d26cb383b82291577964b4d5f24d" alt="" /></p>Two buses collided in Syria on Saturday, leaving 35 people dead, a health official said. Thirty others were injured in the accident that occurred on a road linking the capital Damascus and the province of Deir al-Zour in eastern Syria, Dr Najib al-Naasan, the director of the Health Ministry's ambulance and emergency department, added, according to Syria's state news agency SANA.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-buses-collide-syria-killing-123331573.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-buses-collide-syria-killing-123331573.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[100-Year-Old Roller Coaster Stops Mid-Ride, Forcing Evacuation: ‘I Was Terrified,’ Rider Recalls]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CF753BC84D42AF0B50A6626B03F01332F913E6BBB5FF6A3694F0941987A70821/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F99267a98481d4db205986147ce2325dc" alt="" /></p>“Never in my life going on a roller coaster again,” one rider wrote in a social media post about the incident]]></description>
+            <link>https://www.yahoo.com/news/world/articles/100-old-roller-coaster-stops-123000817.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/100-old-roller-coaster-stops-123000817.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands sheltered in Bordeaux as France wildfires trigger exodus]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F041DD1A439ED482B13AFB86C82AE87A27A7854135ECBB66EE8CE9CA148C5AA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd4cd38418e3dadebe54eab780c45f423" alt="" /></p>Amid rows of camp beds and stacks of food supplies at a makeshift shelter in Bordeaux, thousands of tourists and locals try to regain their composure after fleeing wildfires sweeping through southwest France.Locals in Bordeaux have come forward to help.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-sheltered-bordeaux-france-wildfires-122350710.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-sheltered-bordeaux-france-wildfires-122350710.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The West demonises obsession. Japan’s PM proves why that is wrong]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D6F80AA4DFA3F2B3BC1F4BC366CEA28D861C25083976DE5D52A204DF8667770/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9491b43b47a066d2bca3308c70e415ca" alt="" /></p>I already admired Sanae Takaichi, the Japanese PM, for being a rare woman to climb to the very top in her country’s highly patriarchal society.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/west-demonises-obsession-japan-pm-121643819.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/west-demonises-obsession-japan-pm-121643819.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fires in Europe: latest developments]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/63238D72A6A2C2471090DB79AC13F3A1BBC4F3FCCC14C104585A8E3A60874495/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F54eb6cdb2fba82aed8deba8ba359a612" alt="" /></p>Here are the main developments related to the wildfires raging in Spain and France on Saturday:
+ 
+More than 250,000 evacuated
+The wildfires have forced the evacuation of more than 250,000 people in total, authorities in both countries said. The Spanish interior ministry said a total of 70,000 people were evacuated from villages west of Madrid.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fires-europe-latest-developments-114552836.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fires-europe-latest-developments-114552836.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pro-Ukraine group claims it helped hack Russian drone air defense system, shooting down Su-57 in friendly f...]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A89DE6F242841EE17EA4F8DC372AF46F01DA92A401674C3F5C0A32D44A80E3AE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2F67123a1700007d21246c46ced2272965" alt="" /></p>An advanced fifth-generation Su-57 stealth fighter jet crashed spectacularly “during a routine training mission in the Moscow region on Thursday,” say reports published by Russian state media. But some Ukrainian sources are claiming it as successful sabotage.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pro-ukraine-group-claims-helped-103000885.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pro-ukraine-group-claims-helped-103000885.html</guid>
+            <dc:creator><![CDATA[Tom's Hardware]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Houthis fire missiles and drones at Saudi Arabia in response to strikes on a Yemeni city]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/272E124096FDF250C3E3AB738F00670CEE8231B8D38A96B5B70696AEAB05B35C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0baa19e087d28889a5e1101398c94b64" alt="" /></p>Yemen’s Iran-backed Houthi rebels said Saturday that they fired missiles and drones at Saudi Arabia in response to Saudi airstrikes on the strategic Red Sea city of Hodeida, in another escalation over vital shipping routes in the Middle East while the United States and Iran vie for control of the Strait of Hormuz.  Brig. Gen. Yahya Saree, the Houthis’ military spokesman, said in a prerecorded statement that the attack targeted facilities in the Red Sea cities of Yanbu and Jizan that belong to Aramco, the world’s largest oil company.  Saudi Arabia's civil defense said alerts sounded multiple times early Saturday in both cities, but the Kingdom hasn't commented further.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-reports-no-u-strikes-095326152.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-reports-no-u-strikes-095326152.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 14:07:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One person dies as small plane crashes into house in Germany]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B12A2573A7D8ED2D6C40D22241290AF26FD48F02467A7CA9CCFFBCF45E4B5354/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F74b898fa4ccb442cd92d8fcb9eced3d7" alt="" /></p>At least one person died when a light aircraft crashed into a single-family home in the northern German state of Lower Saxony on Saturday. A police spokesman reported that one body was recovered from inside the aircraft in Ganderkesee, near Bremen.]]></description>
             <link>https://www.yahoo.com/news/world/articles/one-person-dies-small-plane-120337230.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/one-person-dies-small-plane-120337230.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +167,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77977C25A42B1C76E72923F21563AFF53CE4B49DF9935BD2AC4A331094C10128/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2dc01c1e4ab7b332be71c8c23ae713a3" alt="" /></p>Authorities in the Russian-occupied part of the southern Ukrainian region of Zaporizhzhya reported on Saturday that at least eight people have been killed in Ukrainian drone attacks. Another 14 were injured, said Yevgeny Balitsky, the Moscow-appointed head of the administration.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-drone-strike-kills-least-120337285.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-drone-strike-kills-least-120337285.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +174,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D75D9A3EF6104FF0E2509084E21726D333052C05A51C749269BB57CA561B4C86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F84a23f6300ec952b2c0f37c8eb3795f9" alt="" /></p>As Ukraine reels from the ousting of Fedorov, troops say they believe 43-year-old Mykhailo Drapatyi will bring the modern solutions Kyiv needs to win.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-troops-pinning-hopes-top-111701643.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-troops-pinning-hopes-top-111701643.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +181,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B81A1C6EEC675390CC84E786EA981D4C3709D3577573198AF123ED768CA1849/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fde3f15f217ddbde38feaf5d1e2e4ed83" alt="" /></p>One of the buses was carrying members of the Internal Security Forces, while the other was transporting civilians.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-buses-collide-syria-killing-111414011.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-buses-collide-syria-killing-111414011.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +188,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57274FD03D78199529E3BB9DE1E36D6422755E3F0F26817E5BFF381E2F8A4CB2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F356dc6e7f221dede54bcf97dca7e2589" alt="" /></p>Officials said traffickers hid nearly 1,700 pounds of cocaine among banana pallets inside a legitimate produce shipment moving through the international supply chain. The post Banana shipment from Ecuador to Europe concealed $290 million in cocaine appeared first on FreightWaves.]]></description>
             <link>https://www.yahoo.com/news/world/articles/banana-shipment-ecuador-europe-concealed-110300924.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/banana-shipment-ecuador-europe-concealed-110300924.html</guid>
-            <dc:creator><![CDATA[FreightWaves]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +195,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F524735E935B24604957FED1713B7C5137BB224C17C6944EA3EFC6A1DACA350E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F09361d7c8aa7652cc7a582e2b1eecd17" alt="" /></p>U.N. Secretary-General António Guterres appealed to the international community Saturday to support the people in Syria at the start of his first visit to the Arab country as U.N. chief, nearly two years after the fall of Bashar Assad.  Shortly after his arrival, Guterres held talks with Syria’s interim president, Ahmad al-Sharaa, before taking a tour of the old quarter of Damascus and the famous Umayyad Mosque.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-n-chief-urges-international-103340955.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-n-chief-urges-international-103340955.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +202,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C87BFE0CF550C75EF5000C2778DF9FBB31D68B0313B5B4FA8F65A0FE56E0AED3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2Fac6217804d7dd61690a89c275fc4a96d" alt="" /></p>The rise and fall of a pair of eSports hotel RAM thieves has been retold by Chinese news media.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ram-thieves-china-jailed-looting-090000109.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ram-thieves-china-jailed-looting-090000109.html</guid>
-            <dc:creator><![CDATA[Tom's Hardware]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 12:13:58 GMT</pubDate>
         </item>
         <item>
@@ -6902,134 +7042,6 @@ A proposal to ban social media for children under 15 is due to be voted on by Fr
             <link>https://www.yahoo.com/news/world/articles/countries-move-ban-social-media-040514457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/countries-move-ban-social-media-040514457.html</guid>
             <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On Sebastia’s hilltop, Israelis and Palestinians are fighting over who owns the past and controls the present]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50AC25F648B302A3DE0ACA9F0E0B05559FC581E9A7A58579BE33F5F1C7F3F63C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F8bb9504e3b4b08ec847d07db03b31f7f" alt="" /></p>From a remote hilltop just north of Nablus, the view stretches across the occupied West Bank. Israeli settlements, Palestinian villages, and the winding roads and checkpoints that connect – and divide – them.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sebastia-hilltop-israelis-palestinians-fighting-040126052.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sebastia-hilltop-israelis-palestinians-fighting-040126052.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crime gangs snare more than $88 billion in scams in Asia-Pacific, UN says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/057F6552102FE257BA56C229F9B3952ED9F71A42ED34D50B7FD9665FEC2AEDE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc4a3ec608eefc1f8ce0985d6f1d50175" alt="" /></p>By Poppy McPherson BANGKOK, July 21 (Reuters) - Scam gangs defrauded Asia-Pacific residents of at least $88 billion in 2025, a United Nations office said on Tuesday, with transnational crime groups]]></description>
-            <link>https://www.yahoo.com/news/world/articles/crime-gangs-snare-more-88-040040352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crime-gangs-snare-more-88-040040352.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Philippines says China injured sailor in latest maritime clash]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8B10AF8F21B1E6540A8A655FDB3B411A30CE87150D40CF31C232BFF1DA00725/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F92bd17e8a1b7c3eb59f6b5c8c76b9b47" alt="" /></p>The Philippine military accused China of beating and injuring a Philippine Navy sailor with a wooden baton in the latest seaborne confrontation.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/philippines-says-china-injured-sailor-035825120.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/philippines-says-china-injured-sailor-035825120.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 27 people dead after ferry sinks off Guyana]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5797AEC272DD7BD3A00E621835B75B9F0A642FEA57D2F608D539D7A0A5784647/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F3bb85ede852c3a7983b7a80db9360779" alt="" /></p>Authorities in Guyana have opened a criminal investigation after a catastrophic ferry sinking left at least 27 people dead, with hopes fading of finding survivors among the dozens more still missing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-27-people-dead-ferry-035509452.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-27-people-dead-ferry-035509452.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China and Philippines trade accusations after sailor injured at sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E51C653A6B7011A7EEB504811DDE0199B66E52C619605DA00A8D3037764AB1FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7758b7a3360b2583a0e6d3d2ae7baef9" alt="" /></p>Dispute erupts in South China Sea after incident near Second Thomas Shoal involving Chinese and Philippine vessels.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-philippines-trade-accusations-sailor-034957833.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-philippines-trade-accusations-sailor-034957833.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indonesia court to deliver verdict on group accused of selling babies for adoption in Singapore]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/673972D629C10533046B020FDB0F253188F0F5CDC8326578FFE311A0FA856A64/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc18267a56f1cfa78faaa624f35f33c99" alt="" /></p>Nineteen people are accused of illegally buying babies and selling them in Indonesia and Singapore.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/indonesia-court-rule-syndicate-accused-024244080.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesia-court-rule-syndicate-accused-024244080.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanese return to ‘pilot zone’ villages they say Israel never occupied]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/465EF48AF13C7AAEB36DC49F4B72E9585E75E893743ABFEB7A65CCD33F96E135/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa9515641c1459533ec8b4a6e453f4dfb" alt="" /></p>Under a US-brokered plan, Israel is to hand over control of some areas it occupies in Lebanon to Lebanese government.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lebanese-return-pilot-zone-villages-032937702.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-return-pilot-zone-villages-032937702.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China ally Solomon Islands invites US Coast Guard patrols]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4296A5B6AA2E48CEFB0878FD75CA2BF984EAEBBD881DE71250C5CEB8AC1291F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0535b3f34010f549692161ed3d7b370e" alt="" /></p>The Solomon Islands will sign a deal for the US Coast Guard to patrol its waters with local police aboard, Prime Minister Matthew Wale said on a visit to Washington.The US Coast Guard has expanded patrols of the South Pacific in recent years, assisting "ship riders" -- local Pacific police -- to cover millions of kilometres of ocean to inspect for illegal fishing fleets.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-ally-solomon-islands-invites-030530173.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-ally-solomon-islands-invites-030530173.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea, Russia agree to deepen ties at Moscow talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F92DCAB6DC127FD309C35234C863256FD536039F377060A96CB84BF0DA3DCA9C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Feb22782e3c66cc0146f0f79d54e2ba4c" alt="" /></p>North Korean Foreign Minister Choe Son Hui met Russian President Vladimir Putin and Foreign Minister Sergei Lavrov in Moscow, with the two sides agreeing to further expand and accelerate bilateral cooperation, North Korean state news agency KCNA reported on Tuesday. During what KCNA described as the third strategic dialogue, held on Monday, the two countries also pledged broad mutual security support in a joint statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/north-korea-russia-agree-deepen-030330259.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-russia-agree-deepen-030330259.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Desperate Rohingya risk deadly voyages as trafficking surges]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B06BCC756BECF6EC4ED496B71D590EAE0789FC59ED2400100710AFBCFD986B93/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F434c96d9bc29fff73c71d39ce7682ad1" alt="" /></p>Rahela Begum survived the horrors of war in Myanmar and life in the world's largest refugee camp in Bangladesh -- only to end up drifting at sea, clinging to a wooden plank.- Desperation -
-Bangladesh bars most refugees from leaving the camps or working, giving Begum little choice but to attempt to flee by sea, she said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/desperate-rohingya-risk-deadly-voyages-030059184.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/desperate-rohingya-risk-deadly-voyages-030059184.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea resident feels something moving under blanket, then finds 3-foot snake inside]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C6ADBAA7E344ABC67DAC234F8708BE01FC100E030E2284C4BA2D552446B0B76/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc86d1764cb53b1cf9dbd8f907c3b5382" alt="" /></p>Attention then turned to how it got inside.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/south-korea-resident-feels-something-023600313.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korea-resident-feels-something-023600313.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French youth social media ban meets age check conundrum]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8414B3E5F8BE7B5387D0910B73B28B2AD69347EB6279B4E62576CD3787C176D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F928c2d1dab2ecfe9a1cf970d25d841f1" alt="" /></p>France's parliament is weighing a social media ban for under-15s, following in the footsteps of Australia and Indonesia, although enforcement authorities are facing a puzzle on how to manage age checks.Under its ban in force since December, Australia told social platforms they were not allowed to require government ID even in cases where a user's age is in doubt.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-youth-social-media-ban-022340176.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-youth-social-media-ban-022340176.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['All these rashes': chickenpox surges in Gaza camps]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/70A670375B815DF14FF22832E8A6D4389EE4110F5D1DCB2A11BD3BF9B137AD17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff6408dab093e54d823262f2631b89bbb" alt="" /></p>Eight-year-old Ruba Saadeh spends her days confined to the tent she shares with her family in Gaza, her body dotted with inflamed red blisters as chickenpox sweeps through overcrowded camps like the one they live in.he said, as he diagnosed a child who had red blisters on his stomach.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rashes-chickenpox-surges-gaza-camps-021510127.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rashes-chickenpox-surges-gaza-camps-021510127.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Italy in uproar after death of immigrant restrained by police]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE715E6C01FCEA00DD73EEC9FFA3CD345D5E20D091C74815E2177409B4A57145/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F250a21c42b88393b53784f6ad0c42982" alt="" /></p>Thousands of people protested in Bologna and other Italian cities on Monday following the death of a 42-year-old Moroccan man during a police operation, with clashes breaking out between demonstrators and police in the northern university city. Protesters carried placards reading "Truth and Justice," while representatives of the man's family called for a full investigation.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/italy-uproar-death-immigrant-restrained-020415600.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/italy-uproar-death-immigrant-restrained-020415600.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BBEE076FF4F672995BD38ADD7BA402785EFB094661D7578A087A6C89218A498B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F100e7777a00463fc453c3c206ac5cd93" alt="" /></p>Authorities detain ferry crew members after drug tests reveal violations in Guyana’s worst marine disaster in decades.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/guyana-recovers-27-bodies-ferry-014730817.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guyana-recovers-27-bodies-ferry-014730817.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside Indonesia's slave island: 'I want my children to be free']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E715AF90BDAF50AC95D063C863F7E405B69530C907FF869D6CE8CC2215D4E4DA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4107be273e04489735e9fb39dcee111c" alt="" /></p>Two hours from the tourist beaches of Bali, slavery is alive and well on the Indonesian island of Sumba, where people are still born into bondage.Forced labour exists elsewhere in Indonesia, with temporary bondage practised by "the Dayak indigenous community in Kalimantan for debts," historian Bondan Kanumoyoso of the University of Indonesia in Depok told AFP. 
-But the slavery in Sumba is unique, he said, going from generation to generation, with masters and slaves living in similar conditions u]]></description>
-            <link>https://www.yahoo.com/news/world/articles/inside-indonesias-slave-island-want-010811848.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-indonesias-slave-island-want-010811848.html</guid>
-            <pubDate>Tue, 21 Jul 2026 05:14:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Garlic Powder Recalled Nationwide Due to Risk of Bacterial Contamination That Can Cause Vomiting and Diarrhea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96F23987DBCE7FB87F99BE743DF21A3F7691B5DEA1DB44C45B9D1AC11E13FC56/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F889562646123635070a8b5c4f01d88f1" alt="" /></p>The bacteria is known to cause gastrointestinal symptoms that can induce serious complications in rare cases]]></description>
-            <link>https://www.yahoo.com/news/world/articles/garlic-powder-recalled-nationwide-due-012430500.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/garlic-powder-recalled-nationwide-due-012430500.html</guid>
-            <pubDate>Tue, 21 Jul 2026 01:55:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shanghai science forum photos show China's AI and robotics advances in rivalry with US]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A128548E82202C3CB65BE0D14C11128D27B6C1334ACE56B83D41CC36B447FF00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2b8b769fccff9e9e31f69a395dbe7bfd" alt="" /></p>China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems.  Chinese companies have developed more than 400 humanoid robot products, more than half the world’s total, state media said.  Open-source AI models from China are increasingly challenging leading American ones as they are more widely adopted globally.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/shanghai-science-forum-photos-show-012238348.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shanghai-science-forum-photos-show-012238348.html</guid>
-            <pubDate>Tue, 21 Jul 2026 01:55:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
