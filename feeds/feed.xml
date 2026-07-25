@@ -4,16 +4,127 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 07:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 09:30:52 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indian education minister resigns after days of youth protests]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D630A4CBCECA8D685AE39A260A70FDA647426F0F4B6A923D53A0913445E28746/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e9c3ccf066c7083788fbf61500205af" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/indias-modi-under-pressure-youth-061426000.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indias-modi-under-pressure-youth-061426000.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[High winds could make fighting Spanish wildfires harder, officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AEA3FC2F7EFEA08C92EA47DFC86862A7968A9BCA4BD4D68B4091A9E8081EE3A4/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F30c996c5a4a5a5a3573e8890af1bc6c3" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/high-winds-could-fighting-spanish-085509804.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/high-winds-could-fighting-spanish-085509804.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More health workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D7B0AF59D89DFE95C877D019E4BB271B7B25CC047FE707E6C6848D3739DF475/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3fec43740d97fad9ef57981b81f1a2e4" alt="" /></p>Health workers at an Ebola treatment center in eastern Congo went on strike Saturday over payment issues, disrupting care for patients in the epicenter of the country’s rapidly growing outbreak.  The number of confirmed cases of Ebola in Congo has reached 2,973, including 1,309 deaths, according to government data released Friday in what authorities say is the fastest-growing outbreak on record.  Activities at the Elikya Ebola Treatment Center in Bunia, Ituri province, were largely paralyzed after doctors, nurses and security staff stopped work.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-health-workers-strike-ebola-092138541.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-health-workers-strike-ebola-092138541.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's papers: Wildfire evacuation and whisky deal praise]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E3F0A47D58360549BE282C2EAA7435F5CF6F5BBC60B0CF9F5002B734268E527/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa2a8fbd0ba45762ddf5ff01292d04271" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/scotlands-papers-wildfire-evacuation-whisky-091417430.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-wildfire-evacuation-whisky-091417430.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red sun, orange sky as Madrid battles worst wildfire in its history]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0EA35EB1F3A11538D7E59864010341CB1B26D70E5E3DBC3F27D74340FA91428F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F53152318a0eeefb48abaeac5aec8b1af" alt="" /></p>Wildfires near Madrid and Ávila forced tens of thousands to evacuate, turning the sky orange and the sun blood-red over affected towns.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/red-sun-orange-sky-madrid-091217835.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/red-sun-orange-sky-madrid-091217835.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel arrests dozens of Palestinians in West Bank amid settler attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C2FB8CFC702B0B4D3E2FF30683735992CAA02EADC94980A3C7D10F128CAF46EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff428f662a9a71d3bd4bf1f32dcfd7571" alt="" /></p>Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-arrests-dozens-palestinians-west-091001271.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-arrests-dozens-palestinians-west-091001271.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian attack kills 3 in Ukraine’s Sumy region as Romania downs second drone in 2 days]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FCC39606B449719BA6F51510EF1C9102B42F51A0D8B442FA63CD0F5FC4331A2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa52ab32444514468e5a86315451dfaf2" alt="" /></p>A Russian drone strike killed three people in Ukraine’s northeastern Sumy region, local officials said Saturday, while Romania shot down a drone over its airspace for the second time in two days.  In Zaporizhzhia in southeastern Ukraine, a Russian drone attack Friday night hit a shopping center, causing a fire that spread over a 500-square-meter area, causing several injuries, regional head Ivan Fedorov said.  A major Russian attack Friday on a site near Kyiv that hosted a defense industry event killed at least 10 people and wounded nearly 100 others.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-attack-kills-3-ukraine-082658006.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-attack-kills-3-ukraine-082658006.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin Pride organizers say LGBTQ rights under increasing pressure]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F084B5D66B9FA1FE0A50BC99FA656F7D7F46A1DD4CFA0AA217E73FA7D383D18C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa06cc4c250a68b30ce35f541a8c6946b" alt="" /></p>As hundreds of thousands of people are expected in Berlin on Saturday for the city's annual Pride parade, its organizers are warning against a harsher social climate. "Queer people are under increasing pressure worldwide," board member Thomas Hoffmann told dpa.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/berlin-pride-organizers-lgbtq-rights-081833265.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-pride-organizers-lgbtq-rights-081833265.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Monsoon floods kill at least 41 in India's Assam state]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A13E79973C95DDB8F1578B953428D4935BE111F58E8F2C1A66371DF9B80CF6DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F1976c07f3cb5df12966c9f8a38ce1801" alt="" /></p>Heavy monsoon floods submerge homes and roads in Assam, India, as rescue efforts continue after at least 41 people were killed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/monsoon-floods-kill-least-41-081159720.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/monsoon-floods-kill-least-41-081159720.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dodging snipers, housing crisis forces Yemenis to live on front line]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE97F63CEA639D59229AB9DC0F97EE479F69C69CFD4A677D7F6AC1D612FE433F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb6bee972d024f07e68408ee1e6406b51" alt="" /></p>Living near Taiz’s front line forces families to make difficult choices amid sniper threats and economic hardships.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dodging-snipers-housing-crisis-forces-080947364.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dodging-snipers-housing-crisis-forces-080947364.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elizabeth I’s secretary rewrote letters to make her sound more angry]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B47ED763826D4D352B5860DE37FD7073D441470757DB48B73FAEC5C5CB6AD20/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F49e7ae1a94289f0f5f23579b655939fc" alt="" /></p>Elizabeth I’s reputed volatile temper was partly the invention of secretaries who wanted to keep subjects and rivals on their toes, a study has suggested.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/elizabeth-secretary-rewrote-letters-her-080000874.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/elizabeth-secretary-rewrote-letters-her-080000874.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Born too soon: Premature babies fight for survival in Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DF9E2A2EF16105E3C92A4459FD728F74FD7B32550128026DB25C4667E32707A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa783185c47beafc0a284eea17f896184" alt="" /></p>Israel’s genocidal war on Gaza is causing a surge in premature births and endangering mothers’ health.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/born-too-soon-premature-babies-072535375.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/born-too-soon-premature-babies-072535375.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six ancient Comoros medinas join UNESCO's heritage list]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5996C857E43E9A556BFD21F1735CE7B0F82BFDB6951A92C45B59D6E9257F7C47/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F00fc4040fbd5e43ed8640317cec617d7" alt="" /></p>UNESCO on Saturday added six centuries-old medinas in the Comoros -- once historic sultanates along Indian Ocean trading routes -- to its World Heritage List, raising hopes for their preservation.After the UNESCO inscription, "there will be the development of cultural, historical and architectural tourism, and the preservation of heritage," said Faniya Abbas, of the Medina Wiratha cultural association.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/six-ancient-comoros-medinas-join-071030524.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/six-ancient-comoros-medinas-join-071030524.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy warns of 'massive' Russian attack within 48 hours]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DC156E362A7AC5C6E0BB1C9D0B4541E0949BA4D0AA9AA58472D387C70EDFA02/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fde125f56b2556f26cefadecc3ef82d8c" alt="" /></p>On Friday, Ukrainian authorities said Russian missile strikes on the Kyiv region killed at least 10 people and injured around 100 more.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelenskyy-warns-massive-russian-attack-055147411.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-warns-massive-russian-attack-055147411.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 25 Jul 2026 09:30:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Guterres arrives in Syria in first official visit by a UN chief in 17 years]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F84A8FD0C993162CCEF42745794BF6DAD71F376046DA43D24CA8482010FF5C72/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1b71a6c56f830d6b1d91b6e395f8f141" alt="" /></p>The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year.]]></description>
             <link>https://www.yahoo.com/news/world/articles/guterres-arrives-syria-first-official-072247599.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guterres-arrives-syria-first-official-072247599.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE6063F287EEFE46A52CE8774FA15F8D45D7C1CCFC369DFCD93E8739AAE37807/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0648f0efc84926dc358bff2589cf07f1" alt="" /></p>On July 25, 2000, an Air France Concorde supersonic jet crashed on takeoff from Paris, killing 113 people, including four on the ground.]]></description>
             <link>https://www.yahoo.com/news/world/articles/day-july-25-air-france-070006248.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/day-july-25-air-france-070006248.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8FA4E3B89BA9FC2F9268E7EDC598A8E6F6EC6FDDC7F299E2278393659BDC43B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffaad9105892743e62d8bccc00d23de79" alt="" /></p>Yemen's Iranian-backed Houthi movement vowed to retaliate against Saudi Arabia on Saturday amid renewed tensions in the Middle East. Attacks on civilian targets would "not go unpunished," the Houthi-controlled Saba news agency reported, citing Houthi sources.]]></description>
             <link>https://www.yahoo.com/news/world/articles/houthis-vow-retaliation-saudi-led-063325714.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-vow-retaliation-saudi-led-063325714.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +146,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DAFDB9002F311E3FC97E0137E27B0ED39CAA8426818FCD492EEA92346B1D3AD3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F98a81d1acd5a47d98fdf08624cb71a62" alt="" /></p>The family claim repeated encounters occurred over the years they lived in the 300-year-old home.]]></description>
             <link>https://www.yahoo.com/news/world/articles/felt-pure-fear-moving-haunted-063148461.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/felt-pure-fear-moving-haunted-063148461.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +153,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Visitors can enjoy guided reserve walks, pond dipping and a theatre show during the opening event.]]></description>
             <link>https://www.yahoo.com/news/world/articles/reopening-nature-celebrating-80th-060926483.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/reopening-nature-celebrating-80th-060926483.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +160,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E4AFDF142E316E46A100D5311881888A06DDD7390DEC4AAE78A9CC9F868A1CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F29c8655649669bc113bdbd5b903bf244" alt="" /></p>Zahra Joya says her experience under the Taliban convinced her to fight for women's rights.]]></description>
             <link>https://www.yahoo.com/news/world/articles/disguised-myself-boy-could-school-054238378.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/disguised-myself-boy-could-school-054238378.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +167,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1AFA94A8415760DB6350D74DF3C330FF4171D80B044489585A02B3BBCDA489B9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F940d4396d0c61afd50e96fed207b0c80" alt="" /></p>Yemen's Iranian-backed Houthi movement vowed to retaliate against Saudi Arabia on Saturday amid renewed tensions in the Middle East. Attacks on civilian targets would "not go unpunished," the Houthi-controlled Saba news agency reported, citing Houthi sources.]]></description>
             <link>https://www.yahoo.com/news/world/articles/houthis-warn-saudi-arabia-retaliation-053431086.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-warn-saudi-arabia-retaliation-053431086.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +174,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9F9D7795667342EE7454AE049D91D98D43B7DA2FE121EC0C51ACE7B0195F274A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F54e19ebf053e627d8731e25fa4b86b5b" alt="" /></p>Drag queen Sister Daphne OSPI pushed aside her pink veil, fluttered her long purple eyelashes and raised her hands to bless the crowd at Berlin’s first drag march.  Hundreds of thousands of people are expected Saturday to join Berlin's pride parade, known in Germany as Christopher Street Day.  “Every step is a declaration, every kiss an act of revolution, every wig is a war cry,” she said as some 500 drag queens, drag kings and LGBTQ+ supporters cheered before marching and dancing through the city to the music of the Transophonix brass band.]]></description>
             <link>https://www.yahoo.com/news/world/articles/berlin-first-drag-march-brings-051911722.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-first-drag-march-brings-051911722.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +181,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F8113E47358206AEF250BE7443E8CAD82EA89CF7721C362EBE5050FC8DDCDC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6d6af4bc913d72b2f583e905e9d43ac1" alt="" /></p>Iran-backed Houthi rebels claimed a missile strike on Saudi Arabia on Saturday, hours after vowing to retaliate against the kingdom for attacks as the Middle East war expanded.The Houthis claimed attacks on two Saudi ships earlier this week, with Saudi Arabia confirming one of the attacks in the Red Sea.]]></description>
             <link>https://www.yahoo.com/news/world/articles/houthis-vow-retaliation-saudi-strikes-012746247.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-vow-retaliation-saudi-strikes-012746247.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 25 Jul 2026 07:32:14 GMT</pubDate>
         </item>
         <item>
@@ -6934,104 +7037,6 @@ But the slavery in Sumba is unique, he said, going from generation to generation
             <link>https://www.yahoo.com/news/world/articles/jamaica-petition-king-charles-slavery-220339566.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jamaica-petition-king-charles-slavery-220339566.html</guid>
             <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds of haredim protest outside military prison following draft dodger arrest]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6457EFF130E03595385102809C754583B7BDE4E336962C6942B1AD5E9041871/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F483d56cfe99c0cf9358dbbd7c0a9cdfb" alt="" /></p>The arrested hassidic man had earlier arrived at a draft office to arrange an exemption from service before being sentenced to 20 days in prison, according to the report. Hundreds of haredi (ultra-Orthodox) demonstrators protested outside Military Prison 10 in Beit Lid on Monday over the arrest of a draft dodger, N12 News reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hundreds-haredim-protest-outside-military-220113938.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-haredim-protest-outside-military-220113938.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Toddler, 3, drowned in swimming pool on family holiday, inquest hears]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F68C7E9BDB9635174D4127C32CB2A084F3B6D35991364E48A9D267FE90DF7A07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd89fd3e8c50d1b52633b1efc2b45f8ac" alt="" /></p>Eleri Ellesmere, from New Tredegar, Caerphilly county, was found in the private villa's pool in June.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/toddler-3-drowned-swimming-pool-215819808.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/toddler-3-drowned-swimming-pool-215819808.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian warship carried out firing exercise off Plymouth coast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A4FECC6A11B664E045532490D5C225C57F3774E93F86892A6ABD536D220B569F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7ee8ebdc9957585c7b9c3c20deea332c" alt="" /></p>The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-warship-carried-firing-exercise-215346678.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-warship-carried-firing-exercise-215346678.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthi Blockade On Saudi Red Sea Oil Transits Threatens To Widen War, Strangle Energy Supply]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B710CFF80A3D836436DFEE2E38D01BF052766DDE8793365326DFFD195045790/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2Fb73595cb2b658882f83342c0ab69c3a9" alt="" /></p>If the Houthis start attacking ships near the Bab El-Mandeb Strait, it could peel-off U.S. resources from the Iran operation and exacerbate oil shortages.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/houthi-blockade-saudi-red-sea-204143723.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthi-blockade-saudi-red-sea-204143723.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine claims $400 FPV drone destroyed Russia's $19 million 'Apache rival' attack helicopter]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/43DBFCC932D2332195313F45507931AEAB38D3403CAA9A434CEA56D4C9D485EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F2b9edac970512417a238da8363dcd80c" alt="" /></p>A $400 Ukrainian FPV drone chased down and allegedly 'destroyed' Russia's Mi-28 "Night Hunter" attack helicopter.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-claims-400-fpv-drone-204000458.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-claims-400-fpv-drone-204000458.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘This is like being told the date of my lover’s death’: China is cracking down on AI-generated ‘boyfriends’ and ‘girlfriends’ — and pro therapists think it's for the best]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8019A7582EF47FC6694A3C1484B690116A2BA5C023090696C2856CAE917AF83/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F2f4a0baf3342cb58862819093778eb55" alt="" /></p>The Chinese government has issued new regulations to ban services allowing you to create AI companions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/being-told-date-lover-death-203000562.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/being-told-date-lover-death-203000562.html</guid>
-            <pubDate>Mon, 20 Jul 2026 22:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola quarantine center for Americans is up and working in Kenya despite a court ban, activists say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71CC671A1DB5474F2BA38A02D77FE5D7801948B83066E667F519F444FB25B1F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F22fffe4aec7c40673102f238693bc30d" alt="" /></p>Kenyan activists on Monday accused authorities of violating a court order from last month halting the setting up of an American-backed Ebola quarantine center after reports surfaced that Americans were being quarantined in the country.  The center was meant to take in and quarantine Americans evacuated from Congo, where an Ebola outbreak that erupted two months ago has so far killed at least 930 people, out of the 2,344 cases confirmed there.  A U.S. humanitarian organization, the Samaritan’s Purse, said over the weekend that seven of its American staff from Congo were being quarantined in “large military tents” for 21 days in Kenya, adding that none had so far shown symptoms of Ebola.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ebola-quarantine-center-americans-working-212436574.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-quarantine-center-americans-working-212436574.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Monsoon-driven flash flooding kills at least 20 in Afghanistan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23B74FD43246CE3900AB917B19952DD523FEFECA5DB3A70B243A21AA534E76A2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F143a6a62dda0f6451141fcdfc8423b30" alt="" /></p>Rescue teams are racing to reach Nuristan province as devastation continues across the region.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/monsoon-driven-flash-flooding-kills-202927975.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/monsoon-driven-flash-flooding-kills-202927975.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drones Are The Latest Airborne Plague On Iraqi Kurdistan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6DDFA554A589078B6F59AB1F27BACAF9EF80A4E4BE58A6A2C5987044A4B061F0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F6f375ba7810d69cb86d447a4c49c10d0" alt="" /></p>After such traumatic, unprovoked attacks, Iraqi Kurdistan would doubtlessly welcome any opportunity to acquire air defenses for self-protection.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/drones-latest-airborne-plague-iraqi-202355804.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drones-latest-airborne-plague-iraqi-202355804.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridesmaid Permanently Disabled After Being Tossed Into Air During Wedding Prank]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3B4E5D11FB2DA0C1DAD325D243B318BA32F240E258F3ADB5A83EBD349AB97BB9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnational_enquirer_328%2Fa124afd33a817c4b853ffad6300c4f55" alt="" /></p>A bridesmaid’s night celebrating her close friend’s wedding ended with her hospitalized for over two weeks and permanently disabled, all because of a wedding prank gone horribly wrong. South China Morning Post reported on Monday, July 20, that the 20-year-old woman, identified by her surname, Zhang, was left alone in a wedding room with 10 […]]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bridesmaid-permanently-disabled-being-tossed-201946903.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bridesmaid-permanently-disabled-being-tossed-201946903.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Louvre heist gallery to reopen to public on Wednesday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27D899C016E4C9F42E86B9FCFBB3B5D80CE490B1A54E4A0D40D230079C338FB8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F78b360e1e180d50dbcf15a9fc116facd" alt="" /></p>The Apollo Gallery of Paris's Louvre Museum, where French crown jewels worth 88 million euros were stolen in 2025 in a brazen heist, will reopen to the public on Wednesday.On October 19, 2025, robbers disguised as construction workers entered the gallery using a truck-mounted lift in the morning and stole eight crown jewels, which remain missing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/louvre-heist-gallery-reopen-public-201127410.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/louvre-heist-gallery-reopen-public-201127410.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flash floods kill at least 20 in Afghanistan and leave more than 100 missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6CBDDCDC948DE115FB8CC9FB661584BA4CB255D8F8BCEAA9E9D71378726C4B5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F92f53d0b4f7f8bcbb36fcdc25d25b453" alt="" /></p>Flash floods in eastern Afghanistan have killed 20 people, injured about 80 more and left more than 100 missing, Afghan authorities said Monday.  The floods struck the eastern province of Nuristan, said Yousaf Hammad, spokesman for the Afghanistan National Disaster Management Authority, adding that a search and rescue operation was underway to locate the missing.  “Unfortunately, severe floods today in Parun city and several other areas of Nuristan province have caused heavy loss of life and property among our fellow citizens,” Hammad said, adding that the floods had caused extensive damage to people’s homes, agricultural land and public facilities.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/flash-floods-kill-least-20-194124725.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flash-floods-kill-least-20-194124725.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taiwan indicts ex-TSMC manager for allegedly stealing chip secrets for China — first case of its kind links...]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CA54701DE272D56A90BE1FC34509A48A7A4DA7A8E8117C7DD7D955F2710F333/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2Fba7d78f81339ee96e47383a8e4fa81be" alt="" /></p>Taiwanese prosecutors indicted a former TSMC deputy manager on Monday for allegedly copying 21 confidential documents.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/taiwan-indicts-ex-tsmc-manager-181321424.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-indicts-ex-tsmc-manager-181321424.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Girl, 7, Miraculously Survives 3 Days Floating at Sea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/10E49FF851AD11D319B3DDE39BA88661120DABFF1C84401CCF6350D166A84843/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F45db2d41a4fa85df80c334f1d0629d60" alt="" /></p>A seven-year-old girl has been found clinging to a fishing trap after days lost at sea. She was among a small group of survivors found following the sinking of the KM Nurul Salsa on Wednesday, 43 miles from Selayar Island in Indonesia. There had been 78 people aboard for the journey from Jampea Island to Selayar when the ship suffered engine failure, the Associated Press reports. The Independent reports that 47 people were saved in the initial stage of the rescue operation, which pulled together]]></description>
-            <link>https://www.yahoo.com/news/world/articles/girl-7-miraculously-survives-3-162709310.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/girl-7-miraculously-survives-3-162709310.html</guid>
-            <pubDate>Mon, 20 Jul 2026 21:38:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
