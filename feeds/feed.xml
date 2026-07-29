@@ -4,16 +4,87 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jul 2026 23:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 01:52:01 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jul 2026 23:53:23 GMT</pubDate>
+        <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Japan quake toll rises to 13 as rescuers haul people from collapsed mall]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B6D0ED7B5D0555CF93142D62DC374DC5D35B2B2CB5534E5AEEBFF48EE43B845C/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6ec94f7c9c59b3f217be050ac4b611f5" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/japan-quake-toll-rises-13-012647270.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/japan-quake-toll-rises-13-012647270.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0A352C557A54196EF6E4890DBA97D2632B6568BB6A9146A441F22BC41B8DD11/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fab99a8e15df6e4ac7834c324634aa1da" alt="" /></p>Riyadh says its targeted attacks were done in coordination with the US military.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/saudi-arabia-us-carry-strikes-013723486.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-us-carry-strikes-013723486.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After fleeing Sudan’s war, refugees battle thirst in Chad’s camps]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C1DAAB7AD4BE038269399AD095F39B274A2071DBF336CB37466263F3BD0BEAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2bca13e5d82625372a2d05795ba135f9" alt="" /></p>After escaping war and atrocities, families now battle water shortages and fading hopes of returning home.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fleeing-sudan-war-refugees-battle-013014905.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fleeing-sudan-war-refugees-battle-013014905.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkiye takes ‘historic step’ on energy alliance with Iraq]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/861E5F75228A5B23350563CEEA5F275328502450C79E8F4EEB60DAF114865FBD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fdecfe269fac8ce85585a94e04d816bb2" alt="" /></p>Ankara could receive 1 million barrels per day of Iraqi oil after Turkish Petroleum stake in BP-run Kirkuk oilfield.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/turkiye-takes-historic-step-energy-010709119.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/turkiye-takes-historic-step-energy-010709119.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two dead after blast at Japan shopping centre following earthquake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD38768CA1C44C78B4BD752FB1B014352BAC36E7558B6DBBE9D185CF578F4A61/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F84c4e2d7c64cea2661cf21835293674e" alt="" /></p>At least two people were killed in an explosion at a shopping centre following a powerful earthquake in south-western Japan, local media reported on Wednesday. Two women were confirmed dead and another woman was found unresponsive after an hours-long rescue operation overnight, Kyodo news agency reported, citing local authorities.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-dead-blast-japan-shopping-004836544.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-dead-blast-japan-shopping-004836544.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Orphaned grizzly cub disappears near British Columbia camp, then turns up safe after rescue]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C66306D19396AB11C8B210820B9A5F368EDCFA6C7FFAEADA7C7A3039B9C02E10/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F0a7cfecc81cef8aca083f1e1482d5d98" alt="" /></p>"We didn't know if the cub had gone into hiding or if it had been preyed upon."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/orphaned-grizzly-cub-disappears-near-000700947.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/orphaned-grizzly-cub-disappears-near-000700947.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba condemns Colombia's plan to cut diplomatic ties]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A540E630535D58B69369C84C98D1E362BD9F3870785BAEB8DD9681C34B538372/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb0d7f2f72d837a5b7a3e6a07eae164f8" alt="" /></p>Cuba on Tuesday condemned plans by Colombian President-elect Abelardo de la Espriella to sever diplomatic relations with Havana after taking office next month, accusing him of aligning with a US-backed policy of confrontation. In a statement, Cuba's Foreign Ministry rejected the planned move as unjustified, saying it would not serve Colombia's national interests and ran counter to the longstanding ties between the two countries.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cuba-condemns-colombias-plan-cut-000331149.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cuba-condemns-colombias-plan-cut-000331149.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran launches ‘surprise attack’ on US forces in Middle East]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EA1DA2C99397A8AF88B051619E144EC5C31DDC596A12D2AA13A03BD9A7914BDE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fef17ca573ee1a05681a4960c99c22679" alt="" /></p>Iran fired multiple ballistic missiles at a U.S. base in the Middle East on Tuesday evening, in what U.S. Central Command (Centcom) called an attempted surprise attack. It was the first publicly disclosed attack on U.S. service members in the region since President Trump ordered a halt on attacks against Iran last week. The missiles,…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-launches-surprise-attack-us-225213723.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-launches-surprise-attack-us-225213723.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadly French wildfires threaten missile plants, nuclear sites as fourth heatwave looms]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04F10E9956DCC2B6BDF165ABB64C53755859010485198C36964D7E36C525F4FD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F9ba3465df18bf28fb39a3f1abb26212d" alt="" /></p>Missile factories and nuclear research sites near Bordeaux face evacuation as wildfires scorch over 104,000 acres in France's worst blaze on record.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/deadly-french-wildfires-threaten-missile-215604070.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deadly-french-wildfires-threaten-missile-215604070.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Wed, 29 Jul 2026 01:52:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Mexican drug cartels have outsourced meth labs to Nigeria]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E093CA082CA852D57E15F9F170491C3E97DCF2156E825B0B385F1BBDBAC4D88D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff4d388de647e055127f464e3758612fa" alt="" /></p>West Africa is becoming increasingly attractive to those who want to make and export illicit drugs.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mexican-drug-cartels-outsourced-meth-232601621.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexican-drug-cartels-outsourced-meth-232601621.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 23:53:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +92,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21433D2D798F0A5B9D998F9097C09398F3DF4D45477B0CF3FCC6CEBF1755485A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4156bb6b58d85f507260f0c5a79275ff" alt="" /></p>The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemen-houthis-claim-missile-attack-231644976.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-houthis-claim-missile-attack-231644976.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 23:53:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +99,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97619F654868388843FAFEF4E974EAA746D91128AC00B5A763685C335D02DFE5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb493fff80930a45578a7d26d2c19271f" alt="" /></p>Campaign group Electrical Safety First has urged those "heading abroad this summer to think before they buy".]]></description>
             <link>https://www.yahoo.com/news/world/articles/brits-urged-avoid-dangerous-plug-230140457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/brits-urged-avoid-dangerous-plug-230140457.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 23:53:23 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +106,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF2CDD4B48DD8D30194A98A66BB2511F0691E9B4D756954089F062BD1E985AB0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0cf5392876ca53640cb80726aec1d689" alt="" /></p>Iran launched multiple ballistic missiles at American forces in the Middle East on Tuesday, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations and toward a ceasefire, the U.S. military said.  All Iranian missiles were successfully intercepted, the U.S. Central Command said in a statement, adding that U.S. forces “remain vigilant and at a high state of readiness.”  The United States and Iran had experienced a period of calm, during which neither announced attacks for days following weeks of escalation over the strategic Strait of Hormuz, the Persian Gulf waterway and narrow chokepoint through which 20% of the world’s oil normally flows.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudi-arabia-says-shot-down-215248145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-says-shot-down-215248145.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 28 Jul 2026 23:53:23 GMT</pubDate>
         </item>
         <item>
@@ -6974,69 +7042,6 @@ Although taking part in the Evala is not compulsory in Kabye tradition, young me
             <link>https://www.yahoo.com/news/world/articles/germanys-merz-slams-houthi-red-211827409.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germanys-merz-slams-houthi-red-211827409.html</guid>
             <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three men sentenced to life in jail over Nigeria school kidnappings]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8C62EFDCC1C2E50DE76671698970A312AD800D2981AB4444403CF9B19FB1F4F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5de2cb58cc6b1f26e0e517155078811b" alt="" /></p>They admitted to concealing information and being members of an Islamist militant group.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-men-sentenced-life-jail-203145218.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-men-sentenced-life-jail-203145218.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hot in the city? Free movies help Italians ‘chill’ in Rome]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5FE31ABC942470E15D5651E0BB049230A9A886A9C8C892E978BC96A4E1F2BCE4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fb97206953208c83d7f9916fa6ed975ad" alt="" /></p>The city is launching “The Big Chill” initiative, named after the 1983 blockbuster, offering free movies in air-conditioned cinemas during an exceptionally hot summer.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hot-city-free-movies-help-205329322.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hot-city-free-movies-help-205329322.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In Ghana, glossy sustainability reports mask polluted water, degraded land, and waste]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2BD3D4018B0E2F8E9216D1B2F5ABC2A6CF9B8B9CB2C71B379CBA34D944243E6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F3b32981e7a370379614f3ffdcba8c2c8" alt="" /></p>Researcher Rexford Adjei Darko argued that real stewardship is not proved through branding.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ghana-glossy-sustainability-reports-mask-201600662.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ghana-glossy-sustainability-reports-mask-201600662.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[England and Wales see record 384 domestic abuse reports linked to World Cup]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DBDBE3061ADBED6FFC06FF419172EFD68D38A2ECA77A040B7DC2B612BF39E424/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F25a4eee7fed4527962cba9893ebc1d1f" alt="" /></p>Football-related domestic abuse incidents in England and Wales reached a record high for a men’s major tournament during the 2026 World Cup.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/england-wales-see-record-384-194913510.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/england-wales-see-record-384-194913510.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EA-37Bs Arrive At RAF Fairford As Iran Threatens To Attack The UK Air Base]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D46D80D607B60454D059EE6BCF1C67D17D7D2A1D96EFEA104AF7B850D3555030/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_warzone_735%2F7e3da9101cf146edcea100e2bf373cda" alt="" /></p>RAF Fairford is a major hub for USAF bombers flying missions against Iran and other aircraft transmitting to the Middle East.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ea-37bs-arrive-raf-fairford-193123764.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ea-37bs-arrive-raf-fairford-193123764.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Missing Pan Am Flight Crash Site Found Hidden 2,000 Feet Below The Atlantic's Surface 75 Years Later]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DEA7871738A25ECEA597B48D132D86C575F3AB6B3444171CA1C86FF6AFA4573A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjalopnik_622%2Facef9f50cb1017b182f53a27cb6989b8" alt="" /></p>The events leading up to its demise inspired safety reforms and the emergency procedures most flyers ignore at the start of their flight before take-off today.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/missing-pan-am-flight-crash-184809667.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/missing-pan-am-flight-crash-184809667.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan Opens World’s First Center To Combat Marine Plastic Pollution]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2A112842DAEFFB5036D670A153054C8C5E1FBAD1595FA1B0BA47E1671914388B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2F6c32e39ccf74778c832cd70a1da71a42" alt="" /></p>The World Ocean Plastic Planning Center, or “PlaPla,” is serving as a de facto educational hub for coming to grips with the severity of the plastics crisis.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/japan-opens-world-first-center-175021999.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-opens-world-first-center-175021999.html</guid>
-            <pubDate>Thu, 23 Jul 2026 21:58:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spanish parliament rejects government's 2027 spending plan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C6D3A851FF41B373355C7F6629D026DF86F4D80A6B58C69922384F73FA907CC3/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F67452d431a0482d36ccec906fbc9ff34" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/spanish-parliament-rejects-governments-2027-194417509.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/spanish-parliament-rejects-governments-2027-194417509.html</guid>
-            <pubDate>Thu, 23 Jul 2026 20:34:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK 'ready to defend itself' after Iran says bases are 'legitimate targets']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/739A98C0DAF24FC13E316F12FA34D5A027F73E6FB803663FF63BCAA563841F61/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcb0bfe38f8b4e84fad0567d934203f88" alt="" /></p>An Iranian military group has issued a warning to the UK over allowing US forces to use British bases for strikes on Iran.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-ready-defend-itself-iran-200031451.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-ready-defend-itself-iran-200031451.html</guid>
-            <pubDate>Thu, 23 Jul 2026 20:34:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
