@@ -4,16 +4,103 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 23:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 01:44:57 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US strikes Iran as widening war engulfs more countries]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB292FB38FCE381108AB7ED2C1C14BB32294088C59AAEE78A32F32BCB2A333AA/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3836f4f60cb82df558a0b74dd071715c" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-saudis-attack-iran-backed-032939117.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-saudis-attack-iran-backed-032939117.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One killed in Russia strikes on Kyiv, Poland scrambles fighter jets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B03F7BB41389C4539BBF802BB4410BD4463DDB8410AAD0E80E36CB8371862368/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faaab0ccca2a463a86e38d65fb0a9aa7b" alt="" /></p>By Jekaterina Golubkova and Oleksandr Kozhukhar July 30 (Reuters) - Russian ballistic missile strikes on the Ukrainian capital of Kyiv killed at least one person early on Thursday, officials said,]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-striking-kyiv-ballistic-missiles-224859087.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-striking-kyiv-ballistic-missiles-224859087.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macao’s first national security case raises concerns over fairness a year after arrest]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3B5FAB401C23062F689AABC5FCCE5157489683537FBB258A35295AE9DC283EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F85ae19c7c8820cf06582b83281e3cc0b" alt="" /></p>When former Macao pro-democracy lawmaker Au Kam San was arrested in July 2025, his family and observers of the politics in the Chinese special administrative region were shocked.  Au is the first publicly known arrest under Macao’s national security law since its 2009 enactment and critics say his case signals Beijing’s emphasis on security and intolerance of dissenting voices, even though Macao’s pro-democracy activism has never been as influential as the movement in neighboring Hong Kong.  Au is accused of providing false information to anti-China organizations overseas to incite hatred against Beijing and the government in Macao, which has become a Chinese casino hub.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/macao-first-national-security-case-010038457.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macao-first-national-security-case-010038457.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia striking Kyiv with ballistic missiles after Zelensky warned of ‘massive attack’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E32CBC4A320269D2C5D9F15547C67A4D6D7B955C34CD2743F24A9779EB529733/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F86cca8274ad6e435d790f21372919e82" alt="" /></p>Russia has launched missiles toward Kyiv and other Ukrainian cities, the Ukrainian Air Force said early Thursday local time, just hours after President Volodymyr Zelensky warned Moscow was preparing a “massive attack.”]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-attacking-kyiv-ballistic-missiles-224700876.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-attacking-kyiv-ballistic-missiles-224700876.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia hits Kyiv, other cities with large-scale ballistic missiles after Zelensky warns of attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2781E870109C6F89892FAB2C402FEEE12D65F03AC73706C03CA0C4048D19931/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F4cd022be3e0b89f1ed67297578f7030d" alt="" /></p>Russia launched ballistic missile attacks on Kyiv and other cities in Ukraine in the early hours Thursday, hours after warning of an attack.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-hits-kyiv-other-cities-005535749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-hits-kyiv-other-cities-005535749.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia begins legal action against Telegram over alleged pro-terror material]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA9D78467C4B4D0F4BABC421B5D2D3419CF9D4168EAEA11163B5B7044E39384E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F48c11c7b1d06814d5d8c497fb207d1aa" alt="" /></p>By Alasdair Pal SYDNEY, July 30 (Reuters) - Australia's internet regulator said on Thursday it had begun legal action against messaging platform Telegram over alleged failings to tackle pro-terror]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-begins-legal-action-against-002328703.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-begins-legal-action-against-002328703.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[LA-based ‘apostle’ defends ‘cult’ accusations after viral clips of followers shaking uncontrollably]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F385C8DB9CB8B9F640E5AF061DD44DB4A64709C905791533DE0FE0728CC4C6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2F3d4b6dd20f7312a37b8dec6b5e4ab205" alt="" /></p>Pastor Kathryn Krick is fighting back against “cult” accusations after viral videos of her dramatic prayer services sparked controversy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/la-based-apostle-defends-cult-002526749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/la-based-apostle-defends-cult-002526749.html</guid>
+            <dc:creator><![CDATA[California Post]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia begins legal action against Telegram over alleged pro-terror material]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00E9AF19ECC542D37A0E41E26E4DFDE8962E4337F7D060AB7BFA1C9488A8C58C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2Fd039fc3fc69b15d932b92314d8438b15" alt="" /></p>Australia's internet regulator said on Thursday it had begun legal action ‌against messaging platform Telegram over alleged failings to tackle ‌pro-terror posts.  The office of the eSafety Commissioner said it had begun action ​after Telegram failed to remove videos of terrorist executions and mass shootings.  "This case concerns content linked to some of the most notorious acts of known extremist violence in recent history, ‌including material associated with ⁠the Christchurch and Buffalo terror attacks," eSafety Commissioner Julie Inman Grant said in a statement.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-begins-legal-action-against-002328152.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-begins-legal-action-against-002328152.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain evacuates villages as wildfire breaks out near Portugal border]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8DA6E0C01299D6AB454D78C2910865AEEAB0CF05C2339591011FB3004974360/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1c8c3737044e4d0df36a345fc95fad81" alt="" /></p>Spanish authorities evacuated 12 villages on Wednesday evening after a major wildfire broke out in a national park on the border with Portugal, while Prime Minister Pedro Sánchez warned of an extremely tense wildfire situation. The blaze erupted near the municipality of Fermoselle in the Arribes del Duero National Park in the north-western region of Castile and León.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/spain-evacuates-villages-wildfire-breaks-001828972.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-evacuates-villages-wildfire-breaks-001828972.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran launches renewed missile attacks as US and Saudis strike Tehran-backed militias in Iraq]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8E22E95AA3059E624FA627CC2C186531E607E567181062E89CB22E66DAC7A73/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2Fbfa05aebe4221d2818e6347645af7952" alt="" /></p>Iran launched missiles at U.S. forces and Jordan while the U.S. and Saudi Arabia conducted retaliatory airstrikes against Iranian-backed militias in Iraq, significantly escalating tensions in the Middle East.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-launches-renewed-missile-attacks-230137312.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-launches-renewed-missile-attacks-230137312.html</guid>
+            <dc:creator><![CDATA[WISH-TV]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japanese population below 120 million for first time in decades]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED5431D070E27B93DA92FA95AB4C4B4D15F86885BBD4466BB36376BB856EDA35/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb6850bea67e7bba672c4c612a28abb1a" alt="" /></p>The number of Japanese people living in the country has fallen below 120 million for the first time in 42 years, government data showed Wednesday, as the nation confronts a low birth rate and an ageing society.Data in June showed that Japan's fertility rate fell again last year to a new record low, underscoring the demographic crisis gnawing at the world's fourth-largest economy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/japanese-population-below-120-million-223210655.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japanese-population-below-120-million-223210655.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Thu, 30 Jul 2026 01:44:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Washington hikers' Banff grizzly video in Canada could mean a $25,000 fine over off-leash dog]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7A5A77081CF3CC84484CB890F46427537986AFFC013030043090123F05108EC6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa87859826c062c42bfb96fc70c6d5a88" alt="" /></p>"The safety of them, their pets and other people is far more important than getting that video."]]></description>
             <link>https://www.yahoo.com/news/world/articles/washington-hikers-banff-grizzly-video-233700598.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/washington-hikers-banff-grizzly-video-233700598.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +108,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4DC73D96EFB8FDB3856F8474FD67A3B567D5A66AA34EB78552E77F6D1FCAA596/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9a86efc5be9e744b8ea200059a36b724" alt="" /></p>Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudi-arabia-seeks-international-coalition-233426334.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-seeks-international-coalition-233426334.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +115,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A272E721A69858A9CCB4A560CA1856251BDC4E58D3B05F929E0B6FC504FE89C5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fe4869b834ee1b25f8fe4628983460c44" alt="" /></p>Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iraq-calls-saudi-us-attacks-231015271.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iraq-calls-saudi-us-attacks-231015271.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +122,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB1C009B4FC3025480901C4D57D5C305749828264E5C30B992713E0A41F86E4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2F5e8e23c2bd836939e626a3746abdc40e" alt="" /></p>The capital has been plagued by a cost of living crisis, slower pay growth, and higher levels of unemployment than other parts of the country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/londoners-leaving-droves-230239890.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/londoners-leaving-droves-230239890.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +129,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/223D5BB85FEBB96AA45476C69CFDAA4E84EF3A6175EA9182854E5351AABE97C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fd701af21b19f106715af5db8ad76b556" alt="" /></p>China is closing the satellite gap with the US, as Beijing battles Washington to become the world’s leading space power.]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-china-space-race-intensifies-225259002.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-china-space-race-intensifies-225259002.html</guid>
-            <dc:creator><![CDATA[Semafor]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +136,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indias-cjp-protests-why-tech-225022182.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indias-cjp-protests-why-tech-225022182.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +143,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E9A7A98299A991A2D2098FF7E66B3CF3DC946C22C5CEBE29514ACDCCAE6D4A5E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F59b58dc34db1e3ca9241c91da53ca067" alt="" /></p>Ukraine claims Russian air defenses destroyed a $50m Su-57 after hackers allegedly infiltrated Moscow's own military network during the operation.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-50m-su-57-crash-211000050.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-50m-su-57-crash-211000050.html</guid>
-            <dc:creator><![CDATA[TechRadar]]></dc:creator>
             <pubDate>Wed, 29 Jul 2026 23:55:12 GMT</pubDate>
         </item>
         <item>
@@ -6955,83 +7036,6 @@ The wildfires have forced the evacuation of more than 250,000 people in total, 
             <link>https://www.yahoo.com/news/world/articles/16-years-caribbean-thoroughbred-aftercares-205321457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/16-years-caribbean-thoroughbred-aftercares-205321457.html</guid>
             <pubDate>Sat, 25 Jul 2026 02:26:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Venezuela notifies UN of withdrawal from ICC, alleging 'bias']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3FFA06DDD0902CE4CB3F91C708F90A40CB4A9C616488CFB84AE06CB0116F0F71/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5ff7bf594a7ddc6f53e92019233f0522" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/venezuela-notifies-un-withdrawal-icc-182452479.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/venezuela-notifies-un-withdrawal-icc-182452479.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: FAKE Video Shows A Wedding Party Fall To The Street When A Balcony Collapses -- It Is AI-Generated]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7CD452976FF6A57199FAA27A6D1EAF8A2CA939905D74F3A6639E42BF3F96B9C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Ff914473434355fcb4640d8487659c45c" alt="" /></p>Does a real video show an incident where a wedding party dancing on a balcony fell to the street when the balcony suddenly collapsed? No, that's not true: The video posted on Instagram as early as January 28, 2026, has...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fact-check-fake-video-shows-234528147.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-fake-video-shows-234528147.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia strikes Houthi military sites in Yemen, coalition says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80D243354BA18EB74CCB28250E06079D332D0331D0AA298011F1DCD49DE68373/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2472846ce3da046ad887e90104287cfa" alt="" /></p>The Saudi-led military coalition said it had carried out strikes in Yemen on Friday in response to an attack on a Saudi-flagged ship. Coalition spokesman Turki al-Maliki said the strikes targeted "legitimate military objectives" belonging to the Houthi militia in the Yemeni province of Hodeidah linked to threats against shipping in the Red Sea.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/saudi-arabia-strikes-houthi-military-233409587.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-strikes-houthi-military-233409587.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli military ups pressure in West Bank as settler violence rises]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4CB4EBAA268784F1D60F0520642A6FDFBA51F0E916E38B78A9452029F3EB95E7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F39762baa739f3404d59d52e4febbcf3d" alt="" /></p>The Israeli military is launching a major operation in the occupied West Bank after a clash between settlers and Palestinians left six people dead.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-military-ups-pressure-west-230807404.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-military-ups-pressure-west-230807404.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hawaiian Monk Seal Smacks Snorkeling Tourist at Hanauma Bay in Viral Video]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/804095F52B6A783575CB9ABD6E2A91E36F7D483981A9AD648C3A87597B3492B4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsurfer_magazine_140%2Fb35a2da68c23502986a29b8f8b3aff77" alt="" /></p>A snorkeler gets a sudden lesson in ocean etiquette from an endangered Hawaiian monk seal.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hawaiian-monk-seal-smacks-snorkeling-203401228.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hawaiian-monk-seal-smacks-snorkeling-203401228.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi-led coalition strikes port city in Yemen after Houthi attacks on shipping]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1E7B633AE578BA250544C6B88813148DAE8948B9A8B78BC082AFB39E66524D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2F3008affc8bc169f78f32ea0fdcf44ef9" alt="" /></p>Saudi Arabia retaliated against Houthi rebels by striking the port city of Hodeida in Yemen following attacks on Saudi shipping, amidst escalating military conflicts between the U.S., Iran, and their respective allies across the Middle East.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/saudi-led-coalition-strikes-port-194819843.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-led-coalition-strikes-port-194819843.html</guid>
-            <pubDate>Fri, 24 Jul 2026 23:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lula leads Flavio Bolsonaro in Brazil election poll]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7D1A1775FF628C429414AA3CF23FC9F39D023436E15888C32D90CB29B910BEEB/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ffe415e46094faf782d49fce0a3c78b74" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/lula-leads-flavio-bolsonaro-brazil-221830610.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lula-leads-flavio-bolsonaro-brazil-221830610.html</guid>
-            <pubDate>Fri, 24 Jul 2026 22:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ICC chief prosecutor ousted over sexual misconduct allegations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3219EC15FB99CB9D1CC778A63A67FC9321F01FED7F3908C6AB343404950882E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F6ae44f18093eebb337a6c1738a3bf819" alt="" /></p>Chief prosecutor Karim Khan was ousted from the International Criminal Court after a months-long investigation into accusations of sexual misconduct.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/icc-chief-prosecutor-ousted-over-221853031.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/icc-chief-prosecutor-ousted-over-221853031.html</guid>
-            <pubDate>Fri, 24 Jul 2026 22:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazil's government says it is working with Peru to protect border Indigenous lands]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2AE18E6C8B2EEF86FA3E320163CE1E840B7DD60E0DA98D3B78E90A55308127C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F14042c9a581edc31b0beb072b4a6f92d" alt="" /></p>Brazil’s Ministry of Indigenous Peoples said Friday it has signed a memorandum of understanding with Peru’s Ministry of Culture to strengthen cooperation in protecting Indigenous territories, particularly those of isolated peoples along the border between the two countries.  The agreement, which the Brazilian government said is expected to be published in the coming weeks, has been under negotiation since 2024.  The announcement comes after a group of Ashaninka Indigenous leaders began meetings with federal officials in Brasilia, Brazil's capital, seeking urgent protection for their territory.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/brazils-government-says-working-peru-215917853.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/brazils-government-says-working-peru-215917853.html</guid>
-            <pubDate>Fri, 24 Jul 2026 22:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rebel order of Orkney monks to consecrate new bishop without Pope's permission]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The Bishop of Aberdeen said the ceremony was "spiritual suicide" for all those taking part.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rebel-order-orkney-monks-consecrate-214423947.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rebel-order-orkney-monks-consecrate-214423947.html</guid>
-            <pubDate>Fri, 24 Jul 2026 22:54:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On the Line: Social Audits Are Failing Pakistan’s Garment Workers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E2C736C72E0B9DD8A611AB4EF70CCCFED4913738C280E4E9E7B56C2D6CE3D26/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2F86779577f8cf56175411e9d689e0ee5e" alt="" /></p>Also in this edition: Factory fires keep erupting, extreme heat is costing India’s informal workers billions in lost wages, another factory on the Thai-Cambodian border closes, and how to make sure Section 301 tariffs work.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/line-social-audits-failing-pakistan-213339198.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/line-social-audits-failing-pakistan-213339198.html</guid>
-            <pubDate>Fri, 24 Jul 2026 22:54:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
