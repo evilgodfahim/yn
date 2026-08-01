@@ -4,16 +4,127 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 20:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 21:22:20 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Australia combines modern tech and Indigenous knowledge to fight fire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1DEF064EBAA63930B0CCF4A7BB60AD94EE0A5CD6921F06CF75D92954328D7849/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2922297d3fb2995b3cb9f534283739e9" alt="" /></p>As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-combines-modern-tech-indigenous-210347977.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-combines-modern-tech-indigenous-210347977.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police say 13 killed as small plane viewing Nazca Lines in Peru crashes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0648690806BF144E45C02DE6A737D1A98AD6293FD34EE87CBF7F4BE59AB2BDE2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd283bae73c65749536354ab37a2884d5" alt="" /></p>Those killed included 11 passengers and two pilots flying over the famous archeological site, recognised by UNESCO.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/police-13-killed-small-plane-205704685.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-13-killed-small-plane-205704685.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia terrorist attack injures 11, kills police dog]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A96CDA1919946B0D0F42B487BD6742AAD0CF6D680D3103FB351DD04621CF17B3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F98c9d90c1763d72305de772ed791d2a3" alt="" /></p>A truck exploded outside a National Police base in Colombia on Saturday, injuring 11 people and killing an 8-year-old police dog named Gorda.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombia-terrorist-attack-injures-11-205502849.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-terrorist-attack-injures-11-205502849.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explosion in Moscow leaves at least 3 dead, 21 injured]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE6445EFED637ADBC6F32DEA824493CD8A11C3269453161FA2034A0FE444A05A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F5fe2a1fce5c17de1e5d08e74c372f567" alt="" /></p>The explosion appears to have occurred near Kudrinskaya Square.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/explosion-moscow-leaves-least-3-205500448.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/explosion-moscow-leaves-least-3-205500448.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tourist plane crashes in Peru, killing 13]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6BE774B5915E51A43F68429997481971F4732491214B77847A1C2E545F0EB040/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb9d59642ae5214f263d9182d36b293fa" alt="" /></p>The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourist-plane-crashes-peru-killing-202233658.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-plane-crashes-peru-killing-202233658.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most Germans expect little from coalition government for rest of year]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F11C84C3F5A26D5F0A77EAE8F5E635BBA66C3574203F529AB516951190470D30/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F48057343392411bd9dd2300eb8ee8ae7" alt="" /></p>A large majority of people in Germany do not expect much from the federal government following the Cabinet reshuffle carried out by Chancellor Friedrich Merz, according to a poll published on Saturday. Some 65% said they did not expect the coalition of the conservatives and Social Democrats to implement any major reforms this year, according to the representative survey conducted by polling institute Insa for Sunday's edition of the Bild tabloid.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/most-germans-expect-little-coalition-204821282.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/most-germans-expect-little-coalition-204821282.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighting breaks out in western Tigray as Ethiopia and TPLF trade blame]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D13F8CABF7F55D67286A5FC477E387B95F2DFDECB0E62E3DF488010BEA0D342F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcb5b9fff643f92c7615e0455bf706d04" alt="" /></p>Clashes near Sheraro mark one of the most serious threats yet to the fragile 2022 Pretoria peace deal.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fighting-breaks-western-tigray-ethiopia-203841758.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fighting-breaks-western-tigray-ethiopia-203841758.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia driver pleads guilty after claiming 'huntsman spider' caused reckless driving]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06B828D38F1D14D060F53281FC2479DA2C20B0F3F68CF3388242048DB36E671B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fe0a69ba345a460b83ca149b25acac233" alt="" /></p>"He'll almost definitely be losing his license."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australia-driver-pleads-guilty-claiming-202100602.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-driver-pleads-guilty-claiming-202100602.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After latest Russian attacks, Zelensky renews call for more Patriots]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6712238A3EF585878C05692BD9B02107BF3CFBF7BADE53102B845D6CCB7241ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F703baab14a8e41a06538c709fdddfa57" alt="" /></p>Following the latest Russian missile attacks on Kiev, Ukrainian President Volodymyr Zelensky is again calling for the urgent delivery of Patriot air defence missiles. "We need answers to this Russian terror, real answers from the world," Zelensky said in his evening video address on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/latest-russian-attacks-zelensky-renews-201912198.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latest-russian-attacks-zelensky-renews-201912198.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diocese rejects priest's claim Berlin attack was 'sign from heaven']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68F3AC298726E1A7B9E5DF79BB832A882FD94D7E00869CFC5DD57971E56829F3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe4f5da140d53d990525824660f72731f" alt="" /></p>The German Catholic diocese of Fulda has distanced itself from homophobic remarks made by a retired priest, saying they reflected neither the diocese's position nor the views of its leadership, according to a statement published on Saturday. The former priest had written a letter to the editor of the local newspaper in the central German city, the Fuldaer Zeitung, in response to the deadly attack on the LGBT+ Pride event in Berlin, known locally as Christopher Street Day (CSD), saying that all t]]></description>
+            <link>https://www.yahoo.com/news/world/articles/diocese-rejects-priests-claim-berlin-200332223.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/diocese-rejects-priests-claim-berlin-200332223.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 3 dead in explosion at Moscow restaurant]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8766F2C6B4B959931997B15AFDE03BF91347CED1083C4D07B648B546DFF7896F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fa1ff865c9096b38a67f5674f44193c0e" alt="" /></p>At least three people were killed and 15 others injured following an explosion near the Balzi Rossi restaurant in central Moscow on Saturday, according to Russian state news agency TASS, which cited the Main Directorate of the Ministry of Internal Affairs.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-3-dead-explosion-moscow-183713540.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-3-dead-explosion-moscow-183713540.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambodia unveils 7-foot statue of Magawa, the rat that sniffed out more than 100 explosives]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0C8E1EF3C56F9BA61CA9FDCC9D7AD3ED54AA5C8E85F8A57EBC1FEF3541137D8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F66f6207c72c752d6fc19794049e2e878" alt="" /></p>"He was curious, very composed and quick at work."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cambodia-unveils-7-foot-statue-194800889.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cambodia-unveils-7-foot-statue-194800889.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Restaurant explosion in central Moscow kills three, injures 15, police say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F6AA5B4A471DCCD5680F9AEACBBFB178D704CAB67D3B63C8638BC2BAE6359AC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8c591d0ca0c378ea8696327d2f03338f" alt="" /></p>MOSCOW, Aug 1 (Reuters) - Three people were killed and 15 injured in an explosion that went off near a summer restaurant terrace in central Moscow on Saturday evening, the Russian capital's police]]></description>
+            <link>https://www.yahoo.com/news/world/articles/three-killed-15-injured-moscow-182340711.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-killed-15-injured-moscow-182340711.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza officials say Israeli strikes kill seven day after deal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDCA5050DC337E7444FD4FE9FAA51061D79F7DAD06A7449E09584943022C880D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F3ed025f4716ac145de622500aaa04edd" alt="" /></p>Gaza authorities said that seven people were killed in Israeli strikes Saturday that also damaged a hospital's medical supplies, a day after Hamas said it agreed to the latest stage of a deal to end the war.The strikes come a day after Hamas said it had agreed to the latest phase in a deal championed by US President Donald Trump that includes provisions for handing over its weapons and the gradual withdrawal of Israeli forces from the Gaza Strip.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gaza-officials-israeli-strikes-kill-185515756.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaza-officials-israeli-strikes-kill-185515756.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 21:22:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ceuta trying to regain calm and return to normality 'with caution']]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDEA19B8205C155483B8C64E6D45FA042DBD0433CB00FF1AF58D2DF5F4A95CB6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F4b18dbf2ab7740441467e8a44ea31c58" alt="" /></p>Ceuta's annual festivities in honour of its patron saint, the Virgin of Africa, were cancelled on Saturday as the city grappled with the aftermath of the migration crisis. After more than 24 hours of lockdown, shops and restaurants have cautiously reopened.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ceuta-trying-regain-calm-return-192000459.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ceuta-trying-regain-calm-return-192000459.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE77F675C858D64BD9F308635A98E2B903BAD37E2399B3F72573D46A0FBA1CF9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F72c5154d339f1ff2eda5454718682072" alt="" /></p>The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.]]></description>
             <link>https://www.yahoo.com/news/world/articles/three-killed-moscow-restaurant-explosion-193413154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-killed-moscow-restaurant-explosion-193413154.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3762E8F1B6DEEC4CBF4062A0CE798F4FFCE9233D1A0BD4182D79AB2EC7214A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F52fa0e154a0af27b8083cab6f2c176cf" alt="" /></p>An ​explosion at ​a ​restaurant in ‌central ⁠Moscow killed at least three people, Russian state media ​said ⁠Saturday, ​citing ​local officials.  At least 15 people were injured in the explosion and investigators, forensic experts and emergency services were working at the scene, Russian state news agency RIA Novosti reported.  The exact number of dead and injured, as well as the circumstances of the incident on Moscow’s Kudrinskaya Square, are being established, the Moscow Investigative Committee told the news agency.]]></description>
             <link>https://www.yahoo.com/news/world/articles/3-people-killed-15-wounded-192736060.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/3-people-killed-15-wounded-192736060.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +146,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E59D829A746D025075B9D7FEBCFA1DACB88AD96DCA2FD7AA24B52A33B3C6CBE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F68fe7d467a7e7863894b3edfbef93684" alt="" /></p>Uganda’s military chief unveiled the memorial on Saturday, calling it a testament to the countries’ enduring friendship, security partnership, and mutual trust. A memorial honoring Lt.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uganda-unveils-yoni-netanyahu-memorial-192504994.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uganda-unveils-yoni-netanyahu-memorial-192504994.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +153,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93A9907D2190763ED70A3304D36A057B91EC9F8E2AD7B66FEE3F0BB57292BE99/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc8a2e5549ea437701c901a1f2bc3d87b" alt="" /></p>At least three people have been killed and 15 others wounded in an explosion at a Moscow restaurant, Russian news agencies TASS and Interfax reported on Saturday. A gas leak was suspected to be the cause, according to unconfirmed reports on social media.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-three-dead-15-wounded-184819513.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-three-dead-15-wounded-184819513.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +160,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5AA21FC6B87BB020A4B0166D6A31819E15195DFE606842F59CF409ABBAE8DC54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F03334b149baccdb20b3d1d4588f29aa4" alt="" /></p>BOGOTÁ, Colombia (AP) — Colombia’s government on Saturday blamed the nation’s largest remaining rebel group for an explosion outside a police base that injured 11 officers and killed a police dog.  The attack took place early Saturday in Cucuta, a city along Colombia’s border with Venezuela, where drug gangs and rebel groups have long fought for the control of smuggling routes.  Gen. William Rincon, the director of Colombia’s police, said the blast came from a truck that had been left outside a building that serves as the headquarters for police in Norte de Santander Province.]]></description>
             <link>https://www.yahoo.com/news/world/articles/truck-explodes-outside-colombia-police-182944101.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/truck-explodes-outside-colombia-police-182944101.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +167,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CCC43D28DEB70B46816F8E894C1187FB7F38BEE8973F63AA81AEAE050BAF119F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F02377e1b352535a484144223487962ac" alt="" /></p>British warships are deployed twice a week on average to shadow Russian navy vessels and sanctioned oil tankers, new figures have revealed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/royal-navy-deployed-twice-week-180000087.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/royal-navy-deployed-twice-week-180000087.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +174,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A7129043B84785FF913EE5F22F915C24389F6AAD308884F0A251BCE1BA2064DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F2692ee7d0242bb6123adaef924a577b9" alt="" /></p>Famed British Nepali climber Nirmal "Nimsdai" Purja was among those who died in an avalanche in Pakistan on Thursday. Local police said a 10-member international mountaineering team departed for a Broad Peak expedition through Karakoram Tours, Amazing Tours and Blue Sky Trek & Tours Company on July 30.]]></description>
             <link>https://www.yahoo.com/news/world/articles/world-renowned-mountaineer-nirmal-nimsdai-175004988.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-renowned-mountaineer-nirmal-nimsdai-175004988.html</guid>
-            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +181,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EE8106F25AAB60C951CF34ABC745FD99C57E179C8615C4AB207CE6E3D9444814/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fa13d15839b5bdeea8b7a9a1d2e50ca0c" alt="" /></p>"The Iran and Ukraine wars may be connecting."]]></description>
             <link>https://www.yahoo.com/news/world/articles/welcome-mega-war-mideast-european-172446111.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/welcome-mega-war-mideast-european-172446111.html</guid>
-            <dc:creator><![CDATA[Fortune]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -86,7 +189,6 @@
 rlp/gv]]></description>
             <link>https://www.yahoo.com/news/world/articles/hundreds-minors-sleep-rough-ceuta-172110653.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-minors-sleep-rough-ceuta-172110653.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 20:08:19 GMT</pubDate>
         </item>
         <item>
@@ -6929,104 +7031,6 @@ The survey was conducted between December and July,]]></description>
             <link>https://www.yahoo.com/news/world/articles/investigators-apparent-claim-responsibility-berlin-131732940.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/investigators-apparent-claim-responsibility-berlin-131732940.html</guid>
             <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Macron says fires are warlike crisis for France]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E5C4F348DDE15BBFF0928A2426857C43BE3C7969D6D7E3F3F912D2D001CAD5CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fd838870c705e7b5484ee9574719e64ba" alt="" /></p>More than 250,000 people have been evacuated, with fires threatening the outskirts of Bordeaux and raging through popular tourist areas and wine regions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/macron-says-fires-warlike-crisis-131559539.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-says-fires-warlike-crisis-131559539.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPS officer arrested for allegedly aiding fugitive in Jerusalem murder case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06F23602428D9ED1561653EE4D8C860E5EED0B4075193E139D193C5DD0F72667/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F8bc6f5401b982cd23ee79353ac5e2a5b" alt="" /></p>The 34-year-old officer from Hod Hasharon is suspected of maintaining a personal relationship with an inmate held at the central Israel prison where she serves. An Israel Prison Service officer was arrested on Tuesday on suspicion of helping obstruct the investigation into the murder of 19-year-old Benayahu Razi in Jerusalem earlier this month, police and the IPS announced.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ips-officer-arrested-allegedly-aiding-131518420.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ips-officer-arrested-allegedly-aiding-131518420.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anglican Church leader visits slave trade project on Africa tour]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0899669EC2156CB578D724B9911F76F617CF7F5F6CF46189153DE1E7EFD2F0A8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb84609b053027aa988eb44ae4353b1b6" alt="" /></p>The head of the Church of England Sarah Mullally has visited an Anglican-led project in Ghana on the transatlantic slave trade and met the country's president as part of an African tour.Mullally, the archbishop of Canterbury, met Ghanaian President John Mahama on Monday on her first trip to Africa as leader of the world's Anglican Christians in a visit that will include stops in Cameroon.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/anglican-church-leader-visits-slave-131247103.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anglican-church-leader-visits-slave-131247103.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Over 30 arrested in crackdown on smuggling of illegal West Bank immigrants]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D0CC130B0AFA812FDD2D40E0625CA5D236F697685E0E99343283B66CF410785B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F42e5eb49975fce423f91fa1f60aeed11" alt="" /></p>Also on Sunday, 11 illegal immigrants were arrested after attempting to enter Israeli territory by breaching a border checkpoint on the perimeter of Jerusalem. Thirty wanted individuals suspected of being involved in the smuggling of illegal immigrants into Israeli territory were arrested during large-scale IDF operations in the West Bank on Sunday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/over-30-arrested-crackdown-smuggling-131200106.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/over-30-arrested-crackdown-smuggling-131200106.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany again deports Afghans to Kabul under agreement with Taliban]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9B7119FE5057ECC139370B615C971AFF6361F39AAC88B173376525CF769AD2E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3d83217edbacf6e98abbc65bf0e3c29f" alt="" /></p>Germany has once again deported Afghans to their home country on a charter flight. The aircraft took off from Leipzig/Halle Airport in the early hours of Tuesday morning, dpa has learnt.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-again-deports-afghans-kabul-130327327.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-again-deports-afghans-kabul-130327327.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Life sentence sought in deadly Munich car attack trial]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3609D8E8A53CE8D4DBB2C898F86AE88AF3916330C39B081C90F90C5793B3A1C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb01ff1c89546e0eb2082fe07c1c26ab1" alt="" /></p>German prosecutors on Tuesday demanded a life sentence in the murder trial over last year's deadly car attack on a demonstration in Munich. "The act was - and this must be stated plainly - designed to destroy human lives," one of the two prosecution representatives told the Munich Higher Regional Court.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/life-sentence-sought-deadly-munich-130327985.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/life-sentence-sought-deadly-munich-130327985.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Poodle pulled out of Venezuela earthquake rubble after 29 days]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B467F4D95B9CFC080AF0D74D0F3EA0E59A697BAC6E2161A9DD1FDF793A9552BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fad57d6539944cc13351751d386b5b119" alt="" /></p>A poodle has been found alive after being trapped under rubble from the Venezuelan earthquakes for 29 days.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/poodle-pulled-venezuela-earthquake-rubble-125250716.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poodle-pulled-venezuela-earthquake-rubble-125250716.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU summoned Russian envoy over Romanian airspace incursion]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35C3805819500C4D3370C0DCD0DC45EDDCE9E18914C6F38C383C6F87FCE05F12/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff328acda5e86c566a7d6deb9d8767571" alt="" /></p>The European Union has summoned Moscow's diplomatic envoy to Brussels in response to a Russian drone entering Romanian airspace last week. "We conveyed our strong condemnation of the intentional violation of the airspace of Romania," said a spokesman for EU chief diplomat Kaja Kallas on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/eu-summoned-russian-envoy-over-124919893.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-summoned-russian-envoy-over-124919893.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Criminal gangs increasingly lure people to work in online scam centers, UN migration agency warns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/02C3866723F8DDA0B7ACC9FDF2B774CF049B48C0D8303CB764964E25E27982F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8e50c2e49af8731cbcaad36b544bdd8a" alt="" /></p>The U.N.'s migration agency is warning that criminal networks have been trafficking hundreds of thousands of people — many of them educated English speakers — to work in online scam centers, and the caseload is growing.  The International Organization for Migration says victims are often lured by fake job advertisements — mostly through social media — promising work abroad, only to get locked up, have their identity documents seized, and forced through violence, threats and “debt bondage” to participate in the online scams.  “We’re seeing so many more of these cases emerge right now," IOM Director-General Amy Pope told reporters in Geneva on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/criminal-gangs-increasingly-lure-people-124557015.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/criminal-gangs-increasingly-lure-people-124557015.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Majdal Shams dedicates memorial park honoring 12 children killed in rocket attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DF3F0280BB63E35DD4A80085E2A7F35774271556AC2A8BF96397EC25A8600A6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fe06ce97e775ce41bc54ab4ec123ea9e4" alt="" /></p>In addition to the 12 boys and girls, ages 10 to 16, who had been pronounced dead, thirty-four others were wounded as a result of the strike. A memorial ceremony was held in Majdal Shams on Monday evening to commemorate the 12 victims of the rocket fired at the village from Lebanon.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/majdal-shams-dedicates-memorial-park-123631150.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/majdal-shams-dedicates-memorial-park-123631150.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia to build first new oil refinery in 60 years after petrol shortages]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9B3C8493A228AF9E6501FF16A1BA32552032292198765BE388F8855ACC1BC3C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F1f98ab3e41bce884417480dd7deeba02" alt="" /></p>Australia is planning to build its first new oil refinery since 1965 after petrol stations ran dry earlier this year.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-build-first-oil-refinery-123416440.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-build-first-oil-refinery-123416440.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Photos Show the Destruction in France and Spain From Ferocious European Wildfires]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C97E136E7028DB71D638C274623B4BA5F9A27682D436D6C14008590016D49956/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F7b273133573a410ea8fa9202de41a511" alt="" /></p>French President Emmanuel Macron has said the wildfire situation is the "toughest since the Second World War."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/photos-show-destruction-france-spain-121645964.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-show-destruction-france-spain-121645964.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Widespread damage from magnitude 7.1 earthquake in south-west Japan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4AEE6A20600A505EA40C27C17C87C31066D3716BF0BDAA5E4E4A7F44C38D260/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd26d9936550f651e2e17959ce3a05779" alt="" /></p>Some reports say there was an explosion at the Aeon Mall in Kumamoto, following the magnitude 7.1 earthquake.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/people-trapped-inside-japan-shopping-102931852.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/people-trapped-inside-japan-shopping-102931852.html</guid>
-            <pubDate>Tue, 28 Jul 2026 12:48:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Law student charged after bomb discovery in car will be bailed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D13D8DCB4D88027A9760FC0995254106A4CDFAA413ED776329CFCCB7F6872CFE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc6e5721ff8e7ab3e9a449c30b28c85c1" alt="" /></p>A court heard on Tuesday that a €15,000 (£12,800) independent surety has been approved for Isobella Perrie Sullivan.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/law-student-charged-bomb-discovery-123412312.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/law-student-charged-bomb-discovery-123412312.html</guid>
-            <pubDate>Tue, 28 Jul 2026 12:48:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
