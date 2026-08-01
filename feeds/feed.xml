@@ -4,16 +4,111 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Aug 2026 14:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Aug 2026 15:54:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
+        <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5BE22EEA2BE436470B4FC0AE221B858B665BFD05A256283F78060E6277B0D3CE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4106bad2c7edddc75a0bf8b8ae62e674" alt="" /></p>Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-ex-sri-lanka-officials-153415717.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-ex-sri-lanka-officials-153415717.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Group of Teens Tried to Use Google Maps to Hike a Grueling 17-Mile Mountain Trail. Here’s Why It Was a Disaster]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD36869CD1F87405A8E9FFBED2668239767BBD15FF6F5A55D4B816C1A0CBF949/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F62c360feaad974bba54ea1ec200e5131" alt="" /></p>“Please don’t let Google Maps convince you that a serious hike is just another afternoon walk,” a rescue organization warned]]></description>
+            <link>https://www.yahoo.com/news/world/articles/group-teens-tried-google-maps-153000009.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/group-teens-tried-google-maps-153000009.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia's deforestation rises slightly as Amazon forest loss holds steady]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D9DC2220752880D6F548605735329ABBE936707D4EE73F63AEDEE6C9B2DCA995/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F178a5214e5174ccf49cfca31a1dc20e4" alt="" /></p>Colombia’s government said nationwide deforestation increased slightly in 2025 but that it had still surpassed its four-year target to reduce forest loss under President Gustavo Petro, with pressure on the Amazon remaining largely unchanged in the administration’s final year.  The Environment Ministry and IDEAM, the country’s meteorological agency, said late Friday that Colombia lost 119,483 hectares (295,000 acres) of forest in 2025 — about the size of Los Angeles.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombias-deforestation-rises-slightly-amazon-152607151.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombias-deforestation-rises-slightly-amazon-152607151.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza's civil defence, medical sources say Israeli strikes kill two]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/841A4096299DD0386EC74354D97ACE3C8756AAB6DAA575339DD69FD5F6F17A30/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe4f9163b79e842ebb23c2455aadf8c02" alt="" /></p>Gaza's civil defence agency and medical sources said Israeli strikes in the Palestinian territory on Saturday killed two people and significantly damaged a hospital's medical supply warehouses.For its part, Gaza's civil defence agency reported "extensive damage" on a storage facility for what it said were medicines and medical supplies belonging to Al-Aqsa Hospital.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gazas-civil-defence-medical-sources-152427658.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gazas-civil-defence-medical-sources-152427658.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three killed, several injured in latest Israeli attacks on Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/61AE0DF3FBAAFC5C70303AFC953C343AC79B663415EC89343FAB53536C146E2B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F507bfa3dc7920cba95afb783a6bf7eaa" alt="" /></p>Israel's army is continuing its attacks on targets in the Gaza Strip, Palestinian sources said, adding that three people were killed and several injured on Saturday. "The targets of the two attacks were terrorists," an Israeli army spokesman said on request in the afternoon.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/three-killed-several-injured-latest-151827674.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-killed-several-injured-latest-151827674.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pride march draws hundreds of thousands in Germany week after attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C12533AA448124A697A93EDFE09C526CFC706F497AC93B4CC7B89836DC1FF552/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F6147498fa6d86b094174d3bd4dfbface" alt="" /></p>Some 300,000 people took part in a Pride march in Germany's northern city of Hamburg on Saturday, a week after a jihadist attack on a similar march in Berlin left one dead and several dozen injured.Both police and march organisers put the turnout at around 300,000.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pride-march-draws-hundreds-thousands-145358422.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pride-march-draws-hundreds-thousands-145358422.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[11 injured in Colombia bombing days before presidential inauguration]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A3102537CB52931CE398D95D70AD577ED06324FF43C2456EB916CC4FD9DB8F1C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff6a4edf94c24d3f17ab615ee48ec6c70" alt="" /></p>At least 11 people were injured Saturday when a truck packed with explosives detonated next to a Colombian police station near the border with Venezuela, six days before President-elect Abelardo de la Espriella's inauguration.De la Espriella's inauguration will involve one of the largest security deployments planned for the ceremony, with around 11,000 soldiers and police officers carrying out operations on land, at sea and in the air.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/11-injured-colombia-bombing-days-143505105.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/11-injured-colombia-bombing-days-143505105.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Army faces ‘woeful’ tank shortage]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0280A8758F503472B5485B376DDE67FB16E6FA5CE3D4FE7AE33723590ECCAD55/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9dd0b0203cb1b11579235e5e69186ce5" alt="" /></p>The Army is facing “woeful” shortfalls in the number of new tanks and armoured vehicles it will get, a former defence chief has warned.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/army-faces-woeful-tank-shortage-142944688.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/army-faces-woeful-tank-shortage-142944688.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine only able to intercept one of 27 Russian missiles aimed at Kyiv]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA97E44BC337232809CD1E9C5B2AB76CF336EE63A794408B69332411BAA4728E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6a9a93984544aab96d3106b4001942b6" alt="" /></p>Russia killed nine people in a ballistic missile attack on Kyiv on Saturday, prompting a new plea from Volodymyr Zelensky for more interceptor missiles.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-only-able-intercept-one-142838359.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-only-able-intercept-one-142838359.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palestinians in Gaza hope Hamas will disarm but fear Israeli forces won't withdraw]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/532445D8A3D7AFF0EA60D683E0BF7AADD8746521F03CB3059319AB30CFA0404A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F25a3c86285976d1f6e8acccb5450acb1" alt="" /></p>For Palestinians in Gaza, President Donald Trump's announcement that Hamas had agreed to disarm was a small sign of hope that Israel's attacks might end, allowing them to rebuild their lives and what remains of their homes.  Most of Gaza’s 2 million Palestinians are still displaced or live in tent camps, where poor conditions and overcrowding have led to rodent infestations and outbreaks of infectious diseases such as chickenpox.  Israel and Hamas signed a U.S.-backed ceasefire plan last year that ended major combat operations, saw the return of Israeli hostages and allowed for an increase in humanitarian aid to the Palestinian enclave.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/palestinians-gaza-hope-hamas-disarm-142740719.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinians-gaza-hope-hamas-disarm-142740719.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magnitude 4.5 earthquake injures at least 2 dozen people in Italy, causes buildings to collapse]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D77B42C18AA7D5ED6FF8E961139CDE6EEFE7E7ED799E5E6B20EDAA5576B84E3E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F454255ff80253a6df34a85a9e83af1fc" alt="" /></p>A magnitude 4.5 earthquake rocked southern Italy near Naples on Friday afternoon, injuring more than two dozen people.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/magnitude-4-5-earthquake-injures-133119701.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/magnitude-4-5-earthquake-injures-133119701.html</guid>
+            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Opinion - The Iran War has reopened the world’s most dangerous shipping lane]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/773739D4E8B08F625B7357CAA44B7BC890539496FFCFAE18C55885486BF445FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F84e44438acd2c32e1d5c99e0f8fafc7d" alt="" /></p>That is not a regional security problem. It is a weapons proliferation and maritime terror problem with a direct line to Tehran.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/opinion-iran-war-reopened-world-130000947.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/opinion-iran-war-reopened-world-130000947.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Sat, 01 Aug 2026 15:54:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hamburg Pride returns with message of solidarity after Berlin attack]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A31E61536F6E29F84379DCE208A211B075C9BC7DD6D31B1CC2939F037FFE1C9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff1e8babdc72f9cec9c87c26cc9e75810" alt="" /></p>Thousands of people marched through the northern German city of Hamburg on Saturday for its annual Pride parade, one week after an Islamist terrorist attack on Berlin Pride left one woman dead and 31 people injured. Under the slogan "Queer solidarity.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hamburg-pride-returns-message-solidarity-141835246.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hamburg-pride-returns-message-solidarity-141835246.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +116,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6D9507144995CD53244A286DFD5134D5E6C4BE838B363BC41377ED17C6C2712/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa780fc2285a7048f833aff2622b233ac" alt="" /></p>10 of the animals reportedly showed signs of partial paralysis before dying within two days.]]></description>
             <link>https://www.yahoo.com/news/world/articles/officials-investigate-kenyas-amboseli-park-135600318.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/officials-investigate-kenyas-amboseli-park-135600318.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +123,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CAACA9282E4C6FD90992B35729740A12BD235CD5F1798D5F349352B3836AC17D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7d95a36cb8b75e4bc82672ada8b0c8e6" alt="" /></p>Migrants streamed back across the border into Morocco in small groups after spending two or three days in the Spanish enclave of Ceuta, wandering the streets with almost nothing to eat, and little welcome."Almost all" of those who entered the enclave in recent days have returned to Morocco, according to the Spanish government.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spains-ceuta-exhausted-migrants-end-134933196.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spains-ceuta-exhausted-migrants-end-134933196.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +130,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65950BF718BDFB225E9DC90831A7FB8B237BD1173748D5A280F7C82B62140064/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffa359baf7181d0f17ef36bf7a2a18b6d" alt="" /></p>A Russian ship has been sunk in the Sea of Azov following a Ukrainian attack, Ukrainian President Volodymyr Zelensky said on Saturday. Zelensky wrote on Telegram about attacks in the Black Sea and the Sea of Azov.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-ship-sunk-sea-azov-134834268.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-ship-sunk-sea-azov-134834268.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +137,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED4A2F0374535B82DB4822769D9F981B65AEC3EBA9EE74CD9DDF09905F42B769/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fea1649771104b1a9c70ef7eb5e8aa5bf" alt="" /></p>The famed Nepalese climber Nirmal Purja – who made history over the years by trekking some of the world’s highest peaks – has been confirmed dead after an avalanche struck an expedition in the Himalayas earlier this week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/world-renowned-mountaineer-nirmal-purja-124604923.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-renowned-mountaineer-nirmal-purja-124604923.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +144,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F09BFB8F416876F0454C0A16C3CF5E20EC8AACAF14490FD79FBE5F4A09677488/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F884cb6f852b773f2c0cfb91251304b7d" alt="" /></p>Authorities are yet unable to say whether the death of Elisabeth-Jane Ross is considered murder, but toxicology tests are being fast-tracked.]]></description>
             <link>https://www.yahoo.com/news/world/articles/greek-police-could-know-woman-130251531.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/greek-police-could-know-woman-130251531.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +151,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6F4581C57D38C7C65ACC0620944622AA762F61874BF892F9A0F9213C76973129/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fa4cce08d0f845e0bf1bed580cb90c5b6" alt="" /></p>Large Pride events in Hamburg and Amsterdam are underway after last week's deadly ramming attack in Berlin.]]></description>
             <link>https://www.yahoo.com/news/world/articles/europe-continues-celebrate-pride-attack-132757432.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europe-continues-celebrate-pride-attack-132757432.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +158,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/256C9C9426F8479B8F98028E9CEBE36A1837616901E04D2436EFAF4060C5B6EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F03f3f88b4ae6b7b799c59b9c4792b34f" alt="" /></p>More than 260 others are still in police custody as veterinarians and volunteers care for them at a temporary rescue center.]]></description>
             <link>https://www.yahoo.com/news/world/articles/owners-reunited-missing-pets-vietnam-132300122.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/owners-reunited-missing-pets-vietnam-132300122.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +165,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/206631322AE3B93DA9324ED9F1E21E5AADDBF93E7A870C0404BED93EDFD85935/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F7860ca4c3ec114f18c0fa081e756d9e0" alt="" /></p>Peta activists have demanded that the World Black Pudding Championships use vegan alternatives for the annual throwing competition.]]></description>
             <link>https://www.yahoo.com/news/world/articles/peta-demands-world-black-pudding-130444929.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/peta-demands-world-black-pudding-130444929.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +172,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AA37B2540F5F6ED130B7BDBE4A7B8A8CF4F0FC3BDD4B3D9000AB7375310866A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F44f348b9aef5fbb6ba14242010069f3f" alt="" /></p>Sweden has introduced tougher penalties for gang-related offences, allowing courts to impose prison sentences up to twice as long as before, as the country cracks down on organized crime. Under the new law, which took effect on Saturday, gang members convicted of certain offences can face sentences up to double the previous maximum.]]></description>
             <link>https://www.yahoo.com/news/world/articles/sweden-doubles-prison-terms-gang-130328421.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sweden-doubles-prison-terms-gang-130328421.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +179,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B13C8F46693D864D031D2D96BE1987689945AAA1A6C30C1FD4449FFC4E297A8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8c8158def7ee30c322843bfab1c2b2dc" alt="" /></p>Kuwait said on Saturday it had intercepted multiple drones launched from Iran, the latest in a series of attacks that targeted the US-allied Gulf country during the Middle East war. The Kuwaiti army said it had detected since dawn on Saturday "hostile" drones within the country's airspace and blamed the attack on Iran.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kuwait-says-iranian-drones-targeted-130328199.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kuwait-says-iranian-drones-targeted-130328199.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +186,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21399B4613C2A5D98167E8AFC01F51B822B63380F1A3A31460963B58E3080388/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F54a22b3aad62756fcdfe3cab6bd6c702" alt="" /></p>Authorities ended a massive dayslong search-and-rescue operation Saturday at a collapsed shopping mall in southwest Japan following a powerful earthquake that killed 34 people earlier this week.  The prefecture’s main challenge is the lack of fresh water affecting nearly 70,000 homes, and fuel shortages as Japan suffers sweltering heat, stoking fears of heat-related illness.]]></description>
             <link>https://www.yahoo.com/news/world/articles/officials-end-five-day-rescue-125731828.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/officials-end-five-day-rescue-125731828.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +193,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50285D52FCA74C31CF15B76299C6D7613C2FA69D5414949181E25489BA379ACC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fae475773ae4935feabb4310bf432e707" alt="" /></p>Under the watch of Spanish soldiers and police, the last remaining young migrants continued crossing back over the border to Morocco on Saturday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/situation-ceuta-almost-entirely-reversed-120320398.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/situation-ceuta-almost-entirely-reversed-120320398.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +200,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8D1FE93892EBA6B8BA03933FD89986E3E5B3AC38B55E1090416121C7B8116CAB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fbda3ef303fa1427b92cb4b25d3cb1863" alt="" /></p>Ukrainian President Volodymyr Zelensky renewed his plea for Western air defenses following a deadly overnight Russian attack, hours after US President Donald Trump backed away from a public pledge to allow Ukraine to manufacture Patriot interceptors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-warns-air-defenses-being-105816085.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-warns-air-defenses-being-105816085.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 01 Aug 2026 14:42:51 GMT</pubDate>
         </item>
         <item>
@@ -6944,90 +7026,6 @@ The survey was conducted between December and July,]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4A60A4EA7766E2B3C91810D3E23B06CEC76CF015F367ECE9A5954DA139C8E5EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F0ddb2c37758dd56acec6ca827ca6c69c" alt="" /></p>The conflict will eventually subside. But without action, the vulnerabilities it has exposed will not, write Michael Adu Okyere, Brian Mukhaya, and David W. Yellen.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-war-exposed-africa-biggest-100003919.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-exposed-africa-biggest-100003919.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Preparatory works commence for $787m Macquarie Point stadium in Hobart]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F19A32D443EF7B7D123444A4DC8F410FCC123CE3D4FA3B46A94DE54535ACCC3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2F06299e4fe99ba974cc30761f2b342a1b" alt="" /></p>MPDC is overseeing planning and delivery of the stadium project as part of the wider urban renewal of Macquarie Point.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/preparatory-works-commence-787m-macquarie-100000634.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/preparatory-works-commence-787m-macquarie-100000634.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan quake injures at least 50, disrupts power and travel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E722B1CBC9B00CF86CC83B556BADB08109C0000AAF322CA0B29B294C33FE308/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa05f291dbd68dd6fff6f4ebb744cfb5f" alt="" /></p>TOKYO, July 28 (Reuters) - A major earthquake rocked Japan's southern Kumamoto prefecture on Tuesday, knocking out power to thousands of homes, rupturing roads and injuring at least 50 people.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/major-earthquake-hits-japans-kyushu-region-081922865.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-earthquake-hits-japans-kyushu-region-081922865.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warsaw investigates Berlin Pride attack that killed Polish mother]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83BFD722DD2A398000D0E25AB0C54BA2401B63080BBF0D5B2C37FE95EB19398A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9da78bbe59124fa1ce01d1ee66c39d6f" alt="" /></p>Polish prosecutors have opened an investigation into the death of a Polish mother in a suspected Islamist terrorist attack on the sidelines of last weekend's Pride event in Berlin, the Warsaw prosecutor's office said on X on Tuesday. The investigation is being conducted on suspicion of a terrorist attack, the authority said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/warsaw-investigates-berlin-pride-attack-094835027.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/warsaw-investigates-berlin-pride-attack-094835027.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN's Guterres pushes for solution as Cyprus reaches 'moment of truth']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/483D8A51E93CF7F36090DF60E91174F4D89E395724029BC2D7A9D2134F8955D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fcc9118426b0062c452568abfc2814e6b" alt="" /></p>UN Secretary General António Guterres was in Cyprus on Tuesday to make one last attempt before the end of his term to find ways to reunify the de facto divided EU island republic. He wanted to reaffirm his "support for Cypriot communities in the search for a comprehensive & sustainable settlement of the Cyprus issue," Guterres wrote on the social media platform X upon his arrival.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uns-guterres-pushes-solution-cyprus-094833478.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uns-guterres-pushes-solution-cyprus-094833478.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola cases in Congo top 3,200, nearing record of the country's worst outbreak]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21792C843117D7877111748AF74EEACF964BC9C94957D51799E2997FA15967A5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F22c00bb5d76702423e2051e041a47bf7" alt="" /></p>Confirmed cases in Congo's ongoing Ebola outbreak have reached 3,262, its Ministry of Health said in an overnight update, nearly the same as the 2018-2020 outbreak that is the largest ever recorded in the country.  Data from the Congolese health ministry showed that 1,437 patients have died out of the 3,262 cases, in what officials have said is the fastest Ebola outbreak on record, concentrated in the eastern Ituri province.  The 2018-2020 outbreak that was recorded in Congo and neighboring Uganda lasted roughly two years, with more than 3,400 reported cases, including over 2,200 deaths, according to the U.S. Centers for Disease Control.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ebola-cases-congo-top-3-094047460.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-cases-congo-top-3-094047460.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France wildfire: Residents douse embers with water after blaze destroys 170 homes in Le Porge]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8B3F14FD3BBB7B70836169E344E0F25994D45B5477791A3EB69C8854AA1EFC0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F2906f5c002cba89b40ad0541a37121ed" alt="" /></p>Residents in Le Porge, in southwestern France's Gironde region, are working to prevent a devastating wildfire from reigniting by spraying water on smouldering forest embers. The blaze destroyed at least 170 homes, while smoke continues to rise from the scorched landscape as recovery begins.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/france-wildfire-residents-douse-embers-092836869.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-wildfire-residents-douse-embers-092836869.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jolie, Blanchett appeal for refugee protections as UN convention turns 75]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28722C81CB949A11AF3F92394646419AC9F66EDAE55D853A3BF19CB89182F4F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F89ee8c53a29c4fba5a3a18ca8749d69c" alt="" /></p>By Emma Farge GENEVA, July 28 (Reuters) - Actors Angelina Jolie and Cate Blanchett and Archbishop of Canterbury Sarah Mullally were among public figures who on Tuesday called for refugee protections]]></description>
-            <link>https://www.yahoo.com/news/world/articles/jolie-blanchett-appeal-refugee-protections-092558648.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jolie-blanchett-appeal-refugee-protections-092558648.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shocking images show scale of devastation as Assam floods death toll rises to 68]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27EA8C1FBB41165F798AAB2B9D61756E889F68ADCE89634DF4D496DAC4AF40F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F6fd9c4116dc83640be465ca6665a19b9" alt="" /></p>Flooding affects around 700,000 people across dozen districts, submerging more than 800 villages]]></description>
-            <link>https://www.yahoo.com/news/world/articles/shocking-images-show-scale-devastation-092523717.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shocking-images-show-scale-devastation-092523717.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Search for Missing Baby Continues After Mom and Toddler Found Dead Off Coast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED017C0384C385DA2039BDF85EAEF432C43B28887D1A214A436F4DF721BEFF5F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F26a78f800028f7d3268806b2b0f7f6f4" alt="" /></p>Authorities in South Australia said they “hold grave concerns” about the baby’s survival]]></description>
-            <link>https://www.yahoo.com/news/world/articles/search-missing-baby-continues-mom-091419604.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/search-missing-baby-continues-mom-091419604.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kiryat Yearim man arrested on suspicion of possessing pedophilic content]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA5C9BBF8D65DAF07991EC6629C8315DDBE778E55C29A3DCB5B6DEA4006AF930/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F7a2e90ff4eecc8ef513fefadfb40089e" alt="" /></p>Investigators searched the suspect's home under a court-issued warrant, where they arrested him and seized electronic devices, including a laptop computer and a mobile phone. A 58-year-old resident of Kiryat Yearim was arrested by investigators from the Jerusalem District Police on Monday on suspicion of possessing child sexual abuse material, Israel Police confirmed on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kiryat-yearim-man-arrested-suspicion-091048080.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kiryat-yearim-man-arrested-suspicion-091048080.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A wall through Nicosia reflects the decades-old ethnic divide in Cyprus, in photos]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E2AE039939D645DD820711A89A0CD7B5CE554E1969BE82B7BDBD5276AACFE0F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F43786b3f2dd2bd7d3f7ec9b50eeead7e" alt="" /></p>Nicosia's swanky nightclubs, bohemian cafes and crowded bars sit just steps away from guard posts, barbed wire and sandbags marking one of Europe's last frozen conflicts.  A United Nations-controlled buffer zone cuts through the Cypriot capital’s medieval center, separating breakaway Turkish Cypriots in the north from Greek Cypriots in the internationally recognized south.  Despite several crossings where vehicles and pedestrians can cross to either side, Nicosia remains Europe’s last divided capital where soldiers still stand guard on both sides.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wall-nicosia-reflects-decades-old-090610474.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wall-nicosia-reflects-decades-old-090610474.html</guid>
-            <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel's yellow line, a shifting edge of war pushing Gazans from home]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7F80D5161A367CB47432C687DA70FDF60DC774ECA7B86DF59574CE6D2D04737F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4789677559a05c6575d6edd594abd476" alt="" /></p>By Nidal al-Mughrabi and Ebrahim Hajjaj CAIRO/GAZA, July 28 (Reuters) - On a road in Gaza City's Zeitoun district, Palestinian resident Assem Dawla loaded mattresses and bags onto a truck as concrete]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israels-yellow-line-shifting-edge-090305269.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israels-yellow-line-shifting-edge-090305269.html</guid>
             <pubDate>Tue, 28 Jul 2026 10:37:19 GMT</pubDate>
         </item>
     </channel>
