@@ -4,16 +4,143 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Aug 2026 01:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 04:49:00 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Aug 2026 01:04:49 GMT</pubDate>
+        <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Landslide death toll rises in China's Gansu Province as heavy rains continue]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7BF332CE65096B44F99E620F5F763A2909B26C5C68A4C30C758B8C9E18E993F1/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F98e5b6d06a07a73649546ca233f59c6a" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/landslide-death-toll-rises-chinas-041221721.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/landslide-death-toll-rises-chinas-041221721.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Virunga Park protects people and gorillas from Ebola in eastern DRC]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EC1E5A0C895A744A23226DAE5361632CB5E5D5A0FA1F4C8C6449172CB68A8A15/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6843068d5fc5447e29d0da3a3664d72e" alt="" /></p>Health checkpoints and surveillance aim to contain the outbreak and protect endangered mountain gorillas.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/virunga-park-protects-people-gorillas-034627215.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/virunga-park-protects-people-gorillas-034627215.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tourist plane crashes near Peru’s Nazca Lines, killing 13]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2CEE24D411307B8A23F0C72DC13E7E74C31767A2D59719671E9B03B761BE3BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fad031bbb564d79c2bd5ae7889394b812" alt="" /></p>A tourist plane flying over Peru’s famed Nazca Lines crashed into a field, killing all 13 people on board.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourist-plane-crashes-near-peru-032200970.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-plane-crashes-near-peru-032200970.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black mamba turns up in homeowner's kitchen during breeding season]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE158C15C963A79A4B4B97CCDB7F07597E52654C06B9386413C47703B9D921E4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F96b467c2ca8434fe7ea9645adf30a289" alt="" /></p>Black mambas are widely regarded as one of Africa's most dangerous snakes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/black-mamba-turns-homeowners-kitchen-025700076.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/black-mamba-turns-homeowners-kitchen-025700076.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Baltic startups take aim at deterring Russia on NATO's eastern flank]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2472C9B28AFB14A50A10FEA44979ECA8EFD6E3D95F64BE573D00C1F4F670B906/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fdece3bd658d411f1fcd49f8febb98acd" alt="" /></p>When Russia launched its full-scale invasion of Ukraine, Rapolas Markevicius was managing a private equity fund in Lithuania -- a country on NATO's eastern flank that fears it might be Moscow's next target.Invest Lithuania (IL), which helps foreign firms invest in the country, said the Baltics' position next to Russia means some investors require reassurance.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/baltic-startups-aim-deterring-russia-024516538.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/baltic-startups-aim-deterring-russia-024516538.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Police suspend Yoav Eliasi over recordings claiming influence with law enforcement officers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D163F7680C9B3081C09129FC490BD46F8F951B48B00C72BFD4CE4D89AB814808/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F24d0387b5126be7a29d429719e03f6fc" alt="" /></p>Eliasi’s firearm was confiscated following the decision, and the Police Internal Investigations Department opened a review of the information revealed in the report. Right-wing activist and musician Yoav Eliasi, known as “The Shadow,” was suspended from his position as commander of a Tel Aviv District rapid response squad by Israel Police Commissioner Inspector-General Danny Levy in the latest twist to the controversy surrounding recordings of Eliasi.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/police-suspend-yoav-eliasi-over-024037813.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-suspend-yoav-eliasi-over-024037813.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 dead after small tourist plane crashes in Peru]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/76BA270CD1B4B433C4A4CB77E37007EEF12C8471EE01A45472EC4A8DC8E44F5C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F20250472276c113a93c44d3be7bbc9bd" alt="" /></p>A small plane carrying foreign tourists to view Peru's famed Nazca Lines archaeological site crashed Saturday, killing all 13 people on board, police said.Dozens of small planes operate from the airport in Pisco, handling a large volume of primarily foreign tourists hoping to visit the Nazca Lines.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/13-dead-small-tourist-plane-020657212.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/13-dead-small-tourist-plane-020657212.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E02ADAE1BAB394AECF53BC1978EC8A9EAC23024765F2A5B49D5BFB5D06B557A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F6850037b7ededa424cb53cfafd864576" alt="" /></p>Nirmal Purja was leading climbers up Broad Peak in Pakistan when a deadly avalanche struck the Karakoram expedition, killing all 10 members of the group.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/famed-mountaineer-nirmal-purja-43-015924883.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/famed-mountaineer-nirmal-purja-43-015924883.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers stunned after dog survives 120-foot cliff fall in Dorset]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/584F5246ABB0E7792E9FB87C85BD3E54DCF6A1251B64E85A62B0940BBECE8189/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F46432c180db33a55905ee203e70d27d6" alt="" /></p>A fall from that height could easily have caused serious injuries or been fatal.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rescuers-stunned-dog-survives-120-014000014.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-stunned-dog-survives-120-014000014.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman calls snake catcher after encountering venomous black mamba inside her house]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CFD612B05C86AE15A83BB9CBAC41A37815981213958325F924AD8036F3E485C7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F18731f3f1e52808dfc1cb06d47e1b126" alt="" /></p>Rats in the area may have been attracting the snake, suggesting it may have been drawn in by prey.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-calls-snake-catcher-encountering-012900247.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-calls-snake-catcher-encountering-012900247.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 Dead After Plane Carrying Tourists Crashes While Flying Over World Heritage Site]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06E12345E9B33A1C5294138307145DF18109F8A60B8F14AFC08BF6DF3BAA4B29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3536f516b525a669025150bf6858fc0d" alt="" /></p>The sightseeing flight carrying 11 foreign tourists and two crew members crashed on Saturday, Aug. 1]]></description>
+            <link>https://www.yahoo.com/news/world/articles/13-dead-plane-carrying-tourists-011516894.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/13-dead-plane-carrying-tourists-011516894.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 dead after small tourist plane crashes in Peru]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2D66AF55AE63E13C269ECB2DC5062FABBA8F1C165A73B98F06DE710CAC546B8C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa53892e39784962fb6c1efbcf6557e44" alt="" /></p>A small plane carrying foreign tourists to view Peru's famed Nazca Lines archaeological site crashed Saturday, killing all 13 people on board, police said.Dozens of small planes operate from the airport in Pisco, handling a large volume of primarily foreign tourists hoping to visit the Nazca Lines.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/13-dead-small-tourist-plane-201640575.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/13-dead-small-tourist-plane-201640575.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7959F6A71D50151514727193CB45E64B0C80049C11549E63957D5C7F6C851BA6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fddf800c1fd7c112381dafab5952df7a0" alt="" /></p>A homemade explosive device killed three people at a Moscow restaurant, and injured many more on Saturday night, Russian officials said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/explosion-restaurant-central-moscow-leaves-214542368.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/explosion-restaurant-central-moscow-leaves-214542368.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Netflix documentary star Nirmal Purja among 10 climbers confirmed dead after Pakistan avalanche]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35E592987AC46FE8B2E729C79A9C774444508622DFBFA717DA23F0B8B2EE2426/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flivenow_fox_840%2F43f809a749101a91400acaefbc8e5bb5" alt="" /></p>Renowned mountaineer Nirmal Purja and nine other climbers have been confirmed dead after an avalanche on Pakistan's Broad Peak.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/netflix-documentary-star-nirmal-purja-211420823.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/netflix-documentary-star-nirmal-purja-211420823.html</guid>
+            <dc:creator><![CDATA[LiveNOW from FOX]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climber Nirmal Purja Killed in Mountain Avalanche]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A7DE5EC5DA85F005E44031B2AA222C8F45A69D38023F014C7A313157AC3C16A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftmz_articles_672%2Fbc7164ddfb1a406f2fc7d56f1293d4fb" alt="" /></p>Nirmal Purja -- a world-renowned climber who gained fame on the hit Netflix documentary '14 Peaks'-- has died ... according to a statement from his company.  Elite Exped -- a travel agency founded by Purja and several others which takes climbers on treks up and down famous mountains -- announced the news on Instagram Saturday morning.  The company states Purja died in an avalanche on Broad Peak -- a famed mountain on the Pakistan-China border.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/climber-nirmal-purja-killed-mountain-202442524.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/climber-nirmal-purja-killed-mountain-202442524.html</guid>
+            <dc:creator><![CDATA[TMZ]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane carrying European tourists crashes in Peru, killing 13 people on Nazca Lines viewing flight]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9172BD49E6E270B0068ABEA63EAD86940C96F29BEAFF333EAD0F26DE95B88665/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9859491aa1fe79682a8a66c0fd337303" alt="" /></p>A plane carrying European tourists to view the famed Nazca Lines crashed into a field Saturday outside the Peruvian city of Nazca, killing 13 people, local authorities said.  Nazca's municipal government said the plane departed from the nearby city of Ica and was operated by Peruvian company Aerodiana.  On its website, the airline said that it has offered scenic flights over the Nazca lines for the past 14 years using Cessna Grand Caravan planes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tourist-plane-crashes-peru-killing-202116284.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-plane-crashes-peru-killing-202116284.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 02 Aug 2026 04:49:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/38B51ED7D181A6948CFF61F00A679089E8332555328A3D1015433E8B79251EB8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4ba26b15a2034877511359878713e9d5" alt="" /></p>CAIRO, Aug 2 () - Israeli airstrikes continued in Gaza for a second straight day on Sunday, killing at least four Palestinians, despite U. President ‌Donald Trump's announcement of a breakthrough in efforts to implement last year's ‌Gaza ceasefire agreement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israeli-strikes-kill-least-four-234953201.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-strikes-kill-least-four-234953201.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 01:04:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +148,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8EF788556248F5CD103181BEF57196C19277C210E76C0AF597C9E3F5FAE928A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F481027b556366afa940e15e8ee32ed85" alt="" /></p>Specialists identified the animal as an Indian rock python, a non-venomous species protected under India's Wildlife Protection Act.]]></description>
             <link>https://www.yahoo.com/news/world/articles/baby-python-hides-railway-engine-232800401.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/baby-python-hides-railway-engine-232800401.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 01:04:49 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +155,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71AFCACA43E4C8C08DA9DE59AA5E5D9146B1F57D481FE52E912528687A5F3133/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F6f74e8481ac3d668c21f7550d8500e18" alt="" /></p>Three people were killed and 15 injured after an explosion tore through an upscale Moscow restaurant on Saturday evening where local reports said a top Russian general was celebrating his birthday. The blast occurred around 8 p.m. local time at the Balzi Rossi restaurant on Kudrinskaya Square, located on the ground floor of one of Moscow’s Stalin-era skyscrapers. The restaurant is known for hosting celebrities, politicians, and members of the elite. After a flurry of conflicting reports suggesti]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-woes-mount-deadly-moscow-202516969.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-woes-mount-deadly-moscow-202516969.html</guid>
-            <dc:creator><![CDATA[The Daily Beast]]></dc:creator>
             <pubDate>Sun, 02 Aug 2026 01:04:49 GMT</pubDate>
         </item>
         <item>
@@ -6908,118 +7033,6 @@ The survey was conducted between December and July,]]></description>
             <link>https://www.yahoo.com/news/world/articles/prime-minister-tusk-condemns-violence-153325876.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prime-minister-tusk-condemns-violence-153325876.html</guid>
             <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Look: Firefighters break through concrete to rescue trapped hedgehog]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2E4189781C67F513C1AB0A4054753372525E3FB136CFA0AECE4D01006E2C2C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F7d972700a6f68d7f7c1c8aed394a0b52" alt="" /></p>Firefighters in England had to break through concrete to rescue a "wee hedgehog" found trapped in a drain.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/look-firefighters-break-concrete-rescue-152835533.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/look-firefighters-break-concrete-rescue-152835533.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Major Patrick Brook, Royal Dragoons officer decorated for gallantry in the Sultan of Oman’s army]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8D4ECF5B0B1041A46290E0DFFBA8991DCB4D85CA2289D9696ADAC2182E81746/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc092e330b2fbe40d2dea3a1a361dfb98" alt="" /></p>Major Patrick Brook, who has died aged 83, played a notable part in the defeat of a rebellion backed by Marxist and Arab nationalist revolutionary groups while serving with the Sultan of Oman’s Army.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/major-patrick-brook-royal-dragoons-151849842.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-patrick-brook-royal-dragoons-151849842.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Closed trials, public hangings: Iran executes two more protesters]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F8D3C423821981F5AF7BBC19BA25D90B5ED037AF255C36D44B422D7F55507D2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F824686b93c0ac4fa0eec68b2047254e9" alt="" /></p>At least 12 protesters were sentenced to death in a single hearing, in a closed courtroom and without clarity as to what role any individual might have played.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/closed-trials-public-hangings-iran-150532449.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/closed-trials-public-hangings-iran-150532449.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laura Loomer Shares Final Photo of Lindsey Graham in Ukraine with Drone Tribute]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7D66A27C88EA4D225E375043D1DE80E51CDFDF5E00D3B2D4E142A40539A0D7CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2F31ae45b1e0159c203a5710f2746350f6" alt="" /></p>Laura Loomer shared video of Lindsey Graham in Ukraine before his sudden death -- and showed off a drone Ukraine plans to send to the frontlines in his honor.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/laura-loomer-shares-final-photo-150429732.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/laura-loomer-shares-final-photo-150429732.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Azerbaijan court convicts 9 journalists and activists in a case seen as an attack on media freedom]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A6EB002F45547633FB98C5CDA725183828805B44A178B13569C970EE572C7391/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F2b1e2d590b11c53864d729e1bfd160db" alt="" /></p>A court in Azerbaijan has convicted nine journalists and founders of a top independent news outlet on charges of financial crimes and sentenced them to prison in what international media rights groups denounced Tuesday as a politically driven case to stifle critical voices in the oil-rich Caspian Sea nation.  Toplum online TV founder and director Alasgar Mammadli was sentenced to 14 years in prison by the court in the capital of Baku.  It gave 15-year prison terms to activists Akif Gurbanov and Ruslan Izzetli, who co-founded the outlet.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/azerbaijan-court-convicts-9-journalists-150021552.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/azerbaijan-court-convicts-9-journalists-150021552.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neil the Seal returns to the sea after another chaotic visit to Tasmania]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8975B60852BECBE2F0BA4C8B770AEA4DD69A35920BF197993EDB04324FE9217C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Faccuweather_articles_339%2F9cd3a866f1b634dae29ead91ffc8c9dc" alt="" /></p>The beloved elephant seal left behind smashed signs and plenty of viral moments before heading back into the ocean.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/neil-seal-returns-sea-another-145408202.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/neil-seal-returns-sea-another-145408202.html</guid>
-            <pubDate>Tue, 28 Jul 2026 16:56:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watchdog finds staffing, guidance gaps in transfer of USAID programs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00559AD3F574AB6CC216F2F7159B780D93BDD840EFD85F657B0E09EC0EA64BA5/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe9fe844803fab50f2d840c8c093bcaf2" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/watchdog-finds-staffing-guidance-gaps-205047404.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/watchdog-finds-staffing-guidance-gaps-205047404.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Driver Accused by Authorities of Trying to Set Van on Fire After Crash Left Father and 8-Year-Old Girl Needing Lower Limb Amputations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A81E05A683311359CFD92A3AB54194A6B6F2DC6E3BF618E3B1A4256A1D5AFE6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F8c68c0ce4d2898fbf87191eb844d39e6" alt="" /></p>Following the collision, the father underwent an amputation below his ankle, while his daughter had an amputation below her knee]]></description>
-            <link>https://www.yahoo.com/news/world/articles/driver-accused-authorities-trying-set-145811079.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/driver-accused-authorities-trying-set-145811079.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iraq bypasses Gulf and sends heavy fuel oil to Europe via Syria]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85694C1848E6584DAF100A22154DFB22C7E95AB11C114C09A1A236369B812D5F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2b767ef8160dd9337819511ab6794930" alt="" /></p>Iraq has exported 2. 1 million tonnes of oil by land via Syria and from there across the Mediterranean to Europe since April, due to the blockade of the Strait of Hormuz.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iraq-bypasses-gulf-sends-heavy-144833333.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iraq-bypasses-gulf-sends-heavy-144833333.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Energy for Europe: Cyprus plans to supply natural gas from 2028]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3471E92BC651D3BDAF46FE1CD63DFD99D584557E72E4FD2552C374A53C7F02A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6f2bb1e97709b24885c934ab4c5d60ec" alt="" /></p>The energy companies TotalEnergies (France) and Eni (Italy) announced on Tuesday that they will develop the Kronos natural gas field off the coast of the EU island republic of Cyprus. This paves the way for natural gas production to begin in 2028, the Cypriot newspaper Phileleftheros reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/energy-europe-cyprus-plans-supply-144833734.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/energy-europe-cyprus-plans-supply-144833734.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN chief meets rival Cyprus leaders, mulls prospects for talks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2548ADBB09BED218A5AADF376188F5B33F2FAA5AD22DE34C84A1C6C6869885CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fde6a7701d62f016dbfeb6414d752f5d2" alt="" /></p>UN chief Antonio Guterres said he held "very constructive" separate meetings with rival Cypriot leaders on Tuesday, ahead of trilateral meetings to weigh the prospect of fresh negotiations nine years after the peace process collapsed.For his part, the Turkish Cypriot leader also said he held a "constructive meeting" with Guterres, adding that the aim was "to do something different" to avoid the failures of 2004 and 2017.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-chief-meets-rival-cyprus-144048012.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-chief-meets-rival-cyprus-144048012.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bear climbs New Mexico power pole, goes viral, then is electrocuted before rescue]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3BBA94FBBE314013B42AB4023B1DF566F62F1D1447A87DE4C32C58D2E26F8EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F3af1afc1c8b2446fb501b3521ab82a69" alt="" /></p>"At first we couldn't believe what we were seeing, so we turned around to look again."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bear-climbs-mexico-power-pole-143700514.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bear-climbs-mexico-power-pole-143700514.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Primary suspect in murder of Benayahu Razi arrested after two-week manhunt]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2F195C027F76982A75DEA34E038A3E9C10D9196747833A8851D544CB27B9FBC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd160d7bce95a0df0294a9cefb8fb24ab" alt="" /></p>Israel Police confirmed that they arrested 17-year-old Avior Sasson in a Tuesday statement. Avior Sasson, the 17-year-old primary suspect in the fatal stabbing of 19-year-old Benayahu Razi, has been arrested after a two-week manhunt, Israel Police confirmed on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/primary-suspect-murder-benayahu-razi-143416049.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/primary-suspect-murder-benayahu-razi-143416049.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanese bank customers protest over frozen savings]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/339693D5D74F52C15C354C84C646EF3A98CA5EB7CEA8EC3C5E302E7BD1AFA5F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F71cdbe5b93cd982b1f5c5c780655ef5b" alt="" /></p>Dozens of Lebanese bank customers protested outside three commercial banks in Beirut on Tuesday, setting fires near the branches to express anger over years of restrictions on access to their savings. The demonstration was organized by the Depositors' Outcry Association, which described the action as a warning over the continued freezing of bank deposits.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lebanese-bank-customers-protest-over-143338101.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-bank-customers-protest-over-143338101.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Destroyed Aeon mall had just reopened for 'fresh start' a decade on from deadly quake]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5261CA0AE5301197F3AF7EE7CC93711D1D88B236BCF19DE7AD2D213910BCE94D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fd704a92761d4dc748548c1c3f363240a" alt="" /></p>By Satoshi Sugiyama, Chang-Ran Kim and Kentaro Okasaka TOKYO, July 28 (Reuters) - The Aeon mall destroyed in a post-quake explosion in southern Japan on Tuesday had just reopened last month as a new]]></description>
-            <link>https://www.yahoo.com/news/world/articles/destroyed-aeon-mall-had-just-142843292.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/destroyed-aeon-mall-had-just-142843292.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French wildfires threaten defence sites and hit regional economy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/244FE7F803F4D718371CC336D55741BFF99086679466674ADB71DF9FCB0C8740/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_articles_576%2F505dd6a3f88ee88f1291a68df433e27c" alt="" /></p>The fires have forced evacuations and protective measures at strategically important aerospace and defence sites, while preventing thousands of businesses from operating normally.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-wildfires-threaten-defence-sites-142701531.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-wildfires-threaten-defence-sites-142701531.html</guid>
-            <pubDate>Tue, 28 Jul 2026 15:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
