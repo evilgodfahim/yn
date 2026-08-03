@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Aug 2026 20:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2026 21:37:02 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
+        <pubDate>Mon, 03 Aug 2026 21:37:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hundreds of migrant minors stranded in Ceuta after border crisis]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D57DE46A412599B255B783DCA48305B9B2749F7117E81FAC8633ABC27CF6CD25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F35b7653175e21c5bee8fb011d9a0dd6e" alt="" /></p>Spanish law mandates protection for unaccompanied minors, but many in Ceuta lack food and shelter.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hundreds-migrant-minors-stranded-ceuta-202402580.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-migrant-minors-stranded-ceuta-202402580.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could the Iran and Ukraine wars converge?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B3A9F1A0616456ADD6D7CD0F6733BA3089F4680D310428413D704262699F4368/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2Fafb65be618ddd963928a886c2150dd85" alt="" /></p>Regional wars may merge into something bigger]]></description>
+            <link>https://www.yahoo.com/news/world/articles/could-iran-ukraine-wars-converge-190931038.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/could-iran-ukraine-wars-converge-190931038.html</guid>
+            <dc:creator><![CDATA[The Week]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia says seven killed as Ukrainian drone hits crowded Russian beach]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C936965E95D81D77561B16A27B304F596B9C5E5CEC61679EEDD540193AC61CE3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc870d841586f0cc205cec4684dc95891" alt="" /></p>At least seven people were killed in southern Russia on Monday after debris from a Ukrainian drone fell onto a crowded beach, according to local officials, in one of the deadliest incidents in recent weeks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-says-seven-killed-ukrainian-185946459.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-says-seven-killed-ukrainian-185946459.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 21:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More countries pulled into spiraling Iran war]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F017E14E6BA5E2B1B5E2C7A72DF5C1DD58B904AFC00EA0BBBDFAA21865920C8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2Fbb6f104d41e0d1f04b40fd3888707ead" alt="" /></p>Saudi Arabia has entered the fray]]></description>
+            <link>https://www.yahoo.com/news/world/articles/more-countries-pulled-spiraling-iran-184926273.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-countries-pulled-spiraling-iran-184926273.html</guid>
+            <dc:creator><![CDATA[The Week]]></dc:creator>
+            <pubDate>Mon, 03 Aug 2026 21:37:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘He Has a Knife!’ Nick Shirley Attacked and Chased in New Video on Spain’s Migrant Crisis]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48FCE248F36EDBBF947D72F86269B50DF90F0F731428660DE7CBCC5149921614/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2Ff1fdad500289277b1db72c80fa2036e9" alt="" /></p>Right-leaning independent journalist Nick Shirley was chased by a knife-wielding maniac who was enraged he traveled to the Spanish province of Ceuta to report on the surge of tens of thousands of migrants from North Africa.]]></description>
             <link>https://www.yahoo.com/news/world/articles/knife-nick-shirley-attacked-chased-194249802.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/knife-nick-shirley-attacked-chased-194249802.html</guid>
-            <dc:creator><![CDATA[Mediaite]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1EAA7159B3A5D95A3E953FF5D514346AD629EADFF1A9D642A4BA65A2EE04CD72/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F70c3ac7aa42c483c8731669538340dd0" alt="" /></p>Princess Isabella of Denmark, 19, arrived alone and smiling for her first day of military service, turning down a $29,400 salary like her brother Christian]]></description>
             <link>https://www.yahoo.com/news/world/articles/princess-isabella-denmark-begins-military-191317038.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/princess-isabella-denmark-begins-military-191317038.html</guid>
-            <dc:creator><![CDATA[Hola Americas]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F174861D288BF656DE7E9C342829E4C8E581A8184AC9D9C2F64CFA20DF5F96D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fef0e589861770a4f690e079d4a2642f9" alt="" /></p>The passengers disembarked the ‘MSC Divina’ in Naples, Italy, and were accused of unauthorized access to a computer system and causing alarm, per local reports]]></description>
             <link>https://www.yahoo.com/news/world/articles/6-cruise-passengers-reportedly-arrested-190442914.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/6-cruise-passengers-reportedly-arrested-190442914.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D9BD68DA60761E44AFF758C2C9B651FC05FA346FAF8AC20BFCB1B773089A369A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fd82d9cfd131e5959a8994655ae1bfb0e" alt="" /></p>Nathan Thomas, who is now 21, broke the record at the age of 18 years and 346 days old]]></description>
             <link>https://www.yahoo.com/news/world/articles/teen-breaks-world-record-youngest-185429309.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-breaks-world-record-youngest-185429309.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DFB9337E2AD64E7E5091D9A75BEB6FF6C874498E2BB729CC00F99FEFD9CD6EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb9457acf4d3da4792f101c1b615fa3ab" alt="" /></p>A French ordnance disposal experts have discovered dozens of World War II grenades in an area ravaged by the major forest fire on the country's Atlantic coast. "We were on a mission last week and found this field, where we removed 75 shells," Philippe Delemotte, head of the Bordeaux explosive ordnance disposal service, told broadcaster France Info on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +80,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F58E6176BAD668C4841EF5EAB95AB00BF1978DFF8ED44B1C5A9096A9399222A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F993878461583da254756eaa18eb2b736" alt="" /></p>Military trucks loaded with migrants rumble towards the Tarajal border crossing every few minutes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spain-said-returned-almost-everyone-181543527.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-said-returned-almost-everyone-181543527.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +87,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/90787F8E4DED58318B07DF383004B2F883C29CA758A6767958E8CBD836F4C8ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffdb50441d38a7fb20475b5186f70358a" alt="" /></p>Millions of Shiite Muslim pilgrims are making their way to the Iraqi holy city of Karbala ahead of Arbaeen, one of the world’s largest annual religious gatherings.  The pilgrimage culminates at the Imam Hussein Shrine and the nearby Imam Abbas Shrine, where millions gather for prayers and devotional rituals, including chest beating in mourning and reaching out to touch the shrine.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pilgrims-converge-iraqs-city-karbala-181139406.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pilgrims-converge-iraqs-city-karbala-181139406.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
         <item>
@@ -6999,34 +7024,6 @@ Earlier, the US military said it had "successfully completed a heavy wave of str
             <link>https://www.yahoo.com/news/world/articles/sudans-forgotten-war-leaves-millions-201315376.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sudans-forgotten-war-leaves-millions-201315376.html</guid>
             <pubDate>Wed, 29 Jul 2026 22:53:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky warns of imminent major Russian airstrike]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FF456D3B6C82696714209EFDC39FF51424525824A60876748B591E19B5A4717/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F507af79f1f5537c3a3d0a6ed42bf13c7" alt="" /></p>Ukrainian President Volodymyr Zelensky has warned of an allegedly imminent major new Russian airstrike, saying the probability was high that such a strike would be carried out on Wednesday night. Zelensky wrote on social media that Russia had attacked Ukraine just days earlier, "and there is a high probability" that such a strike would also be carried out on Wednesday night.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zelensky-warns-imminent-major-russian-211856764.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-warns-imminent-major-russian-211856764.html</guid>
-            <pubDate>Wed, 29 Jul 2026 21:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Driver Who Posted 100 MPH Snapchat Videos Before Fatal Crash Has 2 Years Added to 6-Year Prison Sentence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B5707C6EC1CE01BD024F73805EBEBBB279E15EAB001078972CD9A0C4E3CA20A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Fb34583c382974329f822bcd37790b201" alt="" /></p>Everyone has probably seen someone flying down a two-lane highway while glancing at a phone or holding it up to record a video. In this case, the road was in Gloucestershire, England, but the behavior ... Read more]]></description>
-            <link>https://www.yahoo.com/news/world/articles/driver-posted-100-mph-snapchat-210307667.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/driver-posted-100-mph-snapchat-210307667.html</guid>
-            <pubDate>Wed, 29 Jul 2026 21:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Outdated footage circulates after Kumamoto earthquake in Japan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DC79B3BE2B67A01B429AA26E724AD28AEA08A01E14ACFB3E25C85A19D199B376/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fd59632172307a1e6a9932a04f393a6f2" alt="" /></p>A 7.1-magnitude earthquake rattled Kumamoto prefecture on Japan's Kyushu island on July 28, 2026, cracking roads, flattening homes and triggering an explosion at a shopping mall. But one video widely claimed online to show the tremor is old and unrelated, coming instead from a 2024 quake that hit the Noto Peninsula of the country's main island Honshu.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/outdated-footage-circulates-kumamoto-earthquake-205513755.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/outdated-footage-circulates-kumamoto-earthquake-205513755.html</guid>
-            <pubDate>Wed, 29 Jul 2026 21:52:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kenya says 15 elephants died of cyanide poisoning after eating tomatoes from nearby farms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/828570A63E56208076800EBDB5926CC3C29DE070AFA4249310273ACC98ABF0C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Feecbac7a2b4aeca934320c30ca0263de" alt="" /></p>Fifteen elephants that died over the past month in southern Kenya are suspected to have been poisoned by tomatoes contaminated by cyanide, wildlife authorities told local media Wednesday.  Authorities did not say who they suspected in the contamination of tomatoes from farms neighboring the Amboseli National Park.  In the past farmers have been suspected of deliberately poisoning elephants to prevent them from eating crops.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kenya-says-15-elephants-died-204912378.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenya-says-15-elephants-died-204912378.html</guid>
-            <pubDate>Wed, 29 Jul 2026 21:52:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
