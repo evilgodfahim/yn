@@ -4,16 +4,184 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 06:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 09:18:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[South Korea's Lee calls heatwave a national disaster as deaths rise to 19]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AA492B6231EBBB23BCAC657360AD5097DB380CF6B85F067A3833AF399C483B1/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3d70ff23e8dc9250470b69ef3717ee96" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/south-koreas-lee-calls-heatwave-091116518.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/south-koreas-lee-calls-heatwave-091116518.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five dead in Moscow region as Ukraine continues warehouse strikes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DCA59CCF79826C72AA054236E31D9B67C6FF5F4401D743B1EF25149F8AD7F5D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe1f133aff2d82111924483b0c4fb1312" alt="" /></p>Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/five-dead-moscow-ukraine-continues-072044530.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-dead-moscow-ukraine-continues-072044530.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pass rates rise as students across Scotland find out their exam results]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8D6449682E4CD56C48177BE4EAC12BC3D5175A6F9AB4B0D24D9275CBDA71631/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd90a7852f9260ac6bcd6b38b55fc611d" alt="" /></p>Pupils and learners across the country are receiving their exam results today.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/students-across-scotland-finding-exam-075515912.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/students-across-scotland-finding-exam-075515912.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU interior ministers discuss Ceuta migrant influx]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A36C8CD19E9BA52F399BE9973DB679E6C9111F983981FB0373FA3389B3FB9687/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F099c3e0eed057306fea988ec5e83b14a" alt="" /></p>European Union interior ministers are holding a video conference call on Tuesday to discuss the arrival of tens of thousands of migrants in the Spanish exclave of Ceuta which led to a rift between Spain and many other EU countries. Last week, up to 60,000 people reached the tiny territory from Morocco, many by swimming.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eu-interior-ministers-discuss-ceuta-090321951.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-interior-ministers-discuss-ceuta-090321951.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IDF destroys Iran-backed Hezbollah tunnel systems, says more remain in southern Lebanon]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B01341B9B170FC61AF0B582559E13D3C52165655DEA54109A7189867C447104/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd4d2e990bc5c09b985809ad5c3b624db" alt="" /></p>The tunnel network was intended not just for surveillance, but also to facilitate attacks on Israeli troops and communities near the Lebanon border. The destruction of Hezbollah's underground tunnel network in the Beaufort area and additional infrastructure along the Ali al-Taher Ridge using hundreds of tons of explosives dealt a severe strategic blow to the terrorist organization, according to data presented to Defense Minister Israel Katz on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/idf-destroys-iran-backed-hezbollah-085422072.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-destroys-iran-backed-hezbollah-085422072.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guatemala evacuates villages due to an eruption of the Fuego volcano]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D48255255BE53D908E8350CF54E1C76F56C48023E74D365319F633DFA562FCCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1d95b534f553e1c0d4596f087fd7e247" alt="" /></p>Authorities in Guatemala have ordered evacuations in some southern communities around the Fuego volcano, which is erupting.  Claudinne Ogaldes, executive secretary of the Guatemalan disaster managing agency, CONRED, confirmed on Monday evening to The Associated Press that the eruption started on Monday morning and increased during the day, which led to evacuation orders for two villages around the mountain.  CONRED said in a press statement that authorities were evacuating El Porvenir and the hamlet of Las Lajitas as a preventive measure.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/guatemala-evacuates-villages-due-eruption-085349908.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guatemala-evacuates-villages-due-eruption-085349908.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Old Japan earthquake photo misrepresented as aftermath of July 2026 tremor]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D737746F13A238E5B469FF2502F506232FB5B3EDC549CCEDB8A2A7FFF7D23862/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F1416853cc73055eabcf0510579bd57e0" alt="" /></p>The 7.1-magnitude earthquake that rattled Japan's Kumamoto prefecture in July 2026 killed dozens and caused widespread damage, but an image circulating on social media that claims to show the tremor's aftermath is from 15 years earlier. The photo, showing a sailing yacht washed up onto shore and resting against damaged buildings, was taken after the devastating earthquake and tsunami that struck Japan in March 2011.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/old-japan-earthquake-photo-misrepresented-084446859.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/old-japan-earthquake-photo-misrepresented-084446859.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia farm fire kills 2,500 piglets, but firefighters save 2,500 more]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1E129841D5E443D4BD97D1ED13C8F4CC62C017EF09650E630E9DFC9CB523F2F7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fbfbe3ea21276441f58f67f92bf78b567" alt="" /></p>In emergencies involving livestock facilities, first responders may face difficult decisions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-farm-fire-kills-2-082300735.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-farm-fire-kills-2-082300735.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brickbat: Where in the World?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F4C2B76478B689A3D47302B465B7C184706EF0610F31DC3A6A4E5C5EE836F347/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freason_com_245%2F5d6668dc31c44f56feb841abdb0a7ab9" alt="" /></p>The U.S. State Department apologized after showing a map of Africa at an international AIDS conference in Brazil that mislabeled every… The post Brickbat: Where in the World? appeared first on Reason.com.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/brickbat-where-world-080022183.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/brickbat-where-world-080022183.html</guid>
+            <dc:creator><![CDATA[Reason]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burned homes, blackened cars: Greek wildfires leave trail of destruction in Porto Germeno]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1551A6BE792703307602CCAF41DACFDDB8802177C3E0E1DA378BB7667FC92DAE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F52c553174244294c39326f70a8b38657" alt="" /></p>Porto Germeno faces severe wildfire damage as Greece enters a second week of major fires. Firefighters remain deployed and at least five people have died.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/burned-homes-blackened-cars-greek-075700157.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/burned-homes-blackened-cars-greek-075700157.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drone strike on Moscow region kills 5]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85045FD2446E9525DD0285ABA3769938F69B97CCE1809769F5C5455EE4AA45E2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F881cfef1d2d06b4445bf0199eeec9bc5" alt="" /></p>A drone strike on an industrial zone outside the Russian capital killed five people and wounded 10 others, the region's governor said, as Moscow and Kyiv traded attacks.Moscow's regional governor Andrey Vorobyov said early Tuesday that several fires broke out following a drone strike in the Novoselki industrial zone outside the Russian capital.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/drone-strike-moscow-region-kills-075002100.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drone-strike-moscow-region-kills-075002100.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why China Fears Anthropic’s Mythos — and Why It Can’t Do Much About It]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E420CD2123FE184237F1BFD7B99DFC6ABF66D1BD188C239F71D678063E428DA0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F203e828f72f5ffb3129fc98e8213e72f" alt="" /></p>Beijing sees Anthropic's Mythos as a potential cyber weapon and is weighing retaliation before Xi meets Trump.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/why-china-fears-anthropic-mythos-074200673.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-china-fears-anthropic-mythos-074200673.html</guid>
+            <dc:creator><![CDATA[BeInCrypto]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea condemns RIMPAC naval exercise as 'war rehearsal']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/434383FA5A04A860D460FF3C7BB2B32634CAF275E46FE5C6B0B92412BC263F01/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F3cbc3632587e885ff027fcd036964c78" alt="" /></p>North Korea on Tuesday condemned the recently concluded U.S.-led Rim of the Pacific Exercise as a "war rehearsal" and warned it would respond with a new level of deterrence.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/north-korea-condemns-rimpac-naval-073907759.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-condemns-rimpac-naval-073907759.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drugs worth €8.5m seized in Garda operation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Two men aged in their 30s and 40s were arrested after discovery of suspected cocaine and cannabis.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/drugs-worth-8-5m-seized-073757602.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/drugs-worth-8-5m-seized-073757602.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greek firefighters bring Athens wildfires largely under control]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5534BD12B14CD3AF85EBCEA3B4ECCBA0A2F53B15E10B4AA46CB4D23704134D16/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F92737c7f83e2b34ceeb1b370dea31eb6" alt="" /></p>Greek firefighters have largely brought under control the wildfires burning west of Athens after four consecutive nights of battle by hundreds of firefighters and volunteers, the fire brigade said on Tuesday. The all-clear has not yet been given, however.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/greek-firefighters-bring-athens-wildfires-073322823.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/greek-firefighters-bring-athens-wildfires-073322823.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Charity cyclist, 82, dies a day after 3,300 mile ride across Australia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56052BBA84F2F898F88BAFA49C4AD9A961DAA389948307BC1EFDFBA135873EEC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcf02ea9b048970fa59863d43f35bec42" alt="" /></p>Bob Montgomery died unexpectedly just a day after finishing what he had called 'One Last Ride'.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/charity-cyclist-82-dies-day-071344275.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/charity-cyclist-82-dies-day-071344275.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guatemala issues 'danger' alert after Fuego volcano erupts]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E9C3D480E8FCEC86B114E2DF50A38DE437485471EBEA989451CB71489ABABC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F803e620bba34f31e34452c81bcc88f67" alt="" /></p>Guatemalan authorities issued the country's second-highest emergency alert level on Monday after a major eruption of Central America's most active volcano, prompting the evacuation of nearby villages."An orange (danger) alert has been declared nationwide due to the eruption of the Fuego volcano," disaster coordination agency Conred said on X.
+The alert level is one below the highest level of red, which indicates the most serious emergency.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/guatemala-issues-danger-alert-fuego-072343301.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guatemala-issues-danger-alert-fuego-072343301.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nearly 900 migrant children remain on streets of Ceuta]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9323AE5792973C5427975EBD7E90FB1755B2E887EBF2C7566E8447815DFEE3AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F56bc0467ebc787e6375d91018926b0bb" alt="" /></p>Hundreds of migrant children remain on the streets of Ceuta after tens of thousands of people crossed into the territory from Morocco last week.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nearly-900-migrant-children-remain-071701925.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nearly-900-migrant-children-remain-071701925.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day, Aug. 4: Beirut blasts kill hundreds]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80EA030814905724C8880DE838B9B36D3890CD8EFCC9C2D1FEBF9C702037E992/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fadde73de810b39134e52588b4a2fbdc3" alt="" /></p>On Aug. 4, 2020, two explosions rocked the Lebanese capital of Beirut, shattering windows for miles across the city.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/day-aug-4-beirut-blasts-070006645.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/day-aug-4-beirut-blasts-070006645.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t believe the spin – Spain hasn’t taken back control in Ceuta]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF96D60470233691E7D51F1A361E270011D5396FA5C7431921DFFEEB50EAFD81/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F784c3defa86bf21b835417715cdb0432" alt="" /></p>So that is that, apparently. Crisis over. Nothing to see here.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/don-t-believe-spin-spain-070000706.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/don-t-believe-spin-spain-070000706.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World Ranger Day in Kenya spotlights a force that grew from 1 anti-poaching team to 28]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F84A3CD3DE773FCF4110D96CCF022024D1715225E99E0BC0B5FEF46524636997/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F6edcfe5fe532b27fa8720681b8a4c15f" alt="" /></p>Ranger work can be dangerous, demanding, and largely unseen.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/world-ranger-day-kenya-spotlights-065300204.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-ranger-day-kenya-spotlights-065300204.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 09:18:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fact Check: FAKE Image NOT From Reuters Shows Moroccan Officer Throwing Rocks At Migrant Returning From Ceuta]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C261093FD17431D07D6C1623185116650EB4A48241D380690231F30216816938/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Fc4aad94feb856e732c18088d8d1120f0" alt="" /></p>Did Reuters publish a photo which shows a Moroccan police officer about to throw a rock down on a migrant who is crawling up a rocky embankment? No, that's not true: This image was made with OpenAI tools, it was...]]></description>
             <link>https://www.yahoo.com/news/world/articles/fact-check-fake-image-not-060701301.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-fake-image-not-060701301.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +189,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E9E51B95A75231D8A272E686B933462F264E89BC287FD8237310A0008C25E8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff2775a856ad22bdc0475bef2c09c4b43" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scotlands-papers-arrest-girl-killed-053723481.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-arrest-girl-killed-053723481.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +196,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/45FF6A38454CC05DA939687AE9C96E4E36FD63F397AB5B2803F491E025CA3754/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F66fa62a1656af64c7dfd55696ae86efb" alt="" /></p>Horton Cemetery is believed to be one of the largest abandoned hospital cemeteries in Europe.]]></description>
             <link>https://www.yahoo.com/news/world/articles/historical-cemetery-shortlisted-national-recognition-051237631.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/historical-cemetery-shortlisted-national-recognition-051237631.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +203,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/389143615BC8C9984A3CEC72480274B332D6A190A31F1B3D6F749AD2DBBDCF3A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F341d506d4e9412ceb25ab676d49456e0" alt="" /></p>Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-wildfires-reveal-hundreds-ww2-042217486.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-wildfires-reveal-hundreds-ww2-042217486.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +210,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FDBEE00AC0AA324FD1980B86EAEBEF88AEB257E5C3891BC1E986E06B440556BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fea80f278c947e9905340626929c53349" alt="" /></p>Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.]]></description>
             <link>https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-4th-050032955.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-4th-050032955.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +217,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48FA437033463AA29DC4BD2D1363F3F7C88AA6FC600D965F68086F7727C38024/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb6d2c54a157c64e7afc73a53a9c60158" alt="" /></p>Ani Sinclair, 28, was thrilled when she secured her first job in the NHS.]]></description>
             <link>https://www.yahoo.com/news/world/articles/britain-young-workers-bailing-australia-050000192.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-young-workers-bailing-australia-050000192.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +224,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F6A646C43DF0CB329BECDD4E5440F2D071175FA93ECF43F0F8B6922709B789E6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F13889d4cf7ddf87e4933c67533238eac" alt="" /></p>Prof Jason Arday – frequently hailed in the media as the “poster boy” for Cambridge University’s “diversity drive” – must be feeling profoundly aggrieved. Because, over the past week, an ever-growing army of cynics have had the gall to query some of his most extraordinary accomplishments.]]></description>
             <link>https://www.yahoo.com/news/world/articles/jason-arday-critics-just-jealous-050000766.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jason-arday-critics-just-jealous-050000766.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +231,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EEAAD7A9D42AFC4D3A3F7E6BDACF5C6BD52B228929ACAC2821E90FFDE962E4B5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff957ffee3f4a404ba77c3f89f9ad822b" alt="" /></p>Apple briefly removed the Telegram messaging app from its App Store due to the distribution of child sexual abuse material, Apple said on Monday. A review had found content that violated Apple's strict guidelines prohibiting child sexual abuse material, it said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/apple-briefly-removes-telegram-app-044919171.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/apple-briefly-removes-telegram-app-044919171.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +238,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8A51266DE1D8CA2E69BFD655B70CDDBC1051FCFDB595D652309BD9A3DD23E4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F9ae99b7083445371d1a3fe9516b79d9c" alt="" /></p>Russia is "betting primarily" on jet-powered drones while reducing the number of conventional drones used, said the navy spokesperson.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-betting-primarily-jet-powered-042338391.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-betting-primarily-jet-powered-042338391.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +245,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/395B7E7919AF8B9D1D8344643B75F8293F8EEF9A5079D406834B2AFD22CB7702/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F51fe0c5ca9fbd8a53de5456b41d7fac5" alt="" /></p>It started with Instagram posts that suggested Spain’s border with Morocco was opening up.  Within hours, young people began heading toward the border with the Spanish enclave of Ceuta in North Africa.  Packed buses rolled into the neighboring Moroccan city of Fnideq.]]></description>
             <link>https://www.yahoo.com/news/world/articles/runaway-online-rumors-sparked-frantic-040151296.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/runaway-online-rumors-sparked-frantic-040151296.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +252,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9EA77686591BC2B165A1F701CA933B691254F09FA7AABF72C3F078B4DA092CC7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwish_tv_176%2Fea76ec0d2602a972a1e9075c7f618076" alt="" /></p>Japan released a comprehensive defense paper on Aug. 4, 2026, outlining plans to modernize its military through drone technology and AI while addressing security threats from China, Russia, and North Korea.]]></description>
             <link>https://www.yahoo.com/news/world/articles/japan-aims-boost-military-tech-035456444.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-aims-boost-military-tech-035456444.html</guid>
-            <dc:creator><![CDATA[WISH-TV]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +259,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4D85D11451253E32F86C1733BA444A0C04D61B603BFF4F102C8F597A696EAED4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8ddf97589cfdbd4563526ba5653c54ce" alt="" /></p>Japan needs to adapt to the new methods of warfare like drones and artificial intelligence used in Ukraine and the Middle East and strengthen its defense industry, the government said Tuesday.  Japan has bolstered its military capability and spending in recent years and has started deploying long-range cruise missiles as a deterrence to China's military activity.  The 598-page defense paper adopted by the Cabinet on Tuesday reiterated that China is Japan’s biggest strategic challenge.]]></description>
             <link>https://www.yahoo.com/news/world/articles/japan-says-combat-drones-key-024901188.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-says-combat-drones-key-024901188.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 06:21:11 GMT</pubDate>
         </item>
         <item>
@@ -6885,153 +7042,6 @@ Earlier, the US military said it had "successfully completed a heavy wave of str
             <link>https://www.yahoo.com/news/world/articles/fire-engulfs-historic-german-castle-064825876.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-engulfs-historic-german-castle-064825876.html</guid>
             <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Third firefighter dies battling wildfires in Greece]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/17AE8370C23C852023D5DBAA4D16DA2BD13978E6549DDB7B1A3E68D801752AD7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F43193c5da9a600530927b458d39f84be" alt="" /></p>A third firefighter has died while battling wildfires in Greece, according to media reports citing the fire service. The firefighter was found unconscious near a blaze at Ageranos in the southern Peloponnese and was pronounced dead in hospital on Wednesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/third-firefighter-dies-battling-wildfires-064824816.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/third-firefighter-dies-battling-wildfires-064824816.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan earthquake death toll rises to 28]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF62AE3B8DC90093B8FD864399473358D445F6E4DB1709080559ED75EBAA9197/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb5524077bca3bcbae6d5142408a54fff" alt="" /></p>The death toll from the powerful earthquake in south-western Japan has risen to 28, the central government said on Thursday. The figure, provided by police, includes people whose deaths are suspected to be linked to the disaster, public broadcaster NHK quoted a government spokesman in Tokyo as saying.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/japan-earthquake-death-toll-rises-063411194.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-earthquake-death-toll-rises-063411194.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian strikes across Ukraine, from east to west, kill at least 8 and wound dozens]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE03EFB1366AFB10A34B6DAB0C76D43448FD783E34A037E48FBFC989F7638176/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8bd32195c842d90f557cb802a7710414" alt="" /></p>Russian attacks across Ukraine overnight into Thursday killed at least eight people and wounded dozens of others, officials said, with the heaviest casualties and aftermath reported in the eastern Dnipropetrovsk and western Lviv regions.  The attacks were the latest in a series of large-scale Russian strikes on Ukrainian cities that Russia has intensified over the summer, now occurring on a nearly weekly basis.  Ukraine’s President Volodymyr Zelenskyy said Kyiv and the surrounding region, along with the Dnipro, Lviv, Poltava, Kharkiv, Mykolaiv, Sumy, Vinnytsia, Cherkasy and Ivano-Frankivsk regions, were attacked overnight, with dozens of homes, businesses and infrastructure facilities destroyed or damaged.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-strikes-across-ukraine-east-062445168.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-strikes-across-ukraine-east-062445168.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Georgia's Okefenokee Swamp joins UNESCO's World Heritage List, alongside the Grand Canyon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EFE0803730FC84FC4194FF220CBEEEF6FD55BA6999947D176D4C623D7ACE945F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F30e4d9b5521e19a8913fec22ca1a73d2" alt="" /></p>"We accept this inscription not as a finish line, but as a commitment to keep the Okefenokee wild, resilient, and thriving for generations to come."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/georgias-okefenokee-swamp-joins-unescos-061700377.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/georgias-okefenokee-swamp-joins-unescos-061700377.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japanese survivors deal with second quake disaster in 10 years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30CC0C41C6179F301D562C31DC1A6511AF92438127A455C9E60BC9E31A695F3B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1cdf2984172bb2fbcc8cdd24425a1b68" alt="" /></p>Sachi Nishiyama spent two years in temporary housing after twin quakes devastated southwestern Japan in 2016."When this quake hit, I immediately knew the epicentre was close," said 30-year-old Nishiyama.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/exhausting-southwest-japan-deals-second-043310927.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/exhausting-southwest-japan-deals-second-043310927.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany heatwave sees Cologne residents cool off in mist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5A75C5F2C11E8AF14DF820177BA29973637C53486FAC9E76848F06EDC68049FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F441564f8e8f97c71d00c62f3f056c8f7" alt="" /></p>Residents cool off in public sprinklers across Cologne, Germany, as temperatures near 35C, while low Rhine water levels reflect the impact of dry summer weather.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-heatwave-sees-cologne-residents-060134743.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-heatwave-sees-cologne-residents-060134743.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian watchdog files legal action against Telegram, saying it failed to remove violent content]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7FD48251D2EA4B9567B5C22A2D184271C0B8549D213B42D3861520F6740A3E8B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4eede41c3f225db0ddfefa4d3313789f" alt="" /></p>Australia’s online safety watchdog has filed legal action against messaging app Telegram, saying the platform failed to remove extremist content including videos of white supremacist mass shootings in Buffalo, New York, and the New Zealand city of Christchurch as well as Islamic State group beheadings.  The United Arab Emirates-based app, which reports having 1 billion users worldwide, faces a fine of up to 54.6 million Australian dollars ($38 million) if convicted in the Australian Federal Court for “alleged failure to detect and remove pro-terror material,” eSafety Commissioner Julie Inman Grant said Thursday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australian-watchdog-files-legal-action-054943114.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-watchdog-files-legal-action-054943114.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Tell me, South': Life in Lebanon explored through voices, photographs and memories]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D1DB6AFAC8A032CCB837E5D825AC95E3CFCDDD6B1E08C74992B3FB44402753DF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F8fe09f9188f45507dacd5217fcd0350d" alt="" /></p>While south Lebanon is still reeling from a war that has left deep scars on people and places, a new exhibition "Tell me, South" explores local emotions and feelings through people's images, memories and letters.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tell-south-life-lebanon-explored-051608794.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tell-south-life-lebanon-explored-051608794.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australian regulator says Telegram breached online safety law]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6684567A8ABC3236720158F39FAB5AB0691E69FDEF1A4BD98AB8A84C96C7EE57/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fea10d010b198d9676454493cf41da05a" alt="" /></p>Australia's cyber safety watchdog took court action Thursday against Telegram, alleging the global messaging platform had failed to remove terrorism material.Australia's eSafety Commissioner Julie Inman Grant said Thursday the watchdog would allege Telegram had failed to remove pro-terror material such as videos of terrorist executions and mass shootings, including "some of the most notorious acts of known extremist violence in recent history", despite being put on notice.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australian-regulator-says-telegram-breached-050851519.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-regulator-says-telegram-breached-050851519.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jordan shoots down 5 Iranian missiles as US unleashes 'heavy wave' of strikes against Iran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DE852789BCFAD031E107E8924F7AB94A5A893EEC6DC1103D6B7BB8E8174C0E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fedfef73b7a2099f262f00512c175f997" alt="" /></p>Jordan’s air defenses shot down five missiles launched from Iran Thursday morning, the country's state-run Petra news agency said, hours after the U.S. military announced it had completed “a heavy wave of strikes against Iran” in response to an earlier Iranian missile attack on a U.S. base in Jordan.  No casualties were reported from Jordan's interception of the missiles, the news agency quoted the spokesman for the country's armed forces as saying.  The U.S. Central Command said in a social media post that for over two hours the United States had struck “dozens” of targets belonging to Iran’s Revolutionary Guard Corps, including military command centers as well as missile and drone facilities, and coastal surveillance and defense sites.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/jordanian-air-defenses-shoot-down-050815847.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jordanian-air-defenses-shoot-down-050815847.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine's long-range drones have a new war target: Russia's version of the Amazon warehouse]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA4B2E1436F474450483DD3773D083EB9385B55E01C8881A82C94435A0BA281C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F444c855ff3b70a5041ac54c6ac519442" alt="" /></p>Nearly a dozen drone strikes in recent days have wiped out merchants' inventory stock and forced hundreds of companies to ask for loan restructurings.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraines-long-range-drones-war-050525752.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraines-long-range-drones-war-050525752.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latest news bulletin | July 30th, 2026 – Morning]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/365DB61A4D47F086F9A3EEC1AAC6C1116D49AAECA1766B20D5633BB5C4FA9860/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Ff22c858c602e591cb6d2c5794edc98b7" alt="" /></p>Catch up with the most important stories from around Europe and beyond this July 30th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/latest-news-bulletin-july-30th-050033527.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latest-news-bulletin-july-30th-050033527.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia launches overnight attack on Ukraine, killing at least eight]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FEFE57D3E79EED1DD40D26D48FD605552C7DF8F230B384CB1EF4DB87A1EF74C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F68e3d2cc02e0164a198e2cdb335138ff" alt="" /></p>Russia launched a major overnight air attack on Ukraine, killing at least eight people and injuring more than a dozen others, Ukrainian officials and media reported on Thursday. Cities across Ukraine, including areas in the west far from the Russian border, were targeted with dozens of missiles and hundreds of drones, Ukrainian media reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-launches-overnight-attack-ukraine-044825082.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-launches-overnight-attack-ukraine-044825082.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Teacher Accused of Texting 11 & 12 Year Old Boys About Sex Positions, Calling Them Her “Husbands”]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73B163E188A3FE208DA598B7C162B39399B68BF653B979412CE0BA6DD1492EFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwhere_is_the_buzz_814%2F3498ca0bd0ec0ea9074e26622eb1245d" alt="" /></p>The former English teacher from Russia is deemed mentally competent to stand trial in connection with sexually abusing schoolboys that she tutored in her apartment. This case drew national media… The post Russian Teacher Accused of Texting 11 & 12 Year Old Boys About Sex Positions, Calling Them Her “Husbands” appeared first on Where Is The Buzz | Breaking News, Entertainment, Exclusive Interviews & Morero.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-teacher-accused-texting-11-044327665.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-teacher-accused-texting-11-044327665.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Small changes in Hanoi’s streets can mean big disruptions for those who depend on them]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3A3A69E94F6015017DA2C810F81D8CD20E6C2EC60D6472E055186F06F9775ECE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5d538e6b9cb3ded5f478dc8d53b4073a" alt="" /></p>The noise is everywhere in Hanoi.  The crack of a hydraulic breaker, the groan of excavators, the crunch of brick and concrete being torn apart.  As Vietnam pushes for double-digit economic growth, its capital is pursuing an ultramodern vision for the next 100 years.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hanois-residents-endure-upheavals-transforms-040456079.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hanois-residents-endure-upheavals-transforms-040456079.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French student pleads guilty and is fined for a straw-licking stunt in Singapore]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B708AC7D3B9DCC001F0281124BDF401952593406B6850997E261E055058413D4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8f9007b4a0cd1bfe2d76a47fd60782a4" alt="" /></p>A French student was fined 600 Singapore dollars ($465) after pleading guilty Thursday to a public nuisance charge in Singapore for filming himself licking a straw from an orange juice vending machine and putting it back in what lawyers described as a social media stunt.  It happened at a shopping mall in March and he was charged in April after his video spread rapidly.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-student-pleads-guilty-fined-035544674.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-student-pleads-guilty-fined-035544674.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French teen fined in Singapore 'straw licking' case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99950BCE14B1A1A4AD4A430F690467C23EEB60E960CC6086F4C3C11ED8A9A922/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa4389042f8f73a641d4ffc9a80662ad9" alt="" /></p>A French teenager was fined in Singapore Thursday after pleading guilty to a public nuisance charge for a straw-licking stunt that landed him in hot water in the city state.Singapore is known for its no-nonsense approach to public stunts.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-teen-fined-singapore-straw-024948769.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-teen-fined-singapore-straw-024948769.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:29:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Japan earthquake death toll rises to 28 as evacuees battle sweltering heat]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26B89F3B70871D6D47E03D9BD4AE116437499C7CA312AA78975C20A4EEF0193E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9bfcbbad0d29aac42ddc266976755e83" alt="" /></p>Thousands of people are staying in evacuation centres, struggling to keep cool as temperatures soar.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/japan-earthquake-death-toll-rises-041414306.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/japan-earthquake-death-toll-rises-041414306.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian strikes kill at least 8, wound more across Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/13579BC1C0A1B63576E9D80E112938AFAE86D0ABBF1FC9CAC68B2DFB2AAADEFE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F2cc02c2fa0fed499c3daabbe02952dce" alt="" /></p>Russian strikes killed at least eight people and wounded more than a dozen others across Ukraine, authorities said on Thursday, after President Volodymyr Zelensky warned of Moscow launching another massive attack overnight."The Russians prepared a massive attack several days ago, and there is a high probability that the strike will be carried out tonight," Zelensky said in a post on X late Wednesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-strikes-kill-least-8-041009401.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-strikes-kill-least-8-041009401.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Old video of Sri Lankan opposition politician in tears falsely linked to his son's arrest]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F10CA4D83607E651F94C8E50DD50F8C66AE7FFF2097D7FF1AAB3D3615F24185C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fb8df4aef0e691a2d7ac1d8f7b28dc7d9" alt="" /></p>After Sri Lankan politician Shantha Bandara's son was arrested in connection with a multimillion-rupee robbery in July 2026, posts falsely claimed an old video of the former state minister fighting back tears showed him reacting to the news. The footage was previously broadcast in April 2022, and in fact shows Bandara telling the media about a protest outside his home and how it impacted his family.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/old-video-sri-lankan-opposition-040725879.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/old-video-sri-lankan-opposition-040725879.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:51:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hanoi's residents endure upheavals as it transforms itself to match Vietnam's economic ambitions]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EAD620CE15E773FAC420D489478D176B5DCD236BEFA0ED667D67197F56534F75/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsba.ap.org%2Fdd299b24b44ac6007fbc77e5adb8d4dc" alt="" /></p>The noise is everywhere in Hanoi.  The crack of a hydraulic breaker, the groan of excavators, the crunch of brick and concrete being torn apart.  As Vietnam pushes for double-digit economic growth, its capital is pursuing an ultramodern vision for the next 100 years.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hanois-residents-endure-upheavals-transforms-040456289.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hanois-residents-endure-upheavals-transforms-040456289.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:51:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
