@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 22:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 23:57:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 22:54:41 GMT</pubDate>
+        <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sri Lanka shuts schools as floods and mudslides kill 7]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4B8F89BE5BE023F2C5F64B57F30BA00C7D18B079E8E4589041038D39D02E20C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F763558d8c097de7824cef4339f25904d" alt="" /></p>Torrential rains and flooding have damaged 129 houses and forced the evacuation of nearly 3,500 people, officials say.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/sri-lanka-shuts-schools-floods-232713577.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sri-lanka-shuts-schools-floods-232713577.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Almost 15,000 knives and weapons handed in at UK surrender bins]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/54A47FC5EF4F70497537F1D8093151A2912C7D14B14CE58A4803D72A101A5612/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F59c21d07fc9a8223d4f57518fb17e2ff" alt="" /></p>Zombie-style knives, kitchen knives and machetes were among more than 14,500 weapons dropped off in UK government-backed amnesty bins since July last year, according to the Home Office. Policing Minister Sarah Jones said each time a knife is surrendered, communities around the country are made “that little bit safer.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/almost-15-000-knives-weapons-231836753.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/almost-15-000-knives-weapons-231836753.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mysterious elephant deaths in Kenya raise questions around pesticides]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/025859BE2585DC673CF4638F965A9627C584C244A69C93978D296466B0D85486/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F8c5960ceafa3615638900d21a2e21f43" alt="" /></p>A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mysterious-elephant-deaths-kenya-raise-231307496.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mysterious-elephant-deaths-kenya-raise-231307496.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My grandmother subjected my baby to female genital mutilation behind my back']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/63DD29EAD14E9C76E5087222BE1A8DB80CBF4565AFC14BB51EEE545D9B019A8D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Feb1e166232c2ff13fef3c1d7f441d88b" alt="" /></p>In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/grandmother-subjected-baby-female-genital-231305726.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grandmother-subjected-baby-female-genital-231305726.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfire destroys about 230 homes in western Canadian Indigenous community, officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0516DB5B3511F2FFD81B2CFFAE1E0C6F9D2602F16397BEAE18CE742DD06F013D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8d2bbd80a7ba3b9abd0fd032f21137f2" alt="" /></p>A fast-moving wildfire destroyed about 230 homes in an Indigenous community in western Canada, officials said Tuesday, making it one of the country’s most destructive fires in recent years.  Dan Wilson, chief of the Okanagan Indian Band, said the Bradley Creek wildfire devastated much of the reserve near Vernon, about 440 kilometers (275 miles) northeast of Vancouver.  Canada has endured increasingly destructive wildfire seasons in recent years, with smoke from the blazes repeatedly spreading across North America and triggering widespread air-quality alerts.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/wildfire-destroys-230-homes-western-225222054.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfire-destroys-230-homes-western-225222054.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guatemala evacuates communities as Fuego Volcano enters dangerous new eruptive phase]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D20BA8C713A99485FD7B607AAFCA51AB81FA748A7CF883CADF012CB8FCE0B4DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2Ff583bd95435095e71dabb91604597353" alt="" /></p>Guatemala's Fuego Volcano — known as Volcan de Fuego — has once again erupted, prompting hundreds of residents to evacuate as conditions threaten nearby communities. Hundreds of people have been evacuated from several communities, with nearly 300 people sheltering in temporary evacuation centers.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/guatemala-evacuates-communities-fuego-volcano-211956110.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/guatemala-evacuates-communities-fuego-volcano-211956110.html</guid>
+            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
+            <pubDate>Tue, 04 Aug 2026 23:57:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B558DBF7641CC68AE0B4A53136ADE4B1D3B62E0C4EBE4A1F46A36EB3795722F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F98b7ff9964415696fc3c09159482f38e" alt="" /></p>Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.]]></description>
             <link>https://www.yahoo.com/news/world/articles/slut-shamed-indian-women-cockroach-222836622.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/slut-shamed-indian-women-cockroach-222836622.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 22:54:41 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/17C06AEDE74079DA5F857C18102F307ED4083C5A64F9ADDB9BD9C49352351E8F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F44d547f737a05c5c5259383839916a45" alt="" /></p>Their fellow guides say their deaths in Pakistan dealt a devastating blow to Nepal's mountaineering community.]]></description>
             <link>https://www.yahoo.com/news/world/articles/generation-record-setting-guides-died-220957293.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/generation-record-setting-guides-died-220957293.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 22:54:41 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21532F5D967B62973D2FEB8C5B88FBB9E4E084856334BDE9DE5C9B41A65E9263/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b39e6a199c172c921ed31f9c69ce69f" alt="" /></p>SEOUL, Aug 5 (Reuters) - North Korea's Kim Yo Jong, the powerful sister of leader Kim Jong Un, criticised in a statement Japan's recent test-firing of a Tomahawk missile, state media KCNA reported on]]></description>
             <link>https://www.yahoo.com/news/world/articles/kim-yo-jong-criticises-japans-212246068.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kim-yo-jong-criticises-japans-212246068.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 22:54:41 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +82,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D75D3FD542186B2255FC9D9A6D39B3FB8D3FCDEE4F00545EEA27092C973A78FA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F178636ea36eaba1832edc4285f3ed99b" alt="" /></p>An Afghan boxer accused of murdering a British woman in Greece and dumping her body in a suitcase allegedly posed as a jihadist to deceive friends after her death.]]></description>
             <link>https://www.yahoo.com/news/world/articles/athens-suitcase-murder-suspect-posed-203329108.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/athens-suitcase-murder-suspect-posed-203329108.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 04 Aug 2026 22:54:41 GMT</pubDate>
         </item>
         <item>
@@ -6980,48 +7024,6 @@ bc-pgf/cc/msp]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8357FBFFF2F2E4D8F5ACB9B62598B6C123635626E39F9FB08CC2C8EABAB7AE7E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F62b610eb10b9386e7486c804945ed72f" alt="" /></p>Following attacks on its ships, Saudi Arabia has announced a military alliance to protect shipping in the Red Sea and around the vital Bab al-Mandab (Gate of Tears) Strait. According to Saudi officials, the alliance includes 14 countries, among them the Gulf states of Kuwait, Qatar and Bahrain, as well as Pakistan, Turkey, Egypt and Jordan.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudi-arabia-announces-military-alliance-180502096.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-announces-military-alliance-180502096.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Building partially collapses in Sicily, search for missing under way]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B0A703458B311A8E4225A7C98560036B53B6635A0800546CE36C819B1829D07F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbb5e64c92df3520120cd8106cae689c0" alt="" /></p>Several people have been injured after a building partially collapsed in the Sicilian city of Messina, with fire service rescue teams searching for possible missing persons, Italian media reported on Thursday. The building in the south of the port city contains both flats and shops.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/building-partially-collapses-sicily-search-180502586.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/building-partially-collapses-sicily-search-180502586.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Informal poll shows Costa Rica's Grynspan ahead in race to be next UN chief]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EBD2A452A349DE5906AF79A3DBDD73B028F711D7CFF23F3A4CAE75FF3BC0D9EF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F19ffc9dad219ae85a2c6fe8423bf0a21" alt="" /></p>By David Brunnstrom, Michelle Nichols and Emma Farge July 30 (Reuters) - A first informal U.N.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/informal-poll-shows-costa-ricas-170910225.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/informal-poll-shows-costa-ricas-170910225.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Most dangerous' child sex offender jailed for 22 years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B795F831468450A80C280984C7905C2EC7BDA0C9AD285340CF8CEB524B49363/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6db1e9be55f14faa994ec6fa73d88b77" alt="" /></p>A detective says Paul Hopkins is the most dangerous offender his team has ever investigated.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/most-dangerous-child-sex-offender-175403459.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/most-dangerous-child-sex-offender-175403459.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian mayonnaise billionaire arrested on drone fraud suspicion]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7243CA9FF721724BDC6DCFB9D971953C4FD1154670E59922144CD730FDC4B64F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3fbab64cf4dd4a486598f7862a9d7869" alt="" /></p>Russian billionaire Yevgeny Kustov has been arrested on suspicion of fraud related to a state contract for drone production, media reports said on Thursday. The general director of Kustov's food company Efko, Yevgeny Lyashenko, was also taken into custody, the online portal RBC reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-mayonnaise-billionaire-arrested-drone-174832904.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-mayonnaise-billionaire-arrested-drone-174832904.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[186 Passengers Rescued After Cruise Ship Runs Aground on European Sailing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD6BB1924009CD59BB0E65F83CED67D086B3A0B4B5343BEFD372CBCD48901889/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ffe26b04b757eace8064dc53dbc6cf6f5" alt="" /></p>Bulgarian Border Police evacuated the ‘Viking Ullur’ passengers on July 28 after the ship ran aground due to extremely low water levels]]></description>
-            <link>https://www.yahoo.com/news/world/articles/186-passengers-rescued-cruise-ship-174614905.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/186-passengers-rescued-cruise-ship-174614905.html</guid>
-            <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia used N.Korean missile for deadly strike on Ukrainian village, Zelenskiy says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AF0651FBE8F3AFF0F3C7C6275ECD35221A50FA7A555D16CCACEFF5AC05D26FFA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff930cee2feaf27685da30a60e9e09143" alt="" /></p>LONDON, July 30 (Reuters) - Russia used a North Korean missile for a strike on a village that killed five members of the same family, Ukrainian President Volodymyr Zelenskiy said on Thursday, in what ‌would be the first time such a weapon has been fired in the war in nearly a year. Russia ‌has launched North Korean missiles at Ukrainian targets before, but their first deployment since August points to a fresh stock of weapons that Moscow can draw ​on as it steps up missile attacks, a military s]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-used-n-korean-missile-174211862.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-used-n-korean-missile-174211862.html</guid>
             <pubDate>Thu, 30 Jul 2026 18:53:18 GMT</pubDate>
         </item>
     </channel>
