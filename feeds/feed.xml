@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 06:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 08:08:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ukrainian attack sparks fire at Russian Wildberries logistics centre]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/071D96F9317D4D9E50C41DD948C3862F97CCB5AFF9D5806BE2277B9496101D76/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd80f8f565f42aff4594be5bfc5fd0826" alt="" /></p>A Ukrainian drone attack sparked a fire at a logistics centre belonging to Wildberries, Russia's largest online retailer, in the city of Yekaterinburg, the company said on Friday. Employees were evacuated from the facility in time, Wildberries said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukrainian-attack-sparks-fire-russian-074911743.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-attack-sparks-fire-russian-074911743.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 dead, including suspected gunman, in school shooting near Bangkok]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FDDDF89EF5611CFE9F6836968D0026700194CF739F3098ACA1EB5B440609E81/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F03fc15125c805f5d860ee9bfc44b8313" alt="" /></p>At least seven people were killed, including the suspected gunman, following a shooting at a Thai school on Friday Morning, authorities said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/7-dead-including-suspected-gunman-065102026.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/7-dead-including-suspected-gunman-065102026.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least 6 dead, 15 injured in shooting in Thailand high school, officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/468944926913FFDC67822E02048C84F168F320426A989709EF431B453ABF0CF5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F9604aa1997bfd5141c7b3831b99d4d53" alt="" /></p>A student shot several people at a high school outside Bangkok on Friday, killing three teachers and three students and wounding 15 others, police said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-6-dead-15-injured-063126438.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-6-dead-15-injured-063126438.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kenya ranch lost half its farmers as invasive cactus spread, but displacement went uncounted]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8386064E1E6C83116DA725C3B0BC4F8370B8171565416C7D99A30F74235EF6C2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ff3de87889b345ce0d2e36632035a3619" alt="" /></p>"In the case of invasive alien species, too little attention has been given to the link between their spread and forced migration."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kenya-ranch-lost-half-farmers-070800418.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kenya-ranch-lost-half-farmers-070800418.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As many Europeans jet off for the summer, how many citizens can't afford a holiday away?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/820FA249E894CF8133AF47B71F5FB804F8B3FADC6AE0FC23A8E6DC82C5A44C25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F434c0208911ebfb186413e12ddb823d1" alt="" /></p>The number of EU citizens who can afford a week off varies across the bloc, with the rising costs of accommodation, transport, and food cited as reasons for holiday poverty.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/many-europeans-jet-off-summer-070141103.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/many-europeans-jet-off-summer-070141103.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Dead, Including Suspect, In Thailand School Shooting]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A463CEC9D5E1846D1CEE374805B4AE25BADEA72E0A4323CC1582EB54A922D233/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F3901dd5e8627672b075d341eaa428b25" alt="" /></p>Police identified the perpetrator as a student.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/7-dead-including-suspect-thailand-064233657.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/7-dead-including-suspect-thailand-064233657.html</guid>
+            <dc:creator><![CDATA[HuffPost]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 08:08:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scotland's papers: Students 'crowded out' and secret Spidey wedding]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F7AC1B0ED6886D6867C6B7AC038C10ADBC3F7EFA2CA5FB397042440EC346B21A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2f2ddbdf77bc93083f2fc97f2d333a38" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scotlands-papers-students-crowded-secret-063036513.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-students-crowded-secret-063036513.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The garden featured 2,400 plants and was where King Charles and Queen Camilla emerged from a Tardis at the start of the show.]]></description>
             <link>https://www.yahoo.com/news/world/articles/commonwealth-games-garden-replanted-port-052432412.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/commonwealth-games-garden-replanted-port-052432412.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/770103741E8D91F6985483588F102B6BEA81EC50D24FEE00B81398193A37E88B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F223b2e952650b2b372d037ad0546fb8a" alt="" /></p>At least one teacher was killed and four other people injured by a student who opened fire at a school in Thailand on Friday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/teacher-killed-least-four-others-051123493.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teacher-killed-least-four-others-051123493.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +82,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8F6235C6581674F9A886BD3217BCE72B232266FCCB44F07CFDABE173593D5E5D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa78244539a05ec3870b5b0b312b7b925" alt="" /></p>Inside Taiwan’s biggest diesel-fuelled power plant, a commanding officer receives a call from central command.]]></description>
             <link>https://www.yahoo.com/news/world/articles/taiwan-prepares-defend-front-line-050000198.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-prepares-defend-front-line-050000198.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +89,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EC3EAB9682A5C864159E8BB09F6B70E210F1342304603D1DC3BD410A65CF7989/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb74bb726a713ea12528185446764aa7d" alt="" /></p>The NHS taught midwives the health risks of cousins having children were “exaggerated”, The Telegraph can disclose.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nhs-downplayed-risks-cousins-having-050000689.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nhs-downplayed-risks-cousins-having-050000689.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +96,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/07113C76387134844F150FACE24B90123EAE53B879D9527498D4F07EC5B33505/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F8145112ea1be1a8da56bdb181decad8a" alt="" /></p>At least one teacher was killed and several others wounded by a student who opened fire at a school in Thailand on Friday, Reuters reported authorities as saying.]]></description>
             <link>https://www.yahoo.com/news/world/articles/teacher-killed-students-wounded-school-045122274.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teacher-killed-students-wounded-school-045122274.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +103,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B076B29D752A4D2AB3495196C3A63D350F90D55EEE6055BF76B7A8E8707686F3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F75d78aeeb0e91259027bc28f623f63bc" alt="" /></p>A student shot several people at a high school outside Bangkok on Friday, killing three teachers and three students and wounding several others, police said.  The shooting happened at the Debsirin Nonthaburi School in Nonthaburi province northwest of the national capital, Royal Thai Police spokesperson Trairong Piwpan told The Associated Press.]]></description>
             <link>https://www.yahoo.com/news/world/articles/police-respond-shooting-high-school-040811175.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-respond-shooting-high-school-040811175.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +110,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/806A51A6CC8B0A6BBA17370EBE92CE9F22BAA13A3AA6C6A07D66796ED1FBB2CC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_business_text_367%2F524bb99b768b18368345b5afd722cc93" alt="" /></p>South Korean police blocked Trader Joe's Everything but the Bagel seasoning on Karrot after tests detected morphine and codeine in its poppy seeds.]]></description>
             <link>https://www.yahoo.com/news/world/articles/south-korean-police-crack-down-035511770.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korean-police-crack-down-035511770.html</guid>
-            <dc:creator><![CDATA[Fox Business]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 06:45:24 GMT</pubDate>
         </item>
         <item>
@@ -6980,48 +7020,6 @@ He added that 22 people had been wounded and another body, suspected to be that 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B4A2614424D0A2628DCCD1C948280CC03B845F682B05911CECC0F0543EC3F418/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F29a8fe005deff99746b4632840992c70" alt="" /></p>Further bodies have been recovered from the sea off Ceuta following the influx of tens of thousands of migrants into the Spanish exclave in North Africa, bringing the total death toll to 72, the Spanish Interior Ministry's representative in Ceuta Miguel Ángel Pérez Triano told journalists on Sunday. Previously, 67 deaths had been officially confirmed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/confirmed-death-toll-ceuta-crisis-104820899.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/confirmed-death-toll-ceuta-crisis-104820899.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Five dead, 41 missing, after Indonesia ferry catches fire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The vessel with at least 250 people on board caught fire off Madura island.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/five-dead-41-missing-indonesia-100223616.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-dead-41-missing-indonesia-100223616.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grand designs: Tashkent’s modernist architecture joins UNESCO World Heritage List]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5979C7AE21DFD70632D227CC631C33E4814666EF98FBB88DF92D9F227B99781/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F2ea721d6181ee5bcd39b35f2471a6480" alt="" /></p>The listing covers ten buildings and complexes from the 1960s to the early 1990s, recognising how modernist design was adapted to Central Asian traditions, climate and urban life.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/grand-designs-tashkent-modernist-architecture-104614187.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grand-designs-tashkent-modernist-architecture-104614187.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French wildfire near Bordeaux contained as 1,500 firefighters battle separate blaze in Provence]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CBDC09420C7038F95372E4877B951671A1C7233BF8C209D030EB17DEB0BCB058/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff603484b9bf41d0d48488e8ae99c09d1" alt="" /></p>France’s vast wildfire near Bordeaux, which scorched an area four times the size of Paris and forced 224,000 people to evacuate, remained contained Sunday but was still burning.  Hundreds of kilometers (miles) away, a newer blaze in Provence had stopped advancing overnight but was not yet contained.  About 3,000 firefighters remained deployed across the two fronts, extinguishing hot spots, cutting firebreaks and securing areas of burned forest as high temperatures and wind threatened to breathe new life into smoldering embers.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-wildfire-near-bordeaux-contained-102500375.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-wildfire-near-bordeaux-contained-102500375.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Circumstances of Moscow bomb explosion remain unclear]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/199BBCF18D05B7DD525FB8AF5BE8747A2A3114CEB3864F625B9B9D25F4101822/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4c34d92b5e13b4365aa876020339f4d0" alt="" /></p>The circumstances surrounding the fatal detonation of an improvised explosive device at a Moscow restaurant remained unclear on Sunday. Several news channels on Telegram reported that the death toll from the incident had risen to five.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/circumstances-moscow-bomb-explosion-remain-101822567.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/circumstances-moscow-bomb-explosion-remain-101822567.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF to begin combat processing program for Givati soldiers following mass walkout from Sde Teiman]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF07E9518B99698BBF3BAE3E66F5A7966CD894B4B7C848ABE2827322C18C707A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3668e89c45e1d711d7d162f25dcb8f7a" alt="" /></p>The program will focus primarily on discussions with organizational consultants and mental health officers, during which soldiers will have space to share their combat experiences. Givati Brigade's Tzabar Battalion will be made to take part in a combat processing program after returning from leave, decided Brig.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/idf-begin-combat-processing-program-100313017.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-begin-combat-processing-program-100313017.html</guid>
-            <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Latest news bulletin | August 2nd, 2026 – Midday]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B91493CD4AEC8056D94588B1D2EDAD7CE84EED59E23CF034B7FFF2E8FCEB3F41/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fce63e9aacd7889635064745b67f6700b" alt="" /></p>Catch up with the most important stories from around Europe and beyond this August 2nd, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-2nd-100016306.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-2nd-100016306.html</guid>
             <pubDate>Sun, 02 Aug 2026 11:11:40 GMT</pubDate>
         </item>
     </channel>
