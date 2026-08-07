@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 21:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 22:26:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 22:26:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Justice Alito says he is staying on Supreme Court for another term]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B93A33F3152946E19846C0EBA6F5D87E4EE602BCC010CE8B397936FDF103ABC6/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc1714a159df12d145a84e8fe98356dd4" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/justice-alito-says-staying-supreme-221523565.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/justice-alito-says-staying-supreme-221523565.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 22:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Iran's Evin Prison, U.S. citizen Reza Valizadeh releases audio update]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F9B3D0CE4E65E6E356F5FF5796597100435552DA6A8F788F2D98524F7F98678E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fe6908905b6311c0f11826a4b7da56b6e" alt="" /></p>CBS News received a second audio message from journalist Reza Valizadeh, who's been held in Iran's notorious Evin Prison since 2024. He gave an update on the prison conditions and on fellow American Kamran Hekmati, believed to be suffering from a recurring cancer.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/irans-evin-prison-u-citizen-211300941.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/irans-evin-prison-u-citizen-211300941.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 22:26:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B8483A091655DFDA9D929D249BEEA6B52B40042A1D3FC3C4595AF70081BFD826/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F5a64fc147a72f661f0bee047a9153878" alt="" /></p>Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/security-researchers-scanned-polish-found-210008675.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/security-researchers-scanned-polish-found-210008675.html</guid>
+            <dc:creator><![CDATA[TechCrunch]]></dc:creator>
+            <pubDate>Fri, 07 Aug 2026 22:26:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thai PM vows to introduce stricter gun laws after eight killed in shooting]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/841AB83A24B838E9E35BA93EA357448152EA5DEACD76A6986ECE2196D56CC86C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6f65092d438021fb6f5321a408ebdf88" alt="" /></p>Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thai-pm-vows-introduce-stricter-211934349.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thai-pm-vows-introduce-stricter-211934349.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED7932602946BBB5154724632DE7CDBE7F7F7A88D11506585D0447D8ADDE121C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F14823a94901b007f3fa116e9042c3823" alt="" /></p>New Israeli attacks reported in southern Lebanon as Beirut offers optimism after the seventh round of discussions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanon-points-positive-progress-borders-210231288.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-points-positive-progress-borders-210231288.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9DF739BA5470D0DA6BD9DF3E0C0C481351DF0FE619AC15A69E9087A06AE51924/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0f382fc5f5a81da6bd75d5355bc3f9d7" alt="" /></p>The Bundibugyo epidemic, the world’s second-largest, has been described as the ⁠fastest-spreading on record.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ebola-cases-top-4-000-204146204.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-cases-top-4-000-204146204.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F17690CEC43F53BE57E4554EC1341B50335ECCBD8958F59F74AC6B251C04805C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc8830caac7d72cec243028a7ceb39221" alt="" /></p>Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who demanded a ransom.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kidnapped-rare-serbian-eagle-freed-204103743.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kidnapped-rare-serbian-eagle-freed-204103743.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97CDE601EEAC2A6311C550C9E7C5D4643A1BC5B785B4CE4E4002788F0083F91A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1bcaa1a01b621324fa2ac8db784dcbea" alt="" /></p>The motorbike rider, a man in his 60s, was pronounced dead at the scene, Irish police have said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/motorcyclist-dies-county-donegal-crash-202143467.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/motorcyclist-dies-county-donegal-crash-202143467.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 21:30:55 GMT</pubDate>
         </item>
         <item>
@@ -6996,27 +7015,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6A72046B87255256E217E61BE9286518A3467368937DAEE086A276FA3DEC9B9B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5bca86f7b76552da3504e8e16b6f0784" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scotlands-papers-suitcase-killer-arrest-060130383.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-suitcase-killer-arrest-060130383.html</guid>
-            <pubDate>Mon, 03 Aug 2026 08:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aung San Suu Kyi meets Red Cross official, military-backed government says, after proof of life campaign]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DC717F2E2AE131D350A7C43970084B7F4F1583EEBA99A7BD9DB610257E971BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F04c0d4f10e64e228b74659e09163273a" alt="" /></p>Myanmar’s detained former leader Aung San Suu Kyi met with a representative of the International Committee of the Red Cross on Monday, a government spokesperson said, in what appeared to be her first public meeting with a foreign official in several years, and which comes after international concerns about her health.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/aung-san-suu-kyi-meets-061644768.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/aung-san-suu-kyi-meets-061644768.html</guid>
-            <pubDate>Mon, 03 Aug 2026 08:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Myanmar says detained former leader Aung San Suu Kyi met Red Cross official]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A3F4F57BBD250543FF42834AB87A3C2A6497378C67D286B22F5A84241D0539C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F40438973d0076c0d547acf886ba7fe67" alt="" /></p>Aug 3 (Reuters) - Myanmar's detained former leader Aung San Suu Kyi met with a representative of the International Committee of the Red Cross on Monday, a Myanmar government spokeswoman said,]]></description>
-            <link>https://www.yahoo.com/news/world/articles/myanmars-aung-san-suu-kyi-041110828.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/myanmars-aung-san-suu-kyi-041110828.html</guid>
-            <pubDate>Mon, 03 Aug 2026 08:28:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cyberattack hits Liechtenstein's register of people behind companies and foundations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/62F93E1C5825C511C718BDF98203765AE48DD3B50787EEAF6807A6A7DB01A4C3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F28673444579f3e6aa04d9ea3bef8b725" alt="" /></p>A cyberattack tapped the data of some 31,000 people in Liechtenstein's register of people behind companies and foundations in the wealthy principality, the government said.  The “register of economic beneficiaries” was accessed at night from Wednesday into Thursday last week, the government said.  It said that the breach was noticed on Thursday, that measures were taken to secure data and the system taken offline.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cyberattack-hits-liechtensteins-register-people-065757820.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cyberattack-hits-liechtensteins-register-people-065757820.html</guid>
             <pubDate>Mon, 03 Aug 2026 08:28:49 GMT</pubDate>
         </item>
     </channel>
