@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 23:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 23:52:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 23:52:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Four killed in helicopter crash in Brazil’s Rio de Janeiro]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/209BBE0ECAB987DD78A0FB0BCC88094A08203356B3862D71048D6FF11D7EB7D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F062090702e99a55229e872080e980dc7" alt="" /></p>Three Colombian tourists are among the victims of Saturday’s crash on mountainside forest of Tijuca National Park.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/four-killed-helicopter-crash-brazil-231928949.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-killed-helicopter-crash-brazil-231928949.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 23:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teen Was Allegedly Tortured, Wrapped in Plastic and ‘Tied to a Tree’ for Hours. 9 People Have Been Connected to the Attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31BC9975492C83497292B0FE05E69375965D39289D460BC66DA71DAA47B11CA1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F69a95f52bcdcda94e147d849b5d0532f" alt="" /></p>A jogger found the 17-year-old boy zip-tied after he had been left, unable to move, for more than five hours, according to police]]></description>
+            <link>https://www.yahoo.com/news/world/articles/teen-allegedly-tortured-wrapped-plastic-231657794.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-allegedly-tortured-wrapped-plastic-231657794.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 23:52:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crews recover 19 bodies from rubble of destroyed Gaza building]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE8A73CCFB9B74656D5DAF5641386C039D3A6D3334BEF75266D92378FAEB7DB2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F619d471f304fa736e7629b6349359801" alt="" /></p>More than 8,000 people remain missing amid rubble in Gaza, with recovery efforts hindered by lack of heavy machinery.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/crews-recover-19-bodies-rubble-230930085.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crews-recover-19-bodies-rubble-230930085.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 23:52:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US immigration agency will finish body camera rollout this month, ICE leader says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85870CF060D63D88FAA0420F2B080E990DB5041CCCC2CB8EBA041B727CE22589/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1b5fa8485b2a2f911be48cacae546ed2" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/us-immigration-agency-finish-body-225851341.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-immigration-agency-finish-body-225851341.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D19202AC42EE27DFE43F99E49000D080052D5ED174BDA3928ED5750076606B4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F690d95231c9c20aaa90d5e2fad6f1092" alt="" /></p>Germany plans to expand research into drone security after a drone carrying explosives was found at Leipzig/Halle airport earlier this week, Interior Minister Alexander Dobrindt said. A new drone security research facility will be established on August 18 at a German Aerospace Center (DLR) test airport in the eastern state of Saxony-Anhalt, Dobrindt told Sunday's edition of the Bild tabloid.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germany-expand-drone-security-research-224820555.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-expand-drone-security-research-224820555.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
         </item>
         <item>
@@ -6993,27 +7015,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1EAA7159B3A5D95A3E953FF5D514346AD629EADFF1A9D642A4BA65A2EE04CD72/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F70c3ac7aa42c483c8731669538340dd0" alt="" /></p>Princess Isabella of Denmark, 19, arrived alone and smiling for her first day of military service, turning down a $29,400 salary like her brother Christian]]></description>
             <link>https://www.yahoo.com/news/world/articles/princess-isabella-denmark-begins-military-191317038.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/princess-isabella-denmark-begins-military-191317038.html</guid>
-            <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[6 Cruise Passengers Reportedly Arrested After Accessing Ship’s PA System to Make False Announcements]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F174861D288BF656DE7E9C342829E4C8E581A8184AC9D9C2F64CFA20DF5F96D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fef0e589861770a4f690e079d4a2642f9" alt="" /></p>The passengers disembarked the ‘MSC Divina’ in Naples, Italy, and were accused of unauthorized access to a computer system and causing alarm, per local reports]]></description>
-            <link>https://www.yahoo.com/news/world/articles/6-cruise-passengers-reportedly-arrested-190442914.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/6-cruise-passengers-reportedly-arrested-190442914.html</guid>
-            <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teen breaks world record as youngest-ever male professor]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D9BD68DA60761E44AFF758C2C9B651FC05FA346FAF8AC20BFCB1B773089A369A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fd82d9cfd131e5959a8994655ae1bfb0e" alt="" /></p>Nathan Thomas, who is now 21, broke the record at the age of 18 years and 346 days old]]></description>
-            <link>https://www.yahoo.com/news/world/articles/teen-breaks-world-record-youngest-185429309.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-breaks-world-record-youngest-185429309.html</guid>
-            <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French forest fire reveals dozens of unexploded WWII grenades]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DFB9337E2AD64E7E5091D9A75BEB6FF6C874498E2BB729CC00F99FEFD9CD6EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb9457acf4d3da4792f101c1b615fa3ab" alt="" /></p>A French ordnance disposal experts have discovered dozens of World War II grenades in an area ravaged by the major forest fire on the country's Atlantic coast. "We were on a mission last week and found this field, where we removed 75 shells," Philippe Delemotte, head of the Bordeaux explosive ordnance disposal service, told broadcaster France Info on Monday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</guid>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
     </channel>
