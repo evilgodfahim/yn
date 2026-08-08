@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 23:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 01:04:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[UN envoy for Yemen warns of risk of renewed large-scale conflict]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/166B2A0541B9FEFBDDBBBE7975FB2CADCC9DA749D591DA768C95A52A8E2CC02A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3559ecefcbef85061f6c8cf7b68ef71d" alt="" /></p>The United Nations Special Envoy for Yemen, Hans Grundberg, on Friday warned about escalating violence in Yemen. "Yemen today faces a greater risk of renewed large-scale conflict than at any point since the UN-brokered truce of April 2022," he wrote on X.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-envoy-yemen-warns-risk-003336416.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-envoy-yemen-warns-risk-003336416.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[He's been frozen on Everest for 30 years, now 'Green Boots' may finally be coming home]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04F9AC86EFC60A67E3EBC2F9D4A4FDB0390DF3D843759A0F3C1D1688FF44404D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5e7d321faea999ec057aa175af4d2247" alt="" /></p>For decades, an Indian man's lime shoes have been a grim trail marker for many climbing the world's highest peak.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hes-frozen-everest-30-years-002944217.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hes-frozen-everest-30-years-002944217.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sudan’s war threatens an ‘entire generation’s’ future, UN warns]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39671BD147354978E5BC609702CADD65556F1E27C80CB4911E6CB6BC23DCD546/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff13fd55f6db3a2ff9716ec245f964bda" alt="" /></p>War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/sudan-war-threatens-entire-generation-002442828.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sudan-war-threatens-entire-generation-002442828.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In Greece, horses flee flames as fast-moving wildfire destroys more than 100 homes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FEFC3DF4D98E950E29120AF65837222DAFF5E5A53071A6C839E609BF216A0CAB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F84b7514248a09d5b44c8ea1e0838c991" alt="" /></p>"Animals don't start these fires, yet they suffer the most."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/greece-horses-flee-flames-fast-001800783.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/greece-horses-flee-flames-fast-001800783.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I ran because I knew I would die': Russian drones target medics in Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ran-because-knew-die-russian-000257430.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ran-because-knew-die-russian-000257430.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen's Houthis escalate deadly attacks on Saudi-backed troops]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/863BA69E8E794ABFF3296A2C8BC10EE38088DF3F3A4500A3365FB50201408274/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Ff1f570084a4c5e672872d7777f86e7f7" alt="" /></p>Yemen's Houthi rebels launch fresh attacks on Saudi-backed government troops, says Yemeni state media, as Cruz says Trump must seek "regime collapse."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/yemens-houthis-escalate-deadly-attacks-105251659.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemens-houthis-escalate-deadly-attacks-105251659.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain Tracks Social Media Chatter Over New Ceuta Migrant Surge]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/131210C9B22F1ADEFFE72F466A2170C50D6D4841770D1E85D159DC87C2662838/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Faa6f3d5d96cb4d9b3753298ffcd055fb" alt="" /></p>Spain Tracks Social Media Chatter Over New Ceuta Migrant Surge]]></description>
+            <link>https://www.yahoo.com/news/world/articles/spain-tracks-social-media-chatter-222855793.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-tracks-social-media-chatter-222855793.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 01:04:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Colombia president pledges robust fight against crime, fiscal austerity in maiden speech]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A4E59833CBEBDED79EFB71478FB7D62A68E851CEE75915B8FCCB089DBFC6DA79/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8894a989446bb36641d6164b5ef5cd6c" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/la-espriella-office-colombia-president-110245190.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/la-espriella-office-colombia-president-110245190.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7382A7449B759832844E76EF5A7762C24D5F99F57ADEC0D60651988F656452CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2Ff4c2e22591660a9d65ffcefa44046e16" alt="" /></p>Are viral high-resolution images real photos or screenshots actually showing the person suspected of punching a man in broad daylight in Warsaw, Poland? No, that's not true: Two AI detectors said the images were generated by AI. The real recording...]]></description>
             <link>https://www.yahoo.com/news/world/articles/fact-check-viral-images-not-234406817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-viral-images-not-234406817.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/057F3326E203CE05847D182F132A2F34FC35E6C8CF4C96ED5FB18297827E0F6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F410a434d033a559842953dab5f245cb8" alt="" /></p>Berlin's legendary club scene is still packing dance floors, but behind the crowds and pounding beats, venues are struggling to make ends meet as customers spend less on drinks and costs continue to rise, according to a new study. Clubgoers are planning their nights out more carefully, staying for shorter periods and drinking less, the Berlin Club Commission said, citing its "Club Culture Berlin 2026" study commissioned by the city's economic affairs department and released on Friday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/berlin-clubs-increasingly-reliant-entrance-233328523.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berlin-clubs-increasingly-reliant-entrance-233328523.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1473CF2EA8D33476503629099E09E75EA960CDE48929B9CECCF72EBB0A448CFF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa5e889f63ae96d4b95b949703e950cad" alt="" /></p>How we tracked down "The Spider" who was once one of the most-feared men in Syria.]]></description>
             <link>https://www.yahoo.com/news/world/articles/phone-book-led-us-assads-232319905.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/phone-book-led-us-assads-232319905.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51009BB3E1DD31401C4AD0C02BE076B6D8EE56A22C5E2AC283C55EA0A86C917D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff26fa00b21c6547e23a64d39029b9bf3" alt="" /></p>The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?]]></description>
             <link>https://www.yahoo.com/news/world/articles/pakistan-saudi-turkiye-alliance-actually-231814323.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-saudi-turkiye-alliance-actually-231814323.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F4E95890BB973B24D1BA057615753912846C09B89602506C5EB91E74013F0EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F2be0e86854d7ddf30744556b89f7de97" alt="" /></p>Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.]]></description>
             <link>https://www.yahoo.com/news/world/articles/medics-among-six-palestinians-injured-231501949.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/medics-among-six-palestinians-injured-231501949.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Fri, 07 Aug 2026 23:55:51 GMT</pubDate>
         </item>
         <item>
@@ -6969,55 +7019,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F7C350C713EDFB39F01ADCAE804178866BC707490BDBB1C5D9DB820DAF44CB9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F7ee43f10a6d6f7c8b6a5bca28b6bfed1" alt="" /></p>One of the infants had an extra rib growing from a neck vertebra]]></description>
             <link>https://www.yahoo.com/news/world/articles/infant-twins-found-buried-ancient-092805893.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/infant-twins-found-buried-ancient-092805893.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video shows damage after Naples earthquake injures 26]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7D421A4407B9BF9196CC60FE0777BCF03CFC18BA16E58E2A66406887C123ABE1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fa203b8964e3470a39620a8973b294f5e" alt="" /></p>New footage shows the aftermath in Pozzuoli after Friday's magnitude 4.7 earthquake near Naples injured 26 people and damaged buildings in the Campi Flegrei volcanic area.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/video-shows-damage-naples-earthquake-092337981.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-shows-damage-naples-earthquake-092337981.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia retailer Wildberries targeted again by Ukrainian drone strike]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AC9F7AD927D451848EE9AF8A07C491E998C116508BCF2764CCCF41D7B16CA0BD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6f2b99930c992275361e14e2b1e891ab" alt="" /></p>A Ukrainian drone attack on Russia's largest online retailer, Wildberries, has set a logistics centre in the Vladimir region to the east of Moscow on fire, the company said on Monday. Governor Alexander Avdeyev said two people had been injured in the attack.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-retailer-wildberries-targeted-again-092011740.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-retailer-wildberries-targeted-again-092011740.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two executed in Iran accused of spying for Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5FB08F695B39E714813FDFEB4D81F5A40A5A1CA86FEC085E24E5D7218C385C92/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F51628e835b682e3c0e76e43c704cc99d" alt="" /></p>Iran has executed two men on suspicion of spying for Israel, according to the judiciary-linked news agency Mizan. The two had passed on coordinates and photographs of sensitive military and security sites to "channels linked to Israel's Mossad intelligence service" during the war with the US and Israel, Mizan reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-executed-iran-accused-spying-092011363.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-executed-iran-accused-spying-092011363.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two workers killed in blast after re-entering quake-hit Japan mall on boss' order]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64ED4CA0FD411DED842EE56BDB71B4F3EB38AB15EA045C2B4FA45206D93801AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F97a8f4aed7a6dc88871919a7eb445570" alt="" /></p>The two women's employer has apologised for sending them back to Aeon Mall to secure cash.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-workers-told-enter-quake-084027736.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-workers-told-enter-quake-084027736.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prime minister visits quake-hit southern Japan as cleanup begins in intense heat]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E433A0122C560FF85B3A05C038A0C3759DA680E423D58AFC1EA246A6E0302FAA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb3a8e25f3b8c8e5e504206bde60e47a9" alt="" /></p>Residents in Japan's quake-hit southwestern prefecture of Kumamoto put out heaps of debris for collection as the region baked under intense heat.  The heat and a lack of water supplies have added to the challenges in the severely damaged areas where Prime Minister Sanae Takaichi briefly visited for the first time since a magnitude 7.1 quake hit Kumamoto Prefecture on Japan’s southern main island of Kyushu on Tuesday.  Thirty-eight people died during the quake, including one who died of apparent heat stroke while taking shelter in a car in hot weather and one other whose cause of death is still being investigated, prefectural officials said Monday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/prime-minister-visits-quake-hit-090217691.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prime-minister-visits-quake-hit-090217691.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Britain's 'air-con' subsidy is here, but as homes overheat, hardly anyone is claiming it]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/61A76C6A541A593DCC80067915ABBBCBDB4C900F8F5CE7DE3DC9FF1C03C1880C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fd04e39ce313099224a6a4756687d773a" alt="" /></p>The most deprived neighborhoods are far more likely to face dangerous heat exposure.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/britains-air-con-subsidy-homes-085900972.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britains-air-con-subsidy-homes-085900972.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manipulated videos of police, minister commenting on Indian protests mislead online]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C7C1024CD6192C5889F3FDE3C5DA30CFACC07853EF8BD44BED6A7EF31F8B864D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F81193a345978e83987b408aaf39ad475" alt="" /></p>Protests by the Cockroach Janta Party (CJP) over leaked exam papers in India have ended, but this has not stopped misinformation about the rallies from spreading online. The latest involves two doctored videos that appear to show a senior police officer saying he would quit and a minister calling for tough measures against the protesters. A comparison with the original footage shows the audio was altered, while detection tools have flagged it as AI-manipulated.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/manipulated-videos-police-minister-commenting-085107567.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/manipulated-videos-police-minister-commenting-085107567.html</guid>
             <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
         </item>
     </channel>
