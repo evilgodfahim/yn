@@ -4,10 +4,18 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 21:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 21:54:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 21:22:53 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 21:54:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Charity watchdog investigates aid charity over alleged Hamas links]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3722941AB54DF608EC4E00C5A5FC6C549EF350642AA05B03D757B0DB2229CCA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe5bae9aa0f29bd1ec00bc8f01d974d31" alt="" /></p>The Al-Khair foundation says it is "co-operating fully" with the Charity Commission's inquiry.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/charity-watchdog-investigates-aid-charity-213116843.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/charity-watchdog-investigates-aid-charity-213116843.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 21:54:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Paris tells e-scooter riders to wear safety gear or face fines]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B9D49AD4CEC405F62FFDFF007BE9F21FBDD56A59CB72F8D981782F8D4B62E498/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc9f7643f4e2705b7d03677593428a8f5" alt="" /></p>Police in the French capital tighten rules for riders after a sharp increase in fatal accidents.]]></description>
@@ -7005,13 +7013,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>The incident south of Aviemore began more than two weeks ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/firefighting-continues-cairngorms-wildfire-181850828.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighting-continues-cairngorms-wildfire-181850828.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Influencer Was Fatally Shot While Livestreaming. Now Cartel Member Whose Son She Dated Has Been Arrested]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/056ED59EBA0E0B55E659378ABC93DF207A1758E06C99C8F0C0E2EF5AD23A5CD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F335634c73a249f09e667065dee1984d4" alt="" /></p>Ramón Ángel Álvarez Ayala was arrested on Thursday, July 30, and is reportedly part of the Jalisco New Generation Cartel]]></description>
-            <link>https://www.yahoo.com/news/world/articles/influencer-fatally-shot-while-livestreaming-181410819.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/influencer-fatally-shot-while-livestreaming-181410819.html</guid>
             <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
         </item>
     </channel>
