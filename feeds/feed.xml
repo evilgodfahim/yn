@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 22:54:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 23:20:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 22:54:49 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US immigration agency will finish body camera rollout this month, ICE leader says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/85870CF060D63D88FAA0420F2B080E990DB5041CCCC2CB8EBA041B727CE22589/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1b5fa8485b2a2f911be48cacae546ed2" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/us-immigration-agency-finish-body-225851341.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-immigration-agency-finish-body-225851341.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany to expand drone security research after airport incident]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D19202AC42EE27DFE43F99E49000D080052D5ED174BDA3928ED5750076606B4B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F690d95231c9c20aaa90d5e2fad6f1092" alt="" /></p>Germany plans to expand research into drone security after a drone carrying explosives was found at Leipzig/Halle airport earlier this week, Interior Minister Alexander Dobrindt said. A new drone security research facility will be established on August 18 at a German Aerospace Center (DLR) test airport in the eastern state of Saxony-Anhalt, Dobrindt told Sunday's edition of the Bild tabloid.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/germany-expand-drone-security-research-224820555.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-expand-drone-security-research-224820555.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 23:20:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Car bomb attack rattles Colombia after inauguration of hardline president]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56AAA6D93B929A4155D510080E074D8F0BF7D7697D1BC1AE9EB5CAE5873CF4D7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F28e574fb3629a83989b0d9fd4280a60a" alt="" /></p>Government promises harsh response following explosives attack on Pan-American Highway in southwest of country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/car-bomb-attack-rattles-colombia-222236531.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/car-bomb-attack-rattles-colombia-222236531.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 22:54:49 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F5FD1F2E4A884CE2C187C521508A49A30A9FC17E6B71FA9BE3B1B3BD9CF5B0E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F3aa820837eb2c2b5d96f61fde71f6333" alt="" /></p>More than 20,000 people were ordered to leave their homes overnight in western Canada as a fast-moving wildfire grew rapidly and raced toward towns along British Columbia’s Okanagan Lake, destroying homes in its path.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fast-moving-wildfire-forces-more-192721374.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fast-moving-wildfire-forces-more-192721374.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 22:54:49 GMT</pubDate>
         </item>
         <item>
@@ -7000,20 +7014,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DFB9337E2AD64E7E5091D9A75BEB6FF6C874498E2BB729CC00F99FEFD9CD6EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb9457acf4d3da4792f101c1b615fa3ab" alt="" /></p>A French ordnance disposal experts have discovered dozens of World War II grenades in an area ravaged by the major forest fire on the country's Atlantic coast. "We were on a mission last week and found this field, where we removed 75 shells," Philippe Delemotte, head of the Bordeaux explosive ordnance disposal service, told broadcaster France Info on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-forest-fire-reveals-dozens-184830096.html</guid>
-            <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain said it returned ‘almost everyone’. Ceuta tells a different story]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0F58E6176BAD668C4841EF5EAB95AB00BF1978DFF8ED44B1C5A9096A9399222A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F993878461583da254756eaa18eb2b736" alt="" /></p>Military trucks loaded with migrants rumble towards the Tarajal border crossing every few minutes.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spain-said-returned-almost-everyone-181543527.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-said-returned-almost-everyone-181543527.html</guid>
-            <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pilgrims converge on Iraq's city of Karbala for the annual Arbaeen religious gathering, in photos]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/90787F8E4DED58318B07DF383004B2F883C29CA758A6767958E8CBD836F4C8ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffdb50441d38a7fb20475b5186f70358a" alt="" /></p>Millions of Shiite Muslim pilgrims are making their way to the Iraqi holy city of Karbala ahead of Arbaeen, one of the world’s largest annual religious gatherings.  The pilgrimage culminates at the Imam Hussein Shrine and the nearby Imam Abbas Shrine, where millions gather for prayers and devotional rituals, including chest beating in mourning and reaching out to touch the shrine.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pilgrims-converge-iraqs-city-karbala-181139406.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pilgrims-converge-iraqs-city-karbala-181139406.html</guid>
             <pubDate>Mon, 03 Aug 2026 20:21:03 GMT</pubDate>
         </item>
     </channel>
