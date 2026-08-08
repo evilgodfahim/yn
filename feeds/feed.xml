@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 04:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 05:37:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 04:33:28 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 05:37:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Relief of Derry parade set to draw thousands to city]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EB9678F04F3E82FD089078C14398C9DFF6E91D15F77EB6A244433B77DA1A1187/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6b60a2b8f4de10bd9daabe02e76e325c" alt="" /></p>More than 10,000 participants and 120 bands will mark the anniversary of the end of the Siege of Derry.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/relief-derry-parade-set-draw-051922987.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/relief-derry-parade-set-draw-051922987.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 05:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Nile virus cases rise across parts of Europe]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74AC28AAA333EC85F0EDAFA7BDDF2B2146EC11AB93BF86A322888D1502AEAFC4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3e50d074b5f7ca328c365dc5b2b0e9e9" alt="" /></p>More than 240 people across Europe have been confirmed to have contracted West Nile virus this year. According to the weekly report released on Friday by the European Centre for Disease Prevention and Control (ECDC), a total of 241 cases of human infections have been reported since the beginning of the transmission season up to and including Wednesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/west-nile-virus-cases-rise-050323932.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/west-nile-virus-cases-rise-050323932.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 05:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I’ve never been counted’: DR Congo’s first census in 42 years]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D923850A99831CE979B9EEF54532649D9CD611317D5F165B928986025636738B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F53d01d8ccdc041cd4dc3208fd0e02f48" alt="" /></p>For many Congolese, the census is about identity, recognition and finally being recorded by the state.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ve-never-counted-dr-congo-042946202.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ve-never-counted-dr-congo-042946202.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 05:37:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Child among three killed in Russian missile attacks near Kyiv]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1DEAE960A4990687488504196629313DF0117A26004400C97705ADF8B97A6816/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe67763df1e303f3a7999da44b68be537" alt="" /></p>Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/child-among-three-killed-russian-042340321.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/child-among-three-killed-russian-042340321.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 04:33:28 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/005FD31F91544C12175C184D640CF52AE1488F5BF670114041C102199EBD5B35/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F32fe65a0b19a31cd3bfd24ea69130218" alt="" /></p>Does a video clip show a farmer on a French show called "Face Your Worst Nightmare" being confronted with dozens of singing children dressed like the brother he killed in a drunk driving accident? No, that's not true: The clip...]]></description>
             <link>https://www.yahoo.com/news/world/articles/fact-check-video-does-not-042133785.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-video-does-not-042133785.html</guid>
-            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 04:33:28 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68081919EFABD3D0D1FD39D8EF6AAC97A09ABED27A3F409B647EB57B4536962A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fe1a0eb8cd31782c25aad3067ec1d4315" alt="" /></p>South Africa commemorates on Sunday 70 years since the Women's March of 1956, when around 20,000 women of all races marched to the administrative capital, Pretoria, to protest apartheid laws forcing Black women to carry passes that restricted their movement.  A United Nations Women-supported study in 2024 found more than one in three South African women have experienced physical or sexual violence in their lifetime.  Ramnie Dinat, 84, was just a teenager during the Aug. 9, 1956 march.]]></description>
             <link>https://www.yahoo.com/news/world/articles/70-years-south-africa-women-040410254.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/70-years-south-africa-women-040410254.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 04:33:28 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9AD98B037717A13B03D0BE1631CB2C1DC43DBC6CEA3742B9B1BEE82A47414C86/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fdd47b0cb5a8bb1c7328052e1cb11db44" alt="" /></p>Ben Tzur and Uri are two of six lion cubs rescued in 2025 after being illegally smuggled into Israel and later found in the Palestinian Authority. Two lion cubs, Ben Tzur and Uri, who were rescued last year after being illegally trafficked into Israel, were transferred to a big-cat sanctuary in South Africa on Tuesday, the Israel Nature and Parks Authority (INPA) announced on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lion-cubs-home-south-african-030044191.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lion-cubs-home-south-african-030044191.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 04:33:28 GMT</pubDate>
         </item>
         <item>
@@ -6995,27 +7015,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2FB9BC1CF27B145A24CFD6EBCE124D62C3C462E04A2161253378DA31CD6AA02F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F26c08b3bb76c94fa01e09b98465f4626" alt="" /></p>Ghana's parliament passed a bill that could send cocoa farmers to prison for up to 20 years if they convert their farms to other uses without government approval, according to a copy of the bill seen by The Associated Press.  President John Mahama has not yet signed the law.  The legislation would give all cocoa farms protected status, making it a criminal offense to repurpose them for anything else without authorization, drawing criticism from farmers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ghana-parliament-backs-tough-cocoa-112323548.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ghana-parliament-backs-tough-cocoa-112323548.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uganda's military unveils statue of Netanyahu's brother who died in 1976 Entebbe hostage rescue]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B9E4CC3FE857A9DC688ED826792D1F6D0C50A23C727C635468054B2B54C3FD3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc37344e981c0d631f5be9f70eb2a2545" alt="" /></p>Uganda’s military unveiled a monument to an older brother of Israeli Prime Minister Benjamin Netanyahu who was killed during a hostage rescue operation in the East African country in 1976.  The statue of Yonatan Netanyahu holding an assault rifle was unveiled on Saturday by Ugandan military chief Gen. Muhoozi Kainerugaba, who said he commissioned the monument to pay tribute to the soldier’s courage.  Among those attending the ceremony were Israelis including Barak Orland, a businessman in Uganda.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ugandas-military-unveils-statue-netanyahus-110811503.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ugandas-military-unveils-statue-netanyahus-110811503.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Where Is Austin Tice?’: BBC & NPR Team On Podcast Unravelling The Story Of Journalist Who Disappeared In Syria In 2012]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A37F016C85705B39A6B7E45E0022E4E7581A4E95DF2AFB8DE2A76C821772D0AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F6a1ad26377d71503bb831b8471a7c845" alt="" /></p>EXCLUSIVE: The BBC and NPR are teaming on a podcast about kidnapped American journalist Austin Tice. Josh Baker’s Where is Austin Tice? sets out to answer questions in real time about the man who many consider to be the longest captive American journalist in history. The podcast, a rare co-pro between the BBC and NPR, …]]></description>
-            <link>https://www.yahoo.com/news/world/articles/where-austin-tice-bbc-npr-110000836.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/where-austin-tice-bbc-npr-110000836.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sudan army drone strike on court session kills 35, rights group says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88BDE616EA75CF2E95C09001AB7A20B7A4F17F9AB805CE19DA52E34ECDF7CBCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0e5a6e4c7a31378e01ee31f9eb132ef5" alt="" /></p>The army has not commented on claims that civilians died in the attack on a paramilitary-held village.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sudan-army-drone-strike-court-102928597.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sudan-army-drone-strike-court-102928597.html</guid>
             <pubDate>Mon, 03 Aug 2026 11:56:05 GMT</pubDate>
         </item>
     </channel>
