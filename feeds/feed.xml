@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 15:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 16:22:30 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 16:22:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Watch: Wild boar plows into man standing in a tea house]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/288579C2113D990B2FF0B1D4A928F3509D3E02D3EBF28946964144BF7A2F597F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2F7864b3aaf7dfe8baf0b21b0a8bd401f0" alt="" /></p>A man talking with customers in a tea house in India suddenly came face to face with a charging wild boar, and he became paralyzed with fear.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/watch-wild-boar-plows-man-160122376.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/watch-wild-boar-plows-man-160122376.html</guid>
+            <dc:creator><![CDATA[For The Win]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 16:22:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran says deal on Strait of Hormuz is close but is not enough to open the waterway]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/75B870D2BCD6C56C58A499B788973619355CF050174FCD06533660AD2EC72ACA/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc631ce8f295708bd0ca48d2d99d55ef5" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/iran-says-deal-strait-hormuz-123123180.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/iran-says-deal-strait-hormuz-123123180.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8C59B200016591D306F30BA545EE336E28082FADC5B0967FDED95DA12C4B1110/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fff10100a5945f45f587eefdaa92c77b1" alt="" /></p>Oman on Saturday said ongoing negotiations on arrangements related to the strategic Strait of Hormuz were proceeding in a "positive and constructive atmosphere. " The Gulf country, which together with Iran borders the crucial maritime choke point, called for avoiding any actions that could affect "these negotiations and the progress achieved, which takes into account the interests of all parties.]]></description>
             <link>https://www.yahoo.com/news/world/articles/oman-reports-constructive-talks-strait-154820479.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oman-reports-constructive-talks-strait-154820479.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC8E32791938599DA9133F5B1317D08BCE0BA9B50680AFE4051F89AB992F560D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9666924eca73d26c2b9f624ac6b67506" alt="" /></p>Judicial and security sources say a routine embassy visit landed a wanted former Syrian general in a Beirut jail cell.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanon-detains-former-al-assad-154203137.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-detains-former-al-assad-154203137.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65CFA2A91FBDCE884366B3DF9A1A44B2F0A48F7EF5A3CF3D7DEA24A79B20B881/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F24a493ed5e3743e1d4117009f6eb5373" alt="" /></p>Tens of thousands of people marched through Prague on Saturday for the high point of the Czech capital's Pride celebrations. At the start of the parade, participants observed a minute's silence in memory of the victims of the Berlin Pride attack two weeks ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thousands-join-prague-pride-parade-151831834.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-join-prague-pride-parade-151831834.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E52C28DFF7723C87C91DD3A133BD52FA7390A99B09219E91CF5F6A7E39E9B8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4886b969f12d3c9ba5caed212705688b" alt="" /></p>A Ukrainian drone entered Bulgaria's airspace and exploded near the border with Romania, the Bulgarian Defence Ministry said on Saturday, citing an initial assessment of the debris. The aircraft was most likely a Maya decoy drone, a type of aerial vehicle often used by the Ukrainian armed forces, the ministry said in a statement carried by state broadcaster BNT.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-drone-explodes-entering-bulgarian-151830938.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-drone-explodes-entering-bulgarian-151830938.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09E65EBE5FBC580D2D3B889A10E4053B9BFE98C788E52FC94585EA8329B262D3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fe5a7e0d9f64bf6f580353ebee629791b" alt="" /></p>Footage shows man being knocked down and ultimately rescued.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tourist-poland-approaches-bison-pays-151609377.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourist-poland-approaches-bison-pays-151609377.html</guid>
-            <dc:creator><![CDATA[For The Win]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +63,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED70F26658AD5295A7F52C4DADC68BB074D90DF165C164550984CDFE71D235C7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fbd6e8f7f9f4fb6142826b03977c7a436" alt="" /></p>In what might be the ultimate banishing spell, hundreds of Harry Potter fans forced the diversion of a £430m energy project from a picturesque Welsh beach.]]></description>
             <link>https://www.yahoo.com/news/world/articles/harry-potter-elf-grave-forces-141903995.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/harry-potter-elf-grave-forces-141903995.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +70,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD45656B99852F6C9BF4BB31720A7185F964C2E2BA46FF3F1D0D166CCB7ABA22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff3d0abd13cf69f8e4fc5cc03f0a0db03" alt="" /></p>Spain recorded the EU's highest jihadist terrorism arrests in 2025 as suspected extremists were identified among 72,000 migrants flooding into Ceuta.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spains-migrant-surge-reignites-debate-132351858.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spains-migrant-surge-reignites-debate-132351858.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +77,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EE76423DD5D368F89435964CEC6CEA805BCA568AA5CD9FE361497EF1852E1967/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0c52a1a08580c38fecc1aea826495cbc" alt="" /></p>The defense ministry in Sofia, Bulgaria's capital, later said there were indications the drone was the kind used by Ukrainian armed forces and that the incident was likely accidental.  Bulgaria and Romania are both members of NATO and the European Union.  Bulgaria’s Prime Minister Rumen Radev said the drone exploded just after 5 a.m. about 100 meters (109 yards) inside Bulgarian territory.]]></description>
             <link>https://www.yahoo.com/news/world/articles/bulgarias-pm-says-drone-explodes-110920433.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bulgarias-pm-says-drone-explodes-110920433.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 15:54:40 GMT</pubDate>
         </item>
         <item>
@@ -7014,13 +7013,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E24314D0D7DA7181A1C256EEED17EFB9E503CBCD05BB4E039BB9264FC336446/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F810e3e8faa51644c08b35e8bb3f80daf" alt="" /></p>More than 46,000 households remained without water and many also face fuel shortages as the region suffers sweltering heat, stoking fears of heat-related illness.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pm-sanae-takaichi-visits-quake-155826667.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pm-sanae-takaichi-visits-quake-155826667.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Indian court acquits ex-wrestling chief in sexual harassment case]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C9E3DC0352BA52BD4D4E08C42907ED8F0D41557A9525B654D51658D641E51A01/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3b7084a2a1dca5bf368edf5f7218624c" alt="" /></p>Top female wrestlers vow to appeal following the controversial acquittal.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/indian-court-acquits-ex-wrestling-155601417.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indian-court-acquits-ex-wrestling-155601417.html</guid>
             <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
         </item>
     </channel>
