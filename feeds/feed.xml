@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 18:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 19:07:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 18:24:47 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Yemen’s government forces attack Houthis amid renewed shelling of Marib]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D929957EFC79509CAF7F3221A70D7C5E68F99E2FC9D14731F4655EB86752836A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffb94f1c02b3afbeedc3523cf36719641" alt="" /></p>Fears of a wider conflict grow as Yemen’s army counterattacks and expert warns ‘all the warning signs are there’.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/yemen-government-forces-attack-houthis-184320864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-government-forces-attack-houthis-184320864.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ten injured in camping stove incident at German festival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A35A19CA9B400366963F6751C9EFC7702E8309F2FD37A7C6833D84B34E426689/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2517c15d8f2d9da4c7d441a7250bf8bd" alt="" /></p>Ten people were injured in a camping stove accident at a festival in southern Germany, police said on Saturday. A 26-year-old man was using the stove on the campsite of the Taubertal music festival just outside the town of Rothenburg ob der Tauber, when gas escaped, presumably due to incorrect handling of the device, police said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ten-injured-camping-stove-incident-183330550.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ten-injured-camping-stove-incident-183330550.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A car-bomb attack targets southwest Colombia a day after conservative president takes office]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B71360E16FF954AB0E5BEDA9B48BD415308094BDC6A2712670A9D03A1D71AD42/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fea87c51e6fab889298f92ab0673d15d3" alt="" /></p>A car bomb exploded Saturday in southwestern Colombia, the army said, a day after conservative political neophyte Abelardo de la Espriella was sworn in as Colombia’s new president.  The army alleged the attack was carried out by two dissident groups of the now-defunct Revolutionary Armed Forces of Colombia, or FARC.  The groups did not accept the peace agreement that FARC signed a decade ago with the Colombian government.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/car-bomb-attack-targets-southwest-182832749.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/car-bomb-attack-targets-southwest-182832749.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris E-scooter riders ordered to wear helmets and reflective gear]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8BF0EA4D15F131E18FA6B448C32B1C13BE53CA14E96034F9B8CF6FD92D9A0769/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F68fa59978c782b1ffae9d6c1d3a9f677" alt="" /></p>Electric scooter riders in Paris have been ordered to wear helmets and reflective gear or face a fine.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/paris-e-scooter-riders-ordered-174119856.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/paris-e-scooter-riders-ordered-174119856.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Assad’s spy chief found hiding in Moscow]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6E5362141245D6231D594C251515038E8357207E8B0FE93832F3CF9BB3954FB8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F1a090fb60555400fdce62daadaf82727" alt="" /></p>A former senior Syrian intelligence official accused of orchestrating torture and massacres has been found living in Moscow.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/assad-spy-chief-found-hiding-172251002.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/assad-spy-chief-found-hiding-172251002.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin’s Henchmen Caught Desperately Scheming to Prop Him Up]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8A0E569541CC98BA56B26E6D4592CF677D6CC7E2E8660B4CD9A096D27653F20/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F0328b0a6f7293566dc3798c1801bb7e5" alt="" /></p>As Vladimir Putin seems to increasingly be losing the stability he’s always promised, the security services that have long propped him up have resorted to elaborate fantasies to feed his delusions. The Federal Security Service—the successor to the KGB—has a long history of dealing with Islamic terrorism during Putin’s earlier years in power. But after he sent troops to invade Ukraine in February 2022, things radically changed. More and more, the agency has turned into an instrument of domestic p]]></description>
+            <link>https://www.yahoo.com/news/world/articles/putin-henchmen-caught-desperately-scheming-164240000.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-henchmen-caught-desperately-scheming-164240000.html</guid>
+            <dc:creator><![CDATA[The Daily Beast]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wildfires in western Canada forces more than 20,000 people to evacuate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6CE2E118EBAC40AAEA14178ECA857B3D0DE8631AD2C9B58860B79D3598292643/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F54c9a24452dab828442e4ea4a4205d8b" alt="" /></p>The Bald Range wildfire was first reported on Friday evening.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/wildfires-western-canada-forces-more-152816494.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfires-western-canada-forces-more-152816494.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran: Control of Strait of Hormuz 'Irreversible']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A934344F71E58A7C90625668B6CE20A61B837BCD72DFEE79C5B3634E63DEB25C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fcb03a8cccc0d26525fc4c3af98261132" alt="" /></p>Iran: Control of Strait of Hormuz 'Irreversible']]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-control-strait-hormuz-irreversible-155556841.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-control-strait-hormuz-irreversible-155556841.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 19:07:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cadbury’s Gold ‘Conundrum’ Egg Sells For Record $166,600 At Auction]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B80A6B951E7E394B349DC41E19E173221F7C843109E544012F5AD1CC3DD07D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F34505e755d49ddbcd478b382026ce9a2" alt="" /></p>Created by Garrard & Co. in 1983, the Cadbury's Conundrum egg sold for nearly six times its pre-sale estimate at Batemans Auctioneers & Valuers]]></description>
             <link>https://www.yahoo.com/news/world/articles/cadbury-gold-conundrum-egg-sells-180354935.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cadbury-gold-conundrum-egg-sells-180354935.html</guid>
-            <dc:creator><![CDATA[Forbes]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 18:24:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14FF4090AC9D813524649594FCFEAA98BF614DD7B9CA57209A74CD710C6223C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdf8ae4f1a0f1bab5e839bfe016be4353" alt="" /></p>The Royal Navy has warned of increasing Russian activity around the UK’s waters after it spent 21 days in July monitoring Moscow’s ships. Naval operations to monitor Russian activity increased 25% in July compared to the previous year, with warships making repeated voyages through the Dover Strait and North Sea.]]></description>
             <link>https://www.yahoo.com/news/world/articles/royal-navy-spent-21-days-173419204.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/royal-navy-spent-21-days-173419204.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 18:24:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25F0C4359B7ADEB820BFD2F7C1AC18418D7F3F528D9965CB4FD6E7FE2DDAD85E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F39c508c2264fc52d583544294569d2e5" alt="" /></p>Ukraine has denied targeting Bulgaria with an explosive-laden drone after it crashed near a major European pipeline.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-drone-explodes-near-european-165746747.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-drone-explodes-near-european-165746747.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 18:24:47 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F39114C954F27873C3D75BB824293637080029D5828644D4CD208E057B4DF85E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fce7919a46af476966342d0502a868bd6" alt="" /></p>Iran announced Saturday that it is nearing an agreement with Oman over control of the Strait of Hormuz but warned that its reopening would depend on other conditions, including compensation from the U.S. to Iran. The emerging deal would establish a new framework for managing traffic through the critical shipping corridor, where Iran has restricted…]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-signals-strait-hormuz-deal-153117440.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-signals-strait-hormuz-deal-153117440.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 18:24:47 GMT</pubDate>
         </item>
         <item>
@@ -6960,62 +7020,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E5A7046B7D5B8CEA1FA3DA4FF2BCEFF9991287D7ECE6586AD9CCC78437C9CF1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F6b45bfbe6ee19dc1b5dd345d4586562c" alt="" /></p>Meanwhile, a Russian strike on a warehouse in northeastern Ukraine over the weekend destroyed 8 million books, the publishing house said, slamming it as an attack on Ukrainian culture.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-fires-glide-bombs-zaporizhzhia-133030121.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-fires-glide-bombs-zaporizhzhia-133030121.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Funeral held for family "wiped off the map" in Russian strike]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB4A1803D75136F66AEDCEB06FD3405F2FB9DEA8F9559A7E21AA11C70FDEAB07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F00981526af1ce0c74405df3666c10430" alt="" /></p>At least two adults and four children were killed in the strike but the death toll could be higher as all the remains have not yet been formally identified.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/funeral-held-family-wiped-off-173538337.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/funeral-held-family-wiped-off-173538337.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three Tel Aviv daycare workers indicted over alleged physical abuse of infants, toddlers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E0E388DF987554ADD92987661F0DA29A6EE415069D18B6CE1518267E3FD1495A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F4964a08401a4e2378944cd63b675486f" alt="" /></p>The childcare workers allegedly assaulted the children under the care, who were between six months and one-and-a-half years old, treating them as if they were objects. Three workers at a private Tel Aviv daycare were indicted on Monday over the alleged repeated assault and abuse of infants and toddlers, including an incident in which one child’s arm was fractured, the State Attorney’s Office announced.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-tel-aviv-daycare-workers-173506779.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-tel-aviv-daycare-workers-173506779.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Suspect arrested in 2025 killing of Mexican influencer Valeria Márquez]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5A6C85455878D1D0D44BB95FEAFD7E400B32216764962380DD260D9D054048B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F9c403096acb4095ac61d642e5bd011d9" alt="" /></p>Mexican authorities arrested Ivan Martin "N," accused of being a co-perpetrator in the 2025 killing of influencer and model Valeria Márquez.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/suspect-arrested-2025-killing-mexican-173201796.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspect-arrested-2025-killing-mexican-173201796.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man Arrested After Tourist in Greece Who Left to Meet ‘American Friends’ Was Found Dead in Suitcase]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8918CA540D879D32E5AFDFD7C7EF78A7D880A13FF031658013668311FE9D85C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F0c3abb6487da3c5ce64dc13dc886ff0b" alt="" /></p>Elisabeth-Jane Ross was found dead weeks after she arrived in Greece from the U.K. in June]]></description>
-            <link>https://www.yahoo.com/news/world/articles/man-arrested-tourist-greece-left-173148954.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-arrested-tourist-greece-left-173148954.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hundreds of migrant children are stranded in Spain's Ceuta after mass crossing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3F2B34BAACE875F450837943F0B0B80763D0AD7A97FE07B5FCA89F5EB12525A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb857f1be5464437b01b3f5370b41a14a" alt="" /></p>The teenage girl made it through the waves to Spanish territory.  The tragic story of a 17-year-old from Tangier is representative of the plight of many of the more than 800 minors who four days after the collective push by migrants into Ceuta face a scary present and an uncertain future.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hundreds-migrant-children-stranded-spains-173021791.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-migrant-children-stranded-spains-173021791.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shin Bet releases brother of al-Aqsa Martyrs' Brigades commander Zakaria Zubeidi]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6984F471EAAEB3183FF3A58D2BA00D291B888194B7718F8BAC6EAB7080740312/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F6fd3ce8f97e37f3811c2fe6f6504fd7b" alt="" /></p>Jibril Zubeidi, a senior Fatah figure from Jenin and brother of former al-Aqsa Martyrs' Brigades commander Zakaria Zubeidi, was released after being held in administrative detention since 2023. The Shin Bet (Israel Security Agency) announced the release of senior Fatah official Jibril Zubeidi on Monday after his administrative detention order expired.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/shin-bet-releases-brother-al-172222950.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shin-bet-releases-brother-al-172222950.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli official rejects Gaza troop withdrawal and end to attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9B6E9288A4426089A65888C066C76325179C9E6D9868DE8FBC93B7FFF7C875F6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1d92310823a31fa59adb2945708dbea5" alt="" /></p>Israel remains opposed to withdrawing its troops from the Gaza Strip and halting attacks in the Palestinian territory, a senior government official said on Monday. "Israel will not withdraw from its current position in the Gaza Strip and will continue to thwart any threat to our citizens and soldiers," he said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-official-rejects-gaza-troop-171828155.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-official-rejects-gaza-troop-171828155.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Church tribute to 'precious' missionary found dead in suitcase in Greece]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Elisabeth-Jane Ross was described as a dedicated missionary who 'cared for people all over the world'.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/church-tribute-precious-missionary-found-171625668.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/church-tribute-precious-missionary-found-171625668.html</guid>
             <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
         </item>
     </channel>
