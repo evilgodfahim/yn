@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 17:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 17:35:57 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gaza health chief urges action to ‘save’ Dr Abu Safia before it’s too late]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD997AAA3142F89B34D671E3C73F05E5E3D703C653E1DA7B60795C69A901A40D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fefd460095727f2a22802dd4d6a2d548b" alt="" /></p>Fears increase for life of Hussam Abu Safia detained by Israel amid reports of torture and lack of medical care.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gaza-health-chief-urges-action-172659320.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaza-health-chief-urges-action-172659320.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine denies targeting Bulgaria as drone explodes near pipeline]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/83E2F8A1FEFDED482CD0873D2BA789360B22FFED1CE4FE77D058778BCAFF4F16/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F08a5bc82340018157cf7db057a93a773" alt="" /></p>Ukraine on Saturday denied targeting Bulgaria after a drone exploded close to the strategic Trans-Balkan gas pipeline linking Turkey to Ukraine near the Romanian border."The drone exploded in the immediate vicinity of the Kardam border-crossing with Romania," near the Black Sea in the country's northeast, "1,000 metres from the Trans-Balkan gas pipeline's compressor station," he said in a video released by the government.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-denies-targeting-bulgaria-drone-170803574.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-denies-targeting-bulgaria-drone-170803574.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire breaks out in Petah Tikva underground parking garage, spreading towards residential area]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0050D65E41C259A67899EA1F454F4C456215188B842F56339E3228E4E6D7FF34/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F5a3405fd1719803cdab2c5c0091970fd" alt="" /></p>The Israel Fire and Rescue Authority said operations at the scene were continuing and that further updates would be provided as the situation develops. A fire broke out Saturday in an underground parking garage at the construction site of the future BIG shopping complex in Petah Tikva, sending thick smoke across the surrounding area.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fire-breaks-petah-tikva-underground-172205684.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-breaks-petah-tikva-underground-172205684.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Driver deliberately rams cyclists in Italy in road dispute]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1312062B07F536DFD94D79936F2252840153DD496495CF75BC5A662D8F2AE47E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fca6a3418797f08e3cbba8f58ed005380" alt="" /></p>A driver deliberately rammed his car into a group of cyclists in northern Italy after a dispute between the two sides escalated, police said on Saturday. Four cyclists were seriously injured in the incident near Turin, police said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/driver-deliberately-rams-cyclists-italy-171825878.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/driver-deliberately-rams-cyclists-italy-171825878.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five bodies spotted in Nepal, nine months after deadly avalanche]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3965E6C67174F0F70C69CA4A290BBA4013725E657812C4BB2C9970D36E9C3604/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb9b7f402cbbd08623236c8ce7eaf1c10" alt="" /></p>Nine months after a fatal avalanche in the Himalayas, five bodies have been found. Nepalese authorities have not ruled out the possibility that these are the bodies of five mountaineers, including a German national, who have been missing since then.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/five-bodies-spotted-nepal-nine-171823167.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-bodies-spotted-nepal-nine-171823167.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish government jet leaves for UAE for Kinahan extradition]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Daniel Kinahan was arrested in Dubai under a warrant issued by the Irish courts in April but has fought attempts to extradite him.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/irish-government-jet-leaves-uae-171753401.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/irish-government-jet-leaves-uae-171753401.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran continues executions as military conflict dominates public attention]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BCD78FB16C03D0E2A2E43E9AD43CF06BFD5705853F782F41AD5483BA792D3F7B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F72630f83f4bbd7f2f91ba490602b0dbf" alt="" /></p>Only 67 of at least 444 executions documented in Iran this year were announced by authorities, as rights advocates warn of a broader crackdown. Iran executed at least 71 people in July, including six protesters, according to Iran Human Rights (IHR), a Norway-based monitoring group, which said it documented at least 444 executions from January 1 through July 31, while only 67 of those cases were announced by Iranian authorities.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-continues-executions-military-conflict-170159879.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-continues-executions-military-conflict-170159879.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As one oil chokepoint calms, Houthis threaten another]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E866E5F30A1F8896F563FEE35D66CCD03C60896D3981AED1DB4830D9E6D2C0FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9e4295d59866176cc53b70300e62ae9c" alt="" /></p>On one side of the Arabian Peninsula, diplomats are working to reopen a waterway. On the other, missiles threaten to close one.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/one-oil-chokepoint-calms-houthis-160753321.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/one-oil-chokepoint-calms-houthis-160753321.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 08 Aug 2026 17:35:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D228FDC31327FE3094395BBF91BF2912AA375EB66206E7D9F2FBB15739B491C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcbd370d596715bab928d3e1792c3d28c" alt="" /></p>The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudi-pakistan-turkiye-pact-shield-165211223.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-pakistan-turkiye-pact-shield-165211223.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8BCB26117B05BC245E69CDB7144ED515B9AE2A1216EC7E56806AFFD8D2017023/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd834cd2840211b29a20f8e030fdf5148" alt="" /></p>For groom Haruna Bashir, this weekend's mass wedding event in Nigeria was more than a celebration — it was a hope-filled turning point after the months of pain and grief following the loss of his first wife and six children in a brutal attack earlier this year.  Bashir was among 1,500 couples being married on Friday and Saturday in a state-sponsored mass wedding organized by Abba Kabir Yusuf, the governor of the Kano state, in northern Nigeria.  For Bashir, the ceremony marks an opportunity to begin rebuilding his life after the tragic loss of his immediate family.]]></description>
             <link>https://www.yahoo.com/news/world/articles/widower-lost-wife-6-children-164538374.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/widower-lost-wife-6-children-164538374.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A001C69E3E8FA89647EE0D1D307C9EB4B4534B5785AA159DEE7FDA33375F8142/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F61051994e67a1b6f9bd361fa071096a4" alt="" /></p>Overnight Russian attacks on Kyiv and the surrounding region killed at least 4 people, one of which was a 3-year-old child, officials said Saturday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-least-4-killed-kyiv-162339441.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-least-4-killed-kyiv-162339441.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1849D98B0CC10142490920833E13CC2C8C6032A0AD3FA7ED1FA6099DE6655C96/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F78e1fbdf17e26c022282f240b95f1f58" alt="" /></p>Russian forces have targeted several Ukrainian ports, causing significant damage, the Defence Ministry in Moscow said on Saturday. The Russian Air Force attacked the ports of Odessa and Mykolaiv with precision-guided weapons and combat drones, the ministry said according to state news agency TASS.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-says-freighters-hit-attacks-161834920.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-says-freighters-hit-attacks-161834920.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EBB637944B73699DAFBB985915E945A888387D853A9F09A74937740B867C4544/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F02b0ef5d639a7d8037da15985ab2dafe" alt="" /></p>She spotted a black snake nearly five feet long hidden among utensils in a cupboard.]]></description>
             <link>https://www.yahoo.com/news/world/articles/bitten-5-times-snake-2-161800386.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bitten-5-times-snake-2-161800386.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC475336607898EE88D6117866C03691ABFAADDAE91A22E7585DAD91B3840FD9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Faee81124e1d4dedb85495730feec54d2" alt="" /></p>Victims of a six-month jihadi kidnapping in Nigeria's Kwara State describe starvation, forced births, and burying fellow captives in a forest hideout.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerias-largest-rescue-operation-frees-143338278.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerias-largest-rescue-operation-frees-143338278.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5C509D2332D1B17DC0AAF45C1975CA4F636324A9DA44E36FF690009A9F12ED49/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F8e139b46cb1ae794221f47c682a95c80" alt="" /></p>Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.]]></description>
             <link>https://www.yahoo.com/news/world/articles/unidentified-drone-explodes-bulgaria-close-110700909.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/unidentified-drone-explodes-bulgaria-close-110700909.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 08 Aug 2026 17:00:39 GMT</pubDate>
         </item>
         <item>
@@ -6964,62 +7021,6 @@ The alert level is one below the highest level of red, which indicates the most 
             <link>https://www.yahoo.com/news/world/articles/uniqlo-donates-1-million-euros-164930032.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uniqlo-donates-1-million-euros-164930032.html</guid>
             <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Chanel Hong Kong Staff Jailed Over Theft of $2.4M in Bags Set for Destruction]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2E2860A997059D1E41D1898895BC44682255646D006F66EA9B2A5A6F308CE0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwwd_409%2F980767be7abf9a8c6ce95a721a989ec5" alt="" /></p>Since 2019, unsellable products have been handled through L’Atelier des Matières, a Chanel-initiated platform under circular materials hub Nevold that recycles deadstock, unsold and defective goods.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ex-chanel-hong-kong-staff-163513103.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-chanel-hong-kong-staff-163513103.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Horse whisperer who had 'heartbreaking' final request from Queen Elizabeth dies aged 91]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/90F51EC85BA4148D21586EC9B400E92EA7CC6201F40B37720B6653CF26C591C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F48fe164993ae89836ccf8a4c1252ccac" alt="" /></p>Monty Roberts, a horse trainer who enjoyed a decades-long close friendship with the late Queen Elizabeth II, has died aged 91. See details.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/horse-whisperer-had-heartbreaking-final-162714589.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/horse-whisperer-had-heartbreaking-final-162714589.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There was a genocidal attack in the Middle East, but nobody cares about its victims]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5E222ED51F8DF3E92CF21C86310A28686FCCCF108989C4CDD8B19D9AB8E70AA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F92773611dc8517467ba4ddb051a95307" alt="" /></p>The details are almost too tragic to record, but these are the facts: shortly after attending his brother’s wedding, Bar Asraf drove to the grave of his girlfriend Liron Barda and took his own life.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/genocidal-attack-middle-east-nobody-155931716.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/genocidal-attack-middle-east-nobody-155931716.html</guid>
-            <pubDate>Mon, 03 Aug 2026 18:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Threat to oil tankers in Middle East worst since start of Iran war, analysts say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B26E0B979EFD7565D3B92E0A3DEB89DA375AF214C28ECD4D15069E06326AAC87/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fed910f401378e64754fe647f9f2c8057" alt="" /></p>Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/threat-oil-tankers-middle-east-154225701.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/threat-oil-tankers-middle-east-154225701.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Australia military base gets mobile post office during war games]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0B034D96DA116E4F988B0A78E4CDC7BC2E570D642E706C79754B171100E7605F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2Fb37c68368843d4ea6c7eb37a8207826a" alt="" /></p>Australia Post has installed a mobile post office and parcel lockers at a defense base to support troops participating in a major military exercise. The post Australia military base gets mobile post office during war games appeared first on FreightWaves.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/australia-military-gets-mobile-post-163021563.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australia-military-gets-mobile-post-163021563.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cubans struggle to bounce back after 6th nationwide blackout this year]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7B0F23977168D38004DEDFAA78B484B32DEB7B18C697AA09D6417BEFA9B3E08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0065412680d43481af542c989addf69c" alt="" /></p>Cubans on Monday were recovering from the sixth islandwide blackout this year, as the nation remains in free-fall after the Trump administration effectively cut it off from oil in January.  The energy grid collapses leave people with fewer options to get by as the U.S. keeps up a pressure campaign against the communist-led government.  Cuba's government was working to restore power after the state-run electric company reported another “total” blackout Sunday night, without specifying the cause.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cubans-struggle-bounce-back-6th-161932773.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cubans-struggle-bounce-back-6th-161932773.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia sets new missile strike records as Kyiv sounds alarm over air defense gaps]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65F53543FB10B0E38C562561E625BBABF9D5015FBE83CE9EE68AFAFA02E2A98F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Ffcf11bece0eee4c649e4012e26d291fc" alt="" /></p>Russia launched 381 missiles into Ukraine in July, Kyiv said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-sets-missile-strike-records-161525756.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-sets-missile-strike-records-161525756.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Legionnaires' outbreak in Switzerland's Basel kills one, 26 ill]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9C2BF5BA71D975D30608CF093731D0B2AE92D6BA88942409F39624751EBC53ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1037daa4fb5a4d4c83251c0ea3d4b645" alt="" /></p>An outbreak of Legionnaires' disease in Basel caused 26 people to fall ill, one fatally, the Swiss city said Monday, with an office block's cooling towers thought to have been the cause."The medical services of the health department are currently observing an increased incidence of Legionnaires' disease," Basel-City canton said in a statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/legionnaires-outbreak-switzerlands-basel-kills-161440901.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/legionnaires-outbreak-switzerlands-basel-kills-161440901.html</guid>
-            <pubDate>Mon, 03 Aug 2026 16:54:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
