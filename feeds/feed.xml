@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 19:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 20:22:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 19:54:35 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Nigerian army says it safely rescued 33 people kidnapped by gunmen]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86DA82F6C7DEBE19E7699A7B402D622EE44A6FD4157FECF3EDBEBB96FEFA662F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd41bf76d3ef0eb269f470f5cde628b2e" alt="" /></p>The people were abducted while travelling through the country's north-western Zamfara state on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nigerian-army-says-safely-rescued-195733001.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-army-says-safely-rescued-195733001.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teen Girl, Mom, Grandma and Pilot Die in Tourist Helicopter Crash: ‘All Burned Beyond Recognition’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64C26CDEE22366311CE550E8FA63ACFAAA31F3A86773DFD4166988FD46B5B398/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe62a36f0a5a6bd21e5c15037aba09674" alt="" /></p>The Military Fire Department of the State of Rio de Janeiro said the helicopter crashed in a dense wooded, mountainous area in Tijuca National Park]]></description>
+            <link>https://www.yahoo.com/news/world/articles/teen-girl-mom-grandma-pilot-200015233.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-girl-mom-grandma-pilot-200015233.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Severe wildfire in Canada's British Columbia still not under control]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5B803D77F67DE4E40FC1435C4D57D014CBCDD2CE21A1B4801CD3F1714DC09B0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3372bea1dd6f80c03264545862de522e" alt="" /></p>The severe wildfire in the Canadian province of British Columbia is still not under control but its advance is slowing, authorities said on Sunday. The fire covered an area of more than 100 square kilometres, with more than 20,000 people forced to flee their homes due to the fire.]]></description>
             <link>https://www.yahoo.com/news/world/articles/severe-wildfire-canadas-british-columbia-193331526.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/severe-wildfire-canadas-british-columbia-193331526.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 19:54:35 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2E3753455C8A7F78CE7BEE257231211105EA80734537BAF086BE3B11C0DE2C71/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F738267e68af53a9b8bcdaf1a8eb45d59" alt="" /></p>"They have tortured them for days to confess to murder," one family member said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-executes-protesters-public-regime-193020307.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-protesters-public-regime-193020307.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 19:54:35 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3BD3DC7BF7F8D0F1DA41146A2C6ADB526C0D957D126549167678422B28BD512/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2F738267e68af53a9b8bcdaf1a8eb45d59" alt="" /></p>"They have tortured them for days to confess to murder," one family member said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-executes-protesters-public-regime-193020253.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-protesters-public-regime-193020253.html</guid>
-            <dc:creator><![CDATA[Good Morning America]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 19:54:35 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F51B0ADB12EE562E8ADCDF59E813C6D2FECE46B9C3BE85BB01A67644EC74E40E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd42e0671088338aabfcf8c1df032051f" alt="" /></p>Video footage of the incident shows the right-side wheels of the bus leaving the roadway, causing it to tip over]]></description>
             <link>https://www.yahoo.com/news/world/articles/4-people-hospitalized-tourist-bus-192828817.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-people-hospitalized-tourist-bus-192828817.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 19:54:35 GMT</pubDate>
         </item>
         <item>
@@ -7001,20 +7013,6 @@ The instant win ticket was "miraculously still in one piece" after garbage worke
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3CD68CB863223FED67074497E1CAD49896A0D450FA51A16981F5434EDA07243/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbc9d6424996c73e0302ae2ce9f411fe4" alt="" /></p>The munitions, both German and French, consist mainly of mortar shells, along with some high-explosive anti-tank shells.]]></description>
             <link>https://www.yahoo.com/news/world/articles/wwii-explosives-detonate-france-amid-121729297.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wwii-explosives-detonate-france-amid-121729297.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine has drones that can lock onto targets when Russia severs the connection to their operators, letting them complete their attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7116E6889BEB00C6AF1D3CF72BB37463E816DA5A0DCAA384F9B7F8F97C657F13/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F0f4c3dc362c5e173998955efdbc3a361" alt="" /></p>Russian jamming can sever Ukrainian pilots' drone links, but target-lock technology can still guide the drones to their targets.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-drones-lock-onto-targets-121254937.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-drones-lock-onto-targets-121254937.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former German mayor fined for secretly filming secretary in town hall]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D276BC44F4FCB1DAC36F20BB96286BE6F0460BAB4E0BAB563950624EA27E1D96/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff823ecd09e423a96f0ec0135de135a75" alt="" /></p>A former mayor in southern Germany has been fined €7,200 ($8,200) for secretly monitoring his secretary with a hidden video camera in the town hall, a court ruled on Tuesday. A court sentenced the 36-year-old former mayor of the small crimeBavarian town of Reichling to 90 daily fines of €80 each.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/former-german-mayor-fined-secretly-120335444.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-german-mayor-fined-secretly-120335444.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
         </item>
     </channel>
