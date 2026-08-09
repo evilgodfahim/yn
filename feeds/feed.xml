@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 14:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 15:35:16 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 15:35:16 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Russian attacks on Ukraine kill at least two, injure dozens]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D8E2B423CE70F1C6603CDD1A8B90CC196B5B592E9650BA7616AEDEEBF2DFCA4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fedd0db21a6cfcd83bebd92b5d7f5caa7" alt="" /></p>At least one person was killed and 37 others injured in a Russian attack on a multi-storey residential building in the eastern Ukrainian city of Kharkiv, Mayor Ihor Terekhov said on Sunday. The search for possible further victims under the rubble continues, he said on Telegram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-attacks-ukraine-kill-least-151843466.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-attacks-ukraine-kill-least-151843466.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 15:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[51-Year-Old Monk Accused of Stabbing 2 People After Refusing to Leave Monastery]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24321364B40198930844EEB6AC658B54659A62C0B967E757D090C93316D878A9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9d81ade8ea5ce3adbd3fd4bde19eba0f" alt="" /></p>A 53-year-old monastery technician and a 27-year-old monk were hospitalized following the incident in Cyprus on Friday, Aug. 7]]></description>
+            <link>https://www.yahoo.com/news/world/articles/51-old-monk-accused-stabbing-151233428.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/51-old-monk-accused-stabbing-151233428.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 15:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gaza’s children still struggling with hunger as another famine threatens]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6C064B7F3424EB67DBA887C973F1ECCF2FC0B156E1A80745A5389DF9466AD714/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ffe6b17942e58c30e2339f6277111b031" alt="" /></p>Youngsters are still feeling the effects of the 2025 famine, with another food emergency emerging.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gaza-children-still-struggling-hunger-144729046.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaza-children-still-struggling-hunger-144729046.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 15:35:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Report names alligator Florida's deadliest animal as nesting season puts mothers on guard]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/076FFD340DEF1B0226B002F45D9B7C36E09C5D732EC009290046A6D60DADACB2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fbf2dee34c44da25ea76e2cb52aef8679" alt="" /></p>Florida’s mating period for alligators ended in June, but nesting season is still underway and continues through August.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/report-names-alligator-floridas-deadliest-142700334.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/report-names-alligator-floridas-deadliest-142700334.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 15:35:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Study: Europe ill-prepared for Russian drone attacks]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/655E51544597E57E5D63698EBDE4A738522C77AC8A8FE9C6AF219B407D2EA122/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbdc6c78b6db2484514aca8e30a570613" alt="" /></p>European countries are ill-prepared to counter drone attacks from Russia and currently unable to attribute these attacks unambiguously, according to a study by the London-based International Institute for Strategic Studies (IISS) published on Sunday. The ISS study, in which Germany's Hanns Seidel Foundation participated, found that European states were unable to clearly attribute drone attacks - for example, on airports or sensitive military facilities - to Russia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/study-europe-ill-prepared-russian-143331805.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/study-europe-ill-prepared-russian-143331805.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B1D267064AF82B46CEEEF7FECBE819E84DC470AC3DC5B3C3C6FBF11C9C911FB5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9c4d3a2a7c553be9ad327b892a4ed4d3" alt="" /></p>Sana'a (dpa) -At least seven people were killed and 20 others injured on Sunday in a Houthi drone and missile attack on the strategic port of Mokha near the Strait of Bab al-Mandab, a Yemeni government military source told dpa. The source, who asked to remain anonymous as he was not authorized to speak to the media, added that the fatalities included three civilians and four military personnel who were present at the port.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemen-govt-houthi-attacks-near-141828325.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-govt-houthi-attacks-near-141828325.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F38B3FA4F8C850C9D9BC939B65289EA8D98682405E7DA0A99E2A27008456F9E8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F98fbfd5b4e12ad88afcc13d3967ec98a" alt="" /></p>13 people were killed and some 90 others were wounded over the past 24 hours as Russian attacks as the Kremlin intensifies its bombardment of Ukrainian cities. Meanwhile, Moscow says five people were killed in Ukrainian drone attacks targeting Russian cities.]]></description>
             <link>https://www.yahoo.com/news/world/articles/13-killed-ukraine-90-injured-140718735.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/13-killed-ukraine-90-injured-140718735.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27CE4EB95617FD02AA15C42F47DF8368D6D3BAAB949987A3985F48AD4B84B548/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fd4e733c53d0f66070b01a3820be121f8" alt="" /></p>Tour guides said the sharks usually swam away after people entered the water.]]></description>
             <link>https://www.yahoo.com/news/world/articles/connecticut-man-gets-30-stitches-140500648.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/connecticut-man-gets-30-stitches-140500648.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0B6291D4002374A3FE0B4E900A2C3F33E13833F304B93E42B968FF410ABF4FCD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F61642b48206894d59905153cef4ec4a9" alt="" /></p>Taiwan's navy deployed two fixed-wing propeller drones, which officials described as "mid-size suicide drones" that were locally built.]]></description>
             <link>https://www.yahoo.com/news/world/articles/taiwans-war-drills-showcased-strike-134856873.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwans-war-drills-showcased-strike-134856873.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 14:59:46 GMT</pubDate>
         </item>
         <item>
@@ -6988,34 +7015,6 @@ The instant win ticket was "miraculously still in one piece" after garbage worke
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8EE62B6B2D9E3CB24CBF3302DA08BA235D1001DFC3321154D4BAA0978DD6E9C8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb11e6153f447768defe1a44434b5cfe8" alt="" /></p>Catch up with the most important stories from around Europe and beyond this August 4th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.]]></description>
             <link>https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-4th-100016183.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latest-news-bulletin-august-4th-100016183.html</guid>
-            <pubDate>Tue, 04 Aug 2026 11:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Three lions die at Tokyo zoo after heatwave, enclosure closed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E946F8EDD4E3E073BD16A1A1F716FE0C579A65BA638DCBEF0367BFEA7C76FA5D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc5008a5c0b123d30295a0c9281586d5f" alt="" /></p>Three lions have died at the largest zoo in the Tokyo metropolitan area following a severe heatwave, the Tama Zoo said on Tuesday, adding that the deaths occurred last week. The zoo had already closed its lion enclosure on July 23 after several of its 12 lions showed signs of health problems.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/three-lions-die-tokyo-zoo-094823951.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-lions-die-tokyo-zoo-094823951.html</guid>
-            <pubDate>Tue, 04 Aug 2026 11:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ford suspends Romanian production due to holidays, not power shortages]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8A50229AC1F52B56BAFD49F524E097D65ED10140439AE57370C1B93A838DD0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F50a5aa37af05ce4c08c64b7b3ffe4800" alt="" /></p>The car manufacturer Ford is temporarily halting production in Romania due to a planned summer break, it announced on Tuesday. A company spokesman said that the pause had not been ordered in response to power shortages.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ford-suspends-romanian-production-due-094823640.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ford-suspends-romanian-production-due-094823640.html</guid>
-            <pubDate>Tue, 04 Aug 2026 11:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vistry-led partnership wins planning permission for 306 homes in Edmonton]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4982F45DBAB8A26E77D4E31B7710257C53C96F69B3C68A25E63C94A416C19119/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2Fffb1798ddfdc172fef0013afd3d1e0b2" alt="" /></p>The scheme comprises 152 social rent and 154 intermediate homes, including key worker units, along with a community nursery and café.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/vistry-led-partnership-wins-planning-094338850.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vistry-led-partnership-wins-planning-094338850.html</guid>
-            <pubDate>Tue, 04 Aug 2026 11:37:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soldier kills four in gun rampage in Russian-occupied Crimea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7B231410586392EFF48DE664A961108B8DA6D84873C1DBA29CD671BFA5FB4820/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa6627b69969a9df3f1031cd549d2ea72" alt="" /></p>The region's Moscow-installed governor says the gunman has been detained after firing at fellow soldiers and civilians.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/soldier-kills-four-gun-rampage-092311732.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/soldier-kills-four-gun-rampage-092311732.html</guid>
             <pubDate>Tue, 04 Aug 2026 11:37:23 GMT</pubDate>
         </item>
     </channel>
