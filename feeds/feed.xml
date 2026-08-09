@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 23:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 23:58:27 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 23:58:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bodies of 5 Mountain Climbers Found 9 Months After They Vanished in Avalanche]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E4316117D5A3474E0C5619713EECA06488BD02A933D47D38C12FEAB3E9AF94F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fed28015e94b4f0967b5297f731606301" alt="" /></p>The avalanche struck the climbers while they were climbing the 18,470-foot Yalung Ri peak near Nepal’s border with Tibet]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bodies-5-mountain-climbers-found-235016634.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bodies-5-mountain-climbers-found-235016634.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 23:58:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[UN to Mark International Day of the World’s Indigenous Peoples With Focus on Indigenous Midwives]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DCD699EE66BB5A7645C450CBC8414F048148D52125911888CD5378E3EA38A2EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnative_news_online_articles_488%2F3b8ed7519a27e01156d44d59e93c84d8" alt="" /></p>The United Nations will mark the International Day of the World’s Indigenous Peoples on Monday, August 10, with a virtual commemoration highlighting the vital role Indigenous midwives play in safeguarding the health, well-being and cultural continuity of their communities. The 2026 theme is “Honouring Indigenous Midwives: Safeguarding Life and Well-being.” The International Day is officially […] The post UN to Mark International Day of the World’s Indigenous Peoples With Focus on Indigenous Midw]]></description>
             <link>https://www.yahoo.com/news/world/articles/un-mark-international-day-world-230915270.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-mark-international-day-world-230915270.html</guid>
-            <dc:creator><![CDATA[Native News Online]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3CF0FEA08715FEBE57137A284FAD83BF795DE32E161BA55BD1D6A4D4612DADE5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5ce1f899d193921fb791c4d411f0b2d7" alt="" /></p>Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.]]></description>
             <link>https://www.yahoo.com/news/world/articles/evidence-south-african-special-forces-230534720.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/evidence-south-african-special-forces-230534720.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/not-afraid-stay-canadians-taking-230244862.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/not-afraid-stay-canadians-taking-230244862.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA16712BC734F99BC5D84A31893AFD3728C25EE7ED4868C5FA380C8E46D6AC51/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F59ad43921e326b8d7f7f1378b3befb5e" alt="" /></p>Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.]]></description>
             <link>https://www.yahoo.com/news/world/articles/union-reports-108-attacks-palestinian-230125771.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/union-reports-108-attacks-palestinian-230125771.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C5CD78FC1E7F8BB9E327B1E90CA9BA19F425904AE0790114A3FE5C8D944A0375/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F62a5930c7e92889ed929991aea985015" alt="" /></p>Stacy Librandi went to Haiti as a volunteer new to disaster relief in 2010. Sixteen years later, she runs the largest and foremost emergency medical ambulance and medevac service in Haiti.]]></description>
             <link>https://www.yahoo.com/news/world/articles/volunteer-arrived-haiti-earthquake-now-230039459.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/volunteer-arrived-haiti-earthquake-now-230039459.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +56,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A3DC954E0C2E2B9907FB706FC355681347B88E951801453524917B2D1029975D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F9861a8d400f8a557239ccaff847f4e63" alt="" /></p>Correspondent Anderson Cooper spoke to 60 Minutes Overtime about his former math teacher, Yves Volel, who ran for president in Haiti in 1987 and was later assassinated.]]></description>
             <link>https://www.yahoo.com/news/world/articles/anderson-cooper-assassination-haitian-math-230035957.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anderson-cooper-assassination-haitian-math-230035957.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 23:28:16 GMT</pubDate>
         </item>
         <item>
@@ -7010,13 +7012,6 @@ The instant win ticket was "miraculously still in one piece" after garbage worke
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3B42A590D1353E17AC7AF51ED7262B8D50E6CDC57C57D75A2953A81AF3829C7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F94063f33090f360757e5b014548e4cf1" alt="" /></p>A video shared by Ukraine’s police shows a Russian drone deliberately tracking a man at a market in Kherson. President Zelenskyy said the footage is evidence of Moscow’s “drone safari” against civilians.]]></description>
             <link>https://www.yahoo.com/news/world/articles/shocking-video-shows-russian-drone-130102533.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shocking-video-shows-russian-drone-130102533.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China’s military unveils AI system for coordinating air strikes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DFA371D582B07F3DC52754ED43E2B530930C25FFA2DC25345F2AF60C246C409D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsemafor_310%2Fda05a593067e4b61cb6b9719614ca26c" alt="" /></p>The “intelligent strike planning system” helps commanders and pilots prioritize targets and allocate resources.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/china-military-unveils-ai-system-125543233.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-military-unveils-ai-system-125543233.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
         </item>
     </channel>
