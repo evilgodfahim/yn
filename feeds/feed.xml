@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 20:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Aug 2026 21:00:20 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
+        <pubDate>Sun, 09 Aug 2026 21:00:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Six die in Ukrainian drone attack on Belgorod, Russian authorities say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1495B5FAD792D205140A047980350FDC21004BD010FDC38300BD7989B884FBD5/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F3766be307fe9db570a773e69a6cc5ac6" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/three-killed-ukrainian-drone-attack-082059079.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/three-killed-ukrainian-drone-attack-082059079.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 21:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Three injured in shooting on Danish island of Zealand]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1B2DE8A0D0D1F3B651867F3CCD23C8CD8AF6829AE6DAD207C4BFBA32C71E68C1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fded09384feaf98415be996466679fbc3" alt="" /></p>Three men were injured on Sunday in a shooting in the small Danish town of Holbæk, police told dpa. They do not face life-threatening injuries, the police added.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/three-injured-shooting-danish-island-203327985.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-injured-shooting-danish-island-203327985.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 21:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man in India arrested for grabbing wild elephant's tusk for viral video]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4082540D7559380C108134E3E9A9C886A9554ECCD75D696582E183477A9D4FB3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ff7f778fa882d1008086452097a3aea64" alt="" /></p>A frightened or agitated elephant can seriously injure or kill anyone nearby.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-india-arrested-grabbing-wild-201900372.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-india-arrested-grabbing-wild-201900372.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 21:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese vessel returns to spotlight after appearing above Taiwan internet cable]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F05C089C440E64EF43774D23C243A4062D346026239DC595A23D43945DCAA4FE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F455595123e7c35b036d27b0aac321949" alt="" /></p>Chinese vessel draws attention after slow movement above vital Taiwan undersea internet cable raises new regional security concerns]]></description>
+            <link>https://www.yahoo.com/news/world/articles/chinese-vessel-returns-spotlight-appearing-183500860.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chinese-vessel-returns-spotlight-appearing-183500860.html</guid>
+            <dc:creator><![CDATA[TechRadar]]></dc:creator>
+            <pubDate>Sun, 09 Aug 2026 21:00:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nigerian army says it safely rescued 33 people kidnapped by gunmen]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86DA82F6C7DEBE19E7699A7B402D622EE44A6FD4157FECF3EDBEBB96FEFA662F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd41bf76d3ef0eb269f470f5cde628b2e" alt="" /></p>The people were abducted while travelling through the country's north-western Zamfara state on Saturday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerian-army-says-safely-rescued-195733001.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-army-says-safely-rescued-195733001.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64C26CDEE22366311CE550E8FA63ACFAAA31F3A86773DFD4166988FD46B5B398/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fe62a36f0a5a6bd21e5c15037aba09674" alt="" /></p>The Military Fire Department of the State of Rio de Janeiro said the helicopter crashed in a dense wooded, mountainous area in Tijuca National Park]]></description>
             <link>https://www.yahoo.com/news/world/articles/teen-girl-mom-grandma-pilot-200015233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/teen-girl-mom-grandma-pilot-200015233.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 09 Aug 2026 20:22:19 GMT</pubDate>
         </item>
         <item>
@@ -6985,34 +7015,6 @@ The instant win ticket was "miraculously still in one piece" after garbage worke
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FC2B687A4F8A19934D55F84EBBD6FA4C9AA7805345FB2DCAA8BE9DF157B71864/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2F5b0654c698a43e8ca73e2e2b01db91f5" alt="" /></p>A shrinking stretch of the Danube River is revealing pieces of history that have been submerged for decades. Images from Prahovo, Serbia, show a rusting German warship from World War II exposed, with people swimming nearby. Prolonged drought and extreme heat have pushed the river to record-low levels in parts of Europe. As the water …]]></description>
             <link>https://www.yahoo.com/news/world/articles/historic-drought-shrinks-danube-river-123022433.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/historic-drought-shrinks-danube-river-123022433.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The World Adds a Third Terawatt of Solar Power]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25C7E7D1805B68C247CAE5133F37516666F252EF52D74BCBF22D0F284F395753/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fyale_environment_360_articles_559%2F807896acdcd65b66f8906380601af0dd" alt="" /></p>In March, the world passed a major energy milestone, adding its third terawatt of solar power. Increasingly, poorer countries are leading the shift to solar, analysts say.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/world-adds-third-terawatt-solar-123000628.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/world-adds-third-terawatt-solar-123000628.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia accused of war crime after video shows ‘sadist’ drone pilot hunting market vendor]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AFB2FE73E82DF03501651F9EAAD1CEC07561B5EB1AC99E78DED0B6BDF3721D0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F361e1eb195108b39852af16eca738039" alt="" /></p>Ukraine’s foreign minister branded the drone’s pilot as a ‘sadist’ and accused them of knowingly targeting a civilian]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-accused-war-crime-video-122430371.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-accused-war-crime-video-122430371.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Post Office reopens in most westerly village on British mainland]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Kilchoan its only shop, Post Office and fuel station in October.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/post-office-reopens-most-westerly-121929139.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/post-office-reopens-most-westerly-121929139.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WWII explosives detonate in France amid wildfires: "Sound of war"]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3CD68CB863223FED67074497E1CAD49896A0D450FA51A16981F5434EDA07243/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fbc9d6424996c73e0302ae2ce9f411fe4" alt="" /></p>The munitions, both German and French, consist mainly of mortar shells, along with some high-explosive anti-tank shells.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wwii-explosives-detonate-france-amid-121729297.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wwii-explosives-detonate-france-amid-121729297.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:51:43 GMT</pubDate>
         </item>
     </channel>
