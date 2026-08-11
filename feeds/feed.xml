@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 04:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 05:48:44 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Aug 2026 04:48:29 GMT</pubDate>
+        <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Indonesia races to contain fires as haze spreads]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DEEA58AB16EB317B9BB589A8DAB8BD04F0C0F2EBF44EC4CF2E572101BDF82214/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4f496db172a2858e63027cb8867b179d" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/indonesia-races-contain-fires-haze-044828250.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/indonesia-races-contain-fires-haze-044828250.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian barrage on Ukraine kills 9, wounds dozens]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F0717C15A90EA525405AF5F9D0489856E2811DEAACAF79B06F76F9D6C0A9590/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7a857bc3df37360c2c45a653cb4537c1" alt="" /></p>Russian attacks across Ukraine killed at least nine people overnight and wounded dozens, authorities said Tuesday, after Kyiv warned that Moscow had received more ballistic missiles from North Korea.The overnight attacks spanned Kyiv, Zaporizhzhia and Dnipropetrovsk, regional authorities said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-barrage-ukraine-kills-9-053014768.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-barrage-ukraine-kills-9-053014768.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coral trafficking ring exposed on Aegean island: What is red coral used for and how big is the threat?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E0827C393812DB27C0709A6A0DC146B7A0156989DB72E484FDDD9D0C21A85DA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F5c4562e66327e60809e0f0d2f70566f9" alt="" /></p>The 'red gold' of the Mediterranean is being wiped out by smugglers: Arrest on Skopelos sounds alarm over high prices and poor protections.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/coral-trafficking-ring-exposed-aegean-050343297.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/coral-trafficking-ring-exposed-aegean-050343297.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge fire breaks out at Libya’s Zawiya refinery after drone attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/23795834BAA350AE0BCD3951DC278057A98B1534AEA5484F7E84E98466891A1F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4dde5c969298c24fc94b5f23a3ec4e6c" alt="" /></p>National oil company warns it may halt operations at the country’s largest operating refinery if drone attacks continue.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/huge-fire-breaks-libya-zawiya-043727795.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/huge-fire-breaks-libya-zawiya-043727795.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia searches for its missing after a powerful earthquake kills more than 100]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11FE5DB073C2AFC615172C5012EC686373F93B98EE39CBBC89C43BAB059E52A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F51b6406607422b757a92e1fd11e1ac59" alt="" /></p>Search and rescue efforts were underway early Tuesday in dozens of cities and towns in western Colombia after a powerful earthquake struck the region, killing at least 111 people and leaving many trapped under the debris of damaged and destroyed buildings.  Monday's 7.4 magnitude earthquake rattled Cali, Quibdo, Pereira and numerous other cities and towns.  President Abelardo de la Espriella said Monday afternoon at least 111 people had died.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombia-searches-missing-powerful-earthquake-042416729.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-searches-missing-powerful-earthquake-042416729.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 11 Aug 2026 05:48:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[King Charles’ Death Report Mistakenly Airs on Radio Station After Staffer Played Announcement ‘Out of Curiosity’]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F89B69382FE2007BAB0C8DA4C0AFBE25785FBB0E11E2DD2C1C1E91223953D531/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb3a6dad92e4199fe5e1585bcaed345dc" alt="" /></p>Radio Caroline apologized for the incorrect statements 30 minutes after it aired]]></description>
             <link>https://www.yahoo.com/news/world/articles/king-charles-death-report-mistakenly-043050862.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-charles-death-report-mistakenly-043050862.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 04:48:29 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/893482D35048A1889EF8A2ED95D97AD3A297ADFC72F40AD04D7E88A99FC0E956/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F80a5454ca0ea2d7573bdaed69564634b" alt="" /></p>Two police officers in southern France were attacked and wounded by a bladed weapon-wielding assailant on Monday eevening, officials said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/2-police-officers-attacked-wounded-035212156.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/2-police-officers-attacked-wounded-035212156.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 04:48:29 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18DDB30FF5558DD10B00E166EDB01A921619FD6A308CB060354C83807A41BD65/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F4aeb56a63aa8e1f71cdb008daac32e4a" alt="" /></p>The Bali, one of 12 new Anping-class ships, can outfitted to fire 16 anti-ship missiles in times of war.]]></description>
             <link>https://www.yahoo.com/news/world/articles/taiwan-packed-coast-guard-vessels-040107674.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-packed-coast-guard-vessels-040107674.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 04:48:29 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24D86BE930DEA3A59C67010746D80CDF2F3D481DC57ADCCE220CD2BFF9608367/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc8fdb3a3e0639d64ea5d32a7caaff0fb" alt="" /></p>More than 100 people have died after Colombia was hit by its strongest earthquake in decades, as the government declared a state of emergency. Rescue workers were searching collapsed buildings for survivors on Monday as authorities warned that the death toll could rise further.]]></description>
             <link>https://www.yahoo.com/news/world/articles/colombia-rescuers-search-rubble-earthquake-033338082.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-rescuers-search-rubble-earthquake-033338082.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 11 Aug 2026 04:48:29 GMT</pubDate>
         </item>
         <item>
@@ -6980,42 +7016,6 @@ Agricultural engineer Gregori Lanza said so far only vineyards that firefighting
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/759410E0D4A8392CCEA6F8C5454C0E7584F5ADDD8E3C1AB328BD09BC7C5AC314/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F59b10754787ff1dca87b71cfbd644437" alt="" /></p>Ukraine didn't stop any of the Russian missiles launched in the latest attack, an increasingly common outcome for Kyiv.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-says-western-interceptor-supply-134506590.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-says-western-interceptor-supply-134506590.html</guid>
-            <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 men stabbed in central London and woman arrested in what police believe was mental health incident]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4377C9F0E0BAFDBA6963946355558A395BCD0D2D46F6D39E02158B3AC9220DD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F99cade3f72dec1b2a31042c811b725e5" alt="" /></p>London police said Wednesday that a woman has been arrested after four people were stabbed in Covent Garden, a bustling area in the center of the capital that is full of attractions and popular with visitors.  The Metropolitan Police said four men, aged 34, 39, 42, and 52 were found with stab wounds and that a 47-year-old woman was arrested on suspicion of possession of an offensive weapon and assault.  The injured were taken to a major trauma center following the incident early afternoon Wednesday in Endell Street.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/4-people-stabbed-londons-covent-134449918.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-people-stabbed-londons-covent-134449918.html</guid>
-            <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli forces raid Palestinian refugee camp near Jerusalem]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E5F167BAE3F5AB0877A3A5340C97B67B64CCEF0BB413C85312D79CC81B5A5D7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7d4eb244419f636934f5294c556edaaf" alt="" /></p>Israeli forces on Wednesday raided a Palestinian refugee camp next to Jerusalem where tensions have been growing as residents fear eviction, the military and local leaders said.Palestinian residents have since voiced fear that raids and home demolitions could be tied to a strategy of eviction ahead of settlement construction, without any official word from Israeli authorities.
-pho-if-lba/sct/jfx]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-forces-raid-palestinian-refugee-133927575.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-forces-raid-palestinian-refugee-133927575.html</guid>
-            <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Who is César Gastélum? TikTok star shot dead outside KFC is tenth influencer killed in same state]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73EA0C1E69C3496C09663EB7C65260C523D0D95731B8531D8D569E129696D310/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F86b509c6bfa3b7f163a620b72db0abc4" alt="" /></p>Gastélum, who amassed tens of millions of views on the social media platform with clips of his life, is the latest in a series of influencers killed in the region]]></description>
-            <link>https://www.yahoo.com/news/world/articles/c-sar-gast-lum-tiktok-133239299.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/c-sar-gast-lum-tiktok-133239299.html</guid>
-            <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Woman dies after being caught in Spanish wildfire]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F444626F3A555335542AA46627BB8EBC282FFBE693605C1997C5E33064F8E46A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff88ff354a06b91531e148a324bd532ff" alt="" /></p>"Our hearts are completely broken," her family says.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/woman-dies-being-caught-spanish-132213565.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-dies-being-caught-spanish-132213565.html</guid>
-            <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfires Cross Borders. So Why Isn’t Diplomacy Part Of The Response?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AB7AE84496E5263C23A1E7A1402AEF6BEDB58EF878B391674EC35CB444D4997F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F27be37af65e844c44d86bc9889401304" alt="" /></p>Wildfire diplomacy must be embraced in an era of extreme weather and dangers that cross borders.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildfires-cross-borders-why-isn-131500916.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfires-cross-borders-why-isn-131500916.html</guid>
             <pubDate>Wed, 05 Aug 2026 15:09:15 GMT</pubDate>
         </item>
     </channel>
