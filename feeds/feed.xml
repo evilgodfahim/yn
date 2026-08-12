@@ -4,16 +4,79 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Aug 2026 06:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Aug 2026 08:10:03 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
+        <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Singapore and S Korea pull Trader Joe's seasoning over poppy seeds]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1D6C3AEE9C67FC8D23A3AD982EC4B9FFA8D255753DB6020F08BBD7F6030DC6B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F53fac5a68ac950f46ec5c4089601d1d7.jpg" alt="" /></p>Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/singapore-korea-pull-trader-joes-074449103.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/singapore-korea-pull-trader-joes-074449103.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine strikes Russian port of Novorossiysk, killing at least two]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9905C2EC4091DF03713D9D0C92DCDB42D4E74337220FE4F1F4CDB0428564D6DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F668aae55e6fe2babe611a0012b6726cc.jpg" alt="" /></p>Ukraine launched a massive drone attack on the Russian Black Sea coast overnight, killing at least two people and hitting the port city of Novorossiysk, the governor of the Krasnodar region said on Wednesday morning. Veniamin Kondratyev made the announcement on Telegram, saying 21 residential buildings and four businesses in Novorossiysk had been damaged.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-strikes-russian-port-novorossiysk-073327872.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-strikes-russian-port-novorossiysk-073327872.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli government accused of complicity as settlers demolish Jericho homes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA6E9D1DA5914BB8A025E64064D598498C58EC6839A03B6D2E4F876728BE6942/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F233e1b24720db1e884884d4810860c14.jpg" alt="" /></p>Israeli settlers demolish homes in village, leaving rubble and fear among displaced Palestinian families in Jericho.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-government-accused-complicity-settlers-072848850.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-government-accused-complicity-settlers-072848850.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Autism and war: Gaza families grapple with destruction and loss]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/357D4F2F75BF0028CC53036B007EBA241A41E575BF420122F76970424F3F8DA7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7fd2c5b72c0502ec2dd6f8b3fa87d197.jpg" alt="" /></p>Continuous bombing disrupts routines, causing sensory shocks and behavioural relapses in Gaza’s autistic children.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/autism-war-gaza-families-grapple-072742857.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/autism-war-gaza-families-grapple-072742857.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On This Day, Aug. 12: Japan Air Lines flight crashes in deadliest air accident]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44467A4484CE2434387CE4772D6D0FE0BD1316F2B9B23B67C123583787EB8AEB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F8b0aa0f546e28fc16814340db680676c.jpg" alt="" /></p>On Aug. 12, 1985, in aviation's worst single-plane disaster, a Japan Air Lines Boeing 747 slammed into a mountain in central Japan, killing 520 people. Four passengers survived.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/day-aug-12-japan-air-070006339.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/day-aug-12-japan-air-070006339.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon becomes first Middle East country to abolish death penalty]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B604CC8D9664AB6DD52820D74F14270D8D0CFD3FED8CFEACABE2914ACA042520/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F74cc559a85ee683d9f5a0415cb1affac.jpg" alt="" /></p>Lebanese lawmakers on Tuesday approved a law prohibiting the death penalty, making it the first Middle Eastern country to end capital punishment.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/lebanon-becomes-first-middle-east-065350543.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-becomes-first-middle-east-065350543.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thai government vows tougher gun controls after 2 deadly shootings near Bangkok]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4725D3595099438A5295DD56FA672C25B471D599D1B66B49A3BF69FA1FC93B40/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F0a1c2dbf0b268cdf16a34241c352abd9.jpg" alt="" /></p>The Thai government on Wednesday pledged to tighten gun controls and crack down on illegal firearms after two deadly shootings near Bangkok in less than a week renewed pressure on authorities to curb gun violence.  The country has one of the highest rates of gun ownership in Asia despite its fairly restrictive gun laws.  The two recent shootings, both in Nonthaburi province northwest of the capital Bangkok, have intensified calls for tougher enforcement and tighter controls on firearms.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thai-government-vows-tougher-gun-062823190.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thai-government-vows-tougher-gun-062823190.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia: Rescuers search for survivors after 7.6 magnitude earthquake kills 216 people]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6D8F7248D2B04A363433F811EC7FA37F45C2351AEBAE4370DE5093994C7918CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb15d2d010fbd442d0b347e9ee8f443fb.jpg" alt="" /></p>As rescuers search through the rubble for survivors, volunteers join to help clear the wreckage. People brought water and food to the victimes and lined up in front of blood donation centres.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombia-rescuers-search-survivors-7-055855485.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-rescuers-search-survivors-7-055855485.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Wed, 12 Aug 2026 08:10:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[At least 15 dead, dozens missing as ferry capsizes in Zimbabwe]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A409C71A056C591465D4DFBC3A7003C07DE8AFDFD258117AAF0B472C7797A4DE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F980d0d1f04aa2cbed99df0bb3294e78e.jpg" alt="" /></p>Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-15-dead-dozens-missing-062937946.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-15-dead-dozens-missing-062937946.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +84,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/35DAAD35CA1FA7BE8363BC6A5FF743FA8F58194BE5924368178A923A38DA093C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F167be3701906f31877ea092716127645.jpg" alt="" /></p>The vessel is said to have overturned after being hit by strong waves.]]></description>
             <link>https://www.yahoo.com/news/world/articles/boat-sinks-zimbabwes-lake-kariba-062147731.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/boat-sinks-zimbabwes-lake-kariba-062147731.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +91,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B376111B54CAB28933E56B814799C04EFCB4E5DE4137893E3C882F180C27744/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fc18f2c6c75dd536a9592de25af27b5a9.jpg" alt="" /></p>Government says no new permits to buy or own a firearm will be granted until further notice and existing purchase permits will not be renewed]]></description>
             <link>https://www.yahoo.com/news/world/articles/thailand-suspends-gun-permits-back-060618018.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thailand-suspends-gun-permits-back-060618018.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +98,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/98A41287D11238143637659298D354E9401B452D49F39E472C0EF552C6E83E6F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F71e21866990f14c36a533da6f59c8b7f.jpg" alt="" /></p>North Korea fired a ballistic missile toward the East Sea on Wednesday, the militaries of Seoul and Tokyo said, its second such launch in less than a week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/north-korea-launches-ballistic-missile-054907780.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-launches-ballistic-missile-054907780.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +105,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7872392F4CD23B929EE5A292B183539F44F0FB6884DB0D6F1F8A50FD62AE3018/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F59e7b83de68d875e9723413ce9f770cf.jpg" alt="" /></p>More than 800 witness statements have been taken as part of the investigation into the killing of 15 people in a terror attack on a Jewish festival at Australia's Bondi Beach. Naveed Akram, 24, and his father Sajid - who was shot dead at the scene by police - allegedly opened fire at the Hanukkah event at Archer Park in Sydney on December 14.]]></description>
             <link>https://www.yahoo.com/news/world/articles/more-800-witness-statements-taken-054817458.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-800-witness-statements-taken-054817458.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +112,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D38A38CEFC6B67DD57A7DBDD4A8311E329BB0B66775DE2B370240EF3DF84DE8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff45183286239577b6de14ac9ed053a89.jpg" alt="" /></p>Hundreds of thousands of gig workers in Australia have been granted a huge pay rise from next week under a decision by the country's workplace relations tribunal lauded as "world-leading"."Gig workers in Australia were left outside of our workplace systems for far too long," union National Secretary Michael Kaine said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australian-delivery-drivers-win-world-054220559.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-delivery-drivers-win-world-054220559.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +119,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D45E1B642BC42B893018B24BB6A2387ECEF462472D53A2735AD4EC8A35073F3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F7a56e8c891999b5f281bd89e058c477e.jpg" alt="" /></p>If you are in a traditionally gamey London eatery this week, think about ordering the grouse.]]></description>
             <link>https://www.yahoo.com/news/world/articles/grouse-shooting-tribe-more-good-053000901.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grouse-shooting-tribe-more-good-053000901.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +126,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9720778197D6AAC90C4D4B3D2578DCDB130A4F8CB33CD15DE07273A66492A678/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F98ef22537be2d6382f9d00aee148a214.jpg" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scotlands-papers-police-unions-no-052436181.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-police-unions-no-052436181.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +133,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF6A63CA3A6FB172ED0A76FAE78D754A73A16FC7D49E9FA1F1BF3910ACAFB4D9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F15c8c3b1640f9ec18b2244c3045d21a2.jpg" alt="" /></p>A baby was pulled alive from the rubble of the massive Colombia earthquake, as search and rescue operations enter a third day.]]></description>
             <link>https://www.yahoo.com/news/world/articles/whisper-rubble-led-baby-rescue-052130892.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/whisper-rubble-led-baby-rescue-052130892.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +140,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E4B51A37BC1E6E5DD7743FDDC5DCAEAA8C0FB744D8C95CF958EB3F72082D35F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F5b68714a82f664237cacec78885961a7.jpg" alt="" /></p>When suspected Irish cartel boss Daniel Kinahan married Caoimhe Robinson at the “seven-star” Burj Al Arab hotel in Dubai in 2017, it cemented the gulf city’s status as a haven for the criminally super-rich.]]></description>
             <link>https://www.yahoo.com/news/world/articles/high-life-over-cartel-boss-050000483.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/high-life-over-cartel-boss-050000483.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +147,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59B44E3924351F35FD6C3A1ED88774EB6E891B9CCE47C8B8A146C784C48DD5DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6b36fb58e337462c2a1b17602a726386.jpg" alt="" /></p>The violent crack and shudder of ballistic weapons ripping through the streets of Zaporizhzhia in the early hours was an all too familiar sound.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-putin-ropes-kim-offering-050000514.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-putin-ropes-kim-offering-050000514.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +154,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F7006100C9BCE22FF16133CDD2E76C97572582571BF5EA1FFAC6A767D4A2C09C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F9eff473970be05ac664a51f736f47a1e.jpg" alt="" /></p>The case against a man accused of murdering 15 people at a Sydney Hanukkah celebration involved more than 800 witness statements and more evidence had yet to be examined, a prosecutor told a court Wednesday.  Naveed Akram, 25, appeared briefly in Sydney’s Downing Centre Local Court on 78 charges related to the Dec. 14 massacre at Bondi Beach that police allege was inspired by the Islamic State group.  More than 800 witness statements had already been examined along with video, ballistic evidence and data from seven electronic devices, New said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/prosecutors-amass-over-800-witness-043527957.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prosecutors-amass-over-800-witness-043527957.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 12 Aug 2026 06:51:10 GMT</pubDate>
         </item>
         <item>
@@ -6967,62 +7019,6 @@ An Australian politician had a lot of explaining to do after being accused of te
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Lance Holmquist and his wife Suzanne, a TV producer, are the new owners of historic Carbisdale Castle in Sutherland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/american-sea-captain-owner-haunted-220125542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/american-sea-captain-owner-haunted-220125542.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelenskiy says Ukraine to help farmers hit by Russian attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97E2C90DF2C972D5723031C8C6D315345DBB4BDFA3A79A768E41D4F94C395530/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc96aca19e9381e8cd921ac1b0812690b" alt="" /></p>Aug 6 () - Ukraine will provide assistance to farmers hit by Russian attacks on shipping and port facilities, President Volodymyr Zelenskiy said on Thursday. Zelenskiy, speaking in ‌his nightly video address, said the measures had been elaborated at a government ‌meeting and would focus on farmers "who are now in a difficult situation because of Russian strikes on our ports ​and the maritime corridor".]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zelenskiy-says-ukraine-help-farmers-202413762.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskiy-says-ukraine-help-farmers-202413762.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian Strikes Destroy Puma and Intertop Warehouses Near Kyiv]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6964B6AE889495EBC1A7B65B1CAA0F9B160C49346754F1E98212982E23F17240/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2Fb1fcfbc784340c1685467756337753b2" alt="" /></p>Intertop warned of slightly longer delivery times, while Puma said shortages of certain products could last weeks or months.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-strikes-destroy-puma-intertop-211237871.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-strikes-destroy-puma-intertop-211237871.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Returning flames, fed-up health workers, skydiver’s delivery: Catch up on the day’s stories]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF3217A61C5EA9A9D2BAF0214784E52901D1807B8A3CD8CCEBB969C28B9630E1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F17a0a91707eba6e2550283055ab534cd" alt="" /></p>CNN’s 5 Things PM brings you the stories you might have missed during your busy day.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/returning-flames-fed-health-workers-210057122.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/returning-flames-fed-health-workers-210057122.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Social media star Sydney Towle died at 26. She helped define a new generation of young cancer influencers.]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FF5D6D3A09638CA2B9CF97AC582120A2B99EAC914FF3404A63ABB5593D608AD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fab46c805366a6d72cc33a1a0388dd430" alt="" /></p>Sydney Towle died at 26 from a rare bile duct cancer. For years, millions of people watched her document her experience online.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/social-media-star-sydney-towle-205810560.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/social-media-star-sydney-towle-205810560.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mystery Hero Rescues Five Children Trapped in Burning Home]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1C7282A80EC9C7BAD672CEE02D25C5047631EC157E7C7A66FA63E4D8CA5E34CA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fde78a630cd03d505778470e5d708ee0b" alt="" /></p>An unknown hero. The post Mystery Hero Rescues Five Children Trapped in Burning Home appeared first on Mandatory.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mystery-hero-rescues-five-children-203634917.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mystery-hero-rescues-five-children-203634917.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More than a decade after 43 students vanished in Mexico, ex-governor arrested, accused of cover up]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/59B202B0B25F9874DEE541B40349BBCAD5469B8383C1362EAAE06D6B88016382/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F88c06ad55d6ad0ade980d6b0b4e2badd" alt="" /></p>Mexican authorities have detained the former governor of the southern state Guerrero for his alleged involvement in the disappearance of 43 students in 2014 — a case that has grown to become a symbol for impunity and state involvement in cartel violence.  Federal prosecutors said Thursday that they arrested Ángel Aguirre, Guerrero's former governor, on accusations of “concealing evidence to determine the whereabouts of the students" of the Ayotzinapa Rural Teachers’ College.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/decade-43-students-vanished-mexico-201829557.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/decade-43-students-vanished-mexico-201829557.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildlife fans witness vicious killings of grizzly cubs by adult female bears in shocking attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C1819DAD902D2E5C9D84C33BC136F97EB21A56A5E3267B477F2DD5A6D06EA33/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcalifornia_post_772%2Faaba4afcc3e8d21c5cac525047cb8e26" alt="" /></p>Wildlife watchers got an eyeful as they witnessed two grizzly bear cubs killed by adult bears in separate recent incidents at the same national park.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildlife-fans-witness-vicious-killings-195838909.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildlife-fans-witness-vicious-killings-195838909.html</guid>
-            <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U.S. Marines Practice Launching Kamikaze Attack Drones In South Korea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F9F8B92CF8C8A103443BB088598D775BE1A9321506043995CF2D129C6D20913A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F0f4c4d0838f51e186c32f2cb9d7cf558" alt="" /></p>In a historic first, U.S. Marines fired explosive suicide drones less than 20 miles from the Demilitarized Zone dividing North from South Korea in joint drill exercises.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/u-marines-practice-launching-kamikaze-194447874.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-marines-practice-launching-kamikaze-194447874.html</guid>
             <pubDate>Thu, 06 Aug 2026 22:24:55 GMT</pubDate>
         </item>
     </channel>
