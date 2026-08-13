@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 10:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 11:40:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ukraine’s drones hit a major Russian refinery 800 miles from the border, sparking a fire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/47B46217E100A08C4551C9FCF9FCE8FB4FA09F8757527713DD3C65F282DBFF6F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fcefe826fd2a7759e6be0ed10f2e34be6.jpg" alt="" /></p>Ukrainian drones struck a major refinery deep inside Russia, military officials said Thursday, the fourth in three days in Kyiv’s monthslong campaign to choke Moscow’s vital oil sector.  Russia is one of the world’s biggest energy producers, with oil providing an economic mainstay as its army tries to push deeper into Ukraine in a slow and costly advance more than four years after Moscow launched its full-scale invasion.  The attacks have dented Russia’s refining capacity, bringing shortages at gas stations.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-drones-hit-major-russian-112031067.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-drones-hit-major-russian-112031067.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspected explosive device grounds trains in German region]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EF98AB63180803F0AA1B16A78DDF6C1CCF94E9C2B28B28BB3ED53A3FE0F67A4E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffdc7d3d870e973326034e74fc4a6dedb.jpg" alt="" /></p>A suspected explosive device brought rail traffic to a standstill in a region of southern Germany on Thursday. Special police forces examined the object discovered by a technician on the track bed at the entrance to Treuchtlingen railway station, in Franconia south of Nuremberg.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/suspected-explosive-device-grounds-trains-110335029.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspected-explosive-device-grounds-trains-110335029.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin watches Russian navy drills off Russia's Sakhalin Island]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F968EB621038E8CE1B5235DB5DD277E23B09B332F7626AFF00FBEEF3793834BA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb0157092ff526db76b0d213c4d6a7308.jpg" alt="" /></p>Russia's President Vladimir Putin observed naval exercises off Sakhalin Island on Thursday before travelling to the disputed Kuril Islands, prompting a strong protest from Japan.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/putin-watches-russian-navy-drills-110056079.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-watches-russian-navy-drills-110056079.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German Firefighting Robots Are Now Battling Blazes in Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9795330C77A833E480039B162CA43E8EE4CB5B71CCFF492358C0D62517C8FEAB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fextreme_tech_articles_222%2F2fbddc628ff6b44be94956885483f37e.png" alt="" /></p>The robots are designed to protect Ukrainian firefighters and enable navigation in dangerous terrain.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-firefighting-robots-now-battling-110000162.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-firefighting-robots-now-battling-110000162.html</guid>
+            <dc:creator><![CDATA[Extreme Tech]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian drone strikes passenger train in Odesa region, killing driver]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5E252AD455CEA7DD843A9A3A490A6D8C4379BBEAB3D1A7C654A505C84C3AA8A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F6bd534a6b77432cb9815cf8e33699972.jpg" alt="" /></p>A Russian Shahed drone struck a passenger train in Ukraine’s Odesa region on 13 August 2026, killing the driver and his assistant and forcing the evacuation of 340 passengers, including 67 children, in the Berezivka district.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-drone-strikes-passenger-train-104326275.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-drone-strikes-passenger-train-104326275.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russian Drone Convention Cancelled Due to Alleged Threat from Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08145D25EA91A58C5B7D07B4C94CE5D7C355FF56A3A823D000AE3CDDF64EC8C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F5d69b0801ad5b264f5b3c7a6b1675029.jpg" alt="" /></p>Russia has scrapped this year’s edition of its flagship combat drone convention over fears Ukrainian drones would blow it up. Dronnitsa is the country’s biggest showcase for the drone industry driving Vladimir Putin’s war on Ukraine. It was booked for Aug. 29-30 in the northwestern city of Veliky Novgorod, roughly 75 miles from the lakeside Valdai compound where the increasingly isolated 73-year-old tyrant now spends much of his time. Organizers announced an indefinite postponement on the messag]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-drone-convention-cancelled-due-101157328.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-drone-convention-cancelled-due-101157328.html</guid>
+            <dc:creator><![CDATA[The Daily Beast]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 11:40:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Police seize 1,000 pounds of cocaine with stickers of soccer star]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA6A736B5A22919A31037A429F959EDF46E48DE11AFF5A920103702CB4C764F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F6edd404f5dc6dd9629a3c27c24f1633c.jpg" alt="" /></p>Police released a video showing the packages spilling out from the truck's false bottom, with the stickers of Norway's soccer star Erling Haaland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/police-seize-1-000-pounds-104643292.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/police-seize-1-000-pounds-104643292.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>George Smyth, a University of Bristol student, has been missing in the Bucegi Mountains since November.]]></description>
             <link>https://www.yahoo.com/news/world/articles/mountain-rescue-team-resumes-search-104402423.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mountain-rescue-team-resumes-search-104402423.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5B4B0AAAEE5E5AC4FAD11260B1BEEDCCC87F1370983C06A61A0DAF663A2C19E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdf15f708b5060f2de01fb3aadcc5c210.jpg" alt="" /></p>Clashes between Iran-backed Houthi rebels and government forces in Yemen raged overnight Thursday as renewed violence continues to spread and feed growing fears that the country's civil war could reignite and create a new front in the Middle East war.  At least one government soldier was killed and another critically wounded in clashes between Houthi rebels and the military in the mountainous province of Taiz, Yemeni military officials told The Associated Press.  The fighting came as part of a spate of recent attacks by the Houthis on government-held areas across the country.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-backed-houthi-rebels-clash-104200389.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-backed-houthi-rebels-clash-104200389.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +82,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3935DF0CA44A6F2E24166A053AA532C9710B8ACC63DB80D135F245F8EA1E36AE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2Fdb06a3c9e79d3f11fc0d9bd187b762ab.jpg" alt="" /></p>The project now moves into the design phase, with the blocks targeted for completion in 2028.]]></description>
             <link>https://www.yahoo.com/news/world/articles/wates-residential-havering-council-sign-103550416.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wates-residential-havering-council-sign-103550416.html</guid>
-            <dc:creator><![CDATA[World Construction Network]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +89,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C116B71A30F843ACDF71CEE8AAF6857EF92BFA8FD2B3C71270D627E7319D6143/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F62181ba90b26fe47af2595fe355fb6a2.jpg" alt="" /></p>Japan issued a stern rebuke to Moscow after the Russian president visited a chain of islands at the center of a territorial dispute between neighbors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tokyo-condemns-visit-vladimir-putin-103121137.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tokyo-condemns-visit-vladimir-putin-103121137.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +96,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8A70ED40825B755DFDC0EEBDB82EFE18A1B5FCD86DBF156E8700F3C526896C26/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8dc0298b96d662b24fe927d49bdf5c9e.jpg" alt="" /></p>A Russian drone strike on a passenger train in the Odessa region of southern Ukraine has killed the train driver and his assistant, Ukrainian Railways said on Thursday. The 340 passengers on board were being evacuated, the state rail operator said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-killed-russian-drone-strike-101843244.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-killed-russian-drone-strike-101843244.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +103,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC84E37639E5197CF387C6068C77F8438442DE21A021BC36C4B2872F5D61F123/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b796f423676410fe19b1e1fb11e01fb.jpg" alt="" /></p>LAGOS, Aug 13 (Reuters) - More than 50 Muslim and Christian leaders have signed an interfaith peace accord in Abuja, launching a new body to promote religious harmony across Nigeria.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigeria-faith-leaders-sign-peace-101737335.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigeria-faith-leaders-sign-peace-101737335.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +110,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Six pyrotechnic companies are battling it out for the title at the British Firework Championships.]]></description>
             <link>https://www.yahoo.com/news/world/articles/firework-championships-light-city-sky-094951594.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firework-championships-light-city-sky-094951594.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +117,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/89AFE257D5A8F890B255C9AFD08CCE55CB52B92D5BF1A7A3E421ABF6A02C8D3F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Ff50672c7809cc7d35311b4df99b433e9.jpg" alt="" /></p>D emonstrators denouncing the v isit of Myanmar's former junta chief to Thailand in August held placards and shared cake on August 6, 2026, but an image claiming to show Thais pouring milk onto a road to cleanse the "bad omen" of Min Aung Hlaing is fabricated. An AFP reporter who covered Hlaing's visit said no incident took place and a detection tool flagged the image as created with OpenAI tools.]]></description>
             <link>https://www.yahoo.com/news/world/articles/image-milk-cleansing-ritual-deploring-095059814.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/image-milk-cleansing-ritual-deploring-095059814.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +124,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA14EAB3658FA767903F31F00C8C37617080270B319CB3F24F4EA615072D2CA9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F6d1ecdf3f198efaff0b959b8eceade3d.jpg" alt="" /></p>By Emmanuel Bruce ACCRA, Aug 13 (Reuters) - Ghanaian cocoa farmers are pushing back against a newly passed law that restricts how they can use their own land, urging President John Dramani Mahama to]]></description>
             <link>https://www.yahoo.com/news/world/articles/ghanas-cocoa-farmers-push-back-094954330.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ghanas-cocoa-farmers-push-back-094954330.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +131,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD6FB914E32FC40FCC94F9D8BB7C7F07EA572DE2915E1C2AF1622B51EA55549C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F2f361be83fd55ca17338ca3cbb785bd8.jpg" alt="" /></p>The biggest threat to Ukraine’s cities can strike with little or no warning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-ballistic-missiles-exploiting-holes-040129160.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-ballistic-missiles-exploiting-holes-040129160.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +138,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA695F1E9670978A8B235811F1C49AD1E7D976C8765DBBDBF3D99D6CD6659E74/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5af82736bd812dde81f133abfe91e553.jpg" alt="" /></p>Military escalation continues for days after the Yemeni government announced it is attacking Houthi positions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemeni-forces-houthi-attack-repelled-093024592.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemeni-forces-houthi-attack-repelled-093024592.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +145,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B228C7CDCA3766C3CEE9BF9861F3EA4A0206112EBFC94AF2F01A751EBC090EBA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2F090d675eb32196021935b229ff7c1c69.jpg" alt="" /></p>New Zealand has approved a 10-year petroleum mining permit for the Puka field as it seeks additional domestic natural gas supplies and new oil production.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zealand-approves-oil-gas-production-093000500.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zealand-approves-oil-gas-production-093000500.html</guid>
-            <dc:creator><![CDATA[Oilprice.com]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +152,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/318C6EC6F41F5757FF160EE1A6CEB5B53B533D74624C66425D6F8E403ECE77BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3090fed2af51c280690cc22378d6bce1.jpg" alt="" /></p>An Australian jury on Thursday convicted a former Catholic bishop renowned for hosting alcohol-fueled house parties of sexually abusing two young Indigenous men.  The District Court of Western Australia jury convicted Christopher Saunders, 76, of 13 out of 19 charges of sexual abuse that allegedly occurred between 2008 and 2019 in his sprawling diocese on the country’s tropical northwest coast.  Prosecutors alleged he lured young Indigenous men to his church-owned house in the tourist town of Broome with free alcohol and cigarettes paid for with church funds.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australian-jury-convicts-former-catholic-091636710.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-jury-convicts-former-catholic-091636710.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +159,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ED5024C60E8AAF562341BC32C2AE990D46F4BBD4DAB2A8126CA2D9A4B12BE5B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2b66317f2501fb4cf54c04647a58c718.jpg" alt="" /></p>An eco-project backed by David Lammy has been ordered to pay more than half a million dollars to an elderly woman after she sued it for unpaid rent when it allegedly wrecked her property.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lammy-eco-project-ordered-pay-090000194.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lammy-eco-project-ordered-pay-090000194.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +166,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74B49118DE4FF115E86FBCDEA62307785DEAD7D6F9B185C8BD4D78C5671E41BD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2F5e9274b9114f1c947065a0bbdc083c3d.jpg" alt="" /></p>Experts say harsher legislation is driven by political scapegoating and anti-Western backlash, and fuelled by US conservative groups]]></description>
             <link>https://www.yahoo.com/news/world/articles/rise-anti-lgbtq-laws-across-081327262.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rise-anti-lgbtq-laws-across-081327262.html</guid>
-            <dc:creator><![CDATA[The Week]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 10:55:09 GMT</pubDate>
         </item>
         <item>
@@ -6986,48 +7018,6 @@ lv/das/cc]]></description>
             <link>https://www.yahoo.com/news/world/articles/houthi-strikes-saudi-military-targets-122449225.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthi-strikes-saudi-military-targets-122449225.html</guid>
             <pubDate>Sat, 08 Aug 2026 14:56:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Puerto Rico’s Water Crisis Has Reached a Breaking Point: Why the Island Is Turning Off Taps]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/71907F33EEC61B8FBD0A8F53C5C0253F9246A0C746A2EC139039380C89A607EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2Fe9fcae2e4413349bef4e99cb935c82db" alt="" /></p>For many people, the first sign of a water crisis is not a headline. It is a quiet moment at home. A faucet that suddenly stops running. A shower cut short. A family filling containers because they do not know when the water will return. That reality has become part of daily life for thousands of residents in Puerto Rico, where worsening drought conditions have forced authorities to begin rotating water restrictions. In some communities, families are facing long stretches without regular water s]]></description>
-            <link>https://www.yahoo.com/news/world/articles/puerto-rico-water-crisis-reached-133200754.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/puerto-rico-water-crisis-reached-133200754.html</guid>
-            <pubDate>Sat, 08 Aug 2026 14:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lion saved as cub from Ukraine war and brought to US battles rare fungal disease]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1382285A9037142E0E4E048F1AB0D9AD192B6526DFF4F97F130AE74045041186/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F376b5a5b8519ab9c0a802ed8289e8d78" alt="" /></p>Four-year-old Taras, who now resides at a Minnesota sanctuary, was diagnosed with an often fatal infection]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lion-saved-cub-ukraine-war-130046174.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lion-saved-cub-ukraine-war-130046174.html</guid>
-            <pubDate>Sat, 08 Aug 2026 13:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seal recovering after dog bites and harassment]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/041ABC209A917D770DBF069C0ECBBD73C50BA62BE1F2A067044739AC7272F95D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0924fe0f5faba69b8d9c0c47ea0aa369" alt="" /></p>British Divers Marine Life Rescue believes the male common seal will make a full recovery.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/seal-recovering-dog-bites-harassment-122733316.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/seal-recovering-dog-bites-harassment-122733316.html</guid>
-            <pubDate>Sat, 08 Aug 2026 13:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Influencer killings mount in Mexico as rival cartel factions wage a bloody fight]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/973F087CDA802D8D91C5E605F49F57A969A8E7921412D319F42FB31FDE52E623/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F335cba5222a24ba4a32eb9e0fb533ab0" alt="" /></p>Alarm is rising in Mexico about the mounting deaths of influencers, especially in the country’s most dangerous states.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/influencer-killings-mount-mexico-rival-110029715.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/influencer-killings-mount-mexico-rival-110029715.html</guid>
-            <pubDate>Sat, 08 Aug 2026 13:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemen attacks Houthis, Turkey’s Kurdish peace bill wins approval, and other Middle East news]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/525349B47A499AF42C1355A3F8F07BB1B773755E0BA836A50C6ECC23D7D64D9E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdd9999db114a4a18ee079a4f806ae61f" alt="" /></p>The UAE said one of its ships was targeted by an Iranian missile, Yemen’s military has attacked Houthi rebels as the United Nations warns that fighting could escalate, and Turkey’s Kurdish peace bill wins approval in parliament.  A vessel owned by Abu Dhabi’s state-owned ADNOC oil and gas company was attacked on Saturday while transiting through the Strait of Hormuz, Emirati authorities said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/yemens-army-attacks-houthis-turkey-104136780.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemens-army-attacks-houthis-turkey-104136780.html</guid>
-            <pubDate>Sat, 08 Aug 2026 13:28:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine honors its 'collector of souls' killed while recovering the war dead]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6D81BE7CAA7C22A0E03C4505A11174B5B347E440342563D48C0E8CF66FFE6121/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa37463d306d76f80c9f26b1d75736a90" alt="" /></p>Ukraine paid tribute on Saturday to Oleksiy Yukov, a volunteer who spent more than two decades recovering the bodies of civilians and soldiers — many of them Russian — killed by war.  An Orthodox Christian service was held at the Cathedral of Saint Volodymyr, in central Kyiv, where thousands of people gathered to pay their respects following his death in a landmine explosion during a recovery mission on Aug. 5.  Yukov, from the war-torn Donbas region, was a martial arts instructor, He began recovering the dead as a teenager after encountering the remains of Soviet and Russian soldiers from World War II.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-honors-collector-souls-killed-121618634.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-honors-collector-souls-killed-121618634.html</guid>
-            <pubDate>Sat, 08 Aug 2026 12:30:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
