@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 18:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 19:33:08 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
+        <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two people seriously injured in UK train derailment]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08AAA6F9D331FD23500BBBE16CD25EBA73FD51FD1200B20B9F16B25C710E35D6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F66846ea0b8dee7fab73474753fccff0d.jpg" alt="" /></p>Two people have been seriously injured after a train with around 150 people on board derailed near Lewes in the British county of East Sussex. British Transport Police (BTP) declared a major incident as three carriages derailed on their side, trapping passengers on board the Southern train on Thursday afternoon.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-people-seriously-injured-uk-191832968.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-people-seriously-injured-uk-191832968.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huge explosion rocks ammunition plant near Rome]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C503ED51407375D48B7BD2C76F6660E03586E17C6E7261A7F26101B56599F1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fcf3afb18d259bc096a608fead700aec3.jpg" alt="" /></p>A powerful explosion tore through part of an ammunition factory near the Italian capital Rome on Thursday following a fire. There were no casualties, according to initial reports from the KNDS Ammo Italy plant.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/huge-explosion-rocks-ammunition-plant-191832916.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/huge-explosion-rocks-ammunition-plant-191832916.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ecuador seizes half-ton of cocaine marked with Haaland, Messi names]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/18C36DA4AFAC3103BB83DDE2C2CF3ADBF3C37F13BF64F95D687CF21BB35FC40B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F79c5c9f5e7a4b335afc9bbcb00ef06a7.jpg" alt="" /></p>Ecuadorian authorities seized a half-ton of cocaine hidden in a truck near Colombia whose packages were marked with the names of soccer stars.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ecuador-seizes-half-ton-cocaine-190047418.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ecuador-seizes-half-ton-cocaine-190047418.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fire breaks out at fire station near airport]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Social media images showed the building ablaze, with thick smoke pouring from it.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fire-breaks-fire-station-near-185908155.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-breaks-fire-station-near-185908155.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colombia declares economic emergency after deadly earthquake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C2F6329B9F765D0DABE44EC30B7BD59303E5B3AB25CA880B27C6D110E44140F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F2ee0051e3f04f13585111d3fec5ab16e.jpg" alt="" /></p>Colombia' declared a state of economic, social and ecological emergency to aid reconstruction and address a humanitarian crisis after the earthquake.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/colombia-declares-economic-emergency-deadly-183120794.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-declares-economic-emergency-deadly-183120794.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Illegal Trafficking of Used Clothing Faces Crackdown in Peru]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0C0B749525A21E475AFB3B50694DB265975B4BE47A35A15364BC7A76229306DC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2Feb63bb1a41bde3ea2de2d294789a94a4.jpg" alt="" /></p>An investigation found that there was $143.3 million worth of used clothing trafficked during 2023.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/illegal-trafficking-used-clothing-faces-181924585.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/illegal-trafficking-used-clothing-faces-181924585.html</guid>
+            <dc:creator><![CDATA[Sourcing Journal]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Poland thwarts unprecedented plot by Russia to kill Ukrainian-US citizen in a NATO country, PM Tusk says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D1166E0215F6A4A9CA087578C1A66597B470CA712FF00D6D25ACE4A86BA1150A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F4b04f3a2d8d8477e572c7e222b397993.jpg" alt="" /></p>Poland, a NATO and EU member state along the alliance's Eastern flank, has accused Russia of "sabotage" on several occasions since Moscow's full-scale invasion of Ukraine in 2022.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/poland-thwarts-unprecedented-plot-russia-175118068.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-thwarts-unprecedented-plot-russia-175118068.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Thu, 13 Aug 2026 19:33:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Significant' act as WW2 German airman gets headstone]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6CF36D293B7437822E4A092C393597FA40170383938762356797BA50A434F22C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7e0565b2447de5c9337f10538522ed5e.png" alt="" /></p>Wilhelm Reuhl's grave has been marked by a wooden cross since he was killed during World War Two.]]></description>
             <link>https://www.yahoo.com/news/world/articles/significant-act-ww2-german-airman-180620896.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/significant-act-ww2-german-airman-180620896.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0AFF53C5D3A631E3D640349E0C9E68ECA78238A322B56E9FC28DD4AA329867F5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0f67231f5b0002da040d3d2c3abbc71d.jpg" alt="" /></p>A missing elderly woman has been found alive in the forest in Lithuania after a search by hundreds of people lasting several days. The 74-year-old went berry picking near the village of Papilvis on Sunday and did not return, Lithuania's LRT broadcaster reported on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/berry-picker-rescued-four-days-180337159.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/berry-picker-rescued-four-days-180337159.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BC6BC65E792B91EE365739751F67C2075AA32D2D02B094642329B263992CF14F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fb0ae28ffb38479025ee4bb0d7e4e3837.jpg" alt="" /></p>North Korea's economy is booming but North Koreans see few benefits. Kim Jong Un is the big winner and is taking credit for growth that Russia and China have facilitated.]]></description>
             <link>https://www.yahoo.com/news/world/articles/north-korea-economy-grows-kim-174924055.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-economy-grows-kim-174924055.html</guid>
-            <dc:creator><![CDATA[Forbes]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DF6F333294F001A1E1A887112AFC4FCCA54A2AF60A39019D63FAA8734043FE7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe30843a6f0f0baa7427701c4a75fd120.jpg" alt="" /></p>A fleet of small boats evacuated hundreds of tourists from beaches in northern Greece as a forest fire bore down on two popular resorts.Within hours of erupting, the fire bore down on homes around the popular resorts of Siviri and Fourka, which are packed with summer tourists.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tourists-rescued-boat-forest-fire-174239384.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourists-rescued-boat-forest-fire-174239384.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/118DF66CBD5272BF3C6535301189720C56B760FC04A18433BD6DA570DDD93711/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F724ad14f07d4b58d439de71f0b5658c4.jpg" alt="" /></p>The Israeli military ordered Palestinians to evacuate 15 homes in the West Bank village of Qusra in a move to clear Israeli illegal outposts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/palestinians-west-bank-told-leave-173843776.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinians-west-bank-told-leave-173843776.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D8FDCBD075AF0ED3079333400A5AEB703C9FF875F92E39527FCD6A8096EB4A7C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fda8a2c4cd120c391d4201473a15f1d20.jpg" alt="" /></p>In the interview, Levy explained that he does not often go out, especially to crowded places, because of his post-traumatic stress disorder (PTSD). Aviv Levy, a disabled IDF veteran, was asked to leave a McDonald's at Gan Shmuel Junction in northern Israel on Monday because of his service dog, he told Israel's Channel 12 News on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/disabled-idf-veteran-says-forced-173712212.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/disabled-idf-veteran-says-forced-173712212.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3E494F9F08E8DBE77801859250630C1ACEAF7DE062F419AABDDBAF747523845E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F46210d46ba5dea3258e35bf77bd4ff44.jpg" alt="" /></p>Extreme poverty affects 94% of Cubans, and eight in 10 have been forced to skip a meal because of a lack of money or food, according to a study.]]></description>
             <link>https://www.yahoo.com/news/world/articles/study-puts-extreme-poverty-cuba-173547183.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/study-puts-extreme-poverty-cuba-173547183.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3EC28A1D615B6C9D91BA7A1EEA65118B20BF94CCC235FA1E72900C0E5B0A8F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F88b5ccad427f5aa36bcb524949ea8fbc.jpg" alt="" /></p>US-indicted Cuban leader Raul Castro received a standing ovation as he appeared in public for the first time in months Thursday, attending an event in Havana to mark the centenary of his brother Fidel's birth.He last appeared in public at a May 1 event in front of the US embassy in Havana, where he appeared frail, and was shown on state television at events in June.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indicted-raul-castro-reappears-months-171429268.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indicted-raul-castro-reappears-months-171429268.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +125,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5116875DE5B42F51685A151AD633E4118FFA204158B640DA50C313191AEC1C11/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd80164c5d673a731fc09a1f313675952.png" alt="" /></p>UK police and emergency services are on scene after a passenger train derailed in southern England, authorities said Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rescue-operation-underway-passenger-train-170316841.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescue-operation-underway-passenger-train-170316841.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04EB4EEE71FEAD35502BFB88DD0D7059FF476BC28657400B0C06904F44500F25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F26f2e8c8c999584963c73d71aa644a83.jpg" alt="" /></p>An oil spill from a stranded tanker off the coast of Oman now covers an estimated 500 square miles (1,300 square kilometers), the environmental organization Greenpeace told CNN, prompting fears that a major ecological disaster could be unfolding in the Arabian Sea.]]></description>
             <link>https://www.yahoo.com/news/world/articles/huge-oil-spill-off-coast-170301808.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/huge-oil-spill-off-coast-170301808.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/658DD58D39817F04006CB32D4B79770336A3B7F689E80F6980F8D344DEE7213B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F85abf04bb1e14ce3ce66d199262437b5.jpg" alt="" /></p>Polish Prime Minister Donald Tusk said the suspect was allegedly recruited by Russia's secret services.]]></description>
             <link>https://www.yahoo.com/news/world/articles/poland-says-thwarted-russian-plot-165247351.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poland-says-thwarted-russian-plot-165247351.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Thu, 13 Aug 2026 18:24:37 GMT</pubDate>
         </item>
         <item>
@@ -6975,55 +7020,6 @@ lv/das/cc]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-mental-health-time-bomb-080000879.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-mental-health-time-bomb-080000879.html</guid>
             <pubDate>Sun, 09 Aug 2026 09:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemen’s Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6290BE1356F1DC3ECD35015EF891D621C4000DD4DF666F11A2C79CCB37305459/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F54a9b0c446c3f5d6908e4881d6b7b358" alt="" /></p>Yemen’s Houthis said they attacked an oil facility Sunday in southwestern Saudi Arabia, the latest attack by the Iranian-backed rebels on the kingdom.  Meanwhile, Iran has made new demands about the restart of negotiations and the reopening of the Strait of Hormuz, and the Pentagon is pressing the U.S. defense industry to accelerate production of weapons.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/yemen-houthis-claim-attack-aramco-072935270.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-houthis-claim-attack-aramco-072935270.html</guid>
-            <pubDate>Sun, 09 Aug 2026 09:31:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia says fire extinguished at Aramco facility in Jizan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/589E0A90D5AB88F7F4146EFBF0B14AF5CEF93F0FDE5714ED4B303B1C813564EB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd153120fb602e16a62e260944155250e" alt="" /></p>No casualties were reported after the flames broke out early on Sunday, the Saudi Energy Ministry says.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/saudi-arabia-says-fire-extinguished-075800295.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-arabia-says-fire-extinguished-075800295.html</guid>
-            <pubDate>Sun, 09 Aug 2026 08:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfire in Indonesian national park grows]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CB9C023E41ED940BB0B14E90CD402A50F4CBA18B20930E474C7F503A4894E50A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F932d3a4e166e108d2a8eea0a6e5f0c7c" alt="" /></p>Indonesia sent airplanes and hundreds of firefighters on Sunday to fight a blaze in a popular national park, one of a growing number of wildfires the country is battling during an unusually dry season.  The largest fire reported this week has burned about 176 hectares (435 acres) of Mount Bromo, located within the Bromo Tengger Semeru National Park in East Java province, one of Indonesia’s best-known tourist destinations.  Authorities closed the park to visitors Saturday and Rudijanta Tjahja Nugraha, the park chief, said the shutdown would remain in effect until further notice.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildfire-indonesian-national-park-grows-071020641.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfire-indonesian-national-park-grows-071020641.html</guid>
-            <pubDate>Sun, 09 Aug 2026 08:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hardline cleric who vowed to buy Man United wants to keep Iran at war]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA2B5A1E07737DC23A8A4CD9EEEC35446138E88139C6F4006D4C560F32D72FA3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F1dcdcc4228a2efe754a541c1313a0dfb" alt="" /></p>An Iranian cleric who once vowed to buy Manchester United is now trying to blow up Iran’s peace talks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hardline-cleric-vowed-buy-man-070000890.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hardline-cleric-vowed-buy-man-070000890.html</guid>
-            <pubDate>Sun, 09 Aug 2026 08:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine denies targeting Bulgaria as drone explodes near pipeline, Kyiv promises inquiry]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1EFF9CFD1B4B4D5D14C97DE6B54B3E79A5E708AA966ED67795A725B56D7831C5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F92c708a96bc0aec0923bea76d70b86a1" alt="" /></p>An unidentified drone of a type used by Kyiv's army exploded near a pipeline bordering Bulgaria and Romania. The drone entered Bulgarian airspace from Romania before exploding 1,000 metres from the Trans-Balkan gas pipeline.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-denies-targeting-bulgaria-drone-060039988.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-denies-targeting-bulgaria-drone-060039988.html</guid>
-            <pubDate>Sun, 09 Aug 2026 08:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IDF withheld Hezbollah explosive drone attack near troops in southern Lebanon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73958BB070F87E9CB022D27B2E437AE2723EA80FD23D67DAA92D1D023F565E08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F4b78ec190a399764269a13b7b4fd12dd" alt="" /></p>There were no casualties, and the drone caused no damage, according to media reports. Hezbollah launched an explosive drone near IDF soldiers north of the Beaufort Castle area on Friday, but the IDF did not report the incident, according to Israeli media outlets.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/idf-withheld-hezbollah-explosive-drone-072858738.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-withheld-hezbollah-explosive-drone-072858738.html</guid>
-            <pubDate>Sun, 09 Aug 2026 07:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[World's largest waterwheel among buildings earmarked for heritage protection]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FA706075E2CDF2DBA11430B14C8DBC1348EBB842608768CB0DAF46BBBAC0C441/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba" alt="" /></p>Nine historical Manx buildings are put forward for increased protection from future harm.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/worlds-largest-waterwheel-among-buildings-072040630.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/worlds-largest-waterwheel-among-buildings-072040630.html</guid>
-            <pubDate>Sun, 09 Aug 2026 07:46:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
