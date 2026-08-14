@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 21:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 22:14:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 21:47:31 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 22:14:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Mexico's Indigenous chief justice hits back at discrimination]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2340FFF9C039710D686289AE2EFAC8037C8BC04D9310F4BD0FDC5D0915A25FB1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F20db74131c30604562442f6331371a1f.jpg" alt="" /></p>Mexico's Supreme Court chief justice told AFP he faces discrimination on a daily basis over his Indigenous roots.He urged patience with the reform, acknowledging how challenging it is to root out the corruption that blights Mexico's justice system.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mexicos-indigenous-chief-justice-hits-214951311.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexicos-indigenous-chief-justice-hits-214951311.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 22:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia's home battery boom hits a hurdle as owners resist programs that could save more]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/573AF641A6689297DCC6CE2F56867BFC1666FEB89AA7142356819C1051E0CAC8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ff7028922250afe3462c85d8abe74bb79.jpg" alt="" /></p>Questions about trust and control remain at the center of the issue.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/australias-home-battery-boom-hits-214000284.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australias-home-battery-boom-hits-214000284.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 22:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family outing in Australia shifts into whale rescue when 10-year-old spots a humpback ashore]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9606BC86DE4D19F23D7C20B95987F0206F6AF0AC407F5BD249E0060966500D02/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fda8822a2d35e466d474fd161dcb9415f.jpg" alt="" /></p>"Every time she'd stop splashing, it's like he'd make more noises."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/family-outing-australia-shifts-whale-212900160.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/family-outing-australia-shifts-whale-212900160.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Fri, 14 Aug 2026 22:14:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ojai Raptor Center warns fans about Jackie the bald eagle merch]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01EFF051A2B7EFC31C5A5E8E23BB2F94A39FD9639A0DEF258DF56451CCD8949D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F524054f27799d53868714b9babed967e.jpg" alt="" /></p>Following Jackie's death, Ojai Raptor Center says it does not sell Jackie merchandise and encourages direct donations instead.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ojai-raptor-center-warns-fans-213813823.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ojai-raptor-center-warns-fans-213813823.html</guid>
-            <dc:creator><![CDATA[USA TODAY]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 21:47:31 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA21A0729A87126F31B77996D606F6D0038E2427309E227CB2B9AC2D10882516/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Faaea4fd798a192dd3375cd2d38f105d3.jpg" alt="" /></p>Black academic Jason Arday, who resigned from the University of Cambridge last week amid a high-profile plagiarism storm that featured racism claims, was found dead Friday, the prestigious British institution confirmed.The furore around Arday grew after Nathan Cofnas, a US academic and self-defined "race realist" -- whose Cambridge research affiliation ended in 2024 amid racism accusations -- published claims about him in July.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ex-cambridge-professor-centre-plagiarism-205951111.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-cambridge-professor-centre-plagiarism-205951111.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 21:47:31 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3BDBF96774B8907FDA5E16A745C5043B12242A4F75F1355B2DB09D2BC06309EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F3aeed2ce7bb61ee8cca383dbe93a879d.jpg" alt="" /></p>The Caroline Bezengi, linked to Russia's so-called shadow fleet, is carrying millions of gallons of oil and has run aground off the coast of Oman.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russian-tanker-leaking-oil-off-205156641.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-tanker-leaking-oil-off-205156641.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 21:47:31 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86C745E17309B1C00C6DAF0BABF593F6C33A59412971A2CDAFD8E0479A33E566/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F5e113321f32d70699e0c6fff3f6b6105.jpg" alt="" /></p>Jason Arday, a former University of Cambridge professor, was reportedly found dead in London on Friday, just days after resigning over questions surrounding his career.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-cambridge-professor-accused-plagiarism-202734295.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-cambridge-professor-accused-plagiarism-202734295.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Fri, 14 Aug 2026 21:47:31 GMT</pubDate>
         </item>
         <item>
@@ -7002,27 +7022,6 @@ lv/das/cc]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A2A7202E824FA6E79579DD0692B10F16F34AF07E1754800E963A95DEB943D7F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F7bff0f42fc7352db3c36c93900eacf91" alt="" /></p>"Most of the old-issue banknotes have already been replaced with new ones some time ago. If any of you still possess those old banknotes, you face a serious financial risk," Waweya wrote.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-urges-gaza-residents-exchange-154628401.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-urges-gaza-residents-exchange-154628401.html</guid>
-            <pubDate>Mon, 10 Aug 2026 16:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German ministry rejects criticism of 'outdated' defence strategy]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2DDBEDA23CE1294F79DE3487886D212B917A04D7D82C97C808A370833076CB6B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F303cdeb2455fa38f54560b656f19a1e0" alt="" /></p>The German Defence Ministry on Monday dismissed criticism of its strategic focus on procuring more tanks and ships instead of investing in drones, artificial intelligence and robotics. Moritz Schularick, president of the Kiel Institute for the World Economy (IfW), has warned that instead of investing a €700 billion ($809 billion) fund earmarked for the German military in modern weapons systems, Defence Minister Boris Pistorius is spending a large share of the money on outdated technologies.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-ministry-rejects-criticism-outdated-151841660.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-ministry-rejects-criticism-outdated-151841660.html</guid>
-            <pubDate>Mon, 10 Aug 2026 16:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Smart Glasses Are Being Used to Secretly Film Women, and It's Worse Than You Think]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD6D94129F9C6AAD69CB0BB9F28BEAA3B43BBBBA3D2DE6C9DCDB1F78401A01E4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffood_drink_life_articles_511%2F85ccbb1dad0568311d62a1069946e94f" alt="" /></p>Smart glasses that look just like ordinary eyewear are being used to secretly film women in everyday places, according to a new study from the University of Sydney.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/smart-glasses-being-used-secretly-151121843.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/smart-glasses-being-used-secretly-151121843.html</guid>
-            <pubDate>Mon, 10 Aug 2026 16:23:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia forced to give up control of key Middle East bases]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2459E64A880FB92524B731DC1580B35477F9A0E2BF5F561F62DE75EDFDB87EBC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4ced1ee133934d83ee4b0fcc76b3d148" alt="" /></p>Russia has been forced to give up control of two military outposts in Syria, losing a strategic foothold in the Mediterranean.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-forced-control-key-middle-150324805.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-forced-control-key-middle-150324805.html</guid>
             <pubDate>Mon, 10 Aug 2026 16:23:20 GMT</pubDate>
         </item>
     </channel>
