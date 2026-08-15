@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 04:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 05:17:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 04:54:27 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 05:17:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Powerful 7.7-magnitude earthquake strikes eastern Indonesia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/123C9DE7FA8D0D87EF98AB568F05510CBF50E5F30E12A664180073BB0EB1EE68/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fbcbd266cc5af4d8bcfe7aff029564032.jpg" alt="" /></p>Authorities ordered mass evacuations as a powerful 7.7-magnitude earthquake shook eastern Indonesia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/powerful-7-7-magnitude-earthquake-040355454.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-7-7-magnitude-earthquake-040355454.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 05:17:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Europe's tallest Virgin Mary statue rises in Polish village]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6167946B9FFBE3CEEB09BA2E97FEFE6ACA9CBE0615184D2AED7B94B5E8FA8950/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F33761bae8e80240791972f38c2f2ba41.jpg" alt="" /></p>The village of Konotopie is home to tallest Virgin Mary statue in the whole of Europe.]]></description>
             <link>https://www.yahoo.com/news/world/articles/europes-tallest-virgin-mary-statue-043122556.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europes-tallest-virgin-mary-statue-043122556.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 04:54:27 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F115D834354F315B354A6B64BC3E77CBEAEF04BC1AF7DEA2DE1452C393C1BF48/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc017bcd86428052905df3d126e6c8755.jpg" alt="" /></p>Three weeks after the Islamist attack on the fringes of Berlin's Pride parade, tens of thousands of people are expected on Saturday at the techno parade Rave the Planet, which takes place near the scene of the attack. Tightened security measures are in place, but heat will be another challenge, with temperatures of up to 37 degrees Celsius possible.]]></description>
             <link>https://www.yahoo.com/news/world/articles/heightened-security-planned-berlins-techno-040344905.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/heightened-security-planned-berlins-techno-040344905.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 04:54:27 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3FB06996FFCAB066718AB9D0AD50D631AC37872F274CC5CC0770600BC5DB863A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwivb_articles_998%2F017e1a66a8e672cfdd7f0979b7666baa.png" alt="" /></p>BUFFALO, N.Y. (WIVB) — “I just received a notification that another building collapsed.” This is what MarCe Zerrate said as WIVB News 4 spoke to her via Zoom from Colombia. Zerrate was born in Colombia and moved to Buffalo in 2005. On Monday, she was back in Cali, Colombia, visiting her mother when tragedy struck. […]]]></description>
             <link>https://www.yahoo.com/news/world/articles/buffalo-resident-aids-relief-amidst-032755151.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/buffalo-resident-aids-relief-amidst-032755151.html</guid>
-            <dc:creator><![CDATA[WIVB Buffalo]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 04:54:27 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20D23D899E73F61ECAC8183AE607826B5F8EB37D0AA6479BE30585E0D838402A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F82f5b6787e18907e7a2e0f782ca44c29.jpg" alt="" /></p>A powerful 7.7-magnitude earthquake struck off Flores island in eastern Indonesia early Saturday, killing at least one person and sending thousands fleeing.Flores was struck by a 7.7-magnitude earthquake in 1992, which triggered a tsunami and resulted in around 2,500 deaths.]]></description>
             <link>https://www.yahoo.com/news/world/articles/powerful-quake-off-indonesia-kills-024447894.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-quake-off-indonesia-kills-024447894.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 04:54:27 GMT</pubDate>
         </item>
         <item>
@@ -7016,13 +7020,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/368003A54B0868C59F980F07C76B1EA04A6BAAA99AD12B8BEB53CF5C82BD8D5E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F958180223299977672f7c61fa9dd5873" alt="" /></p>The office of the supreme leader has named a new security chief and established war commanders in influential roles.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-hierarchy-consolidation-irgc-veteran-183425262.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-hierarchy-consolidation-irgc-veteran-183425262.html</guid>
-            <pubDate>Mon, 10 Aug 2026 19:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video shows moment magnitude 7.4 earthquake strikes Colombia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA22FA48EB51B0F1508E2FB9241681220C3E3ACDB998BCD3548CFF130045E8F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fb7e329e0aae2188e18abf3fcf204b8ba" alt="" /></p>Dozens of people were killed after a powerful magnitude 7.4 earthquake rocked western Colombia early on Monday, Aug. 10.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/video-shows-moment-magnitude-7-183337546.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-shows-moment-magnitude-7-183337546.html</guid>
             <pubDate>Mon, 10 Aug 2026 19:28:32 GMT</pubDate>
         </item>
     </channel>
