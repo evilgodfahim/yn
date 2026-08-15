@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 16:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 16:47:26 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 16:47:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Body found in search for man missing on hike]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>A body is found during the search for George Smyth, who went missing while hiking in Romania.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/body-found-search-man-missing-163628680.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/body-found-search-man-missing-163628680.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 16:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[47 dead from 7.7 magnitude Indonesia quake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3E609F8AC3E7C88E590A960F97B880EB7908EB02A8E3DCC15FE473A53161400/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0bc25cd4f394a3bbd9d6f9754f3b5856.jpg" alt="" /></p>A powerful 7.7 magnitude earthquake that hit Indonesia early Saturday has killed 47 people so far, authorities said. More than 2,000 have evacuated.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/47-dead-7-7-magnitude-162449158.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/47-dead-7-7-magnitude-162449158.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 16:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dad Finds Newly Married Son, 26, Dead in Freak Wood Chipper Accident at His Workplace]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51052272C0244F38C8ED42660B5A775E3B9E72D76367EC9C96993BE912F582E7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F28589959a09fd5477d4ba7ab2591b78e.jpg" alt="" /></p>“His boss should have found him, not me,” said Max Parkin following the death of his son, Josh Thomson-Parkin]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dad-finds-newly-married-son-162340905.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dad-finds-newly-married-son-162340905.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 16:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deceased academic Jason Arday's family decries 'campaign of harassment' against him]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6B0AA842B3E03DA7601165EAF18A8BBFDDDCA6BD4F66DFC0D253E1854D50891D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F1d794d6956c8976c8eb6a6d14388f4f8.jpg" alt="" /></p>The academic was found dead a week after he quit his role as Cambridge University professor and Jesus College fellow after allegations he had plagiarised parts of his PhD thesis and embellished his life achievements.View on euronews]]></description>
+            <link>https://www.yahoo.com/news/world/articles/deceased-academic-jason-ardays-family-160534095.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deceased-academic-jason-ardays-family-160534095.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 16:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yemen's Mocha port halts operations after Houthi attacks, port director says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5D3AF0E2D2206D34F2B78497EEAE7319E63B50214E9706E1538C7306373E524/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8c596bab89cc506906bb074bb8150c70.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/yemens-mocha-port-halts-operations-155116101.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/yemens-mocha-port-halts-operations-155116101.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/16851357001CC56C0BBA68AF1F27293B07E2899952E5D63CE7597BE0654CAF2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6051a77dbc7e160c918e785cb0255df4.jpg" alt="" /></p>Ukraine used domestically produced Flamingo missiles to hit targets in Russia’s southwestern Samara region.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-hits-russian-starlink-style-155006440.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-hits-russian-starlink-style-155006440.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22B18B01308834E3CDBBBF3191FD2D730E64C0B6A6F407C5F18AE0B30FC845EA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9ada1e1fdfe0b460d13719d02e5dbf79.jpg" alt="" /></p>At least 11 people were killed and another 19 injured on Saturday in two separate Israeli air attacks in southern Lebanon, the Lebanese health authorities said, amid a fragile truce between Israel and Lebanon's Iran-backed Hezbollah militia. The Health Ministry in Beirut said two houses on the outskirts of the towns of Ansar and Deir al-Zahrani were hit.]]></description>
             <link>https://www.yahoo.com/news/world/articles/lebanon-says-11-killed-israeli-154825468.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-says-11-killed-israeli-154825468.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AE629429BAF562BEF8ED36DEF74ACF9F0D061C6ED57B7F91892BC004D51C2E63/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5b4fa0ad20c2eb943b6db2a3c1e7a3ee.jpg" alt="" /></p>Countries across Europe on Saturday battled wildfires amid blistering temperatures and tinder-dry landscapes, with thousands of people evacuated.Some 1,000 people from 18 different villages and settlements remain evacuated, though weather forecasts call for some welcome light rain and lower temperatures.]]></description>
             <link>https://www.yahoo.com/news/world/articles/europe-wildfires-latest-developments-151810471.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europe-wildfires-latest-developments-151810471.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +73,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE4697C9E5463C538CC8EF675B52CA7642C66854C2398AE657C505BD9553DE4F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F328150100ae46eb16d4176ff0dc36956.jpg" alt="" /></p>As Liechtenstein marked its National Day on Saturday, its monarchy made a major announcement that will have ramifications for every generation of the royal family from now on]]></description>
             <link>https://www.yahoo.com/news/world/articles/liechtenstein-royal-family-makes-major-150625623.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/liechtenstein-royal-family-makes-major-150625623.html</guid>
-            <dc:creator><![CDATA[Hello!]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 16:14:14 GMT</pubDate>
         </item>
         <item>
@@ -6997,34 +7024,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A8CC780EC6C83C021EE54110CF5A2FBE99CF678087BD61F46F4C7C83D7E2124A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2Fb256612e7bd34f56924b55b67d8fbb44" alt="" /></p>Footage of men climbing to the top of a mosque's minaret and attempting to hoist a saffron flag has been falsely shared in social media posts claiming it shows Hindus vandalising a mosque during religious violence in southern Nepal in late July 2026. The footage has circulated since February 2020, and in fact shows a mosque that was vandalised in Delhi's Ashok Nagar area during deadly sectarian clashes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/old-video-india-misrepresented-sectarian-091910819.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/old-video-india-misrepresented-sectarian-091910819.html</guid>
-            <pubDate>Tue, 11 Aug 2026 10:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Korea arrests two Chinese nationals over military spying]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A59B4C65FD7D521DF350ADFFD8E0916AEEC49D46470DE4B75061199AC986F049/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffdd0356d031f82a3a4a6ac24950250a9" alt="" /></p>South Korean authorities have arrested two former Chinese military officers on suspicion of spying on fighter jets near an airbase, South Korea's official Yonhap news agency reported on Tuesday. One of the suspects, a Chinese national in his 60s, is suspected of "benefiting the enemy" and breaking a law on the protection of communications after making multiple visits to South Korea on a tourist visa, Yonhap reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/south-korea-arrests-two-chinese-091824595.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korea-arrests-two-chinese-091824595.html</guid>
-            <pubDate>Tue, 11 Aug 2026 10:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian-backed Houthi rebels renew attacks on key port city, and other developments in the Mideast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2F2A29B079044785F21AD20F56C34E2AD50BFF937C39B750F664FB1F5A90C38C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fec4b136674ab8e30bd33ca97ca0b4038" alt="" /></p>Iranian-backed Houthi rebels renewed their attacks Tuesday on government-controlled areas in Yemen as ongoing violence threatened to reignite the country's civil war and raised fears over new threats to shipping lanes.  Iran's foreign minister, meanwhile, underscored Tehran's stance against reopening the Strait of Hormuz until the U.S. meets its conditions, in comments that came after U.S. President Donald Trump said he was now demanding compensation from Iran “for all of the people that they have killed” in the past.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iranian-backed-houthi-rebels-renew-090544883.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-backed-houthi-rebels-renew-090544883.html</guid>
-            <pubDate>Tue, 11 Aug 2026 10:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Congo Ebola death toll tops 2,000 in fastest spreading outbreak on record]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B8947530C00AAAF9A53519738565792CCC1333D30C8E35131FA275670BA18E2D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fd8a67c6b014db0ddb565e344582bdc7e" alt="" /></p>At least 2,000 people have died among the confirmed cases in Congo's Ebola outbreak that is the fastest spreading on record, according to the latest government data.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/congo-ebola-death-toll-tops-090100612.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congo-ebola-death-toll-tops-090100612.html</guid>
-            <pubDate>Tue, 11 Aug 2026 10:25:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildfire at Indonesia's Mount Bromo mostly contained as smoke forces school closures]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA5D1D346464A58257C1983FCB884D2C9AE22E3BC99A8A951E3823CFD9497BCB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fbe4a8343ef5e82e6b345fb2703761cc9" alt="" /></p>Indonesian firefighters have mostly contained a wildfire that has scorched a large area of a national park on the main island of Java, though crews are battling several remaining hot spots in the popular tourist destination, authorities said.  The fire, which began last week, impacted nearly 900 hectares (2,224 acres) across the Bromo Tengger Semeru National Park as of Tuesday, burning large areas of dry grassland, vegetation and protected edelweiss flowers, said Rudijanta Tjahja Nugraha, head of the park located in East Java province.  The volcanic landscape of Mount Bromo, one of Indonesia’s best-known attractions, is in the impacted area and has been closed as firefighters work to prevent the blaze from spreading in the conservation zone.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildfire-indonesias-mount-bromo-mostly-085431971.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfire-indonesias-mount-bromo-mostly-085431971.html</guid>
             <pubDate>Tue, 11 Aug 2026 10:25:11 GMT</pubDate>
         </item>
     </channel>
