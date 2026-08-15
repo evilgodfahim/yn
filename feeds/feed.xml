@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 20:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 20:45:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 20:45:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Groom-to-Be Found Dead in Rubble of Collapsed Building Just Days Before His Wedding After 7.4-Magnitude Earthquake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A4331B78EB45EA553F065FB58920A1EC8C86682898A46A149023A583B1011A02/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F9be9a7240e810dce83af4a81645c820c.jpg" alt="" /></p>The powerful quake struck Colombia on Aug. 10, killing at least 287 people]]></description>
+            <link>https://www.yahoo.com/news/world/articles/groom-found-dead-rubble-collapsed-202704095.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/groom-found-dead-rubble-collapsed-202704095.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alaskan community rocked after state kills mama brown bear, 3 cubs]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/508BF3879F77238F3F1E895AD5AE7B63A3F11D7CBE6318DEC983E2775842CCD5/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2F0bd5fb446e72a09065e6ca0d94dc31ed.png" alt="" /></p>Homeowner criticized for raising chickens inside, attracting the bruins.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/alaskan-community-rocked-state-kills-201110376.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/alaskan-community-rocked-state-kills-201110376.html</guid>
+            <dc:creator><![CDATA[For The Win]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:45:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F27348D2093E4DB594AFD8A1DCC56C081F794ED0580C5342037C9DB0B615076/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F932e963bf7e331603f098fa2119ef67c.jpg" alt="" /></p>The IDF Tzrifin Base in Central Israel stores a massive arsenal seized from Hezbollah and Hamas, including Iranian rockets, drones, and Nazi-era guns.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:45:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moroccan police arrest over 100 migrants trying to reach Spanish enclave]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8ACAAF11741E96E308B6C13B829C5DF2F164192F015ED87E4488A0F68FC9E0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9577727dfc3dd30b7a36ec02d0f3432e.jpg" alt="" /></p>A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.]]></description>
             <link>https://www.yahoo.com/news/world/articles/moroccan-police-arrest-over-100-194620863.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moroccan-police-arrest-over-100-194620863.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C94A370DE99487F28E75E5DED9DC5011DD8141ADE3F22547C414668563178ECD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F4bc227386183da211ae8f60cbc712ac6.jpg" alt="" /></p>Two Israeli strikes hit Lebanon and killed 11 people early Saturday, the Lebanese health ministry said, then struck another site killing more.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-strikes-lebanon-killing-15-194426008.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-strikes-lebanon-killing-15-194426008.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81D522486F9559B5603374FF7CB0429B6D2085603D93F2B1F16F32B358857BF2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F985fc59811aa0b2c80c5672e27cd56fd.jpg" alt="" /></p>The declaration was made on the national day of the central European country, which has a population of just 44,000.]]></description>
             <link>https://www.yahoo.com/news/world/articles/liechtenstein-changes-succession-rule-allow-194202865.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/liechtenstein-changes-succession-rule-allow-194202865.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8178A83B12ABFAD515BA16F990B5A2CACAC694CAE390F7644910021F9065459A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F49e1e7fad5220e13ed86da58c846516e.jpg" alt="" /></p>The former Cambridge professor, who was the youngest Black professor at the esteemed university, was found dead earlier this week]]></description>
             <link>https://www.yahoo.com/news/world/articles/always-believe-something-great-jason-190406366.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/always-believe-something-great-jason-190406366.html</guid>
-            <dc:creator><![CDATA[TheGrio]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3C79FF2D7E526A69F7C4BC8F4BB433A08027BF8E71DB59ED8027A52036BAB80/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F6e22aaf82441e285ea7ad102d355ffdb.jpg" alt="" /></p>Additional strikes were carried out on Savasleyka air base - which Ukraine said housed aircraft used for missile attacks - and an oil facility in Ust-Luga, per Zelenskyy.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-strikes-rocket-space-centre-185537190.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-strikes-rocket-space-centre-185537190.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         </item>
         <item>
@@ -7006,27 +7025,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2D25CC065EBF24E843B476ACC9D444D5DC4DC0AF7FD663A6D6162E19C5BFA48/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fba8b1f8d0fbb4e9530528183003c606b" alt="" /></p>The number of Ebola deaths in the Democratic Republic of the Congo has risen to 2,011, the government reported on Tuesday, just under three months after the outbreak was officially announced, with the virus killing 45. 9% of those infected.]]></description>
             <link>https://www.yahoo.com/news/world/articles/africa-cdc-reports-more-2-105136947.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/africa-cdc-reports-more-2-105136947.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[French newspapers target Google over AI summaries]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E5144064D744AD9712AA982A25AC8964C23F408255DFA596384AAA572104A571/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa008985598ee68dbd75341d54d97acb1" alt="" /></p>A federation of nearly 300 French dailies said Tuesday that it filed a complaint with the country's competition authority over Google's new AI-generated summaries of search results, fearing the feature will erode traffic to their own websites.But the APIG association of newspapers wants the country's competition regulator to ensure "Google's respect of commitments made in 2022" as part of a compensation deal with French media groups.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/french-newspapers-target-google-over-104652074.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/french-newspapers-target-google-over-104652074.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky says North Korean missiles used in deadly strikes overnight]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA99B6EAD85FB1008A876DF8823FCD9469291ED9DB0C5F22B53EE48731EB3D0C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F164d8817c9d836f44beeaac327d13711" alt="" /></p>Ukraine accused Russia of using North Korean missiles against Dnipropetrovsk province that killed at least 6 people as part of wider airborne assault.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zelensky-says-north-korean-missiles-104324668.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-says-north-korean-missiles-104324668.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Canada Man Challenges Police Officers to a Boxing Match, Bodycam Reveals What Really Happened]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81B7D7D2C8A59572C718114DF016415804DA510034896FD4C93991FEF93126B0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F22ca772787a9f5df55cf70af6bf65e36" alt="" /></p>A video that went viral of two police officers within the Peel Regional Police Department being asked to box by a suspect. Of course, the video doesn’t detail the full extent of what actually happened ... Read more]]></description>
-            <link>https://www.yahoo.com/news/world/articles/canada-man-challenges-police-officers-103040780.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-man-challenges-police-officers-103040780.html</guid>
             <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
         </item>
     </channel>
