@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 21:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 21:42:39 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 21:42:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Lala storm grows into hurricane as it nears Hawaii's Big Island​]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/290FDEB0A5BE8FCE15D7ECFA7302718FAAB50C59987DB86E493805394890C10E/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fda0182bf68ec49375fa5c4fbd13eacfd.jpg" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/lala-storm-grows-hurricane-nears-210913584.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/lala-storm-grows-hurricane-nears-210913584.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 21:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Qatar denies capturing three Iranian pilots after downing fighter jets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5859068F81B595426420F148F6A0112E697D4A18F1FD7F734ABB596B6617CCD0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5ee2400667561b140b46b5f626cf15e6.jpg" alt="" /></p>Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/qatar-denies-capturing-three-iranian-210402602.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/qatar-denies-capturing-three-iranian-210402602.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 21:42:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Water companies to charge more during droughts]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3DC3CFC9124D7027CE1CADAC8F489146D55ED6679AAEC28C02788D89D5F4E938/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F01818397d332e4417a300dc888f4cbdc.jpg" alt="" /></p>Water companies will be able to charge consumers higher prices during droughts under plans backed by the Government.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/water-companies-charge-more-during-200000223.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/water-companies-charge-more-during-200000223.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 21:42:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moroccan authorities block 111 migrants from entering Ceuta]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77FF21C4F07100581AE52CFED2A5E25D910BCAEBDE8B68CAD0E975307163C5BE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fb12be03b99e7c3abb9f19015caa7ce26.jpg" alt="" /></p>Dozens of migrants were detained in Morocco on Saturday as they attempted to cross into the Spanish territory of Ceuta, authorities said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/moroccan-authorities-block-111-migrants-210627274.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moroccan-authorities-block-111-migrants-210627274.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/80E16D41C6D73D78206E4D22247AEFC7119A9EF5D66DA54EE537060A58B50BB8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F545bacbbc4f27cfdbd9dbedd37c874d8.jpg" alt="" /></p>Iran says Qatar is holding three pilots who were shot down in March. Doha decries ‘misleading statements’.]]></description>
             <link>https://www.yahoo.com/news/world/articles/qatar-denies-detaining-three-iranian-205529066.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/qatar-denies-detaining-three-iranian-205529066.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/168B6F6673E308E6DA50580AAF5E9FF5EDFCDA24EE2EC4FE9494E6D0CB55D5BF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmandatory_995%2Fb84ec9b627c2289aa5542e1fc747388e.jpg" alt="" /></p>A hospital visit in China took an unexpected turn when one man got stuck in a hospital chair. In a frustrating turn, a well-meaning friend’s effort to free him ended up making things worse. The footage of the incident soon went viral online, prompting widespread reactions and cautionary advice from viewers. Viral video shows man […] The post Man Gets Stuck in China Hospital Chair, Friend’s Rescue Attempt Backfires appeared first on Mandatory.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-gets-stuck-china-hospital-200000815.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-gets-stuck-china-hospital-200000815.html</guid>
-            <dc:creator><![CDATA[Mandatory]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AA2D1BD7D2E1B34D2530F09841F05372DCABEF7F7AB49FC9C42435D60330DCAA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F93a3312ef0c2503909caad9c9491889f.jpg" alt="" /></p>Local regulations state that it is "is prohibited to unnecessarily disturb, lure or pursue polar bears."]]></description>
             <link>https://www.yahoo.com/news/world/articles/boater-fined-5k-using-foghorn-184619990.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/boater-fined-5k-using-foghorn-184619990.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD40118D2023999A278601E6DCDC2BDEFCAFDF2D21D86F6C1B2CB99D7AADC09B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F35cbd66237263516d13da9176c52af69.jpg" alt="" /></p>The United Arab Emirates accused Iran on Saturday of attacking another vessel belonging to its state oil company while it transited through the Strait of Hormuz on Friday, the third such incident in less than a week. The Abu Dhabi National Oil Company (ADNOC) vessel was struck Friday while traveling through the strait, Reuters reported,…]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-attacks-third-uae-tanker-182840104.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-attacks-third-uae-tanker-182840104.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 21:13:22 GMT</pubDate>
         </item>
         <item>
@@ -7006,27 +7025,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0466C543B207DAC9302072F58C7931CAEF792B02CB47FBC0CDCA8AE3467B8106/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fa_z_animals_articles_598%2F8b7ed82fd51ba176d61eedf0241b520a" alt="" /></p>Pablo Escobar smuggled four hippos into Colombia decades ago, and the country has been paying for it ever since. A rescued newborn found starving along a riverbank has reignited a fierce national debate over what to do with the 200 wild hippos no one can seem to control.]]></description>
             <link>https://www.yahoo.com/news/world/articles/4-200-cocaine-hippos-colombia-110200319.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-200-cocaine-hippos-colombia-110200319.html</guid>
-            <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vietnam to build its biggest warship yet to counter China]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/524A4870C358F5E760FF6DE0ABE41ADE3638DDB7F57E37487ED43B863A155E6D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F5b03e605fcf92844f4adc87b890ec7e2" alt="" /></p>Vietnam will build a new submarine-hunting warship as it steps up its ability to challenge China.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/vietnam-build-biggest-warship-yet-105006728.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vietnam-build-biggest-warship-yet-105006728.html</guid>
-            <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria sentences Bashar al-Assad to death in absentia for war crimes and crimes against humanity]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DEAFF91ABCCEBEF426674F176DC2EECCAB6F7C8C1F2D810E4076AFC2B5DA92AB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F1e17f775fab2b813e044f66eabc11743" alt="" /></p>A Syrian court handed death sentences to Bashar al-Assad and his brother Maher — both in absentia — alongside their cousin Atef Najib, who attended the trial in a cage and was found guilty of leading the 2011 Daraa crackdown that sparked the civil war.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syria-sentences-bashar-al-assad-104810932.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-sentences-bashar-al-assad-104810932.html</guid>
-            <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria sentences Assad to death]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E19F27E8293470D42A390F116C98C2B7781DF7CF737C3C41B5E87B71E4356379/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F1c4c8fe11de75aaf4ce598ded2d334d5" alt="" /></p>Bashar al-Assad, the former Syrian dictator, has been sentenced to death in absentia for crimes against humanity.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syria-sentences-assad-death-101039654.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-sentences-assad-death-101039654.html</guid>
             <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
         </item>
     </channel>
