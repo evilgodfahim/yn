@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 19:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 20:13:43 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moroccan police arrest over 100 migrants trying to reach Spanish enclave]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F8ACAAF11741E96E308B6C13B829C5DF2F164192F015ED87E4488A0F68FC9E0E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9577727dfc3dd30b7a36ec02d0f3432e.jpg" alt="" /></p>A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/moroccan-police-arrest-over-100-194620863.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moroccan-police-arrest-over-100-194620863.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel strikes Lebanon, killing 15; 3 Israelis injured]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C94A370DE99487F28E75E5DED9DC5011DD8141ADE3F22547C414668563178ECD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F4bc227386183da211ae8f60cbc712ac6.jpg" alt="" /></p>Two Israeli strikes hit Lebanon and killed 11 people early Saturday, the Lebanese health ministry said, then struck another site killing more.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-strikes-lebanon-killing-15-194426008.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-strikes-lebanon-killing-15-194426008.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liechtenstein changes succession rule to allow women to ascend the throne]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81D522486F9559B5603374FF7CB0429B6D2085603D93F2B1F16F32B358857BF2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F985fc59811aa0b2c80c5672e27cd56fd.jpg" alt="" /></p>The declaration was made on the national day of the central European country, which has a population of just 44,000.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/liechtenstein-changes-succession-rule-allow-194202865.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/liechtenstein-changes-succession-rule-allow-194202865.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Always believe you can do something great’: Jason Arday’s message to Black children goes viral days after his death]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8178A83B12ABFAD515BA16F990B5A2CACAC694CAE390F7644910021F9065459A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F49e1e7fad5220e13ed86da58c846516e.jpg" alt="" /></p>The former Cambridge professor, who was the youngest Black professor at the esteemed university, was found dead earlier this week]]></description>
+            <link>https://www.yahoo.com/news/world/articles/always-believe-something-great-jason-190406366.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/always-believe-something-great-jason-190406366.html</guid>
+            <dc:creator><![CDATA[TheGrio]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine strikes rocket and space centre in Russia's Samara]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3C79FF2D7E526A69F7C4BC8F4BB433A08027BF8E71DB59ED8027A52036BAB80/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F6e22aaf82441e285ea7ad102d355ffdb.jpg" alt="" /></p>Additional strikes were carried out on Savasleyka air base - which Ukraine said housed aircraft used for missile attacks - and an oil facility in Ust-Luga, per Zelenskyy.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-strikes-rocket-space-centre-185537190.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-strikes-rocket-space-centre-185537190.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 20:13:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Morocco detains dozens of migrants trying to cross into Ceuta]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00C4BD955DAD0D35FD8817BDB832AA0EB09B52033563305F58868BA2BD5C9171/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4dbfdeb7a4fff4885db6c041997e5e41.jpg" alt="" /></p>Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/morocco-detains-dozens-migrants-trying-191646803.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/morocco-detains-dozens-migrants-trying-191646803.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E77D803E464913DE494F768DEFF12CD9560A2B294062959D04B3CCDB4ECF166/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3c90e5e3a12d3b8517d1178e31788ea1.jpg" alt="" /></p>Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/death-toll-zimbabwe-ferry-disaster-191006191.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-zimbabwe-ferry-disaster-191006191.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5BE203D9FE97AFE9DFAE7F987E6C5CBB2E47888A2F4E0C18783C5FAB372F78E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa53b19cf20a68a1355675d6a8981db70.jpg" alt="" /></p>The public are expressing their support for the former Cambridge professor Jason Arday, with thousands of pounds raised for his family and a vigil called in his memory. The professor, who resigned after a plagiarism row, was pronounced dead after emergency services were called an address in Battersea, south London, on Friday to reports that a man had been found unresponsive inside a property.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thousands-raised-jason-arday-family-190335932.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-raised-jason-arday-family-190335932.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
         </item>
         <item>
@@ -6990,41 +7027,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81B7D7D2C8A59572C718114DF016415804DA510034896FD4C93991FEF93126B0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F22ca772787a9f5df55cf70af6bf65e36" alt="" /></p>A video that went viral of two police officers within the Peel Regional Police Department being asked to box by a suspect. Of course, the video doesn’t detail the full extent of what actually happened ... Read more]]></description>
             <link>https://www.yahoo.com/news/world/articles/canada-man-challenges-police-officers-103040780.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-man-challenges-police-officers-103040780.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Construction begins on $444m Sydney’s Fairfield Hospital redevelopment]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C850510FF66AFF5DE64D74EDFB20C0DAF8299EDE6BEEB699327F53B7715E6F21/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fworld_construction_network_914%2F043269d22f5b0cd4b67aeb5ed21ddcdd" alt="" /></p>The project comprises more than 450 new parking spaces and marks a broader redevelopment of the hospital’s facilities and services.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/construction-begins-444m-sydney-fairfield-103000015.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/construction-begins-444m-sydney-fairfield-103000015.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ebola death toll in DR Congo outbreak rises to more than 2,000]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E05F0F1A0D6D30FBA672793ABF3D3B5873E17934F77DB77AF74267975D8C0929/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F48326dfcb0cb8d1bc7ad90c517d4fb6b" alt="" /></p>An Ebola outbreak in the Democratic Republic of Congo (DRC) has killed 2,011 people out of 4,381 confirmed cases of the virus, Congolese officials said on Tuesday.The case fatality rate of the current outbreak is estimated by Congolese health authorities to be 45.9 percent.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ebola-death-toll-dr-congo-102840091.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-death-toll-dr-congo-102840091.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[East Libya military intelligence chief killed in car bomb]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A1082BA31D83121ACECC7E2BB8A0CC118C06068B8D1292E5101A3FB37A1B09E4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd21bab868baa134dc652f6f34aac071b" alt="" /></p>Prime minister of the Eastern Libyan government condemns killing of Major-General Fawzi al‑Mansouri.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/east-libya-military-intelligence-chief-102550939.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/east-libya-military-intelligence-chief-102550939.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man dies after medical emergency off coast]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/03F3D607F26E74D675454076BB52B267B0F8A47D1CA7296BE8739616DB5F6CCB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6a8ad253e792db119626a009d2639e28" alt="" /></p>Emergency services from two countries are scrambled to medical emergency off coast.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/man-dies-medical-emergency-off-102303149.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-dies-medical-emergency-off-102303149.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zelensky: 6 dead in Russian attack that also used N Korean missiles]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2FF5BB58A46120692EB9EFC6EB588CE33FFBF04C0638B82392B89ED0B529905/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F32c1078ff8a5ac202a7b1886f4914f90" alt="" /></p>At least six people have been killed and 19 injured in overnight Russian missile and bomb attacks - which also used North Korean ballistic missiles - on the south-eastern Ukrainian city of Zaporizhzhya, President Volodymyr Zelensky said on Tuesday. "It was a brutal attack, calculated to inflict maximum damage on civilian infrastructure," he wrote on Telegram.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zelensky-6-dead-russian-attack-101833970.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-6-dead-russian-attack-101833970.html</guid>
             <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
         </item>
     </channel>
