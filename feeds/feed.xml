@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 19:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 19:42:05 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 19:15:32 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Morocco detains dozens of migrants trying to cross into Ceuta]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00C4BD955DAD0D35FD8817BDB832AA0EB09B52033563305F58868BA2BD5C9171/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4dbfdeb7a4fff4885db6c041997e5e41.jpg" alt="" /></p>Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/morocco-detains-dozens-migrants-trying-191646803.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/morocco-detains-dozens-migrants-trying-191646803.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll from Zimbabwe ferry disaster rises to 69]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E77D803E464913DE494F768DEFF12CD9560A2B294062959D04B3CCDB4ECF166/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3c90e5e3a12d3b8517d1178e31788ea1.jpg" alt="" /></p>Police say 23 more bodies have been recovered from Lake Kariba after the overloaded vessel capsized on Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/death-toll-zimbabwe-ferry-disaster-191006191.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-zimbabwe-ferry-disaster-191006191.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thousands raised for Jason Arday’s family as public support pours in]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A5BE203D9FE97AFE9DFAE7F987E6C5CBB2E47888A2F4E0C18783C5FAB372F78E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa53b19cf20a68a1355675d6a8981db70.jpg" alt="" /></p>The public are expressing their support for the former Cambridge professor Jason Arday, with thousands of pounds raised for his family and a vigil called in his memory. The professor, who resigned after a plagiarism row, was pronounced dead after emergency services were called an address in Battersea, south London, on Friday to reports that a man had been found unresponsive inside a property.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thousands-raised-jason-arday-family-190335932.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-raised-jason-arday-family-190335932.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 19:42:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[5.2-Magnitude Earthquake Damages Buildings and Prompts Over 300 Emergency Calls in Spain]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/95ED1AF1110EF2EE2A4A054E9AF6CA257F3D1B3F67CB0508A75D3EEE66CBC2C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2c147f5ee3773538d059d81022f324e5.jpg" alt="" /></p>“We were here at home panicking a little, in our bodies, my arms were still shaking,” said a woman, who was in Granada during the quake]]></description>
             <link>https://www.yahoo.com/news/world/articles/5-2-magnitude-earthquake-damages-185411146.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/5-2-magnitude-earthquake-damages-185411146.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 19:15:32 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BDD2CB45361BFF46F20F4948F0AABD90C934FC9746A17FB02DDD6BF10CAA8CEE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F33e970ad5b081c1568449043043867d6.jpg" alt="" /></p>Spain and Morocco beefed up security at the border with the Spanish exclave of Ceuta following calls on social media for large numbers of migrants to attempt to enter the North African territory on Saturday, but the border remained largely calm throughout the day. A dpa reporter said there was absolute silence at the border crossing in Ceuta during the morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ceuta-border-remains-calm-despite-184835344.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ceuta-border-remains-calm-despite-184835344.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 19:15:32 GMT</pubDate>
         </item>
         <item>
@@ -7003,27 +7025,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2FF5BB58A46120692EB9EFC6EB588CE33FFBF04C0638B82392B89ED0B529905/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F32c1078ff8a5ac202a7b1886f4914f90" alt="" /></p>At least six people have been killed and 19 injured in overnight Russian missile and bomb attacks - which also used North Korean ballistic missiles - on the south-eastern Ukrainian city of Zaporizhzhya, President Volodymyr Zelensky said on Tuesday. "It was a brutal attack, calculated to inflict maximum damage on civilian infrastructure," he wrote on Telegram.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-6-dead-russian-attack-101833970.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-6-dead-russian-attack-101833970.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syrian court sentences Bashar al-Assad in absentia to death]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E3E642F9523F5E0A338937A62EAB90DC81CC1BEC7900D188A85F00DFE8C35118/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F105753e549dcee7c724106b8cbc8a119" alt="" /></p>A Syrian court on Tuesday sentenced ousted president Bashar al-Assad in absentia to death on charges of premeditated murder, torture, arbitrary detention and crimes against humanity. Al-Assad is currently in exile in Russia, which has so far not extradited him to Syria.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syrian-court-sentences-bashar-al-101832742.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syrian-court-sentences-bashar-al-101832742.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria sentences Bashar al-Assad to death in absentia over atrocities]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/05CC20EDCDD3F072E2F83FDCF6AD7B82F0975E7804F9ABAEA96174DD12F6D5A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F227489710b643c7e7d7d9b0cf113fa2f" alt="" /></p>A Syrian court on Tuesday sentenced former ruler Bashar al-Assad to death after a trial in absentia, convicting him of atrocities committed during the country's nearly 14-year civil war.Syria in April began proceedings against Assad and other officials accused in person and in absentia of atrocities during the country's civil war, which erupted with the former authorities' brutal repression of pro-democracy protesters.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syria-sentences-bashar-al-assad-100421183.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-sentences-bashar-al-assad-100421183.html</guid>
-            <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sudan exodus threatens humanitarian catastrophe in Chad]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/872664F06DC4DD70A09ADB34A3B9F18B108D7A8B6B18EDE7EFAE8C0238112E5D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fd980eef73666fb2e47069334bba73967" alt="" /></p>Trapped in a desert encampment in Chad, Abakar Adam, 70, dreams of returning to his small farm in neighbouring Sudan, nearby to the village where he was born.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sudan-exodus-threatens-humanitarian-catastrophe-095240982.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sudan-exodus-threatens-humanitarian-catastrophe-095240982.html</guid>
             <pubDate>Tue, 11 Aug 2026 11:12:17 GMT</pubDate>
         </item>
     </channel>
