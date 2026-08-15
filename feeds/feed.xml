@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 22:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 22:44:38 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 22:12:10 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 22:44:38 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[British leader calls for reflection after death of former Cambridge professor accused of plagiarism]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D5BA5D8DE935734635C6ABF42A69D5B3B64BD3BD936FDEF031F6D2134B9BBD80/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpolitico_453%2F91a00dda748c27e3124a282100465f8d.jpg" alt="" /></p>“It’s not a moment for any rushing to judgment," Andy Burnham said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/british-leader-calls-reflection-death-220500333.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-leader-calls-reflection-death-220500333.html</guid>
+            <dc:creator><![CDATA[Politico]]></dc:creator>
+            <pubDate>Sat, 15 Aug 2026 22:44:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rescuers search for survivors of powerful Indonesia earthquake]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA280B9B55757FA9B437DF90ADBF8512A6DF5AA1570E867015171E5A905949AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7b466bf7c9d4e1cc78c5f7f680132435.jpg" alt="" /></p>Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rescuers-search-survivors-powerful-indonesia-214918904.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-search-survivors-powerful-indonesia-214918904.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 22:12:10 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1275466EFEF1A2EEC909D9199004B00BCBF1D91A7D1E89F7C6920BA7A21D2A91/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F99bf23734d65ca76461b83613594adc8.jpg" alt="" /></p>Qatar has rejected Iran's claim that it is holding pilots from the country captive. In a statement posted on X, Foreign Ministry spokesman Majid al-Ansari also expressed surprise at what he called "misleading statements" at a time when diplomatic efforts were under way to de-escalate tensions in the region.]]></description>
             <link>https://www.yahoo.com/news/world/articles/qatar-rejects-reports-detained-iranian-214832358.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/qatar-rejects-reports-detained-iranian-214832358.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 22:12:10 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E2EF2BE55BF3311B47F7EF09AE22C35C57D83CC9DA7F689A8742FC768F91A183/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd776a3369735532d12de53d13b826f9a.jpg" alt="" /></p>New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.]]></description>
             <link>https://www.yahoo.com/news/world/articles/australian-state-launch-gun-buyback-214556066.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/australian-state-launch-gun-buyback-214556066.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 15 Aug 2026 22:12:10 GMT</pubDate>
         </item>
         <item>
@@ -7018,13 +7023,6 @@ The clash broke out on July 24 when a group of Israeli settlers approached the t
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2665E91D7EC22869FBA002473D10B86B74DDBB1F84944F22941EA3E356DA09B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F48158c0bbbf879dfa638340d51bc79ab" alt="" /></p>Tremaine Jeanne and Jessica Sani were remanded in custody and will appear in Cardiff Crown Court in September.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-court-over-teens-thailand-112647394.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-court-over-teens-thailand-112647394.html</guid>
-            <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthi missile strike on commercial ship in Bab el-Mandeb kills two Pakistanis, one Indonesian]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/10EE53EF555F5FC47400929563B7C58287A5DB0655E17CDDF478C8ED9061DDD8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F2a521fdf7a77818525dba5609271e1f9" alt="" /></p>Bab el-Mandeb is located between Yemen and the Arabian Peninsula, connecting the Red Sea to the Gulf of Aden and the Indian Ocean. Two Pakistanis and an Indonesian national were killed in a Houthi missile strike on a commercial ship in the Bab el-Mandeb Strait, the Saudi state-owned Al Hadath reported on Tuesday morning.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/houthi-missile-strike-commercial-ship-112323102.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthi-missile-strike-commercial-ship-112323102.html</guid>
             <pubDate>Tue, 11 Aug 2026 12:05:55 GMT</pubDate>
         </item>
     </channel>
