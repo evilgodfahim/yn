@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 04:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 05:25:15 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 05:25:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ukraine targets Russian capital in major drone attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B9D24EE7BE856E0D127764DC494E0D553B21341F3C46B1B300F6C3D9CDB9722/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F29a092a7c1341629b7a3aa342abd4652.jpg" alt="" /></p>Russia said on Sunday that Ukraine had launched a large-scale drone attack overnight, with more than 600 drones targeting Moscow. Moscow Mayor Sergei Sobyanin said 201 of the drones had been destroyed by air defences in the Moscow region, while most had been intercepted before reaching the region.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-targets-russian-capital-major-051823337.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-targets-russian-capital-major-051823337.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2006EE39D58088A298C02CE300BAAD57830B9D1EC054058B5CC51C6CB21CCE3D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F361e61e21015726b138d824c7a510a3e.jpg" alt="" /></p>Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/indonesia-magnitude-7-7-quake-051400578.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesia-magnitude-7-7-quake-051400578.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:25:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rescuers dig through rubble and landslides after Indonesia quake kills 47]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E24D7EC87587F2A2DBA2758EEFEC3F76EC891CA40268736A5B9F60AE776D6F6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F960b57e7dc393716633885790bcbe90e.jpg" alt="" /></p>Searchers dug through collapsed buildings and landslide debris Sunday in eastern Indonesia as they searched for bodies and possible survivors a day after a powerful earthquake killed at least 47 people, injured more than 100 and displaced thousands.  At least 24 people died in Manggarai regency and 17 in neighboring East Manggarai, with additional fatalities reported in Sikka, Ngada and Ende regencies, the National Disaster Management Agency said.  Rescuers were still searching for villagers feared buried beneath landslides triggered by the quake across six regencies on Flores, a predominantly Catholic island in Muslim-majority Indonesia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rescuers-dig-rubble-landslides-indonesia-024845169.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-dig-rubble-landslides-indonesia-024845169.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 05:25:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Athens is cleaning its all-marble Olympic stadium for the first time in more than a century]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D012369F2CC2B1D15CD2BB63145D3E39C2B97B1D56BB839FAAE61F5FA18DF32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa33120a85b13feddd0c7ef7c5b428bd3.jpg" alt="" /></p>It has welcomed marathon runners, rock stars and the first modern Olympic athletes.  Athens’ U-shaped Panathenaic Stadium — made entirely of white marble — is getting its first systematic cleaning in more than a century.]]></description>
             <link>https://www.yahoo.com/news/world/articles/athens-cleaning-marble-olympic-stadium-042337720.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/athens-cleaning-marble-olympic-stadium-042337720.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
         </item>
         <item>
@@ -22,7 +45,6 @@
 Monday's earthquake has so far killed at least 294 people and injured nearly 4,000, authorities say.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hope-fades-finding-surivivors-colombia-023514907.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hope-fades-finding-surivivors-colombia-023514907.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
         </item>
         <item>
@@ -7003,27 +7025,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01F4D933FC7BB85DA914633EA7EDCA04E34DFE06304254530B0BF01EE372C18A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fyale_environment_360_articles_559%2Fec9edb2868825ea033fe39fa81e11f35" alt="" /></p>As Brazil cracks down on the illegal clearing of forests, farmers and ranchers are moving into Bolivia, helping to fuel a wave of deforestation in a country where land is cheap and enforcement lax.]]></description>
             <link>https://www.yahoo.com/news/world/articles/deforestation-falls-brazil-surges-neighboring-123100542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deforestation-falls-brazil-surges-neighboring-123100542.html</guid>
-            <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin Humiliated as His Vacation Home Defenses Go Up in Flames Following Ukrainian Attack]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8055488EBF2730BDB447BC4801E9136804C7A4F0F7AFCCF73F9B6C1F5C231294/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2Fb7d0ea9787bd08744290fba0574f616d" alt="" /></p>Ukraine has dealt Vladimir Putin a chastening blow. The Russian president’s alleged private holiday residence in the southern Russian region of Gelendzhik on the Black Sea coast is thought to have cost north of $1 billion, is mired in controversy, and has become a symbol of the corrupt decades of Putin’s rule. The Residence at Cape Idokopas, an Italianate complex, known widely as “Putin’s Palace,” is surrounded by a square-mile no-fly zone and a broader 27-square-mile buffer zone.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-humiliated-vacation-home-defenses-123001953.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-humiliated-vacation-home-defenses-123001953.html</guid>
-            <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madagascar forced to divide and share mpox vaccine as epidemic takes off]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C3090A926720B6E58A25D8AF24F395BF238ED6831A162C5FE738F11C2A01369E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F0161bdeec6d61a61538338b7e287f674" alt="" /></p>Authorities in Madagascar are being forced to split single vaccines into fifths to try to protect as many people as possible during an ongoing mpox outbreak.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/madagascar-forced-divide-share-mpox-122918738.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/madagascar-forced-divide-share-mpox-122918738.html</guid>
-            <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death toll rises after 7.4 Colombia earthquake, rescuers search rubble]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD75946AC546246D2099C8BD30DC6456365645AF0FEEE2626B7642478F4DA86D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F4b249c02374de10b6fa85d5fe4d8c0e7" alt="" /></p>Search-and-rescue teams entered their second day of combing through the rubble after a powerful earthquake sent buildings tumbling into the streets.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/death-toll-rises-7-4-122846961.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-rises-7-4-122846961.html</guid>
             <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
         </item>
     </channel>
