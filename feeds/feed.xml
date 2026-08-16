@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 21:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 21:41:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 21:12:31 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 21:41:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Five teenagers dead in Irish motorway head-on collision]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94786E0832F51D6691ECF75F6B4342AAB466A79B596EA56FB5F893AFF0BA8770/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa5228cea60d86efb3355fda7f93c3311.jpg" alt="" /></p>Five teenagers have died, and four other people have been seriously injured in a crash involving a car driving in the wrong direction on a motorway in Ireland. Garda Commissioner Justin Kelly has described the head-on collision between two cars on the M9 as "horrific" and warned that "in some cases" vehicles are being driven on the wrong side of motorways for social media likes.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/five-teenagers-dead-irish-motorway-213328583.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-teenagers-dead-irish-motorway-213328583.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 21:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll rises to 84 from capsized ferry in Zimbabwe]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3C32B7A63A6B1120B8A7460745E245587CFFED57876F23FD998D6F270FBC9A1A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F6a843c4b29d4cc2ae11b1bf89c268d77.jpg" alt="" /></p>The boat overturned during heavy winds near the Zambian border.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/death-toll-rises-84-capsized-210353772.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-rises-84-capsized-210353772.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 21:41:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine Launches One of the War’s Largest Drone Attacks, Killing 6]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E9D4F5A96F3D5F1E1E50C19ACC54F4D8EB711DDE1689C2AE87896B214185B66/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Fd0d4566657119fc11b60c72aaea3297c.jpg" alt="" /></p>Hundreds of drones targeted Moscow and nearby areas, hitting warehouses linked to Russia’s largest online retailer, amid strikes by both sides.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-one-war-largest-190017355.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-one-war-largest-190017355.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 21:41:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prince Harry Redirects Princess Diana Fund Money From Sentebale to Elephant Charity]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1F0ABC992BFE198FECA241A8B4713989780F67D289222D06D09E9F21F2F3DE03/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2F4866201247e44dd9651d6edc82f60234.jpg" alt="" /></p>Prince Harry has redirected the charitable income associated with his share of the Diana, Princess of Wales Memorial Fund away from Sentebale, the organization he ... Read More]]></description>
             <link>https://www.yahoo.com/news/world/articles/prince-harry-redirects-princess-diana-210059447.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prince-harry-redirects-princess-diana-210059447.html</guid>
-            <dc:creator><![CDATA[Wealth of Geeks]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 21:12:31 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DB5F61115AE85581577DABB930B184F43B450CFC36269F96634E2CEB3B6E8729/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fff7cb8cb92e22663beed05b83bb0b41b.jpg" alt="" /></p>Russia has installed secret bases capable of firing high-powered drones deep into Nato territory.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-secret-drone-bases-threaten-200000879.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-secret-drone-bases-threaten-200000879.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 21:12:31 GMT</pubDate>
         </item>
         <item>
@@ -7004,27 +7026,6 @@ The UN agency called for the immediate restoration of their right to education a
             <link>https://www.yahoo.com/news/world/articles/syrian-court-sentences-assad-death-201828965.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syrian-court-sentences-assad-death-201828965.html</guid>
             <pubDate>Tue, 11 Aug 2026 23:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US appeals court voids Biden-era efficiency rule for stoves, ovens]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E7D4FF508BA475F41B3302597CC4058F2C2439B13B5AE8AE725C0A2837EF40E7/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc71ed4b9425b78304f281a69745eeb89.jpg" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/us-appeals-court-voids-biden-214306123.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/us-appeals-court-voids-biden-214306123.html</guid>
-            <pubDate>Tue, 11 Aug 2026 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Anguish of Colombian brother at rubble of building being searched for earthquake survivors]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>BBC Mundo has gone to the site of Torres del Limonar, a collapsed building in Cali where rescue workers fight to free survivors.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/anguish-colombian-brother-rubble-building-213650847.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/anguish-colombian-brother-rubble-building-213650847.html</guid>
-            <pubDate>Tue, 11 Aug 2026 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London Police Seized Supercars In Affluent Neighborhoods, Claiming Owners Showed "Antisocial Driving Behavior"]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01537916FDD642E9BDFC0A823479679E43936A21E561F39F497FFC308C81614A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2F165d96500d5ceeede11166e23d441bae.jpg" alt="" /></p>Some of London’s wealthiest neighborhoods became the scene of a major police crackdown over the weekend, with officers seizing 90 vehicles worth a combined £8 million, or roughly $10 million. The operation targeted uninsured, dangerous, ... Read more]]></description>
-            <link>https://www.yahoo.com/news/world/articles/london-police-seized-supercars-affluent-220031027.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-police-seized-supercars-affluent-220031027.html</guid>
-            <pubDate>Tue, 11 Aug 2026 22:33:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
