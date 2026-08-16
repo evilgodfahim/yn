@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 18:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 19:14:59 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 18:53:14 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 19:14:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moroccan security forces arrest nearly 300 migrants trying to reach Spain’s Ceuta]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7DB5B96BCDD303C8D94D189F91236848DA44448194E396BE9F92596BA0A6FEEE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff87ba6dc6e0df8cf69c04f59b48525f1.jpg" alt="" /></p>Hundreds of migrants trying to reach the Spanish exclave of Ceuta by land and sea were arrested by Moroccan security forces, Moroccan state television reported Sunday, as authorities tightened security along the border following calls for a new mass crossing.  Moroccan state broadcaster Medi 1 TV said 294 migrants from sub-Saharan Africa were arrested Saturday while attempting to enter Ceuta.  The attempted crossings followed a surge in social media posts calling on migrants to make their way to Ceuta, a Spanish city on Morocco’s northern coast.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/moroccan-security-forces-arrest-nearly-190559134.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moroccan-security-forces-arrest-nearly-190559134.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 19:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tower statues to be replaced 'for public safety']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6566FB5E8A0946B05C26F666E00AACD896BDF5A9548FB6AEB1483DF13BDEC06E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F569b7ce69c83108a54e86e0751247f13.jpg" alt="" /></p>The sculptures depicting four women stand on Oxford's Trinity College's west tower.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tower-statues-replaced-public-safety-184520174.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tower-statues-replaced-public-safety-184520174.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 19:14:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine launches large-scale drone attack on Russian military and energy infrastructure]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/49AF4533441608BFDA05BBDEABD41545D60DFD4D58FBEE770A78305266C5188D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F575e5c368eabbd1bfc5af417473b0eef.jpg" alt="" /></p>Long-range attacks have been stepped up as talks between the two countries remain stagnant.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-large-scale-drone-164055442.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-large-scale-drone-164055442.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 19:14:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thieves bypass security to steal four Renaissance artworks from Sicily museum]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6736F7A330D91597D8B393261B159A7D64F91F305FC789E747CBA2F70E186CB2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fb9d9099c39198812f7ef79a06d905b73.jpg" alt="" /></p>The thieves stole three of the five surviving panels of the San Gregorio Polyptych, dated to 1473, as well as the double-sided panel depicting the Virgin Mary and the dead Christ in Pietà.View on euronews]]></description>
             <link>https://www.yahoo.com/news/world/articles/thieves-bypass-security-steal-four-180926422.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thieves-bypass-security-steal-four-180926422.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 18:53:14 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/92A21B57A0C33085AD72F0FEAD28FACFD04344F7C5964D255E46E267ACCB1570/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F2a4d568f27fc8494fb17cb409ecd4ac4.jpg" alt="" /></p>Russia is racing to build a Starlink rival, and Ukraine is already weighing how to counter its growing satellite network]]></description>
             <link>https://www.yahoo.com/news/world/articles/russias-satellite-network-could-transform-160500302.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russias-satellite-network-could-transform-160500302.html</guid>
-            <dc:creator><![CDATA[TechRadar]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 18:53:14 GMT</pubDate>
         </item>
         <item>
@@ -7004,27 +7026,6 @@ The UN agency called for the immediate restoration of their right to education a
             <link>https://www.yahoo.com/news/world/articles/harsh-reality-cold-case-confession-210305668.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/harsh-reality-cold-case-confession-210305668.html</guid>
             <pubDate>Tue, 11 Aug 2026 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Meta Smart Glasses Banned In England, Wales Courtrooms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6D90905C60F60D9F2B0A619667F2E527B36234D9247AC3BE64BAD397C3767579/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmediapost_446%2Fa1e634f3b0f983c5a0d2916f247c053b.jpg" alt="" /></p>Courtrooms in England and Wales are following New York's recent lead to ban Meta's AI-powered smart glasses amid widespread concerns around privacy and the product's undetected recording abilities.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/meta-smart-glasses-banned-england-194333821.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/meta-smart-glasses-banned-england-194333821.html</guid>
-            <pubDate>Tue, 11 Aug 2026 22:33:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Judge blocks US Postal Service from restricting mail-in voting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/70F3A43C35AB935B3946276EDD084BA2F144285F03F6D2FC07D7DB55E8C9D8C9/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fcf6b72a6ea972c466c8fb827f26be6ac.jpg" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/judge-blocks-us-postal-restricting-211243704.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/judge-blocks-us-postal-restricting-211243704.html</guid>
-            <pubDate>Tue, 11 Aug 2026 21:37:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanese Army is not doing enough to disarm Hezbollah in pilot area, sources tell 'Post']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/885F2B26CA4BBEFD249961CE7033D05F72B1A1A6858F8A140AE932C5384412F4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F51f098ceb8106cd58ba23cf96a15bc15.jpg" alt="" /></p>One of the officials told the Post that the Lebanese Army has entered the area and even uncovered weapons and ammunition caches, but said that “it is still not enough. ” Israeli officials say that even though roughly three weeks have passed since the pilot program to disarm Hezbollah began, the Lebanese Army is “not doing enough” on the ground, according to two Israeli officials who spoke to The Jerusalem Post.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lebanese-army-not-doing-enough-211807962.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanese-army-not-doing-enough-211807962.html</guid>
-            <pubDate>Tue, 11 Aug 2026 21:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
