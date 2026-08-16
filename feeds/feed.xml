@@ -4,16 +4,32 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 04:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 04:57:57 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 04:05:52 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Athens is cleaning its all-marble Olympic stadium for the first time in more than a century]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9D012369F2CC2B1D15CD2BB63145D3E39C2B97B1D56BB839FAAE61F5FA18DF32/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa33120a85b13feddd0c7ef7c5b428bd3.jpg" alt="" /></p>It has welcomed marathon runners, rock stars and the first modern Olympic athletes.  Athens’ U-shaped Panathenaic Stadium — made entirely of white marble — is getting its first systematic cleaning in more than a century.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/athens-cleaning-marble-olympic-stadium-042337720.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/athens-cleaning-marble-olympic-stadium-042337720.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hope fades for finding survivors of Colombia quake as rescued woman dies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/718684037115CBC439A40463D0A528ECD52101091C545FCD9A72487387B706D1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1c590d91e80a2fc934a76d091a9cba94.jpg" alt="" /></p>A Colombian woman who was rescued after being trapped for nearly 37 hours under the rubble in the wake of a strong earthquake has died of her injuries, her family told AFP on Saturday. "I just want this all to be over quickly," Largo's mother Sandra Milena Perez told AFP.
+Monday's earthquake has so far killed at least 294 people and injured nearly 4,000, authorities say.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hope-fades-finding-surivivors-colombia-023514907.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hope-fades-finding-surivivors-colombia-023514907.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 04:57:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thousands evacuate after Indonesia quake kills 51, cuts roads]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D33EE6E1DBE55C1386632E0B6AB9374964C3E96D7EBEBDACB3C59B9274D692D0/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0160fd151dff099f439cca20ca36f1cc.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/thousands-evacuate-indonesia-quake-kills-033237155.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/thousands-evacuate-indonesia-quake-kills-033237155.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 04:05:52 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +37,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3A3F880D56D0D2DDEB8C55B9F01C4B3FB733DF962DA7BE8B7665EB95D538F7F8/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F22c9c2669d64c5526ebf4fe7a71c96b5.jpg" alt="" /></p>At least 11 people have been killed by Israeli strikes in Lebanon in the deadliest attack since a ceasefire with Hezbollah was agreed in June.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-kills-11-deadliest-strikes-023705107.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-kills-11-deadliest-strikes-023705107.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 04:05:52 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1676422C6B2B058ED59DBB4CC80D32CFAF33C8DF0C43ED090A8581D036211679/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4f52e82d271bf3eee4fd57f873cf636b.jpg" alt="" /></p>Yemen's years-long civil conflict killed tens of thousands of people, uprooted millions and drove the country to the brink of famine before a 2022 truce restored relative calm.Yemen, which has been embroiled in more than a decade of civil conflict, last month became the latest country to be dragged into the Middle East war as the Houthis upended the 2022 truce with the Saudi-backed government, ramping up attacks on areas it holds.]]></description>
             <link>https://www.yahoo.com/news/world/articles/everyone-lives-fear-yemenis-worry-011925638.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/everyone-lives-fear-yemenis-worry-011925638.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 04:05:52 GMT</pubDate>
         </item>
         <item>
@@ -7010,20 +7024,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/AD75946AC546246D2099C8BD30DC6456365645AF0FEEE2626B7642478F4DA86D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2F4b249c02374de10b6fa85d5fe4d8c0e7" alt="" /></p>Search-and-rescue teams entered their second day of combing through the rubble after a powerful earthquake sent buildings tumbling into the streets.]]></description>
             <link>https://www.yahoo.com/news/world/articles/death-toll-rises-7-4-122846961.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-rises-7-4-122846961.html</guid>
-            <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orphaned seal pup being cared for by charity]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F530FD24CC4EDDFB80308E595BB31A6741B13B84362F4A5F93F636667DFC3F2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F486e6de92f78beb20a63e1203ee5d975" alt="" /></p>An underweight common seal pup which is rare in Guernsey is being cared for at an animal charity.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/orphaned-seal-pup-being-cared-122614181.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/orphaned-seal-pup-being-cared-122614181.html</guid>
-            <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Afghan former Army translator raped teenage girl]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4E78C3F7E3D3674AC56CD0A630D02670F37F568FC021B1C185562613125931E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F2f7bfcdaa48031ed50a39cc39b4b1baf" alt="" /></p>A former translator for the British Army in Afghanistan has been sentenced to seven years in prison after raping a teenager.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/afghan-former-army-translator-raped-122110765.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/afghan-former-army-translator-raped-122110765.html</guid>
             <pubDate>Tue, 11 Aug 2026 13:50:39 GMT</pubDate>
         </item>
     </channel>
