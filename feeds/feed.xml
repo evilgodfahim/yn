@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 09:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 10:15:23 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Soldiers praised for helping crews tackle wildfires]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F19E6C689557E9A7D7143485E3D55761F9CDFF9B7971FDC387779D7B6F7B7D51/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4ad5d3bef73405663690891a5523352b.jpg" alt="" /></p>About 200 members of the Queen's Own Gurkha Logistic Regiment have been involved in the operation.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/soldiers-praised-helping-crews-tackle-100353459.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/soldiers-praised-helping-crews-tackle-100353459.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia’s War Toll Mounts In Ukraine Amid A Possible Mobilization]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3AE117E1F676E66C3E41A6814EE908E55FBE755445F1EA190A09C43F76D84D0D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2Fcafc928f22d334d1597ecf5b10ad6c0c.jpg" alt="" /></p>Russia faces mounting casualties and economic strain from its full-scale invasion of Ukraine. Despite this, some observers warn of another possible Russian mobilization.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-war-toll-mounts-ukraine-100000722.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-war-toll-mounts-ukraine-100000722.html</guid>
+            <dc:creator><![CDATA[Forbes]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine launches 600 drones toward Moscow in major barrage, mayor says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6360B2E777127E06D28A733BA2C003F29E828416B8C15D8F3ED237C9C5B49866/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2Fcb124b9522fc443073dcf39b1a24e084.jpg" alt="" /></p>Air defenses downed 201 drones over the Moscow region, the city's mayor said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-600-drones-toward-093818881.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-600-drones-toward-093818881.html</guid>
+            <dc:creator><![CDATA[Good Morning America]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia launches wave of strikes on Ukraine as Kyiv hits Wildberries warehouse near Moscow]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EE1F02DD5F55128DC7F2FA0E34A6739C278B18857E9184E43B310F4CEA0A415A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1096343d95524d1d3252c5b6274fdb20.jpg" alt="" /></p>Five people have been reported killed in Ukraine, while Moscow's governor says the Russian capital was subject to "one of the most massive drone attacks of recent times".]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-launches-wave-strikes-ukraine-083803793.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-launches-wave-strikes-ukraine-083803793.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters battle a massive Belgian wildfire, forcing hundreds to evacuate]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1A61041A73D4CA0FB9133AF7E22F48043B3A98593E549BAEC015C417B05E7759/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1df365aa3f0694110d0f9d52539d1980.jpg" alt="" /></p>Firefighters battled a massive wildfire in eastern Belgium on Sunday that has burned more than 27 square kilometers (10 square miles) in the High Fens, a large nature reserve, in one of the country’s worst wildfires in recent history.  Authorities said no homes had been affected as of Sunday morning, though the fire remained close to residential areas and heavy smoke persisted.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/firefighters-battle-massive-belgian-wildfire-084809148.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighters-battle-massive-belgian-wildfire-084809148.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D2DB56A994D82B08B7D42DA4F108225C2F28FB71BBF8C507472A8E5B7A825196/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fcae750102753c9ec7a7f429e06d6d098.jpg" alt="" /></p>Ukraine launched hundreds of drones across Russia Sunday, killing at least six people in one of Kyiv’s largest aerial attacks of the war.  Russia’s Ministry of Defense said that it had destroyed 822 Ukrainian drones overnight.  An 83-year-old man was killed after a Ukrainian drone hit a private home in the Moscow region, local Gov. Andrey Vorobyov said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-one-largest-aerial-074233307.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-one-largest-aerial-074233307.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 10:15:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Morocco prevents hundreds of migrants from crossing into Ceuta]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B27D3D98260139A8291F4C4F83AA13144FC26B1ED36B7D005FBA3950667AA5A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fd9f7d5fd468a54eec36866fdf13aca06.jpg" alt="" /></p>Moroccan security forces on Saturday broke up hundreds of migrants who had been hiding near Castillejos in a bid to reach Ceuta. The operation comes weeks after the mass crossing attempt that left 141 people dead.]]></description>
             <link>https://www.yahoo.com/news/world/articles/morocco-prevents-hundreds-migrants-crossing-093705895.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/morocco-prevents-hundreds-migrants-crossing-093705895.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FDEA61AB0B215FC33458E4660FE609FDE43977B80A81A815358EBA70BBD40FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1512429e3953081a4b0f150ffcd61ca6.jpg" alt="" /></p>At least three people were killed and more than 20 injured in the latest Russian airstrikes in Ukraine, President Volodymyr Zelensky said on Sunday. Two people were killed and 14 injured in a ballistic missile attack on Zelensky's home city of Kryvyi Rih, the president wrote on Telegram.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-says-three-killed-20-093325302.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-says-three-killed-20-093325302.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA5C8BC882FBE6FC1B462D9B4E0169661D5F758B5E4795A77EF9B010A3CDAB4D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F70bd7fc336e9b4d9e0419c7c06043149.jpg" alt="" /></p>Thieves have stolen several significant works by Renaissance painter Antonello da Messina from a museum in the Sicilian city of Messina, the city administration said on Sunday. Unknown perpetrators broke into the exhibition rooms of the Regional Museum of Messina overnight and made off with several works, authorities said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/antonello-da-messina-masterpieces-stolen-091830581.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/antonello-da-messina-masterpieces-stolen-091830581.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
         </item>
         <item>
@@ -6984,48 +7029,6 @@ The UN agency called for the immediate restoration of their right to education a
             <link>https://www.yahoo.com/news/world/articles/colombia-searches-over-3-000-141707306.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-searches-over-3-000-141707306.html</guid>
             <pubDate>Tue, 11 Aug 2026 15:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[King Felipe and Queen Letizia Share a Message of Support Following the Deadly Colombia Earthquake]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C8B71BB441647B3784243A73506CF92C0F613C2E274DEBFB1E5BCB1BAC55370A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftown_country_721%2F1b33fd9ef4a7cec93554cd78134225cb" alt="" /></p>The Spanish king was in Cali, Colombia just last week.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/king-felipe-queen-letizia-share-135808968.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-felipe-queen-letizia-share-135808968.html</guid>
-            <pubDate>Tue, 11 Aug 2026 15:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wildberries attacks: why is Ukraine targeting ‘Russia’s Amazon’?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BA99913AF5523333BB30A87A8C46279AC3CC8A2BE651B63C631DA6DAD94FCD53/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2F14c3ef8971cad8c81dfeda7c6bb4fa99" alt="" /></p>Pressure on Russian e-commerce giant presents Kyiv with growing leverage beyond the front line]]></description>
-            <link>https://www.yahoo.com/news/world/articles/wildberries-attacks-why-ukraine-targeting-132106598.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildberries-attacks-why-ukraine-targeting-132106598.html</guid>
-            <pubDate>Tue, 11 Aug 2026 15:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hungary parliament elects former supreme court head Andras Baka as president]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8B7307B7A136A10419E2A96C52748025083573B7A6F99F253C45F22845F68F8F/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8cba1ae8350c08a0a4ecf9d94ef90d37" alt="" /></p>Source: Reuters]]></description>
-            <link>https://www.yahoo.com/news/articles/hungary-parliament-elects-former-supreme-131729959.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/articles/hungary-parliament-elects-former-supreme-131729959.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spectacular photos: Wehrmacht motorbike from Danube almost 'like new']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4C2AB6E368B6E63A6C116960BABD47668BB68E7D7427A21458B8434CA9AC3708/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fe7cc4ab97321f6126386f3dc6bcd3062" alt="" /></p>The discovery of a motorbike wreck and the remains of two German soldiers is drawing global attention. Low Danube levels in Budapest exposed a WWII bike, now cleaned and remarkably well preserved.View on euronews]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spectacular-photos-wehrmacht-motorbike-danube-133911518.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spectacular-photos-wehrmacht-motorbike-danube-133911518.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Four crew members killed in Houthi attack on Yemeni commercial vessel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/82ED74357B136334A6BEF01799DBC77EE1C91B4DCA5CA1712758EBF12C6888B1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbddf7d6843fe5d8802515ce889ccc681" alt="" /></p>Four crew members have been killed in a Houthi attack on a Yemeni commercial vessel that was hit by three ballistic missiles while sailing through the Bab al-Mandab Strait, the Yemeni Transport Ministry said on Tuesday. The Tahama, which was carrying food supplies, came under attack on Tuesday morning, causing a fire to break out on board and damaging the ship, the ministry said in a statement.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/four-crew-members-killed-houthi-143328872.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-crew-members-killed-houthi-143328872.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France bans unsolicited telemarketing calls]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FC512DA064BE0A3413EC3FC39876D141234B48DDAFB1DB9DA05D26C4F650272/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F69d74c0a48a3200b52f99f7b1ca7f2e1" alt="" /></p>Cold calling is coming to an end in France, with one consumer group calling the ban a "small revolution".]]></description>
-            <link>https://www.yahoo.com/news/world/articles/france-bans-unsolicited-telemarketing-calls-141949681.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-unsolicited-telemarketing-calls-141949681.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
