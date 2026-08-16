@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 23:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 23:41:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 23:12:16 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 23:41:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Ghana was the crime scene' - the country leading the demand for slavery reparations]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/811308C59301F95916C6AD14BB41CADDC3C5AC2AFD7311D1FB345D4851842792/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0143b1d5ccdf08c76a110b37821f3f5e.jpg" alt="" /></p>Ghana has become Africa's leading voice in telling the world that Western nations owe reparations]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ghana-crime-scene-country-leading-230945833.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ghana-crime-scene-country-leading-230945833.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 23:41:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EU packaging rules take effect, putting new caps on 'forever chemicals' in food-contact items]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5A59A9C9C7A4F508A14181C5EE40207AD7E14FBBD0938161DDCA406201AD8ABE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F9f12a2c90b801bfad261ad207e5398a0.jpg" alt="" /></p>People in Europe discard about 1.1 pounds of packaging per day.]]></description>
             <link>https://www.yahoo.com/news/world/articles/eu-packaging-rules-effect-putting-224800381.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-packaging-rules-effect-putting-224800381.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 23:12:16 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/757C9E81EDA44B2B4DDC1A8A66F51D317EBF6A4EFD53C0E1232623F8A84D8924/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F6a7c6df808ad3abdc88b07b7c381c349.jpg" alt="" /></p>“We found them exhausted after swallowing a lot of seawater,” a government official said after the trio was rescued]]></description>
             <link>https://www.yahoo.com/news/world/articles/dad-sons-ages-5-7-223039191.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dad-sons-ages-5-7-223039191.html</guid>
-            <dc:creator><![CDATA[People]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 23:12:16 GMT</pubDate>
         </item>
         <item>
@@ -7017,13 +7023,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7828180F1720A6C1590D9D68123F38C2500317522601BC1D3FAE3417953782DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff43bbf131296e756711a295b6841f71e.png" alt="" /></p>UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.]]></description>
             <link>https://www.yahoo.com/news/world/articles/taliban-wipes-decades-progress-2-230148475.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taliban-wipes-decades-progress-2-230148475.html</guid>
-            <pubDate>Wed, 12 Aug 2026 01:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Car bomb kills Haftar intel chief in eastern Libya]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F51E1C23CE71EFC27F58C6FD22CBE671797F0121AA50BC59A417DDA184721AD4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F5991defb619d866a0d0e02c3eb6e0c79.jpg" alt="" /></p>The head of military intelligence for the Libyan National Army (LNA), which controls the east and parts of southern Libya, has been killed in a car bombing, the army said in a statement Tuesday.But "a bomb that kills the head of military intelligence as he leaves a mosque undermines these premises," he said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/car-bomb-kills-haftar-intel-212209702.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/car-bomb-kills-haftar-intel-212209702.html</guid>
             <pubDate>Wed, 12 Aug 2026 01:13:58 GMT</pubDate>
         </item>
     </channel>
