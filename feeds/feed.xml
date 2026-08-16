@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 15:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 16:15:03 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 15:43:23 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 16:15:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Four Antonello da Messina works stolen in Renaissance painter's hometown]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FDE4AEA4A36E0ECAB9F6B118B5BDA1F5A2D1337E3BABB042E29120704E42B5A7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ff2d0ab7d3773f9b4ab935c46c97311a4.jpg" alt="" /></p>By Valentina Za and Danilo Arnone MILAN, Aug 16 (Reuters) - Thieves stole four artworks by 15th century painter Antonello da Messina from a museum in his Sicilian hometown, a loss to the island's]]></description>
+            <link>https://www.yahoo.com/news/world/articles/four-antonello-da-messina-works-103825295.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/four-antonello-da-messina-works-103825295.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 Polish pilgrims killed in Hungary bus crash]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/550EDAF35397681F7F2F9BA89FA3D2E83AC5DDE5394BC1DAE372EE765CEA431E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4d6d48e22c46dbb65b32e44788e1eee9.jpg" alt="" /></p>A bus carrying Polish pilgrims veered off a motorway into a ditch and overturned in Hungary, killing 12 people and critically injuring 10 others.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/12-polish-pilgrims-killed-hungary-144122674.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/12-polish-pilgrims-killed-hungary-144122674.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00777BB6C4AC112C3B37E6FA5E715DC1BE60EB69444EE5446A184303C0D14898/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F2893f8856c592cf9bb394f22da58222f.jpg" alt="" /></p>Iran-backed Houthis exploit Yemen's fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz choke point.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/bab-el-mandeb-strait-faces-135338269.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bab-el-mandeb-strait-faces-135338269.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 16:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Two die as wildfires sweep Greek island of Salamina]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/660B3BA947D65F7FFA3E3E5CD9D813FD330C02B5DA9E5F542E7B676F3FDF4C71/subgraphmysterio/smartcrop_w1000_h562_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fa1923e42ea66bcd5b529e25fffbe323a.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/two-die-wildfires-sweep-greek-151852751.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/two-die-wildfires-sweep-greek-151852751.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 15:43:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D5BD9DA293114C83F911182AB9F1A92A2C45A9E9B35594886FC3E50B12CE622/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F03d5e70954ffbf016a154563be55a15f.jpg" alt="" /></p>A Vietnam Airlines plane made a return to Munich Airport after experiencing problems during take-off, with damage subsequently found to its tyres and landing gear, an airport spokesman said. Investigations into the incident, which occurred on Saturday afternoon, are under way.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germany-probes-incident-involving-vietnam-151822389.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-probes-incident-involving-vietnam-151822389.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 15:43:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B30B3428CEB2A7442B9BC4088ADA817979E76476588F0BFD391FF752FCFFD849/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ftoms_hardware_319%2Ff131d328c8c2da01e2d5c35a66a1441d.jpg" alt="" /></p>The drone that destroyed a Tupolev Tu-95MS strategic bomber at Russia's Engels-2 air base last month turns out to be the MICH 2000.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-built-48-000-long-132000127.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-built-48-000-long-132000127.html</guid>
-            <dc:creator><![CDATA[Tom's Hardware]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 15:43:23 GMT</pubDate>
         </item>
         <item>
@@ -7004,27 +7025,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CE397586ADA821E7CBDC2ED26A841965CD4396E844B669745A706833E59F60D0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc380ac053f6113eaa13f053eac47ce77.jpg" alt="" /></p>Two staff members of the United Nations mission in Afghanistan have been arrested by the country's intelligence agency, the world body told AFP on Tuesday, adding that it had no access to them for two days."We confirm that two Afghan UNAMA male staff members were detained by officials of the de facto General Directorate of Intelligence on Sunday, 9 August," in the western province of Herat, the mission said in a statement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/un-says-2-staff-arrested-192545302.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-says-2-staff-arrested-192545302.html</guid>
-            <pubDate>Tue, 11 Aug 2026 19:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel, Venezuela open up consular relations for first time in 17 years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E487A1B26E7ED77BB8CEBE25FE5B27F59D1B8FB56321AF616ABDE3AAE187579B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F5ae234dca5ba77be63567ff29d888a95.jpg" alt="" /></p>The move creates an official channel of coordination between Israel and Venezuela, which have not maintained diplomatic relations since 2009. Israel and Venezuela agreed to renew consular relations and establish an official coordination channel after 17 years without diplomatic ties, the countries said in a joint announcement on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-venezuela-open-consular-relations-191741736.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-venezuela-open-consular-relations-191741736.html</guid>
-            <pubDate>Tue, 11 Aug 2026 19:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rescuers scramble for survivors with 180 dead in Colombia earthquake]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1D5716866DF390FFD5E2D3A95CAEE58EB84F70A081BA814E1264DE320F5ED55E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F34918d97324b0d52fdfe6578ca080fcc.jpg" alt="" /></p>Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rescuers-scramble-survivors-180-dead-191242017.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rescuers-scramble-survivors-180-dead-191242017.html</guid>
-            <pubDate>Tue, 11 Aug 2026 19:56:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UNESCO says 2.4 million Afghan girls denied access to further education]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46FF30E04CBD3C8705CFA63390DE7C69EA2DE522112D87C1A04DD36D8E4DD499/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa6c81fdd8e7a929824dbca1f12a04148.jpg" alt="" /></p>UNESCO says the figure could reach four million by 2030 unless Taliban reverses policy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/unesco-says-2-4-million-185942049.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/unesco-says-2-4-million-185942049.html</guid>
             <pubDate>Tue, 11 Aug 2026 19:56:10 GMT</pubDate>
         </item>
     </channel>
