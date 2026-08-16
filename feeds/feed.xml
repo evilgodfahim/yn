@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 09:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2026 09:49:22 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 09:19:02 GMT</pubDate>
+        <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Morocco prevents hundreds of migrants from crossing into Ceuta]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B27D3D98260139A8291F4C4F83AA13144FC26B1ED36B7D005FBA3950667AA5A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fd9f7d5fd468a54eec36866fdf13aca06.jpg" alt="" /></p>Moroccan security forces on Saturday broke up hundreds of migrants who had been hiding near Castillejos in a bid to reach Ceuta. The operation comes weeks after the mass crossing attempt that left 141 people dead.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/morocco-prevents-hundreds-migrants-crossing-093705895.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/morocco-prevents-hundreds-migrants-crossing-093705895.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelensky says three killed, 20 injured in Russian strikes on Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FDEA61AB0B215FC33458E4660FE609FDE43977B80A81A815358EBA70BBD40FF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F1512429e3953081a4b0f150ffcd61ca6.jpg" alt="" /></p>At least three people were killed and more than 20 injured in the latest Russian airstrikes in Ukraine, President Volodymyr Zelensky said on Sunday. Two people were killed and 14 injured in a ballistic missile attack on Zelensky's home city of Kryvyi Rih, the president wrote on Telegram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelensky-says-three-killed-20-093325302.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-says-three-killed-20-093325302.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antonello da Messina masterpieces stolen from Sicilian museum]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CA5C8BC882FBE6FC1B462D9B4E0169661D5F758B5E4795A77EF9B010A3CDAB4D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F70bd7fc336e9b4d9e0419c7c06043149.jpg" alt="" /></p>Thieves have stolen several significant works by Renaissance painter Antonello da Messina from a museum in the Sicilian city of Messina, the city administration said on Sunday. Unknown perpetrators broke into the exhibition rooms of the Regional Museum of Messina overnight and made off with several works, authorities said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/antonello-da-messina-masterpieces-stolen-091830581.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/antonello-da-messina-masterpieces-stolen-091830581.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 16 Aug 2026 09:49:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twelve killed, 47 injured as Polish coach veers off Hungarian motorway]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC9506B759CB4C838C21E10561DF03CFC12B5788B7DDF6E2F5FEB4852C772493/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fd6c14af8c12227e28071194cb59e569a.jpg" alt="" /></p>At least 12 people have died in an accident involving a Polish coach in eastern Hungary, police announced on Sunday. Emergency services said 10 others were seriously injured and a 37 people sustained minor injuries.]]></description>
             <link>https://www.yahoo.com/news/world/articles/twelve-killed-47-injured-polish-084822047.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/twelve-killed-47-injured-polish-084822047.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:19:02 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/597E1B442483F098AFB7CD29C952A460EB83C0692B18AEEADD0DAAD1114635C0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Ffce2c017cfddbca09dae6373833b6342.jpg" alt="" /></p>JAKARTA, Aug 16 (Reuters) - A magnitude-7.7 earthquake that struck eastern Indonesia on Saturday has killed at least 51 people, with rescue operations ongoing.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indonesias-deadliest-earthquakes-past-decade-071829193.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesias-deadliest-earthquakes-past-decade-071829193.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:19:02 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F6953AD371EAFC910F47E890EDDF61049A3BD760B1AFC179E7EB0DC87C8674AF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F43e4c96e275618ddf53848a63b1ddb06.jpg" alt="" /></p>It is the latest in a series of similar incidents involving drone incursions into NATO airspace from Ukraine]]></description>
             <link>https://www.yahoo.com/news/world/articles/nato-fighter-jet-shoots-down-062343665.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nato-fighter-jet-shoots-down-062343665.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 09:19:02 GMT</pubDate>
         </item>
         <item>
@@ -7004,27 +7025,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8FC512DA064BE0A3413EC3FC39876D141234B48DDAFB1DB9DA05D26C4F650272/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F69d74c0a48a3200b52f99f7b1ca7f2e1" alt="" /></p>Cold calling is coming to an end in France, with one consumer group calling the ban a "small revolution".]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-bans-unsolicited-telemarketing-calls-141949681.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-bans-unsolicited-telemarketing-calls-141949681.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thailand suspends new gun permits after mass shooting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6D3494DEF7845D16BFC2410D472E1D0B4B7890E81CFA6CD64C0CFA86E678391E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe4a4dc77dac6c845e22b9277a38391eb" alt="" /></p>Authorities promise tough new laws in the country, which has high levels of firearms ownership.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/thailand-suspends-gun-permits-mass-141721188.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thailand-suspends-gun-permits-mass-141721188.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shakira, Sofía Vergara, Camilo, and Maluma leads celebrity support after deadly Colombia earthquake]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0BDA4EC4B6A27FEB6AEECB1A1B37E435AC3590E58B4922C957523B7663D9DA5F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F72ea234dd726ddc2333d942e68042a31" alt="" /></p>Shakira, Sofía Vergara, Maluma, J Balvin and more stars send support to Colombia after a deadly 7.4 earthquake devastated western regions]]></description>
-            <link>https://www.yahoo.com/news/world/articles/shakira-sof-vergara-camilo-maluma-141626001.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shakira-sof-vergara-camilo-maluma-141626001.html</guid>
-            <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two settlers disconnect electricity, destroy property of Palestinian family in West Bank]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6976627A1D50A00B274DB67F50445B16755F3B419553A6120EF8FA1B9A12256F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fb079b5f52652c6b3eecf885444b9246f" alt="" /></p>This comes after an order barring Israeli protective presence activists, who work to protect Palestinian residents within the West Bank, from around the town of Taiba, near Ramallah. Two settlers damaged a Palestinian family's property, disconnected their electricity system, and emptied their water tank after trespassing on their residential compound on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-settlers-disconnect-electricity-destroy-141156739.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-settlers-disconnect-electricity-destroy-141156739.html</guid>
             <pubDate>Tue, 11 Aug 2026 14:51:09 GMT</pubDate>
         </item>
     </channel>
