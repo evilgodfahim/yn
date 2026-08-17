@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 05:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 06:53:00 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 05:58:05 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Powerful aftershock hits Indonesian communities still waiting for aid as earthquake death toll rises to 54]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FD664D00FB06BC5337624AF57CBACC1768DDC5438143B00EB803D19513B8AFFA/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F38d6a21ae4525c6bb7d27553744af047.jpg" alt="" /></p>At least 995 aftershocks recorded since Saturday]]></description>
+            <link>https://www.yahoo.com/news/world/articles/powerful-aftershock-hits-indonesian-communities-062707915.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-aftershock-hits-indonesian-communities-062707915.html</guid>
+            <dc:creator><![CDATA[The Independent]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food safety crackdown snares Mumbai's famed restaurants]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C60B44D08E0D067CEAC71EEB2F0776959B3E4C14356B044A6F989FC5BB91E309/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0c49dc73793c377127c1aca6eb8055ea.jpg" alt="" /></p>When food safety inspectors raided a Mumbai dessert parlour famed for its ice cream sandwiches last month, they found rats, houseflies and expired flavouring agents.Experts say India's food safety problems are structural and cannot be fixed through inspections alone.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/food-safety-crackdown-snares-mumbais-061125070.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/food-safety-crackdown-snares-mumbais-061125070.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Nigerian fishing community being eaten up by the Atlantic]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E16037CD5C6FFB2B9A2BBBD1B84DFB0957BEB6135F7A5974DFD13EBE6784E92F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F1a92446fc5cd1f191f646734001f84cb.jpg" alt="" /></p>The beach shrinks every year in Ayetoro, in southern Nigeria, and what is left is peppered with the remains of homes swallowed by the ocean -- some years ago, some just months prior."I took this photo 14 years ago.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nigerian-fishing-community-being-eaten-050359583.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerian-fishing-community-being-eaten-050359583.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Construction workers strike gold at work – literally]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2393823B353B55179C93F64D184F0843AB348DB0BBF76FBCC4622AFADFBF0698/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7a0be352f5e43673c2301990b7e18bd2.jpg" alt="" /></p>Eight construction workers uncovered gold coins and bars while renovating a building in Dendermonde]]></description>
+            <link>https://www.yahoo.com/news/world/articles/construction-workers-strike-gold-literally-045301384.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/construction-workers-strike-gold-literally-045301384.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5EAA9AF439BBF7C71F0D7B28901FC3CE86ED33A146B294733FC14160849277DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1c57174721bd188e58a3a3d70db27a7d.jpg" alt="" /></p>(Corrects lede to 'military-backed government', not 'military government') Aug 17 (Reuters) - Myanmar's military-backed government has verified that nearly 309,000 displaced people in camps in]]></description>
+            <link>https://www.yahoo.com/news/world/articles/myanmar-confirms-nearly-309-000-040145788.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/myanmar-confirms-nearly-309-000-040145788.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 06:53:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Scotland's papers: North Sea decision day and new Scotland boss]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D7080702A2257C7FDCE8901FD6018A91B5AF133AB70D763C0D58CE13572EC533/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fddeb3e87e0531d4694da080c438506e0.jpg" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
             <link>https://www.yahoo.com/news/world/articles/scotlands-papers-north-sea-decision-054156815.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-north-sea-decision-054156815.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 05:58:05 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukrainian-strikes-kill-six-russia-053834716.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-strikes-kill-six-russia-053834716.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 05:58:05 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8EB4D7B6BA93D3604429218EE2098F504EF307577A99E89676AA27A84EC2772F/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F905475742172d4999e5568df7a3bbb3b.jpg" alt="" /></p>The fatal incident reportedly took place amid a rush of devotees at a temple in India’s Bihar state.]]></description>
             <link>https://www.yahoo.com/news/world/articles/least-six-dead-stampede-incident-053233361.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-six-dead-stampede-incident-053233361.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 05:58:05 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BE0F81BDBAB649741C49CD57F00EB7BD5FE034F2B230EC0F5C4A463F3CD0C06E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F7a96ed212c4afd9920a3b31916148ad7.jpg" alt="" /></p>Thousands of people were still waiting for aid on the Indonesian island of Flores as the country celebrated its 81st Independence Day on Monday, days after a powerful earthquake killed at least 54 people, injured dozens and damaged hundreds of homes and other buildings.  Many residents spent the day mourning victims, searching for loved ones and waiting for aid to arrive to communities still cut off by the deadly quake.  More than 1,300 homes were damaged when the quake struck East Nusa Tenggara province on Saturday, with nearly 250 were destroyed on Flores alone.]]></description>
             <link>https://www.yahoo.com/news/world/articles/thousands-indonesia-await-aid-quake-041145628.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-indonesia-await-aid-quake-041145628.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 05:58:05 GMT</pubDate>
         </item>
         <item>
@@ -6991,41 +7027,6 @@ hmw/fg]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5354AFA323491983E580F38A962DC3684539ACC5BFBB54D9947FE0F7984E8951/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F9a12ef44cfe0124b4c7ddb6c457d03c4.jpg" alt="" /></p>Next to a Chinese temple and an Instagram-friendly mural village, Taiwan's M1A2T tanks lay in wait amid the island's Han Kuang annual drills.]]></description>
             <link>https://www.yahoo.com/news/world/articles/taiwan-training-abrams-tank-crews-042146046.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taiwan-training-abrams-tank-crews-042146046.html</guid>
-            <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Giant python stealing ducks in China spits up 3, escapes, and is recaptured in bamboo grove]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9BF9967F8D6253A8DACF31070ED7E23BD71D14B2609306479A15F1A0827A6EA3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fed9caf578d55503489acc148a4ba63a7.jpg" alt="" /></p>"A python as big as this one could easily swallow a lamb weighing dozens of kilos."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/giant-python-stealing-ducks-china-041900651.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/giant-python-stealing-ducks-china-041900651.html</guid>
-            <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Labour union rally misrepresented as investors' protest in South Korea]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FB2AF209806E1EAD995CDA0B632BC916F5153E053FEB3153205C2C89F83FD20C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F2e6266918dabe016a8675e2e3560f79b.jpg" alt="" /></p>As sharp plunges in the South Korean stock market dealt heavy losses to investors at the end of July 2026, posts resurfaced a video of a labour union protest with a false claim it showed disgruntled speculators rallying. The footage was filmed weeks before the rout and actually shows the country's umbrella labour group fighting for the right of subcontracted workers to directly bargain with businesses.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/labour-union-rally-misrepresented-investors-041026899.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/labour-union-rally-misrepresented-investors-041026899.html</guid>
-            <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kosovo begins excavations at newly found mass graves tied to 1998-99 war missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3571657B734585A70954B530793BFD6350A7BF25B50E4407374CBEFAB9FEDCE6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6404c18dc5d15e0a4b9cc8f10c84af43.jpg" alt="" /></p>Erblin Ademi watched from afar as workers excavated recently discovered mass graves from the 1998-99 war in Kosovo.  Nearly 30 years after his father went missing, Ademi both feared and wished that his remains will finally be found.  Ademi was just 9 when he last saw his father, Adem Ademi, a prominent surgeon who disappeared along with 22 other intellectuals in April 1999, just months before the end of the war.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kosovo-begins-excavations-newly-found-040736780.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kosovo-begins-excavations-newly-found-040736780.html</guid>
-            <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Earthquake response strains Colombia's new government and rescuers as they race against the clock]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CC5C0D89354D33B3CEAF24B80B5263743405185393AD85EC1A188FACDB9935B6/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb73e0da51d9181990d85b26f09d232d2.jpg" alt="" /></p>The search for life in the rubble of Colombia’s powerful earthquake grew more desperate on Wednesday as search teams pushed up against a key time threshold to locate survivors with signs of life.  The devastation has tested Colombia’s new President Abelardo de la Espriella and his government as it scrambles to respond to the natural disaster and civil society as it pushes to provide aid to the vulnerable communities most affected by the quake.  Teams continued to pick through the rubble overnight in the hardest-hit cities of Cali, Pereira, Manizales and Quibdo, as time ticked away for victims to be found — and rescued — alive.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/earthquake-response-strains-colombias-government-040731666.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/earthquake-response-strains-colombias-government-040731666.html</guid>
-            <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands flee yearslong drought in Somalia as hunger deepens and aid shrinks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3350999A622DCEB6D6861E7B06DACAE00E0F4589CA9EB11D86649E6983CED0FB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3ef1d755da465c0d00e445d5469abcd5.jpg" alt="" /></p>After nearly two weeks on the road with her five children, Luul Mohamed finally arrived in the southwestern Somali city of Baidoa with no food and little sense of what would happen next.  Drought conditions had forced Mohamed and her family to leave Saakoow, a town in the Middle Jubba region more than 300 kilometers (186 miles) away.  The family's journey is one example of a deepening humanitarian emergency in Somalia, where years of drought, conflict and economic pressures are pushing more families from rural communities into displacement camps as hunger rises and humanitarian funding shrinks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/thousands-flee-yearslong-drought-somalia-040358597.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-flee-yearslong-drought-somalia-040358597.html</guid>
             <pubDate>Wed, 12 Aug 2026 05:25:24 GMT</pubDate>
         </item>
     </channel>
