@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Aug 2026 23:41:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 00:46:53 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Aug 2026 23:41:18 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 00:46:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[It's the last season for legal dog meat  in South Korea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DA3E01A007F380CBB1CCBBA71BB0B3C4D393C11A4005465A9208ED322023A16D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Flivenow_fox_840%2Fb435b86bffea1f0a58adf65c714b5c06.jpg" alt="" /></p>South Korea’s dog meat restaurants are in the peak of their final busy season as the country’s ban on the slaughter and sale of dog meat takes effect next year.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/last-season-legal-dog-meat-194950443.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/last-season-legal-dog-meat-194950443.html</guid>
+            <dc:creator><![CDATA[LiveNOW from FOX]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 00:46:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['Ghana was the crime scene' - the country leading the demand for slavery reparations]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/811308C59301F95916C6AD14BB41CADDC3C5AC2AFD7311D1FB345D4851842792/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0143b1d5ccdf08c76a110b37821f3f5e.jpg" alt="" /></p>Ghana has become Africa's leading voice in telling the world that Western nations owe reparations]]></description>
             <link>https://www.yahoo.com/news/world/articles/ghana-crime-scene-country-leading-230945833.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ghana-crime-scene-country-leading-230945833.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 16 Aug 2026 23:41:18 GMT</pubDate>
         </item>
         <item>
@@ -7016,13 +7023,6 @@ The UN agency called for the immediate restoration of their right to education a
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1D088FB48DC9B0B31592D41090247B117245013789334F8FAC6AC1CD4674D22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fb15baf25e84481c8d997d674baedb19f.jpg" alt="" /></p>Malaysia's Forest City was pitched as "paradise" but last month police raided it over alleged scam operations.]]></description>
             <link>https://www.yahoo.com/news/world/articles/seaside-apartments-were-ghost-city-233122447.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/seaside-apartments-were-ghost-city-233122447.html</guid>
-            <pubDate>Wed, 12 Aug 2026 01:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Taliban wipes out decades of progress as 2.4M Afghan girls remain locked out of school, UN agency says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7828180F1720A6C1590D9D68123F38C2500317522601BC1D3FAE3417953782DB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff43bbf131296e756711a295b6841f71e.png" alt="" /></p>UNESCO says 2.4 million Afghan girls are locked out of secondary school five years after the Taliban banned female education beyond the primary level.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/taliban-wipes-decades-progress-2-230148475.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/taliban-wipes-decades-progress-2-230148475.html</guid>
             <pubDate>Wed, 12 Aug 2026 01:13:58 GMT</pubDate>
         </item>
     </channel>
