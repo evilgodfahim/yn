@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 14:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:54:18 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Possible hazardous substance leak in Shlomi factory, Fire and Rescue units dispatched]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E85F0D58DE9648C758059DA3136761EA0B542E761962DCDD85FE7F39531918A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F8d58c1ab4ed1ab6ede8399683692e03c.jpg" alt="" /></p>The crews were dispatched following a report received by the Fire and Rescue Service's 102 emergency hotline of an incident in which a worker was exposed to a hazardous substance while unloading it. Fire and rescue crews from the Zvulun station, along with a hazardous materials unit from the Haifa station, were dispatched recently to the "Tari Ve'Helek 2" factory at 1 HaMeyasdim Street in Shlomi.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/possible-hazardous-substance-leak-shlomi-143359457.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/possible-hazardous-substance-leak-shlomi-143359457.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pay dispute triggers 24-hour strike at six German seaports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00781C1271E2455D44E513677CA5996017D8C23497F8075CC579EEECF8924A39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2ca830d8eae6fb7a59454151efe2273e.jpg" alt="" /></p>Germany's Verdi trade union has called 24-hour strikes at six northern German seaports starting on Monday evening. The ports affected are Hamburg, Bremerhaven and Bremen, as well as Wilhelmshaven, Emden and Brake in Lower Saxony, all on the North Sea or on rivers flowing into the North Sea.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pay-dispute-triggers-24-hour-143354970.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pay-dispute-triggers-24-hour-143354970.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia jails opposition politician for 11 years for anti-war comments]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09F2621CB5E3443D98E3B841AB9FDC0846AD2F71397C24EA4BA85D703A62F314/subgraphmysterio/smartcrop_w986_h662_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F5b5460f36cbf148c1b75e653f206760d.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/russia-jails-opposition-politician-11-131841043.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/russia-jails-opposition-politician-11-131841043.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C719BAE1E67DD5F7BC53229CC2DDE132E34C28882A04FA10B0DDBE61A23A35CB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe1c8c194896994941cff6934a023d150.jpg" alt="" /></p>DAKAR, Aug 17 (Reuters) - The ongoing Ebola outbreak is now the second-most lethal on record and the deadliest in the history of Democratic Republic of Congo. Only the epidemic in West Africa in 2014-16 killed more people.]]></description>
             <link>https://www.yahoo.com/news/world/articles/explainer-congos-ebola-outbreak-became-140813902.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/explainer-congos-ebola-outbreak-became-140813902.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FE0FDCA3D5633B66E9D35BC6FBD729C32479423BDD3FC4B833E5B29EE21D91A7/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F498220d5153570f2547d7df42f12e4e0.jpg" alt="" /></p>Authorities have closed large sections of the volcano's slope to hikers due to prolonged volcanic activity]]></description>
             <link>https://www.yahoo.com/news/world/articles/american-tourist-dies-being-struck-140602333.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/american-tourist-dies-being-struck-140602333.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B7B3E961AFDF88AFA3BE09D58674F687B50ABC6C664CB69ED3BA1E38AE23EF78/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7b17419e17cd3223fff19f52ab81775f.jpg" alt="" /></p>Greece's obsolete power grid is responsible for around three-quarters of the area burnt in the country so far this year, the daily Kathimerini newspaper reported on Monday, citing data from the Greek fire service. Both the major wildfires on Crete in late July and the devastating fires west of Athens in early August were linked to power grid faults, with sparks caused by damaged or worn-out equipment thought to have ignited dry vegetation, the report said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/report-ageing-power-grid-often-140345144.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/report-ageing-power-grid-often-140345144.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BAE4C68F21C69DBCF7705C659B3659BD74C4041D48C12D3F5D006F398CB84644/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F935781053899df942637eb421a921c51.jpg" alt="" /></p>A disgruntled local Taliban commander in Afghanistan's north-eastern Badakhshan Province, Juma Khan Fateh, has laid down his arms, ending days of armed tension with Taliban government forces, Afghan media reported on Monday. In recent days, Taliban Chief of Army Staff Fasihuddin Fitrat, himself an influential figure from Badakhshan, and special operations forces were deployed to Fateh's home district after he refused to hand over weapons to the government, pro-Taliban media Hurriyat reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/disgruntled-taliban-commander-surrenders-brief-140345688.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/disgruntled-taliban-commander-surrenders-brief-140345688.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +64,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9CF8D6D8BD99D48084B43B1E66997C82B032D018E7B5AA73898798EA26F920EC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F21da52156a09f2b638b9dcd7f0b83853.jpg" alt="" /></p>Ten people were injured, four of them critically, when a luxury yacht collided with a rigid inflatable boat off the French Mediterranean coast near Cannes, with a man in his mid-20s reported missing, the French Mediterranean maritime prefecture said on Monday. The accident occurred at around 11 pm (2100 GMT) on Sunday in the Bay of Cannes to the west of the city.]]></description>
             <link>https://www.yahoo.com/news/world/articles/luxury-yacht-collision-off-cannes-134843863.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/luxury-yacht-collision-off-cannes-134843863.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +71,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B5F0928F3A4D87AB5E3297A234902301D1F23235B5CBA75ECAD8DF2BF8AC4A4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fc88d6b7f1a2c342b4608a0ce46cc42e6.jpg" alt="" /></p>Inside Ukraine's robotics revolution, drones, ground robots, and autonomous weapons are rapidly reshaping the war with Russia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/inside-ukraines-war-robot-revolution-112701788.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-ukraines-war-robot-revolution-112701788.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +78,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/244988F2619F7F25DE6E46B44AF2BFFCDA7841643BD6C3907464CFD1F6AAA10C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc4a3d378a6059b914548e60cd7c57678.jpg" alt="" /></p>It is the most sought-after weapon in the world, but sits idle, in a cornfield, its cannisters empty, last fired 10 weeks ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/exclusive-ukraine-reveals-achilles-heel-131806692.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/exclusive-ukraine-reveals-achilles-heel-131806692.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +85,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BAEB9396077B3D676EAEA09283DA11631AE1E74981DC1DB9CBC56A9673132A83/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F0aff57515eb56d66bdb309059855c10b.jpg" alt="" /></p>A month-long Ukrainian attack campaign against Russia's largest online retailer has knocked out seven of its ten biggest logistics hubs, according to Kyiv's defence ministry and the Institute for the Study of War.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-hit-seven-russian-online-115157964.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-hit-seven-russian-online-115157964.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:28:56 GMT</pubDate>
         </item>
         <item>
@@ -7018,20 +7025,6 @@ hmw/fg]]></description>
             <link>https://www.yahoo.com/news/world/articles/clowns-entertain-migrants-smugglers-bound-114143174.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/clowns-entertain-migrants-smugglers-bound-114143174.html</guid>
             <pubDate>Wed, 12 Aug 2026 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Former Chinese premier Zhu Rongji dies aged 97]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0A70C5B44A2A6C4D21453586ADF98416D9A16811EE593EA75570F98B52374B22/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffde74d6a53b65fd938e2375903fc9d25.jpg" alt="" /></p>Former Chinese premier Zhu Rongji has died, with China's state-run news agency Xinhua reporting that he passed away on Wednesday in Beijing at the age of 97, following an illness. Zhu led the Chinese government from 1998 to 2003 and was regarded as one of the country's most important economic reformers.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/former-chinese-premier-zhu-rongji-123331745.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-chinese-premier-zhu-rongji-123331745.html</guid>
-            <pubDate>Wed, 12 Aug 2026 12:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israeli settlers besieging Palestinian families in West Bank village]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israeli-settlers-besieging-palestinian-families-121627376.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-settlers-besieging-palestinian-families-121627376.html</guid>
-            <pubDate>Wed, 12 Aug 2026 12:49:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
