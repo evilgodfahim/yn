@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 03:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 04:09:50 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 04:09:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israel and Honduras deepen defense ties with new memorandum of understanding]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/87DBD786951CAA8CDE9751238E82DF75803DFDB45184D8FC7AED2713541C8F00/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F88160ef84f2421b8447254efc217f2f5.jpg" alt="" /></p>In 2021, Honduras became one of the first countries to move its embassy to Jerusalem, joining the US, Guatemala, and Kosovo. Israel and Honduras entered into a Memorandum of Understanding with Honduras in a Sunday signing ceremony, the Defense Ministry announced in a statement.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-honduras-deepen-defense-ties-040240094.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-honduras-deepen-defense-ties-040240094.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 04:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Iran war is forcing families to choose between school for their kids or survival]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09A0FF0647161D81694EF4449C87C31FC83FCC35C4D786721814641D3077AC8E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Feb610cea8b18048c91ea24e8f10de377.jpg" alt="" /></p>The 13-year-old first entered a classroom at 10, an age when most Cambodian children already have been in school for years.  Now, the price of gasoline has spiked because of the Iran war, an additional burden.  Unlike outright school closures during COVID-19, the Iran war’s impact on education is less visible.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-war-forcing-families-choose-035215330.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-forcing-families-choose-035215330.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 04:09:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photos, memories all that remain for Colombia's bereaved after quake]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93D5F6455F7A200B84C4CFC76A3DE0ADF2AABC39CCF275675990A0D5285C1B20/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fcc6128612c3887eb394ba7f3f57c3ac0.jpg" alt="" /></p>In Torres del Limonar, a Cali residential complex that collapsed in Monday's earthquake, people pick through rubble to recover victims' belongings and return them to grieving families.Manuela Barrios, a volunteer psychologist in Limonar, said the recovered objects help survivors "preserve the memory."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/photos-memories-remain-colombias-bereaved-021847356.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-memories-remain-colombias-bereaved-021847356.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 04:09:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ebola outbreak becomes DRC's deadliest with more than 2,300 dead]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/05BF2224A848C300B462536605D8FAA2535299E1B18CEB9CF8C63CE4290CFE25/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fee9429f61ea555d42d98df603293a877.jpg" alt="" /></p>The ongoing Ebola outbreak in the Democratic Republic of Congo became the nation's deadliest over the weekend with a death toll of more than 2,300.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ebola-outbreak-becomes-drcs-deadliest-025604871.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-outbreak-becomes-drcs-deadliest-025604871.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E8AB00293349CF7D5B2911D655F17BC4AC8C40F535A36B3BDC89C57B124DC010/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fff2aa163471a1facaa3832a5f439c6dd.jpg" alt="" /></p>A man believed to be the father of the young girl allegedly threw the 73-year-old to the ground after the pat.]]></description>
             <link>https://www.yahoo.com/news/world/articles/singapore-police-investigate-assault-elderly-022437651.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/singapore-police-investigate-assault-elderly-022437651.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +52,6 @@
 More than 200 murals have been created since the festival began, which, in addition to Salvadoran artists, has also featured artists from Colombia, Mexico, Brazil, Peru and Argentina.]]></description>
             <link>https://www.yahoo.com/news/world/articles/winning-back-walls-gangs-artists-014311112.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/winning-back-walls-gangs-artists-014311112.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +59,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9EABE45300EEBA5F692973F106B515AB25FD9A8A7C296F212B42F9C57F3FD847/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8f3a8ac8e5dd440c26ca641e10b1b0c3.jpg" alt="" /></p>The noise of backhoes, cranes and bulldozers echoed across Colombia's quake-hit cities on Sunday as workers labored to remove rubble, though the chance of finding survivors was slim a week after the disaster.In the hard-hit western city of Pereira, Andres Cano, a 30-year-old nursing student, acknowledged that the hope of locating survivors "is much lower now."]]></description>
             <link>https://www.yahoo.com/news/world/articles/machinery-removes-rubble-hopes-survivors-004451037.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/machinery-removes-rubble-hopes-survivors-004451037.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +66,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C6D9C1F69C484192EF9271D49C3B993D77D5B98F777C859732D6E21EEB53E2ED/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F8f944aa91ab87bcea09a92f1afa1e996.jpg" alt="" /></p>Report: Ukraine Missiles Could Hit Russia in Months]]></description>
             <link>https://www.yahoo.com/news/world/articles/report-ukraine-missiles-could-hit-004351364.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/report-ukraine-missiles-could-hit-004351364.html</guid>
-            <dc:creator><![CDATA[Newsmax]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +73,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8BD06C72B5E2AABD475908118CAC4366F10868B670E51C2B2B96070B00448F19/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ffa011f8b876645e600cf8020cb447ebb.jpg" alt="" /></p>Diego Garcia supports U.S. carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-war-thrusts-diego-garcia-003823364.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-thrusts-diego-garcia-003823364.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +80,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CD917F8BB1762676182D28DA9C5C9155131728B285062587CB6526A29A6501CD/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F19907171825bf98646c630647f9d022e.jpg" alt="" /></p>A woman was injured in a brown bear attack while jogging alone near a trailhead in Anchorage, Alaska, wildlife officials said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/runner-comes-face-face-brown-002650673.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/runner-comes-face-face-brown-002650673.html</guid>
-            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +87,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/BF08E3D06D7D55AFAEE3B80F34ABE45613992C2B738981DDC05C7434F38E40CF/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_week_574%2F719775309d014f51f8879bd83b03814e.jpg" alt="" /></p>Former state governor charged with destruction of evidence in case of 43 students presumed to have been killed: atrocity that ‘rocked the nation’]]></description>
             <link>https://www.yahoo.com/news/world/articles/breakthrough-brutal-case-mexican-students-001744799.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/breakthrough-brutal-case-mexican-students-001744799.html</guid>
-            <dc:creator><![CDATA[The Week]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 03:25:34 GMT</pubDate>
         </item>
         <item>
@@ -7009,27 +7025,6 @@ hmw/fg]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09EE15C3494A6C5059448FD42985CDB20B841346D025A5AE6AAA5EE7E97DD9B2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F95db3331173d8bcc8ebbc9213bdaf725.jpg" alt="" /></p>Australian police dropped assault charges on Wednesday against a man lauded for his bravery during last year's mass shooting at Bondi Beach.Both charges were withdrawn after a brief hearing on Wednesday, court documents showed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/charges-dropped-against-bondi-beach-023208868.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/charges-dropped-against-bondi-beach-023208868.html</guid>
-            <pubDate>Wed, 12 Aug 2026 03:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4F371688D3D5FF6C2912A5436A70E3C23669B914913FC4ADD14FCA15E2AE30E9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fba36dbefa4328a0d3e640b01f058458e.jpg" alt="" /></p>Iran’s top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-holds-firm-hormuz-conditions-022930256.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-holds-firm-hormuz-conditions-022930256.html</guid>
-            <pubDate>Wed, 12 Aug 2026 03:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[North Korea fires ballistic missile ahead of US-South Korea drills]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B5D7411B55A3222E7E6C7071AB8E69E4A8F51B0C9F5C9FBA0498B213B017B27C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F764d40b0d821eafb677bb8f85ed08e89.jpg" alt="" /></p>North Korea fired a ballistic missile off its east coast towards Japan early on Wednesday, Seoul's military said, days before the planned start of massive US-South Korea joint drills.Pyongyang lambasted Japan's "transformation into a war state", and shortly afterwards fired a short-range ballistic missile off its eastern coast, according to Seoul's military.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-012503038.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-012503038.html</guid>
-            <pubDate>Wed, 12 Aug 2026 03:33:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The perfect storm that turbocharged Venezuela's twin quakes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F339A6A999ED60437113BBA3B993F60417F6CE78A3F0A7B95B74D2F1F2D17B46/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F8ea0c96ffdd45ccaa01bd6254fc9a9db.jpg" alt="" /></p>A dangerous cocktail of tectonic positioning, loose earth and shoddy construction contributed to the unprecedented damage caused by Venezuela's twin earthquakes, experts say.Most of these buildings were constructed before the 1967 earthquake, Venezuela's Engineering Order said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/perfect-storm-turbocharged-venezuelas-twin-012340823.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/perfect-storm-turbocharged-venezuelas-twin-012340823.html</guid>
             <pubDate>Wed, 12 Aug 2026 03:33:54 GMT</pubDate>
         </item>
     </channel>
