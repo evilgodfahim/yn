@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 14:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 15:18:12 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 15:18:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Woman Jumps from 11th-Floor Window into Firefighter’s Arms as Fire Rips Through Her Apartment Building]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9146447BA851335C6DB52387AF604CB82957E0893CA181CEDED60F77CE9CDBF2/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F24ae1e4b1eed1dad6bf17535905aa357.jpg" alt="" /></p>The fire began on the 11th floor of the 21-story apartment building on Aug. 14]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-jumps-11th-floor-window-145904298.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-jumps-11th-floor-window-145904298.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 15:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European rescue organizations report migrant deaths in Mediterranean]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2B22060A3778FF66E7832C191F5865D11F19B6155DEE36E64FC99F4A258BD3BB/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0a80dd669a0806f5f30a71884062d548.jpg" alt="" /></p>Sea rescue organizations on Monday reported deaths of migrants in the central Mediterranean. Italian organization Emergency found seven bodies on an overcrowded boat and rescued a further 57.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/european-rescue-organizations-report-migrant-144847081.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/european-rescue-organizations-report-migrant-144847081.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 15:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Putin taunts Nato with warship carrying hypersonic missiles]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5F8F17A4D1A59757369076C330A047ED7B572EBEC68D8F8F81BEC5328707C359/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fc203b75c448c6d2328fb7b379cf722ba.jpg" alt="" /></p>Russia has deployed a warship armed with cruise and hypersonic missiles close to a German island in the Baltic Sea.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/putin-taunts-nato-warship-carrying-135252355.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-taunts-nato-warship-carrying-135252355.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 15:18:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Possible hazardous substance leak in Shlomi factory, Fire and Rescue units dispatched]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E85F0D58DE9648C758059DA3136761EA0B542E761962DCDD85FE7F39531918A1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F8d58c1ab4ed1ab6ede8399683692e03c.jpg" alt="" /></p>The crews were dispatched following a report received by the Fire and Rescue Service's 102 emergency hotline of an incident in which a worker was exposed to a hazardous substance while unloading it. Fire and rescue crews from the Zvulun station, along with a hazardous materials unit from the Haifa station, were dispatched recently to the "Tari Ve'Helek 2" factory at 1 HaMeyasdim Street in Shlomi.]]></description>
             <link>https://www.yahoo.com/news/world/articles/possible-hazardous-substance-leak-shlomi-143359457.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/possible-hazardous-substance-leak-shlomi-143359457.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00781C1271E2455D44E513677CA5996017D8C23497F8075CC579EEECF8924A39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F2ca830d8eae6fb7a59454151efe2273e.jpg" alt="" /></p>Germany's Verdi trade union has called 24-hour strikes at six northern German seaports starting on Monday evening. The ports affected are Hamburg, Bremerhaven and Bremen, as well as Wilhelmshaven, Emden and Brake in Lower Saxony, all on the North Sea or on rivers flowing into the North Sea.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pay-dispute-triggers-24-hour-143354970.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pay-dispute-triggers-24-hour-143354970.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 14:54:18 GMT</pubDate>
         </item>
         <item>
@@ -7002,28 +7024,6 @@ Tunisia now has the lowest fertility rate in the Maghreb, with 1.58 children per
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/FDBB9429948D68E1C1EF93B4380E4D6C1247696898A359D729B2389D47B91893/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffb5c3a1a8c27a206fc98ef4cdb575da8.jpg" alt="" /></p>At least 44 people drowned after an overcrowded ferry capsized on Zimbabwe's Lake Kariba, police said Wednesday, releasing an updated toll a day after the disaster.The Zimbabwe Republic Police updated the toll later Wednesday, saying on X: "The ZRP informs the public that the death toll in the Kariba RIDA boat accident is now 44."]]></description>
             <link>https://www.yahoo.com/news/world/articles/44-lives-lost-ferry-capsizes-122818046.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/44-lives-lost-ferry-capsizes-122818046.html</guid>
-            <pubDate>Wed, 12 Aug 2026 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erdogan eyes expansion of regional defence pact]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/D3CD8FD9CDF7E05368E57BD00104381D4C097EF94450C7C949DB535D5117F520/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F043848785a9c93adc0e05fa5decd060a.jpg" alt="" /></p>President Recep Tayyip Erdogan said Wednesday he hoped more countries would join a defence agreement signed last week between Turkey, Saudi Arabia and Pakistan aimed at stabilising a region wracked by conflict.Since the onset of the war, Saudi Arabia has grown closer to Turkey, with whom it previously had fraught ties, with Erdogan saying Ankara and Riyadh would "take steps that will elevate relations between the two countries to much higher levels", without giving further details.
-hmw/fg]]></description>
-            <link>https://www.yahoo.com/news/world/articles/erdogan-eyes-expansion-regional-defence-121038447.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/erdogan-eyes-expansion-regional-defence-121038447.html</guid>
-            <pubDate>Wed, 12 Aug 2026 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Survivors describe pleading to turn back before ferry capsized on Zimbabwe lake and killed 44]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/846CC60AC94FF0EE3E8F9FF618B66C0020834CBA2595C11E521E1A0D84746C07/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fdc028d91cc97136d1b6c4823048d64ee.jpg" alt="" /></p>Survivors on Wednesday described frantic passengers pleading with the captain of an overloaded ferry to turn back from strong waves shortly before it capsized and killed at least 44 people on Lake Kariba in Zimbabwe.  “Some of us survived by standing on top of the capsized hull,” one of the two crew members who survived, Anyway Chambati, told state broadcaster ZBC News.  Multiple witnesses told ZBC that passengers urged the captain to turn back as waves grew perilous, only to be dismissed.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/death-toll-rises-44-overloaded-115500558.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-rises-44-overloaded-115500558.html</guid>
-            <pubDate>Wed, 12 Aug 2026 14:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Clowns entertain migrants and smugglers bound for Britain]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81C7F62E646F1F6B40337635F7958E4EB8F6420542E34DF84D655B17C7E13BFC/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fab735d2f1b522f27dea939f72d47bf33.jpg" alt="" /></p>The queue of migrants watched in bemusement as volunteer clowns attempted to lift their spirits.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/clowns-entertain-migrants-smugglers-bound-114143174.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/clowns-entertain-migrants-smugglers-bound-114143174.html</guid>
             <pubDate>Wed, 12 Aug 2026 14:16:00 GMT</pubDate>
         </item>
     </channel>
