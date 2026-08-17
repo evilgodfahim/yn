@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 22:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 23:15:03 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 22:47:30 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 23:15:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Woman Shows Vietnam Police Apartment Check—’If You Lived in America, You Know How Scary This Could Be’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C6077E3A6EF08F016CE848D815151CFD37A5E9707A2EB6D04F5735D97DA6737B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdaily_dot_articles_819%2Fb653689e4e27b673cfbbbb3ec35fc707.jpg" alt="" /></p>A woman’s video about an encounter with police in Vietnam is going viral online. She says police conduct random apartment checks to verify who lives there and make sure residents have the proper documentation. According to her, officers can show up without notice to conduct the checks. In her clip shared to social media, which…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-shows-vietnam-police-apartment-221842944.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-shows-vietnam-police-apartment-221842944.html</guid>
+            <dc:creator><![CDATA[The Daily Dot]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 23:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British couple on honeymoon die in Greek helicopter crash]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/75E1B716C62BE36ACB19D0E4BC6B4B18A2986AA5058351B90100C072D4CEED73/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Feda89381f61351b35fde176d5561c329.jpg" alt="" /></p>A British couple on their honeymoon and their pilot have been killed in a helicopter crash on a Greek island.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/british-couple-honeymoon-die-greek-215704038.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/british-couple-honeymoon-die-greek-215704038.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 23:15:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[As rubble clears, Colombia begins focusing on recovery after the earthquake]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3306FE44348DDAF351129FDDA96070164EF71853E1481E388697E8E5B9D9802D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F87c41c9ee0bac0e729cc543b3beaac80.jpg" alt="" /></p>A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rubble-clears-colombia-begins-focusing-222612542.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rubble-clears-colombia-begins-focusing-222612542.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 22:47:30 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E5B9F6D555E1FF9D616E8BB5381AD88E15DF277C1FED1CBA1A9349EF20A5978/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F27bbf740ee82e044153668e292ec80e1.jpg" alt="" /></p>Moscow has threatened the United Kingdom with "consequences" after reports that British drones have been used to strike targets on Russia's mainland for the first time. Ukraine used drones made by two UK companies as part of a so-called deep strike campaign, the Sunday Times reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-threatens-consequences-over-uk-221833124.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-threatens-consequences-over-uk-221833124.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 22:47:30 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/11555436CD6B63408967835A85F0EDBC43CC0CC895823303DA31A31940B12E17/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F24dce024e77c4a0063cb281e44947173.jpg" alt="" /></p>Diana Funds were split between Harry and Prince William in 2020 after he stepped down as a senior working royal.]]></description>
             <link>https://www.yahoo.com/news/world/articles/prince-harry-sends-princess-diana-203217511.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prince-harry-sends-princess-diana-203217511.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 22:47:30 GMT</pubDate>
         </item>
         <item>
@@ -7010,20 +7023,6 @@ Tunisia now has the lowest fertility rate in the Maghreb, with 1.58 children per
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.]]></description>
             <link>https://www.yahoo.com/news/world/articles/major-russian-grain-export-terminal-172009867.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/major-russian-grain-export-terminal-172009867.html</guid>
-            <pubDate>Wed, 12 Aug 2026 18:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fire breaks out on 24th floor of Jerusalem building near Independence Park]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DD372D43B824E39E583BE88BA4B500B0C4A34626D933705F5F7623E016F45F98/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fd8f3cf030c7b52139e19a1ab495495ba.jpg" alt="" /></p>The blaze occured at a building on the corner of HaMatmid Alley and Meir Shaham Street, across from Independence Park. Flames could be seen from the upper floors of a building in downtown Jerusalem on Wednesday afternoon.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fire-breaks-24th-floor-jerusalem-174231544.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-breaks-24th-floor-jerusalem-174231544.html</guid>
-            <pubDate>Wed, 12 Aug 2026 18:14:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video of earthquake shaking schoolyard is from Philippines, not Colombia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8465AF614E76F17CCD2D9C8C6002E0BAF48F7CFE1E78F4C030B484FA0FCF2E78/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F5ee0c237a36a40724d13e8c3a1738348.jpg" alt="" /></p>A video of children crouching as the ground rocks beneath them is spreading online in social media posts claiming it shows the deadly 7.4-magnitude earthquake that leveled buildings across Colombia on August 10, 2026. But the clip was, in fact, filmed two months earlier during an even more powerful quake that rattled the Philippines.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/video-earthquake-shaking-schoolyard-philippines-174204284.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-earthquake-shaking-schoolyard-philippines-174204284.html</guid>
             <pubDate>Wed, 12 Aug 2026 18:14:23 GMT</pubDate>
         </item>
     </channel>
