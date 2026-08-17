@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 10:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:18:00 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 11:18:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iraqi Kurdish PM Barzani’s office targeted in drone attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5D7602C584259926FBD3D84A400DF9EBA16709B80B2236629C959BFA899C0D08/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fb1c54b082fc130a177608808833ae869.jpg" alt="" /></p>Explosive drones target Iraqi Kurdish PM’s office and security chief’s residence; no casualties reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iraqi-kurdish-pm-barzani-office-105450553.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iraqi-kurdish-pm-barzani-office-105450553.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 11:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[At least seven killed in stampede at Hindu temple in India]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4851956B9DFCAFB9E949FE54E51CC75261E96E7058FF3D7F4E8D1778D7B50F29/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fa9cc62d51c2b94f0b527e0d98172ffe5.jpg" alt="" /></p>Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-seven-killed-stampede-hindu-083627601.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-seven-killed-stampede-hindu-083627601.html</guid>
+            <dc:creator><![CDATA[Euronews]]></dc:creator>
+            <pubDate>Mon, 17 Aug 2026 11:18:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Latvia says downed drone came from Belarus]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/EDC1EDC449148DDDCB633C31EECC536646E71E7ED8F8FEBBB1F9663A16E6D23C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6a1020c36939b4b1a38caffed517a301.jpg" alt="" /></p>A drone shot down by NATO fighter jets over Latvia last week entered its airspace from neighbouring Belarus, Defence Minister Raivis Melnis told Latvian television on Monday. Melnis added that the origin of the unmanned aircraft remained unclear.]]></description>
             <link>https://www.yahoo.com/news/world/articles/latvia-says-downed-drone-came-104831801.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latvia-says-downed-drone-came-104831801.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/34FDC938CFFE943D8BD036A31B892EA6E79CB23C777A9456B575656BF134634C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F84b849900687e8306564f89189633660.jpg" alt="" /></p>The Iran-backed Houthis in Yemen launched five ballistic missiles towards positions near the strategically important Bab al-Mandab, a Yemeni military source told dpa on Monday. The source, who requested anonymity, said the missiles were launched from the southern Ibb province and the al-Hawban area east of Taiz province toward positions near Bab al-Mandab.]]></description>
             <link>https://www.yahoo.com/news/world/articles/source-houthis-launch-five-ballistic-103529376.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/source-houthis-launch-five-ballistic-103529376.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A972140B86A4522899CB8AED5C711852AE0B627ED75490FB8035A9EF7331863C/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7ad660a8cb43194cfeabd7edeb5077a1.jpg" alt="" /></p>At least 35 supporters of the Russian anti-war party Yabloko were detained outside the Supreme Court building in Moscow on Monday as a case concerning the opposition party's exclusion from the parliamentary election was being heard, Yabloko leader Nikolai Rybakov reported. Yabloko released videos showing the arrests.]]></description>
             <link>https://www.yahoo.com/news/world/articles/supporters-anti-war-yabloko-arrested-103528808.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/supporters-anti-war-yabloko-arrested-103528808.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Dundee-based conservators carried out work on the artwork, which was inspired by the Massacre of Glencoe.]]></description>
             <link>https://www.yahoo.com/news/world/articles/restored-widow-glencoe-painting-unveiled-103026231.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/restored-widow-glencoe-painting-unveiled-103026231.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F2844DA77BD8BBCA268626C6BD56A7E1632D2F5DB47C1E123A1FD48C40E79070/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fa0c3a823a76354af3cceb29c3216775f.jpg" alt="" /></p>An American man hiking up Italy's active Mount Etna volcano was killed by a lightning strike, the national news agency ANSA reports.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-tourist-reportedly-killed-lightning-102620709.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-tourist-reportedly-killed-lightning-102620709.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +64,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08145D25EA91A58C5B7D07B4C94CE5D7C355FF56A3A823D000AE3CDDF64EC8C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F5d69b0801ad5b264f5b3c7a6b1675029.jpg" alt="" /></p>Vladimir Putin’s annual military band festival has been canceled for only the second time ever, as the Russian president’s public humiliation spirals. Organizers of the Spasskaya Tower International Military Music Festival, which was due to start on Aug. 21 and run for nine days, released a mysterious statement on Monday, citing “reasons beyond the organizers’ control.” The festival, which features performances on Red Square by military bands from across the world, has been held since 2007 with]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-military-festival-axed-humiliating-094928328.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-military-festival-axed-humiliating-094928328.html</guid>
-            <dc:creator><![CDATA[The Daily Beast]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +71,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97EE3C59DA89FB2F7E95B945B5F9DF963FCB526470960A9A104A37554B8B731E/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ff89dd609b57a7849bd33ea73c872591d.jpg" alt="" /></p>Iran said Monday it is working to finalize a joint statement with Oman on a plan to manage the transit of ships through the Strait of Hormuz.  Fully reopening the waterway to commercial shipping has been a key demand of the United States, but it remains unclear whether the deal will meet Washington's criteria.  The announcement came as the 60-day negotiating period to find a peace deal between the U.S. and Iran was expiring, with no word of an extension and both sides seemingly as far apart as they were two months ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-working-finalize-hormuz-agreement-093755581.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-working-finalize-hormuz-agreement-093755581.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Mon, 17 Aug 2026 10:54:56 GMT</pubDate>
         </item>
         <item>
@@ -7015,20 +7024,6 @@ hmw/fg]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/339F91F36F098A6A49A2776E6466D0ADD6FE8A7A1E83F36ACDC790910FBBE244/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F56dc65432e2df16140c709ab6a5bd706.jpg" alt="" /></p>Ukrainian anti-ship missiles, jet-powered aerial drones and sea drones blitzed a major Russian naval base on the Black Sea coast in a “unique” nighttime operation, Ukrainian President Volodymyr Zelenskyy said Wednesday.  Cutting-edge drones developed by Kyiv since Russia invaded more than four years ago have repeatedly targeted Russian ships in the Black Sea, including warships and oil tankers.  Both countries have Black Sea shorelines.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraines-zelenskyy-says-nighttime-blitz-092010876.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraines-zelenskyy-says-nighttime-blitz-092010876.html</guid>
-            <pubDate>Wed, 12 Aug 2026 09:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['To make the civilians leave': Russia pummels Ukraine's petrol stations]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F1C2B30E6AE516C482F129F4E323CFBFE2549D4F380C643D752485CF0A33BC39/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F630bc43b387a1d92c3a79df208b086ff.jpg" alt="" /></p>A streak across the sky, then a muffled blast."I put up the barrier tape, cleared everyone out, and had barely reached my car when I heard the whistle of the missile," he told AFP, pointing to a small building ripped open by the blast.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/civilians-leave-russia-pummels-ukraines-091626513.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/civilians-leave-russia-pummels-ukraines-091626513.html</guid>
-            <pubDate>Wed, 12 Aug 2026 09:37:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The real question isn't why North Koreans don't resist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0C35045BC5A97600F79AB93EEE8C0BEDF2C7CCDD8E6394E118F0649C5C48AC3/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fd2e9db8b125afe99e80adb28779e9187.jpg" alt="" /></p>People believe the first world they encounter is the normal one. For North Koreans, dictatorship is that kind of presence -- they way things are.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/real-isnt-why-north-koreans-143814094.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/real-isnt-why-north-koreans-143814094.html</guid>
             <pubDate>Wed, 12 Aug 2026 09:37:27 GMT</pubDate>
         </item>
     </channel>
