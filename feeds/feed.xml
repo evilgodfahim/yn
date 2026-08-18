@@ -4,16 +4,63 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 17:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 17:51:14 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Zimbabwe ferry death toll reaches 94 as government confirms it was over capacity]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51dcded5adedcdee34cce2e8f17ad8858c0c7e11106f8e7eba2344b3270d8608/lightyear_networkapi/smartcrop_w1000_h562_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8e4aee364b0d9ea4afaa56a4ec809abc.jpg" alt="" /></p>Source: Reuters]]></description>
+            <link>https://www.yahoo.com/news/articles/zimbabwe-ferry-death-toll-reaches-172918326.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/articles/zimbabwe-ferry-death-toll-reaches-172918326.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earthquake rocks Spain's historic Granada, injuring three]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c1be079c04842a70ce813ad67d3b07cb919102b8311e9ff17df9860d8eedf8a6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F08d6b3d0583ebfb033bf0469eb084652.jpg" alt="" /></p>A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/earthquake-rocks-spains-historic-granada-171543390.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/earthquake-rocks-spains-historic-granada-171543390.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nuclear material discovered in Syria, FM says it will remain under Damascus's control]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/655665d1cd64c5eaf6f6028066addf0fbbc4d93d139b2679d9726ad795891f3b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F0db48aaf70a97aec6beaac67196459fe.jpg" alt="" /></p>According to the report, Syria's foreign minister emphasized that the material, discovered in Syria's Dier ez-Zor site, will remain in Syrian custody, "subject to IAEA guarantees. " Nuclear material in Syria was discovered and collected by the International Atomic Energy Agency (IAEA), Saudi state-owned Al-Hadath reported on Tuesday, citing confirmation by Syrian Foreign Minister Asaad Hassan al-Shaibani.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nuclear-material-discovered-syria-fm-172338383.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nuclear-material-discovered-syria-fm-172338383.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shakira, Warren Buffett's son join Colombia school rebuilding effort]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6d27d635b864bbc24390c9f0ff6a51886ff24319d2c77f8c162913a4f3863d2d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc95904ea7efbf30324f49769ebf054c8.jpg" alt="" /></p>Colombian singer Shakira and philanthropist Howard Graham Buffett, son of U.S. billionaire Warren Buffett, are working to rebuild schools in Colombia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/shakira-warren-buffetts-son-join-171442685.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/shakira-warren-buffetts-son-join-171442685.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nuclear material ‘that could be put to bad use’ found in Syria]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a906bb57f4fc969d6cc848d1cf5e4c40122d7e58caf1f11b2b2fb53e7cf8a9f4/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa897d5c46a517c1db5d4464acbc3d58c.jpg" alt="" /></p>Several tons of nuclear material has been discovered at a previously undisclosed site in Syria, the United Nations’ nuclear watchdog has said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nuclear-material-could-put-bad-161656986.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nuclear-material-could-put-bad-161656986.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighting in southwestern Somalia kills dozens of people, including 4 civilians]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dcb2a81d2d1510aa5ac3fb6169a8d8c0070775d48d4fd11e497524908a033549/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fef7ca6c7543aa158ecc690b0925765e9.jpg" alt="" /></p>Hours of fierce fighting between government troops and militias that killed dozens of combatants in Somalia’s southwestern city of Baidoa also left at least four civilians dead and 98 others wounded, a hospital official said Tuesday.  Dr. Abdikafi Omar Mohamud, head of the emergencies department at Bay Regional Hospital in Baidoa, said the fighting also killed at least four civilians and injured 98, including 28 women and an elderly man hit by stray bullets.  The latest violence placed additional pressure on health services already struggling to serve residents and displacement camps in Baidoa, about 245 kilometers (150 miles) northwest of Mogadishu.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fighting-southwestern-somalia-kills-dozens-154036015.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fighting-southwestern-somalia-kills-dozens-154036015.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Tue, 18 Aug 2026 17:51:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Key border crossing between Argentina and Chile reopens after weather closure]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f9a9e9f3dc06122f6066b15c2737f2d93b41aa599744b23f9b07989e0be9e339/lightyear_networkapi/smartcrop_w1000_h562_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F26462b02f49f165c07634b27f9fa6817.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/key-border-crossing-between-argentina-170502309.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/key-border-crossing-between-argentina-170502309.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +68,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3477e5141aa24a8b1aaefc428d6c318d35eaccd0dd32ab8f0cdfe69174a5108b/lightyear_networkapi/smartcrop_w986_h662_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F378d3984fb82c1a3fd84b9186e1d53c0.jpg" alt="" /></p>Source: Reuters]]></description>
             <link>https://www.yahoo.com/news/articles/israel-kills-six-gaza-day-170136310.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/articles/israel-kills-six-gaza-day-170136310.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +75,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b37f8570ff5c55590764114fe99c000fc0c1bece62a86c985a4a074b43a25829/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc11770b69d3096a02e7c569bea15a11a.jpg" alt="" /></p>MOSCOW, Aug 18 (Reuters) - Russian President Vladimir Putin held talks in Moscow on Tuesday with Myanmar's junta chief-turned-president, Min Aung Hlaing, discussing a wide range of issues including]]></description>
             <link>https://www.yahoo.com/news/world/articles/russias-putin-hosts-myanmar-leader-170924410.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russias-putin-hosts-myanmar-leader-170924410.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +83,6 @@
 Roudy passed away Tuesday morning in a medical care facility in southern France where she had lived for three years, her nephew Jean-Pierre Saldou said. "Right to the end, she remained a demanding, independent and tireless campaigner, convinced that women's rights are never definitively won," said Aurore Berge, France's current minister for gender equali]]></description>
             <link>https://www.yahoo.com/news/world/articles/frances-first-womens-rights-minister-170440831.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/frances-first-womens-rights-minister-170440831.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +90,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b7d6849739c2e4c1e0b6a6aade847316036f0bc52c352b7596ff5cd4fb544012/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fd33f8301de27e239e2eaef3d6bf62cb8.jpg" alt="" /></p>"They miss socialization with other elephants for most of their lives."]]></description>
             <link>https://www.yahoo.com/news/world/articles/india-forest-refuge-helps-abused-164400715.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/india-forest-refuge-helps-abused-164400715.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +97,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d443b8547eb129dfece9af66a4dd3974a651b81635babacc352da940780bf228/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F8399eef8e5a5e10fd4aa8ff7f457e7d3.jpg" alt="" /></p>Ukraine's battlefield experience is showing Norway why electronic warfare has become a priority again.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nato-commander-says-training-ukrainian-162013154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nato-commander-says-training-ukrainian-162013154.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -62,7 +104,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dc39cdc4e9589df9d7e50887f7bb3244282e58a9aa6f502a97c80713c2291542/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F531008406ca0119697acf70769bdddf3.jpg" alt="" /></p>Ukraine targets Moscow with a huge wave of drones as Russia warns the U.K. will pay a price for supplying Kyiv with long-range weapons.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-drones-russia-155516512.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-drones-russia-155516512.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -70,7 +111,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f8cbe6e829b6e492613c3b05b1881ca2b7f3db031ae2f329bd666450a3eca007/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4ba36e5da229d74c36fed56e23041f79.jpg" alt="" /></p>Germany on Tuesday opened a new drone defence research centre to help combat the growing threat posed by unmanned aerial vehicles after a surge in suspicious sightings over critical infrastructure. Last year nearly 1,000 suspicious drones flew over critical infrastructure in Germany, according to police.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germany-opens-drone-research-centre-154826136.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-opens-drone-research-centre-154826136.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
         </item>
         <item>
@@ -6990,48 +7030,6 @@ tsq-gf-as/giv]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/C1B743E37FE94F34BF7CD1C6CF9CD9A2260519B559D18F85E5012CD696F99ED9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F9db493a9df4a5b3adf792a7c1e8bd968.jpg" alt="" /></p>Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dr-congo-ebola-outbreak-spreads-171801084.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-ebola-outbreak-spreads-171801084.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two killed in Russian drone strike on passenger train in Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/B6805EEA09B95EDAB60A7E0466223DD1763E5CB1AFB4D03545FD29A55FD7858B/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa96259c865e83395b77f9d1ef6feecb5.jpg" alt="" /></p>A Russian drone strike on a passenger train in the Odessa region of southern Ukraine has killed the train driver and his assistant, Ukrainian Railways said on Thursday. The 340 passengers on board were being evacuated, the state rail operator said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-killed-russian-drone-strike-170329684.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-killed-russian-drone-strike-170329684.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mali's army frees 82 soldiers from Islamist militias]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/79C6E9E088EE3DFC2AF2D92168779E091FB7AFC6227F7D06B955B52DF444C3F1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc5104f463f1e40a602dc04f821194524.jpg" alt="" /></p>Dozens of soldiers kept hostage for months by Islamist militias in Mali have been freed by government forces, army officials in the West African country announced on Thursday. The 82 captives had been held since April by a coalition of Tuareg rebels from the FLA (Azawad Liberation Front) and the al-Qaeda-affiliated terrorist group JNIM, the authorities said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/malis-army-frees-82-soldiers-170329123.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malis-army-frees-82-soldiers-170329123.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nero’s Bridge emerges from Tiber River as Rome faces water crisis]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86DAE8E333A4DFBBABF326FA727880E3B3309281A6B956A4C4DF19A343CB42B0/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F568d01bd470c8641c7b726b0df29c29b.jpg" alt="" /></p>The remains of an ancient bridge have emerged in Rome’s Tiber River, near St. Peter’s Basilica, as weeks with virtually no rain caused water levels to plunge.  The bridge — known as Nero's Bridge, named for the former Roman emperor — once connected Rome’s city center with the Tiber’s right bank.  “Nero is the most famous person linked to this area, because precisely in Nero’s circus, where the Vatican is now located, the Apostle Peter was martyred,” said Antonella Bonini, an archaeologist at Rome’s cultural heritage superintendency.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nero-bridge-emerges-tiber-river-165915195.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nero-bridge-emerges-tiber-river-165915195.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Train derails near Lewes in East Sussex, British Transport Police say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0E1B9C0431A0C78B8E73809BFD7A570B8CA872644DF64F5CD4CCA12F0D4C3859/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>The force says it is responding alongside paramedics and the fire service, as Southern Rail says major disruption is expected until 22:00 BST.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/train-derails-near-lewes-east-161734169.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/train-derails-near-lewes-east-161734169.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[They've survived 2 major earthquakes in Colombia: "A sense of powerlessness"]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65B77FD95692FC3993D6D4885242527B4C52FB2ACFFCB4A6D39A375B8DB70FB9/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F8e8d99c35c46e3943b416bdb3f13b873.jpg" alt="" /></p>Colombia earthquake survivors are facing major loss and a yearslong road to recovery filled with grief and uncertainty. Here's what responders say will happen next.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/theyve-survived-2-major-earthquakes-164645270.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/theyve-survived-2-major-earthquakes-164645270.html</guid>
-            <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Discord Ordered to Halt Livestreaming After Death in Brazil]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/DE2DB3410379EB4D8FE0F6CA614F4122A186FA0595C4B85533200ECD3EC32452/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbounding_into_comics_671%2F414dff32eae7a43f1ade1a6b33ecaa47.jpg" alt="" /></p>Discord ordered to halt livestreaming service in Brazil after the death of a 13-year-old girl who was allegedly encouraged by]]></description>
-            <link>https://www.yahoo.com/news/world/articles/discord-ordered-halt-livestreaming-death-164500766.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/discord-ordered-halt-livestreaming-death-164500766.html</guid>
             <pubDate>Thu, 13 Aug 2026 17:26:46 GMT</pubDate>
         </item>
     </channel>
