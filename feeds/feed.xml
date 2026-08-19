@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 21:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 21:48:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 21:48:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Protesters dressed as Gandalf surround Palantir founder’s house]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0677fc0e00b36fb66a4836612d99df886dcc9d3f72235d9e832586d9086ee6fe/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F19d35aa8fd68ccacebb4147977d11415.jpg" alt="" /></p>Protesters dressed as Gandalf from The Lord of the Rings protested outside the Buenos Aires home of Peter Thiel, a Palantir co-founder.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/protesters-dressed-gandalf-surround-palantir-203250473.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/protesters-dressed-gandalf-surround-palantir-203250473.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 21:48:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spain plans transfer of 500 migrant children from Ceuta to mainland]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51b8e573f20cf558dd287e5457119ae9ddf3a2c4b96a45f9587a2c5b8855ea0e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fc01f18d593ea85b14512fefd58d1020d.jpg" alt="" /></p>Ceuta leaders want children returned to Morocco, but Madrid says deporting them is ‘outrageous’.]]></description>
             <link>https://www.yahoo.com/news/world/articles/spain-plans-transfer-500-migrant-205355485.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-plans-transfer-500-migrant-205355485.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d40028246d7b90367a495088a49c33391e272b71fa73e8957927753eb7f470e1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2786b4b65b169e1f3db0a8820420c1ef.jpg" alt="" /></p>A man has been charged with murder after a woman was stabbed to death in west London.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-charged-murder-woman-stabbed-205126037.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-charged-murder-woman-stabbed-205126037.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/be2510fa45f30be4a3b574d815edcaa0fe9d413ac16dd2a6a4d4059a80a3165c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffabdce1a975401081161621b64830116.jpg" alt="" /></p>Ecuador's intelligence chief and five US citizens died when a tourist helicopter crashed in central Kenya on Wednesday, killing all seven people on board, officials said.Ecuador's Transport Minister Roberto Luque said the Latin American nation's intelligence chief Michele Sensi-Contugi and his wife were among those killed.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ecuador-intel-chief-five-americans-204632920.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ecuador-intel-chief-five-americans-204632920.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8afecd3c6bbda318de47149bb824de8273c8b1f5bac28429f5fbe0add2e4945c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F25af974a6d023588bb2689be6f17a1dc.jpg" alt="" /></p>Liberia has charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering and other offenses as part of an investigation into an alleged transnational narcotics network, the Justice Ministry said Wednesday.  Howard-Taylor, who was vice president from 2018 to 2024, was stopped while attempting to leave Liberia at Roberts International Airport and taken to Liberia National Police headquarters, the ministry said in a statement.]]></description>
             <link>https://www.yahoo.com/news/world/articles/liberia-charges-former-vice-president-203128915.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/liberia-charges-former-vice-president-203128915.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9ae13a1b09e782523b4b0eb91d3e51a2de4adbbc0e28c00e3a89cebfc252f5da/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fguessing_headlights_178%2Fee1c7e986f27f4f9ae6e36c5f9b44f97.jpg" alt="" /></p>A dirt bike rider’s attempt to back away from a police officer didn’t end well for them. The rider ended up on the ground with the motorcycle moving without him. The bike headed toward people ... Read more]]></description>
             <link>https://www.yahoo.com/news/world/articles/rider-falls-stolen-dirt-bike-201500315.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rider-falls-stolen-dirt-bike-201500315.html</guid>
-            <dc:creator><![CDATA[Guessing Headlights]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 21:18:52 GMT</pubDate>
         </item>
         <item>
@@ -7016,13 +7019,6 @@ The argument that men also have to pay to use a cubicle does not hold up because
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/A0B3B7C5D0C1F3A957E2CBFB67B59923108AB9744EAC5E0A7CF61F72198D43C4/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fff8defce4e6dab893a0d428f781a41e0.jpg" alt="" /></p>A 7.7-magnitude earthquake struck off the coast of Indonesia, triggering a tsunami warning. No casualties or damage were immediately reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/powerful-7-7-magnitude-quake-003003837.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/powerful-7-7-magnitude-quake-003003837.html</guid>
-            <pubDate>Sat, 15 Aug 2026 00:45:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN urges support for Afghan women’s aid five years into Taliban rule]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/F97D0B3EAC4318A81146E317029E732FB7A6110A7725526224F20380BA7F994D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F3ab9f8b7f36fdb373b1c3dd5d4f5a54a.jpg" alt="" /></p>More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-urges-support-afghan-women-002326068.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-urges-support-afghan-women-002326068.html</guid>
             <pubDate>Sat, 15 Aug 2026 00:45:58 GMT</pubDate>
         </item>
     </channel>
