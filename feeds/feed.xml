@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 20:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 20:51:45 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 20:51:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two accused of drug trafficking after UK-Nigeria investigation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d028773f371c2b5a12cf859cce6bf1826cc78bed8f36d526061b3fd08f11c14d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0e2d6fc40c0d97a24d6bcf19d6fb1afa.jpg" alt="" /></p>The Metropolitan Police say the man and woman were arrested following the seizure of more than 180kg (397lb) of cocaine this month.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-accused-drug-trafficking-uk-200447708.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-accused-drug-trafficking-uk-200447708.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 20:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK considers softer EV targets even as sales climb, oil prices rise, and wildfires worsen]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f9736c9817f364a0005c8085cc71c1b7435da13a288edf61edfe163141b7622f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ff69dec51f86ae0c7905491a9896f58ef.jpg" alt="" /></p>UK households are facing this fight over EV policy during an especially difficult period.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uk-considers-softer-ev-targets-195900032.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-considers-softer-ev-targets-195900032.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 20:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven people, mostly foreign tourists, killed in helicopter crash in Kenya]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d32ab98960dcfcdf9a65a4bacf15ea8ec19d4aa6e697c8c4b3b5984ba7686cc8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fccd7b527a379c90f6e0e31bc8531eb13.jpg" alt="" /></p>Ecuador’s intelligence chief Michele Sensi-Contugi and NBCUniversal journalist Jose Suarez are among the dead.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/seven-people-mostly-foreign-tourists-195312822.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/seven-people-mostly-foreign-tourists-195312822.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 20:51:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Germany weighs response as Ben-Gvir remarks draw criticism]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f5f312a45ff45f30a9f190f1d0b89e7fb1b7862331eb71280bcc7bc964513e46/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbd2fcf721aff6762f693fe1a1155186a.jpg" alt="" /></p>Calls for targeted killings of Palestinians in the Gaza Strip by Israeli National Security Minister Itamar Ben-Gvir have prompted sharp criticism in Germany, but it remains unclear how far the government is prepared to go in responding to the remarks. Foreign Minister Johann Wadephul joined colleagues on Wednesday in sharply criticizing the remarks made by Ben-Gvir in a podcast aired over the weekend.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germany-weighs-response-ben-gvir-194841731.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-weighs-response-ben-gvir-194841731.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b53114102674906702fa97e664126f475cb7382671458d4bd3dbce5c7fc46519/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdcac5908d6c8ee2b711fef9372121e60.jpg" alt="" /></p>Firefighters battling a massive wildfire in Belgium's High Fens nature reserve near the German border have managed to encircle the blaze five days after it broke out, Belgian officials said on Wednesday. "This is a positive development on the ground," said Hervé Jamar, governor of the Belgian province of Liège.]]></description>
             <link>https://www.yahoo.com/news/world/articles/firefighters-encircle-massive-wildfire-belgium-194841425.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighters-encircle-massive-wildfire-belgium-194841425.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4b7045616136428963f32e1f1f7e869c0a6d12f6c1b5ad643ec39f000f5258cc/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8f83e4b130510866622f2988aebedd12.jpg" alt="" /></p>The intensifying use of drones against civilians and humanitarian workers is a dangerous obstacle for aid operations in Ukraine, the U.N.'s humanitarian chief, Tom Fletcher, said on Wednesday.  Fletcher spoke to The Associated Press in an interview after a visit to the southern city of Kherson, where he witnessed how communities there are coping while living under the constant threat of Russian drones. Fletcher described the visit to Kherson, split by the Dnipro River, which acts as an active front line, as “quite chilling."]]></description>
             <link>https://www.yahoo.com/news/world/articles/un-aid-chief-warns-russian-193507779.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-aid-chief-warns-russian-193507779.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7948751f98492f95c1382f3834ce9a6a7f7fccdfd5e8b0935946a6281550ee23/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F592d55e4358ce40e14678e93d916750a.jpg" alt="" /></p>Five Americans and the director general of Ecuador’s intelligence agency died in a helicopter crash in Kenya on Wednesday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/five-americans-ecuador-intelligence-chief-193356304.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-americans-ecuador-intelligence-chief-193356304.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a192f0c1b38bc4a0f5f437ad73dda9ca5d42a86090cdf277b0218c5e5421ae67/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fa3e19dde63b7ef08a2125341cc803d03.png" alt="" /></p>More than 100 people have been killed and rescue efforts are continuing, an official tells the BBC.]]></description>
             <link>https://www.yahoo.com/news/world/articles/gold-mine-hit-deadly-landslide-191351596.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gold-mine-hit-deadly-landslide-191351596.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/14814ca1206b7ed9782c1d617427b96932f8351aa1ba435dd2008f2f282fa6b9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4ef97d6a834277a64431be11e46f169e.jpg" alt="" /></p>By Alphonso Toweh and Carielle Doe MONROVIA, Aug 19 (Reuters) - Liberia has charged former Vice President Jewel Howard-Taylor with drug trafficking, money laundering and other offenses as part of an]]></description>
             <link>https://www.yahoo.com/news/world/articles/liberias-former-vice-president-charged-181427509.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/liberias-former-vice-president-charged-181427509.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9780d9c527a19728f9e5b69a9c33395ffda7083e5b61870be15f0292ecd1875b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F118bbe15abb173c5e205e3d8f4f47491.jpg" alt="" /></p>Camilla explained that King Charles was adamant about continuing his work because it helped him cope.]]></description>
             <link>https://www.yahoo.com/news/world/articles/queen-camilla-found-hard-keep-174534233.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/queen-camilla-found-hard-keep-174534233.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 20:17:43 GMT</pubDate>
         </item>
         <item>
@@ -7005,27 +7022,6 @@ The argument that men also have to pay to use a cubicle does not hold up because
             <link>https://www.yahoo.com/news/world/articles/ukraine-avoided-blackouts-during-record-222400416.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-avoided-blackouts-during-record-222400416.html</guid>
             <pubDate>Fri, 14 Aug 2026 23:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian State Bank Economist Warns of Social Crisis Over War Costs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/CEF55157D81EADCDDD0E73219900334E33B83175B2BD905DF18366CF94EA9A6A/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F329b2f92bb4acca1ad5dbdfa5e7a5486.jpg" alt="" /></p>The chief economist of the Kremlin’s top state bank has defied Vladimir Putin and sounded the alarm about Russia’s flailing war with Ukraine. Andrei Klepach, chief economist at Vnesheconombank and a former Putin appointee, gave a scathing assessment of where things stand for Russia at a Moscow forum, according to The Moscow Times. “We’re falling behind,” Klepach was quoted as saying. “We’re losing both the technological and economic competition globally. And, as I’ve already said, we’re losing n]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-state-bank-economist-warns-212907277.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-state-bank-economist-warns-212907277.html</guid>
-            <pubDate>Fri, 14 Aug 2026 22:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian Construction Workers Find $10 Million in Gold]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3523E359D7DE18C8D8E3711949FBCB276A689CDE3CF050A2BC74E28CF86B9E54/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F3a95e2f4228e5716f8241bee6f2ca7f2.jpg" alt="" /></p>Belgian Construction Workers Find $10 Million in Gold]]></description>
-            <link>https://www.yahoo.com/news/world/articles/belgian-construction-workers-10-million-211255015.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/belgian-construction-workers-10-million-211255015.html</guid>
-            <pubDate>Fri, 14 Aug 2026 22:46:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mexico's Indigenous chief justice hits back at discrimination]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2340FFF9C039710D686289AE2EFAC8037C8BC04D9310F4BD0FDC5D0915A25FB1/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F20db74131c30604562442f6331371a1f.jpg" alt="" /></p>Mexico's Supreme Court chief justice told AFP he faces discrimination on a daily basis over his Indigenous roots.He urged patience with the reform, acknowledging how challenging it is to root out the corruption that blights Mexico's justice system.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mexicos-indigenous-chief-justice-hits-214951311.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mexicos-indigenous-chief-justice-hits-214951311.html</guid>
-            <pubDate>Fri, 14 Aug 2026 22:14:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
