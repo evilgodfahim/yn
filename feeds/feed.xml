@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Aug 2026 05:00:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Aug 2026 05:34:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Aug 2026 05:00:15 GMT</pubDate>
+        <pubDate>Wed, 19 Aug 2026 05:34:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Thai teen found in suitcase died from suffocation, police reveal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/267a6fe671ccc08bd52aa67aad791eefc90544ae4ebcf76c46281235f48cc50c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F9c1a8d5bca89bb5c5338b23cdc8e3631.jpg" alt="" /></p>New evidence sheds more light on the death of Tunchanok Donholma, who was allegedly murdered in June.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/thai-teen-found-suitcase-died-050431876.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thai-teen-found-suitcase-died-050431876.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 05:34:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE imposes indefinite trade embargo on Iran over alleged missile attacks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94f6573588310403a6730f46b3d73663393459a1e0db1bcf3c1b8899bff5f617/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa645dfbbcdc3829df778630a2ea895c6.jpg" alt="" /></p>Iran denies launching missiles at the UAE, suggesting the incident was a ‘false flag operation’.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/uae-imposes-indefinite-trade-embargo-033440818.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uae-imposes-indefinite-trade-embargo-033440818.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 19 Aug 2026 05:34:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A warehouse burns near Moscow. In Ukraine, drone crews prepare to strike again]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81c506bd8b132c6eeec38c9b2505314ef65c2efea68dccffdead3eda89397354/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5a8dbd885afbe2d8bed06e79b4a98deb.jpg" alt="" /></p>Waves of Ukrainian drones targeted the massive logistics center outside Moscow overnight.  The next morning, it was still ablaze, dark smoke rising into the sky from what was one of Russia’s largest retail warehouses.  A small group of soldiers quickly assembled in a sunflower field in southern Ukraine, gathering around 20 small planelike drones laden with explosives, before launching them toward Russia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/warehouse-burns-near-moscow-ukraine-040542301.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/warehouse-burns-near-moscow-ukraine-040542301.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 05:00:15 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68a8f9fc4974c22381d0f893ace759c63833b61307f3dd8f979bfbd874f6442a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe8a6cb69ab73144112ba294049bfff19.jpg" alt="" /></p>In China's hilly Guizhou province, a cluster of European-style buildings complete with clock tower and multi-arched bridge emits a low, permanent hum -- a clue to its unexpected identity as tech giant Huawei's largest data centre.Dozens ofdata centres have been constructed in the southwestern province in recent years.]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-goes-rural-data-centres-030908986.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-goes-rural-data-centres-030908986.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 05:00:15 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/462aa7035e573e08703254f693416bd55f67c7b0d9811b73cc2f77db87d6b5bd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fae2964f587cd2be6d8bbab2910e815f8.jpg" alt="" /></p>Triple-murderer Erin Patterson appealed her convictions Wednesday for poisoning four of her estranged husband’s relatives with death cap mushrooms.  Three judges of the Victoria state Court of Appeal are hearing her appeal over two days against her convictions on three counts of murder and one of attempted murder relating to a lunch of beef Wellington pastries she prepared at her rural home in Leongatha in July 2023.  Prosecutors are appealing the leniency of her sentence.]]></description>
             <link>https://www.yahoo.com/news/world/articles/erin-patterson-appeals-3-murder-030902290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/erin-patterson-appeals-3-murder-030902290.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 05:00:15 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/533a67070b86b17d00161cdc7e3228feffcd447bcf2a8c0b4be3a9f68300beda/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F94f805ae1d0b19041add3bdc17feb4a4.jpg" alt="" /></p>Twisha Sharma, a model and actor, had been married for just five months when she was found dead in May.]]></description>
             <link>https://www.yahoo.com/news/world/articles/husband-mother-law-charged-over-030412290.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/husband-mother-law-charged-over-030412290.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 19 Aug 2026 05:00:15 GMT</pubDate>
         </item>
         <item>
@@ -7014,20 +7026,6 @@ tsq-gf-as/giv]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/65C267AA5228BDB4B495A4C83E68FBB2ED74F0826333FF565EA65B75B0DF4F7D/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0c7661397c189f3a70f923658267f6f6.jpg" alt="" /></p>Operations at Catania airport on the Italian Mediterranean island of Sicily have again been suspended because of the latest eruption of Mount Etna during the peak holiday season. There will be no arrivals or departures until 2 am (0000 GMT) on Saturday, the airport said late on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/catania-airport-shuts-again-etna-063336726.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/catania-airport-shuts-again-etna-063336726.html</guid>
-            <pubDate>Fri, 14 Aug 2026 06:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel’s Christians rely on faith and allies as they fear rising harassment]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/023631A44D88F7F526ED3B29C287697B84F5AF698A2D406576061C359694E149/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4ce9b60e14094c3f08146b8059bdfc4d.jpg" alt="" /></p>Sister Mayela wears her black veil and habit as she walks to work near where another Catholic nun was violently attacked in Jerusalem’s Old City — but she’s now accompanied by a Jewish volunteer for protection.  Many Christians in Israel, who make up less than 2% of the country’s population, are worried visible signs of their faith will draw harassment, which has increased as multiple conflicts grip the region.  “I’m scared after the sister was beat up,” said Sister Mayela, a Mexican nun who’s lived in Jerusalem on and off for more than two decades.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/israel-christians-rely-faith-allies-060946491.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-christians-rely-faith-allies-060946491.html</guid>
-            <pubDate>Fri, 14 Aug 2026 06:51:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scotland's papers: Fire service 'creaking and straining' and cone attack victim defiant]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/38D5868142017FBA4FF27C3828A4763D325F7F8CD4D1F906100FCA1D039273EE/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F27c601520061e7a959d2634667609dda.png" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/scotlands-papers-fire-creaking-straining-060115713.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-fire-creaking-straining-060115713.html</guid>
             <pubDate>Fri, 14 Aug 2026 06:51:52 GMT</pubDate>
         </item>
     </channel>
