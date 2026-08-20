@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 22:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 23:18:20 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 22:51:57 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 23:18:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Former Pakistan PM Imran Khan moved to hospital after court order, his party says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/db3a952b9dda8a021ddd7e99ac8ace69088ff648ed87e96416d82ecc304ddc39/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F79d884c6e5a15492be7bea9673d2ca3e.jpg" alt="" /></p>By Ariba Shahid and Mubasher Bukhari Aug 21 (Reuters) - Jailed former Pakistani Prime Minister Imran Khan was transferred to a hospital in Islamabad early on Friday for medical examination, his party]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pakistan-ex-pm-imran-khan-201447901.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-ex-pm-imran-khan-201447901.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 23:18:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ukraine strikes Crimea, killing two near Simferopol]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/90e1e752be9b0876abbc3dbe6633e4278ce1fef19e22e3d3a7716a5d28d4dc98/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F663c1458697686b75512eeb0874828d8.jpg" alt="" /></p>Two people have been killed, and three others injured in a Ukrainian strike near the city of Simferopol on the Russian-annexed Crimean Peninsula, the occupation authorities said on Thursday. Sergei Aksyonov, the Moscow-installed governor, said on Telegram that a further person had been injured elsewhere on the peninsula.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-strikes-crimea-killing-two-211846487.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-strikes-crimea-killing-two-211846487.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Thu, 20 Aug 2026 22:51:57 GMT</pubDate>
         </item>
         <item>
@@ -7013,13 +7020,6 @@ More than 200 murals have been created since the festival began, which, in addit
             <link>https://www.yahoo.com/news/world/articles/renaissance-artworks-stolen-painter-hometown-133113907.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/renaissance-artworks-stolen-painter-hometown-133113907.html</guid>
             <pubDate>Sun, 16 Aug 2026 14:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iranian military chief places $30,000 bounty on killed, captured US soldiers]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/E39F3D969E836107590E64B8383ED3811FEF962457892058131F2F0766DE6772/subgraphmysterio/smartcrop_w896_h504_faces;quality_95/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F686c25866b59b0c57e624276b6246cd7.jpg" alt="" /></p>The reward will reportedly be granted to any Iranian soldier from "the Iranian people. " A $30,000 reward for captured or killed United States service members has been announced by Iranian Army Commander-in-Chief Amir Hatami, the Islamic Republic of Iran Broadcasting (IRIB) revealed in a Sunday post on X/Twitter.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iranian-military-chief-places-30-140528984.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-military-chief-places-30-140528984.html</guid>
-            <pubDate>Sun, 16 Aug 2026 14:14:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
