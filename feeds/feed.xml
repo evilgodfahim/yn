@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 04:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 04:57:41 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 04:02:59 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 04:57:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[German climber, 19, dies in 40-metre fall in Austrian Alps]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6ead6e33ec3500fde34939d0267697ab5e3cf4088fc4dd00c8f5846babbf79ad/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa8f82eb6592dcc8d7323df5067c2e252.jpg" alt="" /></p>A 19-year-old German climber has died after falling around 40 metres in an accident on Austria's Grossglockner mountain, police said. The accident happened on Friday afternoon at a climbing area in Kals in the state of Tyrol, according to police.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-climber-19-dies-40-001842588.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-climber-19-dies-40-001842588.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 04:57:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Voice of Hind Rajab’ Director Slams Israeli Military Investigation Into 5-Year-Old Girl’s Death as a “Smokescreen”]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f261513acda46e89f26c37eb8eab4f0fee2aa734ecc3e78c67810b32779cb6cd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hollywood_reporter_217%2F396cae10156f564d54a2fe1aed613d3e.jpg" alt="" /></p>"What is needed now is not a public relations operation. What is needed is justice (delivered by an independent authority) for Hind and for all the victims of the genocide in Gaza," Kaouther Ben Hania, who helmed the Oscar-nominated docudrama, said, dismissing the criminal probe announced this week as Rajab's mother also called for an independent inquiry.]]></description>
             <link>https://www.yahoo.com/news/world/articles/voice-hind-rajab-director-slams-000309636.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/voice-hind-rajab-director-slams-000309636.html</guid>
-            <dc:creator><![CDATA[The Hollywood Reporter]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 04:02:59 GMT</pubDate>
         </item>
         <item>
@@ -7011,13 +7018,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7cec602140d526a51fe4858a4c70c01c01435f85e77804cbe1f153aec1fa8a8b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F64c045730c4b8b44d46c2b39c6940859.jpg" alt="" /></p>The military said that both terrorists were suspected by the Shin Bet of planning and promoting terrorist plots to harm the citizens of the State of Israel and the IDF. IDF soldiers detained two terrorists and raided more than 100 houses near Jenin in the West Bank during a Monday operation, the military said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-arrests-two-terrorists-raids-001925004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-arrests-two-terrorists-raids-001925004.html</guid>
-            <pubDate>Tue, 18 Aug 2026 00:45:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UN rights commissioner calls for immediate end to fighting in Yemen]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dd0027f7d3b78e053bc80a63747b6485e36f7c0729b771397495b81c5f09d838/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc5dacd54072f8eb601b160ba03ad9d0b.jpg" alt="" /></p>The UN human rights office on Monday called on government forces and Houthi rebels in Yemen to immediately halt attacks on each other following the latest escalation in the conflict. "I urge all parties to halt immediately any actions that risk returning Yemen to full-scale conflict," UN High Commissioner for Human Rights Volker Türk said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-rights-commissioner-calls-immediate-234835200.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-rights-commissioner-calls-immediate-234835200.html</guid>
             <pubDate>Tue, 18 Aug 2026 00:45:25 GMT</pubDate>
         </item>
     </channel>
