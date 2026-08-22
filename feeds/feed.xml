@@ -4,16 +4,32 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 15:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 15:43:41 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 15:12:31 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 15:43:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Israeli drone strike on ‘civilian vehicle’ injures several in Syria]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0e33fee94178919d683d3a18b790e41e241b5cb5efa6e05e45b6bbfd261176fa/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F28a63833b982ad7328d209f93134726c.jpg" alt="" /></p>Syria condemns attack in southwest as a ‘flagrant violation of sovereignty’ and a ‘blatant breach of international law’.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-drone-strike-civilian-vehicle-143740222.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-drone-strike-civilian-vehicle-143740222.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 15:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Macron pledges air defence as 13 killed in Russia, Ukraine strikes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/604a80da1e75935519509acdf8e117d59b46959c21fd3a8c4c1b34a040aa521c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fceb53c5838d278a2f7ee0344020dce61.jpg" alt="" /></p>France on Saturday promised to deliver new interceptor missiles to Ukraine amid a surge in Russian strikes that have pushed civilian deaths in the four-and-a-half-year war to their highest since the first months of Moscow's invasion.The United Nations reported that the civilian death toll so far this year had risen to its highest level since the first months of the war.
+bur-jc/rmb]]></description>
+            <link>https://www.yahoo.com/news/world/articles/macron-pledges-air-defence-13-143605864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-pledges-air-defence-13-143605864.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 15:43:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[30,000 people, large police presence at Pride in German city of Bremen]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1ec0092cf482aa02acf01d08ec9e85bdbb61f6045180822e187c7a7bcb82bc58/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F93db93a77c8e3c0d958473e085662a39.jpg" alt="" /></p>Thousands of people marched through the centre of the north-western German city of Bremen on Saturday to demonstrate in support of diversity, visibility, freedom and peaceful coexistence, the organizers said. The Pride march, known locally in Germany as Christopher Street Day, began in the morning with around 5,000 participants, according to the police.]]></description>
             <link>https://www.yahoo.com/news/world/articles/30-000-people-large-police-143328861.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/30-000-people-large-police-143328861.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 15:12:31 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +37,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4c9b0585af9c7bac2054b462ce211aa61747cd66a2584d0765a345f115964927/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F46ff7085ca04ea18a99a88f5dc74f724.jpg" alt="" /></p>The attacks are the latest in a wider series of kidnappings and assaults by armed groups in Nigeria.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dozens-people-abducted-attacks-villages-141138121.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dozens-people-abducted-attacks-villages-141138121.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 15:12:31 GMT</pubDate>
         </item>
         <item>
@@ -7005,20 +7020,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4c1c75356910e115711fe126eb554153f167cedf3757383045870829852f61e9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Feedaf7930f0ff59022c669a9e97bbedd.jpg" alt="" /></p>Ukrainian forces staged one of their biggest drone attacks on Russia since Moscow’s invasion more than four years ago, firing almost 800 drones just two days after launching a similar salvo, officials said Tuesday.  Meanwhile, a Russian missile strike on a village in Ukraine’s northeastern Kharkiv region killed at least 10 people and wounded eight others as the barrage demolished homes, officials said Tuesday.  The warring countries are locked in an escalating duel of long-range aerial strikes as fighting on the roughly 1,250-kilometer (780-mile) front line in eastern and southern Ukraine is restricted by large numbers of drones and ground robots threatening troop movements, analysts say.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-aims-drone-blitz-moscow-092116248.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-aims-drone-blitz-moscow-092116248.html</guid>
-            <pubDate>Tue, 18 Aug 2026 09:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18 dogs tied in sacks rescued from India's illegal dog meat trade, tails wagging]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9aac897a93c819476916cb00686f31aa9fb9c0645104d496ce62696ffba5847e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F17dcbf9f1b0a96be1aad9d5fb28eca77.jpg" alt="" /></p>"We need to be a voice for the voiceless animals and help end this atrocity."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/18-dogs-tied-sacks-rescued-091900250.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/18-dogs-tied-sacks-rescued-091900250.html</guid>
-            <pubDate>Tue, 18 Aug 2026 09:56:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zambia re-elects President Hichilema with 60% of vote]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b5221beaccdeb9b0d3bb7b9e5e7715d1cd671bf85fc15043510396d47b8f351b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7fd2e5233ff922edc02cb8b384edaa53.jpg" alt="" /></p>Zambian President Hakainde Hichilema has been re-elected for a second term, the country's electoral commission said on Tuesday, confirming he received 60% of valid votes cast in last week's election and will serve a further five years in office. His main rival, Brian Mundubile, received around 38% of the vote, the commission said, a stronger-than-expected result.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/zambia-elects-president-hichilema-60-091832297.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zambia-elects-president-hichilema-60-091832297.html</guid>
             <pubDate>Tue, 18 Aug 2026 09:56:07 GMT</pubDate>
         </item>
     </channel>
