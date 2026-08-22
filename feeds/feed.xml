@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 17:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 18:17:15 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 18:17:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Two killed as Ukrainian drone strike hits Sevastopol bus]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5c1b2ced8846765f0f9bfe934e963c6794cc0edb3c9d711820173a36e52ac856/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8f90351363fdf4c206ebb03ff4566468.jpg" alt="" /></p>At least two people have been killed in a Ukrainian drone strike on the Crimean Peninsula, the occupation authorities said on Saturday. Five further civilians were injured, Mikhail Razvozhayev, the Moscow-installed governor of the port city of Sevastopol, posted on Telegram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/two-killed-ukrainian-drone-strike-164829862.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-killed-ukrainian-drone-strike-164829862.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 18:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German fire crews help Serbia battle wildfires]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a070ad5d30b68f770efac5c881305baf11a6ea0ff51c2850c87d7a36227b6011/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8bb1158603c2534f14cc3bbe0266db28.jpg" alt="" /></p>German firefighters have been dispatched to tackle fires burning in forests in parts of Serbia for a 10-day operation, the fire service from the city of Bonn said on Saturday. The emergency crews are being deployed from Bonn, Dusseldorf and Lower Saxony, following a Serbian request, as fires rage in the Vojvodina region in the country's north.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-fire-crews-help-serbia-163430510.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-fire-crews-help-serbia-163430510.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 18:17:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inside Germany's roughly $14 billion plan to deter Russia with a new arsenal of deep-strike missiles]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a578039c2b2747645f464e38c95d37027ad369bb96a8d983333b840c752a2c90/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fb0f72d8bedfbaedb0d0a0fda2040a5bc.jpg" alt="" /></p>Germany is planning a new long-range strike arsenal of cruise missiles, Tomahawks, and future hypersonic weapons to help deter Russia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/inside-germanys-roughly-14-billion-161501153.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-germanys-roughly-14-billion-161501153.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93d353f8570be1b2c7f3a5754262e16afe58f07bf54398178cabda852a27b766/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F1b0df53aea9dbd129346db3e3c2b8184.jpg" alt="" /></p>"I ended up just hanging up and not bothering to try and book an appointment."]]></description>
             <link>https://www.yahoo.com/news/world/articles/patients-skipping-going-doctor-because-160700585.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/patients-skipping-going-doctor-because-160700585.html</guid>
-            <dc:creator><![CDATA[Futurism]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bb220899fd6b3ece28978b097d5d23ebdfed6a1271c7d90df4ec9f524735f2a2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Ff4236b4008ea008b033b0d79b09cbc88.jpg" alt="" /></p>A 48-year-old father reportedly left his exhausted 7-year-old son alone near Mount Fuji’s sixth station while he kept climbing. Don’t worry — he left him a snack.]]></description>
             <link>https://www.yahoo.com/news/world/articles/father-leaves-7-old-alone-142255395.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/father-leaves-7-old-alone-142255395.html</guid>
-            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
         </item>
         <item>
@@ -7007,20 +7020,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0581f7aa388d772722396d537e042c71b94de6d0cd7a75d8f1476fa85cacd248/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc219f375afec7ca0cc748e5088515d9e.jpg" alt="" /></p>Nearly 100 migrants have been rescued after their inflatable dinghy broke down in the English Channel. The boat suffered engine failure shortly after leaving the French coast on Monday morning.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nearly-100-migrants-rescued-boat-103347769.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nearly-100-migrants-rescued-boat-103347769.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tributes to 'effortlessly beautiful' 16-year-old]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/983d308bd9e9efab9d33b082c4b5a6bd3c595778d88cd8f587f0faa983accacd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F262530434e928b8a73bda4a7272771d3.jpg" alt="" /></p>Abbie Lainton, 16, died in a tourist boat accident in the Dominican Republic, the BBC understands.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tributes-effortlessly-beautiful-16-old-101959440.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tributes-effortlessly-beautiful-16-old-101959440.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lavrov says Russia, North Korea fighting for 'new, righteous' world order]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4a68ae7e93140f199bb063360461f6140b2d511bdf7889d851967a0c7f36af17/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fef4dde5e87e41bc8e3b2fd2dd852e32e.jpg" alt="" /></p>SEOUL, Aug 18 () - Russian Foreign Minister Sergei Lavrov told his North Korean counterpart that their countries were working to establish a "new and ‌righteous world order", after Pyongyang helped Moscow to drive Ukrainian forces ‌from a Russian region last year. In a message to North Korean Foreign Minister Choe Son Hui, Lavrov ​also reaffirmed Moscow's pledge to boost cooperation in all areas and contribute to regional and international security, North Korea's KCNA news agency said on Tuesday]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lavrov-says-russia-north-korea-101722162.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lavrov-says-russia-north-korea-101722162.html</guid>
             <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
         </item>
     </channel>
