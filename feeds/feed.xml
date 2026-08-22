@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 17:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 17:43:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 17:13:23 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Inside Germany's roughly $14 billion plan to deter Russia with a new arsenal of deep-strike missiles]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a578039c2b2747645f464e38c95d37027ad369bb96a8d983333b840c752a2c90/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2Fb0f72d8bedfbaedb0d0a0fda2040a5bc.jpg" alt="" /></p>Germany is planning a new long-range strike arsenal of cruise missiles, Tomahawks, and future hypersonic weapons to help deter Russia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/inside-germanys-roughly-14-billion-161501153.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inside-germanys-roughly-14-billion-161501153.html</guid>
+            <dc:creator><![CDATA[Business Insider]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patients Are Skipping Going to the Doctor Because AI “Receptionists” Can’t Understanding What They’re Saying]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93d353f8570be1b2c7f3a5754262e16afe58f07bf54398178cabda852a27b766/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffuturism_981%2F1b0df53aea9dbd129346db3e3c2b8184.jpg" alt="" /></p>"I ended up just hanging up and not bothering to try and book an appointment."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/patients-skipping-going-doctor-because-160700585.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/patients-skipping-going-doctor-because-160700585.html</guid>
+            <dc:creator><![CDATA[Futurism]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Father Leaves 7-Year-Old Alone on Mount Fuji]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bb220899fd6b3ece28978b097d5d23ebdfed6a1271c7d90df4ec9f524735f2a2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Ff4236b4008ea008b033b0d79b09cbc88.jpg" alt="" /></p>A 48-year-old father reportedly left his exhausted 7-year-old son alone near Mount Fuji’s sixth station while he kept climbing. Don’t worry — he left him a snack.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/father-leaves-7-old-alone-142255395.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/father-leaves-7-old-alone-142255395.html</guid>
+            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 17:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Girl, 17, dead, 2 teens seriously hurt by Sweden school sword attack]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2d2e2bedcb4ed20b5a5bb9cba170f4ae472ab682990b9687c5b946aa249d8027/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc5e79a3455d96ee81d55abd7744df3e6.jpg" alt="" /></p>A 17-year-old girl is dead after a sword attack at a Swedish high school on Friday. Three students were hurt, two of them seriously, in the attack.]]></description>
             <link>https://www.yahoo.com/news/world/articles/girl-17-dead-2-teens-165455245.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/girl-17-dead-2-teens-165455245.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:13:23 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ab63e293df23b2e9b9ebd5e65cc395c50d7e4a9e2517c55e5e8f966360398d0b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fslash_gear_112%2F172222b09693c3b29b5398dcba3c9f0a.jpg" alt="" /></p>While the U.S. has a history of selling fighter jets to its allies, there are instances where they're built on-site by local companies like Korea's Samsung.]]></description>
             <link>https://www.yahoo.com/news/world/articles/popular-fighter-jet-probably-didnt-154500728.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/popular-fighter-jet-probably-didnt-154500728.html</guid>
-            <dc:creator><![CDATA[SlashGear]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:13:23 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39853b02ee345b23f39bb58708f1ce9db7369a68725f2d374ee3566528f3b481/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2Ffde662014452569dcd6b3cf64cdde40f.jpg" alt="" /></p>Officers tracked the father down at the mountain's eighth station, roughly a three-hour hike higher up, and ordered him to return.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dad-leaves-7-old-boy-154206106.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dad-leaves-7-old-boy-154206106.html</guid>
-            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 17:13:23 GMT</pubDate>
         </item>
         <item>
@@ -7000,27 +7021,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4a68ae7e93140f199bb063360461f6140b2d511bdf7889d851967a0c7f36af17/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fef4dde5e87e41bc8e3b2fd2dd852e32e.jpg" alt="" /></p>SEOUL, Aug 18 () - Russian Foreign Minister Sergei Lavrov told his North Korean counterpart that their countries were working to establish a "new and ‌righteous world order", after Pyongyang helped Moscow to drive Ukrainian forces ‌from a Russian region last year. In a message to North Korean Foreign Minister Choe Son Hui, Lavrov ​also reaffirmed Moscow's pledge to boost cooperation in all areas and contribute to regional and international security, North Korea's KCNA news agency said on Tuesday]]></description>
             <link>https://www.yahoo.com/news/world/articles/lavrov-says-russia-north-korea-101722162.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lavrov-says-russia-north-korea-101722162.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine launches 637 drones toward Moscow, mayor says, with Wildberries facility hit]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ea663725acca8452113423d6dde6d0c17442a819bcd3dda06971f3a40dda7f6b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.gma.com%2F49b49b7a8b4cf7d807a7dda0e604eb85.jpg" alt="" /></p>Russia's Defense Ministry said it shot down nearly 800 Ukrainian drones.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-launches-637-drones-toward-101629228.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-launches-637-drones-toward-101629228.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newlywed Couple Dies in Honeymoon Helicopter Crash Minutes Before They Were Due to Land]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b2499045f05fd9c6b172709513f6d0ed966e15cef14a5cbc948174d02bb6fc6b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1337f2f8a30f1bcf1b3ad332f93818c9.jpg" alt="" /></p>The bodies of married couple Alexander Cromie and Marie Ebert and their pilot, Giorgos Raikos, were recovered from the scene after the Monday, Aug. 17 incident]]></description>
-            <link>https://www.yahoo.com/news/world/articles/newlywed-couple-dies-honeymoon-helicopter-101511427.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/newlywed-couple-dies-honeymoon-helicopter-101511427.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grenade attack near school in Afghan capital wounds numerous children, authorities say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0a6eec95c27283ceea261841d2556fd90a35245f8778beef48956a174f2a93fb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fa3d06c454c1cc596a52645b8d8eab017.jpg" alt="" /></p>A hand grenade attack near a school in the Afghan capital Kabul on Monday afternoon wounded multiple children, authorities said.  Kabul police spokesman Khalid Zadran said late Monday that “a number of children” had been wounded, and said an investigation was underway.  Richard Bennett, the United Nations' special rapporteur for Afghanistan, on Tuesday condemned “the heinous attack harming numerous children near a school” the previous day.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/grenade-attack-near-school-afghan-092730691.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/grenade-attack-near-school-afghan-092730691.html</guid>
             <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
         </item>
     </channel>
