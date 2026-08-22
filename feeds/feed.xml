@@ -4,10 +4,26 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 20:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 21:13:49 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 20:45:53 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 21:13:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[U.K. vehicle going wrong way strikes police car, killing 7]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1d4005a7ed89286dad260c51ecde94bb9300dde794e1cbb65d5c79bca0a9c84f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F0e3870b8c654eef52400493163f60210.jpg" alt="" /></p>Five teenagers and two police officers were killed in Britain after the squad car was struck by a car going the wrong way Saturday near Middlesbrough.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/u-k-vehicle-going-wrong-210730548.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-k-vehicle-going-wrong-210730548.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 21:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magnitude 5.8 earthquake rattles Japan, shaking felt in Tokyo]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/26d262d9c49e9c44981dc75621c375486aea74ba3ff750afb1ea84e9ed892281/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2Ff23deedc652b84c1147b382a1dbd7bc4" alt="" /></p>A magnitude 5.8 earthquake struck near Toride, Japan, around 2 a.m. local time Sunday, roughly 40 miles northeast of Tokyo.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/magnitude-5-8-earthquake-rattles-184106440.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/magnitude-5-8-earthquake-rattles-184106440.html</guid>
+            <dc:creator><![CDATA[Fox Weather]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 21:13:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia Kills 16 In ‘Absolutely Cynical And Despicable’ Double Tap Attack On Ukraine Mall]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e35e564d2fc1a2c5d136a6a0a61b209eb7663d23ce73937e14072d8a5951d342/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2Fd3609992ef5f038f492153383b493029.jpg" alt="" /></p>Regional governor Oleksandr Hanzha said that 22 children were among the wounded in the daytime attack on the city of Kryvyi Rih, which is Zelenskiy’s hometown.]]></description>
@@ -7005,20 +7021,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <link>https://www.yahoo.com/news/world/articles/video-giant-snake-crossing-road-104400961.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/video-giant-snake-crossing-road-104400961.html</guid>
             <pubDate>Tue, 18 Aug 2026 11:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8ba2c026f0eae495b3f9e64a441caf12c7d62a0cfd832fd728d7b99a5acd14d3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fd129c0abb6b309b6af9e037ed5b918b5.jpg" alt="" /></p>The Houthis say they launched another drone attack on Saudi Aramco’s Jazan refinery, marking the third claimed strike on the facility in roughly two weeks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/houthis-claim-third-attack-saudi-103000042.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-claim-third-attack-saudi-103000042.html</guid>
-            <pubDate>Tue, 18 Aug 2026 11:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German court convicts Ukrainian man over parcel bomb plot tied to Russia]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e678638c96ece89cb31c8c3236c0b4ed5b604866f4d1299b2c0be43d5833b127/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fda59eab13429ce6d04035787a9517de7.jpg" alt="" /></p>STUTTGART, Germany, Aug 18 (Reuters) - A German court convicted a Ukrainian man on Tuesday over what prosecutors described as a plot linked to Russian intelligence to detonate parcels in Europe]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-court-convicts-ukrainian-man-110816832.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-court-convicts-ukrainian-man-110816832.html</guid>
-            <pubDate>Tue, 18 Aug 2026 11:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
