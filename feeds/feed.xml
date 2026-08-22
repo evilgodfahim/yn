@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 18:55:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 19:17:29 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 18:55:55 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 19:17:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Defense officials say IDF soldiers left without support in West Bank while world watches]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7c084cb17d9729e011fa8db6ff5538761217afc8d9fd776a5e1771337fbc982f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F6619877981254537ac274fec293a0b5d.jpg" alt="" /></p>The officials said that global attention to the West Bank causes diplomatic damage to Israel, and that without enforcement by the police and other state authorities, the incidents wear soldiers down. Multiple defense officials sharply criticized the way IDF soldiers are left to deal with settler extremists in the West Bank, claiming that soldiers are often left to handle incidents of settler violence without support and sometimes without the appropriate tools, KAN News reported on Friday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/defense-officials-idf-soldiers-left-173353320.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/defense-officials-idf-soldiers-left-173353320.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 19:17:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Putin vows crushing retaliation as Ukraine opens 'Pandora's box']]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c4339dd12c3ee09df76e336b0856dbcec4da8844776855dfb8a272ca688b1839/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe165b5bb8ae6903d2f5d84a187ebac3b.jpg" alt="" /></p>Russian President Vladimir Putin has threatened Kiev with a severe response after massive Ukrainian strikes on oil refineries and logistics centres in Russia, in an interview with Russian state television published on Saturday. Putin said Ukraine had opened a "Pandora's box" with its attacks on the Russian economy, in his first interview with Moscow state television since the strikes began several weeks ago.]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-vows-crushing-retaliation-ukraine-173323166.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-vows-crushing-retaliation-ukraine-173323166.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 18:55:55 GMT</pubDate>
         </item>
         <item>
@@ -7012,13 +7019,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/274eb9c410fbcf050e7c129d3f0dbd5284d101e0b6cf09c074b7ad0ff9900bd8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F7f4c217f905bd53ee8e67432d2b8105a.jpg" alt="" /></p>A cousin of the ousted Syrian ruler Bashar al-Assad was sentenced to death for war crimes and crimes against humanity by a court in Damascus on Tuesday. The sentencing of Wassim al-Assad by the Fourth Criminal Court was broadcast live on state television.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syrian-court-sentences-al-assad-103347741.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syrian-court-sentences-al-assad-103347741.html</guid>
-            <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Colombian president estimates quake damage at almost $10 billion]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0d6ae17bd9c2d087bd98d417556e14ec877ed9761b820473299e331717c491f4/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8a74025991747310f4096628f8e166c0.jpg" alt="" /></p>An initial estimate of the total damage caused by the Colombian earthquake came to around 30 trillion pesos ($9. 6 billion), newly inaugurated President Abelardo de la Espriella has said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/colombian-president-estimates-quake-damage-103347341.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombian-president-estimates-quake-damage-103347341.html</guid>
             <pubDate>Tue, 18 Aug 2026 10:53:28 GMT</pubDate>
         </item>
     </channel>
