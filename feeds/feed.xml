@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 22:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 22:45:15 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 22:13:26 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 22:45:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[2 People Stabbed, Man Arrested Following Attack at Sikh Temple]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5cc4d0a8a0cf64e1d87bbfc73000e16671818aa367df1b5c88492ab5590dce47/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F3d6ad9900f959768252a01051b428e7d.jpg" alt="" /></p>The victims, a 75-year-old man and a 51-year-old man, sustained non-life-threatening injuries during the incident on Friday, Aug. 21]]></description>
+            <link>https://www.yahoo.com/news/world/articles/2-people-stabbed-man-arrested-221931121.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/2-people-stabbed-man-arrested-221931121.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 22:45:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Israel targeted Syria airbase over planned Turkish troop, radar presence, source confirms to 'Post']]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8745631c88ec4b7e8967af21bfeed11e8e9d0628950bb62772f07ee449773787/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F6fd682f35a110085d5ff366488387303.jpg" alt="" /></p>The IDF struck the Abu al-Duhur military airfield after troops received intelligence that Turkey sought to place a radar with Turkish troops at the Syrian base. The IDF struck the Abu al-Duhur military airfield after troops received intelligence that Turkey sought to place a radar and an air defense system manned by Turkish troops at the Syrian base, sources confirmed to The Jerusalem Post.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israel-targeted-syria-airbase-over-200336771.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-targeted-syria-airbase-over-200336771.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 22:13:26 GMT</pubDate>
         </item>
         <item>
@@ -7012,13 +7019,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fdaad602fe1f054702436c4ba4e72398a58143b6c4e113d9e8b764c1512dcc9f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4194b07fcb6984a27cd828ec6e79fec8.jpg" alt="" /></p>Pakistan’s Supreme Court on Tuesday ordered authorities to take imprisoned former Prime Minister Imran Khan to a private hospital in the capital for a medical examination, following months of concerns from his family and personal physicians about his health and access to medical care, his lawyers and party officials said.  A three-judge panel ordered that Khan be taken to Shifa International Hospital in Islamabad in the coming days and examined by a medical board that will include specialists and one of his personal physicians, Faisal Sultan.  The court also ordered prison officials to allow Khan weekly meetings with family members and telephone calls with his sons.]]></description>
             <link>https://www.yahoo.com/news/world/articles/pakistan-top-court-orders-imprisoned-112610461.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-top-court-orders-imprisoned-112610461.html</guid>
-            <pubDate>Tue, 18 Aug 2026 11:48:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Daylong pay strike at six German seaports]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/754e4dc82b2c0360e41cc4b2b62d976ff4f1fa2f7df7bd6c00a756d790a664ff/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fcd34d2299aee21a800cffb32d749bc8a.jpg" alt="" /></p>Daylong strikes by dockworkers at six northern German seaports continued into Tuesday in support of an 8. 2% pay demand.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/daylong-pay-strike-six-german-111847558.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/daylong-pay-strike-six-german-111847558.html</guid>
             <pubDate>Tue, 18 Aug 2026 11:48:32 GMT</pubDate>
         </item>
     </channel>
