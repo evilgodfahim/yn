@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 13:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 14:13:11 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 14:13:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fourteen killed in strike on Myanmar monastery]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f4f7d1303b6268c6587a7b9a12c55c1432f533f38022256dc2bed77279473c05/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F716eb490c2ac7d5cf5fc5cbf40627617.jpg" alt="" /></p>A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fourteen-killed-strike-myanmar-monastery-134951866.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fourteen-killed-strike-myanmar-monastery-134951866.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 14:13:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Canada thrift stores are paying to dump donated clothes as bulk buyers disappear]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b00ccb003dba2be0ca0e3a15c109945ae15ece92aa899cb57cbaa15da07acab0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F95f8b0a7f265b72f1125bb7393d14cad.jpg" alt="" /></p>"We're seeing just such an abrupt end to that collection mechanism."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/canada-thrift-stores-paying-dump-132100009.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-thrift-stores-paying-dump-132100009.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 22 Aug 2026 14:13:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IDF strikes Syrian terrorist poised to carry out imminent terror attack on Israeli soldiers]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2cb584bb7faee6cb9de3779686216bd05195a4aff6c8ef0c1b8fedad289ceaaf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F3f500dc1849ec5b83ebede2b0c5d2b08.jpg" alt="" /></p>The IDF statement follows reports earlier on Saturday that one person was injured by an IDF drone strike in Syria on the outskirts of Damascus. The IDF struck a terrorist in southern Syria on Saturday who was in the "final stages" of preparing a terror attack against Israeli soldiers, the military said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-strikes-syrian-terrorist-poised-131056137.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-strikes-syrian-terrorist-poised-131056137.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68aaa466cbdf7276d237c3342c6f1352c894a66f5798b6de2c01e3a0164bd89d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F94abf50c198c548a6ba81e900b919ac8.jpg" alt="" /></p>The wildfires burning across Europe this summer have revealed World War I and II ordnance lurking beneath the blackened landscape.]]></description>
             <link>https://www.yahoo.com/news/world/articles/european-wildfires-expose-detonate-buried-123504908.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/european-wildfires-expose-detonate-buried-123504908.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f38564f8245f32728ef122b84736d8ed274ca08749f031f45f4b2a7df3119fd7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Febcd9fadcb4b3ae13f3113f1247ca1e3.jpg" alt="" /></p>Iran is granting several oil tankers from neighbouring Iraq passage through the Strait of Hormuz, the state news agency IRNA reported on Saturday. The granting of a special permit is said to stem from demands made by the Iraqi leadership during Iranian Parliamentary Speaker Mohammed Baghar Ghalibaf's visit to Baghdad earlier this week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-grants-iraqi-tankers-safe-123327361.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-grants-iraqi-tankers-safe-123327361.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/223f5060a811f4adbce835f27e4d34a1b873d69d023fb1227cde5d816fda2cd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fde5e2e91cdadc27a1a2e0f4695e718be.jpg" alt="" /></p>Droughts across Europe have also been churning up military vehicles and weapons from the era, with shrinking rivers revealing German warships, a Wehrmacht motorbike, and a bomb.]]></description>
             <link>https://www.yahoo.com/news/world/articles/europes-devastating-wildfires-unveil-deadly-121417185.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europes-devastating-wildfires-unveil-deadly-121417185.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +57,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4d7c84354ff7144fd289f93d02ceb4d2db7ccaa55b24bf196a53144d7fca6927/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb92109a455b8aa534342279aa53cb7aa.jpg" alt="" /></p>Indonesia is deploying an additional 1,500 soldiers to Borneo, an official said Saturday, to help tackle wildfires that have burned through swathes of the island and created thick smog choking some areas.President Prabowo Subianto, on a visit to Borneo on Saturday to lead wildfire response meetings, ordered increased troop deployment, said Cabinet Secretary Teddy Indra Wijaya.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indonesia-deploys-hundreds-soldiers-tackle-120902886.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesia-deploys-hundreds-soldiers-tackle-120902886.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 22 Aug 2026 13:49:53 GMT</pubDate>
         </item>
         <item>
@@ -7008,20 +7019,6 @@ It had already opened a probe into a disinformation campai]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0c73bdd51c08329df25895f618374f8e262bbb017683a80f0f4e2a0ec77d37ce/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F1a98209cd1ba058c1a99d76201c1021d.jpg" alt="" /></p>King Harald of Norway, 89, was taken to the National Hospital on Monday and will be taking two weeks off work, with Crown Prince Haakon acting as regent]]></description>
             <link>https://www.yahoo.com/news/world/articles/norwegian-king-89-rushed-hospital-084251492.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/norwegian-king-89-rushed-hospital-084251492.html</guid>
-            <pubDate>Tue, 18 Aug 2026 09:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia warns Britain of 'consequences' of supplying drones to Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/74b12cac33936d61de37ab120fa89285260f7fbbef9e4551b2994bbde6e524a3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ff314c51cd47d5bbfe1959523e4647e20.jpg" alt="" /></p>Russia warned Britaib that there will be "consequences" following reports that Ukraine has struck within Russian territory with Britain-made drones.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-warns-britain-consequences-supplying-083917104.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-warns-britain-consequences-supplying-083917104.html</guid>
-            <pubDate>Tue, 18 Aug 2026 09:23:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dispute between Jewish student and Berlin university continues]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dd11e6835ed387b5dd3807e2a575bac9e7e5b9171e8cb81d5e07406f2f45628d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6fa481d5e76f714600396da670f488ee.jpg" alt="" /></p>A dispute between a Jewish student and Berlin's Free University (FU) over better protection against anti-Semitic discrimination is entering a new phase after Lahav Shapira refused to accept a ruling by the Berlin Administrative Court rejecting his lawsuit against the university. His lawyers said they had on Monday filed the basis for an appeal with the Berlin-Brandenburg Higher Administrative Court (OVG).]]></description>
-            <link>https://www.yahoo.com/news/world/articles/dispute-between-jewish-student-berlin-083337352.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dispute-between-jewish-student-berlin-083337352.html</guid>
             <pubDate>Tue, 18 Aug 2026 09:23:32 GMT</pubDate>
         </item>
     </channel>
