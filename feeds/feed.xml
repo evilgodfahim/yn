@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 23:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 23:42:59 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 23:42:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rumours swirled after a Vietnamese teen was run over - then came a stunning admission]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37b8286cc06669037d15cd392a830f4465e3f2888ad8c5d4e2e54b1b011b3014/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff0e7fc61afb09da3e5b329595a9142c1.jpg" alt="" /></p>Confirmation of the circumstances around Do Ngoc Phuong Thuy's death have only spurred more questions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rumours-swirled-vietnamese-teen-run-220603523.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rumours-swirled-vietnamese-teen-run-220603523.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 23:42:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/220022d2010f8958c5f36c9cf43a148f7fad60ef98d29508a65ff42918052942/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F778067aa362bb5e148181f17c5c41de6.jpg" alt="" /></p>By Feras Dalatey Aug 24 (Reuters) - Syria and Israel held high-level, U.S.-mediated talks in Jordan on Sunday aimed at easing tensions following recent Israeli strikes on Syrian territory, Syria's]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-israel-hold-us-mediated-224513118.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-israel-hold-us-mediated-224513118.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b775525f52a6f8611e039d6a8815cb24b978a1f9fdb7485b070e9cdb9f0c88c0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff88133691c89a0892e3eeb6335f68f43.jpg" alt="" /></p>Syria said it held talks with Israel in Jordan on Sunday on de-escalation after recent Israeli strikes, and on keeping the country out of tensions between Israel and Turkey, an ally of Damascus.The meeting was "part of efforts aiming at de-escalation after recent Israeli bombardment of Syrian territory, escalating tensions in southern Syria, and in support of stability in Syria and the region", said the source.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-says-israel-talks-addressed-223659710.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-says-israel-talks-addressed-223659710.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/008bab58120fbf273c8dc678c1c52922709e155bf7c3e287d73039af465f5792/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F4f714e796e3b7ca9ede964a315403f12.jpg" alt="" /></p>CONAKRY, Aug 23 (Reuters) - A landslide at a landfill in Guinea's capital killed 30 people, the government said on Sunday, after heavy rains overnight prompted the collapse of a massive mound of waste]]></description>
             <link>https://www.yahoo.com/news/world/articles/landslide-guinea-landfill-kills-30-190231069.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/landslide-guinea-landfill-kills-30-190231069.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +42,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/46baed0871ae1948f28088030306f458bd497a91611133c08860492e09792648/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fa3a85bffbe379f7902f5d3240e09d999.png" alt="" /></p>A mountain of garbage collapsed after heavy rain at a major landfill site in Conakry, Guinea, burying nearby homes and launching a search for survivors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/massive-garbage-heap-collapses-onto-205310268.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/massive-garbage-heap-collapses-onto-205310268.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +49,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/169a40f2c5dc7cc7970adb65ca984abe6506f148d9454bae907c960cfcf0070f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fe375afe69f1155190d39e39062c14661.jpg" alt="" /></p>A local woman who lost her five children in the disaster told reporters, ‘I have lost all my children. All I can do is put my trust in God’]]></description>
             <link>https://www.yahoo.com/news/world/articles/30-dead-guinea-landfill-collapse-204756342.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/30-dead-guinea-landfill-collapse-204756342.html</guid>
-            <dc:creator><![CDATA[The Independent]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 23:13:21 GMT</pubDate>
         </item>
         <item>
@@ -7013,13 +7016,6 @@ and wounded dozens in Ukraine's capital and its surrounding region overnight, au
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c8c42c364fcdafcf6873cc7a7f317f5d088fd2556c0695524f3d9691d642942e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F1e114881a1ff989d78fda5e080f75813.jpg" alt="" /></p>Forty gold bars and 4,000 coins turned up mid-renovation.]]></description>
             <link>https://www.yahoo.com/news/world/articles/construction-crew-demolishing-house-uncovered-183000282.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/construction-crew-demolishing-house-uncovered-183000282.html</guid>
-            <pubDate>Tue, 18 Aug 2026 19:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran is losing control of the Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/08c29a00200b39762fe49f2fa4f82a7c0918f7dc99d0ce7a6dbc7fc715439668/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_business_articles_218%2F0648ce81bc1097a7003860e196e05ec1.jpg" alt="" /></p>The battle for control of the Strait of Hormuz has become the focal point of the Iran war. Over the past several months, both Iran and the United States have claimed the upper hand – and the competing rhetoric has caused considerable confusion and doubt.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-losing-control-strait-hormuz-181921047.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-losing-control-strait-hormuz-181921047.html</guid>
             <pubDate>Tue, 18 Aug 2026 19:47:12 GMT</pubDate>
         </item>
     </channel>
