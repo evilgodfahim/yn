@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 09:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 09:50:06 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 09:50:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fire leads to power outage affecting 2,000 homes]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4f005314dc455dce5b26793a4f96d434613fe9fef9f653a4b30508f231aa8ea4/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F94635dd9a18bc1c8c5dd37bd5cb8090f.jpg" alt="" /></p>The blaze broke out on an industrial estate in Rowfant, West Sussex, on Saturday night.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fire-leads-power-outage-affecting-091958322.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fire-leads-power-outage-affecting-091958322.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy rejects wartime elections, cites "huge risk"]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1d7e7a0d4b4d8e9bfc8a263c30e0f7483972393e7bafc80d3fd889463cae77f7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fa06e7721414990389c7f8def0d974ad2.jpg" alt="" /></p>After Ukraine's fired defense minister publicly called for wartime elections, Zelenskyy said it would risk splitting the country.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelenskyy-rejects-wartime-elections-cites-085904454.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-rejects-wartime-elections-cites-085904454.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli wounded in occupied West Bank stabbing]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fd614f4c4269f9e2842ce6665964508be1e1a5d0a2b4b8264393a974049a7bd9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fa66278d209672fc735372a51d235c7bd.jpg" alt="" /></p>Israeli forces launch wide search in Jordan Valley after a stabbing incident in the occupied West Bank village of al-Auja.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-wounded-occupied-west-bank-083801738.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-wounded-occupied-west-bank-083801738.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:50:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran’s president says US memorandum is best path out of stalled war, and other Middle East news]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97c025577eb766537caf3ea54e6b44f8338e0ea5a2c3a0f9ac3bef101182e84f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fde41ca7049a3a195570eb384ee42f1be.jpg" alt="" /></p>Iran's president defended a memorandum of understanding with the United States as the best way out of a stalled war.  Meanwhile, the new head of the Islamic Republic's top security body warned, in a more forceful tone, of retaliation if neighboring countries support U.S. threats to further sanction Tehran.  Pakistan's army chief planned to travel to Tehran on Monday, Iranian media reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fdb3640bfa227ccf8f313e32bb77bed4d6ebd49d8ed7cb15613722a9e430b9da/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F94de93063db3586c7477e005f6cb1dc6.jpg" alt="" /></p>Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-080341696.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-080341696.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7320363fb74777eeec6f6abf2372355da22f917693c67eaa232bf590dbe31dd1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F386874bff1a4955e6e5cb05f1358fb47.jpg" alt="" /></p>Iran has carried out a further execution in connection with the January mass protests, according to the Misan news site, which is linked to the judiciary. Record numbers of people have been executed in connection with the mass protests, monitors say.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
         </item>
         <item>
@@ -6998,27 +7019,6 @@ The virus, which spreads through contact with bodily fluids and causes a haemorr
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/611270b2440ced18b3daa35fdea5d7522898a3a76674aca4bf3b375fdd48da4f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fab886b71a5dfb0f4803405d0c64ee788.jpg" alt="" /></p>Two drones targeted the office of Masrour Barzani, the Kurdistan Regional Government's prime minister, and the home of the region's intelligence chief in northern Iraq on Monday. Iranian Foreign Minister Abbas Araghchi dismissed the drone attack on the office of the Kurdistan Democratic Party leader, posting on X/Twitter on Monday that “Kurdish friends” should be aware of “false-flag ploys” aimed at “sowing discord between neighbors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/irans-drone-strike-kurds-may-135417847.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/irans-drone-strike-kurds-may-135417847.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yemeni government escalates attacks against Houthis: What’s next?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9bb7a12bc393201089f761302f03342601bf324dbbf4b8af016ccaec9bf77759/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F22b8edcf2b84a2846d01e2265f5a64e9.jpg" alt="" /></p>Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/yemeni-government-escalates-attacks-against-135133800.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemeni-government-escalates-attacks-against-135133800.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elon Musk’s One-Emoji Response Reignites Fierce Debate Over His Role in Ukraine War]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9ae7b3a1741c13d896a0f9689cb8e3271d137146d51116a76f18b6525f491e3f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffodmap_everyday_588%2F814a28f82a305ee6907ef9857b5fcf08.jpg" alt="" /></p>Elon Musk just responded to massive praise from a top Ukrainian official with a simple heart emoji, instantly reigniting fierce arguments about his true influence over global conflicts. During a recent interview, a former Ukrainian Defense Minister publicly credited the tech billionaire with single-handedly saving thousands of civilian lives and protecting the nation’s air defenses. When a clip of this glowing endorsement was posted online, Musk acknowledged the heavy praise with a simple emoji.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/elon-musk-one-emoji-response-133800620.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/elon-musk-one-emoji-response-133800620.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria reports Israeli attacks on military airfield]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a8c8cd2dc3e3fb696585cb833de2ea426503acc410393221c5a8014a48df9340/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fef8d09a0731717d25f13f0f1b286ab66.jpg" alt="" /></p>Israel has attacked a military airfield in north-western Syria, the Foreign Ministry in Damascus said on Tuesday, condemning the early morning strike as a violation of its sovereignty and a dangerous escalation. No damage or casualties were reported.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syria-reports-israeli-attacks-military-133332107.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-reports-israeli-attacks-military-133332107.html</guid>
             <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
         </item>
     </channel>
