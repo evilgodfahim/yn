@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 16:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 16:48:46 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 16:15:37 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 16:48:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[At Least 37 Injured After 5.9 Magnitude Earthquake Strikes Japan]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0e5c3f4168b6f02722ec8b2c7b26742ed0547355051204f4bda5321e558162f1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fb7bde52ba11d490cc3d9722c0b7f4a93.jpg" alt="" /></p>A moderate earthquake with a preliminary magnitude of 5.9 rattled the Tokyo area in the early hours of Sunday, Aug. 23]]></description>
+            <link>https://www.yahoo.com/news/world/articles/least-37-injured-5-9-144318482.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-37-injured-5-9-144318482.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 16:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spanish villagers return home after wildfires and floods]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ffa25d9048fdc206a1a59f629658d36939c5890f9303f5ba61d23bd73c1e83fc/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fcb5e56075affbfe30bbc665313a9f434.jpg" alt="" /></p>Spanish villagers on part of the Mediterranean coast hit by wildfires and flooding were returning home on Sunday, though in some areas, clean-up operations were ongoing after heavy rain. The fire, sparked by a lightning strike in Segorbe town on Thursday evening, has been brought under control, the Civil Protection Service of the Autonomous Community of Valencia said in a post on X.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/spanish-villagers-return-home-wildfires-141828424.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spanish-villagers-return-home-wildfires-141828424.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 16:48:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[‘Parisians out’: French provincials turn on tourists from capital]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/03bfdf2876d0ea6f67800c2e66f4fb20a094d81c8a04b433f03a5da07d222001/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9e51414c0a169bf60fcdcead3d71d91c.jpg" alt="" /></p>Holidaying Parisians are facing a backlash from residents in a popular tourist area in Brittany who are fed up with visitors from the capital.]]></description>
             <link>https://www.yahoo.com/news/world/articles/parisians-french-provincials-turn-tourists-145108106.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/parisians-french-provincials-turn-tourists-145108106.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 16:15:37 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/01e6516317af5aff19d19c131405ae95848527a8b6d6d9f4f1f3fcd8f9cf0b2f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F56d39c34417216f3a7b3721797ab5f8a.jpg" alt="" /></p>A humanoid robot named Lightning Bolt ran 100 meters in 9.39 seconds at the World Humanoid Robot Games in Beijing, edging Usain Bolt's record.]]></description>
             <link>https://www.yahoo.com/news/world/articles/chinese-humanoid-robot-breaks-usain-140130804.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chinese-humanoid-robot-breaks-usain-140130804.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 16:15:37 GMT</pubDate>
         </item>
         <item>
@@ -7003,20 +7017,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6d58ff7464b56bcf9c389e795c10dd90ee124b5888dc53851db754ab495498ca/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F93b3fa9ae6b0e43ac853f51bab233ad7.jpg" alt="" /></p>Colombian President Abelardo de la Espriella said rebuilding areas devastated by recent magnitude 7.4 earthquake will cost more than $9.5 billion.]]></description>
             <link>https://www.yahoo.com/news/world/articles/colombia-needs-least-9-5-160921788.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-needs-least-9-5-160921788.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1577740d9dcc6c39b2b0430dfee4be9c073348ccf61c08f280b84d6f7265cb30/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F39cc92e4a7e9dbdb23b68746b09b8fac.jpg" alt="" /></p>Imran Khan has been imprisoned since 2023 on corruption charges which he says were politically motivated.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pakistan-top-court-orders-ex-160034685.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-top-court-orders-ex-160034685.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Swedish prisoners arrive in Estonia under transfer deal]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/345d126987f6f8f5f6c1770ed3988dd91ddf4c731a20cfba4a79ba58a9b57503/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F66456f1965b239583f4396033de9944a.jpg" alt="" /></p>The first four Swedish prisoners who will serve their sentences in Estonia have arrived in the Baltic country, Estonian prison authorities said on Tuesday. The inmates arrived by plane at Ämari military airbase before being transferred to a prison in Tartu, Estonia's second-largest city, the Estonian Probation Service said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/first-swedish-prisoners-arrive-estonia-154847527.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/first-swedish-prisoners-arrive-estonia-154847527.html</guid>
             <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
         </item>
     </channel>
