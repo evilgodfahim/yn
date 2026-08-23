@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 13:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 13:52:19 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 13:08:43 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 13:52:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[19-Year-Old Boy Falls to His Death Alongside His Parents amid Argument Over His New Cell Phone]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f0ca81df040a6771d36df3fd46fdff2ff2f362bf0f2d11857db75cb498bf1df2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fc8ac696d0df8de51703273cac41e7138.jpg" alt="" /></p>Kunal Chandgude’s parents and emergency personnel spent three hours trying to convince him not to jump off a cliff before the tragedy on Friday, Aug. 21]]></description>
+            <link>https://www.yahoo.com/news/world/articles/19-old-boy-falls-death-121341614.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/19-old-boy-falls-death-121341614.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 13:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The tragedy of Jason Arday]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/30cdd0f69b068e93f3b58eaed50d58f694bdc81ee9bd9ab9bb09b60290ce0705/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvox_384%2Fb01c6114db75110494ce14641f6e3306.jpg" alt="" /></p>What we should — but probably won't — learn from the frenzy around racism and DEI in academia.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tragedy-jason-arday-110000983.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tragedy-jason-arday-110000983.html</guid>
+            <dc:creator><![CDATA[Vox]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 13:52:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Russia likely to mobilize at least 300,000 more troops to Ukraine war, Zelensky warns]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e120d117e7b61458139865ad39db22c08db2480ad9b7b7754a1df54924a14e4a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd0ff40f4cada08504c99b544435a81a1.jpg" alt="" /></p>Russia is likely to mobilize another 300,000 troops later this year, according to Ukrainian President Volodymyr Zelensky, as it tries to complete the capture of a long-coveted region of east Ukraine.]]></description>
             <link>https://www.yahoo.com/news/world/articles/russia-likely-mobilize-least-300-120010392.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-likely-mobilize-least-300-120010392.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 13:08:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7c81e89fce9a26c60296069eedd418cff65afebb432d14ec718b021494e786bd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fcb1dadbeabbc4d3ef3102a06fb6b4ecd.jpg" alt="" /></p>A hiker in Italy has been criticised by the country’s alpine rescue service for climbing a mountain dressed in flip-flops and swimming shorts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/climber-scaled-9-500ft-mountain-114950143.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/climber-scaled-9-500ft-mountain-114950143.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 13:08:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9a7e358763af6afd6473dccdbe9288cb94f7cc567562b16fb71984b8c98cfadb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F76f644cf0bf58223b0f9e646cd62f5ef.jpg" alt="" /></p>Ukraine expects the EU to provide €30 billion ($35 billion) to help fund the country's defence against the Russian invasion, President Volodymyr Zelensky told journalists in Kiev on Sunday. The money would be "needed for the defence of the entire country," he said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-says-ukraine-needs-eu-111818041.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-says-ukraine-needs-eu-111818041.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 13:08:43 GMT</pubDate>
         </item>
         <item>
@@ -7004,20 +7017,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4b62f370ab817c8eb339b08dbc9ca4e8e205626095fd197393f160e272efd95f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2Fc999dd725a480a488f346b7bc43a66e7.jpg" alt="" /></p>The president had earlier posted an image of a map showing the Strait as a new US territory, appearing to restate his threat to claim sovereignty over the passage from last week.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ship-hit-hormuz-irans-top-095208556.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ship-hit-hormuz-irans-top-095208556.html</guid>
-            <pubDate>Tue, 18 Aug 2026 15:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis: Lebanese more open to peace -- less to normalization -- to end war with Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/be812a961048deeccb61542f66b385f0a1530e4e060d19c60280ab01f1c3706b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F6a68243f2ef5a861fbe31cd066ead706.jpg" alt="" /></p>Lebanese increasingly want an end to hostilities with Israel, but they remain divided -- as they often are -- over how that can be achieved.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/analysis-lebanese-more-open-peace-152151553.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/analysis-lebanese-more-open-peace-152151553.html</guid>
-            <pubDate>Tue, 18 Aug 2026 15:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In pictures: King Charles arrives at Balmoral]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0dad1d8d9b4bee3a68ad78dd806bbbe5f5c757aac1dde3a46023d5d97aa64b65/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F589b71ade8ee10fb586bd2f4d2cf11a3.png" alt="" /></p>The King was welcomed by a guard of honour provided by the Royal Regiment of Scotland as he arrived at his Aberdeenshire residence.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pictures-king-charles-arrives-balmoral-152146889.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pictures-king-charles-arrives-balmoral-152146889.html</guid>
             <pubDate>Tue, 18 Aug 2026 15:34:51 GMT</pubDate>
         </item>
     </channel>
