@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 04:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 05:31:45 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 04:59:34 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 05:31:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Swedish sword attack victim was 17-year-old girl, police say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4f7def3769442d522f7404d0bbe642ed575c7ee301531c6049518252df640800/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6fc1f5d2010e57e2a7ef3228a92d33b4.jpg" alt="" /></p>Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/swedish-sword-attack-victim-17-013428051.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/swedish-sword-attack-victim-17-013428051.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 05:31:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A moderate earthquake shakes Japan, injuring more than 30 people in the Tokyo region]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dc533ca3b9b5e06eb9fdb245855cbae43593afec2c13f882f041aa1d0684b08f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd2c18dcc370531d27df552a7bdda1406.jpg" alt="" /></p>A moderate earthquake rattled eastern Japan, including the Tokyo area, early Sunday, injuring more than 30 people, most of them lightly, officials said.  According to the Japan Meteorological Agency, the quake had a preliminary magnitude of 5.9 and its epicenter was in the southern Ibaraki prefecture with a depth of 70 kilometers (42 miles).  The U.S. Geological Survey recorded a magnitude of 5.8.]]></description>
             <link>https://www.yahoo.com/news/world/articles/moderate-earthquake-magnitude-5-9-175902246.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moderate-earthquake-magnitude-5-9-175902246.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 04:59:34 GMT</pubDate>
         </item>
         <item>
@@ -7011,13 +7018,6 @@ har/jkb/jhb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/db309ecf8f7aaad0e57d4e3b2ff01f725e1effd7e165c59f60c3c811765c9eaf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4d4b98c07c956977eb00797dae8650d3.jpg" alt="" /></p>The Palestinian American whose home in the occupied West Bank has been besieged for more than a week confronted Israeli settlers on Tuesday and demanded Israeli forces remove them from his property.  Israeli soldiers asked the settlers to leave the area as well, but Ridi said he saw at least three settlers close enough to return and threaten his family if the army leaves.]]></description>
             <link>https://www.yahoo.com/news/world/articles/palestinian-american-returns-besieged-west-114511302.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-american-returns-besieged-west-114511302.html</guid>
-            <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran strikes ship, doubles down on closing Strait of Hormuz]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a32545557eb2aa3f092bbbc5068f37c687fff4e23bbce5b338a703a006815600/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F1b55af95546818c5d0052ac1a83648fa.jpg" alt="" /></p>Iran has threatened a "timely and precise" military response if the U.S. does not lift its naval blockade.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-strikes-ship-doubles-down-103717975.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-strikes-ship-doubles-down-103717975.html</guid>
             <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
         </item>
     </channel>
