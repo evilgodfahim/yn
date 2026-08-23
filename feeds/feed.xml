@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 15:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 15:44:25 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 15:44:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran warns Middle East neighbors against joining US ‘economic war’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8b7b821d9e3f343f367a58c324e4596fbfbc07dc356d76481abe4b8ec761f4d3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fa5c8c50389ed158678e3c802b8c25063.jpg" alt="" /></p>Iran has advised its neighbors in the Middle East against entering an “economic war” alongside the U.S., as the conflict between Washington and Tehran nears the six month-mark. According to The Associated Press, Mohsen Rezaei, the Iranian Supreme National Security Council leader, gave a heads-up to surrounding countries to not participate in an American effort…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-warns-middle-east-neighbors-131620332.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-warns-middle-east-neighbors-131620332.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 15:44:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[France links rise in drownings to heatwaves]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20b8e401066ee99234f3f4089c9dce53b16ac571a8e90a613f01af1cd04c4da3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1397573db3d8558e6d4cc0fd60ad2097.jpg" alt="" /></p>A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-links-rise-drownings-heatwaves-150600570.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-links-rise-drownings-heatwaves-150600570.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a09d919d5a9ec245641580fff32d1f4b29a28339058feafdd4e4885ee947d1fb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc1f09447f0eb8fbed6c819898bb34fbb.jpg" alt="" /></p>Ukrainian President Volodymyr Zelenskyy on Saturday rejected calls for wartime elections, saying the move would divide and "destroy the country."]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelenskyy-rejects-call-elections-says-145518908.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-rejects-call-elections-says-145518908.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +35,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f764c9c41b13ddae6feeee01c6300822bf0c040622cc4dd9f7420d7ca0f7dd86/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F49be4b3d11c620ddaeb32b436ebd874f.jpg" alt="" /></p>Months after the death of a whale that made headlines across Europe when it washed up on a German beach, the scientists who were caring for the mammal say they are still facing abuse and death threats. "We have been subjected to a storm of abuse since around mid-March and continue to be so to this day," a spokeswoman at the German Oceanographic Museum told dpa.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-scientists-endure-months-hate-141828146.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-scientists-endure-months-hate-141828146.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
         </item>
         <item>
@@ -7011,13 +7016,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/64d79bf804d0272a1ca26981c06ca4ca581b8fc080f73bda9584cb7c70902494/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fforbes_contributor_845%2F99c063ffcbf29ecb4838bbe4ca19bd35.jpg" alt="" /></p>Greece still possesses a relatively modern S-300 variant, the PMU-1, and stockpiles of interceptor missiles acquired in the late 1990s that could help Ukraine.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-still-needs-300-missiles-153615512.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-still-needs-300-missiles-153615512.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO: Congo's confirmed Ebola cases top 5,000, fatality rate nears 50%]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7c025e1e77a5a57c17b6388baec682e7c6a401cedaeed39abea2d8a769c7ed97/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc35f6993d8c3108466002d41fc6e8582.jpg" alt="" /></p>More than 5,000 Ebola cases have now been confirmed in the Democratic Republic of the Congo (DRC), according to the World Health Organization's (WHO) Regional Office for Africa. Since May, 5,021 people have been confirmed as infected with the highly contagious disease, while 2,378 patients have died, corresponding to a case fatality rate of 47.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/congos-confirmed-ebola-cases-top-153338929.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congos-confirmed-ebola-cases-top-153338929.html</guid>
             <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
         </item>
     </channel>
