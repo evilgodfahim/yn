@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 03:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 04:08:25 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[In rural Chad, solar kiosks bring healthcare closer]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39ac535cdff914f19d6e6b34737531b2fc5b515d1ac0e176a2d70c942f88f054/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7e690a25f4529568dd2e1280bceaba40.jpg" alt="" /></p>Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rural-chad-solar-kiosks-bring-032103349.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rural-chad-solar-kiosks-bring-032103349.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman in her 30s who pretended to be a child and lived with family found guilty of fraud]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7e24a6d5fe786343a31673acb10c5e3841a3e9eff54810925d94bc77b9fd5d48/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc43e5298190250f81a995751fb26feb9.jpg" alt="" /></p>Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-her-30s-pretended-child-012240809.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-her-30s-pretended-child-012240809.html</guid>
+            <dc:creator><![CDATA[Fox News]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cyber attack shut down small power plant]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24eb8906211d45abcbc2a2f9b067af7acffa11233c5f7d313d2204ea82c811fe/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff0708704a10bcd3412159704d8021c69.jpg" alt="" /></p>The government says at no point was there a risk to the UK's energy system during the attack in July.]]></description>
             <link>https://www.yahoo.com/news/world/articles/cyber-attack-shuts-down-small-024846487.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cyber-attack-shuts-down-small-024846487.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57bc09b5c3ebf553df1d38e7d85e8b5f7041702590050c5309dbe3eddfc25cb0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F7b1856898b077286f2d423eaff4367e1.jpg" alt="" /></p>Plataran's business spans 81 locations in Indonesia and Japan.]]></description>
             <link>https://www.yahoo.com/news/world/articles/campaign-presses-resort-chain-match-013000280.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/campaign-presses-resort-chain-match-013000280.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3348fc1d827e48a08dd5ce9ede5c3d093811ad40301e64ee471cb7cc0a4ccc4b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcab5aa026aba9c7627dbfd6c40202283.jpg" alt="" /></p>The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-warns-nearby-nations-against-232615166.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-warns-nearby-nations-against-232615166.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
         </item>
         <item>
@@ -7006,20 +7019,6 @@ har/jkb/jhb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2dd187cdd76560b853be8f5e5c223bb84ca9734d131b6e554f500fc3ca84b336/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3a6103bb5305d684f02a0f3194c935d5.jpg" alt="" /></p>Work in earthquake and other disaster zones or regions is by its nature rife with problems such as war and conflict. But beyond that, the very people struggling to combat hunger, poverty, and inequality, primarily in the Global South, face significant, growing and unnecessary risks.]]></description>
             <link>https://www.yahoo.com/news/world/articles/aid-workers-face-growing-risk-121840950.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/aid-workers-face-growing-risk-121840950.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4c3b638f41da010112bdffcea22c446668472b2125bf9eb1e0ea40b8b79fc9df/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F934fb2134480ecb9b426278a0d663b3a.jpg" alt="" /></p>Recovery efforts continue in what is the country's deadliest transport disaster.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kariba-ferry-death-toll-rises-120451942.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kariba-ferry-death-toll-rises-120451942.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hack hits Berlin city cyber network paralysing two departments]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2b4dffbd7dde48518a0d0de8733e7380d4bfa61ebb554f794e004a30a0a40df9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5443e8eb4292bf2d9eda01a250009ca9.jpg" alt="" /></p>A cyberattack has paralysed two major departments in the government of the city-state of Berlin, the Berlin daily the Tagesspiegel reported on Tuesday. "We are practically unable to work," the Tagesspiegel quoted an employee of the transport administration as saying.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hack-hits-berlin-city-cyber-120346152.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hack-hits-berlin-city-cyber-120346152.html</guid>
             <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
         </item>
     </channel>
