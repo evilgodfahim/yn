@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 02:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 03:27:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 02:19:46 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Cyber attack shut down small power plant]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/24eb8906211d45abcbc2a2f9b067af7acffa11233c5f7d313d2204ea82c811fe/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff0708704a10bcd3412159704d8021c69.jpg" alt="" /></p>The government says at no point was there a risk to the UK's energy system during the attack in July.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cyber-attack-shuts-down-small-024846487.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cyber-attack-shuts-down-small-024846487.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Campaign presses resort chain to match its eco-friendly image with cage-free eggs]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/57bc09b5c3ebf553df1d38e7d85e8b5f7041702590050c5309dbe3eddfc25cb0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F7b1856898b077286f2d423eaff4367e1.jpg" alt="" /></p>Plataran's business spans 81 locations in Indonesia and Japan.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/campaign-presses-resort-chain-match-013000280.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/campaign-presses-resort-chain-match-013000280.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns nearby nations against joining US ‘economic war’ efforts]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3348fc1d827e48a08dd5ce9ede5c3d093811ad40301e64ee471cb7cc0a4ccc4b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fcab5aa026aba9c7627dbfd6c40202283.jpg" alt="" /></p>The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-warns-nearby-nations-against-232615166.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-warns-nearby-nations-against-232615166.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 03:27:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Did a goat herder's lucky $200 nugget spark a gold rush in western Kenya?]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e0194670d64e4ed0a036147bfc41819b0c70d8d57eb9728354285d2422ebaeba/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff2e0bff0ec6eac00b8ff51f5bb283cdd.jpg" alt="" /></p>Prospectors have come to West Pokot county in the hope a gram of the precious metal can change their lives.]]></description>
             <link>https://www.yahoo.com/news/world/articles/did-goat-herders-lucky-200-232207865.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/did-goat-herders-lucky-200-232207865.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 02:19:46 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/cebc3fe5eb6bc7d2c9c618097f3633f7a10948c64785e36f31124b6d6668f247/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F84e94fa26bdb71d45d9aebde5be66423.jpg" alt="" /></p>Tributes have poured in for two "brave" police officers who died in a crash in north-eastern England that killed five others on Saturday morning. Matthew Blades, 37, and Tom Clough, 38, were killed when a Volkswagen Passat which was travelling the wrong way down the dual carriageway near Middlesbrough collided with their marked armed response vehicle that was going in the right direction.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tributes-paid-two-brave-police-231822365.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tributes-paid-two-brave-police-231822365.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 02:19:46 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2b54de862a52f430176cd08c1c1b8d7248c002051b672e08bfa705f32e045269/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc3c4b556e45af2fa14cf4b77d73477fa.jpg" alt="" /></p>The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-says-israeli-strike-near-214328159.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-says-israeli-strike-near-214328159.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 02:19:46 GMT</pubDate>
         </item>
         <item>
@@ -6999,28 +7020,6 @@ har/jkb/jhb]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2b4dffbd7dde48518a0d0de8733e7380d4bfa61ebb554f794e004a30a0a40df9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F5443e8eb4292bf2d9eda01a250009ca9.jpg" alt="" /></p>A cyberattack has paralysed two major departments in the government of the city-state of Berlin, the Berlin daily the Tagesspiegel reported on Tuesday. "We are practically unable to work," the Tagesspiegel quoted an employee of the transport administration as saying.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hack-hits-berlin-city-cyber-120346152.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hack-hits-berlin-city-cyber-120346152.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France probes Russian disinfo campaign against centrist candidates]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/619fb51a9b1d11c2756682c720b2376e0161002fe14fe82702ba7d35cf51877d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fd2127e7b1e558413c0a5b05abb400cca.jpg" alt="" /></p>French prosecutors have opened a probe into a suspected Russian disinformation campaign targeting centrist candidates in next year's presidential elections, the office of the Paris prosecutor said on Tuesday.Prosecutors are probing deepfakes and fake video reports posted on social media targeting the main two centrist candidates -- the former prime ministers Edouard Philippe and Gabriel Attal, the office of the Paris prosecutor told AFP.
-It had already opened a probe into a disinformation campai]]></description>
-            <link>https://www.yahoo.com/news/world/articles/france-probes-russian-disinfo-campaign-115635328.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-probes-russian-disinfo-campaign-115635328.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[One dead and hundreds ill in UK salmonella outbreak]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b91173de69d5b6e799b0cd2511a2d3af3d44cec4c6dedf26b99a0126b70e53f2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F462fdcb93f2f84d35c6fec9f6704401e.jpg" alt="" /></p>Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/one-dead-hundreds-ill-uk-114726285.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/one-dead-hundreds-ill-uk-114726285.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia protests Japan PM’s comments after Putin’s Kuril visit]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99f42cab05550287f0fd7d37155eb1203ca940d19f26ba0a4fb47e4ac8d0fa46/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F77b0130fd84ad0482f08cc02ccd5c899.jpg" alt="" /></p>Russia summons Japan’s ambassador to Moscow over Prime Minister Sanae ⁠Takaichi’s ‘anti-Russian’ remarks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-protests-japan-pm-comments-113934896.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-protests-japan-pm-comments-113934896.html</guid>
             <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
         </item>
     </channel>
