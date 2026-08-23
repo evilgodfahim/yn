@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 06:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 07:09:51 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 07:09:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Poll: Most Germans expect Merz to be replaced before next election]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28a56e6b2e449cc8677b9b84d4bd32063f6b35f1c9125672cc9a295cc9f09699/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdf977f735ae6329ae6810a598d165052.jpg" alt="" /></p>Most Germans expect Chancellor Friedrich Merz to be replaced before the next scheduled election in 2029, according to a YouGov poll. The survey found 36% of respondents expect Merz to be replaced as chancellor before the election, while 18% expect him to be replaced this year.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/poll-most-germans-expect-merz-060333217.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/poll-most-germans-expect-merz-060333217.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine’s fight against Putin shows what women are really capable of]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0a80528621a2a460245475e6cab5a5411a70789f2b5b47d62a80c3d8205de934/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F52ca7864b340ec3073ff9c4ee7be3cdb.jpg" alt="" /></p>One of the more intriguing (and heartening) consequences of Ukraine’s four-year struggle against Vladimir Putin’s despotism has been the perception of what women are capable of.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-fight-against-putin-shows-060000105.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-fight-against-putin-shows-060000105.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:09:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kazakhstan parliamentary elections begin: What’s at stake?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c99539cd8bd42c63a99db7757edd591986a0dbb8748ce7875db8939126e8e1be/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F0df8e9d8e5fac870720a071d489c7d97.jpg" alt="" /></p>The Central Asian country heads to the polls on August 23.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kazakhstan-parliamentary-elections-begin-stake-055510546.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kazakhstan-parliamentary-elections-begin-stake-055510546.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 07:09:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Call to honour journalists who resisted occupation]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44d81de42978fd5aa097a4d23abc3589282d6814e2c400c091ebdb5580b7ef50/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F753c2180b31b0a55b95abe4b0248bf55.jpg" alt="" /></p>A commemoration is planned to journalists who resisted Nazi occupation during World War Two.]]></description>
             <link>https://www.yahoo.com/news/world/articles/call-honour-journalists-resisted-occupation-060241367.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/call-honour-journalists-resisted-occupation-060241367.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0bc41c95c8a38829a8f87a0e58b53589df261405949d0f5d5c5132b117f8ac20/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fff6469949e982a1025f845e30db72467.jpg" alt="" /></p>Authorities are investigating how two crashes happened in two days in the East of England.]]></description>
             <link>https://www.yahoo.com/news/world/articles/theyre-part-british-culture-safe-052902339.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/theyre-part-british-culture-safe-052902339.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/12ae376ff0e6a1c2655f6eb31d10c23d79c3610c6b4727bbdec0e0d136765a78/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2F2fa8f274c067d0f7a696589d30ed8aa2.jpg" alt="" /></p>One person was killed as a result of the incident itself; two others were shot and killed by Israeli security forces. Israel Police responded to reports of a violent incident in east Jerusalem on Saturday night, which turned out to be a clash between two feuding families.]]></description>
             <link>https://www.yahoo.com/news/world/articles/three-killed-east-jerusalem-family-050917267.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/three-killed-east-jerusalem-family-050917267.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1aaf902b6a4317aa685e0e0fe3fac78db19506c0b4ae682240f1b4dd91ecd5ae/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F875e88d33ae41d766012e05cc2a8a447.jpg" alt="" /></p>Who can credibly say the struggle against the Iranian regime is nothing to do with Britain now? At the height of the US bombing campaign against the ayatollahs, the British government sought to distance itself from the US-Israeli operation, aligning itself with much of Europe in the pretence that the country did not need to directly take sides. Even the attack on RAF Akrotiri on Cyprus by a suspected Iranian drone was not enough to rouse ministers from their complacency.]]></description>
             <link>https://www.yahoo.com/news/world/articles/britain-wake-call-iranian-threat-050000548.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-wake-call-iranian-threat-050000548.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ceed96bc3b50a2dcee316bb0607cd0fe0846208465f1c418bf0dab6fc74c97c2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fbfc335943e0e8182b6c6bf84db702d50.jpg" alt="" /></p>The Israeli settlers always come at sunset, their approach sending the inhabitants of the remote farmsteads into a quiet panic.]]></description>
             <link>https://www.yahoo.com/news/world/articles/west-bank-last-christian-village-050000004.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/west-bank-last-christian-village-050000004.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c6d09fcdfe829fbd0231432925a758ae28be9b9925d23c1fd03076d618aeb11c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fa0ca45a1d15cee6681cbc07ea30fd0ca.jpg" alt="" /></p>Kept in the dark after reporting her boss for harassment, South Korean advocate Baek Song-yi is now campaigning for survivors' right to know how their bullies were disciplined.At her former company, a US firm with offices overseas, Baek said she was verbally harassed by her boss, an older man.]]></description>
             <link>https://www.yahoo.com/news/world/articles/south-korean-survivor-fights-workplace-022320058.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korean-survivor-fights-workplace-022320058.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/efc8f2a8d1e744d880dbc845623c0fca53a08714a341b18db1fefb1847624e2f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fc3731e56f0c57b851f8790c154d99b29.jpg" alt="" /></p>A cultural faultline in Iran has re-emerged in recent months amid the turmoil of war and the revamping of the country’s hardline leadership: how and whether to enforce the wearing of the hijab by women.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iranian-women-defy-efforts-hardliners-020029104.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranian-women-defy-efforts-hardliners-020029104.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e42bfada8eff619818cf545bb5ddf8c1664601c5b75756c96e62a43a4d11883e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb3292a262df4d78f43c2ff4803cf6104.jpg" alt="" /></p>French President Emmanuel Macron welcomes Saudi crown prince and de facto ruler Mohammed bin Salman on Sunday for a two-day visit set to range from esports to the war in the Middle East.The Saudi crown prince has made multiple visits to France since then.]]></description>
             <link>https://www.yahoo.com/news/world/articles/macron-hosts-saudis-mbs-visit-015630687.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/macron-hosts-saudis-mbs-visit-015630687.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 06:26:43 GMT</pubDate>
         </item>
         <item>
@@ -7003,28 +7019,6 @@ The virus, which spreads through contact with bodily fluids and causes a haemorr
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ebad8b6d05cebb6621f8f351b0656a89e5142a511e8a58d272dfe172ac17fe23/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0fa5ebc008a43607229c60f27c02f9e6.jpg" alt="" /></p>German Environment Minister Carsten Schneider pledged to help Ukraine repair damage to the protective shelter covering the Chernobyl nuclear disaster site during a visit to Kiev on Tuesday. "Germany stands firmly by Ukraine's side," he said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-minister-kiev-chernobyl-protection-130337587.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-minister-kiev-chernobyl-protection-130337587.html</guid>
-            <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[More than £160 million worth of cocaine and cannabis seized at UK port]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fcb81436617a8132fdda567d7786311543caa5a65ddf6a07da7a71dc86e0fd24/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8587cd0b96db63d8dddfd5ffa7e9dd85.jpg" alt="" /></p>More than £160 million ($216 million) worth of cocaine and cannabis has been seized at the same British port in the space of a month. Border Force officers found 477 kilos of cocaine, with an estimated street value of £38 million, hidden among pallets of bananas in a shipping container at Southampton Port on June 28.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/more-160-million-worth-cocaine-124845313.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/more-160-million-worth-cocaine-124845313.html</guid>
-            <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UK PM says not embarrassed by hoax messages with fake Trump aide]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/581ccc05868fe9d8a9b82fc4c48055856f9e36277c60c33b6b8401b226f51975/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7ad6e27c4a6b1bcddde59a30d237dc03.jpg" alt="" /></p>New British Prime Minister Andy Burnham on Tuesday confirmed he had exchanged messages with someone pretending to be US President Donald Trump's chief of staff.Burnham succeeded former Labour Party leader Keir Starmer as prime minister on July 20.
-har/jkb/jhb]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uk-pm-says-not-embarrassed-124352428.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-pm-says-not-embarrassed-124352428.html</guid>
-            <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Syria, US say Israel struck military air base in Idlib province]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1d30eaf134ef8651d533f3d96adbaaa2cff347b67ef3ac35d4da4f830b9452b5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F7b1727e7d5dd9b0517fee313d4aa4594.jpg" alt="" /></p>Syria and the United States accused Israel of attacking a disused military air base in Syria's northwest on Tuesday, as a monitor said the strikes followed a Turkish delegation's inspection of the site.Israel has not claimed the attack, but US envoy for Syria Tom Barrack said on X that "the confirmed Israeli airstrikes" on the Abu Duhur air base in Idlib province "constitute an unnecessary escalation that does not advance regional stability".]]></description>
-            <link>https://www.yahoo.com/news/world/articles/syria-us-israel-struck-military-124249939.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-us-israel-struck-military-124249939.html</guid>
             <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
         </item>
     </channel>
