@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 08:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 09:19:47 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 08:55:21 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Iran’s president says US memorandum is best path out of stalled war, and other Middle East news]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97c025577eb766537caf3ea54e6b44f8338e0ea5a2c3a0f9ac3bef101182e84f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fde41ca7049a3a195570eb384ee42f1be.jpg" alt="" /></p>Iran's president defended a memorandum of understanding with the United States as the best way out of a stalled war.  Meanwhile, the new head of the Islamic Republic's top security body warned, in a more forceful tone, of retaliation if neighboring countries support U.S. threats to further sanction Tehran.  Pakistan's army chief planned to travel to Tehran on Monday, Iranian media reported.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DR Congo, M23 rebels agree on roadmap for peace talks]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fdb3640bfa227ccf8f313e32bb77bed4d6ebd49d8ed7cb15613722a9e430b9da/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F94de93063db3586c7477e005f6cb1dc6.jpg" alt="" /></p>Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-080341696.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-080341696.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran executes another man after mass protests at start of year]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7320363fb74777eeec6f6abf2372355da22f917693c67eaa232bf590dbe31dd1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F386874bff1a4955e6e5cb05f1358fb47.jpg" alt="" /></p>Iran has carried out a further execution in connection with the January mass protests, according to the Misan news site, which is linked to the judiciary. Record numbers of people have been executed in connection with the mass protests, monitors say.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 09:19:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kazakhstan holds parliamentary election expected to cement president’s grip]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1bf46b255aa5cfceb19361b40c624266eaed313f1e9eb2ee4fc8b8e60898b5cd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7e269b7dca9134494085f66b555b51eb.jpg" alt="" /></p>Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kazakhstan-holds-parliamentary-election-expected-073842761.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kazakhstan-holds-parliamentary-election-expected-073842761.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 08:55:21 GMT</pubDate>
         </item>
         <item>
@@ -6996,27 +7019,6 @@ The virus, which spreads through contact with bodily fluids and causes a haemorr
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a8c8cd2dc3e3fb696585cb833de2ea426503acc410393221c5a8014a48df9340/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fef8d09a0731717d25f13f0f1b286ab66.jpg" alt="" /></p>Israel has attacked a military airfield in north-western Syria, the Foreign Ministry in Damascus said on Tuesday, condemning the early morning strike as a violation of its sovereignty and a dangerous escalation. No damage or casualties were reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-reports-israeli-attacks-military-133332107.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-reports-israeli-attacks-military-133332107.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian Construction Workers Struck Literal Millions in Gold While Digging a Sewer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c8053b5e76ba4fadd045ca98c962374c53b34fdc78c9583f96d3da99f576e941/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbackyard_garden_lover_223%2F95cb1a6515c15573cd87f1c307f22e50.png" alt="" /></p>Construction workers digging a new sewer system in Belgium expected to find dirt, old building materials, and probably some worms. Instead, they uncovered a hidden stash of gold estimated to be worth more than $10 million. The Guardian reports that workers discovered the gold on Tuesday, Aug. 11, at a construction site in Sint-Gillis-Dendermonde, Belgium, …]]></description>
-            <link>https://www.yahoo.com/news/world/articles/belgian-construction-workers-struck-literal-133035446.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/belgian-construction-workers-struck-literal-133035446.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crew of ship sustains casualty after vessel is struck in Hormuz Strait]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94ef13481a3bb833baf5dcc7dee4cc0321a60ac0ff1634d71629ad0a24c8bd27/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F8355b02f398db46dbea9c99d39cf9c15.jpg" alt="" /></p>A ship transiting the Hormuz Strait came under attack amid claims by Tehran's top negotiator that the critically important sea route would remain closed]]></description>
-            <link>https://www.yahoo.com/news/world/articles/crew-ship-sustains-casualty-vessel-133024004.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crew-ship-sustains-casualty-vessel-133024004.html</guid>
-            <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukrainian convicted of espionage in Germany gets prison as 2 others are acquitted]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/247f0215a1130c2934f7987f75ef835411f8e7df2919a9c4e98e7a84e03f0652/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fba09128334bcd1aa40ca10c0a73802d8.jpg" alt="" /></p>A Ukrainian national was convicted Tuesday in Germany on charges of espionage and sentenced to a year and three months in prison after being accused of sending packages containing GPS trackers to Ukraine via a Ukrainian postal service in March 2025.  Two other defendants, also Ukrainian citizens, were acquitted by the Stuttgart Higher Regional Court, German news agency dpa reported.  The men, whose names were not given in line with German privacy laws, were arrested last year in Germany and Switzerland.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukrainian-convicted-espionage-germany-gets-132938773.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukrainian-convicted-espionage-germany-gets-132938773.html</guid>
             <pubDate>Tue, 18 Aug 2026 14:03:44 GMT</pubDate>
         </item>
     </channel>
