@@ -4,17 +4,40 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 17:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 18:17:28 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 18:17:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Woman Accused of Attempted Murder After Giving Man a Muffin Laced with Toxic Substance]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3f34a59955aa382a3060c158166555eece6aa3499a1fa2852770234c970b63ab/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F198dc3ca0e81f0752d29f5fe1d57f1dc.jpg" alt="" /></p>The man was hospitalized after eating some of the poisoned baked good]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-accused-attempted-murder-giving-174001271.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-accused-attempted-murder-giving-174001271.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 18:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meningitis survivor feels 'unstoppable' on UK run]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d6bf131c2ab40b3a7f257f054685a693ca69acd51d7e1ec63604d4a7a97b58ba/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F7387b071295675f9deeca1eba8accd6b.jpg" alt="" /></p>Jack Stewart is running from John O' Groats, in Scotland, to Land's End in Cornwall to raise money for charity.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/meningitis-survivor-feels-unstoppable-uk-173213697.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/meningitis-survivor-feels-unstoppable-uk-173213697.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 18:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German foreign minister comes within 30 km of Ukraine's front line]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a191d225bdc5236b1628564d7f0844598743652079c41992e05bc8ffd4c00de3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F43bbec132b49cf9e40eaf13fe5510ed0.jpg" alt="" /></p>German Foreign Minister Johann Wadephul visited the city of Kharkiv, home to around 1. 4 million people and just 30 kilometres from the front line with Russia, during a trip to Ukraine on Sunday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-foreign-minister-comes-within-170320379.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-foreign-minister-comes-within-170320379.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 18:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Landfill collapse kills 30 in Guinea]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22eca59983ebc54c6694679fa19f2888a2fdb5b20530217bb0b1f6ccbe0be549/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F48f5df3b611cffaed4a3654000f06532.jpg" alt="" /></p>Thirty people died in Guinea's capital Conakry on Sunday when a mound of rubbish in a landfill collapsed before dawn onto neighbouring homes following heavy rains, the government said.In recent days, the government had ordered the expulsion of people and safety measures around the site because of fears of a collapse.
 bm-mrb/sbk/jj]]></description>
             <link>https://www.yahoo.com/news/world/articles/landfill-collapse-kills-30-guinea-172122471.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/landfill-collapse-kills-30-guinea-172122471.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -22,7 +45,6 @@ bm-mrb/sbk/jj]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/038103ac5d532496ee72f071fc5d5c4f2a004357f94f4577c2deae42b83e5044/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F9f2889ff3bd0a85b96c89d9991811272.jpg" alt="" /></p>The ongoing Ebola outbreak in the Democratic Republic of Congo is "growing exponentially," leaving 2,516 dead, a senior United Nations official said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ebola-outbreak-drc-growing-exponentially-171208145.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ebola-outbreak-drc-growing-exponentially-171208145.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -30,7 +52,6 @@ bm-mrb/sbk/jj]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8b2a2d8437bbcb6fe3e6cd0935db60cdacb34e70694939f6f5104a04eda8582b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F102e7a8bb839abda386f7f57216993ad.jpg" alt="" /></p>Greece has relocated a Patriot air defence battery to Crete, according to local media reports citing sources at the Defence Ministry. The island is home to a large air force and naval base that is also regularly used by the US.]]></description>
             <link>https://www.yahoo.com/news/world/articles/reports-greece-deploying-patriot-missile-164821218.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/reports-greece-deploying-patriot-missile-164821218.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -38,7 +59,6 @@ bm-mrb/sbk/jj]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e7de96d7b173bdac0036c07650c3bea42598c02058d218758a60879910ba5d8b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F804f96fe3858f3c118f34a7e6d0b17c8.jpg" alt="" /></p>Israeli forces shot dead a 14-year-old boy during an Israeli military raid in the West Bank, officials in the occupied Palestinian territory said on Sunday. The teenager was killed in the Askar refugee camp near the Palestinian city of Nablus, the Health Ministry in Ramallah said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/israeli-soldiers-shoot-dead-14-163332364.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-soldiers-shoot-dead-14-163332364.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -46,7 +66,6 @@ bm-mrb/sbk/jj]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/eff2c933a66808ac3caf5a63ab3524a9e034a66e893326f3851ad964c7ef7b8a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0b20c8e9617bc80101fcf1df6f3f886b.jpg" alt="" /></p>German Chancellor Friedrich Merz blamed damage from a wildfire on climate change as he visited burned woodlands in the Eifel area in a visit many said came too late. Merz thanked the emergency responders on his trip to Hürtgen Forest in western Germany after his holidays, but protesters booed as he spoke and elsewhere, opposition lawmakers are demanding policy changes.]]></description>
             <link>https://www.yahoo.com/news/world/articles/merz-blames-wildfire-climate-change-161840427.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/merz-blames-wildfire-climate-change-161840427.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -54,7 +73,6 @@ bm-mrb/sbk/jj]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c89819db6d6b65e803d1d88de5feb7b3dd7b8941a07cd94446f253de4b9e7617/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2Fa2c2032e87d4567a6137e9d77b5f5c06.jpg" alt="" /></p>American millionaire Michael Oliver dredged an island in the South Pacific and declared the Republic of Minerva independent. But without international recognition, Tonga shut it down in days. Here’s why sovereignty isn’t that simple.]]></description>
             <link>https://www.yahoo.com/news/world/articles/1972-american-millionaire-tried-build-141100482.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/1972-american-millionaire-tried-build-141100482.html</guid>
-            <dc:creator><![CDATA[Men's Journal]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 17:42:50 GMT</pubDate>
         </item>
         <item>
@@ -7002,27 +7020,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <link>https://www.yahoo.com/news/world/articles/nato-commander-says-training-ukrainian-162013154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nato-commander-says-training-ukrainian-162013154.html</guid>
             <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ukraine targets Moscow with drones as Russia threatens U.K. over support]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dc39cdc4e9589df9d7e50887f7bb3244282e58a9aa6f502a97c80713c2291542/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F531008406ca0119697acf70769bdddf3.jpg" alt="" /></p>Ukraine targets Moscow with a huge wave of drones as Russia warns the U.K. will pay a price for supplying Kyiv with long-range weapons.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-drones-russia-155516512.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-targets-moscow-drones-russia-155516512.html</guid>
-            <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany opens new drone research centre as security threats mount]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f8cbe6e829b6e492613c3b05b1881ca2b7f3db031ae2f329bd666450a3eca007/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4ba36e5da229d74c36fed56e23041f79.jpg" alt="" /></p>Germany on Tuesday opened a new drone defence research centre to help combat the growing threat posed by unmanned aerial vehicles after a surge in suspicious sightings over critical infrastructure. Last year nearly 1,000 suspicious drones flew over critical infrastructure in Germany, according to police.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-opens-drone-research-centre-154826136.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-opens-drone-research-centre-154826136.html</guid>
-            <pubDate>Tue, 18 Aug 2026 17:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/02b5539773b255f483c4ce61a07802733b4be89c026987efe58c0e199d1415a6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F5242030b89a318c67cc8bd7803288d42.jpg" alt="" /></p>Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nigeria-influencer-arrested-seizure-cocaine-162627749.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigeria-influencer-arrested-seizure-cocaine-162627749.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
