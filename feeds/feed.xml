@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 14:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 15:14:33 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 14:47:06 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[France links rise in drownings to heatwaves]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20b8e401066ee99234f3f4089c9dce53b16ac571a8e90a613f01af1cd04c4da3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1397573db3d8558e6d4cc0fd60ad2097.jpg" alt="" /></p>A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/france-links-rise-drownings-heatwaves-150600570.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-links-rise-drownings-heatwaves-150600570.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zelenskyy rejects call for elections, says it would 'destroy' Ukraine]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a09d919d5a9ec245641580fff32d1f4b29a28339058feafdd4e4885ee947d1fb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fc1f09447f0eb8fbed6c819898bb34fbb.jpg" alt="" /></p>Ukrainian President Volodymyr Zelenskyy on Saturday rejected calls for wartime elections, saying the move would divide and "destroy the country."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zelenskyy-rejects-call-elections-says-145518908.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelenskyy-rejects-call-elections-says-145518908.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German scientists endure months of hate after death of stranded whale]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f764c9c41b13ddae6feeee01c6300822bf0c040622cc4dd9f7420d7ca0f7dd86/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F49be4b3d11c620ddaeb32b436ebd874f.jpg" alt="" /></p>Months after the death of a whale that made headlines across Europe when it washed up on a German beach, the scientists who were caring for the mammal say they are still facing abuse and death threats. "We have been subjected to a storm of abuse since around mid-March and continue to be so to this day," a spokeswoman at the German Oceanographic Museum told dpa.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/german-scientists-endure-months-hate-141828146.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-scientists-endure-months-hate-141828146.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 15:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[German scientists enduring months of hate after stranded whale dies]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5dbd39228e093d40dae7d67932f55fc1d3b324a370ac835f3b95e02fdcd45b16/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6024a0eda63d73e197665160f42f92d1.jpg" alt="" /></p>Months after the death of a whale that made headlines across Europe when it washed up on a German beach, the scientists who were initially caring for the mammal say they are still facing abuse and death threats. "We have been subjected to a storm of abuse since around mid-March and continue to be so to this day," a spokeswoman at the German Oceanographic Museum told dpa.]]></description>
             <link>https://www.yahoo.com/news/world/articles/german-scientists-enduring-months-hate-133327071.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-scientists-enduring-months-hate-133327071.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 14:47:06 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/21f1a1bf0cbe8db6ba012a08e83fcb5f9c6b15849859aa91abc55d321ab2cee2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fddd449741256ced77d2baf8973ab17fa.jpg" alt="" /></p>Representatives met in Switzerland to work out next steps to resolve the conflict.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-125653268.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-m23-rebels-agree-125653268.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 14:47:06 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a6cbe11e78e600e55f561ba058235cc22e7c19c7b8c7eafa8fcfbf8428d52a60/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F70d4f927a411fa6468a0b26fbf6064c9.jpg" alt="" /></p>Indonesian authorities arrested 72 people suspected of starting some of the forest and peatland fires as huge blazes in central and west Indonesia triggered choking haze.  Indonesia has been battling fires driven by an intensifying El Niño pattern and a prolonged dry season, generating dense smoke that crossed into Malaysia, according to Indonesia’s National Disaster Management Agency, or BNPB.  Fires are a regular problem in Indonesia that strain relations with neighboring countries.]]></description>
             <link>https://www.yahoo.com/news/world/articles/indonesian-police-arrest-72-people-122727677.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indonesian-police-arrest-72-people-122727677.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 14:47:06 GMT</pubDate>
         </item>
         <item>
@@ -6997,27 +7018,6 @@ Roudy passed away Tuesday morning in a medical care facility in southern France 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7c025e1e77a5a57c17b6388baec682e7c6a401cedaeed39abea2d8a769c7ed97/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc35f6993d8c3108466002d41fc6e8582.jpg" alt="" /></p>More than 5,000 Ebola cases have now been confirmed in the Democratic Republic of the Congo (DRC), according to the World Health Organization's (WHO) Regional Office for Africa. Since May, 5,021 people have been confirmed as infected with the highly contagious disease, while 2,378 patients have died, corresponding to a case fatality rate of 47.]]></description>
             <link>https://www.yahoo.com/news/world/articles/congos-confirmed-ebola-cases-top-153338929.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/congos-confirmed-ebola-cases-top-153338929.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The 6 Countries Where a Doctor's Visit Costs Less Than a Coffee]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6a1c176ca0281cf5d2dbbbf0930facc8df3d85e4dc80b9e724d77e5d84838a4a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftravelbinger_873%2Fd6f1eaaa7ca21ef5f8f631cca376660a.jpg" alt="" /></p>Grab a flat white in London, Lisbon or Kuala Lumpur and you’ll likely pay more than some people pay to sit across from a licensed physician. It sounds almost too good to be true, yet in a handful of countries, seeing a doctor for a routine complaint costs pocket change rather than a paycheck. These ...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/6-countries-where-doctors-visit-153156096.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/6-countries-where-doctors-visit-153156096.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rise of the citizen soldier]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f4e5656896b8a47d3bba15aa21348b3b0f658d7f062cfceefca931c7be4d1f24/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgzero_551%2Fcf57534ac555d441c391871719ded6d1.jpg" alt="" /></p>Over the weekend, Indian Prime Minister Narendra Modi marked his country’s Independence Day by announcing the creation of a “massive” volunteer civil defense force. Calling India’s existing civil defense capacity “outdated,” Modi said the country of 1.4 billion people must protect the new targets of modern warfare, including refineries, the banking sector, or data centers – reflecting a growing view that infrastructure and the internet have become the new front lines of war.Taiwan is preparing f]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rise-citizen-soldier-152445577.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rise-citizen-soldier-152445577.html</guid>
-            <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘We Won’t Be Bullied’: U.K. Responds to Russian Threat Over Ukraine Drone Support]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b96f3f0f852732a97f04d2e960a716cc81fe595e2f21fccfa8b2abb030852f97/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F76465124b927d0a9bd52c2e8e219cadf.jpg" alt="" /></p>After the Russian Embassy in the U.K. issued a threat, the British government doubled down on its support for Ukraine.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/won-t-bullied-u-k-150245433.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/won-t-bullied-u-k-150245433.html</guid>
             <pubDate>Tue, 18 Aug 2026 16:21:25 GMT</pubDate>
         </item>
     </channel>
