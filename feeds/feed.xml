@@ -4,16 +4,23 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 04:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 04:59:34 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 04:59:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A moderate earthquake shakes Japan, injuring more than 30 people in the Tokyo region]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dc533ca3b9b5e06eb9fdb245855cbae43593afec2c13f882f041aa1d0684b08f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fd2c18dcc370531d27df552a7bdda1406.jpg" alt="" /></p>A moderate earthquake rattled eastern Japan, including the Tokyo area, early Sunday, injuring more than 30 people, most of them lightly, officials said.  According to the Japan Meteorological Agency, the quake had a preliminary magnitude of 5.9 and its epicenter was in the southern Ibaraki prefecture with a depth of 70 kilometers (42 miles).  The U.S. Geological Survey recorded a magnitude of 5.8.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/moderate-earthquake-magnitude-5-9-175902246.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/moderate-earthquake-magnitude-5-9-175902246.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Sun, 23 Aug 2026 04:59:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[In rural Chad, solar kiosks bring healthcare closer]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39ac535cdff914f19d6e6b34737531b2fc5b515d1ac0e176a2d70c942f88f054/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7e690a25f4529568dd2e1280bceaba40.jpg" alt="" /></p>Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors.]]></description>
             <link>https://www.yahoo.com/news/world/articles/rural-chad-solar-kiosks-bring-032103349.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rural-chad-solar-kiosks-bring-032103349.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +28,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7e24a6d5fe786343a31673acb10c5e3841a3e9eff54810925d94bc77b9fd5d48/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fc43e5298190250f81a995751fb26feb9.jpg" alt="" /></p>Amanda Maria Souza de Oliveira, 37, lived with a family as their daughter for 14 months before her elaborate child identity fraud was uncovered.]]></description>
             <link>https://www.yahoo.com/news/world/articles/woman-her-30s-pretended-child-012240809.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-her-30s-pretended-child-012240809.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sun, 23 Aug 2026 04:08:25 GMT</pubDate>
         </item>
         <item>
@@ -7013,13 +7019,6 @@ har/jkb/jhb]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-strikes-ship-doubles-down-103717975.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-strikes-ship-doubles-down-103717975.html</guid>
             <pubDate>Tue, 18 Aug 2026 13:23:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aid workers face growing risk of deadly - and deliberate - attacks]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2dd187cdd76560b853be8f5e5c223bb84ca9734d131b6e554f500fc3ca84b336/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3a6103bb5305d684f02a0f3194c935d5.jpg" alt="" /></p>Work in earthquake and other disaster zones or regions is by its nature rife with problems such as war and conflict. But beyond that, the very people struggling to combat hunger, poverty, and inequality, primarily in the Global South, face significant, growing and unnecessary risks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/aid-workers-face-growing-risk-121840950.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/aid-workers-face-growing-risk-121840950.html</guid>
-            <pubDate>Tue, 18 Aug 2026 12:28:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
