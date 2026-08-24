@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 20:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:22:13 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man charged with murder after house fire]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/988dbc2d262048508e7620a70510fca60fcfed36e1a7a56f2c5ac6b4464799bd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F20e892d947c55c3c9663d3a5f7c2a1bf.jpg" alt="" /></p>Pawel Kulpa is accused of one count of murder, eight of attempted murder and one count of arson.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-charged-murder-house-fire-204757415.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-charged-murder-house-fire-204757415.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Violence flares in Haiti as gang attack kills 30 people]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9f397e0afddd93775ec9656cd752b5620fe299944268f9064e39817647967ff0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F86c357c2baba4bc4db59aea9210b010b.jpg" alt="" /></p>Island nation grapples with violence as it seeks to hold first elections in more than a decade.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/violence-flares-haiti-gang-attack-202339618.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/violence-flares-haiti-gang-attack-202339618.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Syria court sentences Assad-era grand mufti to life in prison]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7764ce6eed074c2b22b0ecfad65d6cb468def6f57603a1fbef9cfb6b5f2ef100/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0a5efa58294acc0ebb541550f5a504ae.jpg" alt="" /></p>Ahmed Hassoun was convicted of crimes including inciting civil war and complicity in intentional killing.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/syria-court-sentences-assad-era-201033719.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-court-sentences-assad-era-201033719.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Iran tried to assassinate one of my sons,' Netanyahu reveals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7700240563d9e9ef74cc6d93fdc735b925294b62727b28c413890142a2126d40/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fc998b5bbea979e46561b34ca9b8b575d.jpg" alt="" /></p>Netanyahu was speaking on a phone call with Channel 14's military correspondent, Noam Amir, when he stated that the Islamic regime tried to assassinate one of his sons. Iran tried to assassinate the son of Prime Minister Benjamin Netanyahu, the PM said during a phone call with Channel 14's military correspondent Noam Amir, broadcast on Monday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-tried-assassinate-one-sons-194546886.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-tried-assassinate-one-sons-194546886.html</guid>
+            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a7e68a0b0ecc2e0889e8c14b69cf49a2e80160bcadcb22aede09d2d06f9686fd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Ff7ef5d03402a94a680b511052a62fc48.jpg" alt="" /></p>Yemen's Houthis on Monday targeted the Saudi oil tanker Amzan in the Red Sea off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced.]]></description>
             <link>https://www.yahoo.com/news/world/articles/houthis-target-saudi-oil-tanker-200000543.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-target-saudi-oil-tanker-200000543.html</guid>
-            <dc:creator><![CDATA[Oilprice.com]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8a2649fb1d27d7ca2107b15d1602c3e30f6d5639fd4aecd1466495ea6421faf1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd821f6a50ffe1096dc9aa5443cc9ba66.jpg" alt="" /></p>Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yemen-houthis-report-attack-saudi-194423850.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-houthis-report-attack-saudi-194423850.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6aa01a2add14448dd34bd64423a1075ecfb4a653143401346dd928be596a4f6c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F6eae91fc7c336c0a49c4a64d34b24580.jpg" alt="" /></p>The killings in Kenscoff, Haiti, come as residents have seen frequent gang attacks, mass killings, rapes, arson and kidnappings.]]></description>
             <link>https://www.yahoo.com/news/world/articles/gang-raid-kills-30-haiti-185554318.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gang-raid-kills-30-haiti-185554318.html</guid>
-            <dc:creator><![CDATA[NewsNation]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bac05b409428e3a8662eb476cc625ff30ad30b6b3666a003f7ee50976b36964d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F4e652ff181771188d8163a1137b2226c.jpg" alt="" /></p>African Parks was embroiled in scandal after it admitted that some of its rangers committed human rights violations.]]></description>
             <link>https://www.yahoo.com/news/world/articles/prince-harry-quits-african-conservation-183610269.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prince-harry-quits-african-conservation-183610269.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
         </item>
         <item>
@@ -6991,34 +7019,6 @@ and wounded dozens in Ukraine's capital and its surrounding region overnight, au
             <link>https://www.yahoo.com/news/world/articles/oas-warns-haiti-needs-help-163504585.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oas-warns-haiti-needs-help-163504585.html</guid>
             <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ceuta migrant girls to transfer to Spain after sexual assaults]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5bfceffbad0f9cbc874f72c3067d877f54cf30233064013cac3552501211f6e7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F9c8cc09f01a7068a231da4404a4c78fd.jpg" alt="" /></p>Spain is planning to move 500 migrant girls from Ceuta to its mainland after reports of sexual assault in the north African exclave.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/ceuta-migrant-girls-transfer-spain-162757934.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ceuta-migrant-girls-transfer-spain-162757934.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Belgian prince recognises illegitimate son after 26 years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f3ed7ab6a4659ccd250c46b9ab1b93e16fdf013114143ae862e03fb1978aa5ce/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F95143183da44fffc42a25ed4da1f2165.jpg" alt="" /></p>A man has become a prince at the age of 26 after the brother of the king of Belgium finally recognised him as his own.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/belgian-prince-recognises-illegitimate-son-160449105.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/belgian-prince-recognises-illegitimate-son-160449105.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4 Americans die in helicopter crash in Kenya, State Department confirms]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/964a55e2451745128cbb008317757faff2521244a779c4651f5a1cac08b66b3e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Ff6b5c87daefb355ddc3e845a0f9c2eb2.jpg" alt="" /></p>Seven people were aboard the helicopter, officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/4-americans-die-helicopter-crash-163333896.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/4-americans-die-helicopter-crash-163333896.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNN Sued for Defamation by Azerbaijan After Iran War Report Links Country to Israel]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/03d37bc39bd4c774c59324f306e7f7848b4ec0c4a24ef645f00300c6fadf8f5c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmediaite_845%2Fc28076cd324d0ee9aabe53b947f467ea.jpg" alt="" /></p>CNN "endangered" Azerbaijan with a report claiming it allowed Israel to use its territory as a military base during the Iran war, according to a lawsuit.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/cnn-sued-defamation-azerbaijan-iran-163450820.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cnn-sued-defamation-azerbaijan-iran-163450820.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
