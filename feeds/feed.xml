@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 21:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 21:51:35 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 21:51:35 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ambush in South Sudan kills peacekeeping troops]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4e51463a25799cd618f4ed5e9d6188a157b8235cd805dbe2e9308035d3e4342f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8102925a5ea4439174ea4c67b605bce1.jpg" alt="" /></p>Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ambush-south-sudan-kills-peacekeeping-204724141.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ambush-south-sudan-kills-peacekeeping-204724141.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:51:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran warns vessels of fines, detention for violating Strait of Hormuz rules]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8f1156faa7b7c9118cfa2eacec5d51ff346d14294ad9bcf727067cb34dbe1739/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Fddd8eeb13725a1c35d6052e83c67c743.jpg" alt="" /></p>Iran’s Persian Gulf Strait Authority (PGSA) on Sunday warned that it will fine and detain commercial vessels accused of violating its protocols for passing through the Strait of Hormuz. The PGSA stated on social media that 45 named vessels have been blacklisted and could have their cargoes confiscated. “Effective immediately, any vessel cooperating with listed…]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-warns-vessels-fines-detention-191554447.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-warns-vessels-fines-detention-191554447.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 21:51:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Man charged with murder after house fire]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/988dbc2d262048508e7620a70510fca60fcfed36e1a7a56f2c5ac6b4464799bd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F20e892d947c55c3c9663d3a5f7c2a1bf.jpg" alt="" /></p>Pawel Kulpa is accused of one count of murder, eight of attempted murder and one count of arson.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-charged-murder-house-fire-204757415.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-charged-murder-house-fire-204757415.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9f397e0afddd93775ec9656cd752b5620fe299944268f9064e39817647967ff0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F86c357c2baba4bc4db59aea9210b010b.jpg" alt="" /></p>Island nation grapples with violence as it seeks to hold first elections in more than a decade.]]></description>
             <link>https://www.yahoo.com/news/world/articles/violence-flares-haiti-gang-attack-202339618.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/violence-flares-haiti-gang-attack-202339618.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7764ce6eed074c2b22b0ecfad65d6cb468def6f57603a1fbef9cfb6b5f2ef100/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0a5efa58294acc0ebb541550f5a504ae.jpg" alt="" /></p>Ahmed Hassoun was convicted of crimes including inciting civil war and complicity in intentional killing.]]></description>
             <link>https://www.yahoo.com/news/world/articles/syria-court-sentences-assad-era-201033719.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/syria-court-sentences-assad-era-201033719.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +50,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7700240563d9e9ef74cc6d93fdc735b925294b62727b28c413890142a2126d40/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fc998b5bbea979e46561b34ca9b8b575d.jpg" alt="" /></p>Netanyahu was speaking on a phone call with Channel 14's military correspondent, Noam Amir, when he stated that the Islamic regime tried to assassinate one of his sons. Iran tried to assassinate the son of Prime Minister Benjamin Netanyahu, the PM said during a phone call with Channel 14's military correspondent Noam Amir, broadcast on Monday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iran-tried-assassinate-one-sons-194546886.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-tried-assassinate-one-sons-194546886.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 21:22:13 GMT</pubDate>
         </item>
         <item>
@@ -7004,20 +7016,6 @@ and wounded dozens in Ukraine's capital and its surrounding region overnight, au
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/024fdc18d612726abd615b4aa387b6d016fd6a9a602bb6fda26e57a37c3affa7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F2ff669b78d744cfc01883fa1c296c780.jpg" alt="" /></p>Queen Silvia of Sweden, 82, boarded a firefighting plane in Belgium to meet Swedish crews battling the country's worst wildfire on record — see the photos and the full story.]]></description>
             <link>https://www.yahoo.com/news/world/articles/queen-silvia-sweden-82-climbs-172529807.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/queen-silvia-sweden-82-climbs-172529807.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hot weather leads to more accidents, German insurer says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/894dff73ce72e330c8b875f84b500006ce2b1efc85affb18dde3f6f428b63e3c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fdfee461507babc3716278ccba167f4d7.jpg" alt="" /></p>The chief executive of the German Social Accident Insurance (DGUV) has highlighted an increased risk of accidents due to heat. The frequency and intensity of heat have changed in recent years, Stephan Fasshauer explained in a DGUV article.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hot-weather-leads-more-accidents-164825216.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hot-weather-leads-more-accidents-164825216.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OAS warns Haiti needs help as it prepares to hold elections for the first time since 2016]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/73c0b6303cd4eece5309f8a588a3720a47e79dd1d5dedaae405a52f8e218490b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3a4cda9440ebcdbe06f73931843f4bb9.jpg" alt="" /></p>PORT-AU-PRINCE, Haiti (AP) — Albert Ramdin, secretary general of the Organization of American States, said Wednesday during a trip to Haiti that the country needs help fighting gangs and seizing back territory as it prepares to hold general elections for the first time in more than a decade.  Ramdin spoke as he concluded a trip to the troubled Caribbean country, where he met with the prime minister and other officials.  Ramdin said priorities are securing the main route to the main international airport; ensuring ongoing access to the airport and seaport; and restoring safe access to Haiti’s southern region.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/oas-warns-haiti-needs-help-163504585.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oas-warns-haiti-needs-help-163504585.html</guid>
             <pubDate>Wed, 19 Aug 2026 17:48:00 GMT</pubDate>
         </item>
     </channel>
