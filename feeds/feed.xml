@@ -4,16 +4,47 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Aug 2026 20:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2026 20:56:06 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Aug 2026 20:20:44 GMT</pubDate>
+        <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Houthis Target Saudi Oil Tanker in Red Sea Missile and Drone Attack]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a7e68a0b0ecc2e0889e8c14b69cf49a2e80160bcadcb22aede09d2d06f9686fd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Ff7ef5d03402a94a680b511052a62fc48.jpg" alt="" /></p>Yemen's Houthis on Monday targeted the Saudi oil tanker Amzan in the Red Sea off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/houthis-target-saudi-oil-tanker-200000543.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/houthis-target-saudi-oil-tanker-200000543.html</guid>
+            <dc:creator><![CDATA[Oilprice.com]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yemen’s Houthis report attack on Saudi oil tanker in Red Sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8a2649fb1d27d7ca2107b15d1602c3e30f6d5639fd4aecd1466495ea6421faf1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd821f6a50ffe1096dc9aa5443cc9ba66.jpg" alt="" /></p>Saudi shipping company Bahri confirmed its vessel was struck, all crew members safe.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/yemen-houthis-report-attack-saudi-194423850.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yemen-houthis-report-attack-saudi-194423850.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gang raid kills 30 in Haiti]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6aa01a2add14448dd34bd64423a1075ecfb4a653143401346dd928be596a4f6c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F6eae91fc7c336c0a49c4a64d34b24580.jpg" alt="" /></p>The killings in Kenscoff, Haiti, come as residents have seen frequent gang attacks, mass killings, rapes, arson and kidnappings.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gang-raid-kills-30-haiti-185554318.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gang-raid-kills-30-haiti-185554318.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry quits African conservation charity after rangers’ human rights abuses]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bac05b409428e3a8662eb476cc625ff30ad30b6b3666a003f7ee50976b36964d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F4e652ff181771188d8163a1137b2226c.jpg" alt="" /></p>African Parks was embroiled in scandal after it admitted that some of its rangers committed human rights violations.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/prince-harry-quits-african-conservation-183610269.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/prince-harry-quits-african-conservation-183610269.html</guid>
+            <dc:creator><![CDATA[The Hill]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2026 20:56:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook, TikTok promoted Colombian armed groups' content to recruit children: HRW]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/eef5069ea67e3e9c6ac6f7e72fcd0b3d5f3d18b3e314be9676e3bee03ee86980/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc54f7d1735de452b3291d3092ed02bb2.jpg" alt="" /></p>Facebook and TikTok failed to prevent the spread of content produced by Colombian armed groups to recruit children and in some cases even "appeared to promote these posts," Human Rights Watch reported on Monday.TikTok said it "proactively (prevents) illegal armed groups and organized criminal groups from using TikTok, including to target, exploit or recruit minors."]]></description>
             <link>https://www.yahoo.com/news/world/articles/facebook-tiktok-promoted-colombian-armed-200340816.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/facebook-tiktok-promoted-colombian-armed-200340816.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:20:44 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +52,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0e2914b988fe1c3dfcd170e65c93ba1a356a21d716240dc5f8bf70a7d727dc15/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F732fb176c74e531bd6f4d210323d1f50.jpg" alt="" /></p>The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia.]]></description>
             <link>https://www.yahoo.com/news/world/articles/manga-inspired-theme-park-built-200039668.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/manga-inspired-theme-park-built-200039668.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:20:44 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +59,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6983a65bdbb27686f1664f9749417b5cd5c6a4dc478157be5dd8ebe27c0a310c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fdce46dc0ce5b47553bf778c61b5d642e.jpg" alt="" /></p>IDF officials told the Post that the disaster management and evaluation systems are designed to intake, track, and analyze damaged structures, especially in Cali, where most IDF efforts have focused. The IDF has assisted many thousands of Colombians to return to hospitals, schools, and hundreds of other structures partially damaged by the August 10 earthquake that Israeli experts have judged as sufficiently safe, Colombian delegation deputy chief IDF Col.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-helps-colombians-sufficiently-safe-192837502.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-helps-colombians-sufficiently-safe-192837502.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:20:44 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +66,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44fea5f7b7228fd4a59199eceb042850620e115c06044b9f7a727548c3ee9952/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fe1bc9617d806c130f461ac544ee9b6f4.png" alt="" /></p>Britain Gets Access to Ukraine Battlefield Data to Train AI Defense Systems]]></description>
             <link>https://www.yahoo.com/news/world/articles/britain-gets-access-ukraine-battlefield-192541688.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/britain-gets-access-ukraine-battlefield-192541688.html</guid>
-            <dc:creator><![CDATA[Newsmax]]></dc:creator>
             <pubDate>Mon, 24 Aug 2026 20:20:44 GMT</pubDate>
         </item>
         <item>
@@ -6991,34 +7019,6 @@ and wounded dozens in Ukraine's capital and its surrounding region overnight, au
             <link>https://www.yahoo.com/news/world/articles/cnn-sued-defamation-azerbaijan-iran-163450820.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cnn-sued-defamation-azerbaijan-iran-163450820.html</guid>
             <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spain to transfer 500 unaccompanied children from Ceuta to mainland]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7e7e20a791e65f606f9c96cffb9293b5dc5643c542ea88bc5a33f47a19c2b964/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fc83dc40805ceb85a02cb6e58d2aa35a7.jpg" alt="" /></p>Spain plans to transfer around 500 particularly vulnerable unaccompanied minors from the Spanish exclave of Ceuta in North Africa to the mainland, Migration Minister Elma Saiz said in an interview with public broadcaster RNE on Wednesday. Saiz said the central government in Madrid was working together with Ceuta authorities and Spain's regional governments on a plan to relocate the children, who would be placed under the care of child protection organizations on the mainland.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/spain-transfer-500-unaccompanied-children-163335049.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/spain-transfer-500-unaccompanied-children-163335049.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trial For Woman Who Killed In-Laws with Poisoned Mushrooms Had ‘Catastrophic’ Errors: Attorney]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7bcadbd38561374c9f0a57276f6dbc3f43672959174cfafda4f4620f2312252c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4f55c64be2905a22794f46d02c769c66.jpg" alt="" /></p>Erin Patterson, 51, received three life sentences for killing her in-laws with death cap mushrooms after inviting them for lunch]]></description>
-            <link>https://www.yahoo.com/news/world/articles/trial-woman-killed-laws-poisoned-162253302.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trial-woman-killed-laws-poisoned-162253302.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nord Stream espionage: 2nd Ukrainian scuba specialist arrested, Germany says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/09be1395f40a5f830b6f4e87e635edc40bc6723efb44f2454f7b171cac32aff5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F6be98523180b3acff2edd443766febd0.jpg" alt="" /></p>The covert sabotage was designed to stop Russia from making money on selling gas to Europe, prosecutors say. They've arrested a second man they say is a scuba expert in the covert explosion.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nord-stream-espionage-2nd-ukrainian-154024177.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nord-stream-espionage-2nd-ukrainian-154024177.html</guid>
-            <pubDate>Wed, 19 Aug 2026 17:19:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crown Princess Mette-Marit marks special milestone amid difficult time for Norwegian royal family]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6957bd5c7842908c4e6e117ae02429a26e7fdb262ba30f73108ffe12f258c8db/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F65185e3c01bd651440dab162bf028c46.jpg" alt="" /></p>The outing marked a rare appearance for Mette-Marit during her recovery]]></description>
-            <link>https://www.yahoo.com/news/world/articles/crown-princess-mette-marit-marks-164315235.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crown-princess-mette-marit-marks-164315235.html</guid>
-            <pubDate>Wed, 19 Aug 2026 16:54:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
