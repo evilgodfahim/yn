@@ -4,16 +4,31 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 18:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 19:07:39 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 19:07:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Man spots wallaby hopping around English countryside]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c3f83c9fdbef7c66979cda5c6ceaa298a1e9c7e1383c73c6822984cf9c6d9f9b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftalker_news_345%2Fa43952533cc175d8780ae346512be901.jpg" alt="" /></p>"You're not from around here, are you?" The post Man spots wallaby hopping around English countryside appeared first on Talker.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/man-spots-wallaby-hopping-around-173930625.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-spots-wallaby-hopping-around-173930625.html</guid>
+            <dc:creator><![CDATA[talker.news]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 19:07:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gun-running ship located 78 years after being sunk by Israeli military]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06ae5ae971d78155dc0120b73d7a23a1487982ca1edf529292e311c9a3c12dea/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F01c5e9f33c4cf4ba12039b2723c82b3d.jpg" alt="" /></p>In June 1948, Israeli forces opened fire and sank the boat in waters off Tel Aviv on the orders of David Ben Gurion, Israel's first prime minister.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gun-running-ship-located-78-171556849.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gun-running-ship-located-78-171556849.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 19:07:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Trump is escalating his trade war with Canada — and what it means for you]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3aa6790c9f7872fdf52a41eaf9f8bb837bd601baf20d0967cc2497a46f97f3a7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-us-canada_8715.jpg" alt="" /></p>Both sides have announced new 50% tariffs that could make everyday goods more expensive. Trump has also threatened to change the name of Lake Ontario to "Lake America."]]></description>
             <link>https://www.yahoo.com/news/world/article/why-trump-is-escalating-his-trade-war-with-canada--and-what-it-means-for-you-180038283.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/article/why-trump-is-escalating-his-trade-war-with-canada--and-what-it-means-for-you-180038283.html</guid>
-            <dc:creator><![CDATA[Yahoo News]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +36,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a7cc40612514244ee2bae8a60e5574df2a19640042cd404e3aa141dc47727db1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa5f071263541da1ecd7fa9b8bb0416e8.jpg" alt="" /></p>Thirty-nine new wildfires have broken out across Greece within the space of a few hours, the fire service reported on Tuesday. The most severe fire is raging on the island of Salamis, off the coast of Athens, according to firefighters.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dozens-wildfires-break-across-greece-164836955.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dozens-wildfires-break-across-greece-164836955.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +43,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9d54c6102b7e05e748681ba6f3f069e21c36053701a8a3c506d11498001b2a62/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F231430bb08e0eaece9b82ba8ddb27a89.jpg" alt="" /></p>The footage shows dozens of men, women and children sitting in a forest.]]></description>
             <link>https://www.yahoo.com/news/world/articles/nigerias-president-orders-manhunt-kidnappers-164016406.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerias-president-orders-manhunt-kidnappers-164016406.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
         </item>
         <item>
@@ -7002,20 +7015,6 @@ Ruling Tisza party lawmaker Ildiko Eva Sopov pledged the new government would no
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f89a192d08bf3a483959e917afb4c5148236b40743446f885e44e6a23b95cd1a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F8615e44afb4c0bdae3152ed805f6f243.jpg" alt="" /></p>DHAKA, Aug 20 (Reuters) - Bangladeshi lawmakers elected veteran Bangladesh Nationalist Party leader Mirza Fakhrul Islam Alamgir as the country's new president on Thursday, making the longtime]]></description>
             <link>https://www.yahoo.com/news/world/articles/bangladesh-elects-ruling-party-veteran-114816309.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bangladesh-elects-ruling-party-veteran-114816309.html</guid>
-            <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German court: Stricken tanker loaded with Russian oil cannot be seized]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0c82201c74dcb0deaf59447bf4273a13f940d931a7e12021edde181e771762a2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe472c8481fd53090f0b0127aebe7b113.jpg" alt="" /></p>German customs authorities cannot seize a tanker loaded with Russian oil that suffered damage in the Baltic Sea last year for the time being, after expedited legal proceedings were discontinued. The Federal Customs Administration must await a decision in the main proceedings, said the Hamburg Finance Court - which handled the expedited case.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-court-stricken-tanker-loaded-123336242.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-court-stricken-tanker-loaded-123336242.html</guid>
-            <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Express train hits and kills 4 workers at a railway station in Japan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22d50379aa831c8532c38be711936b23c0e62453b478531476b0d3a0ffb8f680/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb4a101ba50d227bf889b0467d4bbaa76.jpg" alt="" /></p>Four people doing weed control work on a railway track in Japan died after being hit by an express train as it entered a station while they were still working there on Thursday, officials said.  The accident occurred at Shin-Kanuma Station, north of Tokyo, on the Tobu Nikko Line, and involved the Tokyo-bound Spacia express train, the Tochigi prefectural police said.  The four — three workers and a supervisor — were rushed to a hospital but later pronounced dead, according to police and train operator Tobu Railway Co.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/express-train-hits-kills-4-122947332.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/express-train-hits-kills-4-122947332.html</guid>
             <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
         </item>
     </channel>
