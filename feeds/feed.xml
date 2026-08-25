@@ -4,16 +4,39 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 17:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 18:27:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
+        <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Why Trump is escalating his trade war with Canada — and what it means for you]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3aa6790c9f7872fdf52a41eaf9f8bb837bd601baf20d0967cc2497a46f97f3a7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-us-canada_8715.jpg" alt="" /></p>Both sides have announced new 50% tariffs that could make everyday goods more expensive. Trump has also threatened to change the name of Lake Ontario to "Lake America."]]></description>
+            <link>https://www.yahoo.com/news/world/article/why-trump-is-escalating-his-trade-war-with-canada--and-what-it-means-for-you-180038283.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/article/why-trump-is-escalating-his-trade-war-with-canada--and-what-it-means-for-you-180038283.html</guid>
+            <dc:creator><![CDATA[Yahoo News]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of new wildfires break out across Greece]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a7cc40612514244ee2bae8a60e5574df2a19640042cd404e3aa141dc47727db1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa5f071263541da1ecd7fa9b8bb0416e8.jpg" alt="" /></p>Thirty-nine new wildfires have broken out across Greece within the space of a few hours, the fire service reported on Tuesday. The most severe fire is raging on the island of Salamis, off the coast of Athens, according to firefighters.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dozens-wildfires-break-across-greece-164836955.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dozens-wildfires-break-across-greece-164836955.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria's president orders manhunt after kidnappers upload victim video]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9d54c6102b7e05e748681ba6f3f069e21c36053701a8a3c506d11498001b2a62/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F231430bb08e0eaece9b82ba8ddb27a89.jpg" alt="" /></p>The footage shows dozens of men, women and children sitting in a forest.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nigerias-president-orders-manhunt-kidnappers-164016406.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nigerias-president-orders-manhunt-kidnappers-164016406.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Tue, 25 Aug 2026 18:27:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Map shows countries paying people to have babies as birth rate drops]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/653c99bbbbdb3e8dfd3eb00825f5c568301239439262556b21f9f8665cf53969/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F507f33663a78c094906fb1db7e56f420.jpg" alt="" /></p>In one country, children can receive up to $55,000 by the time they turn 17.]]></description>
             <link>https://www.yahoo.com/news/world/articles/map-shows-countries-paying-people-172738343.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/map-shows-countries-paying-people-172738343.html</guid>
-            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +44,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c832fe7715b6ba1d28d6f9c4d8ad5fe3ab2c65350187d790ce847e0983b7f131/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ffb8f49c252b62f0caed5511103829a75.jpg" alt="" /></p>Colombian President Abelardo De la Espriella ordered police and immigration authorities to begin to identify and deport migrants without legal status.]]></description>
             <link>https://www.yahoo.com/news/world/articles/colombia-orders-raids-targeting-migrants-171831580.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/colombia-orders-raids-targeting-migrants-171831580.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +51,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4a7a90ead14a812b02e3064df962d481b48ab6d5cca1945fe7176fe62da45d61/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff71014019bfc4bed56b6ebb63afea8a5.png" alt="" /></p>A drone attack on Leipzig Airport highlights the "very real threat" faced by the country, the German chancellor says.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germanys-merz-warns-attackers-pay-171225099.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germanys-merz-warns-attackers-pay-171225099.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +58,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0f34c7eba4987f9dde2d68d82a704a409fd7ba8ca7cad32d21f9b972d513f00f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F255ad28162d335d916b0ba4f41406dbe.jpg" alt="" /></p>Since being built in the 1850s, Mentmore Towers has been featured in "Batman Begins" and other movies, but has fallen into disrepair.]]></description>
             <link>https://www.yahoo.com/news/world/articles/u-k-estate-used-wayne-170906377.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-k-estate-used-wayne-170906377.html</guid>
-            <dc:creator><![CDATA[CBS News]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +65,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2fca828ae6633d00186499407a960c29afddb84cd90200e16502ee412fe34deb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Ff362c12a91b22847a65c4e0e0cf40fed.jpg" alt="" /></p>Lebanon wants to preservie a United Nations role in the south after the current peacekeeping force leaves, Lebanese and Western analysts said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/analysis-unifil-set-leave-lebanon-170403514.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/analysis-unifil-set-leave-lebanon-170403514.html</guid>
-            <dc:creator><![CDATA[UPI]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +72,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e29e463434a2562e0fa0ba0847896f655e653569b509a7c00217cbeee9f66935/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Froad_track_223%2F789ec49431a66c5fd813e91fb0135f15.jpg" alt="" /></p>The owner wanted attention for his kiss-covered car. Unfortunately, he got that attention from the police.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-covers-car-3400-kisses-161354820.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-covers-car-3400-kisses-161354820.html</guid>
-            <dc:creator><![CDATA[Road & Track]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +79,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/56f61829b9a93976c0d0f81b235dadcccc53b95bef26acdf4525c85f1febc9f1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6fc51ff1935bbe5296f679dc1a13628c.jpg" alt="" /></p>If, as widely expected, Vladimir Putin orders a general mobilisation after September’s fake elections in Russia, he may discover that he is not simply rounding up another 300,000 men to send to his failing war in Ukraine. He could be mobilising the very people who eventually bring it to an end.]]></description>
             <link>https://www.yahoo.com/news/world/articles/putin-soon-order-full-mobilisation-161246807.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-soon-order-full-mobilisation-161246807.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +86,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d7f48f80bfd6bfe82634e64badd15029e26df0362cb19a051573cb19f6de83b8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F499c7cd209dab40a19287de78d702925.jpg" alt="" /></p>Rikki Hall, 33, was on duty in Swansea when he allegedly attacked the woman, the police watchdog said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-police-officer-charged-raping-160826735.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-police-officer-charged-raping-160826735.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +93,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/db4011fda1e16f299f583fda88044d745734777e27134d21b05b5bca2065f508/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3c30bcfc6f96e53ee35963f958d624ed.jpg" alt="" /></p>A close aide of Ukrainian President Volodymyr Zelensky has been ordered to spend 60 days in pre-trial detention as she faces a money laundering investigation, prosecutors said on Tuesday. Iryna Mudra had served as the deputy head of the Zelensky's office before he sacked her last week after allegations emerged against her and a former lawmaker.]]></description>
             <link>https://www.yahoo.com/news/world/articles/zelensky-aide-handed-pre-trial-160340661.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zelensky-aide-handed-pre-trial-160340661.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +100,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/54577e6b7ee12d66e3e6bd12deadae926ace0518f4467f4412d3a66fb6771549/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Feeeac91d4cd9486e20d348f9f7b94dc3.jpg" alt="" /></p>They trundled over the cobblestones of the historic centre, skimmed the surface of the River Dnipro and soared over Kyiv’s tallest monument.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-holds-first-ever-robot-155854599.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-holds-first-ever-robot-155854599.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Tue, 25 Aug 2026 17:52:58 GMT</pubDate>
         </item>
         <item>
@@ -7002,27 +7016,6 @@ Ruling Tisza party lawmaker Ildiko Eva Sopov pledged the new government would no
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/22d50379aa831c8532c38be711936b23c0e62453b478531476b0d3a0ffb8f680/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fb4a101ba50d227bf889b0467d4bbaa76.jpg" alt="" /></p>Four people doing weed control work on a railway track in Japan died after being hit by an express train as it entered a station while they were still working there on Thursday, officials said.  The accident occurred at Shin-Kanuma Station, north of Tokyo, on the Tobu Nikko Line, and involved the Tokyo-bound Spacia express train, the Tochigi prefectural police said.  The four — three workers and a supervisor — were rushed to a hospital but later pronounced dead, according to police and train operator Tobu Railway Co.]]></description>
             <link>https://www.yahoo.com/news/world/articles/express-train-hits-kills-4-122947332.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/express-train-hits-kills-4-122947332.html</guid>
-            <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lebanon deports a Syrian general for first time since Assad’s fall]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a7cdd5d2fcf9cb14719d53abf599bc05ffdf1de6f8a6bc0c389e6d44945d7d7a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Ff16a3a721604bc51627f65ea5d3199f8.jpg" alt="" /></p>Lebanon has extradited a former Assad official to Syria for the first time since the dictator was ousted nearly two years ago.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lebanon-deports-syrian-general-first-122142023.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lebanon-deports-syrian-general-first-122142023.html</guid>
-            <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Switzerland seeks additional $1.2 billion for air defense in 2026 budget]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/50b7c36fd9be055df8c4001e8f30203408b958ee4bc32608d5a720e3daf3c51f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdefense_news_499%2F8ed459127bae653bae817d1d9a2f3260.jpg" alt="" /></p>Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/switzerland-seeks-additional-1-2-122003260.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/switzerland-seeks-additional-1-2-122003260.html</guid>
-            <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tourists flee as smugglers drop dozens of migrants on Spanish beach]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9342d73bdaf4937cc8c9d2e745575e4c3deebe4f3d77d96929bfb901fa9e17cf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fa84235b55ad1c74e4d22d08085c7d439.jpg" alt="" /></p>Dozens of migrants stormed a beach in the south of Spain and caused tourists to flee on Wednesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tourists-flee-smugglers-drop-dozens-121955007.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tourists-flee-smugglers-drop-dozens-121955007.html</guid>
             <pubDate>Thu, 20 Aug 2026 13:39:23 GMT</pubDate>
         </item>
     </channel>
