@@ -4,16 +4,71 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 23:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 01:21:07 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Hong Kong's first post-colonial leader Tung Chee-hwa dies aged 89]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68770d2234f65f6341fa384fd7cb930023ccdeed5697892fcc9a74d09517aeae/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffb9753f3e0543cdc015b3f5dc60a218b.jpg" alt="" /></p>Tung Chee-hwa, Hong Kong's first leader after the city's return to Chinese rule, has died aged 89, his office said on Wednesday.Tung served as a bridge during Hong Kong's transition from colonial rule, steering the city as it was battered by the Asian financial crisis, the deadly SARS epidemic and mass protests in its turbulent early years under Chinese rule.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-010237356.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-010237356.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambodia resident says timber trucks are hauling forest cleared for dam reservoir in national park]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d820483545446eb10d273220382b5de3104e80ffd29b3db1cb75ebbc17ac7d4f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F59292ac14d28a8954dec81f0b4a09263.jpg" alt="" /></p>"But the company set them up as security guards; we cannot get in or get out."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cambodia-resident-says-timber-trucks-002700958.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cambodia-resident-says-timber-trucks-002700958.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sharpeville massacre, 66 years on: Families still wait for justice]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/840aaf89c78fe6c13908f165c9b96b62cc14b5e6ac9fe24f59bf3f7ed0313c76/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7b4f0830bf1d3fddff83b33cf96805a5.jpg" alt="" /></p>More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/sharpeville-massacre-66-years-families-002457154.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sharpeville-massacre-66-years-families-002457154.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Suspected smugglers on trial over deadliest migrant tragedy in France]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3674f2723c4a200d7b2ebc7b32a6a7d90714742ea8b7b1f3d135880c493e7466/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F874bc74e682644401ac1d33664e077a5.jpg" alt="" /></p>Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/suspected-smugglers-trial-over-deadliest-000410645.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspected-smugglers-trial-over-deadliest-000410645.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran launches missile barrage at Jordan after US strikes 5 Iranian tankers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94eca653de479787df6d23c9f27b68669d81f238f5953f12b5bb4b061c95a340/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F1541049ae43c27b596f27a6a455a06d3.jpg" alt="" /></p>The US destroyed five Iranian tankers in response to attempted ballistic missile attacks on a US Navy warship, US Central Command (CENTCOM) said on Tuesday.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/tehran-threatens-vessels-bahrain-kuwait-212453680.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tehran-threatens-vessels-bahrain-kuwait-212453680.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paul Adams: British-Israeli relations at lowest ebb in decades]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/567ce0fc15b052497c2caad19ddfd2834f81567e2ab691f43f371332b050a949/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3e789a6159986c6531385b95a6d15a82.jpg" alt="" /></p>Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/paul-adams-british-israeli-relations-204601812.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/paul-adams-british-israeli-relations-204601812.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yes, There Has Been an Uptick in High-Profile Art Heists. Here’s Why]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bc0722e92af5bae4d2df54c28ac6c896b618570ff2e19afba4108b273016e1f0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Ffb1dabd9b28757eece47e8fef9818f42.jpg" alt="" /></p>Jewels were stolen from the Louvre. Renoir paintings have gone missing. Experts say they are part of a wave of brazen museum burglaries across Europe.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/yes-uptick-high-profile-art-202957320.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yes-uptick-high-profile-art-202957320.html</guid>
+            <dc:creator><![CDATA[Time]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[King Haakon VIII and Mette-Marit host European Royalty for the first time]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8310cc8d6a815cb1f02309641c01f05bee7ddffecf9aa2b757ee0e0465e20fde/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fb6d085d9a7ab309f4bd32dc5bbcd08a9.jpg" alt="" /></p>Norway’s King Haakon VIII and Queen Mette-Marit host their royal peers in Oslo for a private dinner marking the beginning of a new reign.]]></description>
             <link>https://www.yahoo.com/news/world/articles/king-haakon-viii-mette-marit-222436931.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-haakon-viii-mette-marit-222436931.html</guid>
-            <dc:creator><![CDATA[¡HOLA! US & AMÉRICAS]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +76,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/67fc1569e3e4a98a059b815c827cfd3007f0d18d70fb9aa9c2015aa284223764/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F1d584811e4e9a13dc4843d8050234b8a.jpg" alt="" /></p>SEOUL, Sept 9 (Reuters) - South Korean President Lee Jae Myung and French President Emmanuel Macron discussed cooperation on security and freedom of navigation in the Strait of ‌Hormuz during a summit in Paris on Tuesday, but the talks did not concern troop ‌deployment, Seoul's presidential office said. Lee, on a state visit to France, said at a joint press conference that he had discussed the ​Strait of Hormuz with Macron as part of wider talks on international security issues.]]></description>
             <link>https://www.yahoo.com/news/world/articles/south-korea-says-hormuz-talks-221044715.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korea-says-hormuz-talks-221044715.html</guid>
-            <dc:creator><![CDATA[Reuters]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +83,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f4fb4c3e50922ceae3ec265afb515fa6dd8ba454bdd9d95197146887d6424385/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Foilprice.com%2Fe1a848ae3d4966b37b8d027f0b1759e1.jpg" alt="" /></p>The field’s location near Syria gives Akkas major strategic significance, potentially helping Washington strengthen its presence across western Iraq.]]></description>
             <link>https://www.yahoo.com/news/world/articles/why-u-racing-lock-down-220000266.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-u-racing-lock-down-220000266.html</guid>
-            <dc:creator><![CDATA[Oilprice.com]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +90,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/791b223099f6fae85dae9bd30c90fc4156f722945e79d94ce65befa115b0ab95/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff8bc9a93d8e3496fee038bc9413d08f0.jpg" alt="" /></p>Norway prepares to bid farewell to King Harald V with a solemn funeral and procession in Oslo, as European royals gather to honor the late monarch.]]></description>
             <link>https://www.yahoo.com/news/world/articles/king-harald-v-final-farewell-214623372.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-harald-v-final-farewell-214623372.html</guid>
-            <dc:creator><![CDATA[¡HOLA! US & AMÉRICAS]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +97,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/337cbe6b16593feb8685bce180067b2f34ec75bd63f22487b93eecb0f06401a3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F00679f09812fc9f131d1291e5a2ca671.jpg" alt="" /></p>The Jordanian royal will join King Abdullah II and members of Europe’s royal families for the Norwegian monarch’s final farewell.]]></description>
             <link>https://www.yahoo.com/news/world/articles/queen-rania-confirms-last-minute-214336109.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/queen-rania-confirms-last-minute-214336109.html</guid>
-            <dc:creator><![CDATA[¡HOLA! US & AMÉRICAS]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +104,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a08a39ed2f9a300cf214525cf7f3339c097faed0811065dacc7d0c5194bf4718/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fbb6425f94d2d1ec4654df0af6a1c95dd.jpg" alt="" /></p>Gambian President Adama Barrow on Tuesday pledged to boost power supplies by next month after violent protests over blackouts that have dogged the west African country since June.The demonstrations mark a sharp escalation from earlier power protests and come just months before December elections, in which Barrow is running for a third term.]]></description>
             <link>https://www.yahoo.com/news/world/articles/gambian-leader-vows-power-boost-214148630.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gambian-leader-vows-power-boost-214148630.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +111,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a70943a69f51e15a9716cb57eecdfc2e8d9f446cd0bf107aaf5d8a7ab8289b02/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_times_968%2F22361e2b799518255241281841a79d2a.jpg" alt="" /></p>Ukraine is contracting a supply of around 1,000 missiles for U.S.-designed Patriot air-defence systems.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-contracting-around-1-000-212919232.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-contracting-around-1-000-212919232.html</guid>
-            <dc:creator><![CDATA[Military Times]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +118,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/210a662bd6d71510b07c3bd17df2ac01d3f821c008afb076010aa1efc7054322/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fb5bbf44f1e1c60a711ff79e48a9af65c.jpg" alt="" /></p>Pope Francis' Final Book Set for November Publication]]></description>
             <link>https://www.yahoo.com/news/world/articles/pope-francis-final-book-set-212801812.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-francis-final-book-set-212801812.html</guid>
-            <dc:creator><![CDATA[Newsmax]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +125,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b30f0c7bb1af8e5777ccb5d2db4914d14337c8a86300be551d4d1f5107426f45/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2Fe502bacb97efbf083edb99abc08a0ac2.jpg" alt="" /></p>King Felipe and more royals have been spotted in Oslo ahead of King Harald of Norway's state funeral. Royals were spotted heading to the palace in a bus on the eve of the service.]]></description>
             <link>https://www.yahoo.com/news/world/articles/king-felipe-leads-sombre-royals-210725289.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/king-felipe-leads-sombre-royals-210725289.html</guid>
-            <dc:creator><![CDATA[Hello!]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +132,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/108d18ad2d28b7f678e08613c8303751ec1f0f20e4b202ae75790eda93ffd8b8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkmsp_fox_local_videos_345%2Fed947b408d3eacac61818e0164585919.jpg" alt="" /></p>Iran has launched missiles toward U.S. targets in Jordan, Iranian state-run media said, following the latest American strikes.  It’s the latest tit-for-tat retaliation after the U.S. military said it destroyed five Iranian crude oil tankers following two attacks on a U.S. warship by Iran’s Revolutionary Guard over the past two days.  U.S. Central Command, when asked about the strikes on the Jordanian airbase, said it had no information to offer.]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-strikes-iranian-tankers-more-204556424.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-strikes-iranian-tankers-more-204556424.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +139,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b213743364b2f08c8fcb571191d8efbb75307de65ed0fe623dc7a171367dc524/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpc_gamer_708%2F02a4fbbcf55316d25305cdeabc6467f8.jpg" alt="" /></p>It seems like Clair Obscur: Expedition 33 really made an impact on Macron.]]></description>
             <link>https://www.yahoo.com/news/world/articles/inspired-success-games-clair-obscur-204550279.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/inspired-success-games-clair-obscur-204550279.html</guid>
-            <dc:creator><![CDATA[PC Gamer]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +146,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/20ae37f4c5da1720f27dac2152b1b0e9796295d7a2c7e995784eb0e13bbbf18a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F9b294d202f6abe73f5c89a9c72385b39.jpg" alt="" /></p>British Foreign Secretary Ed Miliband accused "settler terrorists" of "ethnic cleansing" in areas of the West Bank and said the UK was bringing in an "import ban on goods from illegal settlements." Israel closed the British consulate in Jerusalem in response.]]></description>
             <link>https://www.yahoo.com/news/world/articles/11-european-nations-canada-announce-163700229.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/11-european-nations-canada-announce-163700229.html</guid>
-            <dc:creator><![CDATA[Euronews]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -110,7 +154,6 @@
 In 1985, Tung joined a committee to aid in the writing of the Basic Law, Hong Kong's mini-constitution that has governed the former British colony since it was handed over to China in 1997.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-183130056.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-183130056.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -118,7 +161,6 @@ In 1985, Tung joined a committee to aid in the writing of the Basic Law, Hong Ko
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/25529a0f974e56cb3516ce5f615c3fce341abfde660a04382a0265fe0c543e3e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2Fe7c1fcb035bc2490ce007dfbbcc3a26f.jpg" alt="" /></p>Lithuania Trains Citizens for Potential Russian Attack]]></description>
             <link>https://www.yahoo.com/news/world/articles/lithuania-trains-citizens-potential-russian-201531059.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lithuania-trains-citizens-potential-russian-201531059.html</guid>
-            <dc:creator><![CDATA[Newsmax]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -126,7 +168,6 @@ In 1985, Tung joined a committee to aid in the writing of the Basic Law, Hong Ko
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/616d1225c050eac393b907f0691bb77984911b60a4f969bd71ad3f9d1fdd559d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F65ac935b80808eaa7b96a04662ddc87f.jpg" alt="" /></p>Iranian media reported several explosions on the island of Kharg in the Gulf and near the port city of Jask on the Strait of Hormuz. Explosions were heard on Tuesday evening in several parts of Kharg, including the port area, the government-aligned Mehr news agency reported.]]></description>
             <link>https://www.yahoo.com/news/world/articles/explosions-reported-irans-key-oil-200341394.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/explosions-reported-irans-key-oil-200341394.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -134,7 +175,6 @@ In 1985, Tung joined a committee to aid in the writing of the Basic Law, Hong Ko
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f6621fd49c64f9feb65b69898a79286811a4a0c9306a29fb382ee1309e2a8bd9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Ff4e7a0636b48bf6c10c00822cc37df5f.png" alt="" /></p>Officials say 70 Americans remain unaccounted for after catastrophic flooding along the Nepal-China border, while warning the region remains too dangerous for travelers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/70-americans-still-unaccounted-catastrophic-195348360.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/70-americans-still-unaccounted-catastrophic-195348360.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -142,7 +182,6 @@ In 1985, Tung joined a committee to aid in the writing of the Basic Law, Hong Ko
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2a209760129ad8b7df7bb12ec04844755a64168bd082f81e2fca4e41da728e08/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2Ffbaa567ef541f8e38e603825336e2095.jpg" alt="" /></p>Canada, France and the United Kingdom on Tuesday announced a joint ban on imported goods from Israeli settlements in what they called a “turning point” in the efforts to reach a two-state solution in the region. “One year ago, we recognized the State of Palestine,” the nations wrote in a statement. “The time has come…]]></description>
             <link>https://www.yahoo.com/news/world/articles/canada-france-uk-ban-imports-190752082.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/canada-france-uk-ban-imports-190752082.html</guid>
-            <dc:creator><![CDATA[The Hill]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 23:05:26 GMT</pubDate>
         </item>
         <item>
@@ -6994,55 +7033,6 @@ As of a week after the floods, the death toll from inside China stands at 21, wi
             <link>https://www.yahoo.com/news/world/articles/nine-injured-liquid-attack-afd-211838519.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nine-injured-liquid-attack-afd-211838519.html</guid>
             <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Palestinians killed as settlers, Israeli forces raid West Bank village]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4efb196869cba390038a8ca7ac58e85718c2fc1f0d726de236dc828df17d6eda/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F37ff8c975232ebf3e08f3ee2a6f6db84.jpg" alt="" /></p>Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-palestinians-killed-settlers-israeli-205946328.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-palestinians-killed-settlers-israeli-205946328.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Couple’s 25th Wedding Anniversary Trip Turned Into Nightmare When Floods Hit and Entire Tour Group Vanished, Family Says]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ec17ce8fed419c022d2490b282abd0943ab7096ee3058a1318390b342dafca21/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Ff848eb7642c123c828ff7b2470906b9b.jpg" alt="" /></p>“It was an amazing trip,” Divya Chandrashekar says. “Until it happened”]]></description>
-            <link>https://www.yahoo.com/news/world/articles/couple-25th-wedding-anniversary-trip-205602652.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/couple-25th-wedding-anniversary-trip-205602652.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Document That Officially Ended World War II Was Surprisingly Simple]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/842df6188c9284038fa407863f71312935bb20379b359e7f05191614aafe97cd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmental_floss_articles_825%2F1eccb3b97b172b3c930713a692b1d950.jpg" alt="" /></p>Japan's signing of the Instrument of Surrender officially ended World War II, but its effects were felt years later.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/document-officially-ended-world-war-200004053.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/document-officially-ended-world-war-200004053.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Agriculture—and Farmers—Should Be at the Heart of Transforming Africa's Economy, Leading Voices Agree]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/99006f41cd5647c103818dd1c49948239b328d213a102faedbed92b97e2fcf73/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F5fc96242e98023c329cfbee50a46586a.jpg" alt="" /></p>"It's a huge opportunity if you make [the workforce] agri-food system skilled."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/agriculture-farmers-heart-transforming-africas-213033592.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/agriculture-farmers-heart-transforming-africas-213033592.html</guid>
-            <pubDate>Wed, 02 Sep 2026 22:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump proposes renaming the Strait of Hormuz the 'Trump Strait.' Can he do that?]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a315e7d871305a53d99cbb41b7c10a27027254074635f83d8e627739ad668bef/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fthumb-trump-strait-of-hormuz_0682.jpg" alt="" /></p>The suggestion follows his moves to rename the Gulf of Mexico and Lake Ontario.]]></description>
-            <link>https://www.yahoo.com/news/world/article/trump-proposes-renaming-the-strait-of-hormuz-the-trump-strait-can-he-do-that-210325104.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/article/trump-proposes-renaming-the-strait-of-hormuz-the-trump-strait-can-he-do-that-210325104.html</guid>
-            <pubDate>Wed, 02 Sep 2026 22:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Migrant plight, local anger divide Ceuta one month after influx]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f936c36fcd0166cced9ad7cef7babc4091d8eb008d8f44fc37fc2bbb378004af/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F23546ac03bc3a99bfef5e9207b25e45f.jpg" alt="" /></p>Otman Ianaya risked his life swimming from Morocco to the Spanish territory of Ceuta.Ianaya, 40, said he plunged into the water with his wife and two young daughters because "there is no work in Morocco" and "I want to build a future in my life."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/migrant-plight-local-anger-divide-203859213.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/migrant-plight-local-anger-divide-203859213.html</guid>
-            <pubDate>Wed, 02 Sep 2026 22:12:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uganda’s King Oyo Rukidi IV Dies at 34 After 30-Year Reign]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/da298dfeedfaf48972d58d1737c131b243e92b3eaf43980c0dd4a4d080204ae0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fd6231eba4cd0edbcffe464bd26e9c033.jpg" alt="" /></p>Crowned at just 3 years old, the Tooro monarch became the world's youngest reigning monarch and spent nearly 31 years on the throne.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/uganda-king-oyo-rukidi-iv-203600165.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uganda-king-oyo-rukidi-iv-203600165.html</guid>
-            <pubDate>Wed, 02 Sep 2026 22:12:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
