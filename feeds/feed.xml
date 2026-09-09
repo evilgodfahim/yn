@@ -4,16 +4,345 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 01:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 06:14:09 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Scotland's papers: School results slump and civil servant gift card spend]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a295cf2683e111060434ae70d18aa653c588e2beaff049ce826740c03e03a50b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F48a9f7d41d8e68fb8060307dfdeab6bf.jpg" alt="" /></p>A review of the front page stories from the daily newspapers in Scotland.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/scotlands-papers-school-results-slump-054206175.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/scotlands-papers-school-results-slump-054206175.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand public servants walk off job over pay offer]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6691565bc4a09e8fddb6190980581ae8b0fc74fab14cbb4c1df561174a609022/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fe16c0abfd65b56fa537daeffcba4cc1b.jpg" alt="" /></p>WELLINGTON, Sept 9 (Reuters) - Nearly 10,000 New Zealand public servants walked off the job for several hours on Wednesday, adding to pressure on a government confronting a weak urban economy and]]></description>
+            <link>https://www.yahoo.com/news/world/articles/zealand-public-servants-walk-off-053901860.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/zealand-public-servants-walk-off-053901860.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five killed in Malaysia ‘flying doctor’ service helicopter crash]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2ffbd30b681634dd08bf73d84876dfc5ed9239af016c21dd64078cc768c70932/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F467e1cabff2087daee16e29c770accdd.jpg" alt="" /></p>Helicopter crashes in Sarawak, Malaysia, as haze from Indonesian wildfires hampers search]]></description>
+            <link>https://www.yahoo.com/news/world/articles/five-killed-malaysia-flying-doctor-053623905.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/five-killed-malaysia-flying-doctor-053623905.html</guid>
+            <dc:creator><![CDATA[The Independent]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea builds new Yongbyon uranium enrichment facility, IAEA says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/083751188e50e4e9f2d89d1beade6c141bbcd8d100fe8e32383baa97bdcae5ec/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fc0753fa38f03e1b58df7f0c7a7dee8b1.jpg" alt="" /></p>SEOUL, Sept 9 (Reuters) - North Korea has built a new uranium enrichment facility at its main Yongbyon nuclear complex that could house up to 28 centrifuge cascades, and started operating an expanded]]></description>
+            <link>https://www.yahoo.com/news/world/articles/north-korea-builds-yongbyon-uranium-053613155.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-builds-yongbyon-uranium-053613155.html</guid>
+            <dc:creator><![CDATA[Reuters]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel’s war leaves Lebanon’s schools balancing students and the displaced]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c31a880a9841c026c83e2cff0f175369b223f9490967a650b693b2b9a6776483/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F5b90a1ee8fd7b537cc1e420314cc7943.jpg" alt="" /></p>Schools in Lebanon are set to start on September 15, but many still host people displaced by Israel’s war.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-war-leaves-lebanon-schools-053611505.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-war-leaves-lebanon-schools-053611505.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Africa's informal economy: a burden and lifeline]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b3b24d955263227d0577246699854ba044e5b284616c9e9f525068ac6131118d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4124ed99200b9981021e921cd6a1d9c5.jpg" alt="" /></p>Across the pavements, residential areas and public spaces of African cities, the informal economy is booming under the noses of authorities, who are often powerless to stop it."The pavements and public spaces are occupied.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/africas-informal-economy-burden-lifeline-051315431.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/africas-informal-economy-burden-lifeline-051315431.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU to help cities tighten screws on Airbnb, holiday rentals]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2c8fb1ed9cf83d4eb8ab1ada7b5ec8e92a4da3fda05c922215dc72741a5b2c7d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc52984d821837529251947096545865a.jpg" alt="" /></p>European cities will gain more leeway to curb short-term rentals such as Airbnb under plans to bring down housing costs in tourism hotspots that the European Union is to unveil Wednesday.But curbs have often been followed by court challenges from rental providers and tourism operators, resulting in legal uncertainty.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/eu-help-cities-tighten-screws-051025507.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-help-cities-tighten-screws-051025507.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nature GCSE backers want more 'greenlightenment']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bb1d2aa9a45348fc4a1037f053d7cd7f56970c26d3d6cd15b08c547086d7a34d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcd20444abfa927d31a042edd78d2ca6e.jpg" alt="" /></p>Steve Backshall calls for nature education as a survey says 55% of children have not climbed a tree.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/nature-gcse-backers-want-more-050538384.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nature-gcse-backers-want-more-050538384.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Royals, world leaders gather in Oslo for King Harald's funeral]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/790987193ffc864fa80905d3f6984f7837315e02d1e9ece89e445e6e0da0357c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6a3ef8547fb08ba702abafe2a252d722.jpg" alt="" /></p>Norway bids farewell to King Harald V on Wednesday, with monarchs, other members of European royal families and heads of state gathering in Oslo for his state funeral. Harald, who enjoyed widespread popularity among Norwegians during his 35-year reign, died in hospital at the age of 89 on August 28 after developing a serious blood infection.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/royals-world-leaders-gather-oslo-050336864.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/royals-world-leaders-gather-oslo-050336864.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway to bid final farewell to King Harald V with funeral attended by royalty and dignitaries]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8eeb5f5a293295bfc9649473c488c2bc8b7b33720d16c252e60f71051d566a82/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F1a6197d855863cfef8d58d737b71299a.jpg" alt="" /></p>Norway will bid its final farewell to King Harald V on Wednesday with a funeral attended by royalty and leaders from across Europe and beyond, who will pay tribute to the popular monarch's 35-year reign.  Harald, who died on Aug. 28 aged 89, was Europe’s oldest monarch and had modernized the royal house, but refused to follow in the footsteps of other aging monarchs who have abdicated in recent times.  On Wednesday, the coffin will be taken from the royal palace to Oslo Cathedral in a procession, followed by Haakon, other senior Norwegian royals, foreign guests and representatives of Norway’s parliament and others.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/norway-bid-final-farewell-king-050109907.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/norway-bid-final-farewell-king-050109907.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Russian strike tore apart a couple's home on the eve of their wedding. They still got married]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/203b8e8a61eb47186b52f1eec2f54f18bbe7b81175f886a55c915b5629a991ad/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fce863bfdecec7fabe7b409ddeba8e51a.jpg" alt="" /></p>On the eve of her wedding, Liudmyla Ryzhak pressed her delicately embroidered dress, laid out a full white tulle skirt and her husband’s traditionally patterned shirt, then hung them on the bedroom door.  The pair was soon digging their wedding clothes out of the rubble.  Explosions were heard in Kyiv for almost five hours overnight.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russian-strike-tore-apart-couples-050045912.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-strike-tore-apart-couples-050045912.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine is quietly destroying Russia’s irreplaceable bombers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c056c69c8f86bb7ece216a83c912e2a90f9e38f7c6e298d41d7d49b7e81c61e9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6933b9e9c7a7307e53019bd135658467.jpg" alt="" /></p>The drone crossed nearly 500 miles of fortified Russian territory before it found its mark.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-quietly-destroying-russia-irreplaceable-050000409.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-quietly-destroying-russia-irreplaceable-050000409.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Families grieve in the ruins of an Iranian school where a US strike killed dozens of children]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0af3504161ade171671a1cb8a91aa1a7cdd376414e3d246d763c3a629a001ec8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F30ea69b3ab8e8a96149b2b6dcab8926a.jpg" alt="" /></p>The sun set over this southern Iranian city, and Heydar Sadeghi was where he can be found almost every evening: on a bench next to the shattered remains of his grandson’s school.  A banner strung around the rubble showed the faces of children and teachers killed here by an American airstrike on Feb. 28, the first day of the war on Iran.  Among them are Sadeghi’s 11-year-old grandson Hami and the boy’s mother, Neda Salehizadeh.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/families-grieve-ruins-iranian-school-045826313.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/families-grieve-ruins-iranian-school-045826313.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As wildfires spread across Europe, France's brush-clearing rules offer solar sites a defense]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4b8a0909c47c4cde68d4c5168d6029607052f5f1666a1633701675aabb2a92ba/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F3d4a676ac880bbebee10fd48438ccf14.jpg" alt="" /></p>At some locations, sheep grazing helps to keep vegetation to a minimum.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/wildfires-spread-across-europe-frances-045000314.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/wildfires-spread-across-europe-frances-045000314.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Families sell gold for solar as generator power climbs to $250 a month in Syria]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a555b04477da8a55f09e5ab10aef5103be3e19d66617a846c56ba65a98271670/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ffbf55d1750a8ad3a56cfbdec5a406f7c.jpg" alt="" /></p>"Generators also frequently break down, leaving us without electricity when we need it."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/families-sell-gold-solar-generator-043700672.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/families-sell-gold-solar-generator-043700672.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ukraine’s battlefield optimism is ebbing as Russia threatens its ‘fortress belt’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/832e9fd71ab0632f7ac543b180c8bec907f80a464c52224a875d3f980d6bd601/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F54214d1eb9695a25cd9c87ce82e8865d.jpg" alt="" /></p>Iryna Rybakova is horribly aware that the front line is inching toward Kramatorsk. Having served in eastern Ukraine for several years, she has watched her units being pushed from one strategic hub after another. But she said the past few weeks have been “insane.”]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ukraine-battlefield-optimism-ebbing-russia-042831574.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-battlefield-optimism-ebbing-russia-042831574.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Israel reacts with fury' and 'air traffic collapse']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3b9bdcf5ecf82aa9f0c63c45130473365277ced6bd7edcf22e14747697847d35/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff1ae021cf164e5c47b2fcd70d91ca36d.png" alt="" /></p>Sanctions on West Bank settlements, airport chaos and Prince George dominate Wednesday's front pages.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israel-reacts-fury-air-traffic-003953267.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israel-reacts-fury-air-traffic-003953267.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong's first leader after British handover dies]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/203949ac6e083baf438b36ec36fcdc07d2aafff115bedd4e64f9d3b0ceef2d85/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc8073171de6346dd27f0194b0ad4b661.jpg" alt="" /></p>The tenure of Tung Chee-hwa, Hong Kong's first leader after Britain handed over the city to China, was marked by crises and protests.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-031004060.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-031004060.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family finds 13-foot python by chicken coop in Vietnam after heavy rain, then helps save it]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/550ccfcca23a7a51699da3f981234dc99afcce01e6e650c6f78b1f266ccca925/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F2aa77f63be357ee72cac9d3b9b85278f.jpg" alt="" /></p>The situation did not end in panic or retaliation.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/family-finds-13-foot-python-042400210.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/family-finds-13-foot-python-042400210.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Boat carrying 8 people missing near Indonesia's Anak Krakatau volcano]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/723ba67ce423bc3f791d55b3d972da98237f9e0eaf6b1fa4ce54d520411c1e87/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe2f25b31791aa8d0702622e665efffb7.jpg" alt="" /></p>Search and rescue efforts for a boat carrying eight people, including five journalists covering the eruption of Indonesia's Anak Krakatau volcano, resumed on Wednesday, according to local media reports. The eruption threw air traffic in Indonesia into chaos with tens of thousands of people stranded on Java and Sumatra since the weekend and multiple airports shut due to volcanic ash.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/boat-carrying-8-people-missing-041833033.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/boat-carrying-8-people-missing-041833033.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firefighters capture 16-foot, 200-pound python stalking a goat in Malaysia]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bf1d13267008f9b64651825c7b857787fdc887d7929f20f57797e67984c5bc0e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc22d91efb11b23d4400c5c3fc3687154.jpg" alt="" /></p>Livestock can become an easy food source for predators and large reptiles.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/firefighters-capture-16-foot-200-041100138.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/firefighters-capture-16-foot-200-041100138.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[State funeral for Norway's King Harald V takes place in Oslo]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3f2b62bf677b796a3692ed473be21e1ffebde165108d2a73ab017120739a59b5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb7c8ed7a2ae63cc86208e608bea176fd.jpg" alt="" /></p>Norway bids farewell to King Harald V on Wednesday, with monarchs, other members of European royal families and heads of state in Oslo for his state funeral. Harald, who enjoyed widespread popularity among Norwegians during his 35-year reign, died in hospital at the age of 89 on August 28 after developing a serious blood infection.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/state-funeral-norways-king-harald-040333770.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/state-funeral-norways-king-harald-040333770.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Renoir paintings are worth a fortune, but not when they're stolen]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a0080a71ba5a32a0a4954e7d69d42d19cbd411f05b49a3b09768eed69aafba9b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc20d5a720b8b07cffcb9030daa7ef009.jpg" alt="" /></p>Two Renoir paintings stolen from a small French museum have yet to be recovered but if the thieves are hoping to cash in on the artwork, they would be hard-pressed to find a buyer.  Selling well-known, stolen art is impossible to do at an auction house or through other public channels without raising eyebrows.  Art crime experts stress that most buyers simply don't want the liability.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/renoir-paintings-worth-fortune-not-040229497.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/renoir-paintings-worth-fortune-not-040229497.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7245a79f1aa9c76448b0a2a37a83bca2303d0e058a3b6c445f402791116e4918/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F3414063a1a8e909ab00d08960f4d6ef3.jpg" alt="" /></p>In July, Saudi Arabia and the United States bombed Iran-backed militias in Iraq after blaming them for drone attacks on Saudi oil facilities that had been claimed by Yemen's Houthi rebels, another Iranian ally.  Now, regional officials tell The Associated Press that the Houthis helped the Iraqi militias plan and execute the two-day swarm attack, showing a new level of coordination.  Iran spent decades building up armed groups on Israel's frontiers that suffered major losses in the wars following Hamas' Oct. 7, 2023, attack out of Gaza.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-backed-fighters-yemen-iraq-035951490.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-backed-fighters-yemen-iraq-035951490.html</guid>
+            <dc:creator><![CDATA[Associated Press]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family in India sets rat trap, then finds hooded black cobra inside at 1 a.m.]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1d69d030676798df82b13dafc7feaa0e7ff1383fed05e98815275adf053d85b1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F198004430905bb7507cc75657490627a.jpg" alt="" /></p>Locals say snakes are commonly seen near homes during the monsoon because rising water pushes them out of underground spaces.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/family-india-sets-rat-trap-034500009.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/family-india-sets-rat-trap-034500009.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Hell': Father of surfers killed in Mexico testifies at trial]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/32348afbadd07b3b1dfaa875edfbf59d7358f146562fdb3810963f5abb8a3888/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fb9b6b8f3332231de0c5c46d1a2ac22c3.jpg" alt="" /></p>The father of two Australian surfers killed in Mexico two years ago testified in court Tuesday that his life had been turned into hell, as the high-profile trial continued into its second day."It's hell," the victims' father Martin Robinson told the court.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hell-father-surfers-killed-mexico-034112656.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hell-father-surfers-killed-mexico-034112656.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Massive disruption hits UK airports after air traffic control issue]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/19ff03d1ee2c4919152243348aaf6d16607941f52b89ddd0c9b24d7dbf0b31b5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4cc85023edfeae89797ad74c3022e5fd.jpg" alt="" /></p>Major disruption was expected to continue at British airports on Wednesday – including Heathrow, one of Europe’s busiest hubs – after an hours-long air traffic control outage triggered widespread delays and cancellations.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/massive-disruption-hits-uk-airports-005843539.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/massive-disruption-hits-uk-airports-005843539.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5-foot cobra enters classroom in India, coils around chair as students flee]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4be664810cb615e869946c3d1b4ac91a59f96bdbe4d07004113bdebf2bd48966/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fc63d1ad2fb08eee992bd1d1b73ece119.jpg" alt="" /></p>A wildlife rescuer had to be called in to assist.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/5-foot-cobra-enters-classroom-033000375.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/5-foot-cobra-enters-classroom-033000375.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travellers in UK face more chaos after air traffic control glitch]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e0f2c66766d2acdd408295cac85760534c009e14cbdde1370b7164c1e6eef67a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fc5c23fbc87d0ca6183a03fa47d5230d0.jpg" alt="" /></p>UK travellers faced more misery on Wednesday with more than 150 flights scrapped across the country, as Britain's air traffic control service scrambled to recover from a technical glitch that sparked chaos."We know this is hugely frustrating and apologise unreservedly," the organisation wrote on X. 
+The air traffic chaos follow a technical glitch in July last year that saw scores of flights to and from the UK cancelled, prompting anger from airline chiefs.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/travellers-uk-face-more-chaos-031025960.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/travellers-uk-face-more-chaos-031025960.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gambian leader pledges halt to rolling blackouts as protests turn violent]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b0911d03154a5ab400bfb2ee4f77225b8d5371bf2b2a2103e05a46ee0dc8a831/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F040760ef6f5d532a4ec6adef6cca7647.jpg" alt="" /></p>Barrow pledges new power infrastructure, including a 24-megawatt plant, to tackle the worsening electricity crisis.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/gambian-leader-pledges-halt-rolling-024759893.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gambian-leader-pledges-halt-rolling-024759893.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[6-foot crocodile wanders into India village, then rides out on the back of a motorcycle]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44a601576469ef67ebd95f5151870eb13917f6e64c59fcd5b63195e16510e4c9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F196098935b0dcc4a7eb623dd638359da.jpg" alt="" /></p>"A single bite can crush bones from within because of the immense pressure of its jaws."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/6-foot-crocodile-wanders-india-024500529.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/6-foot-crocodile-wanders-india-024500529.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amusing or addictive? The algorithms powering our social feeds]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8817c34f129dde7422a40af759e872d825c9a1cbe2c0c85ad5730b5d7f108eef/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F16f00a4e704044951cca866629e80334.jpg" alt="" /></p>Social media algorithms are a powerful feature of online life, serving up content to users based on their browsing habits or personal data.-
+Under Australia's new rules, social media giants must allow users to "opt out" of the algorithm.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/amusing-addictive-algorithms-powering-social-022740011.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/amusing-addictive-algorithms-powering-social-022740011.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway bids farewell to King Harald V, 'grandfather' of the nation]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a10da7d5976357bd7c44cb49086c5a51737f49f5902a89ca291f19e6322d6313/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffdda04826488951549ab2f97cbb46559.jpg" alt="" /></p>Norway bids farewell on Wednesday to King Harald V, a modern and unifying figure whose end of reign was tarnished by scandals, in a funeral attended by European royals and foreign dignitaries.Norway's royal family, led by new King Haakon VIII, foreign royals, heads of state and dignitaries will take part in the procession on foot.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/norway-bids-farewell-king-harald-021507463.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/norway-bids-farewell-king-harald-021507463.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran says it captured US submarine drone in Strait of Hormuz]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1e59c316baf587ebab9d23900aa13cffa5343c7de5b987a562b98972e564a623/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_times_968%2Fd8e3fdd16f18c0b8dbcc978ea57f4803.jpg" alt="" /></p>Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-says-captured-us-submarine-020319111.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-says-captured-us-submarine-020319111.html</guid>
+            <dc:creator><![CDATA[Military Times]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan police counter drone attacks with Ukraine-style nets]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8641741eeb24f2a3ae30f58b306ce3e9257e57e2a4f2d46f4cd2b733a1d2d807/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ff33529902943aa5f2d5c25a5f829578b.jpg" alt="" /></p>White nets stretch high across the front of brick buildings in Pakistan's northern border region, a tactic borrowed from the Ukrainian battlefield to protect police against the latest militant threat -- drones.In some frontline Ukrainian cities, nets are hung high and wide across long stretches of road, forming corridors like spiders' webs to thwart aerial attacks.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/pakistan-police-counter-drone-attacks-020149247.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pakistan-police-counter-drone-attacks-020149247.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Russia torments Kyiv with new 'horror' jet drones]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a43eae51789d7538fad0d0e7ee3a187db75ded7b60589d8bc146dfd9188b1390/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4dfc466aa64fb158485aacccbd68d26a.jpg" alt="" /></p>Flying several kilometres in the air and close to the speed of a commercial plane, Moscow's new long-range jet-powered drones are causing havoc for Kyiv's stretched air defences.Experts say they are fitted with Chinese-made aircraft-style mini jet engines, and can fly five kilometres in the air at a speed of 400-600 kilometres (250-370 miles) per hour -- up to three times the rate of the previous versions, which were based on Iran's Shahed drones.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/russia-torments-kyiv-horror-jet-015848007.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-torments-kyiv-horror-jet-015848007.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says Germany's AfD 'on the rise' after election victory]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/19909cf73e9089daa94a281180cbb8ca322fdf4f7315598909724a9bf821b849/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fab91616bf71b9a4079f635e7f388b648.jpg" alt="" /></p>US President Donald Trump on Tuesday congratulated Germany's Alternative for Germany (AfD) on its election victory in the state of Saxony-Anhalt, saying the far-right party was "on the rise. " "Wow! The Populist Party in Germany just had a really big night," Trump wrote on his Truth Social platform, referring to Sunday's election.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/trump-says-germanys-afd-rise-013400927.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-says-germanys-afd-rise-013400927.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US says Iranian tankers ‘destroyed’ after missile attacks on American warship]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3d8d17a19671e1fdc8abe3d54eb1a58d5927a0d52b70f3a8f6397a64bb2999cf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_guardian_765%2F632cc0879637d9f8fdd164fbb63713d7.jpg" alt="" /></p>Tit-for-tat violence surges again in region, with tankers struck by the US in the Gulf of Oman, and reprisal attacks by Iran on a US base in Jordan]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iran-claims-seized-american-drone-203401832.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-claims-seized-american-drone-203401832.html</guid>
+            <dc:creator><![CDATA[The Guardian]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN approves new world map: What to know about 'Equal Earth']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2c519257193d9f760f364de46a4970bb8d4bad6dc78b01f2825a1aaf56eef557/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flivenow_fox_840%2F02b2271f03efea41333f56ac68f73405.jpg" alt="" /></p>The U.N. voted to endorse a new world map called "Equal Earth" that more accurately depicts the size of continents.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-approves-world-map-know-010126429.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-approves-world-map-know-010126429.html</guid>
+            <dc:creator><![CDATA[LiveNOW from FOX]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[McDonald’s faces millions in fines for using disposable cups]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/51297788c10def35ebf2d594cd0e8fa6d47bb30d3cfbddd4ec92e67a6b014766/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgeekspin_390%2F8b66348f73ddffd96bb98681af2adc34.png" alt="" /></p>McDonald’s has been hit with a penalty notice in the Netherlands and has been told to stop serving disposable cups for customers dining in. The order came after environmental NGO Fair Resource Foundation filed an enforcement request with the country’s regulator, the Human Environment and Transport Inspectorate (ILT), alleging breaches of a rule in force […] Read the original article here: McDonald’s faces millions in fines for using disposable cups]]></description>
+            <link>https://www.yahoo.com/news/world/articles/mcdonald-faces-millions-fines-using-010052827.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mcdonald-faces-millions-fines-using-010052827.html</guid>
+            <dc:creator><![CDATA[Geekspin]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India's Maharashtra approves rooftop solar for 211,206 low-income homes, with up to 100 free units]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e672e3a913a3a73f5f0499e5999e32ba18b2b8888145b0cd8ad3cacbdd5ad9d3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fb4a38c4513eaabd941f709c1a9994a91.jpg" alt="" /></p>Installation expenses often keep these families from accessing the technology.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/indias-maharashtra-approves-rooftop-solar-010000163.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/indias-maharashtra-approves-rooftop-solar-010000163.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 06:14:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hong Kong's first post-colonial leader Tung Chee-hwa dies aged 89]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/68770d2234f65f6341fa384fd7cb930023ccdeed5697892fcc9a74d09517aeae/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffb9753f3e0543cdc015b3f5dc60a218b.jpg" alt="" /></p>Tung Chee-hwa, Hong Kong's first leader after the city's return to Chinese rule, has died aged 89, his office said on Wednesday.Tung served as a bridge during Hong Kong's transition from colonial rule, steering the city as it was battered by the Asian financial crisis, the deadly SARS epidemic and mass protests in its turbulent early years under Chinese rule.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-010237356.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kongs-first-post-colonial-010237356.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +350,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d820483545446eb10d273220382b5de3104e80ffd29b3db1cb75ebbc17ac7d4f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F59292ac14d28a8954dec81f0b4a09263.jpg" alt="" /></p>"But the company set them up as security guards; we cannot get in or get out."]]></description>
             <link>https://www.yahoo.com/news/world/articles/cambodia-resident-says-timber-trucks-002700958.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cambodia-resident-says-timber-trucks-002700958.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +357,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/840aaf89c78fe6c13908f165c9b96b62cc14b5e6ac9fe24f59bf3f7ed0313c76/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F7b4f0830bf1d3fddff83b33cf96805a5.jpg" alt="" /></p>More than six decades after police opened fire on protesters, survivors and relatives are taking their fight to court.]]></description>
             <link>https://www.yahoo.com/news/world/articles/sharpeville-massacre-66-years-families-002457154.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sharpeville-massacre-66-years-families-002457154.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +364,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3674f2723c4a200d7b2ebc7b32a6a7d90714742ea8b7b1f3d135880c493e7466/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F874bc74e682644401ac1d33664e077a5.jpg" alt="" /></p>Paris trial begins over deadly Channel tragedy, with 14 facing charges for manslaughter.]]></description>
             <link>https://www.yahoo.com/news/world/articles/suspected-smugglers-trial-over-deadliest-000410645.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/suspected-smugglers-trial-over-deadliest-000410645.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +371,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/94eca653de479787df6d23c9f27b68669d81f238f5953f12b5bb4b061c95a340/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F1541049ae43c27b596f27a6a455a06d3.jpg" alt="" /></p>The US destroyed five Iranian tankers in response to attempted ballistic missile attacks on a US Navy warship, US Central Command (CENTCOM) said on Tuesday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/tehran-threatens-vessels-bahrain-kuwait-212453680.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tehran-threatens-vessels-bahrain-kuwait-212453680.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +378,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/567ce0fc15b052497c2caad19ddfd2834f81567e2ab691f43f371332b050a949/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3e789a6159986c6531385b95a6d15a82.jpg" alt="" /></p>Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.]]></description>
             <link>https://www.yahoo.com/news/world/articles/paul-adams-british-israeli-relations-204601812.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/paul-adams-british-israeli-relations-204601812.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +385,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bc0722e92af5bae4d2df54c28ac6c896b618570ff2e19afba4108b273016e1f0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2Ffb1dabd9b28757eece47e8fef9818f42.jpg" alt="" /></p>Jewels were stolen from the Louvre. Renoir paintings have gone missing. Experts say they are part of a wave of brazen museum burglaries across Europe.]]></description>
             <link>https://www.yahoo.com/news/world/articles/yes-uptick-high-profile-art-202957320.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/yes-uptick-high-profile-art-202957320.html</guid>
-            <dc:creator><![CDATA[Time]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 01:21:07 GMT</pubDate>
         </item>
         <item>
@@ -6746,293 +7069,6 @@ As of a week after the floods, the death toll from inside China stands at 21, wi
             <link>https://www.yahoo.com/news/world/articles/europes-most-charitable-countries-where-050004706.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/europes-most-charitable-countries-where-050004706.html</guid>
             <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin’s hybrid warfare is calculated strategy, not desperation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/81e062ce62dd5f8d41ef629a34c287df59e06c3d53dd49269fca06623357720e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F102b69f62065c2549632c0d06bac665c.jpg" alt="" /></p>Whenever Vladimir Putin resorts to hybrid warfare, such as the failed drone attack at Leipzig airport, it is tempting to conclude he is using such tactics because he cannot achieve his war aims through conventional military force alone.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-hybrid-warfare-calculated-strategy-050000523.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-hybrid-warfare-calculated-strategy-050000523.html</guid>
-            <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hong Kong court upholds convictions of Cardinal Joseph Zen and others over protester relief fund]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dafcd2e2d6e330a11abd011f155830155d7bd48169a865fc1873d8f34e66f130/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F5043b0330963526e093b94a16394a03d.jpg" alt="" /></p>A Hong Kong court on Thursday dismissed appeals brought by a 94-year-old Roman Catholic cardinal and four others over their convictions for failing to register a now-defunct fund that aimed to help people arrested during anti-government protests in 2019.  Cardinal Joseph Zen, a retired bishop and vocal advocate for democracy in the city, was a trustee of the 612 Humanitarian Relief Fund, which helped pay medical and legal fees for arrested protesters until it ceased operations in October 2021.  The other defendants — singer Denise Ho, scholar Hui Po Keung, and former pro-democracy lawmakers Margaret Ng and Cyd Ho — also served as trustees.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hong-kong-court-upholds-convictions-044031612.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hong-kong-court-upholds-convictions-044031612.html</guid>
-            <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lavrov: Russia to close branches of Germany's Goethe-Institut]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/19f254bd369cc17a30f047cf4d7555e338c7ac362fcd0b604f735b529066276e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe0c26c59008e9c8dccd9945b8633ccd8.jpg" alt="" /></p>The Russian government will close Goethe-Institut branches, Germany's international cultural institutes, across the country, Foreign Minister Sergey Lavrov said on Thursday. Lavrov said the move was in response to Germany's planned closure of the Russian House in Berlin, according to the Interfax news agency.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lavrov-russia-close-branches-germanys-041832856.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lavrov-russia-close-branches-germanys-041832856.html</guid>
-            <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Log-filled river in India misrepresented as showing flooding from Nepal-Tibet disaster]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/535ab4abd21a1a7a76c80dedb492526469e38b1dc9e42e4f5295970eebaa2b43/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F1c27273e65f0ce7e9c83f9e36fad3871.jpg" alt="" /></p>A high-altitude glacial collapse in the Himalayas unleashed a destructive wall of freezing water and debris that carved a path of destruction across Nepal, but footage showing a raging river seemingly filled with tree logs was not filmed after the disaster. The clip previously circulated a year earlier during flooding in India's Himachal Pradesh state.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/log-filled-river-india-misrepresented-041039518.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/log-filled-river-india-misrepresented-041039518.html</guid>
-            <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Germany, France and Poland to meet in Weimar for talks amid Russia row]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b27f7445f6d4748eb526d21e0fce633e642f86d45761aea50a315a7550a0f964/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F9bf72d5b21ade381a31732dfad8e99f8.jpg" alt="" /></p>The foreign ministers of Germany, France and Poland plan to discuss joint approaches to current international challenges on Thursday. A spokesman for Germany's Foreign Ministry in Berlin announced that the agenda for the meeting, held in the so-called Weimar Triangle format, covers topics ranging from hybrid threats and the situation in the Middle East, to EU enlargement and a reform of EU foreign policy.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/germany-france-poland-meet-weimar-040331344.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germany-france-poland-meet-weimar-040331344.html</guid>
-            <pubDate>Thu, 03 Sep 2026 09:20:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russians endured a summer of turmoil with gas crisis and swarms of drones as the war came home]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/749adab4ef92c415dfc34eec44a599c4c084b2a863d99d621402bd1d0108f277/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F8107b2ea95ec79f9fd32dde360b3cf55.jpg" alt="" /></p>Online orders were disrupted as e-commerce hubs were set ablaze by buzzing drones.  It's been a difficult summer for Russians — a season of almost daily turmoil, frustration and anxiety.  The war that President Vladimir Putin unleashed on Ukraine 4½ years ago has come home and is harder to ignore.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russians-endured-summer-turmoil-gas-040226476.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russians-endured-summer-turmoil-gas-040226476.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lavrov: Germany's Goethe-Institut in Russia to be closed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/eaa5c9a81f6002c3f2ea56c82ba3aba032847f89e55cd212272ded07a8e882bf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff7cdd45c0047f0a32fe8a261a0dfaad0.jpg" alt="" /></p>The Russian government will close Goethe-Institut branches, Germany's international cultural institutes, across the country, Foreign Minister Sergey Lavrov said on Thursday. Lavrov said the move was in response to Germany's planned closure of the Russian House in Berlin, according to the Interfax news agency.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lavrov-germanys-goethe-institut-russia-034834441.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lavrov-germanys-goethe-institut-russia-034834441.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exclusive-Nepal to rebuild early-warning system on China border after deadly flood, sources say]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e6ef36e8ef61fde1bf29a7894d86d269b89511809a57ebfb6018015b022d0ae5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F27ff91154d960705bcbcf2266b59ccd5.jpg" alt="" /></p>By Sarita Chaganti Singh Sept 2 (Reuters) - Nepal plans to rebuild an early-warning system for landslides on part of its border with China, installing seismic sensors, cameras and a satellite link,]]></description>
-            <link>https://www.yahoo.com/news/world/articles/exclusive-nepal-rebuild-early-warning-133616693.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/exclusive-nepal-rebuild-early-warning-133616693.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin to speak on Russia's economy at Vladivostok forum]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b889fadafb748571b076dd0c15c29b4d198ea7902b94f998003235649d4cc018/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0e49655aa8990b2df4c9c4906ea5c457.jpg" alt="" /></p>Russian President Vladimir Putin is to address the Eastern Economic Forum in the Pacific port city of Vladivostok on Thursday, speaking on the state of Russia's economy in the fifth year of its war against Ukraine. Putin is scheduled to deliver a speech before taking part in a panel discussion to answer questions.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-speak-russias-economy-vladivostok-030330492.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-speak-russias-economy-vladivostok-030330492.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beijing woman says romance scammer used Microsoft Teams to make $100,000 con look official]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/60ba24761a53d3417d10f626d621e73e6e881d99d7c8aef4e06ed789964cbfd0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F7303f15b6bca452946d6afeed8969873.jpg" alt="" /></p>Fraudsters often build trust gradually before turning the conversation to money.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/beijing-woman-says-romance-scammer-030000907.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/beijing-woman-says-romance-scammer-030000907.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuwait says air defences intercept Iranian missiles and drones]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/4545fc6ff59c93c209f8be59f569fcf298b44cc78270cb57348b62bec1bc35d5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F3817ca47bb858844748d7d8ce8432316.jpg" alt="" /></p>Kuwait came under Iranian attack again early on Thursday, with the Gulf state's air defences intercepting what the military described as "hostile missile and drone attacks. " The military of the US-allied country said on X that explosions heard in the area were caused by the interception of drones.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/kuwait-says-air-defences-intercept-024837288.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kuwait-says-air-defences-intercept-024837288.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war escalation raises concern over civilian death toll]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/935d3562fcc01548865de66bacd7c890ea570a2e56342d048d729f6d82cedd4f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmilitary_times_968%2F4f3f6eb87152d966fa60e50e9180065a.jpg" alt="" /></p>The recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported four killed and dozens wounded at a wedding.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-war-escalation-raises-concern-024653539.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-escalation-raises-concern-024653539.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two decades after a toxic dump, Ivory Coast survivors are still waiting for a promised fund]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f700c4f9e9230411e8cd8d42bd03362f7556744507fd4b1e55d1670bac4bb93f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fce0aeec829ab9c48aa3960110de41d26.jpg" alt="" /></p>The agreement prevented victims from pursuing any further compensation or legal action.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-decades-toxic-dump-ivory-023000091.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-decades-toxic-dump-ivory-023000091.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Iran war escalation raises concern over civilian death toll]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3afc09a418d3550ba2a46b554bb74793daa422c861c50ff420dd165508c45706/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Faafd623ef04a1928300703e81d3708e3.jpg" alt="" /></p>CAIRO/WASHINGTON, Sept 3 (Reuters) - The sudden recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported 18 dead in the last U. assault, including four killed and dozens wounded at a wedding.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/iran-war-escalation-raises-concern-020339161.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iran-war-escalation-raises-concern-020339161.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German lawmaker: Russia measures insufficient after drone incident]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b708a5edaf727f6939c20317f046d4f5a526d0828f5833e192028a1aa3137fff/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe4898b28db9e769121e7725d74eedf17.jpg" alt="" /></p>A senior foreign policy expert from German Chancellor Friedrich Merz's conservative Christian Democrats considers the government's announced measures against Russia insufficient following an attempted attack involving an explosive-laden drone at Leipzig airport. "The Russian House and the consulate general should have been closed long ago for security reasons anyway," lawmaker Roderich Kiesewetter told the RND media group in remarks published on Thursday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/german-lawmaker-russia-measures-insufficient-021834088.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/german-lawmaker-russia-measures-insufficient-021834088.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello, sailors! USS Lincoln’s port-deprived troops finally get to hit the town in Thailand’s ‘Sin City’]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/97483d3116703c71d70b62a7b4d6ab4cf27fecc89bc33f47a70a9f73b0947d75/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2Fcd263b34addad61deb91a53029c56390.jpg" alt="" /></p>The seaside resort of Pattaya has been rebranded as a family-friendly destination after a history of sex tourism]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hello-sailors-uss-lincoln-port-014707283.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hello-sailors-uss-lincoln-port-014707283.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farming experts tout 'conscious' food systems to fix agriculture woes]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9e080b04613f2b05e919f55acde999aca1d087df93646c64e396d6774a143616/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F226ce9cd1d60fc26fe71dfb39dd0123e.jpg" alt="" /></p>Farmers around the world are struggling with the impact of climate change, financial pressures and depleted soil -- and industry experts say bringing consumers closer to the people who produce their food could provide a solution.Organic food might look more expensive, but Gupta urged shoppers to consider the environmental and social impacts of industrial agriculture, which can squeeze farmers and harm the soil and water.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/farming-experts-tout-conscious-food-013918348.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/farming-experts-tout-conscious-food-013918348.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palau urges 'unified' Pacific response to China missile test]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/212e955caa97682d5be7180fe3645f6aeb1945b525dc3ab61c3c93d33829232e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fbb11ddc92748710a53a6a15e5ccb9885.jpg" alt="" /></p>Palau's president called on Thursday for a "unified" Pacific response to July's missile test by China on the final day of a summit clouded by alleged Beijing meddling. "That's definitely something that we'll be discussing today, and a unified Pacific voice is critical in getting Beijing to respect sovereignty, to respect transparency, and to be a responsible partner," Palau President Surangel Whipps told journalists.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/palau-urges-unified-pacific-response-013702811.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palau-urges-unified-pacific-response-013702811.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fact Check: Video Does NOT Show Men Handling Real Guns Outside Dublin Mosque -- Police Say They Were Airsoft Replicas]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/93991eb2c32c4e46d666176dac74d6b052c76809e35eb0886e1c352993d93bc2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F9e93453c896b54c6c96ce482c88af3d1.jpg" alt="" /></p>Does a viral video show men handling real guns outside a mosque in Dublin, Ireland? No, that's not true: Law enforcement denied that the objects were real weapons. The statement issued by the police said that the objects in question...]]></description>
-            <link>https://www.yahoo.com/news/world/articles/fact-check-video-does-not-012302732.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-video-does-not-012302732.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EU repair rules start reshaping gadget design as global e-waste could jump 32% by 2030]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3772218dd52020a794ed52a5cac06f182edcc947d073602865b32271f9efad18/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F4d12e45e29b41f91dbee80b4dcbe1fab.jpg" alt="" /></p>Newer smartphones and tablets feature glue-free screens, electrically releasable adhesives, or back covers that can be opened with a screw.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/eu-repair-rules-start-reshaping-011500578.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-repair-rules-start-reshaping-011500578.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Riot in West Bank as terrorists throw cinder blocks, stones at IDF soldiers, Israeli civilian]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c8ca51172ecf96d516bdf4a7980ea3ea1bb5f48fb1178b32e394ca215753416d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Ff4b43a78156f342688d2b5dc3dd23be4.jpg" alt="" /></p>Two 19-year-old Palestinian citizens of the West Bank were killed, and one was seriously injured by IDF fire during the disturbance, Ynet reported. A violent riot broke out against IDF soldiers in the West Bank on Wednesday, the IDF spokesperson announced.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/riot-west-bank-terrorists-throw-010716920.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/riot-west-bank-terrorists-throw-010716920.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal tunnels could have survivors, engineer agrees, but clock is ticking]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/302126ca5a1728837d58a622e8d8c3faea9c5b99b8c70ef97b6374637476d96a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2Fdb103efe5fe0879fc4a87a61b4b5ed59.jpg" alt="" /></p>Rescue efforts have centered on workers believed to have been cut off in hydroelectric tunnels.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nepal-tunnels-could-survivors-engineer-010627725.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nepal-tunnels-could-survivors-engineer-010627725.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bb5c66f40be0161b123c59048173954b7c3243d51c9bb7358c5eed5c7d594661/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fab9161bf8b20cf85cf31d4cab489a0f7.png" alt="" /></p>More than 80 people have been killed in the mob violence, the BBC finds after gathering data from six African nations.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/crowd-shouted-wed-stolen-someones-005900296.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crowd-shouted-wed-stolen-someones-005900296.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Nepal floods should worry India]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b3fb0f8bd62269106eefa0bed857ffcf6ab237586ad1454884e25d88c5c58f9e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F161e975d39c7912917079cc851ce7624.jpg" alt="" /></p>The disaster comes as a warning as climate change raises shared Himalayan risks.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/why-nepal-floods-worry-india-005900155.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-nepal-floods-worry-india-005900155.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sydney police investigate second possible mistaken identity killing in two days]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b65544e3709f27f254e976706933198ae43f69794e1401bdd0759dfc736a5aa7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff6e18aa140b83b70dce1d8ca04e4da1b.jpg" alt="" /></p>Wednesday's fatal shooting of a man in his 40s comes after a university student was gunned down on Tuesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sydney-police-investigate-second-possible-004042126.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sydney-police-investigate-second-possible-004042126.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trump Admin Cut Funds For Flood Prediction Tool In Nepal Before Recent Disaster]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/065a1b8b1965045edcef53acfe60ce934285d20adc27eeb94313a15cd9d65443/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_huffington_post_584%2F3c890493f394cfff24b2f024b1938791.jpg" alt="" /></p>The decision was made by DOGE employees used AI during the process and later approved by Congress.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/trump-admin-cut-funds-flood-002502718.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trump-admin-cut-funds-flood-002502718.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mourners file into a church in Haiti where gangs killed dozens of people in latest rampage]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f2a990d5536fc05979eb6c139b966129df09ea769c4c0aa5a1682b509e0bdcc5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc24ceeebebcbdf6407b2cc96f67ef2c5.jpg" alt="" /></p>PORT-AU-PRINCE, Haiti (AP) — More than 100 mourners attended funerals Wednesday inside a church where gangs recently executed more than 30 people in an attack that shook the troubled country.  The funerals were held for two brothers and three of their cousins at a church in Kenscoff, nestled in the mountains above Haiti’s capital.  The night of Aug. 23, gangs attacked the once-peaceful farming community, killing 47 people and kidnapping more than 50 others.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/mourners-file-church-haiti-where-002417287.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/mourners-file-church-haiti-where-002417287.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tens of thousands rally in Spain in support of Ceuta, against Sánchez]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/118fe4f974579292d65ca27d905e3d195df9dd145767734dfcb15b82c5cba1f9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F4626dc3dede8c380f3982cdb12ffd1f5.jpg" alt="" /></p>Tens of thousands of people have rallied across Spain in support of the North African exclave of Ceuta's place within Spain and against the Madrid government's migration policy, amid an ongoing migration crisis in the territory. Participants and speakers accused Prime Minister Pedro Sánchez's central government on Wednesday of pursuing an appeasement policy towards Morocco and of failing to provide adequate support to Ceuta.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/tens-thousands-rally-spain-support-001840530.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/tens-thousands-rally-spain-support-001840530.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sharpeville massacre survivors start legal fight for justice in South Africa]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c2fee3ee7b6ab7a546f55a374355a618060cb9cbc8ed29ccff72afe2949a8134/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3f8a549644c50ce153608eed705e282d.png" alt="" /></p>At least 69 people were shot dead in 1960 but no-one has been prosecuted and victims want restitution.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/sharpeville-massacre-survivors-start-legal-001425473.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/sharpeville-massacre-survivors-start-legal-001425473.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Malta businessman found not guilty in car bomb killing of journalist]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fbd86816e89384d72b42a9ce8a43f2a160e9655e355212450d9b543e66fb9731/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fde55b13eca079b4d02c2356e0b39acf8.jpg" alt="" /></p>Daphne Caruana Galizia's killing shocked Europe, led to protests that toppled a prime minister and exposed a culture of impunity in the European Union's smallest state.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/malta-businessman-found-not-guilty-235911468.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malta-businessman-found-not-guilty-235911468.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When Robots Attack: Humanoid Goes After a Store Customer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f5064b00745238f1dcb208180415014c4a3cfaba4b93da90f278bfc6131ebb63/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F612b8a097cad3839c8a9370cfeaaa3ba.jpg" alt="" /></p>A humanoid robot goes on the attack after it has an interesting “confrontation” with a real human.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/robots-attack-humanoid-goes-store-235855241.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/robots-attack-humanoid-goes-store-235855241.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thousands protest in Spain as Ceuta’s migration crisis festers a month on]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/37175351f67ab91927dd2f95619d5fd519a1f6787e15a3a1db36314227490cef/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F99185cf51e05431f0097640a8c4952cf.jpg" alt="" /></p>Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/thousands-protest-spain-ceuta-migration-232818891.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/thousands-protest-spain-ceuta-migration-232818891.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brazilian justice who imprisoned Bolsonaro now under fire for alleged links to disgraced banker]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/792a8bd02f3fd2a24ec1b4a5402092cc9f3e47db52132ad7a45b90a42064c97d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Faee9a306b45da11ed17cb85033df0533.jpg" alt="" /></p>The Brazilian Supreme Court justice who sentenced former President Jair Bolsonaro to 27 years in prison for a coup attempt is now facing pressure to resign over alleged links to a disgraced banker.  Politicians, government ministers, newspapers and legal experts scrutinized Justice Alexandre de Moraes on Wednesday after federal police documents made public by one of his peers showed disgraced banker Daniel Vorcaro, the owner of Banco Master, repeatedly sought advice from a person authorities identified as de Moraes.  Investigators believe, according to the documents, that Vorcaro acted on different occasions based on advice from de Moraes.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/brazilian-justice-imprisoned-bolsonaro-now-232551035.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/brazilian-justice-imprisoned-bolsonaro-now-232551035.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Danish intelligence says Russia planning sabotage in Denmark]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/dbd6f49472c1ffac9e720a18f34bcae44f1a3049d9cb034e75fb05f4c87a0af0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F56a06b3a425d0f2a37ff374ffc706c02.jpg" alt="" /></p>Danish authorities have uncovered plans and preparations for Russian sabotage in Denmark, the newspaper Berlingske reported on Wednesday. Companies in the defence industry linked to military aid for Ukraine are among the main targets, Emil Græsholm, head of counter-intelligence at the Danish Security and Intelligence Service (PET), told the newspaper.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/danish-intelligence-says-russia-planning-231847465.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/danish-intelligence-says-russia-planning-231847465.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jerusalem's Basimta Cafe may decide to close on Shabbat amid weekly haredi protests]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1eb95a5a5992787cdef309abe21e2aff1587ef8c72ddf543b83f849a4a1bdd53/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fdd0a706aeebe9931f2bda9b9e6ee6ea4.jpg" alt="" /></p>The demonstrations against the cafe began following a revelation that the the eatery is an official Jews for Jesus project, a movement seen as controversial amongst mainstream Judaism. The management at Jerusalem's Basimta Cafe will decide whether or not the establishment will remain open on Saturdays amid weekly haredi (ultra-Orthodox) protests against its Shabbat operations, N12 News reported on Wednesday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/jerusalems-basimta-cafe-may-decide-224240930.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jerusalems-basimta-cafe-may-decide-224240930.html</guid>
-            <pubDate>Thu, 03 Sep 2026 04:48:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From hunger to obesity: Developing world faces growing threat to child health]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/aecdbc57afa37e5e5cdd27f25d27713597d24cb8b0ee64ffda6968bb95c1f7b6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fceea0f3f0407860a0b58eb615387169e.jpg" alt="" /></p>By Jennifer Rigby, Ajeng Ulfiana, Stanley Widianto and Heru Asprihanto BOGOR, Indonesia, Sept 3 (Reuters) - Intan Permatasari's mother simply couldn't refuse her daughter's pleas for food.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/hunger-obesity-developing-world-faces-231351977.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hunger-obesity-developing-world-faces-231351977.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Her parents thought they lost her in the devastating Nepal floods. 2 days later, she made contact.]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/586627bca17739a0c2a66690358a3bd1044b6931550edb9bef3b4fe20807a4b9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fupworthy_219%2F4bc98c74e701d904df3a1cc902a18cd3.png" alt="" /></p>After a 26-year-old Australian hiker vanished during the catastrophic floods in Nepal, her parents endured two days of agonizing silence before receiving the voicemail they feared might never come.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/her-parents-thought-lost-her-223727031.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/her-parents-thought-lost-her-223727031.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Two Palestinian teens killed in West Bank raid by Israeli settlers and army]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e29168d1fe000811b942548be6bf8d65b79cea68be66ea8540c42a149b19e734/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F09028b8fb5972772c0e7ae202cee4a7b.jpg" alt="" /></p>Sept 2 () - Two Palestinian teenagers were killed on Wednesday in an attack by Israeli settler militants and ‌army troops on their village in the occupied West ‌Bank, local officials and the Palestinian health ministry said, amid an uptick in ​violence by Jewish settlers in the territory. The Palestinian health ministry said the two youths were ages 16 and 19 while a local official told Palestinian news agency WAFA they died in ‌al-Mughayyir village near Ramallah.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/two-palestinian-teens-killed-west-221033645.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-palestinian-teens-killed-west-221033645.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Putin, 73, Commits Humiliating Blunder During Stunt With Sailors]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1131c151fe2652c78b7ebe63294d9d8a88e1a66e7172ac5b9e8a118abf40f48b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2Feddcfdaf691661069ab4ac10cbedcd8b.jpg" alt="" /></p>Vladimir Putin made a fool of himself with an intercom mishap. The Russian president visited sailors aboard a fishing vessel on Wednesday, according to the Kremlin, but his attempt to make contact with the crew fell flat. A video shared on X by the Belarusian media outlet NEXTA showed Putin, 73, failing to realize that the intercom he was using was one-way while asking the sailors if they could hear him.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/putin-73-commits-humiliating-blunder-215239484.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/putin-73-commits-humiliating-blunder-215239484.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Airline involved in low stadium flyover turns over black box data as investigators probe if safety rules were violated]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2b8b9cf2ef19bf84528cf7f02c87441feeb38cdb3021372aa9b174f6bcc46e30/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2Fd9fde1cf3ea42d26be1d78284e5ab9f5.png" alt="" /></p>The airline behind a remarkably low planned flyover of a packed rugby stadium said Wednesday it will turn over data from the planes’ black boxes to show the maneuver was done in accordance with governmental rules.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/airline-involved-low-stadium-flyover-200545968.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/airline-involved-low-stadium-flyover-200545968.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nine injured after liquid attack on AfD stand in western Germany]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/54260969ce6e35b8ae0318cf3ac2e0512f11cfdd716accd93baad635dfae818f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe6fa7c4584fa8b40d7089fdf59794ebd.jpg" alt="" /></p>Nine people were injured when a liquid was poured on an information stand run by the far-right Alternative for Germany (AfD) party in the western German city of Bad Kreuznach, police said on Wednesday. According to the initial investigation, the liquid was poured from a nearby building towards the party stand, police said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nine-injured-liquid-attack-afd-211838519.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nine-injured-liquid-attack-afd-211838519.html</guid>
-            <pubDate>Thu, 03 Sep 2026 00:25:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
