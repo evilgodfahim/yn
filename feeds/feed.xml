@@ -4,16 +4,55 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 23:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 02:39:10 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ex-Chilean president Bachelet withdraws bid to be next UN chief]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bcbbccdd793a77a031c6e7a241c2834bd867ece940e9a11e63242d329fdc9082/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F666f63a3d5eac486ff91add92fb00932.jpg" alt="" /></p>Chile's former president Michelle Bachelet has withdrawn her bid to succeed UN Secretary-General António Guterres, she said on Saturday. "Some may believe that this was not the right time for the kind of candidacy I sought to represent," she said on Instagram.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ex-chilean-president-bachelet-withdraws-011830342.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ex-chilean-president-bachelet-withdraws-011830342.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DR Congo rolls out Ebola vaccine for health workers as death toll rises]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/77da4ccf59b2fec78b6d80f3ee06d4dc0b43f0f7171e9e0b08f573f5c9c9a48f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F8cd909ea2385cda3363e57b12242d358" alt="" /></p>50,000 frontline staff to receive a jab for a different Ebola strain, with 20,000 enrolled in a one-year clinical trial.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/dr-congo-rolls-ebola-vaccine-003605085.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dr-congo-rolls-ebola-vaccine-003605085.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Woman Found Dead Inside Refrigerator After Landlord Smelled a Foul Odor, Police Name Her Partner a Person of Interest]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f9abc248b73d011e2b2f2493646fb76960ad93a48a6fc81e342e56f12247153e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fa40514bb4c8570f34358a7dcee95fedd.jpg" alt="" /></p>​“The woman allegedly has money, according to the father, so most likely, they fought over the money or something,” said a Philippine National Police officer]]></description>
+            <link>https://www.yahoo.com/news/world/articles/woman-found-dead-inside-refrigerator-234240271.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/woman-found-dead-inside-refrigerator-234240271.html</guid>
+            <dc:creator><![CDATA[People]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Turkiye backs Saudi Arabia’s security amid escalating Houthi attacks: FM]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/28a084a44bedb4eb5b91879cfc942d8a9a394244f7cf250521bc3548bacab5d9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F1c58a00b359ad579db034f76690a9c7f.jpg" alt="" /></p>Turkish FM highlights Turkiye’s readiness to assist Saudi Arabia militarily, as Houthi attacks intensify in Yemen.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/turkiye-backs-saudi-arabia-security-231834699.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/turkiye-backs-saudi-arabia-security-231834699.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cultural treasures are being destroyed by war, and people want justice]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/39bfc9273738cdb907eb95334268dfab192ee3723a87a7b854e35de62d2e4366/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe86cd50b15b8d0a30228ea0c429d924e.jpg" alt="" /></p>A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/cultural-treasures-being-destroyed-war-231824912.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/cultural-treasures-being-destroyed-war-231824912.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 02:39:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA['I don't even know if my parents are alive' - the war heroes jailed 25 years ago]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ce833fb4960da8ac1d3b920320ccdac91876d3f97049089cbccec36b472296cd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Faea6b621369e89b9ed126e4961f6cdda.png" alt="" /></p>The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.]]></description>
             <link>https://www.yahoo.com/news/world/articles/dont-even-know-parents-alive-230150554.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/dont-even-know-parents-alive-230150554.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +60,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/48cbc50cfbafbacb774edd48da462371f4a53dccb5e7384e907d5aa411da4629/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F71d3ba7ef26995bd3b36ad7ecba67bef.jpg" alt="" /></p>Students spent years collecting evidence against their Indonesian principal, before falling in love.]]></description>
             <link>https://www.yahoo.com/news/world/articles/head-teacher-abuser-joined-forces-230143505.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/head-teacher-abuser-joined-forces-230143505.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +67,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a5a236d67b125e4848a8fdc3c452814a1bc3c87ea77d0be88e888d099b012206/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fbcd54a522ce20cd1788d037a7bf5342e.jpg" alt="" /></p>At least three people, including two children, were killed in a Russian strike on Kiev, Ukrainian officials said on Saturday. Kiev regional military governor Tymur Tkachenko said a girl, a boy and a woman were killed in a Russian strike on the Fastiv district on Saturday evening.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-children-among-three-killed-224829761.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-children-among-three-killed-224829761.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +74,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d7d8918db447cc6d156841a5f25c4b912fda63ead30f7dfb77e527d5f8def757/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Ff06a6eac8ecc254c5668f5e8103331c1.jpg" alt="" /></p>This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudi-led-coalition-says-defences-220305392.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudi-led-coalition-says-defences-220305392.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +81,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fd75373728e247e6aac930b5c121ffbe1036f229c75b192ae4df929da1e285a0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe6275af7bbe2758b4fc6ba268a840eb3.jpg" alt="" /></p>Michelle Bachelet, the former president of Chile, withdrew her candidacy for the position of United Nations secretary-general on Saturday, weeks after a straw poll showed her in second to last place among eight candidates."Today I announced that I have decided not to continue with my candidacy for the position of secretary-general of the United Nations," Bachelet, who served as Chile's first female leader, said in a video posted on her social media accounts.]]></description>
             <link>https://www.yahoo.com/news/world/articles/chiles-bachelet-quits-race-next-220220642.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/chiles-bachelet-quits-race-next-220220642.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +88,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f831bbc30ec8aa5802d96b35ef113be89cfce2e974221a27d3332860655357b2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F58c756b2cd15300c8cce94b6d5238d9b.jpg" alt="" /></p>A bite can be painful, and constrictors overpower prey by wrapping themselves around it.]]></description>
             <link>https://www.yahoo.com/news/world/articles/driver-france-pops-hood-change-213500693.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/driver-france-pops-hood-change-213500693.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +95,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/32ff3fab4fad74af16840116976fdb9ae03fdab521b6d9789c7e3a6e1fd729d9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F77b8a9fc0267f0ab943b4e175d5ea975.jpg" alt="" /></p>Two Germans were arrested Saturday after they stuck two paintings on a wall of the hall that hosts the Mona Lisa in Paris's Louvre museum, police sources said.Security officers at the museum detained the two men and called the police, who arrested them for minor damage to the wall.]]></description>
             <link>https://www.yahoo.com/news/world/articles/germans-arrested-louvre-stunt-mona-204237095.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/germans-arrested-louvre-stunt-mona-204237095.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +102,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3ad48f49d9cbf7d5b93b7b10cf2d85596747451cef062c74c159f20c1615f219/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjerusalem_post_articles_818%2Fab0a76acb802f97e1699d89031327079.jpg" alt="" /></p>Byouk's death follows a joint operation by the IDF and Shin Bet on Tuesday, which killed Hamas’s Rafah Brigade commander, Nael Abu Obeid, in a southern Gaza strike, the military said at the time. The IDF killed a Hamas commander, Muhammad Suleiman Byouk, who infiltrated Israel during the October 7 attacks, the military confirmed on Saturday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/idf-kills-hamas-commander-infiltrated-203805797.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/idf-kills-hamas-commander-infiltrated-203805797.html</guid>
-            <dc:creator><![CDATA[The Jerusalem Post]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 23:48:47 GMT</pubDate>
         </item>
         <item>
@@ -6988,41 +7020,6 @@ A report on Tuesday into the handling of the case by authorities found a number 
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/110388b5e7a2099c3fa73dde3fcf43ed914f45cd4de22d3dd37ca0fa82e4973b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F4cc1698e4d726c6f0dc87c4b2176cf01.jpg" alt="" /></p>Chanting and waving banners, thousands marched Sunday in the Mexican city of Culiacan to protest the deaths of people caught up in a war between two rival factions of the infamous Sinaloa Cartel.Since September 2024, the state has been gripped by a bitter war between rival factions loyal to the families of Joaquin "El Chapo" Guzman or Ismael "El Mayo" Zambada, co-founders of the cartel who are both now serving life sentences in the United States.]]></description>
             <link>https://www.yahoo.com/news/world/articles/fed-thousands-march-against-sinaloa-001558047.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fed-thousands-march-against-sinaloa-001558047.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NATO forces confronted Russian submarines over a covert underwater weapon]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/abf06b364d5ee8eb5ac1cc4db26640eac746d8c1de88de04d286bbffe52338f1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2F455595123e7c35b036d27b0aac321949.jpg" alt="" /></p>Russia tested a mysterious underwater device near Svalbard that could sever vital cables while leaving investigators with almost nothing]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nato-forces-confronted-russian-submarines-001500061.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nato-forces-confronted-russian-submarines-001500061.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Restoring Trust: Taiwan's Rightful Place in the Free World]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a1ffca8fbf7e6474ebce12b9c5d967dd89665362c0d4615382ce22d9420b1b57/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F8ea885e320a32f7727a0679b106744e0.jpg" alt="" /></p>Restoring Trust: Taiwan's Rightful Place in the Free World]]></description>
-            <link>https://www.yahoo.com/news/world/articles/restoring-trust-taiwans-rightful-place-234324383.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/restoring-trust-taiwans-rightful-place-234324383.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Talks between Iran and Gulf states on Strait of Hormuz postponed]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f1e9cb1d52553f324faa0525712ec73a75e10a014f72f533e8c090bee7ac476f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fb91b3f87245a550e4639ebfb0e5d779c.jpg" alt="" /></p>Talks between Iran and several Gulf states on the disputed Strait of Hormuz have been postponed, Oman said on Sunday. Omani Foreign Minister Badr al-Busaidi said Monday's meeting had been postponed "in the interest of consensus.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/talks-between-iran-gulf-states-233336982.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/talks-between-iran-gulf-states-233336982.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a fresh wave of North Korean soldiers may fight in Russia's war in Ukraine]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f88e7cde0b1eb7d6b29adf9c2cae3347564f4662451c20f378fb9e5b40eaf498/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F1ea26d5606ab6f6ef4ad1739ad3b2a58.jpg" alt="" /></p>North Korea will continue to send its soldiers to fight in Russia's war, but only for as long as it is profitable to do so, writes the BBC's Quentin Sommerville.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/why-fresh-wave-north-korean-232553405.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/why-fresh-wave-north-korean-232553405.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Muslim region in the southern Philippines votes in its first elections]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9cecfc71b0c3ef2dc164d4bfffd1342c28093430b6e966355a83eade76842f2c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Ffba3b70c048dc1281f9798230b0a28af.jpg" alt="" /></p>A predominantly Muslim region in the southern Philippines held its first parliamentary elections on Monday, seen as a crucial step in the long quest for self-rule after decades of insurgency and violence.  The Bangsamoro Autonomous Region in Muslim Mindanao was set up under a 2014 peace deal that saw the largest Muslim rebel group give up the goal of a separate Muslim state in the south of the largely Catholic country in exchange for broader autonomy.  Commission on Elections Chairman Erwin Garcia reported that Cotabato City has been put under the commission’s control, with an administrator to be designated after a shooting incident killed three people and injured 15 others late Sunday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/muslim-region-southern-philippines-votes-230328163.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/muslim-region-southern-philippines-votes-230328163.html</guid>
             <pubDate>Mon, 14 Sep 2026 02:39:36 GMT</pubDate>
         </item>
     </channel>
