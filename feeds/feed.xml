@@ -4,16 +4,255 @@
         <description><![CDATA[Latest world news from Yahoo News]]></description>
         <link>https://www.yahoo.com/news/world</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 00:05:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 05:32:00 GMT</lastBuildDate>
         <atom:link href="https://www.yahoo.com/news/world" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Rising energy costs add to cost of living for Northern Ireland's consumers]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a906c7aed32e0c1cd7e96dad068f1f03aa52bde8757454708f60d5bdf6b85dd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>Households across Northern Ireland face increasing pressure on the cost of living as energy price hikes have come into effect.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/rising-energy-costs-add-cost-052748529.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rising-energy-costs-add-cost-052748529.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0e77ea60be58131adfe272e63593d21c5e32fbd08b143dd55b401e79f3d179ae/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F357d2ba51e01ad8cb7fc68188f81cc13.jpg" alt="" /></p>The WHO’s representative in Palestine calls on Israeli authorities to ‘release the pressure on medical supplies’.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/warns-devastating-consequences-due-delayed-045420088.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/warns-devastating-consequences-due-delayed-045420088.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 injured after car crashes into crowd of rugby fans in Australia; driver arrested]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/7c23afac0163676fda004abc9c1dcb7be1605f58fb22cfe4bf1cdd648c53d278/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2Ff1c5ee633752b8fa0745bb4af5976ff0.jpg" alt="" /></p>Two people, a 5-year-old girl and a 67-year-old man, were in critical condition.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/10-injured-car-crashes-crowd-032107310.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/10-injured-car-crashes-crowd-032107310.html</guid>
+            <dc:creator><![CDATA[ABC News]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Latvia to elect a new parliament]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/acc042f8b358ad4df4877aecfd426df33b858beb5c1798a533dd1676b72edd77/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F078fa6ac971b2d36d923e51dc874cd18.jpg" alt="" /></p>Some 1. 5 million eligible voters in Latvia will head to the polls on Saturday to elect a new 100-seat parliament amid national security concerns and rising living costs.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/latvia-elect-parliament-040319898.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latvia-elect-parliament-040319898.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deadly bear attacks are rattling Russian Siberia. Why now?]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/41cd32226e6f7e63bb1caed2e8b43e944e1176ed33a68ad5cf1a02b62b775267/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F965c7c607170db7582b884144ba0f72c.jpg" alt="" /></p>When Sofa, 28, was sent a video of a bear in the yard of her former home in central Siberia, it made her sit up. The threat they posed had once seemed distant.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/deadly-bear-attacks-rattling-russian-040145263.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/deadly-bear-attacks-rattling-russian-040145263.html</guid>
+            <dc:creator><![CDATA[CNN]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Kyiv cracked Russia’s kill zone and got its tanks back in the fight]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f877c3d0e33f0331033d49a336472ee67473a7ab04386eb50fe34648fd6327c7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F942e53aa146f5862adb124831e8b3418.jpg" alt="" /></p>For more than two years, any tank that ventured near Ukraine’s front line was hunted by drones and destroyed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/kyiv-cracked-russia-kill-zone-040000311.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kyiv-cracked-russia-kill-zone-040000311.html</guid>
+            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact Check: Video Does NOT Show Same Plane For FlyDubai With Ceiling AND Seating Difference -- Not A False Flag]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8861110802d13de0f0887f3252f68e218e88af0645a3be3c136a60381fc8d230/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F71e0d0720dddcc10834e37bc6b9ef179.jpg" alt="" /></p>Do two videos that show two different planes prove that the attempted hijacking of the FlyDubai flight Sept. 30, 2026, was a staged "false flag"? No, that's not true: The clip showing a celebration on a plane is of the...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fact-check-video-does-not-034114055.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-video-does-not-034114055.html</guid>
+            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI-generated video falsely linked to deadly landslides in Nepal]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3ea2b4aa1d454b8ca3a9dc90a399e0849c195a7e0e12d25f5df404ea25a0e787/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp_factcheck_us_713%2F1f14375f53096cd03fceb3e36d9788c5.jpg" alt="" /></p>Heavy rain in late September has unleashed a fresh wave of landslides across Nepal as the country reels from the catastrophic August 26 flash floods, but a video purporting to show a landslide sweeping through a mountainous region is AI-generated. The circulating clip contains multiple visual errors indicative of synthetic content.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/ai-generated-video-falsely-linked-033658357.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ai-generated-video-falsely-linked-033658357.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea fires ballistic missile after Seoul's apology demand]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/06f1c46c672e11df10c0836a01954387ff44293eeec373d29b658e26a5af3c16/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Fe4c53409d8495f459f79f47c6aabdca0.jpg" alt="" /></p>North Korea fired a ballistic missile, Seoul's military said Saturday, days after demanding an apology for a blast that wounded three South Korean soldiers in the DMZ that it blames on the North.Early Saturday, "our military detected a ballistic missile launched from the Wonsan area of North Korea toward the East Sea," Seoul's Joint Chiefs of Staff said, referring to the body of water also known as the Sea of Japan.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-023852637.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-023852637.html</guid>
+            <dc:creator><![CDATA[AFP]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli air attack on Gaza City apartment kills at least five]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9c2403d3f6297ff1c72047ef7d9d67c434aef685dea5737ffaf1fdac5eba0c35/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd8241ebe6f234cadbcf1e6e482637ece.png" alt="" /></p>No warning was given before the deadly Israeli attack hit Remal, one of Gaza City’s most crowded neighbourhoods.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/israeli-air-attack-gaza-city-022523778.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/israeli-air-attack-gaza-city-022523778.html</guid>
+            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who is Hamam Al Hammami? FlyDubai co-pilot alleged attacker ID'd: Reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/abd659d5579021bc2c0dcc5fb5ea8aa832e8eaea00c2b02d0a136fbf6a1e290b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F941702ccc617538392b94abfba07a9d1.jpg" alt="" /></p>The co-pilot in the FlyDubai attack has been identified by outlets as Hamam Al Hammami, an Omani national.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hamam-al-hammami-flydubai-co-022217534.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hamam-al-hammami-flydubai-co-022217534.html</guid>
+            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[U.K. police accuse 2 Iranian men of planning terror attack on Jewish community]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/531df637fb5e8810cfb3417a30bc6f3c4c80c11bef5568140eb1a30b6b63d22e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2Fdf5b7bbb29d8cf78893e2418057149d1.jpg" alt="" /></p>Two Iranian men have been charged with plotting a terror attack on the Jewish community in Manchester, British police said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/u-k-police-accuse-2-020457791.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/u-k-police-accuse-2-020457791.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oman Grounded FlyDubai Co-Pilot as Security Risk]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6b6a008ee3c2b23886d07da431441fc840729934e1d61b2752e86ddcfe50c43a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F55678353ba3bb1d9cf702f66fa721867.jpg" alt="" /></p>Reports: Oman Grounded FlyDubai Co-Pilot as Security Risk]]></description>
+            <link>https://www.yahoo.com/news/world/articles/oman-grounded-flydubai-co-pilot-015035700.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/oman-grounded-flydubai-co-pilot-015035700.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea fires ballistic missile towards the sea]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ceb374007f6bf78309e8d567bda1e78855e4ea8b3c315a39e2195b91b9c96155/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F8438bb14ff2655903d8293574cbb40ed.jpg" alt="" /></p>North Korea fired a ballistic missile towards the Sea of Japan on Saturday, South Korean news agency Yonhap reported, citing Seoul's military. Japan's Defence Ministry also said the projectile appeared to be a ballistic missile.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-014828082.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/north-korea-fires-ballistic-missile-014828082.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FlyDubai co-pilot had previously been flagged as security risk: Reports]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/287da71b208e0adee6211ec738d031fbe51df945c6ec0fb8edf699b69f94fce4/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F371cfaaf14f3a54afffda5f984ce83d9.jpg" alt="" /></p>Reports say the FlyDubai co-pilot was previously flagged over extremist views, raising questions about airline vetting.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/flydubai-co-pilot-had-previously-014438105.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flydubai-co-pilot-had-previously-014438105.html</guid>
+            <dc:creator><![CDATA[Newsweek US]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trainer of FlyDubai hero pilot: ‘He did a great job’]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/52bb58064321c93624bef2695d1023642259996b030d71dda39375bc8341ecfd/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsnation_articles_600%2F2c44e3769927d88c1692b7834344e724.jpg" alt="" /></p>The man who helped train FlyDubai Capt. Smit Machchhar says he is proud of his former student.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/trainer-flydubai-hero-pilot-did-014411058.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/trainer-flydubai-hero-pilot-did-014411058.html</guid>
+            <dc:creator><![CDATA[NewsNation]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact Check: Video Does NOT Show Protests In Iran In Fall 2026]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6220fd984faaa5aa9b837a1e85919c8d96cf5c414879598ab8f16f158db4a448/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F556942db73397d673c1734dd8db36c6b.jpg" alt="" /></p>Did a viral video show protests in Iran in the fall of 2026? No, that's not true: The video had been online for months before resurfacing in late September 2026. The earliest posts with the footage went live on social...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fact-check-video-does-not-012704720.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-video-does-not-012704720.html</guid>
+            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Bezos' $500 million superyacht Koru cruises into New Zealand]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3db650429ec83952e28b8948ed2aa1c9125a5c06aae23e5e5525b8f112dbcef2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F8831a2f2bdf4c834a29cc367486ac697.jpg" alt="" /></p>Among sailing yachts, it is one of the world's largest.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/jeff-bezos-500-million-superyacht-011800681.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/jeff-bezos-500-million-superyacht-011800681.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UN Concerned as Congo Camp Empties Amid Ebola Outbreak]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/44ad02921d1e7876b19a2007ac6e46c2c0dab9c9e06d66ce7a5b64f4e746beb5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F163cdb7ae2cac666420826c6b1f4317b.jpg" alt="" /></p>UN Concerned as Congo Camp Empties Amid Ebola Outbreak]]></description>
+            <link>https://www.yahoo.com/news/world/articles/un-concerned-congo-camp-empties-010955641.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-concerned-congo-camp-empties-010955641.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crude oil tanker attacked off Oman coast, UK maritime agency says]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b815cdb15f21fc09cd79c58a01af23fa6137c2e0f5b37462542bf3e2f27ddd2c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe183e15ee4e185483a5f3174b65d3edb.jpg" alt="" /></p>A crude oil tanker has come under fire in the Strait of Hormuz, the United Kingdom Maritime Trade Operations (UKMTO) said late on Friday. The vessel was struck on its port side by an unknown projectile, UKMTO said, citing the ship's captain.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/crude-oil-tanker-attacked-off-010338831.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crude-oil-tanker-attacked-off-010338831.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iranians charged with terrorism in attack on U.K. Jewish community]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/335507c2ee0f8f98e6895ba7f4a6d604142eaaa7f3b4aae01f57727268585d82/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2F487888ee07903620cff0eff6893679d9.jpg" alt="" /></p>British prosecutors on Friday charged two Iranian nationals with terrorism for allegedly planning an attack on the Jewish community in Manchester.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/iranians-charged-terrorism-attack-u-010157530.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iranians-charged-terrorism-attack-u-010157530.html</guid>
+            <dc:creator><![CDATA[UPI]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FlyDubai pilot tells his survival story in emotional call with Indian leader]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e21b3c80a7aecdaa0b5f33d1f175a0adf3b360b266e1cbed2fe856f39d237e22/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F5944987f8909ef0c5ecb28adc48ddcbd.png" alt="" /></p>The FlyDubai captain attacked by his co-pilot tells his harrowing survival story to India's leader in an emotional video call from his hospital bed.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/flydubai-pilot-tells-survival-story-105700856.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flydubai-pilot-tells-survival-story-105700856.html</guid>
+            <dc:creator><![CDATA[CBS News]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Malaysia court rejects 'act of God' defense in 2021 flood case, finds government negligent]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/cdf7f52ea10220192e49eeebadee45dea1a4e075245a79891a7f00581ad587f9/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fbb5ade87859299eb227dbc5f65818955.jpg" alt="" /></p>The meteorological department did not issue warnings at the correct danger level in time.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/malaysia-court-rejects-act-god-003400543.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/malaysia-court-rejects-act-god-003400543.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds attend Antifa demonstration ahead of German Unity Day]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/6d254d9c410adb81e555d9a25df032b722f6ba71e01a5d97a59387b007444c06/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F29c4bc2d984201fc1adf6554083d7a56.jpg" alt="" /></p>Hundreds of people joined an Antifa demonstration in the northern German city of Bremen on Friday, a day before German Unity Day celebrations. The rally was registered by the Bremen Anti-Fascism Grassroots Group under the slogan: "No peace with the nation!" Shortly before the demonstration drew to a close in the early evening, a police spokesman put the number of participants at around 700.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/hundreds-attend-antifa-demonstration-ahead-003326148.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hundreds-attend-antifa-demonstration-ahead-003326148.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The South African men trying to end violence against women: 'Every man needs to play a part']]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a1b11c896047132c625f2b44005f2fb6fe93313e0152de3ec3b07f06eaeaf5e3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F2bdeadcd9caee261fb442203786ec815.jpg" alt="" /></p>The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/south-african-men-trying-end-235625747.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-african-men-trying-end-235625747.html</guid>
+            <dc:creator><![CDATA[BBC]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Study Finds Pro-Beijing Bias in Popular Chinese AI]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ac9d2f107beea9d67da531c92787b3ab4884393eb8d6e9a960b9619b3ce8de81/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsmax_809%2F9fc23f05ee7e6df99082d364efe063a6.jpg" alt="" /></p>Study Finds Pro-Beijing Bias in Popular Chinese AI]]></description>
+            <link>https://www.yahoo.com/news/world/articles/study-finds-pro-beijing-bias-233628478.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/study-finds-pro-beijing-bias-233628478.html</guid>
+            <dc:creator><![CDATA[Newsmax]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US closes embassy in Brazil over security concerns ahead of election]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31d826d4c048741beb9d21bbee9ae7f751c439495eb959652cb1e00fcfcc10a2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F54d9010a45bf537a19af59cfcc1f9a97.jpg" alt="" /></p>The United States on Friday temporarily suspended consular services in Brazil over security concerns, two days before the country's presidential election. US citizens were urged not to visit diplomatic facilities, even in emergencies, and to seek assistance remotely instead, the US embassy in Brazil said.]]></description>
+            <link>https://www.yahoo.com/news/world/articles/us-closes-embassy-brazil-over-233327296.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-closes-embassy-brazil-over-233327296.html</guid>
+            <dc:creator><![CDATA[dpa]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Navy puts its Mk 48 torpedo on British robotic submarine for the first time]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ee78ee27cb0473c734308f1c4a53c14df66484b127db2723d2adfaba41eeb420/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Fbdbadada5e38f613460f1fa6cdaf0aeb.jpg" alt="" /></p>A British robotic submarine just fired an American heavyweight torpedo, opening a new chapter in allied underwater warfare]]></description>
+            <link>https://www.yahoo.com/news/world/articles/us-navy-puts-mk-48-233000450.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-navy-puts-mk-48-233000450.html</guid>
+            <dc:creator><![CDATA[TechRadar]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irish couple say raw sewage made home uninhabitable, ask court to stop rebuild]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8352d61346aae8a0edc6d7f5b3df16f182e03c73b40ebd214d50fb5d0f7fcbd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Ff5d5572a6cfea763a8324176f32fc2af.jpg" alt="" /></p>"The consequences were extremely distressing and caused serious concern for our health and safety."]]></description>
+            <link>https://www.yahoo.com/news/world/articles/irish-couple-raw-sewage-made-232800666.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/irish-couple-raw-sewage-made-232800666.html</guid>
+            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact Check: FAKE 'Leaked Video' Of FlyDubai Pilot Argument Is AI-Generated -- Audio Is From 2017 Road-Rage Clip]]></title>
+            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0b6c64914f9f2f5789a65c847a5d12ce89e13be0db1542ead0cc124d908975ba/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flead_stories_560%2F20dcc3cd83b07b42d9d854673444fb6a.jpg" alt="" /></p>Does a real "leaked video" show an argument between FlyDubai pilots? No, that's not true: An AI detection tool assessed the clip and concluded that it was 95.8% "Likely to be AI-generated," while the audio came from a 2017 road-rage...]]></description>
+            <link>https://www.yahoo.com/news/world/articles/fact-check-fake-leaked-video-232423772.html</link>
+            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/fact-check-fake-leaked-video-232423772.html</guid>
+            <dc:creator><![CDATA[Lead Stories]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 05:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Women given shorts at Oktoberfest to prevent upskirting]]></title>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2e20a02cb985f6640b768382a96fc1b0b3e25ca431a6130e3c74433f6c84a5dc/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fc5dfc30cbccc80049198ae2a741abc2c.jpg" alt="" /></p>The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.]]></description>
             <link>https://www.yahoo.com/news/world/articles/women-given-shorts-oktoberfest-prevent-231609976.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/women-given-shorts-oktoberfest-prevent-231609976.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -21,7 +260,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/79a3294cb40032bce3a660e1a5affa5958a54d94e84eb3b4251c01ee98023dc3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F48dca87224207fcb2127e3dd72958b41.jpg" alt="" /></p>India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.]]></description>
             <link>https://www.yahoo.com/news/world/articles/vanishing-world-indias-street-magicians-225913873.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/vanishing-world-indias-street-magicians-225913873.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -29,7 +267,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b8e717773984fab07ac19ba9a739220c3a18ab597f0a18853d773667d79d6875/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2Fd4a033d20adcdea530c0e0c50929d80b.jpg" alt="" /></p>Smit Machchhar recalls midair disaster after co-pilot’s attack on Flydubai flight to Tel Aviv.]]></description>
             <link>https://www.yahoo.com/news/world/articles/flydubai-pilot-recounts-cockpit-stabbing-225023435.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flydubai-pilot-recounts-cockpit-stabbing-225023435.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -37,7 +274,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/ceb42e025c7439b3c4fbf5d056206ff95ef509189f925a57f9df5e9ea0427be3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ff170995f9538906581abc00301d9570c.jpg" alt="" /></p>The man accused of murdering veteran British politician Ann Widdecombe has also been charged with a terror plot against Reform UK leader Nigel Farage. Joshua Kerry, 28, is charged with one count of preparation of terrorist acts relating to alleged activity between May 31, 2024, and July 8, 2026, Counter Terrorism Policing said.]]></description>
             <link>https://www.yahoo.com/news/world/articles/man-accused-murdering-uk-politician-224825664.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-accused-murdering-uk-politician-224825664.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -45,7 +281,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/2d76931076627e6fd8b4c2309aa6af1ea9d4487669a44502a37da0d28eb7dd21/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F7eac4be25eff1735eeb2041c788dec55.jpg" alt="" /></p>"The current approach is not working."]]></description>
             <link>https://www.yahoo.com/news/world/articles/london-mayor-says-e-bike-222200495.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-mayor-says-e-bike-222200495.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -53,7 +288,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a4f81db0eccc85f809d05077d0f324ac9be3deb5fd86218f5992ef03414e11c8/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbusiness_insider_consolidated_articles_886%2F348179cbe015dd3b2e3e7ebbaf008d97.jpg" alt="" /></p>A large eyewear chain is pausing sales of Meta's AI glasses over privacy concerns.]]></description>
             <link>https://www.yahoo.com/news/world/articles/netherlands-considers-banning-meta-ai-221712703.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/netherlands-considers-banning-meta-ai-221712703.html</guid>
-            <dc:creator><![CDATA[Business Insider]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -61,7 +295,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/52a242d4ef3d0af205d525a4a88170effd465bccdb80a6e13307491dbc6a86b6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F38368000af305d30cba24dcff1dc4985.jpg" alt="" /></p>SEOUL, South Korea (AP) — North Korea fired at least one ballistic missile toward the sea on Saturday, South Korea’s military said, extending a recent run of weapons tests during heightened tensions between the rivals over border land mine blasts that injured three South Korean soldiers.South Korea’s Joint Chiefs of Staff said it detected the missile being launched from the North’s eastern coastal Wonsan area, but didn’t immediately say how far the weapon flew.]]></description>
             <link>https://www.yahoo.com/news/world/articles/south-korea-military-says-north-220125825.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-korea-military-says-north-220125825.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -69,7 +302,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f54ddaf8f608ddc22013070d15978e6c1398b6c47042883aec7c9da5a4d25b2b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F7bc9fa117f5a1cb67ac2b8310363ca12.jpg" alt="" /></p>The pilot suspected of having attacked another pilot aboard a Tel Aviv-bound Flydubai flight on Wednesday was removed from a previous job at Oman’s national airline last year following concerns about his extremist views, sources familiar with the matter told CNN.]]></description>
             <link>https://www.yahoo.com/news/world/articles/flydubai-attack-suspect-removed-another-215406995.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flydubai-attack-suspect-removed-another-215406995.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -77,7 +309,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9f97863be03e687aac91d5d62c86fad69e153640182888ecd13ed348de8e4274/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff55e784e17807609d180bde43669a44f.jpg" alt="" /></p>Sophie Howe says she helped scrap the M4 relief road over climate concerns.]]></description>
             <link>https://www.yahoo.com/news/world/articles/no-jobs-dead-planet-former-214948594.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/no-jobs-dead-planet-former-214948594.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -85,7 +316,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f7a6ea46dff914803b280c7916bec90677f30be75f94935598beb3ba4629357a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F0661ec5b21a9cfe79868f61323c5123c.jpg" alt="" /></p>Hundreds of photos have been found and placed on the graves through finding soldiers' relatives online.]]></description>
             <link>https://www.yahoo.com/news/world/articles/photos-forgotten-war-heroes-tracked-214819531.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/photos-forgotten-war-heroes-tracked-214819531.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -93,7 +323,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/53ec3aa39afcd88e87a25228e0047722f40dd35b0680a39809f7a9c6d7484def/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F1b672f74bcdd5bd57c9a145771bdaebc.jpg" alt="" /></p>Two Iranian men have been charged with terror offenses over an alleged plot to attack the Jewish community in Manchester on the eve of Yom Kippur, the latest in a wave of antisemitic attacks in the UK this year.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uk-charges-2-iranian-men-214335371.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-charges-2-iranian-men-214335371.html</guid>
-            <dc:creator><![CDATA[CNN]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -101,7 +330,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3d76a27dcf223050b321fd2b1b568586ca7e6b6ff429393736263e13fdbc349e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa6cb629ad6a2bc5441f973cc75643f95.jpg" alt="" /></p>The regulator said the bags do not comply with the REACH Enforcement Regulations.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uk-supermarkets-recall-tote-bags-213800273.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-supermarkets-recall-tote-bags-213800273.html</guid>
-            <dc:creator><![CDATA[The Cool Down]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -109,7 +337,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b102c7ef752f8bb127bcd0f28b23d7b1e4777d6aba1660ed6cf3664fd6dcba5c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechlicious_741%2Fc85de389001afc94b4f233ea36429cdd.jpg" alt="" /></p>OpenAI told New South Wales on October 1 that one of its AI models pulled non-public fire statistics in June, months before the state knew.]]></description>
             <link>https://www.yahoo.com/news/world/articles/another-openai-hack-ai-agent-213755318.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/another-openai-hack-ai-agent-213755318.html</guid>
-            <dc:creator><![CDATA[Techlicious]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -117,7 +344,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a906c7aed32e0c1cd7e96dad068f1f03aa52bde8757454708f60d5bdf6b85dd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.]]></description>
             <link>https://www.yahoo.com/news/world/articles/hawaiis-iconic-550-old-h-210045904.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/hawaiis-iconic-550-old-h-210045904.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -125,7 +351,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/db0a1cdb69b8d259cd7827027dcde6836c20925c7bd207db7140ccf0545f82d0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F13d0e924b89fb09d5feee0fc01cd6742.jpg" alt="" /></p>The FlyDubai co-pilot was reportedly grounded by Oman Air in 2024 over visits to radical Islamic websites before being hired without a background check.]]></description>
             <link>https://www.yahoo.com/news/world/articles/flydubai-co-pilot-accused-cockpit-212015709.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/flydubai-co-pilot-accused-cockpit-212015709.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -133,7 +358,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/cebe66e56d9231d3066919c44830d7b9b9d6df9c29396745dd3db6e5fb424d1f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2Ffa8d97fbac9e91ba07abd2465008b770.jpg" alt="" /></p>China's influence in Latin America is now viewed more positively than that of the United States, a major poll conducted in 17 Latin American countries showed Friday.It showed 57 percent of people in Latin America considering the United States to be a positive influence, down from 60 percent in 2020.]]></description>
             <link>https://www.yahoo.com/news/world/articles/china-better-influence-latin-america-211951647.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/china-better-influence-latin-america-211951647.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -141,7 +365,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/67c7c1d3989a29f9dee1aae4f647fb226fe9cb47599cf65bd3465d8687f6a370/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F4df2b4f4e44c4c9fc9d9831d3051145b.jpg" alt="" /></p>consular services and the Australian embassy in Brazil closed Friday citing security concerns, two days before the country's presidential election, authorities from both countries said.Also on Friday, Brazil’s federal police said they executed search and seizure warrants in Sao Paulo and the Federal District as part of an investigation into suspected plans that could threaten U.]]></description>
             <link>https://www.yahoo.com/news/world/articles/us-australia-suspend-consular-services-211656588.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/us-australia-suspend-consular-services-211656588.html</guid>
-            <dc:creator><![CDATA[Associated Press]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -149,7 +372,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c163f27f276dda79c1a9072a51a6210a10f0a6740c39051a27f0821cef630cd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Fa5099f2c70ae673415381538e23d6ba4.png" alt="" /></p>Ukraine's drone chief says humanity is "losing control" of AI weapons, calling it a panopticon even as drones continue to get increasingly 'smarter' on the front line]]></description>
             <link>https://www.yahoo.com/news/world/articles/ukraine-drone-chief-targeted-20-211000216.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ukraine-drone-chief-targeted-20-211000216.html</guid>
-            <dc:creator><![CDATA[TechRadar]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -157,7 +379,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/fceb82066c91357042adb4358277dd00847e1a8238f962fe7cc8327a4b738660/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F2ecdc3acec816e40f86d7e07baf23243.jpg" alt="" /></p>British prosecutors charged Ann Widdecombe murder suspect Joshua Kerry with preparing terrorist acts allegedly targeting Reform UK leader Nigel Farage.]]></description>
             <link>https://www.yahoo.com/news/world/articles/uk-man-accused-planning-terrorism-210709236.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/uk-man-accused-planning-terrorism-210709236.html</guid>
-            <dc:creator><![CDATA[Fox News]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -165,7 +386,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a1b8524d1ca0d5465dd12b49259b1ee82815a6f8d73abc9853a388771f61c5a1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6ff185cc35a2f2764801b43d22a8736a.jpg" alt="" /></p>In recent years, the King has expressed his "personal sorrow" at the UK's role in slavery.]]></description>
             <link>https://www.yahoo.com/news/world/articles/kings-caribbean-tour-not-shy-210527313.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/kings-caribbean-tour-not-shy-210527313.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -173,7 +393,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/67b64c916945f16139777715d911ea42d57d4188c5f2d72981410d2bf1f2a20e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F4e19b5db5507c9d4d90ea2fe11dc46dc.jpg" alt="" /></p>Annual Latinobarometro survey finds views of China’s influence improving as perceptions of US influence worsen.]]></description>
             <link>https://www.yahoo.com/news/world/articles/latin-america-sees-china-more-205229276.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/latin-america-sees-china-more-205229276.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -181,7 +400,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/8e029ede7ab7b3769ce34aac310ee44f4c1ffb65987e81c29eca5dfe66f5ecbf/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F6bb027ecebf2fe2b0bd36cc15da2648f.jpg" alt="" /></p>More than 5,000 people have been detained since Monday during protests by French students, Interior Minister Laurent Nuñez told the French television channel TF1 on Friday. Nuñez said that 1,747 people had been detained on Friday and 1,954 on Thursday.]]></description>
             <link>https://www.yahoo.com/news/world/articles/france-5-000-arrests-violent-204831999.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/france-5-000-arrests-violent-204831999.html</guid>
-            <dc:creator><![CDATA[dpa]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -189,7 +407,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/f2d8878921bee383cbace7afded7dbb5f89f59885640ef6b2e1eb0fe90d0b1e7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F0681fd56909c5ce7be3548adfbe05e15.jpg" alt="" /></p>Pro-government militias in Ethiopia on Friday claimed they had captured a major airport near the Tigrayan capital from rebels, as the conflict triggered a breakdown in the country's relations with Eritrea and Egypt.In a post on X, the pro-government militia, the Tigray Peace Force, claimed to have "taken full control of Mekelle Alula Aba Nega Airport" roughly 10 kilometres (six miles) outside the regional capital.]]></description>
             <link>https://www.yahoo.com/news/world/articles/ethiopia-tigray-rebels-pushed-back-140312375.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/ethiopia-tigray-rebels-pushed-back-140312375.html</guid>
-            <dc:creator><![CDATA[AFP]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -197,7 +414,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/88d8970e5825a3861bc3572c089b09d65362f9381a45b05b0c4ee13eb1c6628d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fus.abcnews.go.com%2F77031ed5d1991aef259a502ad4488229.jpg" alt="" /></p>The disclosure adds to a flurry of AI hacks recently revealed by the company.]]></description>
             <link>https://www.yahoo.com/news/world/articles/openai-reveals-another-hack-government-204404747.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/openai-reveals-another-hack-government-204404747.html</guid>
-            <dc:creator><![CDATA[ABC News]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -205,7 +421,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e2886cfcf9ea8fbd1eb76528381e17fe5ba4a1caaa3be838c1468464d08087fb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fedcfbaf3bc4c3ce1157f82f8d0396340.png" alt="" /></p>Ashford Borough Council's plans to restore the building will be examined this month.]]></description>
             <link>https://www.yahoo.com/news/world/articles/former-odeon-8-3m-restoration-203758798.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/former-odeon-8-3m-restoration-203758798.html</guid>
-            <dc:creator><![CDATA[BBC]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -213,7 +428,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9889b4541854c9637e5d198e58a92706869e26a945301a4d657c639c02b3cbb5/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F405b92ebca81fd81436012748d0b8ac0.jpg" alt="" /></p>Mahan Air is excluded from the agreement as Baghdad says Washington granted its request for a waiver.]]></description>
             <link>https://www.yahoo.com/news/world/articles/iraq-grants-iranian-airlines-40-203202711.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/iraq-grants-iranian-airlines-40-203202711.html</guid>
-            <dc:creator><![CDATA[Al Jazeera]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -221,7 +435,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d87dee5048575a154727c31d1e74de09556c12259090450391753584644a1440/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2Fb71077eed3ca978c9ce066d55f4158e6.jpg" alt="" /></p>Saudi Arabia is believed to be planning a military offensive to drive Houthi rebels from Yemen’s Red Sea coast.]]></description>
             <link>https://www.yahoo.com/news/world/articles/saudis-plot-assault-houthis-retake-202000860.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/saudis-plot-assault-houthis-retake-202000860.html</guid>
-            <dc:creator><![CDATA[The Telegraph]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -229,7 +442,6 @@
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/0c1e811d963b85dfcddc6b615cde0a96a9b3836ab8caa137cc365a57b6288bc2/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbc_news_122%2F3186279500dd28d6f25a033112781da1.jpg" alt="" /></p>British police said Friday that they had charged two Iranian nationals accused of plotting a terrorist attack against the Jewish community in Manchester on the eve of Yom Kippur, the holiest day in the Jewish calendar.]]></description>
             <link>https://www.yahoo.com/news/world/articles/two-iranian-nationals-charged-over-195922472.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/two-iranian-nationals-charged-over-195922472.html</guid>
-            <dc:creator><![CDATA[NBC News]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 00:05:07 GMT</pubDate>
         </item>
         <item>
@@ -6840,216 +7052,6 @@ amn-cc/sbk/kjm/db]]></description>
             <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/006cb423f997abcd8238561ff27acf191757da633998dbb58203f730d83e0ea7/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Ffe24f8171fbac8038127f55d55f47c53.jpg" alt="" /></p>Run-off elections to decide mayors and district administrators across numerous municipalities in the north-western German state of Lower Saxony got under way on Sunday. Where no candidate secured more than 50% of the vote two weeks ago, the two leading contenders are facing each other again.]]></description>
             <link>https://www.yahoo.com/news/world/articles/afd-eyes-mayoral-position-germanys-073333566.html</link>
             <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/afd-eyes-mayoral-position-germanys-073333566.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nepal asks UN loss-and-damage fund for $20m after floods — equal to just 0.7% of losses]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/b1fb93aed1ebb61b4f933e214e41cfa9d7501f519b88c978a1c6ef23347b3271/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2F8f03a47a3c7d94000dc76ed84d5ed541.jpg" alt="" /></p>"That money is going to be a peanut if it was to be invested into reconstruction."]]></description>
-            <link>https://www.yahoo.com/news/world/articles/nepal-asks-un-loss-damage-070900952.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/nepal-asks-un-loss-damage-070900952.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Man charged with murdering woman in Darlington]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5fb72ffd843f8503695b7bdb47c962b1796d8fbb99c767117fea0ef8df148ad1/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F4d58c3e745fe830e763f11c95782b6dd.jpg" alt="" /></p>Andrew Bell, 44 and from Darlington, is due to appear before magistrates on Monday.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/man-charged-murdering-woman-darlington-070607287.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/man-charged-murdering-woman-darlington-070607287.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On This Day, Sept. 27: Locomotive pulls first passenger train]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/865ad298213c6e4769fc9114fd7e770d6148af24be151ebeb9238ca45dbc244a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Funited_press_international_articles_356%2Fb8f0e02e0e3f0422ef1c6eab6716f36e.jpg" alt="" /></p>On Sept. 27, 1825, in England, George Stephenson operated the first locomotive to pull a passenger train.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/day-sept-27-locomotive-pulls-070006346.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/day-sept-27-locomotive-pulls-070006346.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/31e293885c3b77086df9710e68b0b2b80798c2a3529b76c74fbb14a34dbb563d/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2Fc4811c173eb79fb9f14d174c1223b116.jpg" alt="" /></p>The Palestinian death toll from the nearly three-year Israel-Hamas war has surpassed 74,000, according to Gaza’s Health Ministry.  While a ceasefire that took effect last Oct. 10 has halted the heaviest fighting, Israeli strikes have continued in what the military has said are responses to threats or attacks.  Gaza’s Health Ministry on Saturday said the Palestinian death toll has risen to 74,016 people, with 175,068 wounded.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/palestinian-death-toll-gaza-war-064828884.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/palestinian-death-toll-gaza-war-064828884.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protests as controversial Drumcree Orange Order march due to go ahead for first time since 1997]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/303687a256347c67b125b82caf2827bd93811df351a62232ee22547cb0cfb54c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fd88bf3fb0b0b065c9dde05a6fcd840cb.jpg" alt="" /></p>The march, which in the 1990s sparked some of the most serious disorder in Northern Ireland's history, will go ahead after a series of courtroom challenges.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/controversial-drumcree-orange-order-march-064805311.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/controversial-drumcree-orange-order-march-064805311.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[London Stadium 'should be sold to West Ham']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/27a1ab08800eeb93840f4520b2c9b9bdd7e148081ec74967050ed936137d788c/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F3adfa210279fc01cbb508df05dcdb3fe.jpg" alt="" /></p>A Labour assembly member says the club's rental deal has been "disastrous" for London taxpayers.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/london-stadium-sold-west-ham-064654027.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/london-stadium-sold-west-ham-064654027.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slow-worms could stay put under new homes plan]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/96b95e8f8ef13218893aa9b46c7298ebe22cd3716ef9fb307b3f6b9ed3fcc286/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe026e63be7a33f402251e9ff41f1d21d.jpg" alt="" /></p>The presence of the protected reptiles is holding back a plan to build eight news homes in Bromley.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/slow-worms-could-stay-put-064356527.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/slow-worms-could-stay-put-064356527.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[South Africa police launch manhunt after 17 killed in tavern shooting]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/78588c3a15d0841bfcf5c29a524ba3a2507ce0ad8d3d19edf9c568b64f241e3a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F2a7d0cfcda756273d069a707bf9e6f45.jpg" alt="" /></p>South African police launched a manhunt Sunday after 17 people were killed and 15 wounded in a shooting in a township outside Johannesburg.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/south-africa-police-launch-manhunt-063630974.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/south-africa-police-launch-manhunt-063630974.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russian foreign minister rejects Berlin's call to abandon 'dangerous' escalation]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1cf5d9ddaf9a79eb9b72ce102637d123d729f583a86277e94f310ad743893d82/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Feuronews_us_news_articles_566%2F0cd47658fce3f5d52d76d899f3881116.jpg" alt="" /></p>Tensions between Germany and Russia hit a flashpoint in early September after Berlin accused Russia of being behind a drone attack at Leipzig/Halle airport earlier this year.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russian-foreign-minister-rejects-berlins-063129475.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russian-foreign-minister-rejects-berlins-063129475.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Longest serving magistrate retires after 49 years]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/40e891b3c5c18ea2025b9a3cd70eda4bba94ce0dd427c7a993fcd34d41c9b7d3/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fcbd3bc1938efcb3f97ef6515510bd25d.jpg" alt="" /></p>Brian Goodhead was appointed nearly half a century ago as England's youngest magistrate when he was 25.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/longest-serving-magistrate-retires-49-063022026.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/longest-serving-magistrate-retires-49-063022026.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Football to the face revealed my daughter's cancer]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/238c1893e252599958cfedfd7d6ab3d7732fa5263e0f56f27be81e3648f3dbf6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ffe5ba2ff1d724ed0eb8c2f36e1d6a8fc.jpg" alt="" /></p>Aaron's daughter, Harper, was five years old when she was diagnosed with neuroblastoma.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/football-face-revealed-daughters-cancer-062117499.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/football-face-revealed-daughters-cancer-062117499.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Orangutan Nettie was a 'notorious people-watcher']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/3a989283132edd68fb82fe036c5c8cd5a11c586cc5e118070d73da8e2f05ef47/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F907bf5d05505de570b273daf536fa5cc.jpg" alt="" /></p>Zoo bosses said the surveilling simian was intrigued "by all comings and goings".]]></description>
-            <link>https://www.yahoo.com/news/world/articles/orangutan-nettie-notorious-people-watcher-062116753.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/orangutan-nettie-notorious-people-watcher-062116753.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['I was angry at my husband - I didn't know he had dementia']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5ce856c4101e28c67f567403afb554abffb347810d980a0c0ff99d6a26b3c2d0/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fe0723eb873c09dada331aedc2ae0785f.png" alt="" /></p>Helen Beaumont was told her husband was depressed. In fact he had young onset dementia.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/angry-husband-didnt-know-had-062113672.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/angry-husband-didnt-know-had-062113672.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music sessions for children with additional needs]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/00630310496e87313393fce63d10046c40b5f2e20ac1ccdaa87d2939e8db738f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fbb98e9fc7a6a50fde6441537ee6d81e5.png" alt="" /></p>Organisers hope the inclusive sessions will help to increase confidence and improve social skills.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/music-sessions-children-additional-needs-061916108.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/music-sessions-children-additional-needs-061916108.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Work continues on 'vital' Castle Cornet breakwater]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bd9bdd9244284d99112eff5e135a6caa844f16efe715627cf1d64b7590b5081f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F6a4a17a2bc2ec9a902f6dce6c7839292.jpg" alt="" /></p>Guernsey Ports said specialist contractors would be carrying out the masonry repointing.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/continues-vital-castle-cornet-breakwater-061913652.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/continues-vital-castle-cornet-breakwater-061913652.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Crunch time: Fuel price spike squeezes French baguette bakers as heating oil costs soar]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/be845db0ead2ab0ede10cfe17dd3d9690e206922757f879bdd05f2ab514d349e/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F6d7e7216f45b885756581d5b7ec40ea4.jpg" alt="" /></p>SAINT-JUST-EN-CHAUSSÉE, France (AP) — As the lights of their small bakery flicker on in the early morning darkness, Kevin and Sandrine Luce’s oven is already cranked up to 270 degrees Celsius (518 degrees Fahrenheit) to give their latest batch of baguettes a crunchy crust.  When the couple first fired up the oven in their store in Saint-Just-en-Chaussée, a small town about 90 kilometers (55 miles) north of Paris, in March, they paid 2,230 euros ($2,540) for 2,000 liters (528 gallons) of the heating oil that it burns.  Fuel prices that have spiked since the start of the Iran war on Feb. 28 are dealing a hard blow to the couple and other small businesses across Europe.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/crunch-time-fuel-price-spike-061254490.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/crunch-time-fuel-price-spike-061254490.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bumblebee project seeking to help rare species]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a906c7aed32e0c1cd7e96dad068f1f03aa52bde8757454708f60d5bdf6b85dd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>The programme to help the Moss carder species will focus on Cornwall, Kent and the North Pennines.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/bumblebee-project-seeking-help-rare-061252792.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/bumblebee-project-seeking-help-rare-061252792.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lifeguard cover reduced as summer season ends]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/a906c7aed32e0c1cd7e96dad068f1f03aa52bde8757454708f60d5bdf6b85dd6/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F64f68d93b7ec1b82597074ef63dcf9ba.png" alt="" /></p>The RNLI says as the summer season has finished some sites will move to weekend-only cover.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/lifeguard-cover-reduced-summer-season-061208111.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/lifeguard-cover-reduced-summer-season-061208111.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pope brings message to protect life to French shrine at Lourdes known for miraculous cures]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/9b274a875e61a8fa86fdd8747421e1b2293c39a46ed94a60237fb8643c45fb3f/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F40d8d6257535e5a7abfaef95e5b6ace9.jpg" alt="" /></p>Pope Leo XIV on Sunday took his opposition to euthanasia and medically assisted dying to Lourdes, the French Catholic shrine associated with miraculous cures and now also a place of healing for survivors of clergy sexual abuse.  Leo met with French bishops on Sunday and then was to celebrate Mass on the prairie next to Lourdes’ main basilica before an estimated 150,000 people.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/pope-brings-message-protect-life-060118462.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/pope-brings-message-protect-life-060118462.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The UN clown show is no longer funny]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/bb20a240f9a8c473351fd5914c6e08b79dd22de0226fd659f0da62ea9b24bf7b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F6c25cf2c385c22242ecae5ad26d2d465.jpg" alt="" /></p>Four days in the diplomatic madhouse. Tyrants, virtue signallers, narcissists, weaklings and prophets rubbing shoulders in dimly lit halls in New York, amid champagne receptions and the fragrance of leather interiors and expensive hotels.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/un-clown-show-no-longer-060000481.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/un-clown-show-no-longer-060000481.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The rebel offensive threatening to unleash war across Horn of Africa]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/818dfcdbbe98b092c49b4ffc8bd95d67b27791ab35cc1085d19aeccbb2aa7b5a/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F4728d1bbef8f45281863323f505c32c7.jpg" alt="" /></p>War has felt inevitable in the Tigrayan capital of Mekelle for months, and this week residents’ worst fears appear to have been realised.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/rebel-offensive-threatening-unleash-war-060000311.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/rebel-offensive-threatening-unleash-war-060000311.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Death toll in Indonesia's capsized Java Sea ferry rises to 64 as 71 people remain missing]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e6bf3cc2b6173bc67363a20c2854384ff6304626681cf528dc8b2cb2d8e398fc/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F91e2b5bbf69ef42215084258f96032f7.jpg" alt="" /></p>Indonesian rescuers recovered more bodies from the wreck of a ferry that capsized in the Java Sea two weeks ago, bringing the death toll to 64.  A search operation for 71 people still missing, all presumed dead, has been extended for seven days, the National Search and Rescue Agency’s Operation Director Yudhi Bramantyo.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/death-toll-indonesias-capsized-java-055155051.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/death-toll-indonesias-capsized-java-055155051.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[At least 27 people killed in two shootings in South African townships]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/1734aa9eb3b50bc2264396fb49df7758dbe737ff40920d0cb60339e09df2a990/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F99089d4f78a566b6a35069e591cf59f6.jpg" alt="" /></p>Incidents in Wedela southwest of Johannesburg and Lwandle near Cape Town come days after Durban mass shooting.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/least-17-killed-south-africa-054847183.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/least-17-killed-south-africa-054847183.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Russia and Putin the 'biggest threat' to UK security, minister warns]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/d88dfabedaff1a3f7e58508e4210ce1db5434081c3aac5bdbd8c75c94baeac85/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fe6c204add9ed29c5f5d0d9581307a980.jpg" alt="" /></p>British Defence Secretary Wes Streeting has labelled Russia and President Vladimir Putin the biggest threat to the country's security as he warned the UK is at the "greatest risk" of war in his life. Streeting said the threat was behind the decision to "deliver the biggest sustained increase in defence spending since the end of the Cold War.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/russia-putin-biggest-threat-uk-054844356.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/russia-putin-biggest-threat-uk-054844356.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Boeing identifies new software issue in 737 Max jets]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/04ff97488544b7a383ac97ef80800cfcfc4170bec7f4de3df4b0eed263695179/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2Fa260577b8ca8f819b8cfc86f3e5021cc.jpg" alt="" /></p>US aviation giant Boeing has identified a new software issue in its widely used 737 Max aircraft, the company said on Saturday. The problem can leave pilots without automated flight guidance during a specific landing scenario following an aborted landing attempt, the company said.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/boeing-identifies-software-issue-737-054840812.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/boeing-identifies-software-issue-737-054840812.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['Gaming pays me double what I earned as a teacher']]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/c2df9f3201a88fed0b711d714e821874a3b891479ec212a022b7c38d1a219f51/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F949e5706328e336fc26ef51dd8d53323.jpg" alt="" /></p>Jarvs Tasker says it would have taken her 20 years as a teacher to make what she earns now.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/gaming-pays-double-earned-teacher-053832403.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/gaming-pays-double-earned-teacher-053832403.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New warehouse pioneers system only used in China]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/615786821840fa72dab1a5cc8e66570b950084b344ac5504ae4e5f614ea5e534/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Fef36861849133004e922c8adbf6de01e.jpg" alt="" /></p>The enormous distribution centre in Northampton has robots and people working together.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/warehouse-pioneers-system-only-used-053202699.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/warehouse-pioneers-system-only-used-053202699.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA['You never know': The people preparing for the worst]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/e5788f18906614e3554e81af0a2028e53d6c25067df96d5c56f01d044b69506b/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F787e445ce5b5aca95fafd8b542f666f4.jpg" alt="" /></p>An ex-parish clerk, retired train driver and tech millionaire hope they will be ready for any crisis.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/never-know-people-preparing-worst-052753050.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/never-know-people-preparing-worst-052753050.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Town's 347-year-old clock to chime again]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/86a7216105c2aad6751cc99033ed6bbb7d1d311660211bcb042b4e5c74add1af/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F04517be054b71ceed599f7ae4e229abf.jpg" alt="" /></p>The mayor says the authority is committed to repairing the 17th Century tower and clock.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/towns-347-old-clock-chime-052358210.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/towns-347-old-clock-chime-052358210.html</guid>
-            <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In the EU, trains just edged past buses for the first time in a decade, but cars still rule]]></title>
-            <description><![CDATA[<p><img src="https://s.yimg.com/lo/mysterio/api/5c448a9205bc771c19c051be681c45c8e04ed4d8c171f3bd67a30f503a64b4eb/lightyear_networkapi/smartcrop_w896_h504_faces%3Bquality_95%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cool_down_737%2Fa22fd9f9a8b66fb2d5470497fd6b196a.jpg" alt="" /></p>Air travel saw the biggest shift of any mode, rising 3.6 percentage points.]]></description>
-            <link>https://www.yahoo.com/news/world/articles/eu-trains-just-edged-past-051900590.html</link>
-            <guid isPermaLink="true">https://www.yahoo.com/news/world/articles/eu-trains-just-edged-past-051900590.html</guid>
             <pubDate>Sun, 27 Sep 2026 08:47:06 GMT</pubDate>
         </item>
     </channel>
